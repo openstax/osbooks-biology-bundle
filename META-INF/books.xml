@@ -1,3 +1,4 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book />
+    <book slug="concepts-biology" collection-id="col11487" href="../collections/concepts-biology.collection.xml" />
+    <book slug="biology-ap-courses" collection-id="col12078" href="../collections/biology-ap-courses.collection.xml" />
 </container>
