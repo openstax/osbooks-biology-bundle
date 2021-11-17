@@ -1,0 +1,143 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Transcription</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45476</md:content-id>
+  <md:title>Transcription</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the central dogma</item>
+<item>Explain the main steps of transcription</item>
+<item>Describe how eukaryotic mRNA is processed</item>
+</list></md:abstract>
+  <md:uuid>4e4b8d50-98ac-40c5-9108-aff2b33d9180</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm251297776">In both prokaryotes and eukaryotes, the second function of DNA (the first was replication) is to provide the information needed to construct the proteins necessary so that the cell can perform all of its functions. To do this, the DNA is “read” or transcribed into an <term>mRNA</term> molecule. The mRNA then provides the code to form a protein by a process called translation. Through the processes of transcription and translation, a protein is built with a specific sequence of amino acids that was originally encoded in the DNA. This module discusses the details of transcription.</para>
+<section id="fs-idm272639392">
+<title>The Central Dogma: DNA Encodes RNA; RNA Encodes Protein</title>
+<para id="fs-idm163364432">The flow of genetic information in cells from DNA to mRNA to protein is described by the central dogma (<link target-id="fig-ch09_03_01" document=""/>), which states that genes specify the sequences of mRNAs, which in turn specify the sequences of proteins.</para>
+<figure id="fig-ch09_03_01">
+<media id="fs-idm246946032" alt="A flow chart shows DNA, with an arrow to RNA, which has an arrow to protein.">
+<image mime-type="image/jpg" src="../../media/Figure_09_03_01-fb6e.jpg" width="320"/>
+</media>
+<caption>The central dogma states that DNA encodes RNA, which in turn encodes protein.</caption>
+</figure>
+<para id="fs-idm140150544">The copying of DNA to mRNA is relatively straightforward, with one nucleotide being added to the mRNA strand for every complementary nucleotide read in the DNA strand. The translation to protein is more complex because groups of three mRNA nucleotides correspond to one amino acid of the protein sequence. However, as we shall see in the next module, the translation to protein is still systematic, such that nucleotides 1 to 3 correspond to amino acid 1, nucleotides 4 to 6 correspond to amino acid 2, and so on.</para>
+</section>
+<section id="fs-idm186750192">
+<title>Transcription: from DNA to mRNA</title>
+<para id="fs-idm202854864">Both prokaryotes and eukaryotes perform fundamentally the same process of transcription, with the important difference of the membrane-bound nucleus in eukaryotes. With the genes bound in the nucleus, transcription occurs in the nucleus of the cell and the mRNA transcript must be transported to the cytoplasm. The prokaryotes, which include bacteria and archaea, lack membrane-bound nuclei and other organelles, and transcription occurs in the cytoplasm of the cell. In both prokaryotes and eukaryotes, transcription occurs in three main stages: initiation, elongation, and termination.</para>
+<section id="fs-idm261773808">
+<title>Initiation</title>
+<para id="fs-idm163336272">Transcription requires the DNA double helix to partially unwind in the region of mRNA synthesis. The region of unwinding is called a <term>transcription bubble</term>. The DNA sequence onto which the proteins and enzymes involved in transcription bind to initiate the process is called a <term>promoter</term>. In most cases, promoters exist upstream of the genes they regulate. The specific sequence of a promoter is very important because it determines whether the corresponding gene is transcribed all of the time, some of the time, or hardly at all (<link target-id="fig-ch09_03_02" document=""/>).</para>
+<figure id="fig-ch09_03_02">
+<media id="fs-idm149093872" alt="Illustration shows a template strand and nontemplate strand of DNA, with a promoter section in red on the template strand. Downstream of the promoter is an RNA polymerase where RNA is being synthesized.">
+<image mime-type="image/jpg" src="../../media/Figure_09_03_02-7bad.jpg" width="350"/>
+</media>
+<caption>The initiation of transcription begins when DNA is unwound, forming a transcription bubble. Enzymes and other proteins involved in transcription bind at the promoter.</caption>
+</figure>
+</section>
+<section id="fs-idm196004880">
+<title>Elongation</title>
+<para id="fs-idm231361840">Transcription always proceeds from one of the two DNA strands, which is called the <term>template strand</term>. The mRNA product is complementary to the template strand and is almost identical to the other DNA strand, called the <term>nontemplate strand</term>, with the exception that RNA contains a uracil (U) in place of the thymine (T) found in DNA. During elongation, an enzyme called <term>RNA polymerase</term> proceeds along the DNA template adding nucleotides by base pairing with the DNA template in a manner similar to DNA replication, with the difference that an RNA strand is being synthesized that does not remain bound to the DNA template. As elongation proceeds, the DNA is continuously unwound ahead of the core enzyme and rewound behind it (<link target-id="fig-ch09_03_03" document=""/>).</para>
+<figure id="fig-ch09_03_03">
+<media id="fs-idm186648224" alt="Illustration shows RNA synthesis by RNA polymerase. The RNA strand is synthesized in the 5' to 3' direction.">
+<image mime-type="image/jpg" src="../../media/Figure_09_03_03.jpg" width="500"/>
+</media>
+<caption>During elongation, RNA polymerase tracks along the DNA template, synthesizes mRNA in the 5' to 3' direction, and unwinds then rewinds the DNA as it is read.</caption>
+</figure>
+</section>
+<section id="fs-idm210831152">
+<title>Termination</title>
+<para id="fs-idm205159088">Once a gene is transcribed, the prokaryotic polymerase needs to be instructed to dissociate from the DNA template and liberate the newly made mRNA. Depending on the gene being transcribed, there are two kinds of termination signals, but both involve repeated nucleotide sequences in the DNA template that result in RNA polymerase stalling, leaving the DNA template, and freeing the mRNA transcript.</para>
+<para id="fs-idm77546896">On termination, the process of transcription is complete. In a prokaryotic cell, by the time termination occurs, the transcript would already have been used to partially synthesize numerous copies of the encoded protein because these processes can occur concurrently using multiple ribosomes (polyribosomes) (<link target-id="fig-ch09_03_04" document=""/>). In contrast, the presence of a nucleus in eukaryotic cells precludes simultaneous transcription and translation.</para>
+<figure id="fig-ch09_03_04">
+<media id="fs-idm140676480" alt="Illustration shows multiple mRNAs being transcribed off one gene. Ribosomes attach to the mRNA before transcription is done and begin making protein.">
+<image mime-type="image/jpg" src="../../media/Figure_09_03_04.jpg" width="400"/>
+</media>
+<caption>Multiple polymerases can transcribe a single bacterial gene while numerous ribosomes concurrently translate the mRNA transcripts into polypeptides. In this way, a specific protein can rapidly reach a high concentration in the bacterial cell.</caption>
+</figure>
+</section>
+</section>
+<section id="fs-idm206358928">
+<title>Eukaryotic RNA Processing</title>
+<para id="fs-idm162862528">The newly transcribed eukaryotic mRNAs must undergo several processing steps before they can be transferred from the nucleus to the cytoplasm and translated into a protein. The additional steps involved in eukaryotic mRNA maturation create a molecule that is much more stable than a prokaryotic mRNA. For example, eukaryotic mRNAs last for several hours, whereas the typical prokaryotic mRNA lasts no more than five seconds.</para>
+<para id="fs-idm105982144">The mRNA transcript is first coated in RNA-stabilizing proteins to prevent it from degrading while it is processed and exported out of the nucleus. This occurs while the pre-mRNA still is being synthesized by adding a special nucleotide “cap” to the 5' end of the growing transcript. In addition to preventing degradation, factors involved in protein synthesis recognize the cap to help initiate translation by ribosomes.</para>
+<para id="fs-idm202965792">Once elongation is complete, an enzyme then adds a string of approximately 200 adenine residues to the 3' end, called the poly-A tail. This modification further protects the pre-mRNA from degradation and signals to cellular factors that the transcript needs to be exported to the cytoplasm.</para>
+<para id="fs-idm218084608">Eukaryotic genes are composed of protein-coding sequences called <term>exons</term> (<emphasis effect="italics">ex-</emphasis>on signifies that they are <emphasis effect="italics">ex</emphasis>pressed) and <emphasis effect="italics">int</emphasis>ervening sequences called <term>introns</term> (<emphasis effect="italics">int-</emphasis>ron denotes their <emphasis effect="italics">int</emphasis>ervening role). Introns are removed from the pre-mRNA during processing. Intron sequences in mRNA do not encode functional proteins. It is essential that all of a pre-mRNA’s introns be completely and precisely removed before protein synthesis so that the exons join together to code for the correct amino acids. If the process errs by even a single nucleotide, the sequence of the rejoined exons would be shifted, and the resulting protein would be nonfunctional. The process of removing introns and reconnecting exons is called <term>splicing</term> (<link target-id="fig-ch09_03_05" document=""/>). Introns are removed and degraded while the pre-mRNA is still in the nucleus.</para>
+<figure id="fig-ch09_03_05">
+<media id="fs-idm13090336" alt="Illustration shows a primary RNA transcript with three exons and two introns. In the spliced transcript, the introns are removed and the exons are fused together. A 5' cap and poly-A tail have also been added.">
+<image mime-type="image/jpg" src="../../media/Figure_09_03_05.jpg" width="370"/>
+</media>
+<caption>Eukaryotic mRNA contains introns that must be spliced out. A 5' cap and 3' tail are also added.</caption>
+</figure>
+</section>
+<section id="fs-idm184754816" class="summary">
+<title>Section Summary</title><para id="fs-idm251532880">In prokaryotes, mRNA synthesis is initiated at a promoter sequence on the DNA template. Elongation synthesizes new mRNA. Termination liberates the mRNA and occurs by mechanisms that stall the RNA polymerase and cause it to fall off the DNA template. Newly transcribed eukaryotic mRNAs are modified with a cap and a poly-A tail. These structures protect the mature mRNA from degradation and help export it from the nucleus. Eukaryotic mRNAs also undergo splicing, in which introns are removed and exons are reconnected with single-nucleotide accuracy. Only finished mRNAs are exported from the nucleus to the cytoplasm.</para>
+</section>
+<section id="fs-idm196076544" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm147061712">
+<problem id="fs-idm274107136">
+<para id="fs-idm179316000">A promoter is ________.</para>
+<list id="fs-idm137047744" list-type="enumerated" number-style="lower-alpha">
+<item>a specific sequence of DNA nucleotides</item>
+<item>a specific sequence of RNA nucleotides</item>
+<item>a protein that binds to DNA</item>
+<item>an enzyme that synthesizes RNA</item>
+</list>
+</problem>
+<solution id="fs-idm123900096">
+<label/>
+<para id="fs-idm181228800">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm188021216">
+<problem id="fs-idm29928336">
+<para id="fs-idm120754960">Portions of eukaryotic mRNA sequence that are removed during RNA processing are ________.</para>
+<list id="fs-idm183904816" list-type="enumerated" number-style="lower-alpha">
+<item>exons</item>
+<item>caps</item>
+<item>poly-A tails</item>
+<item>introns</item>
+</list>
+</problem>
+<solution id="fs-idm114730560">
+<label/>
+<para id="fs-idm226433808">D</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm310909024">
+<term>exon</term> <meaning id="fs-idm125636496">a sequence present in protein-coding mRNA after completion of pre-mRNA splicing</meaning>
+</definition>
+<definition id="fs-idm136345936">
+<term>intron</term> <meaning id="fs-idm244751152">non–protein-coding intervening sequences that are spliced from mRNA during processing</meaning>
+</definition>
+<definition id="fs-idm110862496">
+<term>mRNA</term> <meaning id="fs-idm996160">messenger RNA; a form of RNA that carries the nucleotide sequence code for a protein sequence that is translated into a polypeptide sequence</meaning>
+</definition>
+<definition id="fs-idm311346400">
+<term>nontemplate strand</term> <meaning id="fs-idm186641232">the strand of DNA that is not used to transcribe mRNA; this strand is identical to the mRNA except that T nucleotides in the DNA are replaced by U nucleotides in the mRNA</meaning>
+</definition>
+<definition id="fs-idm145978432">
+<term>promoter</term> <meaning id="fs-idm112082400">a sequence on DNA to which RNA polymerase and associated factors bind and initiate transcription</meaning>
+</definition>
+<definition id="fs-idm145539664">
+<term>RNA polymerase</term> <meaning id="fs-idm244502224">an enzyme that synthesizes an RNA strand from a DNA template strand</meaning>
+</definition>
+<definition id="fs-idm261278336">
+<term>splicing</term> <meaning id="fs-idm143888832">the process of removing introns and reconnecting exons in a pre-mRNA</meaning>
+</definition>
+<definition id="fs-idm184791488">
+<term>template strand</term> <meaning id="fs-idm228484496">the strand of DNA that specifies the complementary mRNA molecule</meaning>
+</definition>
+<definition id="fs-idm248644048">
+<term>transcription bubble</term> <meaning id="fs-idm119804080">the region of locally unwound DNA that allows for transcription of mRNA</meaning>
+</definition>
+</glossary>
+</document>

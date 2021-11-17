@@ -1,0 +1,28 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62797</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>dbd95fc8-94bb-4c71-ac45-ed25fe7567e8</md:uuid>
+</metadata>
+
+<content>
+<figure id="fig-ch09-00-01" class="splash"><media id="fs-id2575198" alt="This photo shows a crowd of people at a festival.">
+<image mime-type="image/jpg" src="../../media/Figure_09_01_00.jpg" width="500"/>
+</media>
+
+<caption>Have you ever become separated from a friend while in a crowd? If so, you know the challenge of searching for someone when surrounded by thousands of other people. If you and your friend have cell phones, your chances of finding each other are good. A cell phone’s ability to send and receive messages makes it an ideal communication device. (credit: modification of work by Vincent and Bella Productions)</caption></figure>
+<para id="fs-id1167065854767">Imagine what life would be like if you and the people around you could not communicate. You would not be able to express your wishes, nor could you ask questions to find out more about your environment. Social organization is dependent on communication between the individuals; without communication, society would fall apart.</para>
+<para id="fs-id1167065850930">As with people, it is vital for a cell to interact with its environment. This is true whether it is a unicellular organism or one of many cells forming a larger organism. In order to respond to external stimuli, cells have developed complex mechanisms of communication that can receive a message, transfer the information across the plasma membrane, and produce changes within the cell in response to the message. In multicellular organisms, cells send and receive chemical messages constantly to coordinate the actions of distant organs, tissues, and cells.</para>
+<para id="fs-id1167066127944">While the necessity for cellular communication in larger organisms seems obvious, even single-celled organisms communicate with each other. Yeast cells signal each other to aid in mating. Some forms of bacteria coordinate their actions in order to form large complexes called biofilms (<link target-id="fig-ch09_04_03" document="m62801"/>) or to organize the production of toxins to remove competing organisms. The ability of cells to communicate through chemical signals originated in single cells and was essential for the evolution of multicellular organisms.</para><para id="fs-id1167065847430">Cell signaling is vital to the survival of organisms. For example, chemical signals tell cells when to make hormones such as insulin. Cell division also depends on chemical signals. When the chemical signals do not function properly, cells can divide uncontrollably, forming cancerous tumors. Scientists recently discovered a cell signaling pathway that protects cancer cells from being killed by the body’s immune system. The hope is to use this knowledge to create treatments that target this cell signaling pathway so that the cancer cells self destruct. More about that can be found <link url="http://openstax.org/l/32cancerdefense">here</link>: “Scientists pinpoint a new line of defense used by cancer cells.”</para>
+<note id="fs-id1167065846545" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065802842">Ask students to think about how a cell phone works. Draw on the board the sequence: signal, phone hardware, sound. What happens after the call? Immediate action if it is urgent, delayed action if not, or simply ignore and delete if the message is deemed irrelevant. Cells function similarly. The body is abuzz with messages. Not all cells can receive all messages, and the response to the same message can and should be different depending on the type of targeted cell.</para>
+</note>
+
+
+ </content>
+
+</document>

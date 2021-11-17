@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62784</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>c7c1d4e8-196f-4d58-94a6-f3125bfc6118</md:uuid>
+</metadata>
+
+<content>
+
+<figure id="fig-ch07_00_01" class="splash">        
+<media id="fs-id1634159" alt="A photograph shows an energy plant on a hillside with clouds of white steam immediately above the plant">
+<image mime-type="image/jpg" src="../../media/Figure_07_00_01.jpg" width="700"/>
+</media>
+<caption>This geothermal energy plant transforms thermal energy from deep in the ground into electrical energy, which can be easily used. (credit: modification of work by the U.S. Department of Defense)</caption>
+    </figure>
+    <para id="fs-id2853902">The electrical energy plant in  <link target-id="fig-ch07_00_01" document=""/> converts energy from one form to another form that can be more easily used. This type of generating plant starts with underground thermal energy (heat) and transforms it into electrical energy that will be transported to homes and factories. Like a generating plant, plants and animals also must take in energy from the environment and convert it into a form that their cells can use. Energy enters an organism’s body in one form and is converted into another form that can fuel the organism’s life functions. In the process of photosynthesis, plants and other photosynthetic producers take in energy in the form of light (solar energy) and convert it into chemical energy, glucose, which stores this energy in its chemical bonds. Then, a series of metabolic pathways, collectively called cellular respiration, extract the energy from the carbon–carbon bonds of glucose and convert it into a form that all living things can use—both producers, such as plants, and consumers, such as animals.</para>
+    <para id="fs-id1167065898623">Nearly all organisms perform glycolysis, the first part of both aerobic and anaerobic respiration. One of the key enzymes of glycolysis is pyruvate kinase. Without this enzyme, an organism will die because it is unable to convert nutrients into the energy it needs for survival. Scientists have taken advantage of that fact by blocking pyruvate kinase in some deadly parasites, such as the ones that cause African Sleeping Sickness and Chagas disease. Read more about this research <link url="http://openstax.org/l/32africa">here</link>.</para>
+<note id="fs-id1167065913395" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167064596537">Before students begin this chapter, it is useful to review these concepts: Cell structure including mitochondria structure; structure of macromolecules including glucose, lipids, and proteins; transport of molecules across membranes including diffusion and facilitated transport.</para>
+</note>
+
+ </content>
+</document>

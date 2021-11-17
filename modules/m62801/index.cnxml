@@ -1,0 +1,262 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Signaling in Single-Celled Organisms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62801</md:content-id>
+  <md:title>Signaling in Single-Celled Organisms</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how single-celled yeasts use cell signaling to communicate with one another</item>
+<item>Relate the role of quorum sensing to the ability of some bacteria to form biofilms</item>
+</list></md:abstract>
+  <md:uuid>ace36685-abe8-4fb2-8a6f-bd58164e80a4</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167063813479" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167066784424">In this section, you will explore the following questions:</para>
+<list id="fs-id1167067210924">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch09-s04-lo01">How do single-celled yeasts use cell signaling to communicate with each other?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch09-s04-lo02">How does quorum sensing allow some bacteria to form biofilms?</item>
+</list>
+</section>
+<section id="fs-id1167067150885" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167063411596">Cell signaling allows bacteria to respond to environmental cues, such as nutrient levels and quorum sensing (cell density). Yeasts are eukaryotes (fungi), and the components and processes found in yeast signals are similar to those of cell-surface receptor signals in multicellular organisms. For example, budding yeasts often release mating factors that enable them to participate in a process that is similar to sexual reproduction.</para>
+<para id="fs-id1167067202619" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167067073086" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.1 Cell communication processes share common features that reflect a shared evolutionary history. Second left cell reads: Science Practice. Second right cell reads: 1.5 The student can re-express key elements of natural phenomena across multiple representations in the domain. Third left cell reads: Learning Objective. Third right cell reads: 3.36 The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.D</emphasis></entry>
+<entry class="ost-standards-description">Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.D.1</emphasis></span>
+<span class="ost-standards-description">Cell communication processes share common features that reflect a shared evolutionary history.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.5</emphasis></span>
+<span class="ost-standards-description">The student can re-express key elements of natural phenomena across multiple representations in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch09-s04-aplo-3-36">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.36</emphasis></span>
+<span class="ost-standards-description">The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.D.1</emphasis></span>
+<span class="ost-standards-description">Cell communication processes share common features that reflect a shared evolutionary history.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.1</emphasis></span>
+<span class="ost-standards-description">The student can justify claims with evidence.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch09-s04-aplo-3-37">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.37</emphasis></span>
+<span class="ost-standards-description">The student is able to justify claims based on scientific evidence that changes in signal transduction pathways can alter cellular response.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+<note id="fs-id1167067142366" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167067236077" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167067070442">Unicellular organisms were assumed to communicate at a very primitive level, but current research reveals the existence more complex signaling systems. Examples of these forms of communication are the formation of biofilms and quorum sensing. Biofilms have received the attention of researchers only recently for several historical and technical reasons. Since the germ theory of disease was established, the interest had been to isolate and characterize pathogens, not to study microorganisms as a community.</para>
+<para id="fs-id1167067009633">It is much easier to grow bacteria as pure cultures than replicate mixed populations biofilms, making the latter difficult to study in the laboratory setting. Such slime layers, previously considered haphazard assemblies of microorganisms, have been found to be highly organized ecosystems. The slime layer is made of extracellular polymers crisscrossed with channels for gases, nutrients, waste exchanges. Microbes attach to the solid substrate in a succession of populations.</para>
+<para id="fs-id1167067054646">Quorum sensing exists both within a same species and across species. It allows microbes to behave as multicellular populations and coordinate responses. One such example is the expression of genes encoding toxins in <emphasis effect="italics">Staphylococcus aureus</emphasis>. Dr. Bonnie Bassler presents quorum sensing communication in <emphasis effect="italics">Vibrio harveyi </emphasis>in <link window="new" url="http://openstax.org/l/32baccomm">this Ted Talk</link>. Her enthusiasm and clear explanations make this video a thoroughly engaging experience. This is an opportunity to show a strong female role model in science.</para>
+<para id="fs-id1167066792497">Also available is this <link window="new" url="http://openstax.org/l/32quorumdemo">video clip</link>: Quorum sensing molecules presented by Dr. Bonnie Bassler:</para>
+<para id="fs-id1167066954292">And an animation on quorum sensing in <emphasis effect="italics">Vibrio harveyi</emphasis> can be found <link window="new" url="http://openstax.org/l/32quorumsense">here</link>.</para>
+<para id="fs-id1167063605933">Further reading: Painter, Kimberley L. et al. (2014). What role does the quorum-sensing accessory gene regulator system play during <emphasis effect="italics">Staphylococcus aureus</emphasis> bacteremia? Trends in Microbiology 22:676–685</para>
+</note>
+</note>
+<para id="fs-id1166848841394">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 3.31][APLO 3.37]</para><para id="fs-id1711910">Within-cell signaling allows bacteria to respond to environmental cues, such as nutrient levels. Some single-celled organisms also release molecules to signal to each other.</para><section id="fs-id1547365" class="ost-tag-lo-apbio-ch09-s04-lo01 ost-tag-lo-apbio-ch09-s04-aplo-3-36 ost-get-exercise">
+<title>Signaling in Yeast</title>
+<para id="fs-id2694648">Yeasts are eukaryotes (fungi), and the components and processes found in yeast signals are similar to those of cell-surface receptor signals in multicellular organisms. Budding yeasts (<link target-id="fig-ch09_04_01" document=""/>) are able to participate in a process that is similar to sexual reproduction that entails two haploid cells (cells with one-half the normal number of chromosomes) combining to form a diploid cell (a cell with two sets of each chromosome, which is what normal body cells contain). In order to find another haploid yeast cell that is prepared to mate, budding yeasts secrete a signaling molecule called <term>mating factor</term>. When mating factor binds to cell-surface receptors in other yeast cells that are nearby, they stop their normal growth cycles and initiate a cell signaling cascade that includes protein kinases and GTP-binding proteins that are similar to G-proteins.</para>
+<figure id="fig-ch09_04_01" class="ost-tag-lo-apbio-ch09-s04-lo01 ost-tag-lo-apbio-ch09-s04-aplo-3-36"><media id="fs-id1974168" alt="The photo shows yeast cells, some of which have buds protruding from them.">
+<image mime-type="image/jpg" src="../../media/Figure_09_04_01-108c.jpg" width="250"/>
+</media>
+<caption>Budding <emphasis effect="italics">Saccharomyces cerevisiae</emphasis> yeast cells can communicate by releasing a signaling molecule called mating factor. In this micrograph, they are visualized using differential interference contrast microscopy, a light microscopy technique that enhances the contrast of the sample.</caption></figure></section>
+<section id="fs-id1964095" class="ost-tag-lo-apbio-ch09-s04-lo02 ost-tag-lo-apbio-ch09-s04-aplo-3-37 ost-get-exercise">
+<title>Signaling in Bacteria</title>
+<para id="fs-id1417852">Signaling in bacteria enables bacteria to monitor extracellular conditions, ensure that there are sufficient amounts of nutrients, and ensure that hazardous situations are avoided. There are circumstances, however, when bacteria communicate with each other.</para>
+<para id="fs-id2201059">The first evidence of bacterial communication was observed in a bacterium that has a symbiotic relationship with Hawaiian bobtail squid. When the population density of the bacteria reaches a certain level, specific gene expression is initiated, and the bacteria produce bioluminescent proteins that emit light. Because the number of cells present in the environment (cell density) is the determining factor for signaling, bacterial signaling was named <term>quorum sensing</term>. In politics and business, a quorum is the minimum number of members required to be present to vote on an issue.</para>
+<para id="fs-id1419717">Quorum sensing uses autoinducers as signaling molecules. <term>Autoinducers</term> are signaling molecules secreted by bacteria to communicate with other bacteria of the same kind. The secreted autoinducers can be small, hydrophobic molecules such as acyl-homoserine lactone (AHL) or larger peptide-based molecules; each type of molecule has a different mode of action. When AHL enters target bacteria, it binds to transcription factors, which then switch gene expression on or off (<link target-id="fig-ch09_04_02" document=""/>). The peptide autoinducers stimulate more complicated signaling pathways that include bacterial kinases. The changes in bacteria following exposure to autoinducers can be quite extensive. The pathogenic bacterium <emphasis effect="italics">Pseudomonas aeruginosa</emphasis> has 616 different genes that respond to autoinducers.</para><note id="fs-id1650052" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
+<para id="fs-id1066621"><figure id="fig-ch09_04_02"><media id="fs-id2316366" alt="The left part of this illustration shows a single bacterial cell. The cell produces autoinducers, which diffuse away from the cell and cannot bind the intracellular receptor. The right part of this illustration shows many bacterial cells. More autoinducers are present, which bind receptors that in turn bind DNA and regulate the expression of certain genes. Autoinducer gene expression is turned on, resulting in a positive-feedback loop.">
+<image mime-type="image/png" src="../../media/Figure_09_04_02.png" width="350"/>
+</media>
+<caption>Autoinducers are small molecules or proteins produced by bacteria that regulate gene expression.</caption></figure></para>
+<exercise id="fs-id1167063504434" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067184712">
+<para id="fs-id1167067295393">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex042"/>
+</para>
+</problem>
+</exercise>
+</note><para id="fs-id2962722">Some species of bacteria that use quorum sensing form biofilms, complex colonies of bacteria (often containing several species) that exchange chemical signals to coordinate the release of toxins that will attack the host. Bacterial biofilms (<link target-id="fig-ch09_04_03" document=""/>) can sometimes be found on medical equipment; when biofilms invade implants such as hip or knee replacements or heart pacemakers, they can cause life-threatening infections.</para>
+<para id="fs-id1166169385753">The ability of certain bacteria to form biofilms has evolved because of a selection of genes that enable cell-cell communication confers an evolutionary advantage. When bacterial colonies form biofilms, they create barriers that prevent toxins and antibacterial drugs from affecting the population living in the biofilm. As a result, these populations are more likely to survive, even in the presence of antibacterial agents. This often means that bacteria living in biofilms have higher fitness than bacteria living on their own.</para>
+<note id="fs-id1167067200315" class="ap-science-practices ost-reading-discard"><label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066874145" class="ost-assignable ost-sciprac-scithink"><label/><title class="ost-tag-lo-apbio-ch09-s04-aplo-3-36">Think About It</title>
+<exercise id="fs-id1167066869608" class="unnumbered"><label/>
+<problem id="fs-id1167067232174">
+<para id="fs-id1167066807448">Why is signaling in multicellular organisms more complicated than signaling in single-celled organisms such as microbes?</para>
+</problem>
+</exercise>
+</note>
+</note>
+<note id="fs-id1167067195691" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167063693982">This question is an application of LO 3.36 and Science Practice 1.5 because students are describing and comparing models of signaling pathways in different types of organisms.</para>
+<note id="fs-id1167067031952"><label>Answer:</label>
+Presumably, unicellular organisms do not need to coordinate the response of many tissue types and organs. Point out to students that the study of cell-to-cell communication in microorganisms is only beginning. Assuming that multicellular organisms have more complicated signaling may well be a premature conclusion.</note>
+</note>
+
+
+<note id="fs-idm19080112" class="everyday ost-feature">
+<para id="fs-id1473469"><figure id="fig-ch09_04_03"><media id="fs-id2014249" alt="Part a: This electron micrograph shows a film of bacteria. Part b: This photo shows a Hawaiian bobtail squid.">
+    <image mime-type="image/png" src="../../media/Figure_09_04_03.png" width="520"/>
+</media>
+<caption>Cell-cell communication enables these (a) <emphasis effect="italics">Staphylococcus aureus</emphasis> bacteria to work together to form a biofilm inside a hospital patient’s catheter, seen here via scanning electron microscopy. <emphasis effect="italics">S. aureus</emphasis> is the main cause of hospital-acquired infections. (b) Hawaiian bobtail squid have a symbiotic relationship with the bioluminescent bacteria <emphasis effect="italics">Vibrio fischeri</emphasis>. The luminescence makes it difficult to see the squid from below because it effectively eliminates its shadow. In return for camouflage, the squid provides food for the bacteria. Free-living <emphasis effect="italics">V. fischeri</emphasis> do not produce luciferase, the enzyme responsible for luminescence, but <emphasis effect="italics">V. fischeri</emphasis> living in a symbiotic relationship with the squid do. Quorum sensing determines whether the bacteria should produce the luciferase enzyme. (credit a: modifications of work by CDC/Janice Carr; credit b: modifications of work by Cliff1066/Flickr)</caption></figure></para>
+<exercise id="fs-id1167063526028" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066862817">
+<para id="fs-id1167067153293">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex043"/>
+</para>
+</problem>
+</exercise>
+</note><para id="fs-id950384">Research on the details of quorum sensing has led to advances in growing bacteria for industrial purposes. Recent discoveries suggest that it may be possible to exploit bacterial signaling pathways to control bacterial growth; this process could replace or supplement antibiotics that are no longer effective in certain situations.</para>
+<note id="fs-id3051301" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch09-s04-lo02 ost-tag-lo-apbio-ch09-s04-aplo-3-36"><label>Link to Learning</label>
+<para id="fs-id2641612">Watch geneticist Bonnie Bassler discuss her <link window="new" url="http://openstax.org/l/bacteria_talk">discovery</link> of quorum sensing in biofilm bacteria in squid.</para>
+<exercise id="fs-id1167063496264" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067006489">
+<para id="fs-id1167066848514">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex044"/>
+</para>
+</problem>
+</exercise>
+</note>
+<note id="fs-id2171496" class="evolution ost-assessed-feature"><title>Cellular Communication in Yeasts</title>
+<para id="fs-id2570933">The first life on our planet consisted of single-celled prokaryotic organisms that had limited interaction with each other. While some external signaling occurs between different species of single-celled organisms, the majority of signaling within bacteria and yeasts concerns only other members of the same species. The evolution of cellular communication is an absolute necessity for the development of multicellular organisms, and this innovation is thought to have required approximately 2.5 billion years to appear in early life forms.</para>
+<para id="fs-id2165327">Yeasts are single-celled eukaryotes, and therefore have a nucleus and organelles characteristic of more complex life forms. Comparisons of the genomes of yeasts, nematode worms, fruit flies, and humans illustrate the evolution of increasingly complex signaling systems that allow for the efficient inner workings that keep humans and other complex life forms functioning correctly.</para>
+<para id="fs-id1723818">Kinases are a major component of cellular communication, and studies of these enzymes illustrate the evolutionary connectivity of different species. Yeasts have 130 types of kinases. More complex organisms such as nematode worms and fruit flies have 454 and 239 kinases, respectively. Of the 130 kinase types in yeast, 97 belong to the 55 subfamilies of kinases that are found in other eukaryotic organisms. The only obvious deficiency seen in yeasts is the complete absence of tyrosine kinases. It is hypothesized that phosphorylation of tyrosine residues is needed to control the more sophisticated functions of development, differentiation, and cellular communication used in multicellular organisms.</para>
+<para id="fs-id1910465">Because yeasts contain many of the same classes of signaling proteins as humans, these organisms are ideal for studying signaling cascades. Yeasts multiply quickly and are much simpler organisms than humans or other multicellular animals. Therefore, the signaling cascades are also simpler and easier to study, although they contain similar counterparts to human signaling. <footnote id="fn-ch09_04_01">G. Manning, G.D. Plowman, T. Hunter, S. Sudarsanam, “Evolution of Protein Kinase Signaling from Yeast to Man,” <emphasis effect="italics">Trends in Biochemical Sciences</emphasis> 27, no. 10 (2002): 514–520.</footnote></para><exercise id="fs-id1167066830351" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066835423">
+<para id="fs-id1167066859349">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex045"/>
+</para>
+</problem>
+</exercise>
+</note>
+<note id="fs-id2571408" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch09-s04-lo02 ost-tag-lo-apbio-ch09-s04-aplo-3-37"><label>Link to Learning</label>
+<para id="fs-id2024284">Watch this <link window="new" url="http://openstax.org/l/bacteria_biofilm">collection</link> of interview clips with biofilm researchers in “What Are Bacterial Biofilms?”</para>
+<exercise id="fs-id1167063496187" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066984718">
+<para id="fs-id1167066847736">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex046"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+
+<section id="fs-id1777919" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1474143">Yeasts and multicellular organisms have similar signaling mechanisms. Yeasts use cell-surface receptors and signaling cascades to communicate information on mating with other yeast cells. The signaling molecule secreted by yeasts is called mating factor.</para>
+<para id="fs-id2187275">Bacterial signaling is called quorum sensing. Bacteria secrete signaling molecules called autoinducers that are either small, hydrophobic molecules or peptide-based signals. The hydrophobic autoinducers, such as AHL, bind transcription factors and directly affect gene expression. The peptide-based molecules bind kinases and initiate signaling cascades in the cells.</para>
+</section>
+
+
+<section id="fs-id1167067082957" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167061177551" class="os-exercise">
+<problem id="fs-id1167066826232">
+<para id="fs-id1167066804815">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex047"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066794351" class="os-exercise">
+<problem id="fs-id1167066829489">
+<para id="fs-id1167067253526">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex048"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066962448" class="os-exercise">
+<problem id="fs-id1167066869649">
+<para id="fs-id1167066869555">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex049"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066870455" class="os-exercise">
+<problem id="fs-id1167066825346">
+<para id="fs-id1167066879364">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex050"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167067261894" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title>
+<exercise id="fs-id1167067226484" class="os-exercise">
+<problem id="fs-id1167067145695">
+<para id="fs-id1167066858820">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex051"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067009673" class="os-exercise">
+<problem id="fs-id1167063476701">
+<para id="fs-id1167066952589">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex052"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166174548208">
+<problem id="fs-id1166170549224">
+<para id="fs-id1166169266692">Biofilms are a prominent danger in infectious disease treatment today because it is difficult to find drugs that can penetrate the biofilm. What characteristics would a drug have if it aimed to prevent bacteria from forming biofilms in the first place? Explain your answer.</para>
+</problem>
+<!--<solution id="fs-id1166174641354">
+<para id="fs-id1166174774613">A drug aimed at preventing biofilm formation would block the receptors of auto-inhibitors. By blocking auto-inhibitors, quorum sensing would not occur in bacterial populations, and these colonies would not turn on genes that form biofilms. These drugs may cause bacterial populations to increase because the bacteria would continue to divide even after they reach &#147;quorum&#148;. Therefore, antibacterial drugs that inhibit bacterial reproduction would have to be used in addition to an auto-inhibitor blocker.</para>
+</solution>-->
+</exercise>
+<exercise id="eip-id1166847527022" class="os-exercise">
+<problem id="eip-id1166850152876">
+<para id="eip-id1166847243368">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ot033"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164967726163" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164967760129">
+<problem id="fs-id1164967838996">
+<para id="fs-id1164965641588">Bacteria and fungi produce several extracellular chemicals, including antibiotics that affect other organisms in the environment.  Antibiotics also are produced industrially in large bacteria-containing fermentation tanks.  However, antibiotics that have been used by humans to control microbes are now found at subinhibitory concentrations in the environment.  Low levels of antibiotics in the environment are mutagenic for bacteria and promote the development of antibiotic resistance.</para>
+<para id="fs-id1164967560114">Bacteria produce chemical signals that detect population density and regulate gene expression, a phenomenon called quorum sensing.  Density is signaled by the extracellular concentration of small amino acid derivatives.  To combat antibiotic resistance, an emerging strategy for the control of bacterial disease is quorum quenching.</para>
+<para id="fs-id1164959890037">A. <emphasis>Describe</emphasis> the advantage of antibiotics to the organisms that produce them.</para>
+<para id="fs-id1164967475315">B. Based on the name of the emerging strategy for controlling bacterial infections, <emphasis>describe</emphasis> a possible mechanism by which bacteria determine their population density. <emphasis>Justify the claim</emphasis> that quorum quenching may provide a more sustainable approach to disease control than the use of antibiotics.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2349106"><term>autoinducer</term> <meaning id="fs-id1594552">signaling molecule secreted by bacteria to communicate with other bacteria of its kind and others</meaning></definition>
+<definition id="fs-id1476445"><term>mating factor</term> <meaning id="fs-id2568996">signaling molecule secreted by yeast cells to communicate to nearby yeast cells that they are available to mate and communicating their mating orientation</meaning></definition>
+<definition id="fs-id2571840"><term>quorum sensing</term> <meaning id="fs-id2962919">method of cellular communication used by bacteria that informs them of the abundance of similar (or different) bacteria in the environment</meaning></definition>
+</glossary>
+</document>

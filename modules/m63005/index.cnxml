@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63005</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>eb46490f-cb6d-4c90-b9f4-f60f3cc33695</md:uuid>
+</metadata>
+
+<content>
+<figure id="fig-ch42_00_01" class="splash ost-tag-lo-apbio-ch33-s01-lo01"><media id="fs-idp89829680" alt="Micrograph shows a blood smear. The neutrophil and eosinophil are similar in structure, but the eosinophil is larger. Both are filled with granular structures, and have three purple-stained nuclei. These white blood cells are surrounded with donut-shaped red blood cells.">
+<image mime-type="image/jpg" src="../../media/Figure_42_00_01.jpg" width="600"/>
+</media>
+<caption>In this compound light micrograph purple-stained neutrophil (upper left) and eosinophil (lower right) are white blood cells that float among red blood cells in this blood smear. Neutrophils provide an early, rapid, and nonspecific defense against invading pathogens. Eosinophils play a variety of roles in the immune response. Red blood cells are about 7–8 µm in diameter, and a neutrophil is about 10–12µm. (credit: modification of work by Dr. David Csaba)</caption></figure>
+<para id="fs-idp151645776">The environment consists of numerous <emphasis>pathogens</emphasis>, which are agents, usually microorganisms, that cause diseases in their hosts. A <emphasis>host</emphasis> is the organism that is invaded and often harmed by a pathogen. Pathogens include bacteria, protists, fungi and other infectious organisms. We are constantly exposed to pathogens in food and water, on surfaces, and in the air. Mammalian immune systems evolved for protection from such pathogens; they are composed of an extremely diverse array of specialized cells and soluble molecules that coordinate a rapid and flexible defense system capable of providing protection from a majority of these disease agents.</para>
+<para id="fs-idm59674416">Vaccines were developed to reduce the chance of infection of a particular disease, such as measles, mumps, polio, or chicken pox, by assisting the body to develop immunity. However, many diseases still do not have a vaccine, such as the deadly disease caused by the Ebola virus. Data from the World Health Organization indicates that more than 11,000 people died out of over 27,000 cases reported during the 2014–2015 outbreak. Though the majority of the cases were in Africa, Ebola did spread to other countries and prompted researchers to try to find a treatment. You can read more about this research at the <link url="http://openstax.org/l/32ebolavirus">Science Daily website</link>.</para> </content>
+<glossary>
+<definition id="fs-id1163775324366"><term>pathogen</term><meaning id="fs-id1163805733932"> an agent, usually a microorganism, that causes disease in the organisms that they invade</meaning></definition>
+
+<definition id="fs-id1163803770492"><term>host</term><meaning id="fs-id1163775157887">an organism that is invaded by a pathogen or parasite</meaning></definition>
+</glossary>
+</document>

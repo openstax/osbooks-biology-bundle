@@ -1,0 +1,257 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Endomembrane System and Proteins</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62743</md:content-id>
+  <md:title>The Endomembrane System and Proteins</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>List the components of the endomembrane system</item>
+<item>Recognize the relationship between the endomembrane system and its functions</item>
+</list></md:abstract>
+  <md:uuid>3bf6c8d5-2dcb-413b-af99-7f79e9962d7d</md:uuid>
+</metadata>
+
+<content>
+
+<section id="fs-id1167067203690" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067061572">In this section, you will explore the following questions:</para>
+<list id="fs-id1167066960048">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch04-s04-lo01">What is the relationship between the structure and function of the components of the endomembrane system, especially with regard to the synthesis of proteins?</item>
+</list>
+</section>
+
+<section id="fs-id1167067205514" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167067190035">In addition to the presence of nuclei, eukaryotic cells are distinguished by an endomembrane system that includes the plasma membrane, nuclear envelope, lysosomes, vesicles, endoplasmic reticulum, and Golgi apparatus. These subcellular components work together to modify, tag, package, and transport proteins and lipids. The rough endoplasmic reticulum (RER) with its attached ribosomes is the site of protein synthesis and modification. The smooth endoplasmic reticulum (SER) synthesizes carbohydrates, lipids including phospholipids and cholesterol, and steroid hormones; engages in the detoxification of medications and poisons; and stores calcium ions. Lysosomes digest macromolecules, recycle worn-out organelles, and destroy pathogens. Just like your body uses different organs that work together, cells use these organelles interact to perform specific functions. For example, proteins that are synthesized in the RER then travel to the Golgi apparatus for modification and packaging for either storage or transport. If these proteins are hydrolytic enzymes, they can be stored in lysosomes. Mitochondria produce the energy needed for these processes. This functional flow through several organelles, a process which is dependent on energy produced by yet another organelle, serves as a hallmark illustration of the cell’s complex, interconnected dependence on its organelles.</para>
+<para id="fs-id1167066842377" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 2 and Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167067316771" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.B.3 Eukaryotic cells maintain internal membranes that partition the cell into specialized regions. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 2.13 The student is able to explain how internal membranes and organelles contribute to cell functions." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.B</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and dynamic homeostasis require that cells create and maintain internal environments that are different from their external environments.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.B.3</emphasis></span>
+<span class="ost-standards-description">Eukaryotic cells maintain internal membranes that partition the cell into specialized regions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch04-s04-aplo-2-13">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.13</emphasis></span>
+<span class="ost-standards-description">The student is able to explain how internal membranes and organelles contribute to cell functions.</span>
+</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.2</emphasis></span>
+<span class="ost-standards-description">The structure and function of subcellular components, and their interactions, provide essential cellular processes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch04-s04-aplo-4-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>4.5</emphasis></span>
+<span class="ost-standards-description">The student is able to construct explanations based on scientific evidence as to how interactions of subcellular structures provide essential functions.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table></section><note id="fs-id1167067144150" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167063505479">Students will need help in visualizing the endomembrane system. For example, explain how the interior membrane surface of a vesicle will face the outside of the cell, once the vesicle fuses with the plasma membrane. Use rubber bands to simulate vesicles and mark the inside with a sharpie or a pen. Follow the ink marks as the “vesicle” rubber band fuses with the cell membrane (cut the rubber band to facilitate the fusion being modeled.)</para>
+
+<note id="fs-id1167067158001" class="ost-misconception">
+<label>Misconception Alert</label>
+<para id="fs-id1167067159594">Students may think that all ribosomes are attached to the rough endoplasmic reticulum. Stress that there are free ribosomes as well. They are found in the cytosol where they are involved in the synthesis of cytosolic proteins, which remain within the cytosol. Free and bound ribosomes are identical in structure . Individual ribosomes cycle between free and membrane-bound positions as needed.</para>
+<para id="fs-id1167067190241">Mitochondria and chloroplasts also contain ribosomes which resemble those of prokaryotes. This observation is one of the arguments in favor of the endosymbiotic theory.</para>
+<para id="fs-id1167063499103">“Smooth endoplasmic reticulum is not as important as the rough endoplasmic reticulum.” No, both endomembrane networks play important roles in the life of a cell.</para>
+</note>
+</note>
+
+<para id="fs-id1166851055388">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 4.6]</para><section id="fs-id2028479" class="ost-tag-lo-apbio-ch04-s04-lo01 ost-tag-lo-apbio-ch04-s04-aplo-2-13 ost-get-exercise">
+<title>The Endoplasmic Reticulum</title>
+<para id="fs-id1443008">The endomembrane system (endo = “within”) is a group of membranes and organelles (<link target-id="fig-ch04-04-01" document=""/>) in eukaryotic cells that works together to modify, package, and transport lipids and proteins. It includes the nuclear envelope, lysosomes, and vesicles, which we’ve already mentioned, and the endoplasmic reticulum and Golgi apparatus, which we will cover shortly. Although not technically <emphasis effect="italics">within</emphasis> the cell, the plasma membrane is included in the endomembrane system because, as you will see, it interacts with the other endomembranous organelles. The endomembrane system does not include the membranes of either mitochondria or chloroplasts.</para>
+<note id="fs-id1721886" class="visual-connection ost-assessed-feature"><label>Visual Connections</label>
+<para id="fs-id2030019"><figure id="fig-ch04-04-01"><media id="fs-id1773987" alt="The left part of this figure shows the rough ER with an integral membrane protein embedded in it. The part of the protein facing the inside of the ER has a carbohydrate attached to it. The protein is shown leaving the ER in a vesicle that fuses with the cis side of the Golgi apparatus. The Golgi apparatus consists of several layers of membranes, called cisternae. As the protein passes through the cisternae, it is further modified by the addition of more carbohydrates. Eventually, it leaves the trans face of the Golgi in a vesicle. The vesicle fuses with the cell membrane so that the carbohydrate that was on the inside of the vesicle now faces the outside of the membrane. At the same time, the contents of the vesicle are ejected from the cell.">
+<image mime-type="image/png" src="../../media/Figure_04_04_01-08bf.png" width="350"/>
+</media>
+<caption>Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER). The RER also sometimes modifies proteins. In this illustration, a (green) integral membrane protein is modified by attachment of a (purple) carbohydrate in the ER. Vesicles with the integral protein bud from the ER and fuse with the cis face of the Golgi apparatus. As the protein passes along  the Golgi’s cisternae, it is further modified by the addition of more carbohydrates. After its synthesis is complete, it exits as an integral membrane protein of the vesicles that bud from the Golgi’s <term>trans</term> face. When the vesicle fuses with the cell membrane, the protein becomes an integral portion of that cell membrane. (credit: modification of work by Magnus Manske)</caption></figure></para>
+
+<exercise id="fs-id1167063798621" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067179317">
+<para id="fs-id1167067239978">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex044"/>
+</para>
+</problem>
+</exercise>
+
+
+</note>
+<para id="fs-id1775048">The <term>endoplasmic reticulum (ER)</term> (<link target-id="fig-ch04-04-01" document=""/>) is a series of interconnected membranous sacs and tubules that collectively modifies proteins and synthesizes lipids. However, these two functions are performed in separate areas of the ER: the rough ER and the smooth ER, respectively.</para>
+<para id="fs-id1904890">The hollow portion of the ER tubules is called the lumen or cisternal space. The membrane of the ER, which is a phospholipid bilayer embedded with proteins, is continuous with the nuclear envelope.</para>
+<section id="fs-id1234002" class="ost-tag-lo-apbio-ch04-s04-lo01 ost-tag-lo-apbio-ch04-s04-aplo-2-13 ost-get-exercise">
+<title>Rough ER</title>
+<para id="fs-id1207356">The <term>rough endoplasmic reticulum (RER)</term> is so named because the ribosomes attached to its cytoplasmic surface give it a studded appearance when viewed through an electron microscope (<link target-id="fig-ch04-04-02" document=""/>).</para>
+<figure id="fig-ch04-04-02" class="ost-tag-lo-apbio-ch04-s04-lo01 ost-tag-lo-apbio-ch04-s04-aplo-2-13"><media id="fs-id1752354" alt="In this transmission electron micrograph, the nucleus is the most prominent feature. The nucleolus is a circular, dark region inside the nucleus. A nuclear pore can be seen in the nuclear envelope that surrounds the nucleus. The rough endoplasmic reticulum surrounds the nucleus, appearing as many layers of membranes. A mitochondrion sits between the layers of the ER membrane.">
+<image mime-type="image/jpg" src="../../media/Figure_04_04_02_new.jpg" width="350"/>
+</media>
+
+<caption>This transmission electron micrograph shows the rough endoplasmic reticulum and other organelles in a pancreatic cell. (credit: modification of work by Louisa Howard)</caption></figure><para id="fs-id1679856">Ribosomes transfer their newly synthesized proteins into the lumen of the RER where they undergo structural modifications, such as folding or the acquisition of side chains. These modified proteins will be incorporated into cellular membranes—the membrane of the ER or those of other organelles—or secreted from the cell (such as protein hormones, enzymes). The RER also makes phospholipids for cellular membranes.</para>
+<para id="fs-id1752751">If the phospholipids or modified proteins are not destined to stay in the RER, they will reach their destinations via transport vesicles that bud from the RER’s membrane (<link target-id="fig-ch04-04-01" document=""/>).</para>
+<para id="fs-id2028331">Since the RER is engaged in modifying proteins (such as enzymes, for example) that will be secreted from the cell, you would be correct in assuming that the RER is abundant in cells that secrete proteins. This is the case with cells of the liver, for example.</para>
+</section>
+<section id="fs-id1603907" class="ost-tag-lo-apbio-ch04-s04-lo01 ost-tag-lo-apbio-ch04-s04-aplo-2-13 ost-get-exercise">
+<title>Smooth ER</title>
+<para id="fs-id1459714">The <term>smooth endoplasmic reticulum (SER)</term> is continuous with the RER but has few or no ribosomes on its cytoplasmic surface (<link target-id="fig-ch04-04-01" document=""/>). Functions of the SER include synthesis of carbohydrates, lipids, and steroid hormones; detoxification of medications and poisons; and storage of calcium ions.</para>
+<para id="fs-id1303729">In muscle cells, a specialized SER called the sarcoplasmic reticulum is responsible for storage of the calcium ions that are needed to trigger the coordinated contractions of the muscle cells.</para>
+<note id="fs-id1194561" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch04-s04-lo01 ost-tag-lo-apbio-ch04-s04-aplo-2-13"><label>Link to Learning</label>
+<para id="fs-id2215743">You can watch an excellent animation of the endomembrane system <link window="new" url="http://openstax.org/l/endomembrane">here</link>. </para><exercise id="fs-id1167066856564" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067200315">
+<para id="fs-id1167063471602">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex045"/>
+</para>
+</problem>
+</exercise>
+
+
+</note><note id="fs-id1912861" class="career ost-feature ost-tag-lo-apbio-ch04-s04-lo01 ost-tag-lo-apbio-ch04-s04-aplo-4-5"><title>Cardiologist</title>
+
+<para id="fs-id1561447">Heart disease is the leading cause of death in the United States. This is primarily due to our sedentary lifestyle and our high trans-fat diets.</para>
+<para id="fs-id1981423">Heart failure is just one of many disabling heart conditions. Heart failure does not mean that the heart has stopped working. Rather, it means that the heart can’t pump with sufficient force to transport oxygenated blood to all the vital organs. Left untreated, heart failure can lead to kidney failure and failure of other organs.</para>
+<para id="fs-id2215233">The wall of the heart is composed of cardiac muscle tissue. Heart failure occurs when the endoplasmic reticula of cardiac muscle cells do not function properly. As a result, an insufficient number of calcium ions are available to trigger a sufficient contractile force.</para>
+<para id="fs-id1430174">Cardiologists (cardi- = “heart”; -ologist = “one who studies”) are doctors who specialize in treating heart diseases, including heart failure. Cardiologists can make a diagnosis of heart failure via physical examination, results from an electrocardiogram (ECG, a test that measures the electrical activity of the heart), a chest X-ray to see whether the heart is enlarged, and other tests. If heart failure is diagnosed, the cardiologist will typically prescribe appropriate medications and recommend a reduction in table salt intake and a supervised exercise program.</para></note></section>
+</section>
+<section id="fs-id1664568" class="ost-tag-lo-apbio-ch04-s04-lo01 ost-tag-lo-apbio-ch04-s04-aplo-4-5 ost-get-exercise">
+<title>The Golgi Apparatus</title>
+<para id="fs-id1340070">We have already mentioned that vesicles can bud from the ER and transport their contents elsewhere, but where do the vesicles go? Before reaching their final destination, the lipids or proteins within the transport vesicles still need to be sorted, packaged, and tagged so that they wind up in the right place. Sorting, tagging, packaging, and distribution of lipids and proteins takes place in the <term>Golgi apparatus</term> (also called the Golgi body), a series of flattened membranes (<link target-id="fig-ch04-04-03" document=""/>).</para>
+<figure id="fig-ch04-04-03" class="ost-tag-lo-apbio-ch04-s04-lo01 ost-tag-lo-apbio-ch04-s04-aplo-4-5"><media id="fs-id1521301" alt="In this transmission electron micrograph, the Golgi apparatus appears as a stack of membranes surrounded by unnamed organelles.">
+<image mime-type="image/jpg" src="../../media/Figure_04_04_03-9d07.jpg" width="350"/>
+</media>
+
+<caption>The Golgi apparatus in this white blood cell is visible as a stack of semicircular, flattened rings in the lower portion of the image. Several vesicles can be seen near the Golgi apparatus. (credit: modification of work by Louisa Howard)</caption></figure><para id="fs-id1726293">The receiving side of the Golgi apparatus is called the <emphasis effect="italics">cis</emphasis> face. The opposite side is called the <emphasis effect="italics">trans</emphasis> face. The transport vesicles that formed from the ER travel to the <emphasis effect="italics">cis</emphasis> face, fuse with it, and empty their contents into the lumen of the Golgi apparatus. As the proteins and lipids travel through the Golgi, they undergo further modifications that allow them to be sorted. The most frequent modification is the addition of short chains of sugar molecules. These newly modified proteins and lipids are then tagged with phosphate groups or other small molecules so that they can be routed to their proper destinations.</para>
+<para id="fs-id1716512">Finally, the modified and tagged proteins are packaged into secretory vesicles that bud from the <emphasis effect="italics">trans</emphasis> face of the Golgi. While some of these vesicles deposit their contents into other parts of the cell where they will be used, other secretory vesicles fuse with the plasma membrane and release their contents outside the cell.</para>
+<para id="fs-id1488921">In another example of form following function, cells that engage in a great deal of secretory activity (such as cells of the salivary glands that secrete digestive enzymes or cells of the immune system that secrete antibodies) have an abundance of Golgi.</para>
+<para id="fs-id1006507">In plant cells, the Golgi apparatus has the additional role of synthesizing polysaccharides, some of which are incorporated into the cell wall and some of which are used in other parts of the cell.</para>
+<note id="fs-id1618891" class="career ost-feature ost-tag-lo-apbio-ch04-s04-lo01 ost-tag-lo-apbio-ch04-s04-aplo-4-5"><title>Geneticist</title>
+
+<para id="fs-id2358461">Many diseases arise from genetic mutations that prevent the synthesis of critical proteins. One such disease is Lowe disease (also called oculocerebrorenal syndrome, because it affects the eyes, brain, and kidneys). In Lowe disease, there is a deficiency in an enzyme localized to the Golgi apparatus. Children with Lowe disease are born with cataracts, typically develop kidney disease after the first year of life, and may have impaired mental abilities.</para>
+<para id="fs-id1993778">Lowe disease is a genetic disease caused by a mutation on the X chromosome. The X chromosome is one of the two human sex chromosomes, as these chromosomes determine a person's sex. Females possess two X chromosomes while males possess one X and one Y chromosome. In females, the genes on only one of the two X chromosomes are expressed. Females who carry the Lowe disease gene on one of their X chromosomes are carriers and do not show symptoms of the disease. However, males only have one X chromosome and the genes on this chromosome are always expressed. Therefore, males will always have Lowe disease if their X chromosome carries the Lowe disease gene. The location of the mutated gene, as well as the locations of many other mutations that cause genetic diseases, has now been identified. Through prenatal testing, a woman can find out if the fetus she is carrying may be afflicted with one of several genetic diseases.</para><para id="fs-id1126762">Geneticists analyze the results of prenatal genetic tests and may counsel pregnant women on available options. They may also conduct genetic research that leads to new drugs or foods, or perform DNA analyses that are used in forensic investigations.</para>
+</note></section>
+<section id="fs-id1482669" class="ost-tag-lo-apbio-ch04-s04-lo01 ost-tag-lo-apbio-ch04-s04-aplo-4-5 ost-get-exercise">
+<title>Lysosomes</title>
+<para id="fs-id1986769">In addition to their role as the digestive component and organelle-recycling facility of animal cells, lysosomes are considered to be parts of the endomembrane system. Lysosomes also use their hydrolytic enzymes to destroy pathogens (disease-causing organisms) that might enter the cell. A good example of this occurs in a group of white blood cells called macrophages, which are part of your body’s immune system. In a process known as phagocytosis or endocytosis, a section of the plasma membrane of the macrophage invaginates (folds in) and engulfs a pathogen. The invaginated section, with the pathogen inside, then pinches itself off from the plasma membrane and becomes a vesicle. The vesicle fuses with a lysosome. The lysosome’s hydrolytic enzymes then destroy the pathogen (<link target-id="fig-ch04-04-04" document=""/>).</para>
+<figure id="fig-ch04-04-04" class="ost-tag-lo-apbio-ch04-s04-lo01 ost-tag-lo-apbio-ch04-s04-aplo-4-5"><media id="fs-id1869850" alt="In this illustration, a macrophage consuming a bacterium is shown. As the bacterium is consumed by endocytosis, it is encapsulated in a vesicle. A lysosome fuses with the vesicle and digestive enzymes inside the lysosome digest the bacterium. The undigested material is expelled from the macrophage through the process of exocytosis.">
+<image mime-type="image/jpg" src="../../media/Figure_04_04_04-4e69.jpg" width="350"/>
+</media>
+
+<caption>A macrophage has engulfed (phagocytized) a potentially pathogenic bacterium which then fuses with a lysosome within the cell to destroy the pathogen. Other organelles are present in the cell but for simplicity are not shown.</caption></figure></section>
+
+<note id="fs-id1167066835423" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch04-s04-aplo-1-15 ost-tag-lo-apbio-ch04-s04-aplo-2-14 ost-tag-lo-apbio-ch04-s04-aplo-1-16">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066877578" class="ost-assignable ost-sciprac-activity ost-tag-lo-apbio-ch04-s04-aplo-2-12">
+<para id="fs-id1167066861899">Homemade Cell Project. Using inexpensive and common household items, create a model of a specific eukaryotic cell (e.g., neuron, white blood cell, plant root cell, or <emphasis effect="italics">Paramecium</emphasis>) that demonstrates how at least three organelles work together to perform a specific function.</para>
+</note>
+
+<note id="fs-id1167067049591" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch04-s04-aplo-4-4 ost-tag-lo-apbio-ch04-s04-aplo-2-14"><label/><title>Think About It</title>
+<exercise id="eip-id1167065845577" class="unnumbered"><label/>
+<problem id="eip-id1167066057345">
+<para id="fs-id1167067070066">A certain cell type functions primarily to synthesize proteins for export. What is the most likely route the newly made protein takes through the cell? Justify your prediction.</para>
+</problem>
+</exercise></note></note>
+
+<note id="fs-id1167067314216" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167066860385">The activity is an application of Learning Objective 2.13 and Science Practice 6.2 and Learning Objective 4.6 and Science Practice 1.4 because students are asked to create a model that describes various organelles in a specific cell type and then describe how organelles work together to perform a characteristic function of the cell.</para>
+<para id="fs-id1167067133706">The Think About It question is an application of Learning Objective 4.4 and Science Practice 6.4 because students are making a prediction about the interactions of subcellular organelles in performing a specific function.</para>
+<note id="fs-id1167066992237"><label>Possible Answer:</label>
+<para id="fs-id1167067043787">The path is ribosomes→rough ER→vesicle→Golgi apparatus → vesicle and release. Use information in the text.</para></note>
+</note>
+
+<section id="fs-id1687072" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1322516">The endomembrane system includes the nuclear envelope, lysosomes, vesicles, the ER, and Golgi apparatus, as well as the plasma membrane. These cellular components work together to modify, package, tag, and transport proteins and lipids that form the membranes.</para>
+<para id="fs-id1994591">The RER modifies proteins and synthesizes phospholipids used in cell membranes. The SER synthesizes carbohydrates, lipids, and steroid hormones; engages in the detoxification of medications and poisons; and stores calcium ions. Sorting, tagging, packaging, and distribution of lipids and proteins take place in the Golgi apparatus. Lysosomes are created by the budding of the membranes of the RER and Golgi. Lysosomes digest macromolecules, recycle worn-out organelles, and destroy pathogens.</para>
+</section>
+
+<section id="fs-id1167066858962" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167066850274" class="os-exercise">
+<problem id="fs-id1167066826232">
+<para id="fs-id1167066804815">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex046"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066845462" class="os-exercise">
+<problem id="fs-id1167067101298">
+<para id="fs-id1167066876506">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex047"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166847354744" class="os-exercise">
+<problem id="eip-id1166850143177">
+<para id="eip-id1166849760653">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ot033"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066771156" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167063917825" class="os-exercise">
+<problem id="fs-id1167066858665">
+<para id="fs-id1167066879113">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex048"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166851066229" class="os-exercise">
+<problem id="eip-id1166850980754">
+<para id="eip-id1166848798935">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ot035"/>
+</para>
+</problem>
+</exercise>
+</section><section id="fs-id1167066993936" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167066858676" class="os-exercise ost-tag-lo-apbio-ch04-s04-aplo-2-13">
+<problem id="fs-id1167067203002">
+<para id="fs-id1167067132943">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex049"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+ </content>
+
+<glossary>
+<definition id="fs-id1686927"><term>endomembrane system</term> <meaning id="fs-id1715595">group of organelles and membranes in eukaryotic cells that work together modifying, packaging, and transporting lipids and proteins</meaning></definition>
+<definition id="fs-id1769701"><term>endoplasmic reticulum (ER)</term> <meaning id="fs-id2005605">series of interconnected membranous structures within eukaryotic cells that collectively modify proteins and synthesize lipids</meaning></definition>
+<definition id="fs-id1438096"><term>Golgi apparatus</term> <meaning id="fs-id1454036">eukaryotic organelle made up of a series of stacked membranes that sorts, tags, and packages lipids and proteins for distribution</meaning></definition>
+<definition id="fs-id878129"><term>rough endoplasmic reticulum (RER)</term> <meaning id="fs-id1699690">region of the endoplasmic reticulum that is studded with ribosomes and engages in protein modification and phospholipid synthesis</meaning></definition>
+<definition id="fs-id1954356"><term>smooth endoplasmic reticulum (SER)</term> <meaning id="fs-id1722834">region of the endoplasmic reticulum that has few or no ribosomes on its cytoplasmic surface and synthesizes carbohydrates, lipids, and steroid hormones; detoxifies certain chemicals (like pesticides, preservatives, medications, and environmental pollutants), and stores calcium ions</meaning></definition>
+</glossary>
+
+</document>

@@ -1,0 +1,201 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Connections of Carbohydrate, Protein, and Lipid Metabolic Pathways</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62791</md:content-id>
+  <md:title>Connections of Carbohydrate, Protein, and Lipid Metabolic Pathways</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the ways in which carbohydrate metabolic pathways, glycolysis, and the citric acid cycle interrelate with protein and lipid metabolic pathways</item>
+<item>Explain why metabolic pathways are not considered closed systems</item>
+</list></md:abstract>
+  <md:uuid>8e1e9618-48b4-4a84-9652-a75d43794e7f</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167066091486" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167066061244">In this section, you will explore the following question:</para>
+<list id="fs-id1167065911414">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch07-s06-lo01">How do carbohydrate metabolic pathways, glycolysis, and the citric acid cycle interrelate with protein and lipid metabolism pathways?</item>
+</list>
+</section>
+
+<section id="fs-id1167062377133" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167065787727">The breakdown and synthesis of carbohydrates, proteins, lipids, and nucleic acids connect with the metabolic pathways of glycolysis and the citric acid cycle but enter the pathways at different points. Thus, these macromolecules can be used as sources of free energy.</para>
+<para id="fs-id1167065856835">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167064774732" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.1 All living systems require constant input of free energy. Second left cell reads: Science Practice. Second right cell reads: 6.1 The student can justify claims with evidence. Third left cell reads: Learning Objective. Third right cell reads: 2.2 The student is able to justify a scientific claim that free energy is required for living systems to maintain organization, to grow or to reproduce, but that multiple strategies exist in different living systems." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.2 </emphasis></span>
+<span class="ost-standards-description">Organisms capture and store free energy for use in biological processes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s01-aplo-2-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.5 </emphasis></span>
+<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store, or use free energy.</span>
+</entry>
+</row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.1 </emphasis></span>
+<span class="ost-standards-description">All living systems require constant input of free energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.1 </emphasis></span>
+<span class="ost-standards-description">The student can justify claims with evidence.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio oost-tag-lo-apbio-ch07-s06-aplo-2-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
+<span class="ost-standards-description">The student is able to justify a scientific claim that free energy is required for living systems to maintain organization, to grow or to reproduce, but that multiple strategies exist in different living systems.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+
+<note id="fs-id1167065661440" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065848169">Discuss with students how metabolic reactions include both the breakdown of molecules and the synthesis of larger molecules. For example as discussed in Anatomy and Physiology <link window="new" url="http://openstax.org/l/32metabolic">here</link>.</para><para id="fs-id1167065827292">Metabolic processes are constantly taking place in the body. Metabolism is the sum of all of the chemical reactions that are involved in catabolism and anabolism. The reactions governing the breakdown of food to obtain energy are called catabolic reactions. Conversely, anabolic reactions use the energy produced by catabolic reactions to synthesize larger molecules from smaller ones, such as when the body forms proteins by stringing together amino acids. Both sets of reactions are critical to maintaining life.</para>
+<para id="fs-id1167064914993">Because catabolic reactions produce energy and anabolic reactions use energy, ideally, energy usage would balance the energy produced. If the net energy change is positive (catabolic reactions release more energy than the anabolic reactions use), then the body stores the excess energy by building fat molecules for long-term storage. On the other hand, if the net energy change is negative (catabolic reactions release less energy than anabolic reactions use), the body uses stored energy to compensate for the deficiency of energy released by catabolism.  </para>
+<para id="fs-id1167065948129">Have students create a visual representation of the interaction of various metabolic pathways. For example:</para>
+<figure id="fs-id1167065952768"><media id="fs-id1167066105569" alt="This flowchart shows the various reactions converting food to energy and the breakdown of fat and muscle to produce energy. Catabolic reactions occur in the breakdown of food, proteins, carbohydrates, and triglycerides into amino acids, glycogen and glucose, and glycerol and fatty acids. Catabolic reactions are also involved in cannibalization of muscle tissue to amino acids in a starvation response, and the breakdown of stored fat to glycerol and fatty acids. Anabolic reactions convert amino acids, glucose and glycerol and fatty acids to ADP. The conversion of ADP to ATP is also an anabolic reaction.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_TS_07_01_01.jpg" width="450"/>
+</media>
+<caption/>
+</figure>
+</note>
+<para id="fs-id1166847372158">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.5][APLO 2.15][APLO 3.20][APLO 1.5][APLO 1.26][APLO 4.18]</para><para id="fs-id2099754">You have learned about the catabolism of glucose, which provides energy to living cells. But living things consume more than glucose for food. How does a turkey sandwich end up as ATP in your cells? This happens because all of the catabolic pathways for carbohydrates, proteins, and lipids eventually connect into glycolysis and the citric acid cycle pathways (see  <link target-id="fig-ch07_06_02" document=""/>). Metabolic pathways should be thought of as porous—that is, substances enter from other pathways, and intermediates leave for other pathways. These pathways are not closed systems. Many of the substrates, intermediates, and products in a particular pathway are reactants in other pathways.</para>
+<section id="fs-id1982002" class="ost-tag-lo-apbio-ch07-s06-lo01 ost-tag-lo-apbio-ch07-s06-aplo-2-2 ost-get-exercise">
+<title>Connections of Other Sugars to Glucose Metabolism</title>
+<para id="fs-id1760310">Glycogen, a polymer of glucose, is an energy storage molecule in animals. When there is adequate ATP present, excess glucose is shunted into glycogen for storage. Glycogen is made and stored in both liver and muscle. The glycogen will be hydrolyzed into glucose 1-phosphate monomers (G-1-P) if blood sugar levels drop. The presence of glycogen as a source of glucose allows ATP to be produced for a longer period of time during exercise. Glycogen is broken down into G-1-P and converted into G-6-P in both muscle and liver cells, and this product enters the glycolytic pathway.</para><para id="fs-id3662169">Sucrose is a disaccharide with a molecule of glucose and a molecule of fructose bonded together with a glycosidic linkage. Fructose is one of the three dietary monosaccharides, along with glucose and galactose (which is part of the milk sugar, the disaccharide lactose), which are absorbed directly into the bloodstream during digestion. The catabolism of both fructose and galactose produces the same number of ATP molecules as glucose.</para>
+</section>
+<section id="fs-id1506941" class="ost-tag-lo-apbio-ch07-s06-lo01 ost-tag-lo-apbio-ch07-s06-aplo-2-2 ost-get-exercise">
+<title>Connections of Proteins to Glucose Metabolism</title>
+    <para id="fs-id2573481">Proteins are hydrolyzed by a variety of enzymes in cells. Most of the time, the amino acids are recycled into the synthesis of new proteins. If there are excess amino acids, however, or if the body is in a state of starvation, some amino acids will be shunted into the pathways of glucose catabolism (<link target-id="fig-ch07_06_01" document=""/>). Each amino acid must have its amino group removed prior to entry into these pathways. The amino group is converted into ammonia. In mammals, the liver synthesizes urea from two ammonia molecules and a carbon dioxide molecule. Thus, urea is the principal waste product in mammals, produced from the nitrogen originating in amino acids, and it leaves the body in urine.</para><figure id="fig-ch07_06_01" class="ost-tag-lo-apbio-ch07-s06-lo01 ost-tag-lo-apbio-ch07-s06-aplo-2-2 unnumbered"><label/><media id="fs-id1696378" alt="This illustration shows that the amino acids alanine, glycine, threonine, cysteine, and serine can be converted into pyruvate. Leucine, lysine, phenylalanine, tyrosine, tryptophan, and isoleucine can be converted into acetyl CoA. Arginine, proline, histidine, glutamine, and glutamate can be converted into α-ketoglutarate. Isoleucine, valine, methionine, and threonine can be converted into succinyl CoA. Tyrosine and phenylalanine can be converted into fumarate, and aspartate and asparagine can be converted into oxaloacetate.">
+<image mime-type="image/jpg" src="../../media/Figure_07_06_01.jpg" width="500"/>
+</media>
+<caption>The carbon skeletons of certain amino acids (indicated in boxes) derived from proteins can feed into the citric acid cycle. (credit: modification of work by Mikael Häggström)</caption></figure></section>
+<section id="fs-id2098556" class="ost-tag-lo-apbio-ch07-s06-lo01 ost-tag-lo-apbio-ch07-s06-aplo-2-2 ost-get-exercise">
+<title>Connections of Lipid and Glucose Metabolisms</title>
+<para id="fs-id2089934">The lipids that are connected to the glucose pathways are cholesterol and triglycerides. Cholesterol is a lipid that contributes to cell membrane flexibility and is a precursor of steroid hormones. The synthesis of cholesterol starts with acetyl groups and proceeds in only one direction. The process cannot be reversed.</para>
+<para id="fs-id1606166">Triglycerides are a form of long-term energy storage in animals. Triglycerides are made of glycerol and three fatty acids. Animals can make most of the fatty acids they need. Triglycerides can be both made and broken down through parts of the glucose catabolism pathways. Glycerol can be phosphorylated to glycerol-3-phosphate, which continues through glycolysis. Fatty acids are catabolized in a process called beta-oxidation that takes place in the matrix of the mitochondria and converts their fatty acid chains into two carbon units of acetyl groups. The acetyl groups are picked up by CoA to form acetyl CoA that proceeds into the citric acid cycle.</para>
+<figure id="fig-ch07_06_02" class="ost-tag-lo-apbio-ch07-s06-lo01 ost-tag-lo-apbio-ch07-s06-aplo-2-2"><media id="fs-id2570809" alt="This illustration shows that glycogen, fats, and proteins can be catabolized via aerobic respiration. Glycogen is broken down into glucose, which feeds into glycolysis at the start. Fats are broken down into glycerol, which is processed by glycolysis, and fatty acids are converted into acetyl CoA. Proteins are broken down into amino acids, which are processed at various stages of aerobic respiration, including glycolysis, acetyl CoA formation, and the citric acid cycle.">
+<image mime-type="image/jpg" src="../../media/Figure_07_06_02.jpg" width="450"/>
+</media>
+<caption>Glycogen from the liver and muscles, hydrolyzed into glucose-1-phosphate, together with fats and proteins, can feed into the catabolic pathways for carbohydrates.</caption></figure>
+<note id="fs-id1451059" class="evolution ost-assessed-feature ost-tag-lo-apbio-ch07-s06-lo01 ost-tag-lo-apbio-ch07-s06-aplo-2-2"><title>Pathways of Photosynthesis and Cellular Metabolism</title>
+<para id="fs-id3053333">The processes of photosynthesis and cellular metabolism consist of several very complex pathways. It is generally thought that the first cells arose in an aqueous environment—a “soup” of nutrients—probably on the surface of some porous clays. If these cells reproduced successfully and their numbers climbed steadily, it follows that the cells would begin to deplete the nutrients from the medium in which they lived as they shifted the nutrients into the components of their own bodies. This hypothetical situation would have resulted in natural selection favoring those organisms that could exist by using the nutrients that remained in their environment and by manipulating these nutrients into materials upon which they could survive. Selection would favor those organisms that could extract maximal value from the nutrients to which they had access.</para>
+<para id="fs-id1998100">An early form of photosynthesis developed that harnessed the sun’s energy using water as a source of hydrogen atoms, but this pathway did not produce free oxygen (anoxygenic photosynthesis). (Early photosynthesis did not produce free oxygen because it did not use water as the source of hydrogen ions; instead, it used materials like hydrogen sulfide and consequently produced sulfur). It is thought that glycolysis developed at this time and could take advantage of the simple sugars being produced, but these reactions were unable to fully extract the energy stored in the carbohydrates.  The development of glycolysis probably predated the evolution of photosynthesis, as it was well suited to extract energy from materials spontaneously accumulating in the “primeval soup.” A later form of photosynthesis used water as a source of electrons and hydrogen, and generated free oxygen. Over time, the atmosphere became oxygenated, but not before the oxygen released oxidized metals in the ocean and created a “rust” layer in the sediment, permitting the dating of the rise of the first oxygenic photosynthesizers. Living things adapted to exploit this new atmosphere that allowed aerobic respiration as we know it to evolve. When the full process of oxygenic photosynthesis developed and the atmosphere became oxygenated, cells were finally able to use the oxygen expelled by photosynthesis to extract considerably more energy from the sugar molecules using the citric acid cycle and oxidative phosphorylation.</para>
+<exercise id="fs-id1167064911948" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167062372002">
+<para id="fs-id1167065893377">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex040"/>
+</para>
+</problem>
+</exercise>
+</note>
+</section>
+
+<note id="fs-id1167065999659" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065938347" class="ost-assignable ost-sciprac-scithink"><label/>
+<title>Think About It</title>
+<exercise id="fs-id1167065759375" class="ost-tag-lo-apbio-ch07-s06-aplo-2-12 unnumbered"><label/>
+<problem id="fs-id1167065801021"><para id="fs-id1167065948878">Explain how free energy can be obtained from the metabolism of carbohydrates, proteins, lipids, and even nucleic acids. Which of these molecules provides the largest amount of free energy? Justify your answer.</para></problem>
+</exercise>
+</note>
+</note>
+<note id="fs-id1167065692197" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065965139">This question is an application of Learning Objective 2.2 and Science Practice 6.1 because students are asked to justify the claim that organisms have multiple strategies to obtain free energy necessary to power cellular processes.</para>
+<note id="fs-id1167064894668"><title>Possible answer:</title> Fatty acids and some amino acids contribute to cellular energy metabolism by providing a carbon source for entry into the citric acid cycle; carbohydrates, some amino acids and glycerol can enter glycolysis. Fats provide the most energy per molecule. Fats are broken down into fatty acids and glycerol.  Glycerol is converted into glyceraldehyde phosphate, an intermediate of glycolysis. Also, the process of beta oxidation breaks fatty acids into two-carbon fragments, which enter the citric acid cycle as acetyl CoA.</note>
+</note>
+<section id="fs-id2781116" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1006235">The breakdown and synthesis of carbohydrates, proteins, and lipids connect with the pathways of glucose catabolism. The simple sugars are galactose, fructose, glycogen, and pentose. These are catabolized during glycolysis. The amino acids from proteins connect with glucose catabolism through pyruvate, acetyl CoA, and components of the citric acid cycle. Cholesterol synthesis starts with acetyl groups, and the components of triglycerides come from glycerol-3-phosphate from glycolysis and acetyl groups produced in the mitochondria from pyruvate.</para>
+</section>
+<section id="fs-id1167066028254" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065853789" class="os-exercise">
+<problem id="fs-id1167065713180">
+<para id="fs-id1167065740541">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex041"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064531242" class="os-exercise">
+<problem id="fs-id1167064979370">
+<para id="fs-id1167064931415">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex042"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166848668626" class="os-exercise">
+<problem id="eip-id1166850955929">
+<para id="eip-id1166848849059">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ot030"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065943325" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167064901894" class="os-exercise">
+<problem id="fs-id1167065839407">
+<para id="fs-id1167064626661">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex043"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166851101760" class="os-exercise">
+<problem id="eip-id1166848668627">
+<para id="eip-id1166851065813">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ot028"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065948949" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167065865051" class="os-exercise">
+<problem id="fs-id1167065861599">
+<para id="fs-id1167065800723">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex044"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066188741" class="os-exercise">
+<problem id="fs-id1167065886765">
+<para id="fs-id1167065919037">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex045"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166850972970" class="os-exercise">
+<problem id="eip-id1166851120062">
+<para id="eip-id1166851210437">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ot027"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1166174392744" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1166170773915">
+<problem id="fs-id1166174485424">
+<para id="fs-id1166169345641">White snakeroot is a plant that contains chemicals that deactivate the enzyme lactate dehydrogenase. Humans who consume milk from cows or goats that eat white snakeroot can become ill. Symptoms of milk poisoning include vomiting, abdominal pain, and tremors, which become worse after exercise. Beyond childhood, most people do not express the enzyme lactase that catalyzes the breakdown of lactose into glucose and galactose. Consumption of milk can produce symptoms similar to those of milk poisoning. After a period of consumption of dairy foods, though, prebiotic adaptation (changes in the microbes in the intestine) imparts lactose tolerance. Since dairy foods are a valuable source of calcium, proteins, and vitamin D, considerable research has been conducted to characterize adaptation.</para>
+<para id="fs-id1166174721828">Explain the similarities and differences between the effect of milk poisoning by white snakeroot and lactose intolerance, and the possibility of prebiotic adaptation for each.</para>
+
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

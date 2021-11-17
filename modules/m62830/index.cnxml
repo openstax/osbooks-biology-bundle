@@ -1,0 +1,329 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>DNA Repair</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62830</md:content-id>
+  <md:title>DNA Repair</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the different types of mutations in DNA</item>
+<item>Explain DNA repair mechanisms</item>
+</list></md:abstract>
+  <md:uuid>ed8a22b0-427b-48c2-8d17-fb5b4f50ff19</md:uuid>
+</metadata>
+
+<content>
+
+<section id="fs-id1167061319606" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067210449">In this section, you will explore the following questions:</para>
+<list id="fs-id1167067315880">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch14-s06-lo01">What are different types of mutations in DNA and the significance of mutations?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch14-s06-lo02">What are examples of mechanisms that repair mutations in DNA?</item>
+</list>
+</section>
+
+<section id="fs-id1167067294872" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167063775066">DNA polymerase is an efficient enzyme but it can make mistakes while adding nucleotides during replication. It edits the DNA by proofreading every newly added base. An incorrect base is removed and replaced by the correct base. If a base remains mismatched, special repair enzymes can often recognize the wrongly incorporated base, excise it from the DNA, and replace it with the correct base. Most mistakes are corrected, but if they are not they may result in a mutation, which is defined as a permanent change in a DNA sequence. A mutation can be passed to daughter cells through DNA replication and cell division. There are several types of DNA mutations, including substitution, deletion, insertion, and translocation. Mutations in repair genes may lead to serious consequences, such as cancer. Mutations can be induced by environmental factors, such as UV radiation, or they can occur spontaneously. (We will explore the effects of mutation in more detail in a later chapter. Remember that mutations are not always detrimental. They can be beneficial, too. Changes in DNA increase genetic variation—the foundation of evolution by natural selection.)</para>
+<para id="fs-id1167066852236" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
+
+<para id="fs-id1167063558201" class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<span class="ost-standards-name"><emphasis>Big Idea 3 </emphasis></span>
+<span class="ost-standards-description">Living systems store, retrieve, transmit, and respond to information essential to life processes.</span>
+</para>
+<para id="fs-id1167066878788" class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c">
+<span class="ost-standards-name"><emphasis>Enduring Understanding 3.C </emphasis></span>
+<span class="ost-standards-description">The processing of genetic information is imperfect and is a source of genetic variation.</span>
+</para>
+
+<table id="fs-id1167067176660" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.C.1 Changes in genotype can result in changes in phenotype. Second left cell reads: Science Practice. Second right cell reads: 6.4 The student can make claims and predictions about natural phenomena based on scientific theories and models. Third left cell reads: Science Practice. Third right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Fourth left cell reads: Learning Objective. Fourth right cell reads: 3.24 The student is able to predict how a change in genotype, when expressed as a phenotype, provides a variation that can be subject to natural selection." class="unnumbered column-header ost-reading-discard">
+<label/>
+<tgroup cols="2">
+<colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>3.C.1 </emphasis></span>
+<span class="ost-standards-description">Changes in genotype can result in changes in phenotype.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s06-aplo-3-24">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.24 </emphasis></span>
+<span class="ost-standards-description">The student is able to predict how a change in genotype, when expressed as a phenotype, provides a variation that can be subject to natural selection.</span>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+
+<table id="fs-id1167067071652" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.C.1 Changes in genotype can result in changes in phenotype. Second left cell reads: Science Practice. Second right cell reads: 1.1: The student can create representations and models of natural or man-made phenomena and systems in the domain.  Third left cell reads: Learning Objective. Third right cell reads: 3.25 The student can create a visual representation to illustrate how changes in a DNA nucleotide sequence can result in a change in the polypeptide produced." class="unnumbered column-header ost-reading-discard">
+<label/>
+<tgroup cols="2">
+<colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.C.1 </emphasis></span>
+<span class="ost-standards-description">Changes in genotype can result in changes in phenotype.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
+<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s06-aplo-3-25">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.25 </emphasis></span>
+<span class="ost-standards-description">The student can create a visual representation to illustrate how changes in a DNA nucleotide sequence can result in a change in the polypeptide produced.</span>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+
+<table id="fs-id1167066953255" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.C.2 Biological systems have multiple processes that increase genetic variation. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 3.28 The student is able to construct an explanation of the multiple processes that increase variation within a population." class="unnumbered column-header ost-reading-discard">
+<label/>
+<tgroup cols="2">
+<colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.C.2 </emphasis></span>
+<span class="ost-standards-description">Biological systems have multiple processes that increase genetic variation.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s06-aplo-3-28">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.28 </emphasis></span>
+<span class="ost-standards-description">The student is able to construct an explanation of the multiple processes that increase variation within a population.</span>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+
+<note id="fs-id1167063470128" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067210321">Emphasize that mistakes in replication occur on a regular basis and that most are repaired or are not significant. Use Images to illustrate the effects of different types of mutations.</para>
+<para id="fs-id1167067050035">Have the class research specific mutations that cause different diseases. Ask the questions: Where are the mutations? How often do they occur? Why are these mistakes not corrected? Can they be corrected through gene therapy?</para>
+<para id="fs-id1167063491312">Ask the class if it is possible that a silent mutation might be a benefit to the individual or species at a later time.</para>
+</note>
+
+<para id="fs-id1976493">DNA replication is a highly accurate process, but mistakes can occasionally occur, such as a DNA polymerase inserting a wrong base. Uncorrected mistakes may sometimes lead to serious consequences, such as cancer. Repair mechanisms correct the mistakes. In rare cases, mistakes are not corrected, leading to mutations; in other cases, repair enzymes are themselves mutated or defective.</para>
+<para id="fs-id2348700">Most of the mistakes during DNA replication are promptly corrected by DNA polymerase by proofreading the base that has been just added (<link target-id="fig-ch14_06_01" document=""/>). In <term>proofreading</term>, the DNA pol reads the newly added base before adding the next one, so a correction can be made. The polymerase checks whether the newly added base has paired correctly with the base in the template strand. If it is the right base, the next nucleotide is added. If an incorrect base has been added, the enzyme makes a cut at the phosphodiester bond and releases the wrong nucleotide. This is performed by the exonuclease action of DNA pol III. Once the incorrect nucleotide has been removed, a new one will be added again.</para>
+<figure id="fig-ch14_06_01" class="ost-tag-lo-apbio-ch14-s06-lo02">
+<media id="fs-id2321057" alt="Illustration shows DNA polymerase replicating a strand of DNA. The enzyme has accidentally inserted G opposite A, resulting in a bulge. The enzyme backs up to fix the error.">
+<image mime-type="image/jpg" src="../../media/Figure_14_06_01.jpg" width="320"/>
+</media>
+<caption>Proofreading by DNA polymerase corrects errors during replication.</caption></figure>
+<para id="fs-id2186525">Some errors are not corrected during replication, but are instead corrected after replication is completed; this type of repair is known as <term>mismatch repair</term> (<link target-id="fig-ch14_06_02" document=""/>). The enzymes recognize the incorrectly added nucleotide and excise it; this is then replaced by the correct base. If this remains uncorrected, it may lead to more permanent damage. How do mismatch repair enzymes recognize which of the two bases is the incorrect one? In <emphasis effect="italics">E. coli</emphasis>, after replication, the nitrogenous base adenine acquires a methyl group; the parental DNA strand will have methyl groups, whereas the newly synthesized strand lacks them. Thus, DNA polymerase is able to remove the wrongly incorporated bases from the newly synthesized, non-methylated strand. In eukaryotes, the mechanism is not very well understood, but it is believed to involve recognition of unsealed nicks in the new strand, as well as a short-term continuing association of some of the replication proteins with the new daughter strand after replication has completed.</para>
+<figure id="fig-ch14_06_02" class="ost-tag-lo-apbio-ch14-s06-lo02 ost-tag-lo-apbio-ch14-s06-aplo-3-25"><media id="fs-id2025027" alt="The top illustration shows a replicated DNA strand with G-T base mismatch. The bottom illustration shows the repaired DNA, which has the correct G-C base pairing.">
+<image mime-type="image/jpg" src="../../media/Figure_14_06_02.jpg" width="250"/>
+</media>
+<caption>In mismatch repair, the incorrectly added base is detected after replication. The mismatch repair proteins detect this base and remove it from the newly synthesized strand by nuclease action. The gap is now filled with the correctly paired base.</caption></figure><para id="fs-id3000290">In another type of repair mechanism, <term>nucleotide excision repair</term>, enzymes replace incorrect bases by making a cut on both the 3' and 5' ends of the incorrect base (<link target-id="fig-ch14_06_03" document=""/>). The segment of DNA is removed and replaced with the correctly paired nucleotides by the action of DNA pol. Once the bases are filled in, the remaining gap is sealed with a phosphodiester linkage catalyzed by DNA ligase. This repair mechanism is often employed when UV exposure causes the formation of pyrimidine dimers.</para>
+<figure id="fig-ch14_06_03" class="ost-tag-lo-apbio-ch14-s06-lo02 ost-tag-lo-apbio-ch14-s06-aplo-3-25"><media id="fs-id1695253" alt="Illustration shows a DNA strand in which a thymine dimer has formed. Excision repair enzyme cut out the section of DNA that contains the dimer so it can be replaced with normal base pairs.">
+<image mime-type="image/jpg" src="../../media/Figure_14_06_03.jpg" width="200"/>
+</media>
+<caption>Nucleotide excision repairs thymine dimers. When exposed to UV, thymines lying adjacent to each other can form thymine dimers. In normal cells, they are excised and replaced.</caption></figure><para id="fs-id2078153">A well-studied example of mistakes not being corrected is seen in people suffering from xeroderma pigmentosa (<link target-id="fig-ch14_06_04" document=""/>). Affected individuals have skin that is highly sensitive to UV rays from the sun. When individuals are exposed to UV, pyrimidine dimers, especially those of thymine, are formed; people with xeroderma pigmentosa are not able to repair the damage. These are not repaired because of a defect in the nucleotide excision repair enzymes, whereas in normal individuals, the thymine dimers are excised and the defect is corrected. The thymine dimers distort the structure of the DNA double helix, and this may cause problems during DNA replication.</para><figure id="fig-ch14_06_04" class="ost-tag-lo-apbio-ch14-s06-lo02 ost-tag-lo-apbio-ch14-s06-aplo-3-24"><media id="fs-id2583496" alt="Photo shows a person with mottled skin lesions that result from xermoderma pigmentosa.">
+<image mime-type="image/jpg" src="../../media/Figure_14_06_04.jpg" width="320"/>
+</media>
+<caption>Xeroderma pigmentosa is a condition in which thymine dimerization from exposure to UV is not repaired.  Exposure to sunlight results in skin lesions. (credit: James Halpern et al.)</caption></figure><para id="fs-id1310247" class="ost-tag-lo-apbio-ch14-s06-lo01 ost-tag-lo-apbio-ch14-s06-aplo-3-28">Errors during DNA replication are not the only reason why mutations arise in DNA. <term>Mutations</term>, variations in the nucleotide sequence of a genome, can also occur because of damage to DNA. Such mutations may be of two types: induced or spontaneous. <term>Induced mutations</term> are those that result from an exposure to chemicals, UV rays, x-rays, or some other environmental agent. <term>Spontaneous mutations</term> occur without any exposure to any environmental agent; they are a result of natural reactions taking place within the body.</para>
+<para id="fs-id1368727">Mutations may have a wide range of effects. Some mutations are not expressed; these are known as <term>silent mutations</term>. <term>Point mutations</term> are those mutations that affect a single base pair. The most common nucleotide mutations are substitutions, in which one base is replaced by another. These can be of two types, either transitions or transversions. <term>Transition substitution</term> refers to a purine or pyrimidine being replaced by a base of the same kind; for example, a purine such as adenine may be replaced by the purine guanine. <term>Transversion substitution</term> refers to a purine being replaced by a pyrimidine, or vice versa; for example, cytosine, a pyrimidine, is replaced by adenine, a purine. Mutations can also be the result of the addition of a base, known as an insertion, or the removal of a base, also known as deletion. Sometimes a piece of DNA from one chromosome may get translocated to another chromosome or to another region of the same chromosome; this is also known as translocation. These mutation types are shown in <link target-id="fig-ch14_06_05" document=""/>.</para>
+
+
+<note id="fs-id1167063951200" class="ap-everyday ost-assessed-feature">
+<label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<para id="fs-id1167066870501">Sometimes a nucleotide is overlooked by the DNA repair system for no known reason. This malignant melanoma is the result of DNA not undergoing repair after too much UV exposure.</para>
+
+<figure id="fs-id1167066966407"><media id="fs-id1167063647312" alt="A close-up photo of light colored skin with a small dark, irregular and spreading patch of skin. Part of the dark patch looks like a slightly elevated mole.">
+<image mime-type="image/jpg" src="../../media/Figure_14_06_06.jpg" width="400"/></media>
+<caption/></figure>
+<exercise id="fs-id1167067100048" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067211352">
+<para id="fs-id1167063583001">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex059"/>
+</para>
+</problem>
+</exercise>
+
+</note>
+
+<note id="fs-id2046784" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch14-s06-lo01 ost-tag-lo-apbio-ch14-s06-aplo-3-28"><label>Visual Connections</label>
+<para id="fs-id2216817"><figure id="fig-ch14_06_05"><media id="fs-id2221137" alt="Illustration shows different types of point mutations that result from a single amino acid substitution. In a silent mutation, no change in the amino acid sequence occurs. In a missense mutation, one amino acid is substituted for another. In a nonsense mutation, a stop codon is substituted for an amino acid. In a frameshift mutation, one or more bases is added or deleted, resulting in a change in the reading frame.">
+<image mime-type="image/png" src="../../media/Figure_14_06_05.png" width="325"/>
+</media>
+<caption>Mutations can lead to changes in the protein sequence encoded by the DNA.</caption></figure></para>
+<exercise id="fs-id1167066852757" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167063726071">
+<para id="fs-id1167067054496">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex060"/>
+</para>
+</problem>
+</exercise>
+
+</note><para id="fs-id2936137">Mutations in repair genes have been known to cause cancer. Many mutated repair genes have been implicated in certain forms of pancreatic cancer, colon cancer, and colorectal cancer. Mutations can affect either somatic cells or germ cells. If many mutations accumulate in a somatic cell, they may lead to problems such as the uncontrolled cell division observed in cancer. If a mutation takes place in germ cells, the mutation will be passed on to the next generation, as in the case of hemophilia and xeroderma pigmentosa.</para>
+
+
+<note id="fs-id1167067028514" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch14-s06-aplo-3-28">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167067110134" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167067252115" class=" ost-tag-lo-apbio-ch14-s06-aplo-2-12 unnumbered">
+<label/>
+<problem id="fs-id1167066952739">
+<para id="fs-id1167063754896">Infertility can sometimes be explained by chromosome translocations. Explain how chromosome translocations can cause infertility. Are there times when a chromosome translocation might <emphasis effect="italics">not</emphasis> result in infertility?</para>
+</problem>
+</exercise>
+</note>
+</note>
+
+<note id="fs-id1167066868871" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067133170">The Think About It question is an application of Learning Objective 3.28 and Science Practice 6.2 because students are asked to explain a phenomenon that increases genetic variation.</para>
+<note id="fs-id1167064634859"><title>Answer</title>
+If a chromosome translocation occurs in a germ cell it could affect the function of genes required for the formation of reproductive cells. If severe enough, the mutation could give rise to infertility. A translocation in a germ cell that does not affect genes required for sex cell formation would likely not affect fertility. Neither would a translocation that occurs in a somatic cell.</note>
+</note>
+
+<section id="fs-id2065835" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1242469">DNA polymerase can make mistakes while adding nucleotides. It edits the DNA by proofreading every newly added base. Incorrect bases are removed and replaced by the correct base, and then a new base is added. Most mistakes are corrected during replication, although when this does not happen, the mismatch repair mechanism is employed. Mismatch repair enzymes recognize the wrongly incorporated base and excise it from the DNA, replacing it with the correct base. In yet another type of repair, nucleotide excision repair, the incorrect base is removed along with a few bases on the 5' and 3' end, and these are replaced by copying the template with the help of DNA polymerase. The ends of the newly synthesized fragment are attached to the rest of the DNA using DNA ligase, which creates a phosphodiester bond.</para>
+<para id="fs-id2595588">Most mistakes are corrected, and if they are not, they may result in a mutation defined as a permanent change in the DNA sequence. Mutations can be of many types, such as substitution, deletion, insertion, and translocation. Mutations can be induced or may occur spontaneously.</para>
+</section>
+
+<section id="fs-id1167067158214" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167063619421" class="os-exercise">
+<problem id="fs-id1167063419303">
+<para id="fs-id1167063734623">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex061"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067054100" class="os-exercise">
+<problem id="fs-id1167066844929">
+<para id="fs-id1167067289643">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex062"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067086651" class="os-exercise">
+<problem id="fs-id1167067311622">
+<para id="fs-id1167063580999">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex063"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067142072" class="os-exercise">
+<problem id="fs-id1167066840212">
+<para id="fs-id1167067066771">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex064"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169282552920" class="os-exercise">
+<problem id="eip-id1169282552924">
+<para id="eip-id1169282552927">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ot044"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167067053574" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167066855490" class="os-exercise">
+<problem id="fs-id1167067174085">
+<para id="fs-id1167063452618">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex065"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067203640" class="os-exercise">
+<problem id="fs-id1167066944849">
+<para id="fs-id1167066804068">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex066"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169283741644" class="os-exercise">
+<problem id="eip-id1169283741648">
+<para id="eip-id1169283741651">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ot046"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169283791057" class="os-exercise">
+<problem id="eip-id1169283791061">
+<para id="eip-id1169283671016">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ot047"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167063887199" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167067144710" class="os-exercise">
+<problem id="fs-id1167067232182">
+<para id="fs-id1167067045735">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex067"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063901860" class="os-exercise">
+<problem id="fs-id1167067184223">
+<para id="fs-id1167067308248">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex068"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066845022" class="os-exercise">
+<problem id="fs-id1167061711046">
+<para id="fs-id1167067049811">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex069"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063557230" class="os-exercise">
+<problem id="fs-id1167066947420">
+<para id="fs-id1167066844122">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex071"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066824865" class="os-exercise">
+<problem id="fs-id1167067204649">
+<para id="fs-id1167066836650">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex072"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067007373" class="os-exercise">
+<problem id="fs-id1167061243075">
+<para id="fs-id1167067248852">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex073"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-id1719569"><term>induced mutation</term> <meaning id="fs-id1769884">mutation that results from exposure to chemicals or environmental agents</meaning></definition>
+<definition id="fs-id2199830"><term>mutation</term> <meaning id="fs-id2905083">variation in the nucleotide sequence of a genome</meaning></definition>
+<definition id="fs-id2019618"><term>mismatch repair</term> <meaning id="fs-id2308429">type of repair mechanism in which mismatched bases are removed after replication</meaning></definition>
+<definition id="fs-id2013508"><term>nucleotide excision repair</term> <meaning id="fs-id2689408">type of DNA repair mechanism in which the wrong base, along with a few nucleotides upstream or downstream, are removed</meaning></definition>
+<definition id="fs-id1770263"><term>proofreading</term> <meaning id="fs-id1785888">function of DNA pol in which it reads the newly added base before adding the next one</meaning></definition>
+<definition id="fs-id1560334"><term>point mutation</term> <meaning id="fs-id2186102">mutation that affects a single base</meaning></definition>
+<definition id="fs-id1582545"><term>silent mutation</term> <meaning id="fs-id1595608">mutation that is not expressed</meaning></definition>
+<definition id="fs-id1412270"><term>spontaneous mutation</term> <meaning id="fs-id2926691">mutation that takes place in the cells as a result of chemical reactions taking place naturally without exposure to any external agent</meaning></definition>
+<definition id="fs-id2137494"><term>transition substitution</term> <meaning id="fs-id1693442">when a purine is replaced with a purine or a pyrimidine is replaced with another pyrimidine</meaning></definition>
+<definition id="fs-id1450506"><term>transversion substitution</term> <meaning id="fs-id1506870">when a purine is replaced by a pyrimidine or a pyrimidine is replaced by a purine</meaning></definition>
+</glossary>
+
+</document>

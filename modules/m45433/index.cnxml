@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Cell Membrane</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45433</md:content-id>
+  <md:title>The Cell Membrane</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand the fluid mosaic model of membranes</item>
+<item>Describe the functions of phospholipids, proteins, and carbohydrates in membranes</item>
+</list></md:abstract>
+  <md:uuid>d3b5cbe9-194c-437e-a434-d103677ea651</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp112160224">A cell’s plasma membrane defines the boundary of the cell and determines the nature of its contact with the environment. Cells exclude some substances, take in others, and excrete still others, all in controlled quantities. Plasma membranes enclose the borders of cells, but rather than being a static bag, they are dynamic and constantly in flux. The plasma membrane must be sufficiently flexible to allow certain cells, such as red blood cells and white blood cells, to change shape as they pass through narrow capillaries. These are the more obvious functions of a plasma membrane. In addition, the surface of the plasma membrane carries markers that allow cells to recognize one another, which is vital as tissues and organs form during early development, and which later plays a role in the “self” versus “non-self” distinction of the immune response.</para><para id="fs-idm88370016">The plasma membrane also carries receptors, which are attachment sites for specific substances that interact with the cell. Each receptor is structured to bind with a specific substance. For example, surface receptors of the membrane create changes in the interior, such as changes in enzymes of metabolic pathways. These metabolic pathways might be vital for providing the cell with energy, making specific substances for the cell, or breaking down cellular waste or toxins for disposal. Receptors on the plasma membrane’s exterior surface interact with hormones or neurotransmitters, and allow their messages to be transmitted into the cell. Some recognition sites are used by viruses as attachment points. Although they are highly specific, pathogens like viruses may evolve to exploit receptors to gain entry to a cell by mimicking the specific substance that the receptor is meant to bind. This specificity helps to explain why human immunodeficiency virus (HIV) or any of the five types of hepatitis viruses invade only specific cells.</para>
+<section id="fs-idp98596400">
+<title>Fluid Mosaic Model</title>
+<para id="fs-idp36394320">In 1972, S. J. Singer and Garth L. Nicolson proposed a new model of the plasma membrane that, compared to earlier understanding, better explained both microscopic observations and the function of the plasma membrane. This was called the <term>fluid mosaic model</term>. The model has evolved somewhat over time, but still best accounts for the structure and functions of the plasma membrane as we now understand them. The fluid mosaic model describes the structure of the plasma membrane as a mosaic of components—including phospholipids, cholesterol, proteins, and carbohydrates—in which the components are able to flow and change position, while maintaining the basic integrity of the membrane. Both phospholipid molecules and embedded proteins are able to diffuse rapidly and laterally in the membrane. The fluidity of the plasma membrane is necessary for the activities of certain enzymes and transport molecules within the membrane. Plasma membranes range from 5–10 nm thick. As a comparison, human red blood cells, visible via light microscopy, are approximately 8 µm thick, or approximately 1,000 times thicker than a plasma membrane. (<link target-id="fig-ch03_04_01" document=""/>)</para>
+<figure id="fig-ch03_04_01" class="  "><media id="fs-idm44156256" alt="Illustration of components of the plasma membrane, including integral and peripheral proteins, cytoskeletal filaments, cholesterol, carbohydrates, and channels">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_01-8b55.jpg" width="450"/>
+</media>
+
+<caption>The fluid mosaic model of the plasma membrane structure describes the plasma membrane as a fluid combination of phospholipids, cholesterol, proteins, and carbohydrates.</caption></figure><para id="fs-idm64781472">The plasma membrane is made up primarily of a bilayer of phospholipids with embedded proteins, carbohydrates, glycolipids, and glycoproteins, and, in animal cells, cholesterol. The amount of cholesterol in animal plasma membranes regulates the fluidity of the membrane and changes based on the temperature of the cell’s environment. In other words, cholesterol acts as antifreeze in the cell membrane and is more abundant in animals that live in cold climates.</para>
+<para id="fs-idm87723328">The main fabric of the membrane is composed of two layers of phospholipid molecules, and the polar ends of these molecules (which look like a collection of balls in an artist’s rendition of the model) (<link target-id="fig-ch03_04_01" document=""/>) are in contact with aqueous fluid both inside and outside the cell. Thus, both surfaces of the plasma membrane are hydrophilic. In contrast, the interior of the membrane, between its two surfaces, is a hydrophobic or nonpolar region because of the fatty acid tails. This region has no attraction for water or other polar molecules.</para>
+<para id="fs-idm24344032">Proteins make up the second major chemical component of plasma membranes. Integral proteins are embedded in the plasma membrane and may span all or part of the membrane. Integral proteins may serve as channels or pumps to move materials into or out of the cell. Peripheral proteins are found on the exterior or interior surfaces of membranes, attached either to integral proteins or to phospholipid molecules. Both integral and peripheral proteins may serve as enzymes, as structural attachments for the fibers of the cytoskeleton, or as part of the cell’s recognition sites.</para>
+<para id="fs-idp98627584">Carbohydrates are the third major component of plasma membranes. They are always found on the exterior surface of cells and are bound either to proteins (forming glycoproteins) or to lipids (forming glycolipids). These carbohydrate chains may consist of 2–60 monosaccharide units and may be either straight or branched. Along with peripheral proteins, carbohydrates form specialized sites on the cell surface that allow cells to recognize each other.</para>
+<note id="fs-idm47628432" class="evolution non-majors"><label/><title>Evolution in Action</title>
+
+<para id="fs-idp37714224"><title>How Viruses Infect Specific Organs</title>Specific glycoprotein molecules exposed on the surface of the cell membranes of host cells are exploited by many viruses to infect specific organs. For example, HIV is able to penetrate the plasma membranes of specific kinds of white blood cells called T-helper cells and monocytes, as well as some cells of the central nervous system. The hepatitis virus attacks only liver cells.</para>
+<para id="fs-idm41533632">These viruses are able to invade these cells, because the cells have binding sites on their surfaces that the viruses have exploited with equally specific glycoproteins in their coats. (<link target-id="fig-ch03_04_02" document=""/>). The cell is tricked by the mimicry of the virus coat molecules, and the virus is able to enter the cell. Other recognition sites on the virus’s surface interact with the human immune system, prompting the body to produce antibodies. Antibodies are made in response to the antigens (or proteins associated with invasive pathogens). These same sites serve as places for antibodies to attach, and either destroy or inhibit the activity of the virus. Unfortunately, these sites on HIV are encoded by genes that change quickly, making the production of an effective vaccine against the virus very difficult. The virus population within an infected individual quickly evolves through mutation into different populations, or variants, distinguished by differences in these recognition sites. This rapid change of viral surface markers decreases the effectiveness of the person’s immune system in attacking the virus, because the antibodies will not recognize the new variations of the surface patterns.</para>
+<figure id="fig-ch03_04_02"><media id="fs-idm91050064" alt="This illustration shows the plasma membrane of a T cell. CD4 receptors extend from the membrane into the extracellular space. The HIV virus recognizes part of the CD4 receptor and attaches to it.">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_02-b872.jpg" width="350"/>
+</media>
+
+<caption>HIV docks at and binds to the CD4 receptor, a glycoprotein on the surface of T cells, before entering, or infecting, the cell. (credit: modification of work by US National Institutes of Health/National Institute of Allergy and Infectious Diseases)</caption></figure></note></section>
+<section id="fs-idp113736208" class="summary">
+<title>Section Summary</title><para id="fs-idm110534944">The modern understanding of the plasma membrane is referred to as the fluid mosaic model. The plasma membrane is composed of a bilayer of phospholipids, with their hydrophobic, fatty acid tails in contact with each other. The landscape of the membrane is studded with proteins, some of which span the membrane. Some of these proteins serve to transport materials into or out of the cell. Carbohydrates are attached to some of the proteins and lipids on the outward-facing surface of the membrane. These form complexes that function to identify the cell to other cells. The fluid nature of the membrane owes itself to the configuration of the fatty acid tails, the presence of cholesterol embedded in the membrane (in animal cells), and the mosaic nature of the proteins and protein-carbohydrate complexes, which are not firmly fixed in place. Plasma membranes enclose the borders of cells, but rather than being a static bag, they are dynamic and constantly in flux.</para>
+</section>
+<section id="fs-idm126584976" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idp1019264">
+<problem id="fs-idp21276256">
+<para id="fs-idm87260800">Which plasma membrane component can be either found on its surface or embedded in the membrane structure?</para>
+<list id="fs-idm64097376" list-type="enumerated" number-style="lower-alpha">
+<item>protein</item>
+<item>cholesterol</item>
+<item>carbohydrate</item>
+<item>phospholipid</item>
+</list>
+</problem>
+<solution id="fs-idm126005152">
+<label/>
+<para id="fs-idm75109632">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp78248784">
+<problem id="fs-idm69109472">
+<para id="fs-idm34395008">The tails of the phospholipids of the plasma membrane are composed of _____ and are _______?</para>
+<list id="fs-idp7908896" list-type="enumerated" number-style="lower-alpha">
+<item>phosphate groups; hydrophobic</item>
+<item>fatty acid groups; hydrophilic</item>
+<item>phosphate groups; hydrophilic</item>
+<item>fatty acid groups; hydrophobic</item>
+</list>
+</problem>
+<solution id="fs-idm104019648">
+<label/>
+<para id="fs-idm94493488">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm104329664" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idm52383296">
+<problem id="fs-idm52354656">
+<para id="fs-idm101657840">Why is it advantageous for the cell membrane to be fluid in nature?</para>
+</problem>
+<solution id="fs-idm89909488">
+<label/>
+<para id="fs-idm127389296">The fluidity of the cell membrane is necessary for the operation of some enzymes and transport mechanisms within the membrane.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm74532832">
+<term>fluid mosaic model</term> <meaning id="fs-idm87571008"> a model of the structure of the plasma membrane as a mosaic of components, including phospholipids, cholesterol, proteins, and glycolipids, resulting in a fluid rather than static character</meaning>
+</definition>
+</glossary>
+</document>

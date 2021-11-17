@@ -1,0 +1,194 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Determining Evolutionary Relationships</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45509</md:content-id>
+  <md:title>Determining Evolutionary Relationships</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Compare homologous and analogous traits</item>
+<item>Discuss the purpose of cladistics</item>
+</list></md:abstract>
+  <md:uuid>2bb8cc75-8b06-41bd-a128-28e9aca3c47c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm257331488">Scientists collect information that allows them to make evolutionary connections between organisms. Similar to detective work, scientists must use evidence to uncover the facts. In the case of phylogeny, evolutionary investigations focus on two types of evidence: morphologic (form and function) and genetic.</para>
+<section id="fs-idm51645280">
+<title>Two Measures of Similarity</title>
+<para id="fs-idm278631328">Organisms that share similar physical features <emphasis effect="italics">and</emphasis> genetic sequences tend to be more closely related than those that do not. Features that overlap both morphologically and genetically are referred to as homologous structures; the similarities stem from common evolutionary paths. For example, as shown in <link target-id="fig-ch12_02_01" document=""/>, the bones in the wings of bats and birds, the arms of humans, and the foreleg of a horse are homologous structures. Notice the structure is not simply a single bone, but rather a grouping of several bones arranged in a similar way in each organism even though the elements of the structure may have changed shape and size.</para>
+<figure id="fig-ch12_02_01" class=" "><media id="fs-idm237644512" alt="Photo A shows a bird in flight, with a corresponding drawing of bird wing bones. Photo B shows a bat in flight with a corresponding drawing of bat wing bones. Photo C shows a horse, with a corresponding drawing of front leg bones. Photo D shows a beluga whale, with a corresponding drawing of flipper bones. Photo E shows a human arm, with a corresponding drawing of arm bones. All the limbs share common bones, analogous to the bones in the arms and fingers of humans. However, in the bat wing, finger bones are long and separate and form a scaffolding on which the wing’s membrane is stretched. In the bird wing, the finger bones are fused together. In the horse leg, the ulna is shortened and is fused to the radius. The hand bones are reduced to one long thick bone and the finger bones are reduced to one long thick finger with a modified nail or hoof. In the whale flipper, the humerus, ulna, and radius are very short and thick.">
+<image mime-type="image/jpg" src="../../media/Figure_12_02_01.jpg" width="550"/>
+</media>
+<caption>Bat and bird wings, the foreleg of a horse, the flipper of a whale, and the arm of a human are homologous structures, indicating that bats, birds, horses, whales, and humans share a common evolutionary past. (credit a photo: modification of work by Steve Hillebrand, USFWS; credit b photo: modification of work by U.S. BLM; credit c photo: modification of work by Virendra Kankariya; credit d photo: modification of work by Russian Gov./Wikimedia Commons)</caption></figure><section id="fs-idm129737424">
+<title>Misleading Appearances</title>
+<para id="fs-idm102668560">Some organisms may be very closely related, even though a minor genetic change caused a major morphological difference to make them look quite different. For example, chimpanzees and humans, the skulls of which are shown in <link target-id="fig-ch12_02_02" document=""/> are very similar genetically, sharing 99 percent<footnote id="fs-idm40284000">Gibbons, A. (2012, June 13). <emphasis effect="italics">Science Now</emphasis>. Retrieved from http://news.sciencemag.org/sciencenow/2012/06/bonobo-genome-sequenced.html</footnote> of their genes. However, chimpanzees and humans show considerable anatomical differences, including the degree to which the jaw protrudes in the adult and the relative lengths of our arms and legs.</para>
+<figure id="fig-ch12_02_02" class=" "><media id="fs-idm305229008" alt="Photo A is of a chimpanzee skull. There is a prominent ridged brow, the eye and nose area is quite flat, and the maxilla and mandible (the jaw) protrude. Photo B is of a human skull. The cranium is proportionately larger than the chimpanzee, the brow is smooth, the nose and cheekbones are more prominent and the mandible and maxilla protrude only slightly.">
+<image mime-type="image/jpg" src="../../media/Figure_12_02_02ab.jpg" width="475"/>
+</media>
+<caption>(a) The chimpanzee jaw protrudes to a much greater degree than (b) the human jaw. (credit a: modification of work by "Pastorius"/Wikimedia Commons)</caption></figure><para id="fs-idm241231920">However, unrelated organisms may be distantly related yet appear very much alike, usually because common adaptations to similar environmental conditions evolved in both. An example is the streamlined body shapes, the shapes of fins and appendages, and the shape of the tails in fishes and whales, which are mammals. These structures bear superficial similarity because they are adaptations to moving and maneuvering in the same environment—water. When a characteristic that is similar occurs by adaptive convergence (convergent evolution), and not because of a close evolutionary relationship, it is called an <term>analogous structure</term>. In another example, insects use wings to fly like bats and birds. We call them both wings because they perform the same function and have a superficially similar form, but the embryonic origin of the two wings is completely different. The difference in the development, or embryogenesis, of the wings in each case is a signal that insects and bats or birds do not share a common ancestor that had a wing. The wing structures, shown in <link target-id="fig-ch12_02_03" document=""/> evolved independently in the two lineages.</para>
+<para id="fs-idm96516000">Similar traits can be either homologous or analogous. Homologous traits share an evolutionary path that led to the development of that trait, and analogous traits do not. Scientists must determine which type of similarity a feature exhibits to decipher the phylogeny of the organisms being studied.</para>
+<figure id="fig-ch12_02_03" class=" "><media id="fs-idm263472928" alt=" Part A shows a bat wing, part B shows a bat wing, and part C shows a bee wing. All are similar in overall shape. However, the bird wing and bat wing are both made from homologous bones that are similar in appearance. The bee wing is made of a thin, membranous material rather than bone.">
+<image mime-type="image/jpg" src="../../media/Figure_12_02_03-90ae.jpg" width="550"/>
+</media>
+<caption>The wing of a honey bee is similar in shape to a bird wing and a bat wing and serves the same function (flight). The bird and bat wings are homologous structures. However, the honey bee wing has a different structure (it is made of a chitinous exoskeleton, not a boney endoskeleton) and embryonic origin. The bee and bird or bat wing types illustrate an analogy—similar structures that do not share an evolutionary history. (credit a photo: modification of work by U.S. BLM; credit b: modification of work by Steve Hillebrand, USFWS; credit c: modification of work by Jon Sullivan)</caption></figure><note id="fs-idm178594016" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idm221663872">This <link window="new" url="http://peabody.yale.edu/exhibits/tree-of-life/extreme-divergence">website</link> has several examples to show how appearances can be misleading in understanding the phylogenetic relationships of organisms.</para>
+</note></section>
+<section id="fs-idm263713056"><title>Molecular Comparisons</title><para id="fs-idm169088400">With the advancement of DNA technology, the area of <term>molecular systematics</term>, which describes the use of information on the molecular level including DNA sequencing, has blossomed. New analysis of molecular characters not only confirms many earlier classifications, but also uncovers previously made errors. Molecular characters can include differences in the amino-acid sequence of a protein, differences in the individual nucleotide sequence of a gene, or differences in the arrangements of genes. Phylogenies based on molecular characters assume that the more similar the sequences are in two organisms, the more closely related they are. Different genes change evolutionarily at different rates and this affects the level at which they are useful at identifying relationships. Rapidly evolving sequences are useful for determining the relationships among closely related species. More slowly evolving sequences are useful for determining the relationships between distantly related species. To determine the relationships between very different species such as Eukarya and Archaea, the genes used must be very ancient, slowly evolving genes that are present in both groups, such as the genes for ribosomal RNA. Comparing phylogenetic trees using different sequences and finding them similar helps to build confidence in the inferred relationships.</para>
+<para id="fs-idm171377088">Sometimes two segments of DNA in distantly related organisms randomly share a high percentage of bases in the same locations, causing these organisms to appear closely related when they are not. For example, the fruit fly shares 60 percent of its DNA with humans.<footnote id="fs-idm1795296"><emphasis effect="italics">Background on comparative genomic analysis</emphasis>. (2002, December). Retrieved from http://www.genome.gov/10005835</footnote> In this situation, computer-based statistical algorithms have been developed to help identify the actual relationships, and ultimately, the coupled use of both morphologic and molecular information is more effective in determining phylogeny.</para>
+<note id="fs-idm134491360" class="evolution non-majors">
+<label/>
+<title>Evolution in Action</title>
+<para id="fs-idm63651440"><title>Why Does Phylogeny Matter?</title>In addition to enhancing our understanding of the evolutionary history of species, our own included, phylogenetic analysis has numerous practical applications. Two of those applications include understanding the evolution and transmission of disease and making decisions about conservation efforts. A 2010 study<footnote id="fs-idm305793840">Harris, S.R. et al. 2010. Evolution of MRSA during hospital transmission and intercontinental spread. <emphasis effect="italics">Science</emphasis> 327:469–474.</footnote> of MRSA (methicillin-resistant <emphasis effect="italics">Staphylococcus aureus</emphasis>), an antibiotic resistant pathogenic bacterium, traced the origin and spread of the strain throughout the past 40 years. The study uncovered the timing and patterns in which the resistant strain moved from its point of origin in Europe to centers of infection and evolution in South America, Asia, North America, and Australasia. The study suggested that introductions of the bacteria to new populations occurred very few times, perhaps only once, and then spread from that limited number of individuals. This is in contrast to the possibility that many individuals had carried the bacteria from one place to another. This result suggests that public health officials should concentrate on quickly identifying the contacts of individuals infected with a new strain of bacteria to control its spread.</para><para id="fs-idm147842608">A second area of usefulness for phylogenetic analysis is in conservation. Biologists have argued that it is important to protect species throughout a phylogenetic tree rather than just those from one branch of the tree. Doing this will preserve more of the variation produced by evolution. For example, conservation efforts should focus on a single species without sister species rather than another species that has a cluster of close sister species that recently evolved. If the single evolutionarily distinct species goes extinct a disproportionate amount of variation from the tree will be lost compared to one species in the cluster of closely related species. A study published in 2007<footnote id="fs-idm104015536">Isaac NJ, Turvey ST, Collen B, Waterman C, Baillie JE (2007) Mammals on the EDGE: Conservation Priorities Based on Threat and Phylogeny. PLoS ONE 2(3): e296. doi:10.1371/journal.pone.0000296</footnote> made recommendations for conservation of mammal species worldwide based on how evolutionarily distinct and at risk of extinction they are. The study found that their recommendations differed from priorities based on simply the level of extinction threat to the species. The study recommended protecting some threatened and valued large mammals such as the orangutans, the giant and lesser pandas, and the African and Asian elephants. But they also found that some much lesser known species should be protected based on how evolutionary distinct they are. These include a number of rodents, bats, shrews and hedgehogs. In addition there are some critically endangered species that did not rate as very important in evolutionary distinctiveness including species of deer mice and gerbils. While many criteria affect conservation decisions, preserving phylogenetic diversity provides an objective way to protect the full range of diversity generated by evolution.</para>
+</note>
+</section></section>
+<section id="fs-idm112079984">
+<title>Building Phylogenetic Trees</title>
+<para id="fs-idm233577024">How do scientists construct phylogenetic trees? Presently, the most accepted method for constructing phylogenetic trees is a method called <term>cladistics</term>. This method sorts organisms into <term>clades</term>, groups of organisms that are most closely related to each other and the ancestor from which they descended. For example, in <link target-id="fig-ch12_02_04" document=""/>, all of the organisms in the shaded region evolved from a single ancestor that had amniotic eggs. Consequently, all of these organisms also have amniotic eggs and make a single clade, also called a <term>monophyletic group</term>. Clades must include the ancestral species and all of the descendants from a branch point.</para>
+<note id="fs-idm148921440" class="visual-connection"><label/><title>Visual Connection</title>
+<figure id="fig-ch12_02_04"><media id="fs-idm132913920" alt="Illustration shows the V-shaped Vertebrata clade, which includes lancelets, lamprey, fish, lizards, rabbits and humans. Lancelets are at the left tip of the V, and humans are at the right tip. Four more lines are drawn parallel to the lancelet line; each of these lines starts further up the right arm of the V than the next. At the end of each line, from left to right, are lampreys, fish, lizards, and rabbits. Lizards, rabbits and humans, which form a small V nested in the upper right corner of the Vertebrata V, are in the clade Amniota.">
+<image mime-type="image/png" src="../../media/Figure_12_02_04f.png" width="320"/>
+</media>
+<caption>Lizards, rabbits, and humans all descend from a common ancestor in which the amniotic egg evolved. Thus, lizards, rabbits, and humans all belong to the clade Amniota. Vertebrata is a larger clade that also includes fish and lamprey.</caption></figure>
+<para id="fs-idm153567136">Which animals in this figure belong to a clade that includes animals with hair? Which evolved first: hair or the amniotic egg?</para>
+<!--<para><link target-id="fig-ch12_02_03" document=""/> Rabbits and humans belong in the clade that includes animals with hair. The amniotic egg evolved before hair, because the Amniota clade branches off earlier than the clade that encompasses animals with hair.</para>-->
+</note><para id="fs-idm34662496">Clades can vary in size depending on which branch point is being referenced. The important factor is that all of the organisms in the clade or monophyletic group stem from a single point on the tree. This can be remembered because monophyletic breaks down into “mono,” meaning one, and “phyletic,” meaning evolutionary relationship.</para>
+<section id="fs-idm159766512">
+<title>Shared Characteristics</title>
+<para id="fs-idm146512016">Cladistics rests on three assumptions. The first is that living things are related by descent from a common ancestor, which is a general assumption of evolution. The second is that speciation occurs by splits of one species into two, never more than two at a time, and essentially at one point in time. This is somewhat controversial, but is acceptable to most biologists as a simplification. The third assumption is that traits change enough over time to be considered to be in a different state .It is also assumed that one can identify the actual direction of change for a state. In other words, we assume that an amniotic egg is a later character state than non-amniotic eggs. This is called the polarity of the character change. We know this by reference to a group outside the clade: for example, insects have non-amniotic eggs; therefore, this is the older or ancestral character state. Cladistics compares ingroups and outgroups. An ingroup (lizard, rabbit and human in our example) is the group of taxa being analyzed. An outgroup (lancelet, lamprey and fish in our example) is a species or group of species that diverged before the lineage containing the group(s) of interest. By comparing ingroup members to each other and to the outgroup members, we can determine which characteristics are evolutionary modifications determining the branch points of the ingroup’s phylogeny.</para>
+<para id="fs-idm179048976">If a characteristic is found in all of the members of a group, it is a <term>shared ancestral character</term> because there has been no change in the trait during the descent of each of the members of the clade. Although these traits appear interesting because they unify the clade, in cladistics they are considered not helpful when we are trying to determine the relationships of the members of the clade because every member is the same. In contrast, consider the amniotic egg characteristic of <link target-id="fig-ch12_02_04" document=""/>. Only some of the organisms have this trait, and to those that do, it is called a <term>shared derived character</term> because this trait changed at some point during descent. This character does tell us about the relationships among the members of the clade; it tells us that lizards, rabbits, and humans group more closely together than any of these organisms do with fish, lampreys, and lancelets.</para><para id="fs-idm48760912">A sometimes confusing aspect of “ancestral” and “derived” characters is that these terms are relative. The same trait could be either ancestral or derived depending on the diagram being used and the organisms being compared. Scientists find these terms useful when distinguishing between clades during the building of phylogenetic trees, but it is important to remember that their meaning depends on context.</para>
+</section>
+<section id="fs-idm130108848">
+<title>Choosing the Right Relationships</title>
+<para id="fs-idm283032416">Constructing a phylogenetic tree, or cladogram, from the character data is a monumental task that is usually left up to a computer. The computer draws a tree such that all of the clades share the same list of derived characters. But there are other decisions to be made, for example, what if a species presence in a clade is supported by all of the shared derived characters for that clade except one? One conclusion is that the trait evolved in the ancestor, but then changed back in that one species. Also a character state that appears in two clades must be assumed to have evolved independently in those clades. These inconsistencies are common in trees drawn from character data and complicate the decision-making process about which tree most closely represents the real relationships among the taxa.</para>
+<para id="fs-idm37801280">To aid in the tremendous task of choosing the best tree, scientists often use a concept called <term>maximum parsimony</term>, which means that events occurred in the simplest, most obvious way. This means that the “best” tree is the one with the fewest number of character reversals, the fewest number of independent character changes, and the fewest number of character changes throughout the tree. Computer programs search through all of the possible trees to find the small number of trees with the simplest evolutionary pathways. Starting with all of the homologous traits in a group of organisms, scientists can determine the order of evolutionary events of which those traits occurred that is the most obvious and simple.</para>
+<note id="fs-idm182155840" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idm247258800">Practice Parsimony: Go to <link window="new" url="http://openstax.org/l/parsimony2">this website</link> to learn how maximum parsimony is used to create phylogenetic trees (be sure to continue to the second page).</para>
+</note><para id="fs-idm224242784">These tools and concepts are only a few of the strategies scientists use to tackle the task of revealing the evolutionary history of life on Earth. Recently, newer technologies have uncovered surprising discoveries with unexpected relationships, such as the fact that people seem to be more closely related to fungi than fungi are to plants. Sound unbelievable? As the information about DNA sequences grows, scientists will become closer to mapping the evolutionary history of all life on Earth.</para>
+</section>
+</section>
+<section id="fs-idm301201136" class="summary">
+<title>Section Summary</title><para id="fs-idp66669648">To build phylogenetic trees, scientists must collect character information that allows them to make evolutionary connections between organisms. Using morphologic and molecular data, scientists work to identify homologous characteristics and genes. Similarities between organisms can stem either from shared evolutionary history (homologies) or from separate evolutionary paths (analogies). After homologous information is identified, scientists use cladistics to organize these events as a means to determine an evolutionary timeline. Scientists apply the concept of maximum parsimony, which states that the likeliest order of events is probably the simplest shortest path. For evolutionary events, this would be the path with the least number of major divergences that correlate with the evidence.</para>
+</section>
+<section id="fs-idm165659888" class="visual-exercise">
+<exercise id="fs-idm37706768">
+<problem id="fs-idm146678080">
+<para id="fs-idm159762864"><link target-id="fig-ch12_02_03" document=""/> Which animals in this figure belong to a clade that includes animals with hair? Which evolved first: hair or the amniotic egg?</para></problem>
+<solution id="fs-idm97604512">
+<label/>
+<para id="fs-idm39771168"><link target-id="fig-ch12_02_03" document=""/> Rabbits and humans belong in the clade that includes animals with hair. The amniotic egg evolved before hair, because the Amniota clade branches off earlier than the clade that encompasses animals with hair.</para></solution>
+</exercise>
+</section>
+<section id="fs-idm305777248" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm315506864">
+<problem id="fs-idm277351840">
+<para id="fs-idm197389312">Which statement about analogies is correct?</para>
+<list id="fs-idm109102320" list-type="enumerated" number-style="lower-alpha">
+<item>They occur only as errors.</item>
+<item>They are synonymous with homologous traits.</item>
+<item>They are derived by response to similar environmental pressures.</item>
+<item>They are a form of mutation.</item>
+</list>
+</problem>
+<solution id="fs-idm248656672">
+<label/>
+<para id="fs-idm176662096">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm271840096">
+<problem id="fs-idm188456544">
+<para id="fs-idm272693600">What kind of trait is important to cladistics?</para>
+<list id="fs-idm282473088" list-type="enumerated" number-style="lower-alpha">
+<item>shared derived traits</item>
+<item>shared ancestral traits</item>
+<item>analogous traits</item>
+<item>parsimonious traits</item>
+</list>
+</problem>
+<solution id="fs-idm195640592">
+<label/>
+<para id="fs-idm50702464">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm400711888">
+<problem id="fs-idm146048048">
+<para id="fs-idm298667168">What is true about organisms that are a part of the same clade?</para>
+<list id="fs-idm47169680" list-type="enumerated" number-style="lower-alpha">
+<item>They all share the same basic characteristics.</item>
+<item>They evolved from a shared ancestor.</item>
+<item>They all are on the same tree.</item>
+<item>They have identical phylogenies.</item>
+</list>
+</problem>
+<solution id="fs-idm262071536">
+<label/>
+<para id="fs-idm313234576">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm312218096">
+<problem id="fs-idp47691280">
+<para id="fs-idm36919840">Which assumption of cladistics is stated incorrectly?</para>
+<list id="fs-idm273680192" list-type="enumerated" number-style="lower-alpha">
+<item>Living things are related by descent from a common ancestor.</item>
+<item>Speciation can produce one, two, or three new species.</item>
+<item>Traits change from one state to another.</item>
+<item>The polarity of a character state change can be determined.</item>
+</list>
+</problem>
+<solution id="fs-idm147605824">
+<label/>
+<para id="fs-idm273364848">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm220568704">
+<problem id="fs-idm176969248">
+<para id="fs-idm138363760">A monophyletic group is a ________.</para>
+<list id="fs-idm197841200" list-type="enumerated" number-style="lower-alpha">
+<item>phylogenetic tree</item>
+<item>shared derived trait</item>
+<item>character state</item>
+<item>clade</item>
+</list>
+</problem>
+<solution id="fs-idm245756768">
+<label/>
+<para id="fs-idm257322400">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm225940384" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idm140439456">
+<problem id="fs-idm277522016"><para id="fs-idm73091040">Dolphins and fish have similar body shapes. Is this feature more likely a homologous or analogous trait?</para></problem>
+<solution id="fs-idm261108976"><label/>
+<para id="fs-idm16195168">Dolphins are mammals and fish are not, which means that their evolutionary paths (phylogenies) are quite separate. Dolphins probably adapted to have a similar body plan after returning to an aquatic lifestyle, and therefore this trait is probably analogous.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm48785936">
+<problem id="fs-idm178114992"><para id="fs-idm40502688">Describe maximum parsimony.</para></problem>
+<solution id="fs-idm179373152"><label/>
+<para id="fs-idm227593120">Maximum parsimony hypothesizes that events occurred in the simplest, most obvious way, and the pathway of evolution probably includes the fewest major events that coincide with the evidence at hand.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm277492048">
+<problem id="fs-idp61097904"><para id="fs-idm222116448">How does a biologist determine the polarity of a character change?</para></problem>
+<solution id="fs-idm216213152"><label/>
+<para id="fs-idm100482416">The biologist looks at the state of the character in an outgroup, an organism that is outside the clade for which the phylogeny is being developed. The polarity of the character change is from the state of the character in the outgroup to the second state.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm176905440"><term>analogous structure</term> <meaning id="fs-idm80942864">a character found in two taxa that looks similar because of convergent evolution, not because of descent from a common ancestor</meaning></definition>
+<definition id="fs-idm276592208"><term>clade</term> <meaning id="fs-idm260592672">a group of taxa with the same set of shared derived characters, including an ancestral species and all its descendants</meaning></definition>
+<definition id="fs-idm190607392"><term>cladistics</term> <meaning id="fs-idm262894320">a method used to organize homologous traits to describe phylogenies using common descendent as the primary criterion used to classify organisms</meaning></definition>
+<definition id="fs-idm206073536"><term>maximum parsimony</term> <meaning id="fs-idm305260944">applying the simplest, most obvious way with the least number of steps</meaning></definition>
+<definition id="fs-idm237667920"><term>molecular systematics</term> <meaning id="fs-idm107577168">the methods of using molecular evidence to identify phylogenetic relationships</meaning></definition>
+<definition id="fs-idm212118736"><term>monophyletic group</term> <meaning id="fs-idm108381872">(also, clade) organisms that share a single ancestor</meaning></definition>
+<definition id="fs-idm36085056"><term>shared ancestral character</term> <meaning id="fs-idm146751360">a character on a phylogenetic branch that is shared by a particular clade</meaning></definition>
+<definition id="fs-idm299495104"><term>shared derived character</term> <meaning id="fs-idm154010464">a character on a phylogenetic tree that is shared only by a certain clade of organisms</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,870 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Determining Evolutionary Relationships</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62903</md:content-id>
+  <md:title>Determining Evolutionary Relationships</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Compare homologous and analogous traits</item>
+<item>Discuss the purpose of cladistics</item>
+<item>Describe maximum parsimony</item>
+</list></md:abstract>
+  <md:uuid>7b94a598-4a06-41ea-bf20-3658712e2542</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167067276300" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067021236"/>
+<list id="fs-id1167063622245">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch20-s02-lo01">What is the difference between homologous and analogous traits? How are these traits used when determining evolutionary relatedness?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch20-s02-lo02">What is cladistics? How does a cladogram differ from a phylogenetic tree?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch20-s02-lo03">What is parsimony?</item>
+</list>
+</section>
+<section id="fs-id1167061190331" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167063715313">To build phylogenetic trees, scientists must collect accurate information that allows them to make evolutionary connections among organisms. Using morphological and molecular data, scientists identify both homologous and analogous characteristics and genes. (In a prior chapter we explored the differences between homologous and analogous traits and how they relate to convergent and divergent evolution.) Similarities among organisms stem either from shared ancestral history (homologies) or from separate evolutionary paths (analogies). <emphasis>Cladograms</emphasis> are constructed by using shared derived traits to distinguish different groups of species from one another. For example, lizards, rabbits and humans all descended from a common ancestor that had an amniotic egg; thus, lizards, rabbits, and humans all belong to the same clade. Vertebrata is a larger clade that also includes fish, lamprey, and lancelets. The closer two species or groups are located to each on a phylogenetic tree or cladogram, they more recently they shared a common ancestor. With the influx of new information, scientists can revise phylogenetic trees; for example, computer programs, such as one called BLAST, which helps determine relatedness using DNA sequencing. Typically, a phylogenetic tree is constructed with the simplest explanation of evolutionary history (maximum <emphasis>parsimony</emphasis>) and the fewest number of evolutionary steps.</para>
+<para id="fs-id1167066959667" class="ost-reading-discard">Understanding phylogeny extends far beyond understanding the evolutionary history of species on Earth. For botanists, phylogeny acts as a guide to discovering new plants that can be used to make food, medicine, and clothing. For doctors, phylogenies provide information about the origin of diseases and how to treat them, for example, HIV/AIDS.</para>
+<para id="fs-id1167063524974" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167067186221" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.A.4 Biological evolution is supported by scientific evidence from many disciplines, including mathematics. Second left cell reads: Science Practice. Second right cell reads: 5.3 The student can evaluate the evidence provided by data sets in relation to a particular scientific question. Third left cell reads: Learning Objective. Third right cell reads: 1.9 The student is able to evaluate evidence provided by data from many scientific disciplines that support biological evolution." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.A</emphasis></entry>
+<entry class="ost-standards-description">Change in the genetic makeup of a population over time is evolution.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.4 </emphasis></span>
+<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-9">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.9 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate evidence provided by data from many scientific disciplines that support biological evolution.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.4 </emphasis></span>
+<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.2 </emphasis></span>
+<span class="ost-standards-description">The student can refine observations and measurements based on data analysis.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-10">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.10 </emphasis></span>
+<span class="ost-standards-description">The student is able to refine evidence based on data from many scientific disciplines that support biological evolution.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.4 </emphasis></span>
+<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-4-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
+<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-11">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.11 </emphasis></span>
+<span class="ost-standards-description">The student is able to design a plan to answer scientific questions regarding how organisms have changed over time using information from morphology, biochemistry, and geology.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.4 </emphasis></span>
+<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-12">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.12 </emphasis></span>
+<span class="ost-standards-description">The student is able to connect scientific evidence from many scientific disciplines to support the modern concept of evolution.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.4 </emphasis></span>
+<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
+<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span></entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.1 </emphasis></span>
+<span class="ost-standards-description">The student can justify the selection of a mathematical routine to solve problems.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-13">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.13 </emphasis></span>
+<span class="ost-standards-description">The student is able to construct and/or justify mathematical models, diagrams or simulations that represent processes of biological evolution.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
+<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1 </emphasis></span>
+<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-14">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.14 </emphasis></span>
+<span class="ost-standards-description">The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insight into the history of life on Earth.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1 </emphasis></span>
+<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-15">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.15 </emphasis></span>
+<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1 </emphasis></span>
+<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.1 </emphasis></span>
+<span class="ost-standards-description">The student can justify claims with evidence.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-16">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.16 </emphasis></span>
+<span class="ost-standards-description">The student is able to justify the scientific claim that organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.2 </emphasis></span>
+<span class="ost-standards-description">Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-17">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.17 </emphasis></span>
+<span class="ost-standards-description">The student is able to pose scientific questions about a group of organisms whose relatedness is described by a phylogenetic tree or cladogram.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.2 </emphasis></span>
+<span class="ost-standards-description">Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-18">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.18 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate evidence provided by a data set in conjunction with a phylogenetic tree or simple cladogram to determine evolutionary history and speciation.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.2 </emphasis></span>
+<span class="ost-standards-description">Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
+<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span></entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.1 </emphasis></span>
+<span class="ost-standards-description">The student can justify the selection of a mathematical routine to solve problems.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-19">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.19 </emphasis></span>
+<span class="ost-standards-description">The student is able to create a phylogenetic tree or simple cladogram that correctly represents evolutionary history and speciation from a provided data set.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table></section>
+<para id="fs-id1166849933756">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 1.15][APLO 1.16][APLO 1.18][APLO 1.17][APLO 1.19][APLO 1.26]</para><section id="fs-idp96162000" class="ost-tag-lo-apbio-ch20-s02-lo01 ost-tag-lo-apbio-ch20-s02-aplo-1-9 ost-get-exercise">
+<title>Two Options for Similarities</title>
+<para id="fs-idp56426176">In general, organisms that share similar physical features and genomes tend to be more closely related than those that do not. Such features that overlap both morphologically (in form) and genetically are referred to as homologous structures; they stem from developmental similarities that are based on evolution. For example, the bones in the wings of bats and birds have homologous structures. This is an example of morphological <term>homology</term> (<link target-id="fig-ch20_02_01" document=""/>).</para><figure id="fig-ch20_02_01" class="ost-tag-lo-apbio-ch20-s02-lo01"><media id="fs-idp86426144" alt=" Photo a shows a bird in flight with a corresponding drawing of a bird wing. Photo b is a bat in flight with a corresponding drawing of a bat wing. Both the bird wing and the bat wing share common bones, analogous to the bones in the arms and fingers of humans. However, in the bat wing, the finger bones are long and separate and form a scaffolding on which the wing’s membrane is stretched. In the bird wing, the finger bones are short and fused together at the front of the wing.">
+<image mime-type="image/jpg" src="../../media/Figure_20_02_01-5b8b.jpg" width="440"/>
+</media>
+
+<caption>Bat and bird wings are homologous structures, indicating that bats and birds share a common evolutionary past. (credit a: modification of work by Steve Hillebrand, USFWS; credit b: modification of work by U.S. DOI BLM)</caption></figure><para id="fs-idp55123216">Notice it is not simply a single bone, but rather a grouping of several bones arranged in a similar way. The more complex the feature, the more likely any kind of overlap is due to a common evolutionary past. Imagine two people from different countries both inventing a car with all the same parts and in exactly the same arrangement without any previous or shared knowledge. That outcome would be highly improbable. However, if two people both invented a hammer, it would be reasonable to conclude that both could have the original idea without the help of the other. The same relationship between complexity and shared evolutionary history is true for homologous structures in organisms.</para>
+<section id="fs-idm9365056">
+<title>Misleading Appearances</title>
+<para id="fs-idp88564512">Some organisms may be very closely related, even though a minor genetic change caused a major morphological difference to make them look quite different. Similarly, unrelated organisms may be distantly related, but appear very much alike. This usually happens because both organisms were in common adaptations that evolved within similar environmental conditions. When similar characteristics occur because of environmental constraints and not due to a close evolutionary relationship, it is called an <emphasis>analogy</emphasis> or homoplasy. For example, insects use wings to fly like bats and birds, but the wing structure and embryonic origin is completely different. These are called analogous structures (<link target-id="fig-ch20_02_02abc" document=""/>).</para>
+<para id="fs-idp46122432">Similar traits can be either homologous or analogous. Homologous structures share a similar embryonic origin; analogous organs have a similar function. For example, the bones in the front flipper of a whale are homologous to the bones in the human arm. These structures are not analogous. The wings of a butterfly and the wings of a bird are analogous but not homologous. Some structures are both analogous and homologous: the wings of a bird and the wings of a bat are both homologous and analogous. Scientists must determine which type of similarity a feature exhibits to decipher the phylogeny of the organisms being studied.</para>
+<figure id="fig-ch20_02_02abc" class="ost-tag-lo-apbio-ch20-s02-lo01"><media id="fs-idp100913104" alt=" Photo a shows a bat wing, photo b shows a bird wing, and photo c shows a honeybee wing, and all three are similar in overall shape. However, the bird wing and bat wing are both made from homologous bones that are similar in appearance. The honeybee wing is made of a thin, membranous material rather than bone.">
+<image mime-type="image/jpg" src="../../media/Figure_20_02_02-6526.jpg" width="450"/>
+</media>
+
+<caption>The (c) wing of a honeybee is similar in shape to a (b) bird wing and (a) bat wing, and it serves the same function. However, the honeybee wing is not composed of bones and has a distinctly different structure and embryonic origin. These wing types (insect versus bat and bird) illustrate an analogy—similar structures that do not share an evolutionary history. (credit a: modification of work by Steve Hillebrand, USFWS; credit b: modification of work by U.S. DOI BLM; credit c: modification of work by Jon Sullivan)</caption></figure><note id="fs-idp112720384" class="interactive ost-assessed-feature">
+<para id="fs-idp122959616">This <link window="new" url="http://openstax.org/l/relationships">website</link> has several examples to show how appearances can be misleading in understanding the phylogenetic relationships of organisms.</para>
+<exercise id="fs-id1167063836186" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167067107773">
+<para id="fs-id1167067107775">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex020"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<section id="fs-idp17189680" class="ost-tag-lo-apbio-ch20-s02-aplo-1-18 ost-tag-lo-apbio-ch20-s02-aplo-1-10">
+<title>Molecular Comparisons</title>
+<para id="fs-idp82199280">With the advancement of DNA technology, the area of <emphasis>molecular systematics</emphasis>, which describes the use of information on the molecular level including DNA analysis, has blossomed. New computer programs not only confirm many earlier classified organisms, but also uncover previously made errors. As with physical characteristics, even the DNA sequence can be tricky to read in some cases. For some situations, two very closely related organisms can appear unrelated if a mutation occurred that caused a shift in the genetic code. An insertion or deletion mutation would move each nucleotide base over one place, causing two similar codes to appear unrelated.</para>
+<para id="fs-idp96201360">Sometimes two segments of DNA code in distantly related organisms randomly share a high percentage of bases in the same locations, causing these organisms to appear closely related when they are not. For both of these situations, computer technologies have been developed to help identify the actual relationships, and, ultimately, the coupled use of both morphologic and molecular information is more effective in determining phylogeny.</para>
+<note id="fs-idp82123760" class="evolution ost-assessed-feature"><title>Why Does Phylogeny Matter?</title>
+
+<para id="fs-idp57384736">Evolutionary biologists could list many reasons why understanding phylogeny is important to everyday life in human society. For botanists, phylogeny acts as a guide to discovering new plants that can be used to benefit people. Think of all the ways humans use plants—food, medicine, and clothing are a few examples. If a plant contains a compound that is effective in treating diseases, scientists might want to examine all of the relatives of that plant for other useful drugs.</para>
+<para id="fs-idm1491376">A research team in China identified a segment of DNA thought to be common to some medicinal plants in the family Fabaceae (the legume family) and worked to identify which species had this segment (<link target-id="fig-ch20_02_03" document=""/>). After testing plant species in this family, the team found a DNA marker (a known location on a chromosome that enabled them to identify the species) present. Then, using the DNA to uncover phylogenetic relationships, the team could identify whether a newly discovered plant was in this family and assess its potential medicinal properties.</para>
+<figure id="fig-ch20_02_03">
+<media id="fs-idp122464512" alt=" The illustration shows a Dalbergia sissoo plant, which is short with pods and teardrop-shaped leaves.">
+<image mime-type="image/jpg" src="../../media/Figure_20_02_03-eb43.jpg" width="320"/>
+</media>
+<caption><emphasis effect="italics">Dalbergia sissoo (D. sissoo)</emphasis> is in the Fabaceae, or legume family. Scientists found that <emphasis effect="italics">D. sissoo</emphasis> shares a DNA marker with species within the Fabaceae family that have antifungal properties. Subsequently, <emphasis effect="italics">D. sissoo</emphasis> was shown to have fungicidal activity, supporting the idea that DNA markers can be used to screen for plants with potential medicinal properties.</caption>
+</figure>
+<exercise id="fs-id1167063715305" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167067194213">
+<para id="fs-id1167067194216">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex021"/>
+</para>
+</problem>
+</exercise>
+</note>
+</section>
+</section>
+<section id="fs-idp96526336" class="ost-tag-lo-apbio-ch20-s02-lo02 ost-tag-lo-apbio-ch20-s02-aplo-1-18 ost-tag-lo-apbio-ch20-s02-aplo-1-17 ost-get-exercise">
+<title>Building Phylogenetic Trees</title>
+<para id="fs-idp47865664">How do scientists construct phylogenetic trees? After the homologous and analogous traits are sorted, scientists often organize the homologous traits using a system called <emphasis>cladistics</emphasis>. This system sorts organisms into clades: groups of organisms that descended from a single ancestor. For example, in <link target-id="fig-ch20_02_04" document=""/>, all of the organisms in the orange region evolved from a single ancestor that had amniotic eggs. Consequently, all of these organisms also have amniotic eggs and make a single clade, also called a <emphasis>monophyletic group</emphasis>. Clades must include all of the descendants from a branch point.</para>
+<note id="fs-idp98199440" class="visual-connection ost-tag-lo-apbio-ch20-s02-aplo-1-11 ost-assessed-feature">
+<figure id="fig-ch20_02_04" class="ost-tag-lo-apbio-ch20-s02-lo02">
+<media id="fs-idp125310304" alt="The illustration shows the V-shaped Vertebrata clade, which includes lancelets, lampreys, fish, lizards, rabbits, and humans. Lancelets are at the left tip of the V, and humans are at the right tip. Four more lines are drawn parallel to the lancelet line; each of these lines starts further up the right arm of the V than the next. At the end of each line, from left to right, are lampreys, fish, lizards, and rabbits. Lizards, rabbits, and humans are in the clade Amniota, which form a small V nested in the upper right-hand corner of the V-shaped Vertebrata clade.">
+<image mime-type="image/jpg" src="../../media/Figure_20_02_04.png" width="350"/>
+</media>
+<caption>Lizards, rabbits, and humans all descend from a common ancestor that had an amniotic egg. Thus, lizards, rabbits, and humans all belong to the clade Amniota. Vertebrata is a larger clade that also includes fish and lamprey.</caption>
+</figure>
+<!--<para id="fs-idm3428944">Which animals in this figure belong to a clade that includes animals with hair? Which evolved first, hair or the amniotic egg?</para>-->
+<!--<para><link target-id="fig-ch20_01_04" document=""/> Rabbits and humans belong in the clade that includes animals with hair. The amniotic egg evolved before hair because the Amniota clade is larger than the clade that encompasses animals with hair.</para>-->
+<exercise id="fs-id1167061393963" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167063530049">
+<para id="fs-id1167067180025">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex022"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-idp86169680">Clades can vary in size depending on which branch point is being referenced. The important factor is that all of the organisms in the clade or monophyletic group stem from a single point on the tree. This can be remembered because monophyletic breaks down into “mono,” meaning one, and “phyletic,” meaning evolutionary relationship. <link target-id="fig-ch20_02_05" document=""/> shows various examples of clades. Notice how each clade comes from a single point, whereas the non-clade groups show branches that do not share a single point.</para>
+<note id="fs-idp34398416" class="visual-connection ost-assessed-feature">
+<figure id="fig-ch20_02_05" class="ost-tag-lo-apbio-ch20-s02-lo02">
+<media id="fs-idp15258080" alt="Illustrations show a phylogenetic tree that includes eukaryotic species. A central line represents the trunk of the tree. From this trunk, various groups branch. In order from the bottom, these are diplomonads, microsporidia, trichomonads, flagellates, entamoebae, slime molds, and ciliates. At the top of the tree, animals, fungi and plants all branch from the same point and are shaded to show that they belong in the same clade. Flagellates are on a branch by themselves, and they also form their own clade and are shaded to show this. In another image, Flagellates and ciliates are shaded to show that they branch from different points on the tree and are not considered clades. Likewise, a grouping of animals and plants but not fungi would not be considered a clade cannot exclude a branch originating at the same point as the others.">
+<image mime-type="image/jpg" src="../../media/Figure_20_02_05.png" width="400"/>
+</media>
+<caption>All the organisms within a clade stem from a single point on the tree. A clade may contain multiple groups, as in the case of animals, fungi and plants, or a single group, as in the case of flagellates. Groups that diverge at a different branch point, or that do not include all groups in a single branch point, are not considered clades.</caption>
+</figure>
+<!--<para id="fs-idp84420976">What is the largest clade in this diagram?</para>-->
+<!--<para><link target-id="fig-ch20_01_05" document=""/> The largest clade encompasses the entire tree.</para>-->
+<exercise id="fs-id1167067208152" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167067185948">
+<para id="fs-id1167067185950">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex023"/>
+</para>
+</problem>
+</exercise>
+</note>
+<section id="fs-idp178110608" class="ost-tag-lo-apbio-ch20-s02-aplo-1-12 ost-tag-lo-apbio-ch20-s02-aplo-1-14">
+<title>Shared Characteristics</title>
+<para id="fs-idp183475232">Organisms evolve from common ancestors and then diversify. Scientists use the phrase “descent with modification” because even though related organisms have many of the same characteristics and genetic codes, changes occur. This pattern repeats over and over as one goes through the phylogenetic tree of life:</para>
+<list id="fs-idp96580912" list-type="enumerated" number-style="arabic">
+<item>A change in the genetic makeup of an organism leads to a new trait which becomes prevalent in the group.</item>
+<item>Many organisms descend from this point and have this trait.</item>
+<item>New variations continue to arise: some are adaptive and persist, leading to new traits.</item>
+<item>With new traits, a new branch point is determined (go back to step 1 and repeat).</item>
+</list>
+<para id="fs-idp34154656">If a characteristic is found in the ancestor of a group, it is considered a <emphasis>shared ancestral character</emphasis> because all of the organisms in the taxon or clade have that trait. The vertebrate in <link target-id="fig-ch20_02_04" document=""/> is a shared ancestral character. Now consider the amniotic egg characteristic in the same figure. Only some of the organisms in <link target-id="fig-ch20_02_04" document=""/> have this trait, and to those that do, it is called a <emphasis>shared derived character</emphasis> because this trait derived at some point but does not include all of the ancestors in the tree.</para><para id="fs-idm6671824">The tricky aspect to shared ancestral and shared derived characters is the fact that these terms are relative. The same trait can be considered one or the other depending on the particular diagram being used. Returning to <link target-id="fig-ch20_02_04" document=""/>, note that the amniotic egg is a shared ancestral character for the Amniota clade, while having hair is a shared derived character for some organisms in this group. These terms help scientists distinguish between clades in the building of phylogenetic trees.</para>
+<section id="fs-idp120153744" class="ost-tag-lo-apbio-ch20-s02-lo03 ost-tag-lo-apbio-ch20-s02-aplo-1-13 ost-tag-lo-apbio-ch20-s02-aplo-1-19">
+<title>Choosing the Right Relationships</title>
+<para id="fs-idm2067904">Imagine being the person responsible for organizing all of the items in a department store properly—an overwhelming task. Organizing the evolutionary relationships of all life on Earth proves much more difficult: scientists must span enormous blocks of time and work with information from long-extinct organisms. Trying to decipher the proper connections, especially given the presence of homologies and analogies, makes the task of building an accurate tree of life extraordinarily difficult. Add to that the advancement of DNA technology, which now provides large quantities of genetic sequences to be used and analyzed. Taxonomy is a subjective discipline: many organisms have more than one connection to each other, so each taxonomist will decide the order of connections.</para>
+<para id="fs-idp136027872">To aid in the tremendous task of describing phylogenies accurately, scientists often use a concept called maximum parsimony, which means that events occurred in the simplest, most obvious way. For example, if a group of people entered a forest preserve to go hiking, based on the principle of maximum parsimony, one could predict that most of the people would hike on established trails rather than forge new ones.</para>
+<para id="fs-idp121336368">For scientists deciphering evolutionary pathways, the same idea is used: the pathway of evolution probably includes the fewest major events that coincide with the evidence at hand. Starting with all of the homologous traits in a group of organisms, scientists look for the most obvious and simple order of evolutionary events that led to the occurrence of those traits.</para>
+<note id="fs-idp43830592" class="interactive ost-assessed-feature">
+<para id="fs-idp56872384">Head to this <link window="new" url="http://openstax.org/l/32species">website</link> to learn how maximum parsimony is used to create phylogenetic trees.</para>
+<exercise id="fs-id1167066968056" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067043990">
+<para id="fs-id1167067036047">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex024"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-idp103388288">These tools and concepts are only a few of the strategies scientists use to tackle the task of revealing the evolutionary history of life on Earth. Recently, newer technologies have uncovered surprising discoveries with unexpected relationships, such as the fact that people seem to be more closely related to fungi than fungi are to plants. Sound unbelievable? As the information about DNA sequences grows, scientists will become closer to mapping the evolutionary history of all life on Earth.</para>
+</section>
+</section>
+</section>
+<note id="fs-id1167066861922" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch20-s02-aplo-1-11 ost-tag-lo-apbio-ch20-s02-aplo-1-15 ost-tag-lo-apbio-ch20-s02-aplo-1-16 ost-tag-lo-apbio-ch20-s02-aplo-1-17 ost-tag-lo-apbio-ch20-s02-aplo-1-18">
+<label>Science Practices Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066984188" class="ost-assignable ost-sciprac-activity">
+<para id="fs-id1167063443153">Using a data set provided by your teacher or other sources, construct a phylogenetic tree or cladogram to reflect the evolutionary history among a group of organisms based on shared characteristics. Then share the phylogenetic tree or cladogram with peers for review and revision.</para>
+</note>
+<note id="fs-id1167063443155" class="ost-assignable ost-sciprac-lab">
+<label/><title>Lab Investigation</title>
+<para id="fs-id1167067314147"><emphasis effect="italics">AP<sup>®</sup> Biology Investigative Labs: Inquiry-Based Approach, Investigation 3: Comparing DNA Sequences to Understand Evolutionary Relationships with BLAST</emphasis>. Students will learn to use a common tool, BLAST, to compare several genes from different organisms and then use this information to construct a cladogram to determine evolutionary relatedness among species. Then students will use BLAST to track a gene(s) of choice through several species. Bioinformatics has many applications, including understanding genetic disease.</para>
+</note>
+<note id="fs-id1167063560721" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167066952641" class="unnumbered"><label/>
+<problem id="fs-id1167066938680"><para id="fs-id1167063569961">Why must scientists distinguish between homologous and analogous characteristics before building phylogenetic trees? Do more closely related organisms share homologous or analogous traits? Which type of trait is used to support convergent or divergent evolution?</para></problem></exercise>
+</note>
+<note id="fs-id1167067050229" class="os-teacher"><label>Teacher Support</label>
+<list id="eip-id1167064978893">
+<item>This activity is an application of AP<sup>®</sup> Learning Objective 1.19 and Science Practice 1.1, Learning Objective 1.18 and Science Practice 5.3, and Learning Objective 1.7 and Science Practice 1.3 because 1) students are asked to create a phylogenetic tree or cladogram based on evidence provided by a data set; 2) student’s diagram should raise questions about the evolutionary history of the group; and 3) evolutionary history is subject to revision based on interpretation and new evidence.</item>
+<item>This lab investigation is an application of several AP<sup>®</sup> Learning Objectives and Science Practices described above (Learning Objectives 1.11, 1.16, 1.17, and 1.18) because students will use BLAST to determine evolutionary relatedness among species based on molecular evidence/DNA sequences and then construct a cladogram based on that information.</item>
+<item>The Think About It question is an application of AP<sup>®</sup> Learning Objective 1.17 and Science Practice 3.1 because students must distinguish between homologous and analogous characteristics when constructing phylogenetic trees.</item>
+<item>Only homologous traits are considered in establishing evolutionary relationships, because they are evidence of evolutionary change. Closely related organisms will share homologous traits, whereas analogous traits are often shared by only distantly related organisms. The study of convergent and divergent evolution also relies on the analysis of analogous and homologous traits.</item>
+</list></note></note>
+<section id="fs-idp50383888" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp52748832">To build phylogenetic trees, scientists must collect accurate information that allows them to make evolutionary connections between organisms. Using morphologic and molecular data, scientists work to identify homologous characteristics and genes. Similarities between organisms can stem either from shared evolutionary history (homologies) or from separate evolutionary paths (analogies). Newer technologies can be used to help distinguish homologies from analogies. After homologous information is identified, scientists use cladistics to organize these events as a means to determine an evolutionary timeline. Scientists apply the concept of maximum parsimony, which states that the order of events probably occurred in the most obvious and simple way with the least amount of steps. For evolutionary events, this would be the path with the least number of major divergences that correlate with the evidence.</para>
+</section>
+<!--<section id="fs-idp28042608" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idp53820672">
+<problem id="fs-idp76704672">
+<para id="fs-idm16685584"><link target-id="fig-ch20_02_04" document=""/> Which animals in this figure belong to a clade that includes animals with hair? Which evolved first, hair or the amniotic egg?</para>
+</problem>
+<solution id="fs-idp76697264">
+<label/>
+<para id="fs-idp136016608"><link target-id="fig-ch20_02_04" document=""/> Rabbits and humans belong in the clade that includes animals with hair. The amniotic egg evolved before hair because the Amniota clade is larger than the clade that encompasses animals with hair.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp197183488">
+<problem id="fs-idp103973984">
+<para id="fs-idp45005152"><link target-id="fig-ch20_02_05" document=""/> What is the largest clade in this diagram?</para>
+</problem>
+<solution id="fs-idp94882464">
+<label/>
+<para id="fs-idm1822720"><link target-id="fig-ch20_02_05" document=""/> The largest clade encompasses the entire tree.</para></solution>
+</exercise>
+</section>
+<section id="fs-idp165171376" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp83844208">
+<problem id="fs-idp81939712">
+<para id="fs-idm18304">Which statement about analogies is correct?</para>
+<list id="fs-idm8119424" list-type="enumerated" number-style="lower-alpha">
+<item>They occur only as errors.</item>
+<item>They are synonymous with homologous traits.</item>
+<item>They are derived by similar environmental constraints.</item>
+<item>They are a form of mutation.</item>
+</list>
+</problem>
+<solution id="fs-idm5462240">
+<label/>
+<para id="fs-idp47773552">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm4710848">
+<problem id="fs-idp82308912">
+<para id="fs-idp103364128">What do scientists use to apply cladistics?</para>
+<list id="fs-idp146716800" list-type="enumerated" number-style="lower-alpha">
+<item>homologous traits</item>
+<item>homoplasies</item>
+<item>analogous traits</item>
+<item>monophyletic groups</item>
+</list>
+</problem>
+<solution id="fs-idp30774704">
+<label/>
+<para id="fs-idm5991216">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp127733920">
+<problem id="fs-idp101373040">
+<para id="fs-idm9403376">What is true about organisms that are a part of the same clade?</para>
+<list id="fs-idp20143040" list-type="enumerated" number-style="lower-alpha">
+<item>They all share the same basic characteristics.</item>
+<item>They evolved from a shared ancestor.</item>
+<item>They usually fall into the same classification taxa.</item>
+<item>They have identical phylogenies.</item>
+</list>
+</problem>
+<solution id="fs-idp132474336">
+<label/>
+<para id="fs-idm1850000">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp149139024">
+<problem id="fs-idp181248496">
+<para id="fs-idm8991824">Why do scientists apply the concept of maximum parsimony?</para>
+<list id="fs-idp35470032" list-type="enumerated" number-style="lower-alpha">
+<item>to decipher accurate phylogenies</item>
+<item>to eliminate analogous traits</item>
+<item>to identify mutations in DNA codes</item>
+<item>to locate homoplasies</item>
+</list>
+</problem>
+<solution id="fs-idp122872272">
+<label/>
+<para id="fs-idp28903024">A</para>
+</solution>
+</exercise>
+</section> -->
+<!--<section id="fs-idm9499264" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp96392800">
+<problem id="fs-idm28790384">
+<para id="fs-idp176608480">Dolphins and fish have similar body shapes. Is this feature more likely a homologous or analogous trait?</para>
+</problem>
+<solution id="fs-idp161396384">
+<label/>
+<para id="fs-idp122752608">Dolphins are mammals and fish are not, which means that their evolutionary paths (phylogenies) are quite separate. Dolphins probably adapted to have a similar body plan after returning to an aquatic lifestyle, and, therefore, this trait is probably analogous.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp177675648">
+<problem id="fs-idp181377280">
+<para id="fs-idm14985776">Why is it so important for scientists to distinguish between homologous and analogous characteristics before building phylogenetic trees?</para>
+</problem>
+<solution id="fs-idp60761648">
+<label/>
+<para id="fs-idp60795280">Phylogenetic trees are based on evolutionary connections. If an analogous similarity were used on a tree, this would be erroneous and, furthermore, would cause the subsequent branches to be inaccurate.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp29739984">
+<problem id="fs-idp104002896">
+<para id="fs-idp45573600">Describe maximum parsimony.</para>
+</problem>
+<solution id="fs-idp154961600">
+<label/>
+<para id="fs-idm37666272">Maximum parsimony hypothesizes that events occurred in the simplest, most obvious way, and the pathway of evolution probably includes the fewest major events that coincide with the evidence at hand.</para>
+</solution>
+</exercise>
+</section> -->
+<section id="fs-id1167063800727" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167067054364" class="os-exercise">
+<problem id="fs-id1167067054468">
+<para id="fs-id1167067054471">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex025"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067175074" class="os-exercise">
+<problem id="fs-id1167067067419">
+<para id="fs-id1167067052948">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex026"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063876375" class="os-exercise">
+<problem id="fs-id1167067064647">
+<para id="fs-id1167061625484">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex027"/>
+</para>
+</problem>
+</exercise>
+<!--<exercise id="fs-id1167063535358" class="os-exercise">
+<problem id="fs-id1167063535361">
+<para id="fs-id1167067127647">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex028"/>
+</para>
+</problem>
+</exercise>-->
+<exercise id="fs-id1167066791294" class="os-exercise">
+<problem id="fs-id1167066791298">
+<para id="fs-id1167067146144">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex029"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063588670" class="os-exercise">
+<problem id="fs-id1167063588673">
+<para id="fs-id1167066957178">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex030"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167067090475" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167063624370" class="os-exercise">
+<problem id="fs-id1167067266098">
+<para id="fs-id1167067266100">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex031"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063556572" class="os-exercise">
+<problem id="fs-id1167067283861">
+<para id="fs-id1167067104430">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex032"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067210846" class="os-exercise">
+<problem id="fs-id1167066863896">
+<para id="fs-id1167063635192">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex033"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166173629785">
+<problem id="fs-id1166173368628">
+<para id="fs-id1166171488160">You discover a new species of animal in the rainforest. What characteristics could you use to distinguish this organism from the other organisms in the same clade based on <link target-id="fig-ch20_02_05"/>?</para>
+</problem>
+<!--<solution id="fs-id1166173571289">
+<label/>
+<para id="fs-id1166167231917">Organisms on a cladogram are distinguished by morphological or molecular features. One could analyze the sequence of DNA in the organism&#146;s genome to understand how it relates to other organisms in its clade.</para>
+</solution>-->
+</exercise>
+<exercise id="fs-id1166168401220">
+<problem id="fs-id1166168134390">
+<para id="fs-id1166173203038">Based on the phylogenetic tree below, is the Jungle cat likely closer related to a tiger or a cougar? Why?</para>
+<figure id="fs-id1166173433542">
+<media id="fs-id1166171824860" alt="A phylogenetic tree diagram showing the evolution from carnivora to the domestic cat and its relation to other felidae species. The Jungle cat is separated from the Cougar by two nodes on the tree. The Jungle cat is separated from the tiger by five nodes on the tree.">
+<image mime-type="image/jpg" src="../../media/OSX_BiologyTEA_Figure_20_02_06.jpg" width="300"/>
+</media>
+</figure>
+</problem>
+<!--<solution id="fs-id1166173197775">
+<label/>
+<para id="fs-id1166167112619">The Jungle cat is separated from the Cougar by two common ancestors on the tree and from the Tiger by five common ancestors on the tree. Therefore, the Jungle cat is likely more closely related to the Cougar then the Tiger.</para>
+</solution>-->
+</exercise>
+
+</section>
+<section id="fs-id1167063745719" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup><sup>®</sup></sup> Courses</title>
+<exercise id="fs-id1167063487072" class="os-exercise">
+<problem id="fs-id1167063871010">
+<para id="fs-id1167063871012">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex034"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063642417" class="os-exercise">
+<problem id="fs-id1167063642421">
+<para id="fs-id1167067216743">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex035"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063714598" class="os-exercise">
+<problem id="fs-id1167063828301">
+<para id="fs-id1167063828304">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex036"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063697609" class="os-exercise">
+<problem id="fs-id1167060132666">
+<para id="fs-id1167063771862">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex037"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063740238" class="os-exercise">
+<problem id="fs-id1167063527179">
+<para id="fs-id1167063527181">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex038"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067205155" class="os-exercise">
+<problem id="fs-id1167066963122">
+<para id="fs-id1167066963124">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex039"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167060069233" class="os-exercise">
+<problem id="fs-id1167060069237">
+<para id="fs-id1167067271851">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex040"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063800511" class="os-exercise">
+<problem id="fs-id1167063800515">
+<para id="fs-id1167063513310">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex041"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063430007" class="os-exercise"><problem id="eip-idm622191072">
+<para id="eip-idm622190816">Five new species of bacteria were discovered in Antarctic ice core samples. The nucleotide (base sequences of rRNA subunits were determined for the new species. The table below shows the number of nucleotide differences between the species.
+
+</para><table id="eip-idm622190432" class="unnumbered" summary="Missing a description"><label/><tgroup cols="8"><thead>
+<row>
+<entry align="center">Species</entry>
+<entry align="center">1</entry>
+<entry align="center">2</entry>
+<entry align="center">3</entry>
+<entry align="center">4</entry>
+<entry align="center">5</entry>
+</row></thead>
+<tbody>
+<row>
+<entry align="center">1</entry>
+<entry align="center">-</entry>
+<entry align="center">3</entry>
+<entry align="center">19</entry>
+<entry align="center">18</entry>
+<entry align="center">27</entry>
+</row>
+<row>
+<entry align="center">2</entry>
+<entry align="center"/>
+<entry align="center">-</entry>
+<entry align="center">19</entry>
+<entry align="center">18</entry>
+<entry align="center">26</entry>
+</row>
+<row>
+<entry align="center">3</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center">-</entry>
+<entry align="center">1</entry>
+<entry align="center">27</entry>
+</row>
+<row>
+<entry align="center">4</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center">-</entry>
+<entry align="center">27</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="eip-idm618735552">Which of the following phylogenetic trees is most consistent with the data?
+<list id="eip-idm618735296" list-type="enumerated" number-style="lower-alpha">
+<item><figure id="eip-idm594204460" class="unnumbered"><label/><media id="eip-idm211143888" alt="">
+<image mime-type="image/jpeg" src="../../media/42_a.png"/>
+</media></figure></item>
+
+<item><figure id="eip-idm511202960" class="unnumbered"><label/><media id="eip-idm294443888" alt="">
+<image mime-type="image/jpeg" src="../../media/42_b.png"/>
+</media></figure></item>
+
+<item><figure id="eip-idm594272960" class="unnumbered"><label/><media id="eip-idm224643888" alt="">
+<image mime-type="image/jpeg" src="../../media/42_c.png"/>
+</media></figure></item>
+
+<item><figure id="eip-idm599902960" class="unnumbered"><label/><media id="eip-idm233643888" alt="">
+<image mime-type="image/jpeg" src="../../media/42_d.png"/>
+</media></figure></item>
+</list></para></problem>
+</exercise><exercise id="fs-id1167063707615" class="os-exercise"><problem id="fs-id1167067011747">
+<para id="fs-id1167067011749">Draw the phylogenetic tree for the species below. Identify where on the tree each feature evolved.
+<figure id="eip-idm492697296"><media id="eip-idm681385920" alt=".">
+<image mime-type="image/jpeg" width="400" src="../../media/table_replacement_image_ch20.jpg"/>
+</media>
+</figure><list id="eip-idm1088164128" list-type="enumerated" number-style="lower-alpha">
+<item>The ostrich branched off first, followed by the snake, then the frog, then the shark and then the lancelet.</item>
+<item>The shark branched off first, followed by the lancelet, then the frog, then the ostrich and then the snake.</item>
+<item>The lancelet branched off first, followed by the shark, then the frog, then the snake and then the ostrich.</item>
+<item>The lancelet branched off first, followed by the shark, then the ostrich, then the snake and then the frog.</item>
+</list>
+</para></problem>
+</exercise><exercise id="fs-id1167067055086" class="os-exercise">
+<problem id="fs-id1167067104761">
+<para id="fs-id1167067104763">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex044"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067190364" class="os-exercise">
+<problem id="fs-id1167066957408">
+<para id="fs-id1167066957411">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex045"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067141654" class="os-exercise">
+<problem id="fs-id1167063527212">
+<para id="fs-id1167063527214">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex046"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067075802" class="os-exercise">
+<problem id="fs-id1167067075806">
+<para id="fs-id1167067050861">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex047"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164966586126" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164966577710"><problem id="fs-id1164968687961">
+<media id="fs-id1164961936664" alt="This figure shows the results from a southern blot of a lactate dehydrogenase of several species including yeast, snails, mice, rats, and humans.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_20_02_01_01_img.jpg" width="400"/>
+</media>
+<para id="fs-id1164966269213">Lactate dehydrogenase, an enzyme involved in glycolysis, from several species are compared using a Southern blot technique in the figure on the left: (A) yeast; (B) snail; (C) mouse; (D) rat; and (E) human (after K. Webster, <emphasis effect="italics">Journal of Experimental Biology</emphasis> 2003).</para>
+<para id="fs-id1164968965046">A. <term>Justify</term> the claim that these data provide evidence that supports glycolysis as a conserved core property.</para>
+<figure id="fs-id1164968927200"><media id="fs-id1164961952703" alt="The cladogram on the right displays a proposed relatedness of variations in L D H's over many species.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_20_02_01_02_img.jpg" width="400"/>
+</media>
+</figure><para id="fs-id1164968899772">There are three forms of lactate dehydrogenase whose roles vary within an organism: LDH-A, -B, and -C.  The question arises as to the origins of each.  The cladogram on the right (after S. Tsuji et al., <emphasis effect="italics">Proc Natl Acad Sci</emphasis> 1994) displays a proposed relatedness of variations in LDHs over many species.</para>
+<para id="fs-id1164958675649">B. Based on these data, <term>describe</term> the differences between the likely evolutionary sequences of LDH-A, -B, and -C in the African frog and in humans.</para>
+<para id="fs-id1164966466560">C. <term>Evaluate</term> the claim that in both species (African frog and human), LDH-C is the most recently evolved form of the enzyme.</para>
+</problem>
+</exercise><exercise id="fs-id1164958771265">
+<problem id="fs-id1164968671347">
+<para id="fs-id1164968603920">Nucleotide-repeat sequences often occur within the intron, and sequence variation is neutral, that is, there is no selection.  For example, the nucleotide-repeat sequence labeled A might be ACGGGC, and the repeat sequence labeled B might be ACTGGT.  Repeat sequences evolve by single-step duplication, deletion, and inversion, rather than by single-nucleotide substitution.  Because these repeat sequences can be used to infer phylogeny, a phylogenetic tree can be hypothesized based on the principle of parsimonythe simplest explanation is the best explanation.  Consider the repeat sequences A, B, C, D, and E shown in the table below in which only inversions have occurred among five different species.</para>
+<table id="fs-id1164968895622" summary="This table has two columns. The rows read from left to right. Row one: Species 1, ABCDE. Row two: Species 2, ADCBE, Row three: Species 3, BACED, Row four: Species 4, DACBE, Row five: Species 5, ABCED, Row six: Species 6, DEBCA.">
+<tgroup cols="2"><tbody>
+<row>
+<entry align="center">Species 1</entry>
+<entry align="center">ABCDE</entry>
+</row>
+<row>
+<entry align="center">Species 2</entry>
+<entry align="center">ADCBE</entry>
+</row>
+<row>
+<entry align="center">Species 3</entry>
+<entry align="center">BACED</entry>
+</row>
+<row>
+<entry align="center">Species 4</entry>
+<entry align="center">DACBE</entry>
+</row>
+<row>
+<entry align="center">Species 5</entry>
+<entry align="center">ABCED</entry>
+</row>
+<row>
+<entry align="center">Species 6</entry>
+<entry align="center">DEBCA</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-id1164969041440">A. <term>Pose three questions</term> that can be used to infer the evolution of these five species.</para>
+<para id="fs-id1164968579053">B. Draw lines between nearest relatives <term>to construct a cladogram</term> that displays the relationships inferred by answers to your questions.</para>
+<figure id="fs-id1164963252482"><media id="fs-id1164966318369" alt="This figure acts as a blank surface for the reader to map and construct a cladogram for six species.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_20_02_02_01_img.jpg" width="400"/>
+</media>
+</figure><para id="fs-id1164966504527">Carson (<emphasis effect="italics">Drosophila Genetics</emphasis> 1983) used inversions in intron-repeat sequences of the fruit fly to infer evolution among the Hawaiian <emphasis effect="italics">Drosophila</emphasis>.  He further assigned the chronological sequence of islands on which the flies appeared by assuming (parsimoniously) that the geologically oldest of the volcanic islands was home to the oldest fly ancestor.  When a fly or flies arrived on a newer island, speciation occurred, which, after a time, stabilized until another island hop occurred.</para>
+<para id="fs-id1164966298565">C. <term>Evaluate</term> Carsons reasoning for speciation and ongoing evolution.</para>
+<para id="fs-id1164968900960">D. <term>Pose two questions</term> whose pursuit could provide additional evidence of Carsons hypothesized evolutionary sequence.</para></problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp32047264">
+<term>analogy</term> <meaning id="fs-idp35619808">(also, homoplasy) characteristic that is similar between organisms by convergent evolution, not due to the same evolutionary path</meaning>
+</definition>
+<definition id="fs-idp27309136">
+<term>cladistics</term> <meaning id="fs-idp195599616">system used to organize homologous traits to describe phylogenies</meaning>
+</definition>
+<definition id="fs-id7309136">
+<term>homology</term> <meaning id="fs-idp1616">similarity in characteristics resulting from a shared ancestry</meaning>
+</definition>
+<definition id="fs-idp55211200">
+<term>maximum parsimony</term> <meaning id="fs-idp150918656">applying the simplest, most obvious way with the least number of steps</meaning>
+</definition>
+<definition id="fs-idp29655616">
+<term>molecular systematics</term> <meaning id="fs-idp97120208">technique using molecular evidence to identify phylogenetic relationships</meaning>
+</definition>
+<definition id="fs-idp60769824">
+<term>monophyletic group</term> <meaning id="fs-idp55550400">(also, clade) organisms that share a single ancestor</meaning>
+</definition>
+<definition id="fs-idp48289568">
+<term>shared ancestral character</term> <meaning id="fs-idp182517392">describes a characteristic on a phylogenetic tree that is shared by all organisms on the tree</meaning>
+</definition>
+<definition id="fs-idp105098576">
+<term>shared derived character</term> <meaning id="fs-idp60676960">describes a characteristic on a phylogenetic tree that is shared only by a certain clade of organisms</meaning>
+</definition>
+<definition id="fs-id1167066971627"><term>cladograms</term> <meaning id="fs-id1167063881011">visual representations of evolutionary relationships between organisms</meaning></definition>
+<definition id="fs-id1167063881014"><term>parsimony</term> <meaning id="fs-id1167067147411">the simplest, most straightforward way of constructing phylogenetic and evolutionary relationships between organisms</meaning></definition>
+</glossary>
+</document>

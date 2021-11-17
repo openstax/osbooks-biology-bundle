@@ -1,0 +1,533 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Organizing Life on Earth</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62874</md:content-id>
+  <md:title>Organizing Life on Earth</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the need for a comprehensive classification system</item>
+<item>List the different levels of the taxonomic classification system</item>
+<item>Describe how systematics and taxonomy relate to phylogeny</item>
+<item>Discuss the components and purpose of a phylogenetic tree</item>
+</list></md:abstract>
+  <md:uuid>e5e51e35-ba7e-45da-889f-a72f1b2e1f13</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065883236" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167064895137">In this section, you will explore the following questions:</para>
+<list id="fs-id1167065999788">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch20-s01-lo01">Why do scientists need a comprehensive classification system to study living organisms?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch20-s01-lo02">What are the different levels of the taxonomic classification system?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch20-s01-lo03">How are systematics and taxonomy related to phylogeny?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch20-s01-lo04">What are the components and purpose of a phylogenetic tree?</item>
+</list>
+</section>
+<section id="fs-id1167064669920" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167066097852">In prior chapters we explored how all organisms on Earth, extant and extinct, evolved from common ancestry. Supporting this claim are core features and processes, such as a common genetic code and metabolic pathways, which evolved billions of years ago and are widely distributed among organisms living today. The evolutionary history and relationship of an organism or a group of organisms is called <emphasis>phylogeny</emphasis>. Scientists often construct <emphasis>phylogenetic trees</emphasis> based on evidence drawn from multiple disciplines to illustrate evolutionary pathways and connections among organisms.</para>
+<para id="fs-id1167065839074" class="ost-reading-discard">Scientists historically organized Earth’s millions of species into a hierarchical <emphasis>taxonomic classification system</emphasis> from the most inclusive category to the most specific: domain, kingdom, phylum, class, order, family, genus, and species. The traditional five-kingdom system that you might have studied in middle school was expanded (and reorganized) to include three domains: Bacteria, Archaea, and Eukarya, with prokaryotes divided between Bacteria or Archaea depending on their molecular genetic machinery, and protists, fungi, plants, and animals grouped in Eukarya. Today, however, phylogenetic trees provide more specific information about evolutionary history and relationships among organisms. (For the purpose of AP<sup>®</sup>, you do not have to memorize the taxonomic levels. However, it is important to reiterate that taxonomy is a tool to organize the millions of organisms on Earth, similar to how items in a grocery store or mall shop are organized into different departments. Like new products, organisms are often shifted among their taxonomic groups!)</para>
+<para id="fs-id1167065854748" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167062410746" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Learning Objective. Third right cell reads: 1.14 The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insights into the history of life on Earth." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
+<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1 </emphasis></span>
+<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s01-aplo-1-14">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.14 </emphasis></span>
+<span class="ost-standards-description">The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insight into the history of life on Earth.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1 </emphasis></span>
+<span class="ost-standards-description">Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s01-aplo-1-15">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.15 </emphasis></span>
+<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1 </emphasis></span>
+<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.1 </emphasis></span>
+<span class="ost-standards-description">The student can justify claims with evidence.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s01-aplo-1-16">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.16 </emphasis></span>
+<span class="ost-standards-description">The student is able to justify the scientific claim that organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.2 </emphasis></span>
+<span class="ost-standards-description">Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s01-aplo-1-17">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.17 </emphasis></span>
+<span class="ost-standards-description">The student is able to pose scientific questions about a group of organisms whose relatedness is described by a phylogenetic tree or cladogram.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table></section>
+<para id="fs-id1166851058565">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 1.20][APLO 1.26]</para><section id="fs-idm3522544" class="ost-tag-lo-apbio-ch20-s01-lo02 ost-tag-lo-apbio-ch20-s01-lo04 ost-tag-lo-apbio-ch20-s01-aplo-1-17 ost-tag-lo-apbio-ch20-s01-aplo-1-15 ost-get-exercise">
+<title>Phylogenetic Trees</title>
+<para id="fs-idp113710944">Scientists use a tool called a phylogenetic tree to show the evolutionary pathways and connections among organisms. A phylogenetic tree is a diagram used to reflect evolutionary relationships among organisms or groups of organisms. Scientists consider phylogenetic trees to be a hypothesis of the evolutionary past since one cannot go back to confirm the proposed relationships. In other words, a “tree of life” can be constructed to illustrate when different organisms evolved and to show the relationships among different organisms (<link target-id="fig-ch20_01_01" document=""/>).</para>
+<para id="fs-idm25303200">Unlike a taxonomic classification diagram, a phylogenetic tree can be read like a map of evolutionary history. Many phylogenetic trees have a single lineage at the base representing a common ancestor. Scientists call such trees <emphasis>rooted</emphasis>, which means there is a single ancestral lineage (typically drawn from the bottom or left) to which all organisms represented in the diagram relate. Notice in the rooted phylogenetic tree that the three domains— Bacteria, Archaea, and Eukarya—diverge from a single point and branch off. The small branch that plants and animals (including humans) occupy in this diagram shows how recent and miniscule these groups are compared with other organisms. Unrooted trees don’t show a common ancestor but do show relationships among species.</para>
+<figure id="fig-ch20_01_01" class="ost-tag-lo-apbio-ch20-s01-lo02 ost-tag-lo-apbio-ch20-s01-aplo-1-17"><media id="fs-idp124090880" alt="The phylogenetic tree in part a is rooted and resembles a living tree, with a common ancestor indicated as the base of the trunk. Two branches form from the trunk. The left branch leads to the domain Bacteria. The right branch branches again, giving rise to Archaea and Eukarya. Smaller branches within each domain indicate the groups present in that domain. The phylogenetic tree in part B is unrooted. It does not resemble a living tree; rather, groups of organisms within the Archaea, Eukarya, and Bacteria domains are arranged in a circle. Lines connect the groups within each domain. The groups within Archaea and Eukarya are then connected together. A line from the Archaea/ Eukarya domains, and another from the Bacteria meet in the center of the circle. There is no root, and therefore no indication of which domain arose first.">
+<image mime-type="image/jpg" src="../../media/Figure_20_01_01.jpg" width="500"/>
+</media>
+
+<caption>Both of these phylogenetic trees shows the relationship of the three domains of life—Bacteria, Archaea, and Eukarya—but the (a) rooted tree attempts to identify when various species diverged from a common ancestor while the (b) unrooted tree does not. (credit a: modification of work by Eric Gaba)</caption></figure><para id="fs-idp19669120">In a rooted tree, the branching indicates evolutionary relationships (<link target-id="fig-ch20_01_02" document=""/>). The point where a split occurs, called a <emphasis>branch point</emphasis>, represents where a single lineage evolved into a distinct new one. A lineage that evolved early from the root and remains unbranched is called <emphasis>basal taxon</emphasis>. When two lineages stem from the same branch point, they are called <emphasis>sister taxa</emphasis>. A branch with more than two lineages is called a <emphasis>polytomy</emphasis> and serves to illustrate where scientists have not definitively determined all of the relationships. It is important to note that although sister taxa and polytomy do share an ancestor, it does not mean that the groups of organisms split or evolved from each other. Organisms in two taxa may have split apart at a specific branch point, but neither taxa gave rise to the other.</para>
+<figure id="fig-ch20_01_02" class="ost-tag-lo-apbio-ch20-s01-lo014">
+<media id="fs-idp26223648" alt="Illustration shows a phylogenetic tree that starts at a root, indicating that all organisms on the tree share a common ancestor. Shortly after the root, the tree branches out. One branch gives rise to a single, basal lineage, and the other gives rise to all other organisms on the tree. The next branch forks at one point into four different lineages, an example of polytomy. The final branch gives rise to two lineages, an example of sister taxa.">
+<image mime-type="image/jpg" src="../../media/Figure_20_01_02.jpg" width="320"/>
+</media>
+<caption>The root of a phylogenetic tree indicates that an ancestral lineage gave rise to all organisms on the tree. A branch point indicates where two lineages diverged. A lineage that evolved early and remains unbranched is a basal taxon. When two lineages stem from the same branch point, they are sister taxa. A branch with more than two lineages is a polytomy.</caption>
+</figure>
+<para id="fs-idp119151024">The diagrams above can serve as a pathway to understanding evolutionary history. The pathway can be traced from the origin of life to any individual species by navigating through the evolutionary branches between the two points.  Also, by starting with a single species and tracing back towards the "trunk" of the tree, one can discover that species' ancestors, as well as where lineages share a common ancestry. In addition, the tree can be used to study entire groups of organisms.</para><para id="fs-idp51522928">Another point to mention on phylogenetic tree structure is that rotation at branch points does not change the information. For example, if a branch point was rotated and the taxon order changed, this would not alter the information because the evolution of each taxon from the branch point was independent of the other.</para>
+<para id="fs-idp20620384">Many disciplines within the study of biology contribute to understanding how past and present life evolved over time; these disciplines together contribute to building, updating, and maintaining the “tree of life.” Information is used to organize and classify organisms based on evolutionary relationships in a scientific field called <emphasis>systematics</emphasis>. Data may be collected from fossils, from studying the structure of body parts or molecules used by an organism, and by DNA analysis. By combining data from many sources, scientists can put together the phylogeny of an organism; since phylogenetic trees are hypotheses, they will continue to change as new types of life are discovered and new information is learned.</para>
+</section>
+<section id="fs-idp66539744" class="ost-tag-lo-apbio-ch20-s01-aplo-1-16 ost-get-exercise">
+<title>Limitations of Phylogenetic Trees</title>
+<para id="fs-idp15260000">It may be easy to assume that more closely related organisms look more alike, and while this is often the case, it is not always true. If two closely related lineages evolved under significantly varied surroundings or after the evolution of a major new adaptation, it is possible for the two groups to appear more different than other groups that are not as closely related. For example, the phylogenetic tree in <link target-id="fig-ch20_01_03" document=""/> shows that lizards and rabbits both have amniotic eggs, whereas frogs do not; yet lizards and frogs appear more similar than lizards and rabbits.</para>
+<figure id="fig-ch20_01_03" class="ost-tag-lo-apbio-ch20-s01-lo03 ost-tag-lo-apbio-ch20-s01-aplo-1-17">
+<media id="fs-idp25733600" alt="The ladder-like phylogenetic tree starts with a trunk at the left. A question next to the trunk asks whether a vertebral column is present. If the answer is no, a branch leads downward to lancelet. If the answer is yes, a branch leads upward to another question: is a hinged jaw present? If the answer is no, a branch leads downward to lamprey. If the answer is yes, a branch leads upward to another question: are legs present? If the answer is no, a branch leads downward to fish. If the answer is yes, a branch leads upward to another question: does the egg have amnion? If the answer is no, the branch leads downward to frog. If the answer is yes, the branch leads upward to another question: is hair present? If the answer is no, the branch leads downward to lizard. If the answer is yes, the branch leads upward to rabbit.">
+<image mime-type="image/jpg" src="../../media/Figure_20_01_03-4a91.jpg" width="350"/>
+</media>
+<caption>This ladder-like phylogenetic tree of vertebrates is rooted by an organism that lacked a vertebral column. At each branch point, organisms with different characters are placed in different groups based on the characteristics they share.</caption>
+</figure>
+<para id="fs-idm65714400">Another aspect of phylogenetic trees is that, unless otherwise indicated, the branches do not account for length of time, only the evolutionary order. In other words, the length of a branch does not typically mean more time passed, nor does a short branch mean less time passed— unless specified on the diagram. For example, in <link target-id="fig-ch20_01_03" document=""/>, the tree does not indicate how much time passed between the evolution of amniotic eggs and hair. What the tree does show is the order in which things took place. Again using <link target-id="fig-ch20_01_03" document=""/>, the tree shows that the oldest trait is the vertebral column, followed by hinged jaws, and so forth. Remember that any phylogenetic tree is a part of the greater whole, and like a real tree, it does not grow in only one direction after a new branch develops. So, for the organisms in <link target-id="fig-ch20_01_03" document=""/>, just because a vertebral column evolved does not mean that invertebrate evolution ceased, it only means that a new branch formed. Also, groups that are not closely related, but evolve under similar conditions, may appear more phenotypically similar to each other than to a close relative.</para>
+<note id="fs-idp21663728" class="interactive ost-assessed-feature">
+<para id="fs-idm44792448">Head to this <link window="new" url="http://openstax.org/l/tree_of_life">website</link> to see interactive exercises that allow you to explore the evolutionary relationships among species.</para>
+<exercise id="fs-id1167065871568" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167065946402">
+<para id="fs-id1167064786740">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex001"/>
+</para>
+</problem>
+</exercise>
+</note>
+</section>
+<note id="fs-id1167064927968" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch20-s01-aplo-1-14 ost-tag-lo-apbio-ch20-s01-aplo-1-17">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065055379" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167063102560" class="unnumbered"><label/>
+<problem id="fs-id1167065970516"><para id="fs-id1167064903929">How does a phylogenetic tree relate to the passing of time? What other questions about the evolutionary history of an organism and its relatedness to other organisms can a phylogenetic tree answer?</para></problem></exercise>
+</note>
+<note id="fs-id1167066118335" class="os-teacher"><label>Teacher Support</label>
+<list id="eip-id1167061391616">
+<item>This question is an application of AP<sup>®</sup> Learning Objective 1.14 and Science Practice 3.1 and Learning Objective 1.17 and Science Practice 3.1 because students must pose questions about evolutionary history before they can answer them.</item>
+<item>Phylogenetic trees approximate the passing of time by the lengths of their branches. Longer branches mean that more time has passed since the organisms shared a common ancestor. Thus, a phylogenetic tree not only shows evolutionary relationships among organisms, but also how long ago the divergence from the common ancestor occurred.</item>
+</list></note></note>
+<section id="fs-idm96444544" class="ost-tag-lo-apbio-ch20-s01-lo02 ost-tag-lo-apbio-ch20-s01-lo03 ost-get-exercise">
+<title>The Levels of Classification</title>
+<para id="fs-idp20465712"><emphasis>Taxonomy</emphasis> (which literally means “arrangement law”) is the science of classifying organisms to construct internationally shared classification systems with each organism placed into more and more inclusive groupings. Think about how a grocery store is organized. One large space is divided into departments, such as produce, dairy, and meats. Then each department further divides into aisles, then each aisle into categories and brands, and then finally a single product. This organization from larger to smaller, more specific categories is called a hierarchical system.</para>
+<para id="fs-idp56936704">The taxonomic classification system (also called the Linnaean system after its inventor, Carl Linnaeus, a Swedish botanist, zoologist, and physician) uses a hierarchical model. Moving from the point of origin, the groups become more specific, until one branch ends as a single species. For example, after the common beginning of all life, scientists divide organisms into three large categories called a domain: Bacteria, Archaea, and Eukarya. Within each domain is a second category called a <emphasis>kingdom</emphasis>. After kingdoms, the subsequent categories of increasing specificity are: <emphasis>phylum</emphasis>, <emphasis>class</emphasis>, <emphasis>order</emphasis>, <emphasis>family</emphasis>, <emphasis>genus</emphasis>, and <emphasis>species</emphasis> (<link target-id="CNX_AP_Bio_20_01_02ab" document=""/>).</para>
+<figure id="CNX_AP_Bio_20_01_02ab" class="ost-tag-lo-apbio-ch20-s01-lo02"><media id="fs-idp58064352" alt="The illustration shows the classification of a dog, which belongs in the domain Eukarya, kingdom Animalia, phylum Chordata, class Mammalia, order Carnivore, family Canidae, genus Canis, species Canis lupus, and the subspecies is Canis lupus familiaris.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_20_01_02ab.jpg" width="250"/>
+</media>
+
+<caption>The taxonomic classification system uses a hierarchical model to organize living organisms into increasingly specific categories. The common dog, <emphasis effect="italics">Canis lupus familiaris</emphasis>, is a subspecies of <emphasis effect="italics">Canis lupus</emphasis>, which also includes the wolf and dingo. (credit “dog”: modification of work by Janneke Vreugdenhil)</caption></figure><para id="fs-idm41635904">The kingdom Animalia stems from the Eukarya domain. For the common dog, the classification levels would be as shown in <link target-id="CNX_AP_Bio_20_01_02ab" document=""/>. Therefore, the full name of an organism technically has eight terms. For the dog, it is: Eukarya, Animalia, Chordata, Mammalia, Carnivora, Canidae, <emphasis effect="italics">Canis,</emphasis> and <emphasis effect="italics">lupus</emphasis>. Notice that each name is capitalized except for species, and the genus and species names are italicized. Scientists generally refer to an organism only by its genus and species, which is its two-word scientific name, in what is called <emphasis>binomial nomenclature</emphasis>. Therefore, the scientific name of the dog is <emphasis effect="italics">Canis lupus</emphasis>. The name at each level is also called a <emphasis>taxon</emphasis>. In other words, dogs are in order Carnivora. Carnivora is the name of the taxon at the order level; Canidae is the taxon at the family level, and so forth. Organisms also have a common name that people typically use, in this case, dog. Note that the dog is additionally a subspecies: the “<emphasis effect="italics">familiaris</emphasis>” in <emphasis effect="italics">Canis lupus familiaris.</emphasis> Subspecies are members of the same species that are capable of mating and reproducing viable offspring, but they are considered separate subspecies due to geographic or behavioral isolation or other factors.</para>
+<para id="fs-idp96825280"><link target-id="fig-ch20_01_05" document=""/> shows how the levels move toward specificity with other organisms. Notice how the dog shares a domain with the widest diversity of organisms, including plants and butterflies. At each sublevel, the organisms become more similar because they are more closely related. Historically, scientists classified organisms using characteristics, but as DNA technology developed, more precise phylogenies have been determined.</para>
+<note id="fs-idp84739360" class="visual-connection ost-assessed-feature">
+<figure id="fig-ch20_01_05">
+<media id="fs-idp24152896" alt="Illustration shows the taxonomic groups shared by various species. All of the organisms shown are in the domain Eukarya: plants, insects, fish, rabbits, cats, foxes, jackals wolves, and dogs. Of theses, insects, fish, rabbits, cats, foxes, jackals, wolves and dogs are in the kingdom Animalia. Within the kingdom Animalia, fish, rabbits, cats, foxes, jackals, wolves, and dogs are in the phylum Chordata. Rabbits, cats, foxes, jackals, wolves, and dogs are in the class Mammalia. Cats, foxes, jackals, wolves, and dogs are in the order Carnivora. Foxes, jackals, wolves, and dogs are in the family Canidae. Jackals, wolves and dogs are in the genus Canis. Wolves and Dogs and have the species name Canis lupus. Dogs have the subspecies name Canis lupus familiaris.">
+<image mime-type="image/jpg" src="../../media/Figure_20_01_05.png" width="500"/>
+</media>
+<caption>At each sublevel in the taxonomic classification system, organisms become more similar. Dogs and wolves are the same species because they can breed and produce viable offspring, but they are different enough to be classified as different subspecies. (credit “plant”: modification of work by "berduchwal"/Flickr; credit “insect”: modification of work by Jon Sullivan; credit “fish”: modification of work by Christian Mehlführer; credit “rabbit”: modification of work by Aidan Wojtas; credit “cat”: modification of work by Jonathan Lidbeck; credit “fox”: modification of work by Kevin Bacher, NPS; credit “jackal”: modification of work by Thomas A. Hermann, NBII, USGS; credit “wolf”: modification of work by Robert Dewar; credit “dog”: modification of work by "digital_image_fan"/Flickr)</caption>
+</figure>
+<!--<para id="fs-idp132205104">At what levels are cats and dogs considered to be part of the same group?</para>-->
+<!--<para><link target-id="fig-ch20_01_05" document=""/> Cats and dogs are part of the same group at five levels: both are in the domain Eukarya, the kingdom Animalia, the phylum Chordata, the class Mammalia, and the order Carnivora.]</para>-->
+<exercise id="fs-id1167066123387" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167065954073">
+<para id="fs-id1167066156319">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex002"/>
+</para>
+</problem>
+</exercise>
+</note>
+<note id="fs-idp51250272" class="interactive ost-assessed-feature">
+<para id="fs-idp40663360">Visit this <link window="new" url="http://openstax.org/l/classify_life">website</link> to classify three organisms—bear, orchid, and sea cucumber—from kingdom to species. To launch the game, under Classifying Life, click the picture of the bear or the Launch Interactive button.</para>
+<exercise id="fs-id1167065888128" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167066012631">
+<para id="fs-id1167064994230">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex003"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-idp58609344">Recent genetic analysis and other advancements have found that some earlier phylogenetic classifications do not align with the evolutionary past; therefore, changes and updates must be made as new discoveries occur. Recall that phylogenetic trees are hypotheses and are modified as data becomes available. In addition, classification historically has focused on grouping organisms mainly by shared characteristics and does not necessarily illustrate how the various groups relate to each other from an evolutionary perspective. For example, despite the fact that a hippopotamus resembles a pig more than a whale, the hippopotamus may be the closest living relative of the whale.</para>
+</section>
+<section id="fs-idp61619840" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp22877040">Scientists continually gain new information that helps understand the evolutionary history of life on Earth. Each group of organisms went through its own evolutionary journey, called its phylogeny. Each organism shares relatedness with others, and based on morphologic and genetic evidence, scientists attempt to map the evolutionary pathways of all life on Earth. Historically, organisms were organized into a taxonomic classification system. However, today many scientists build phylogenetic trees to illustrate evolutionary relationships.</para>
+</section>
+<!--<section id="fs-idm28779856" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idp32012832">
+<problem id="fs-idp32823056">
+<para id="fs-idp62662384"><link target-id="fig-ch20_01_05" document=""/> At what levels are cats and dogs considered to be part of the same group?</para>
+</problem>
+<solution id="fs-idm66867936">
+<para id="fs-idp15491728"><link target-id="fig-ch20_01_05" document=""/> Cats and dogs are part of the same group at five levels: both are in the domain Eukarya, the kingdom Animalia, the phylum Chordata, the class Mammalia, and the order Carnivora.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm44172800" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp28640208">
+<problem id="fs-idm67245056">
+<para id="fs-idm45710816">What is used to determine phylogeny?</para>
+<list id="fs-idp61245520" list-type="enumerated" number-style="lower-alpha">
+<item>mutations</item>
+<item>DNA</item>
+<item>evolutionary history</item>
+<item>organisms on earth</item>
+</list>
+</problem>
+<solution id="fs-idp16316864">
+<label/>
+<para id="fs-idp71574272">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp40672624">
+<problem id="fs-idp32718560">
+<para id="fs-idp148582672">What do scientists in the field of systematics accomplish?</para>
+<list id="fs-idm92845312" list-type="enumerated" number-style="lower-alpha">
+<item>discover new fossil sites</item>
+<item>organize and classify organisms</item>
+<item>name new species</item>
+<item>communicate among field biologists</item>
+</list>
+</problem>
+<solution id="fs-idm106085824">
+<label/>
+<para id="fs-idm39969168">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp177641920">
+<problem id="fs-idm43494848">
+<para id="fs-idp111516384">Which statement about the taxonomic classification system is correct?</para>
+<list id="fs-idm91803984" list-type="enumerated" number-style="lower-alpha">
+<item>There are more domains than kingdoms.</item>
+<item>Kingdoms are the top category of classification.</item>
+<item>Classes are divisions of orders.</item>
+<item>Subspecies are the most specific category of classification.</item>
+</list>
+</problem>
+<solution id="fs-idp40685008">
+<label/>
+<para id="fs-idm16458112">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp32779440">
+<problem id="fs-idm39978512">
+<para id="fs-idm9146784">On a phylogenetic tree, which term refers to lineages that diverged from the same place?</para>
+<list id="fs-idm75638496" list-type="enumerated" number-style="lower-alpha">
+<item>sister taxa</item>
+<item>basal taxa</item>
+<item>rooted taxa</item>
+<item>dichotomous taxa</item>
+</list>
+</problem>
+<solution id="fs-idp55764736">
+<label/>
+<para id="fs-idp54256656">A</para>
+</solution>
+</exercise>
+</section> -->
+<!--<section id="fs-idp55870480" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp34994416">
+<problem id="fs-idm55011056">
+<para id="fs-idm8879904">How does a phylogenetic tree relate to the passing of time?</para>
+</problem>
+<solution id="fs-idp28580736">
+<label/>
+<para id="fs-idp58701136">The phylogenetic tree shows the order in which evolutionary events took place and in what order certain characteristics and organisms evolved in relation to others. It does not relate to time.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp20454112">
+<problem id="fs-idm7369728">
+<para id="fs-idp32221040">Some organisms that appear very closely related on a phylogenetic tree may not actually be closely related. Why is this?</para>
+</problem>
+<solution id="fs-idm3644144">
+<label/>
+<para id="fs-idm14123312">In most cases, organisms that appear closely related actually are; however, there are cases where organisms evolved through convergence and appear closely related but are not.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp59927904">
+<problem id="fs-idm9069152">
+<para id="fs-idp63534368">List the different levels of the taxonomic classification system.</para>
+</problem>
+<solution id="fs-idm102392448">
+<label/>
+<para id="fs-idp60281632">domain, kingdom, phylum, class, order, family, genus, species</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167064835471" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167065878152" class="os-exercise">
+<problem id="fs-id1167066056090">
+<para id="fs-id1167064825660">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex004"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066165730" class="os-exercise">
+<problem id="fs-id1167064979743">
+<para id="fs-id1167065773028">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062509490" class="os-exercise">
+<problem id="fs-id1167065870097">
+<para id="fs-id1167064850120">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065961137" class="os-exercise">
+<problem id="fs-id1167065039594">
+<para id="fs-id1167065034592">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex007"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065702544" class="os-exercise">
+<problem id="fs-id1167065874526">
+<para id="fs-id1167064873299">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064821102" class="os-exercise">
+<problem id="fs-id1167066046844">
+<para id="fs-id1167066055781">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex009"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066037525" class="os-exercise">
+<problem id="fs-id1167066170535">
+<para id="fs-id1167064818806">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex010"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062452869" class="os-exercise">
+<problem id="fs-id1167065775460">
+<para id="fs-id1167065842957">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex011"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167065960965" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167065837589" class="os-exercise">
+<problem id="fs-id1167065864787">
+<para id="fs-id1167065769208">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex012"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064744796" class="os-exercise">
+<problem id="fs-id1167066039571">
+<para id="fs-id1167065865936">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex013"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065886690" class="os-exercise">
+<problem id="fs-id1167064891495">
+<para id="fs-id1167065940031">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex014"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065763138" class="os-exercise">
+<problem id="fs-id1167064896101">
+<para id="fs-id1167064697397">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex015"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166169495492">
+<problem id="fs-id1166172848071">
+<para id="fs-id1166166191364">Judeo-Christian religious texts explain that the Earth and all the organisms on Earth were created in seven days. Why is this not a valid scientific hypothesis?</para>
+</problem>
+<!--<solution id="fs-id1166172935142">
+<label/>
+<para id="fs-id1166172812209">No experiment can be designed to prove this hypothesis true or false.</para>
+</solution>-->
+</exercise>
+</section>
+<section id="fs-id1167066141369" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup><sup>®</sup></sup> Courses</title>
+<exercise id="fs-id1167064669820" class="os-exercise"><problem id="fs-id1167065967152">
+<para id="fs-id1167062571364">
+What evolutionary question is better addressed by the fig-shaped evolutionary tree in <link target-id="fig-ch20_03_05" document="m62876"/>, as opposed to the more typical, single-trunk phylogenetic tree in <link target-id="fig-ch20_01_01" document=""/>?
+<list id="eip-idm176909584" list-type="enumerated" number-style="lower-alpha">
+<item>What was the single organism from which all other forms of life on Earth arose?</item>
+<item>Did animals evolve from fungi?</item>
+<item>In which species of eukaryote did chloroplasts first appear?</item>
+<item>Were chloroplasts and mitochondria transferred to eukaryotic cells through horizontal gene transfer?</item>
+</list>
+</para>
+</problem>
+</exercise><exercise id="fs-id1167066039325" class="os-exercise">
+<problem id="fs-id1167062352590">
+<para id="fs-id1167065856724">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex017"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065876662" class="os-exercise">
+<problem id="fs-id1167065851999">
+<para id="fs-id1167064791947">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex018"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066170008" class="os-exercise">
+<problem id="fs-id1167065959534">
+<para id="fs-id1167065825947">
+<link class="os-embed" url="#ost/api/ex/apbio-ch20-ex019"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164968979590" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164966523679"><problem id="fs-id1164968945879">
+<media id="fs-id1164968750162" alt="The figure shows a plot of the fraction, as a percentage, of families of marine organisms, living at a particular point in time that became extinct in the next geological era.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_20_01_01_01_img.jpg" width="400"/>
+</media>
+<para id="fs-id1164968598905">The figure shows a plot of the fraction, as a percentage, of families of marine organisms, living at a particular point in time that became extinct (vanished from the fossil record) in the next geological moment. These mass extinctions mark the ends of geologic periods. For example, the Triassic period ended around 213 million years ago (Mya).</para>
+<para id="fs-id1164967791474">A. The fact that evolution is an ongoing process is illustrated by these data.  Whether the process displays a pattern involving regular intervals is a question that has been raised.  Of those who believe periodicity is present, a period of 26 million years is favored.  A wave with this periodicity is drawn on the figure.  <term>Evaluate</term> the evidence provided in terms of agreement and disagreement with the marine extinction record.</para>
+<para id="fs-id1164967800972">The Cretaceous and Jurassic were periods of warm landmasses covered by a shallow sea.  The ends of these periods are known to be due to asteroids that left a sedimentary trace.  At the end of the Triassic, there is no evidence of an asteroid impact.  Instead, there was massive volcanism associated with the opening of the Atlantic Ocean, a four-fold increase in carbon dioxide, and a 36 °C temperature rise (A. Marzoli et al., <emphasis effect="italics">Science</emphasis>, 1999).  Macrofossil, spore, and pollen data show that marine animal species declined much more than marine plant species (L. Mander et al., <emphasis effect="italics">Proc Natl Acad Sci</emphasis>, 2010).  The cause of the end of the Permian period is less uncertain, but an 8-°C temperature rise has been established (McElwain and Punyasena, <emphasis effect="italics">Trends in Ecology and Evolution</emphasis>, 2007).  Both terrestrial and marine taxa were affected.</para>
+<para id="fs-id1164967521106">The graph estimates the number of distinct families, including both marine and terrestrial, as a function of time before the present.  Note that the time scale for this graph is much longer than that of the previous graph.</para>
+<figure id="fs-id1164967747032"><media id="fs-id1164965241582" alt="The graph estimates the number of distinct families, including both marine and terrestrial, as a function of time from zero to 600 million years ago.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_20_01_01_02_img.jpg" width="400"/>
+</media>
+
+</figure><para id="fs-id1164960921221">B. <term>Analyze</term> this graph by:</para>
+<list id="fs-id1164964478440"><item>identifying times of mass extinctions</item>
+<item>posing a question regarding any difference between the graph of extinctions of marine life and the graph of family-level diversity</item>
+<item>explaining the slope of the graph of family diversity following a mass extinction event</item></list>
+</problem>
+</exercise></section>
+ </content>
+<glossary>
+<definition id="fs-idm23105552">
+<term>basal taxon</term> <meaning id="fs-idp32221520">branch on a phylogenetic tree that has not diverged significantly from the root ancestor</meaning>
+</definition>
+<definition id="fs-idm53349056">
+<term>binomial nomenclature</term> <meaning id="fs-idm17524768">system of two-part scientific names for an organism, which includes genus and species names</meaning>
+</definition>
+<definition id="fs-idm1036832">
+<term>branch point</term> <meaning id="fs-idp40698912">node on a phylogenetic tree where a single lineage splits into distinct new ones</meaning></definition>
+<definition id="fs-idm36263008">
+<term>class</term> <meaning id="fs-idm80010320">division of phylum in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idm86588096">
+<term>family</term> <meaning id="fs-idm19395792">division of order in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idm102065936">
+<term>genus</term> <meaning id="fs-idp17932272">division of family in the taxonomic classification system; the first part of the binomial scientific name</meaning>
+</definition>
+<definition id="fs-idp85464784">
+<term>kingdom</term> <meaning id="fs-idm70995216">division of domain in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idm105293104">
+<term>order</term> <meaning id="fs-idm68532368">division of class in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idp209954400">
+<term>phylogenetic tree</term> <meaning id="fs-idp29667184">diagram used to reflect the evolutionary relationships among organisms or groups of organisms</meaning>
+</definition>
+<definition id="fs-idm43062240">
+<term>phylogeny</term> <meaning id="fs-idp32720544">evolutionary history and relationship of an organism or group of organisms</meaning>
+</definition>
+<definition id="fs-idm4716128">
+<term>phylum</term> <meaning id="fs-idm40007312">(plural: phyla) division of kingdom in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idp18154752">
+<term>polytomy</term> <meaning id="fs-idm14973776">branch on a phylogenetic tree with more than two groups or taxa</meaning>
+</definition>
+<definition id="fs-idm3629840">
+<term>rooted</term> <meaning id="fs-idp44914240">single ancestral lineage on a phylogenetic tree to which all organisms represented in the diagram relate</meaning>
+</definition>
+<definition id="fs-idm36162192">
+<term>sister taxa</term> <meaning id="fs-idm8433776">two lineages that diverged from the same branch point</meaning>
+</definition>
+<definition id="fs-idm99536784">
+<term>systematics</term> <meaning id="fs-idm43516112">field of organizing and classifying organisms based on evolutionary relationships</meaning>
+</definition>
+<definition id="fs-idm25913024">
+<term>taxon</term> <meaning id="fs-idm34659680">(plural: taxa) single level in the taxonomic classification system</meaning>
+</definition>
+<definition id="fs-idm66472720">
+<term>taxonomy</term> <meaning id="fs-idm19466576">science of classifying organisms</meaning>
+</definition>
+<definition id="fs-id1167065688021">
+<term>taxonomic classification system</term> <meaning id="fs-id1167065858760">hierarchical system of classifying organisms, including the classification of domain, kingdom, phylum, class, order, family, genus, and species</meaning>
+</definition>
+</glossary>
+</document>

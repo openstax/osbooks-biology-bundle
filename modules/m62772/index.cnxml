@@ -1,0 +1,261 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Bulk Transport</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62772</md:content-id>
+  <md:title>Bulk Transport</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe endocytosis, including phagocytosis, pinocytosis, and receptor-mediated endocytosis</item>
+<item>Understand the process of exocytosis</item>
+</list></md:abstract>
+  <md:uuid>602cf27f-4848-451d-9f08-7fa1b770213e</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065870417" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167064781424">By the end of this section, you will be able to:</para>
+<list id="fs-id1167064692457">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch05-s04-lo01">What are the differences among the different types of endocytosis: (phagocytosis, pinocytosis, and receptor-mediated endocytosis) and exocytosis?</item>
+</list>
+</section>
+
+<section id="fs-id1167064900049" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167066050725">Diffusion, osmosis, and active transport are used to transport fairly small molecules across plasma cell membranes. However, sometimes large particles, such as macromolecules, parts of cells, or even unicellular microorganisms, can be engulfed by other cells in a process called phagocytosis or “cell eating.” In this form of endocytosis, the cell membrane surrounds the particle, pinches off, and brings the particle into the cell. For example, when bacteria invade the human body, a type of white blood cell called a neutrophil will remove the invaders by this process. Similarly, in pinocytosis or “cell drinking,” the cell takes in droplets of liquid. In receptor-mediated endocytosis, uptake of substances by the cell is targeted to a single type of substance that binds to a specific receptor protein on the external surface of the cell membrane (e.g., hormones and their target cells) before under going endocytosis. Some human diseases, such as familial hypercholesterolemia, are caused by the failure of receptor-mediated endocytosis. Exocytosis is the process of exporting material out of the cell; vesicles containing substances fuse with the plasma membrane and the contents are released to the exterior of the cell. The secretion of neurotransmitters at synapses between neurons is an example of exocytosis.</para><para id="fs-id1167065895674" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and learning objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The learning objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para><table id="fs-id1167062351265" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.B.2 Growth and dynamic homeostasis are maintained by the constant movement of molecules across membranes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Learning Objective. Third right cell reads: 2.12 The student is able to use representations and models to analyze situations or solve problems qualitatively and quantitatively to investigate whether dynamic homeostasis is maintained by the active movement of molecules across membranes." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.B</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and dynamic homeostasis require that cells create and maintain internal environments that are different from their external environments.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.B.2</emphasis></span>
+<span class="ost-standards-description">Growth and dynamic homeostasis are maintained by the constant movement of molecules across membranes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4</emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch05-s04-aplo-2-12">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.12</emphasis></span>
+<span class="ost-standards-description">The student is able to use representations and models to analyze situations or solve problems qualitatively and quantitatively to investigate whether dynamic homeostasis is maintained by the active movement of molecules across membranes.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.D</emphasis></entry>
+<entry class="ost-standards-description">Growth and dynamic homeostasis of a biological system are influenced by changes in the system’s environment.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.4</emphasis></span>
+<span class="ost-standards-description">Plants and animals have a variety of chemical defenses against infections that affect dynamic homeostasis.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.1</emphasis></span>
+<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.2</emphasis></span>
+<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch05-s04-aplo-2-30">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.30</emphasis></span>
+<span class="ost-standards-description">The student can create representations or models to describe nonspecific immune defenses in plants and animals.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table></section>
+
+<note id="fs-id1167065772677" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167062390033" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167065945256">Ask students to consider how large polar molecules required by cells, such as proteins and polysaccharides, can enter cells when they are unable to cross cell membranes. These molecules enter cells through the active transport mechanism of endocytosis. <link window="new" url="http://openstax.org/l/32endoexo">This video</link> on endocytosis and exocytosis can be used to demonstrate this information.</para></note>
+</note>
+
+
+
+<para id="fs-id1467282">In addition to moving small ions and molecules through the membrane, cells also need to remove and take in larger molecules and particles (see  <link target-id="tab-ch05_04_01" document=""/> for examples). Some cells are even capable of engulfing entire unicellular microorganisms. You might have correctly hypothesized that the uptake and release of large particles by the cell requires energy. A large particle, however, cannot pass through the membrane, even with energy supplied by the cell.</para>
+<section id="fs-id1967798" class="ost-tag-lo-apbio-ch05-s04-lo01 ost-tag-lo-apbio-ch05-s04-aplo-2-12 ost-tag-lo-apbio-ch05-s04-aplo-2-30 ost-get-exercise">
+<title>Endocytosis</title>
+<para id="fs-id1416306"><term>Endocytosis</term> is a type of active transport that moves particles, such as large molecules, parts of cells, and even whole cells, into a cell. There are different variations of endocytosis, but all share a common characteristic: The plasma membrane of the cell invaginates, forming a pocket around the target particle. The pocket pinches off, resulting in the particle being contained in a newly created intracellular vesicle formed from the plasma membrane.</para>
+<section id="fs-id1242559" class="ost-get-exercise">
+<title>Phagocytosis</title>
+<para id="fs-id1694237">Phagocytosis (the condition of “cell eating”) is the process by which large particles, such as cells or relatively large particles, are taken in by a cell. For example, when microorganisms invade the human body, a type of white blood cell called a neutrophil will remove the invaders through this process, surrounding and engulfing the microorganism, which is then destroyed by the neutrophil (<link target-id="fig-ch05_04_01" document=""/>).</para>
+<figure id="fig-ch05_04_01" class="ost-tag-lo-apbio-ch05-s04-lo01 ost-tag-lo-apbio-ch05-s04-aplo-2-12 ost-tag-lo-apbio-ch05-s04-aplo-2-30"><media id="fs-id2273382" alt="This illustration shows a plasma membrane forming a pocket around a particle in the extracellular fluid. The membrane subsequently engulfs the particle, which becomes trapped in a vacuole.">
+<image mime-type="image/jpg" src="../../media/Figure_05_04_01.jpg" width="290"/>
+</media>
+<caption>In phagocytosis, the cell membrane surrounds the particle and engulfs it. (credit: Mariana Ruiz Villareal)</caption></figure><para id="fs-id1458045">In preparation for phagocytosis, a portion of the inward-facing surface of the plasma membrane becomes coated with a protein called <term>clathrin</term>, which stabilizes this section of the membrane. The coated portion of the membrane then extends from the body of the cell and surrounds the particle, eventually enclosing it. Once the vesicle containing the particle is enclosed within the cell, the clathrin disengages from the membrane and the vesicle merges with a lysosome for the breakdown of the material in the newly formed compartment (endosome). When accessible nutrients from the degradation of the vesicular contents have been extracted, the newly formed endosome merges with the plasma membrane and releases its contents into the extracellular fluid. The endosomal membrane again becomes part of the plasma membrane.</para>
+</section>
+
+<note id="fs-id1167065843970" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch05-s04-aplo-2-12 ost-tag-lo-apbio-ch05-s04-aplo-2-30">
+<label>Science Practice Connections for AP<sup>®</sup> courses</label>
+<note id="fs-id1167066031880" class="ost-assignable ost-sciprac-activity">
+<para id="fs-id1167064902010">Create a representation/diagram to describe how a neutrophil, a type of human white blood cell, attacks and destroys an invading bacterium. What cellular organelles are involved in this process? </para>
+</note>
+</note>
+
+<note id="fs-id1167066012176" class="os-teacher ost-tag-lo-apbio-ch05-s04-aplo-2-12 ost-tag-lo-apbio-ch05-s04-aplo-2-30">
+<label>Teacher Support</label>
+<para id="fs-id1167065661380">Student diagrams should show receptors in the neutrophil that bind to the bacteria and the plasma membrane of the neutrophil surrounding the bacteria. The diagram should also show a lysosome merging with vesicle containing the bacteria, and breakdown of the bacteria by the lysosome.</para>
+
+<figure id="fs-id1167065968177">
+<media id="fs-id1167065692118" alt="">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_TS_05_04_02.jpg" width="300"/></media>
+</figure>
+</note>
+
+<section id="fs-id1434270" class="ost-get-exercise">
+<title>Pinocytosis</title>
+<para id="fs-id2337777">A variation of endocytosis is called <term>pinocytosis</term>. This literally means “cell drinking” and was named at a time when the assumption was that the cell was purposefully taking in extracellular fluid. In reality, this is a process that takes in molecules, including water, which the cell needs from the extracellular fluid. Pinocytosis results in a much smaller vesicle than does phagocytosis, and the vesicle does not need to merge with a lysosome (<link target-id="fig-ch05_04_02" document=""/>).</para>
+<figure id="fig-ch05_04_02" class="ost-tag-lo-apbio-ch05-s04-lo01 ost-tag-lo-apbio-ch05-s04-aplo-2-12"><media id="fs-id1998867" alt="This illustration shows a plasma membrane forming a pocket around fluid in the extracellular fluid. The membrane subsequently engulfs the fluid, which becomes trapped in a vacuole.">
+<image mime-type="image/jpg" src="../../media/Figure_05_04_02.jpg" width="290"/>
+</media>
+<caption>In pinocytosis, the cell membrane invaginates, surrounds a small volume of fluid, and pinches off. (credit: Mariana Ruiz Villareal)</caption></figure><para id="fs-id1511146">A variation of pinocytosis is called <term>potocytosis</term>. This process uses a coating protein, called <term>caveolin</term>, on the cytoplasmic side of the plasma membrane, which performs a similar function to clathrin. The cavities in the plasma membrane that form the vacuoles have membrane receptors and lipid rafts in addition to caveolin. The vacuoles or vesicles formed in caveolae (singular caveola) are smaller than those in pinocytosis. Potocytosis is used to bring small molecules into the cell and to transport these molecules through the cell for their release on the other side of the cell, a process called transcytosis.</para>
+</section>
+<section id="fs-id2059707" class="ost-get-exercise">
+<title>Receptor-mediated Endocytosis</title>
+<para id="fs-id2163521">A targeted variation of endocytosis employs receptor proteins in the plasma membrane that have a specific binding affinity for certain substances (<link target-id="fig-ch05_04_03" document=""/>).</para>
+<figure id="fig-ch05_04_03"><media id="fs-id1313108" alt="This illustration shows a part of the plasma membrane that is clathrin-coated on the cytoplasmic side and has receptors on the extracellular side. The receptors bind a substance, then pinch off to form a vesicle.">
+<image mime-type="image/jpg" src="../../media/Figure_05_04_03.jpg" width="290"/>
+</media>
+<caption>In receptor-mediated endocytosis, uptake of substances by the cell is targeted to a single type of substance that binds to the receptor on the external surface of the cell membrane. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id1912639">In <term>receptor-mediated endocytosis</term>, as in phagocytosis, clathrin is attached to the cytoplasmic side of the plasma membrane. If uptake of a compound is dependent on receptor-mediated endocytosis and the process is ineffective, the material will not be removed from the tissue fluids or blood. Instead, it will stay in those fluids and increase in concentration. Some human diseases are caused by the failure of receptor-mediated endocytosis. For example, the form of cholesterol termed low-density lipoprotein or LDL (also referred to as “bad” cholesterol) is removed from the blood by receptor-mediated endocytosis. In the human genetic disease familial hypercholesterolemia, the LDL receptors are defective or missing entirely. People with this condition have life-threatening levels of cholesterol in their blood, because their cells cannot clear LDL particles from their blood.</para>
+<para id="fs-id2074680">Although receptor-mediated endocytosis is designed to bring specific substances that are normally found in the extracellular fluid into the cell, other substances may gain entry into the cell at the same site. Flu viruses, diphtheria, and cholera toxin all have sites that cross-react with normal receptor-binding sites and gain entry into cells.</para>
+<note id="fs-id2000637" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch05-s04-lo01 ost-tag-lo-apbio-ch05-s04-aplo-2-12 ost-tag-lo-apbio-ch05-s04-aplo-2-30"><label>Link to Learning</label>
+<para id="fs-id2292278">See receptor-mediated endocytosis in action, and click on different <link window="new" url="http://openstax.org/l/endocytosis">parts</link> for a focused animation.</para>
+<exercise id="fs-id1167065896349" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066088534">
+<para id="fs-id1167065822974">
+<link class="os-embed" url="#ost/api/ex/apbio-ch05-ex030"/>
+</para>
+</problem>
+</exercise>
+</note>
+</section>
+</section>
+
+
+
+<section id="fs-id1836379" class="ost-tag-lo-apbio-ch05-s04-lo01 ost-tag-lo-apbio-ch05-s04-aplo-2-12 ost-get-exercise">
+<title>Exocytosis</title>
+<para id="fs-id841051">The reverse process of moving material into a cell is the process of exocytosis. <term>Exocytosis</term> is the opposite of the processes discussed above in that its purpose is to expel material from the cell into the extracellular fluid. Waste material is enveloped in a membrane and fuses with the interior of the plasma membrane. This fusion opens the membranous envelope on the exterior of the cell, and the waste material is expelled into the extracellular space (<link target-id="fig-ch05_04_04" document=""/>). Other examples of cells releasing molecules via exocytosis include the secretion of proteins of the extracellular matrix and secretion of neurotransmitters into the synaptic cleft by synaptic vesicles.</para>
+<figure id="fig-ch05_04_04"><media id="fs-id1690710" alt="This illustration shows vesicles fusing with the plasma membrane and releasing their contents to the extracellular fluid.">
+<image mime-type="image/jpg" src="../../media/Figure_05_04_04.jpg" width="290"/>
+</media>
+<caption>In exocytosis, vesicles containing substances fuse with the plasma membrane. The contents are then released to the exterior of the cell. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure>
+<table id="tab-ch05_04_01" class="ost-tag-lo-apbio-ch05-s04-lo01 ost-tag-lo-apbio-ch05-s04-aplo-2-12 top-titled" summary="This table provides a list of types of molecular transport in cells, whether the method is passive or active, and the types of materials transported for each.">
+<tgroup cols="3"><colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <colspec colnum="3" colname="col3"/>
+<thead>
+<row><entry namest="col1" nameend="col3">Methods of Transport, Energy Requirements, and Types of Material Transported</entry></row>
+<row><entry>Transport Method</entry><entry>Active/Passive</entry><entry>Material Transported</entry></row>
+</thead>
+<tbody>
+<row><entry>Diffusion</entry><entry>Passive</entry><entry>Small-molecular weight material</entry></row>
+<row><entry>Osmosis</entry><entry>Passive</entry><entry>Water</entry></row>
+<row><entry>Facilitated transport/diffusion</entry><entry>Passive</entry><entry>Sodium, potassium, calcium, glucose</entry></row>
+<row><entry>Primary active transport</entry><entry>Active</entry><entry>Sodium, potassium, calcium</entry></row>
+<row><entry>Secondary active transport</entry><entry>Active</entry><entry>Amino acids, lactose</entry></row>
+<row><entry>Phagocytosis</entry><entry>Active</entry><entry>Large macromolecules, whole cells, or cellular structures</entry></row>
+<row><entry>Pinocytosis and potocytosis</entry><entry>Active</entry><entry>Small molecules (liquids/water)</entry></row>
+<row><entry>Receptor-mediated endocytosis</entry><entry>Active</entry><entry>Large quantities of macromolecules</entry></row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+
+<section id="fs-id1894819" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1479267">Active transport methods require the direct use of ATP to fuel the transport. Large particles, such as macromolecules, parts of cells, or whole cells, can be engulfed by other cells in a process called phagocytosis. In phagocytosis, a portion of the membrane invaginates and flows around the particle, eventually pinching off and leaving the particle entirely enclosed by an envelope of plasma membrane. Vesicle contents are broken down by the cell, with the particles either used as food or dispatched. Pinocytosis is a similar process on a smaller scale. The plasma membrane invaginates and pinches off, producing a small envelope of fluid from outside the cell. Pinocytosis imports substances that the cell needs from the extracellular fluid. The cell expels waste in a similar but reverse manner: it pushes a membranous vacuole to the plasma membrane, allowing the vacuole to fuse with the membrane and incorporate itself into the membrane structure, releasing its contents to the exterior.</para>
+</section>
+
+<section id="fs-id1167065801989" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+
+<exercise id="fs-id1167065746525" class="os-exercise">
+<problem id="fs-id1167065684288">
+<para id="fs-id1167065853355">
+<link class="os-embed" url="#ost/api/ex/apbio-ch05-ex031"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="fs-id1167065824198" class="os-exercise">
+<problem id="fs-id1167065852687">
+<para id="fs-id1167065811644">
+<link class="os-embed" url="#ost/api/ex/apbio-ch05-ex032"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-id1167065973839" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167066086196" class="os-exercise">
+<problem id="fs-id1167065738431">
+<para id="fs-id1167065885434">
+<link class="os-embed" url="#ost/api/ex/apbio-ch05-ex033"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166847589907" class="os-exercise">
+<problem id="eip-id1166850067121">
+<para id="eip-id1166847545180">
+<link class="os-embed" url="#ost/api/ex/apbio-ch05-ot020"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065793659" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167065046966" class="os-exercise">
+<problem id="fs-id1167065986116">
+<para id="fs-id1167066057836">
+<link class="os-embed" url="#ost/api/ex/apbio-ch05-ex034"/>
+</para>
+</problem>
+</exercise>
+
+
+<exercise id="fs-id1167066014761" class="os-exercise">
+<problem id="fs-id1167066145469">
+<para id="fs-id1167065842328">
+<link class="os-embed" url="#ost/api/ex/apbio-ch05-ex035"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166847983667" class="os-exercise">
+<problem id="eip-id1166847800934">
+<para id="eip-id1166849930214">
+<link class="os-embed" url="#ost/api/ex/apbio-ch05-ot021"/>
+</para>
+</problem>
+</exercise></section> </content>
+<glossary>
+<definition id="fs-id1769825"><term>caveolin</term> <meaning id="fs-id2258545">protein that coats the cytoplasmic side of the plasma membrane and participates in the process of liquid uptake by potocytosis</meaning></definition>
+<definition id="fs-id1704998"><term>clathrin</term> <meaning id="fs-id2491646">protein that coats the inward-facing surface of the plasma membrane and assists in the formation of specialized structures, like coated pits, for phagocytosis</meaning></definition>
+<definition id="fs-id1412466"><term>endocytosis</term> <meaning id="fs-id1288365">type of active transport that moves substances, including fluids and particles, into a cell</meaning></definition>
+<definition id="fs-id1439064"><term>exocytosis</term> <meaning id="fs-id1519767">process of passing bulk material out of a cell</meaning></definition>
+<definition id="fs-id1760012"><term>pinocytosis</term> <meaning id="fs-id1395158">a variation of endocytosis that imports macromolecules that the cell needs from the extracellular fluid</meaning></definition>
+<definition id="fs-id1442893"><term>potocytosis</term> <meaning id="fs-id1786911">variation of pinocytosis that uses a different coating protein (caveolin) on the cytoplasmic side of the plasma membrane</meaning></definition>
+<definition id="fs-id1631447"><term>receptor-mediated endocytosis</term> <meaning id="fs-id2072894">variation of endocytosis that involves the use of specific binding proteins in the plasma membrane for specific molecules or particles, and clathrin-coated pits that become clathrin-coated vesicles</meaning></definition>
+</glossary>
+</document>

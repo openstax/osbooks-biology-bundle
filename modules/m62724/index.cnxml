@@ -1,0 +1,251 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Synthesis of Biological Macromolecules</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62724</md:content-id>
+  <md:title>Synthesis of Biological Macromolecules</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand the synthesis of macromolecules</item>
+<item>Explain dehydration (or condensation) and hydrolysis reactions</item>
+</list></md:abstract>
+  <md:uuid>5f088c2d-befa-444d-b1c9-fc25cff0dc9b</md:uuid>
+</metadata>
+
+<content>
+
+
+<section id="fs-id1167064529772" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167064917400">In this section, you will explore the following questions:</para>
+<list id="fs-id1167066057934">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s01-lo01">How are complex macromolecule polymers synthesized from monomers?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s01-lo02">What is the difference between dehydration (or condensation) and hydrolysis reactions?</item>
+</list>
+</section>
+
+<section id="fs-id1167062355516" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167062368613">Living organisms need food to survive as it contains critical nutrients in the form of biological macromolecules. These large molecules are composed mainly of six elementssulfur, phosphorus, oxygen, nitrogen, carbon, and hydrogen (SPONCH)in different quantities and arrangements. Complex polymers are built from combinations of smaller monomers by dehydration synthesis, a chemical reaction in which a molecule of water is removed between two linking monomers. (Think of a train: each boxcar, including the caboose, represents a monomer, and the entire train is a polymer.) During digestion, polymers can be broken down by hydrolysis, or the addition of water. Both dehydration and hydrolysis reactions in cells are catalyzed by specific enzymes. Dehydration reactions typically require an investment of energy for new bond formation, whereas hydrolysis reactions typically release energy that can be used to power cellular processes. The four categories of macromolecules are carbohydrates, lipids, proteins, and nucleic acids.  Evidence supports scientists claim that the organic precursors of these biological molecules were present on primitive Earth.</para>
+<para id="fs-id1167066105108" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A learning objective merges required content with one or more of the seven Science Practices.</para>
+
+<table id="fs-id1167062340092" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.D.1 There are several hypotheses about the natural origin of life on Earth, each with supporting scientific evidence. Second left cell reads: Science Practice. Second right cell reads: 1.2 The student can describe representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Learning Objective. Third right cell reads: 1.27 The student is able to describe a scientific hypothesis about the origin of life on Earth." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.D</emphasis></entry>
+<entry class="ost-standards-description">The origin of living systems is explained by natural processes.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.D.1</emphasis></span>
+<span class="ost-standards-description">There are several hypotheses about the natural origin of life on Earth, each with supporting scientific evidence.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.2</emphasis></span>
+<span class="ost-standards-description">The student can make
+claims and predictions about natural phenomena based on
+scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s01-aplo-1-27">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.27</emphasis></span>
+<span class="ost-standards-description">The student is able to describe a scientific hypothesis about the origin of life on Earth.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.D.1</emphasis></span>
+<span class="ost-standards-description">There are several hypotheses about the natural origin of life on Earth, each with supporting scientific evidence.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.3</emphasis></span>
+<span class="ost-standards-description">The student can evaluate scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s01-aplo-1-28">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.28</emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate scientific questions based on hypotheses about the origin of life on Earth.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+
+<note id="fs-id1167065846545" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065847430">Stress to the class that macromolecules are produced through dehydration synthesis and taken apart through hydrolysis. As the names imply, water is involved in both cases.</para>
+</note>
+
+
+<section id="fs-id1266915" class="ost-get-exercise">
+<title>Dehydration Synthesis</title>
+<para id="fs-id1724224">As you’ve learned, <term>biological macromolecules</term> are large molecules, necessary for life, that are built from smaller organic molecules. There are four major classes of biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids); each is an important cell component and performs a wide array of functions. Combined, these molecules make up the majority of a cell’s dry mass (recall that water makes up the majority of its complete mass). Biological macromolecules are organic, meaning they contain carbon. In addition, they may contain hydrogen, oxygen, nitrogen, and additional minor elements.</para>
+
+<para id="fs-id1384510">Most macromolecules are made from single subunits, or building blocks, called <term>monomers</term>. The monomers combine with each other using covalent bonds to form larger molecules known as <term>polymers</term>. In doing so, monomers release water molecules as byproducts. This type of reaction is known as <term>dehydration synthesis</term>, which means “to put together while losing water.”</para>
+<figure id="fs-id1167065892188" class="ost-tag-lo-apbio-ch03-s01-lo01">
+<media id="fs-id1477384" alt="Shown is the reaction of two glucose monomers to form maltose. When maltose is formed, a water molecules is released.">
+<image mime-type="image/jpg" src="../../media/Figure_03_01_01.jpg" width="600"/>
+</media>
+<caption>In the dehydration synthesis reaction depicted above, two molecules of glucose are linked together to form the disaccharide maltose. In the process, a water molecule is formed.
+</caption></figure>
+
+<note id="fs-id1167065853591" class="os-teacher">
+<label>Teacher Support</label>
+<para id="eip-935">Explain that when something is dehydrated, water is removed from it. Identify the specific hydrogen and specific hydroxyl group in the models or illustrations that are removed from two monomers to make the water. The remaining oxygen atom is used to link the two monomers together.</para><para id="fs-id1167065061727">Hydrolysis is the splitting or lysis of a bond between monomers within a polymer, using water. Explain that the two parts of water, the hydrogen atom and hydroxyl group, are added to the monomers after the separation from the polymer, with the result that each has a hydroxyl group where the oxygen molecule linking them was found.</para>
+<para id="fs-id1167064906840">Ask the students what came first, biological chemicals or intact cells? Then discuss Miller and Ureys experiments. They can attempt to explain how these complex macromolecules could be created in the absence of life. The resulting molecules floated around in the atmosphere and eventually fell into the early oceans, then probably became incorporated into primitive cells.</para>
+</note>
+
+
+<para id="fs-id1730720">In a dehydration synthesis reaction (<link target-id="fs-id1167065892188" document=""/>), the hydrogen of one monomer combines with the hydroxyl group of another monomer, releasing a molecule of water. At the same time, the monomers share electrons and form covalent bonds. As additional monomers join, this chain of repeating monomers forms a polymer. Different types of monomers can combine in many configurations, giving rise to a diverse group of macromolecules. Even one kind of monomer can combine in a variety of ways to form several different polymers: for example, glucose monomers are the constituents of starch, glycogen, and cellulose.</para></section>
+
+<section id="fs-id1167062408774" class="ost-tag-lo-apbio-ch03-s01-lo02 ost-get-exercise">
+<title>Hydrolysis</title>
+<para id="fs-id1431430">Polymers are broken down into monomers in a process known as hydrolysis, which means “to split with water.” Hydrolysis is a reaction in which a water molecule is used during the breakdown of another compound (<link target-id="fs-id1167066086144" document=""/>). During these reactions, the polymer is broken into two components: one part gains a hydrogen atom (H+) and the other gains a hydroxyl molecule (OH–) from a split water molecule.</para><figure id="fs-id1167066086144" class="ost-tag-lo-apbio-ch03-s01-lo02"><media id="fs-id1405882" alt="Shown is the breakdown of maltose to form two glucose monomers. Water is a reactant.">
+<image mime-type="image/jpg" src="../../media/Figure_03_01_02.jpg" width="600"/>
+</media>
+<caption>In the hydrolysis reaction shown here, the disaccharide maltose is broken down to form two glucose monomers with the addition of a water molecule. Note that this reaction is the reverse of the synthesis reaction shown in <link target-id="fs-id1167065892188" document=""/>.</caption></figure><para id="fs-id2016502">Dehydration and <term>hydrolysis reactions</term> are catalyzed, or “sped up,” by specific enzymes; dehydration reactions involve the formation of new bonds, requiring energy, while hydrolysis reactions break bonds and release energy. These reactions are similar for most macromolecules, but each monomer and polymer reaction is specific for its class. For example, in our bodies, food is hydrolyzed, or broken down, into smaller molecules by catalytic enzymes in the digestive system. This allows for easy absorption of nutrients by cells in the intestine. Each macromolecule is broken down by a specific enzyme. For instance, carbohydrates are broken down by amylase, sucrase, lactase, or maltase. Proteins are broken down by the enzymes pepsin and peptidase, and by hydrochloric acid. Lipids are broken down by lipases. Breakdown of these macromolecules provides energy for cellular activities.</para>
+<note id="fs-id1425951" class="interactive ost-assessed-feature">
+<para id="fs-id1443321">Visit <link window="new" url="http://openstax.org/l/hydrolysis">this site</link> to see visual representations of dehydration synthesis and hydrolysis.</para>
+<exercise id="fs-id1167065847818" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065876779">
+<para id="fs-id1167066032602">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex001"/>
+</para>
+</problem>
+</exercise>
+</note>
+</section>
+<note id="fs-id1167065968446" class="ap-everyday ost-assessed-feature ost-tag-lo-apbio-ch03-s01-aplo-1-27"><label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<note id="eip-id1167064799775">
+<title>Recreating Primordial Earth</title>
+<para id="fs-id1167065891721">Many people wonder how life formed on Earth. In 1953, Stanley Miller and Harold Urey developed an apparatus like the one shown in <link target-id="figure_03_01_03" document=""/> to model early conditions on earth. They wanted to test if organic molecules could form from simpler molecular precursors believed to exist very early in Earth’s history. They used boiling water to mimic early Earth’s oceans. Steam from the “ocean” combined with methane, ammonia, and hydrogen gases from the early Earth’s atmosphere and was exposed to electrical sparks to act as lightning. As the gas mixture cooled and condensed, it was found to contain organic compounds, such as amino acids and nucleotides. According to the abiogenesis theory, these organic molecules came together to form the earliest form of life about 3.5 billion years ago. (credit: Yassine Mrabet)</para>
+<figure id="figure_03_01_03"><media id="fs-id1167065948047" alt="A sealed glassware laboratory setup creates conditions needed to produce organic compounds from inorganic precursors. Water is heated in a flask, and the steam is allowed to rise through a glass tube to a globe containing methane, ammonia and hydrogen gas, and where electrodes produce an electric spark. The gaseous mixture falls through a condenser, where it cools and becomes liquid. The cooled liquid is collected in a trap, where a sampling probe is inserted.">
+<image mime-type="image/jpg" src="../../media/Figure_03_01_03.jpg" width="350"/>
+</media>
+
+</figure>
+
+</note></note><note id="fs-id1167065947966" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065682641" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch03-s01-aplo-1-27 ost-tag-lo-apbio-ch03-s01-aplo-1-28"><label/><title>Think About It</title>
+<para id="fs-id1167064747180">How does Stanley Miller’s and Harold Urey’s model support the claim that organic precursors present on early Earth could have assembled into large, complex molecules necessary for life? What chemical “ingredients” were present on early Earth?</para>
+</note>
+
+<note id="fs-id1167067106280" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067026789">This question is an application of Learning Objectives 1.27 and Science Practice 1.2 because students are asked to describe how the organic soup model supports the formation of complex polymers from simple organic precursors.</para>
+</note>
+</note>
+
+<section id="fs-id891930" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id2334482">Proteins, carbohydrates, nucleic acids, and lipids are the four major classes of biological macromolecules—large molecules necessary for life that are built from smaller organic molecules. Macromolecules are made up of single units known as monomers that are joined by covalent bonds to form larger polymers. The polymer is more than the sum of its parts: it acquires new characteristics, and leads to an osmotic pressure that is much lower than that formed by its ingredients; this is an important advantage in the maintenance of cellular osmotic conditions. A monomer joins with another monomer with the release of a water molecule, leading to the formation of a covalent bond. These types of reactions are known as dehydration or condensation reactions. When polymers are broken down into smaller units (monomers), a molecule of water is used for each bond broken by these reactions; such reactions are known as hydrolysis reactions. Dehydration and hydrolysis reactions are similar for all macromolecules, but each monomer and polymer reaction is specific to its class. Dehydration reactions typically require an investment of energy for new bond formation, while hydrolysis reactions typically release energy by breaking bonds.</para></section>
+
+
+
+<section id="fs-id1167065691974" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065763403" class="os-exercise">
+<problem id="fs-id1167065848055">
+<para id="fs-id1167065844454">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex002"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064734118" class="os-exercise">
+<problem id="fs-id1167066202937">
+<para id="fs-id1167065708557">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex003"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064895091" class="os-exercise">
+<problem id="fs-id1167066085499">
+<para id="fs-id1167066098207">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex004"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065788943" class="os-exercise">
+<problem id="fs-id1167065888011">
+<para id="fs-id1167066188941">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex005"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166850131801" class="os-exercise">
+<problem id="eip-id1166849861905">
+<para id="eip-id1166847989786">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ot003"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167062971591" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167066048193" class="os-exercise">
+<problem id="fs-id1167065772561">
+<para id="fs-id1167065773881">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065947855" class="os-exercise">
+<problem id="fs-id1167066169892">
+<para id="fs-id1167065708222">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex007"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166848973424" class="os-exercise">
+<problem id="eip-id1166851310714">
+<para id="eip-id1166848673427">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ot006"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066037717" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167065884127" class="os-exercise">
+<problem id="fs-id1167065705190">
+<para id="fs-id1167064930295">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066095971" class="os-exercise">
+<problem id="fs-id1167065759213">
+<para id="fs-id1167065791160">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex009"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065954012" class="os-exercise">
+<problem id="fs-id1167066141726">
+<para id="fs-id1167064911684">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex010"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065702378" class="os-exercise">
+<problem id="fs-id1167066029861">
+<para id="fs-id1167065895549">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex011"/>
+</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+<glossary>
+<definition id="fs-id1415749"><term>biological macromolecule</term> <meaning id="fs-id1294957">large molecule necessary for life that is built from smaller organic molecules</meaning></definition>
+<definition id="fs-id1447611"><term>dehydration synthesis</term> <meaning id="fs-id1957606">(also, condensation) reaction that links monomer molecules together, releasing a molecule of water for each bond formed</meaning></definition>
+<definition id="fs-id1708547"><term>hydrolysis</term> <meaning id="fs-id1836399">reaction that causes breakdown of larger molecules into smaller molecules with the utilization of water</meaning></definition>
+<definition id="fs-id1797970"><term>monomer</term> <meaning id="fs-id1442842">smallest unit of larger molecules called polymers</meaning></definition>
+<definition id="fs-id2079181"><term>polymer</term> <meaning id="fs-id1720997">chain of monomer residues that is linked by covalent bonds; polymerization is the process of polymer formation from monomers by condensation</meaning></definition>
+</glossary>
+
+</document>

@@ -1,0 +1,28 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62844</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>dc030994-92db-41de-941b-073a6ff3c7d5</md:uuid>
+</metadata>
+
+<content>
+<figure id="fig-ch16_00_01" class="splash">
+<media id="fs-id1435492" alt="Part A depicts a cross section of an eyeball, which has a lens at the front and a cluster of blood vessels at the back. Part B depicts a liver, which is shaped like a triangle. Beneath the liver is a lobe-shaped gall bladder connected to a pancreas by a stem-like vessel. Part C is a sketch, drawn by Leonardo Da Vinci, of a man standing erect with outstretched arms. Superimposed on this image, the man has his legs spread and his arms uplifted.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_Figure_16_00_01.jpg" width="700"/>
+</media>
+<caption>The genetic content of each somatic cell in an organism is the same, but not all genes are expressed in every cell. The control of which genes are expressed dictates whether a cell is (a) an eye cell or (b) a liver cell. It is the differential gene expression patterns that arise in different cells that give rise to (c) a complete organism.</caption>
+</figure>
+<para id="fs-id1167063466368">Most people know that regular exercise is important to maintain good health. It promotes cardiovascular health and helps to prevent obesity. Scientists have now discovered that long-term endurance training also changes how genes are expressed in muscle tissue. In a recent study, 23 healthy people each exercised one leg for 45 minutes four days a week while resting the other leg. After three months, muscles from participants’ legs were biopsied, and scientists analyzed the activity level of over 20,000 genes in the tissue samples.</para>
+<para id="fs-id1167066874198">They found that for each participant the exercised leg had reduced inflammation and improved metabolism compared with the non-exercised leg. These differences were accompanied by changes in genes associated with metabolism and inflammation. However, the actual nucleotide sequences of the genes weren’t changed. Instead, some genes were methylated, which simply means methyl groups were attached to certain nucleotides along the sequence. This, essentially, turned the genes “off” or otherwise changed how they were expressed. DNA methylation is an example of epigenetics, which is a process that alters genes without affecting the nucleotide sequence of the genes. The full research article can be found <link url="http://openstax.org/l/32endurance">here</link>.</para>
+<note id="fs-id1167067153678" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167067069331" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167066948152">Before students begin this chapter, they should review these concepts: DNA and chromatin structure, transcription, and translation.</para>
+</note>
+</note>
+ </content>
+</document>

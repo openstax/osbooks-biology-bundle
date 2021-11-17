@@ -1,0 +1,463 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prokaryotic Metabolism</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62894</md:content-id>
+  <md:title>Prokaryotic Metabolism</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify the macronutrients needed by prokaryotes, and explain their importance</item>
+<item>Describe the ways in which prokaryotes get energy and carbon for life processes</item>
+<item>Describe the roles of prokaryotes in the carbon and nitrogen cycles</item>
+</list></md:abstract>
+  <md:uuid>f2887d2f-b52c-4aaf-8b12-6f74d10d905d</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167063514091" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167063478690">In this section, you will explore the following questions:</para>
+<list id="fs-id1167066959257">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch22-s03-lo01">What are examples of macronutrients needs by prokaryotes, and what is their importance?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch22-s03-lo02">How do prokaryotes obtain free energy and carbon for life processes?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch22-s03-lo03">What are the roles of prokaryotes in the carbon and nitrogen cycles?</item>
+</list>
+</section>
+<section id="fs-id1167067201809" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167063774882">Because prokaryotes are metabolically diverse organisms, they can flourish in many different environments using a wide range of energy and carbon sources. Some are decomposers that are essential to the cycling of nutrients in ecosystems, for example, carbon and nitrogen cycles. (Later, we will explore in more depth the role of these cycles in ecosystems.) Many bacteria form symbiotic relationships with other organisms; for example, nitrogen-fixing bacteria live on the roots of legumes. Other bacteria are disease-causing pathogens or parasites.</para><para id="fs-id1167066800840" class="ost-reading-discard">Like all cells, prokaryotes require macronutrients (including carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur) and micronutrients, such as metallic elements from growth and enzyme function.</para>
+<note id="fs-id1167067072515" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167063720795" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167061419981">Three mechanisms—rapid reproduction, genetic recombination, and mutation—give rise to the extensive genetic variation found in prokaryotic populations. This genetic diversity is reflected in the broadly ranging nutritional and metabolic adaptations of prokaryotes. As is true for all organisms, prokaryotes can be organized by their nutritional and metabolic needs, or, how they obtain the energy and carbon needed to make the organic molecules that are the building blocks of cells. The nutritional diversity of prokaryotes is greater than that of eukaryotes. While all of nutritional modes observed in eukaryotes is also observed in prokaryotes, there are some nutritional modes that are unique to prokaryotic populations. These modes include chemoautotrophy and photoheterotrophy.</para>
+</note>
+</note>
+<para id="fs-id1167063709406" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167066953024" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.2 Prokaryotes have evolved multiple energy-capturing strategies, and photosynthesis first evolved in prokaryotes and was responsible for the production of an oxygenated atmosphere. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Science Practice. Third right cell reads: 3.1 The student can pose scientific questions. Fourth left cell reads: Learning Objective. Fourth right cell reads: 2.4 The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store and use free energy." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.2 </emphasis></span>
+<span class="ost-standards-description">Prokaryotes have evolved multiple energy-capturing strategies, and photosynthesis first evolved in prokaryotes and was responsible for the production of an oxygenated atmosphere.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-lo-2-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.4 </emphasis></span>
+<span class="ost-standards-description">The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store and use free energy.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.2 </emphasis></span>
+<span class="ost-standards-description">Prokaryotes have evolved multiple energy-capturing strategies, and photosynthesis first evolved in prokaryotes and was responsible for the production of an oxygenated atmosphere.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-lo-2-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.5 </emphasis></span>
+<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store or use free energy.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table><para id="fs-id1166849395337">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 4.7][APLO 4.10][APLO 4.23][APLO 2.28]</para></section>
+<section id="fs-idp154343472" class="ost-tag-lo-apbio-ch22-s03-lo01 ost-tag-lo-apbio-ch22-s03-lo02 ost-tag-lo-apbio-ch22-s03-lo03 ost-tag-lo-apbio-ch22-s03-aplo-2-4 ost-tag-lo-apbio-ch22-s03-aplo-2-5 ost-get-exercise">
+<title>Needs of Prokaryotes</title>
+<para id="fs-idp58811600">The diverse environments and ecosystems on Earth have a wide range of conditions in terms of temperature, available nutrients, acidity, salinity, and energy sources. Prokaryotes are very well equipped to make their living out of a vast array of nutrients and conditions. To live, prokaryotes need a source of energy, a source of carbon, and some additional nutrients.</para>
+<section id="fs-idp69108640" class="ost-tag-lo-apbio-ch22-s03-lo01">
+<title>Macronutrients</title>
+<para id="fs-idm31669472">Cells are essentially a well-organized assemblage of macromolecules and water. Recall that macromolecules are produced by the polymerization of smaller units called monomers. For cells to build all of the molecules required to sustain life, they need certain substances, collectively called <emphasis>nutrients</emphasis>. When prokaryotes grow in nature, they obtain their nutrients from the environment. Nutrients that are required in large amounts are called macronutrients, whereas those required in smaller or trace amounts are called micronutrients. Just a handful of elements are considered macronutrients—carbon, hydrogen, oxygen, nitrogen, phosphorus, and sulfur. (A mnemonic for remembering these elements is the acronym <emphasis effect="italics">CHONPS</emphasis>.)</para>
+<para id="fs-idp12908480">Why are these macronutrients needed in large amounts? They are the components of organic compounds in cells, including water. Carbon is the major element in all macromolecules: carbohydrates, proteins, nucleic acids, lipids, and many other compounds. Carbon accounts for about 50 percent of the composition of the cell. Nitrogen represents 12 percent of the total dry weight of a typical cell and is a component of proteins, nucleic acids, and other cell constituents. Most of the nitrogen available in nature is either atmospheric nitrogen (N<sub>2</sub>) or another inorganic form. Diatomic (N<sub>2</sub>) nitrogen, however, can be converted into an organic form only by certain organisms, called nitrogen-fixing organisms. Both hydrogen and oxygen are part of many organic compounds and of water. Phosphorus is required by all organisms for the synthesis of nucleotides and phospholipids. Sulfur is part of the structure of some amino acids such as cysteine and methionine, and is also present in several vitamins and coenzymes. Other important macronutrients are potassium (K), magnesium (Mg), calcium (Ca), and sodium (Na). Although these elements are required in smaller amounts, they are very important for the structure and function of the prokaryotic cell.</para>
+</section>
+<section id="fs-idp74490048">
+<title>Micronutrients</title>
+<para id="fs-idm32094128">In addition to these macronutrients, prokaryotes require various metallic elements in small amounts. These are referred to as micronutrients or trace elements. For example, iron is necessary for the function of the cytochromes involved in electron-transport reactions. Some prokaryotes require other elements—such as boron (B), chromium (Cr), and manganese (Mn)—primarily as enzyme cofactors.</para></section>
+<section id="fs-idp2944480" class="ost-tag-lo-apbio-ch22-s03-lo02 ost-tag-lo-apbio-ch22-s03-aplo-2-4 ost-tag-lo-apbio-ch22-s03-aplo-2-5">
+<title>The Ways in Which Prokaryotes Obtain Energy</title>
+<para id="fs-idm8743200">Prokaryotes can use different sources of energy to assemble macromolecules from smaller molecules. <emphasis>Phototrophs</emphasis> (or phototrophic organisms) obtain their energy from sunlight. <emphasis>Chemotrophs</emphasis> (or chemosynthetic organisms) obtain their energy from chemical compounds. Chemotrophs that can use organic compounds as energy sources are called chemoorganotrophs. Those that can also use inorganic compounds as energy sources are called chemolithotrophs.</para>
+</section>
+<section id="fs-idp3324256" class="ost-tag-lo-apbio-ch22-s03-lo02 ost-tag-lo-apbio-ch22-s03-aplo-2-4 ost-tag-lo-apbio-ch22-s03-aplo-2-5">
+<title>The Ways in Which Prokaryotes Obtain Carbon</title>
+<para id="fs-idp36184192">Prokaryotes not only can use different sources of energy but also different sources of carbon compounds. Recall that organisms that are able to fix inorganic carbon are called autotrophs. Autotrophic prokaryotes synthesize organic molecules from carbon dioxide. In contrast, heterotrophic prokaryotes obtain carbon from organic compounds. To make the picture more complex, the terms that describe how prokaryotes obtain energy and carbon can be combined. Thus, photoautotrophs use energy from sunlight, and carbon from carbon dioxide and water, whereas chemoheterotrophs obtain energy and carbon from an organic chemical source. Chemolitoautotrophs obtain their energy from inorganic compounds, and they build their complex molecules from carbon dioxide. The table below (<link target-id="tab-ch22-02-01" document=""/>) summarizes carbon and energy sources in prokaryotes.</para>
+<table id="tab-ch22-02-01" class="ost-tag-lo-apbio-ch22-s03-lo02 ost-tag-lo-apbio-ch22-s03-aplo-2-4 ost-tag-lo-apbio-ch22-s03-aplo-2-5 top-titled" summary="This table summarizes carbon and energy sources in prokaryotes.">
+    <tgroup cols="1" align="center">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col5" align="center">Carbon and Energy Sources in Prokaryotes</entry>
+</row>
+<row>
+<entry namest="col1" nameend="col3" align="center">Energy Sources</entry>
+<entry namest="col4" nameend="col5" align="center">Carbon Sources</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">Light</entry>
+<entry namest="col2" nameend="col3" align="center">Chemicals</entry>
+<entry>Carbon dioxide</entry>
+<entry>Organic compounds</entry>
+</row>
+<row>
+<entry align="center">Phototrophs</entry>
+<entry namest="col2" nameend="col3" align="center">Chemotrophs</entry>
+<entry align="center">Autotrophs</entry>
+<entry align="center">Heterotrophs</entry>
+</row>
+<row>
+<entry/>
+<entry align="center">Organic chemicals</entry>
+<entry align="center">Inorganic chemicals</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry align="center">Chemo-organotrophs</entry>
+<entry align="center">Chemolithotrophs</entry>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table></section>
+</section>
+<section id="fs-idm53553824" class="ost-tag-lo-apbio-ch22-s03-lo03 ost-tag-lo-apbio-ch22-s03-aplo-2-4 ost-tag-lo-apbio-ch22-s03-aplo-2-5 ost-get-exercise">
+<title>Role of Prokaryotes in Ecosystems</title>
+<para id="fs-idm47975664">Prokaryotes are ubiquitous: There is no niche or ecosystem in which they are not present. Prokaryotes play many roles in the environments they occupy. The roles they play in the carbon and nitrogen cycles are vital to life on Earth.</para>
+<section id="fs-idm18679632" class="ost-tag-lo-apbio-ch22-s03-lo02 ost-tag-lo-apbio-ch22-s03-aplo-2-4 ost-tag-lo-apbio-ch22-s03-aplo-2-5">
+<title>Prokaryotes and the Carbon Cycle</title>
+<para id="fs-idp132815728">Carbon is one of the most important macronutrients, and prokaryotes play an important role in the carbon cycle (<link target-id="fig-ch22_03_01" document=""/>). Carbon is cycled through Earth’s major reservoirs: land, the atmosphere, aquatic environments, sediments and rocks, and biomass. The movement of carbon is via carbon dioxide, which is removed from the atmosphere by land plants and marine prokaryotes, and is returned to the atmosphere via the respiration of chemoorganotrophic organisms, including prokaryotes, fungi, and animals. Although the largest carbon reservoir in terrestrial ecosystems is in rocks and sediments, that carbon is not readily available.</para>
+<para id="fs-idm48166784">A large amount of available carbon is found in land plants. Plants, which are producers, use carbon dioxide from the air to synthesize carbon compounds. Related to this, one very significant source of carbon compounds is humus, which is a mixture of organic materials from dead plants and prokaryotes that have resisted decomposition. Consumers such as animals use organic compounds generated by producers and release carbon dioxide to the atmosphere. Then, bacteria and fungi, collectively called <emphasis>decomposers</emphasis>, carry out the breakdown (decomposition) of plants and animals and their organic compounds. The most important contributor of carbon dioxide to the atmosphere is microbial decomposition of dead material (dead animals, plants, and humus) that undergo respiration.</para>
+<para id="fs-idp54591920">In aqueous environments and their anoxic sediments, there is another carbon cycle taking place. In this case, the cycle is based on one-carbon compounds. In anoxic sediments, prokaryotes, mostly archaea, produce methane (CH<sub>4</sub>). This methane moves into the zone above the sediment, which is richer in oxygen and supports bacteria called methane oxidizers that oxidize methane to carbon dioxide, which then returns to the atmosphere.</para>
+<figure id="fig-ch22_03_01" class="ost-tag-lo-apbio-ch22-s03-lo02 ost-tag-lo-apbio-ch22-s03-aplo-2-4 ost-tag-lo-apbio-ch22-s03-aplo-2-5"><media id="fs-idp28056208" alt="This illustration shows the role of bacteria in the carbon cycle. Bacteria break down organic carbon, which is released as carbon dioxide into the atmosphere.">
+<image mime-type="image/jpg" src="../../media/Figure_22_03_01.jpg" width="550"/>
+</media>
+
+<caption>Prokaryotes play a significant role in continuously moving carbon through the biosphere. (credit: modification of work by John M. Evans and Howard Perlman, USGS)</caption></figure></section>
+<section id="fs-idm32389088" class="ost-tag-lo-apbio-ch22-s03-lo02 ost-tag-lo-apbio-ch22-s03-aplo-2-4 ost-tag-lo-apbio-ch22-s03-aplo-2-5">
+<title>Prokaryotes and the Nitrogen Cycle</title>
+<para id="fs-idp73980592">Nitrogen is a very important element for life because it is part of proteins and nucleic acids. It is a macronutrient, and in nature, it is recycled from organic compounds to ammonia, ammonium ions, nitrate, nitrite, and nitrogen gas by myriad processes, many of which are carried out only by prokaryotes. As illustrated in <link target-id="fig-ch22_03_02" document=""/>, prokaryotes are key to the nitrogen cycle. The largest pool of nitrogen available in the terrestrial ecosystem is gaseous nitrogen from the air, but this nitrogen is not usable by plants, which are primary producers. Gaseous nitrogen is transformed, or “fixed” into more readily available forms such as ammonia through the process of <emphasis>nitrogen fixation</emphasis>. Ammonia can be used by plants or converted to other forms.</para><para id="fs-idp50138704">Another source of ammonia is <emphasis>ammonification</emphasis>, the process by which ammonia is released during the decomposition of nitrogen-containing organic compounds. Ammonia released to the atmosphere, however, represents only 15 percent of the total nitrogen released; the rest is as N<sub>2</sub> and N<sub>2</sub>O. Ammonia is catabolized anaerobically by some prokaryotes, yielding N<sub>2</sub> as the final product. <emphasis>Nitrification</emphasis> is the conversion of ammonium to nitrite and nitrate. Nitrification in soils is carried out by bacteria belonging to the genera <emphasis effect="italics">Nitrosomas</emphasis>, <emphasis effect="italics">Nitrobacter</emphasis>, and<emphasis effect="italics"> Nitrospira</emphasis>. The bacteria performs the reverse process, the reduction of nitrate from the soils to gaseous compounds such as N<sub>2</sub>O, NO, and N<sub>2</sub>, a process called <emphasis>denitrification</emphasis>.</para>
+<note id="fs-idm85569952" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
+<figure id="fig-ch22_03_02"><media id="fs-idp28084320" alt="This illustration shows the role of bacteria in the nitrogen cycle. Nitrogen-fixing bacteria in root nodules of legumes convert nitrogen gas, or N2, into organic nitrogen found in plants. Nitrogen-fixing soil bacteria produce ammonium ion, or NH4+. Decomposers, including bacteria and fungi, decompose organic matter, also releasing NH4+. Nitrification is the process by which nitrifying bacteria produce nitrites (NO2-) and nitrates (NO3-). Nitrates are assimilated by plants, then animals, then decomposers. Denitrifying bacteria convert nitrates to nitrogen gas, completing the cycle.">
+<image mime-type="image/png" src="../../media/Figure_22_03_02.png" width="380"/>
+</media>
+
+<caption>Prokaryotes play a key role in the nitrogen cycle. (credit: Environmental Protection Agency)</caption></figure>
+<!--<para id="fs-idm26630112">Which of the following statements about the nitrogen cycle is false?</para>
+<list id="fs-idp95336816" list-type="enumerated" number-style="lower-alpha">
+<item>Nitrogen fixing bacteria exist on the root nodules of legumes and in the soil.</item>
+<item>Denitrifying bacteria convert nitrates (NO<sub>3</sub><sup>-</sup>) into nitrogen gas (N<sub>2</sub>).</item>
+<item>Ammonification is the process by which ammonium ion (NH<sub>4</sub><sup>+</sup>) is released from decomposing organic compounds.</item>
+<item>Nitrification is the process by which nitrites (NO<sub>2</sub><sup>-</sup>) are converted to ammonium ion (NH<sub>4</sub><sup>+</sup>).</item>
+</list>-->
+<!--<para><link target-id="fig-ch22_03_02" document=""/> D</para>-->
+<exercise id="fs-id1167063895526" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167061399342">
+<para id="fs-id1167063879892">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex028"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+</section>
+<note id="fs-id1167066864275" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch22-s03-lo02 ost-tag-lo-apbio-ch22-s03-aplo-2-4 ost-tag-lo-apbio-ch22-s03-aplo-2-5">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167060058361" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch22-s03-aplo-2-5">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167066793124" class="unnumbered"><label/>
+<problem id="fs-id1167067266222"><para id="fs-id1167067266223">Prokaryotes inhabit many diverse environments. Think about the conditions (temperature, light, pressure, and organic and inorganic materials) that you may find in a deep-sea hydrothermal vent. What types of prokaryotes, in terms of their metabolic needs (autotrophs, phototrophs, chemotrophs, and so on) would expect to find there? What features of these prokaryotes would make it possible for them to inhabit such an extreme environment?</para></problem></exercise>
+</note>
+<note id="fs-id1167063480866" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067032215">Extremophiles or chemoautotrophs would inhabit deep-sea hydrothermal vents. This question is an application of AP<sup>®</sup> Learning Objective 2.5 and Science Practice 6.2 because students are explaining features and processes that allow prokaryotes to capture sufficient free energy to survive in an extreme environment.</para>
+</note>
+</note>
+<section id="fs-idm57248" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp125269104">Prokaryotes are the most metabolically diverse organisms; they flourish in many different environments with various carbon energy and carbon sources, variable temperature, pH, pressure, and water availability. Nutrients required in large amounts are called macronutrients, whereas those required in trace amounts are called micronutrients or trace elements. Macronutrients include C, H, O, N, P, S, K, Mg, Ca, and Na. In addition to these macronutrients, prokaryotes require various metallic elements for growth and enzyme function. Prokaryotes use different sources of energy to assemble macromolecules from smaller molecules. Phototrophs obtain their energy from sunlight, whereas chemotrophs obtain energy from chemical compounds.</para>
+<para id="fs-idm32328400">Prokaryotes play roles in the carbon and nitrogen cycles. Carbon is returned to the atmosphere by the respiration of animals and other chemoorganotrophic organisms. Consumers use organic compounds generated by producers and release carbon dioxide into the atmosphere. The most important contributor of carbon dioxide to the atmosphere is microbial decomposition of dead material. Nitrogen is recycled in nature from organic compounds to ammonia, ammonium ions, nitrite, nitrate, and nitrogen gas. Gaseous nitrogen is transformed into ammonia through nitrogen fixation. Ammonia is anaerobically catabolized by some prokaryotes, yielding N<sub>2</sub> as the final product. Nitrification is the conversion of ammonium into nitrite. Nitrification in soils is carried out by bacteria. Denitrification is also performed by bacteria and transforms nitrate from soils into gaseous nitrogen compounds, such as N<sub>2</sub>O, NO, and N<sub>2</sub>.</para></section>
+<!--<section id="fs-idm78918960" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm43664752">
+<problem id="fs-idm45091120">
+<para id="fs-idp76665360"><link target-id="fig-ch22_03_02" document=""/> Which of the following statements about the nitrogen cycle is false?</para>
+<list id="fs-idm77522480" list-type="enumerated" number-style="lower-alpha">
+<item>Nitrogen fixing bacteria exist on the root nodules of legumes and in the soil.</item>
+<item>Denitrifying bacteria convert nitrates (NO<sub>3</sub><sup>-</sup>) into nitrogen gas (N<sub>2</sub>).</item>
+<item>Ammonification is the process by which ammonium ion (NH<sub>4</sub><sup>+</sup>) is released from decomposing organic compounds.</item>
+<item>Nitrification is the process by which nitrites (NO<sub>2</sub><sup>-</sup>) are converted to ammonium ion (NH<sub>4</sub><sup>+</sup>).</item>
+</list>
+</problem>
+<solution id="fs-idm40786176">
+<label/>
+<para id="fs-idm35884624"><link target-id="fig-ch22_03_02" document=""/> D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm53562544" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm73098672">
+<problem id="fs-idp95431856">
+<para id="fs-idm77223488">Which of the following elements is <emphasis effect="italics">not</emphasis> a micronutrient?</para>
+<list id="fs-idp15690240" list-type="enumerated" number-style="lower-alpha">
+<item>boron</item>
+<item>calcium</item>
+<item>chromium</item>
+<item>manganese</item>
+</list>
+</problem>
+<solution id="fs-idm72015984">
+<label/>
+<para id="fs-idm34123232">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm97968528">
+<problem id="fs-idm21774240">
+<para id="fs-idm39214432">Prokaryotes that obtain their energy from chemical compounds are called _____.</para>
+<list id="fs-idp47376784" list-type="enumerated" number-style="lower-alpha">
+<item>phototrophs</item>
+<item>auxotrophs</item>
+<item>chemotrophs</item>
+<item>lithotrophs</item>
+</list>
+</problem>
+<solution id="fs-idm77451952">
+<label/>
+<para id="fs-idm26965472">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm27200192">
+<problem id="fs-idm14663424">
+<para id="fs-idm19634144">Ammonification is the process by which _____.</para>
+<list id="fs-idp119691120" list-type="enumerated" number-style="lower-alpha"><item>ammonia is released during the decomposition of nitrogen-containing organic compounds</item>
+<item>ammonium is converted to nitrite and nitrate in soils</item>
+<item>nitrate from soil is transformed to gaseous nitrogen compounds such as NO, N<sub>2</sub>O, and N<sub>2</sub></item>
+<item>gaseous nitrogen is fixed to yield ammonia</item>
+</list></problem>
+<solution id="fs-idp83551024">
+<label/>
+<para id="fs-idm78875040">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm83225968">
+<problem id="fs-idp48666768">
+<para id="fs-idp42374976">Plants use carbon dioxide from the air and are therefore called _____.</para>
+<list id="fs-idp3946784" list-type="enumerated" number-style="lower-alpha">
+<item>consumers</item>
+<item>producers</item>
+<item>decomposer</item>
+<item>carbon fixers</item>
+</list>
+</problem>
+<solution id="fs-idp3413728">
+<label/>
+<para id="fs-idm99214016">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm112019632" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm32276816">
+<problem id="fs-idp8595408">
+<para id="fs-idm27136640">Think about the conditions (temperature, light, pressure, and organic and inorganic materials) that you may find in a deep-sea hydrothermal vent. What type of prokaryotes, in terms of their metabolic needs (autotrophs, phototrophs, chemotrophs, etc.), would you expect to find there?</para>
+</problem>
+<solution id="fs-idm27177376">
+<label/>
+<para id="fs-idm77072976">Responses will vary. In a deep-sea hydrothermal vent, there is no light, so prokaryotes would be chemotrophs instead of phototrophs. The source of carbon would be carbon dioxide dissolved in the ocean, so they would be autotrophs. There is not a lot of organic material in the ocean, so prokaryotes would probably use inorganic sources, thus they would be chemolitotrophs. The temperatures are very high in the hydrothermal vent, so the prokaryotes would be thermophilic.</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167067209871" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167067109671" class="os-exercise">
+<problem id="fs-id1167067195179">
+<para id="fs-id1167061369978">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex030"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067091755" class="os-exercise">
+<problem id="fs-id1167063582510">
+<para id="fs-id1167067259191">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex031"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066783902" class="os-exercise">
+<problem id="fs-id1167067051732">
+<para id="fs-id1167066856021">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex032"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063577836" class="os-exercise">
+<problem id="fs-id1167061307561">
+<para id="fs-id1167063536491">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex033"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067205541" class="os-exercise">
+<problem id="fs-id1167067176195">
+<para id="fs-id1167067208837">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex034"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167060126118" class="os-exercise">
+<problem id="fs-id1167067222514">
+<para id="fs-id1167063516948">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex035"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163774729186" class="os-exercise">
+<problem id="eip-id1163774772107">
+<para id="eip-id1163774772109">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ot020"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167063572993" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167063424676" class="os-exercise">
+<problem id="fs-id1167067238885">
+<para id="fs-id1167063871141">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex036"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067077349" class="os-exercise">
+<problem id="fs-id1167067311043">
+<para id="fs-id1167063497640">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex037"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067194199" class="os-exercise">
+<problem id="fs-id1167063663909">
+<para id="fs-id1167067223962">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex038"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163775992190" class="os-exercise">
+<problem id="eip-id1163775992226">
+<para id="eip-id1163775992231">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ot026"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167063514003" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup><sup>®</sup></sup> Courses</title>
+<exercise id="fs-id1167067252556" class="os-exercise  ost-tag-lo-apbio-ch22-s03-aplo-2-4">
+<problem id="fs-id1167061253148">
+<para id="fs-id1167067215712">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex039"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067091407" class="os-exercise">
+<problem id="fs-id1167066790937">
+<para id="fs-id1167063685073">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex040"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067193841" class="os-exercise  ost-tag-lo-apbio-ch22-s03-aplo-2-5">
+<problem id="fs-id1167063540982">
+<para id="fs-id1167066975546">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex041"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063526803" class="os-exercise">
+<problem id="fs-id1167066973855">
+<para id="fs-id1167063589101">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex042"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-id1166170457487" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1166174683000" class="os-exercise">
+<problem id="fs-id1166174404915">
+<para id="fs-id1166170502279">Cyanobacteria are single-celled organisms with the capacity to fix nitrogen, N<sub>2</sub>.  Some cyanobacteria cooperatively aggregate as filaments, and heterocysts may form at intervals along the filament between a pair of vegetative (actively growing) cells. Heterocysts are specialized cells that express certain genes when nitrogen becomes limiting.  The nitrogenase complex converts the nitrogen in N<sub>2</sub> into NH<sub>3</sub> (ammonia).  This enzyme functions only under anaerobic conditions that are, in part, enforced by an O<sub>2</sub> barrier surrounding the cytoplasm of the heterocyst, as shown below.</para>
+<figure id="fs-id1166174586400"><media id="fs-id1166174341038" alt="A diagram illustrating nitrogen fixation in heterocysts. Cyanobacteria heterocyst has paired with a vegetative cell. The nitrogenase complex converts the nitrogen in N 2 into ammonia. ATP is synthesized in the heterocysts by photophosphorylation.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_22_03_01_01_img.jpg" width="450"/>
+</media>
+
+</figure><para id="fs-id1166174729363">A. Other modifications displayed in the diagram maintain an anaerobic state and synthesize ammonia from N<sub>2</sub>.  Identify four modifications of vegetative cells, either by their addition to or omission from the heterocyst. <emphasis>Refine the representation</emphasis> by drawing a line between each of the three numbered circles and the feature.</para>
+<para id="fs-id1166170450904">B. Further <emphasis>refine the representation</emphasis> by providing a brief description of the role of each modification in either regulating oxygen or synthesizing ammonia.</para>
+<para id="fs-id1166169343282">The Krebs cycle in prokaryotes and eukaryotes differs.  In prokaryotes, the Krebs cycle occurs in the cytoplasm and the intermediate 2-oxoglutarate (-ketoglutarate) is absent.</para>
+<para id="fs-id1166174222414">C. <emphasis>Construct a representation</emphasis> of the regulation of genes encoding the nitrogen fixation system using the elements below.  The irregular shapes are either metabolites or transcription factors, NtcA, HetR, and PatS.  In your representation, label each shape using the names on the left in the figure below.  Your representation must account for these observations:</para>
+<list id="fs-id1166174553576">
+<item>when nitrogen is limiting, 2-oxoglutarate concentration in the cytoplasm increases</item>
+<item>HetR is transcribed when 2-oxoglutarate concentrations are low</item>
+<item>PatS is transcribed when 2-oxoglutarate concentrations are low</item>
+<item>nitrogenase is transcribed when HetR concentrations are high and PatS concentrations are low</item>
+<item>when PatS concentrations are high, nifX genes are not transcribed</item>
+</list>
+<figure id="fs-id1166161797531"><media id="fs-id1166174619200" alt="figure using irregular shapes to represent metabolites or transcription factors. There is a line of shapes at the top. The first is a relatively small rectangle, the second is a dome-shaped structure with a rectangular bottom, the third is a rectangle with a small knob on its left bottom edge, the fourth is a rectangle with a semicircle cut out of the bottom edge, and the fifth is a rectangle with a small knob on its left bottom edge. The second line of shapes are rectangles labeled NtcA, hetR gene, nifX genes, and patS gene. At the bottom is an oval labeled Nitrogenase. To the left of the shapes is a list. 2 oxoglutarate, PatA, HetR, and PatS.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_22_03_01_02_img.jpg" width="450"/>
+</media>
+
+</figure><para id="fs-id1166174484588">D. Heterocysts form along the filament separated by a fixed number of vegetative cells.  Based on your model of the regulation of heterocyst development, <emphasis>make and support a claim</emphasis> that accounts for this pattern.</para>
+</problem>
+</exercise>
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-idm78553328">
+<term>ammonification</term> <meaning id="fs-idp38396272">process by which ammonia is released during the decomposition of nitrogen-containing organic compounds</meaning>
+</definition>
+<definition id="fs-idm36581376">
+<term>chemotroph</term> <meaning id="fs-idm36325872">organism that obtains energy from chemical compounds</meaning>
+</definition>
+<definition id="fs-idm102618160">
+<term>decomposer</term> <meaning id="fs-idm69669536">organism that carries out the decomposition of dead organisms</meaning>
+</definition>
+<definition id="fs-idp74644320">
+<term>denitrification</term> <meaning id="fs-idp48768416">transformation of nitrate from soil to gaseous nitrogen compounds such as N<sub>2</sub>O, NO and N<sub>2</sub></meaning>
+</definition>
+<definition id="fs-idm75518800">
+<term>nitrification</term> <meaning id="fs-idm33579936">conversion of ammonium into nitrite and nitrate in soils</meaning>
+</definition>
+<definition id="fs-idp137763536">
+<term>nitrogen fixation</term> <meaning id="fs-idp79550768">process by which gaseous nitrogen is transformed, or “fixed” into more readily available forms such as ammonia</meaning>
+</definition>
+</glossary>
+</document>

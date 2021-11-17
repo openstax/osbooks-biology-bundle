@@ -1,0 +1,592 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Cell Cycle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62804</md:content-id>
+  <md:title>The Cell Cycle</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the three stages of interphase</item>
+<item>Discuss the behavior of chromosomes during karyokinesis</item>
+<item>Explain how the cytoplasmic content is divided during cytokinesis</item>
+<item>Define the quiescent G0 phase</item>
+</list></md:abstract>
+  <md:uuid>8a42924b-0aeb-4a6d-a2d1-ed2ee1a7114c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167066836777" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067024824">In this section, you will explore the following questions:</para>
+<list id="fs-id1167067034093">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch10-s02-lo01">What processes occur during the three stages of interphase?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch10-s02-lo02">How do the chromosomes behave during the mitotic phase?</item>
+</list>
+</section>
+
+<section id="fs-id1167067049578" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167067208854">The cell cycle describes an orderly sequence of events that are highly regulated. In eukaryotes, the cell cycle consists of a long preparatory period (interphase) followed by mitosis and cytokinesis. Interphase is divided into three phases: Gap 1 (G<sub>1</sub>), DNA synthesis (S), and Gap 2 (G<sub>2</sub>). Interphase represents the portion of the cell cycle between nuclear divisions. During this phase, preparations are made for division that include growth, duplication of most cellular contents, and replication of DNA. The cell’s DNA is replicated during the S stage. (We will study the details of DNA replication in the chapter on DNA structure and function.) Following the G<sub>2</sub> stage of interphase, the cell begins mitosis, the process of active division by which duplicated chromosomes (chromatids) attach to spindle fibers, align themselves along the equator of the cell, and then separate from each other.</para><para id="fs-id1167066958074">Following mitosis, the cell undergoes cytokinesis, the splitting of the parent cell into two daughter cells, complete with a full complement of genetic material. In animal cells, daughter cells are separated by an actin ring, whereas plant cells are separated by the cell plate, which will grow into a new cell wall. Sometimes cells enter a Gap zero (G<sub>0</sub>) phase, during which they do not actively prepare to divide; the G<sub>0</sub> phase can be temporary until triggered by an external signal to enter G<sub>1</sub>, or permanent, such as mature cardiac muscle cells and nerve cells.</para>
+<para id="fs-id1167067272365" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the tables. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167067251360" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.2 In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization. Second left cell reads: Science Practice. Second right cell reads: 6.4 The student can make claims and predictions about natural phenomena based on scientific theories and models. Third left cell reads: Learning Objective. Third right cell reads: 3.7 The student can make predictions about natural phenomena occurring during the cell cycle." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
+<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.2 </emphasis></span>
+<span class="ost-standards-description">In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch10-s02-aplo-3-7">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.7 </emphasis></span>
+<span class="ost-standards-description">The student can make predictions about natural phenomena occurring during the cell cycle.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.2 </emphasis></span>
+<span class="ost-standards-description">In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
+<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch10-s02-aplo-3-8">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.8 </emphasis></span>
+<span class="ost-standards-description">The student can describe the events that occur in the cell cycle.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.2 </emphasis></span>
+<span class="ost-standards-description">In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch10-s02-aplo-3-11">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.11 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate evidence provided by data sets to support the claim that heritable information is passed from one generation to another generation through mitosis.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table></section>
+<note id="fs-id1167066956051" class="os-teacher"><label>Teacher Support</label>
+<para id="fs-id1167067210350">Discuss with students the difference between diploid and haploid cells. Show students a graphic of the difference.</para>
+<figure id="fs-id1167067209584"><media id="fs-id1167063496216" alt="A depicture of a diploid arrangement of chromosomes shows two each of three different chromosomes.  This is next to a diagram of a haploid arrangement of chromosomes with only one of each of three chromosomes.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_TS_10_01_01.jpg" width="300"/>
+</media>
+
+</figure>
+<para id="fs-id1167066956340">Discuss with students how in mitosis, the ploidy of the cell remains constant. In a cell culture of human somatic cells, all of the cells will be diploid. In contrast the DNA content, the amount of DNA in a cell culture will change as the cells replicate (undergo S-phase and replicate their DNA). In relative amounts, the initial amount of DNA is considered to be 1x, after S-phase it will be 2x, and so on. More information on the methods used by scientists to track ploidy can be found <link window="new" url="http://openstax.org/l/32sphase">here</link>.</para>
+<para id="fs-id1167067252728">Introduce mitosis using visuals such as this <link window="new" url="http://openstax.org/l/32mitosis">video</link>.</para>
+<para id="fs-id1167066855913">Show Crash Course or Bozeman Videos such as “<link window="new" url="http://openstax.org/l/32bozeman">Cell Cycle, Mitosis &amp; Meiosis</link>”, “<link window="new" url="http://openstax.org/l/32timing">Development: Timing &amp; Coordination</link>”, “<link window="new" url="http://openstax.org/l/32control">Mechanisms of Timing &amp; Control</link>”, “DNA, Hot Pockets, &amp; The Longest Word Ever: <link window="new" url="http://openstax.org/l/32pocket">Crash Course Biology #11</link>”, and “<link window="new" url="http://openstax.org/l/32HHMI">HHMI: Mix 1</link>”</para><note id="fs-id1167067189324" class="ost-misconception">
+<label>Misconception Alert</label>
+<para id="fs-id1167067234806">Students may think that interphase is a resting phase, where no events occur. Remind students that cells are metabolically active in this phase. Cells in G<sub>0</sub> phase are not actively preparing to divide. The cell is in a quiescent (inactive) stage that occurs when cells exit the cell cycle. Some cells enter G<sub>0</sub> temporarily until an external signal triggers the onset of G<sub>1</sub>. Other cells that never or rarely divide, such as mature cardiac muscle and nerve cells, remain in G<sub>0</sub> permanently.</para>
+<para id="fs-id1167067016381">In addition, students may not realize that the events of mitosis are continuous, and the organization into discrete stages is for convenience. Show students a time lapse video to illustrate this, such as found <link window="new" url="http://openstax.org/l/32mitosis2">here</link>.</para><para id="fs-id1167067107273">The stages of the cell cycle can be taught using the images available <link window="new" url="http://openstax.org/l/32stages">here</link>.</para>
+</note>
+</note>
+<para id="fs-id1166850268196">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.35][APLO 2.15][APLO 2.19][APLO 3.11][APLO 2.33][APLO 2.36][APLO 2.37][APLO 2.31]</para><para id="fs-id1428511">The <term>cell cycle</term> is an ordered series of events involving cell growth and cell division that produces two new daughter cells. Cells on the path to cell division proceed through a series of precisely timed and carefully regulated stages of growth, DNA replication, and division that produces two identical (clone) cells. The cell cycle has two major phases: interphase and the mitotic phase (<link target-id="fig-ch10_02_01" document=""/>). During <term>interphase</term>, the cell grows and DNA is replicated. During the <term>mitotic phase</term>, the replicated DNA and cytoplasmic contents are separated, and the cell divides.</para>
+<figure id="fig-ch10_02_01" class="unnumbered"><label/><media id="fs-id2008544" alt="Like a clock, the cell cycles from interphase to the mitotic phase and back to interphase. Most of the cell cycle is spent in interphase, which is subdivided into G_{1}, S, and G_{2} phases. Cell growth occurs during G_{1}, DNA synthesis occurs during S, and more growth occurs during G_{2}. The mitotic phase consists of mitosis, in which the nuclear chromatin is divided, and cytokinesis, in which the cytoplasm is divided, resulting in two daughter cells.">
+<image mime-type="image/jpg" src="../../media/Figure_10_02_01-418e.jpg" width="550"/>
+</media>
+<caption>The cell cycle consists of interphase and the mitotic phase. During interphase, the cell grows and the nuclear DNA is duplicated. Interphase is followed by the mitotic phase. During the mitotic phase, the duplicated chromosomes are segregated and distributed into daughter nuclei. The cytoplasm is usually divided as well, resulting in two daughter cells.</caption></figure>
+<section id="fs-id2891070" class="ost-tag-lo-apbio-ch10-s02-lo01 ost-tag-lo-apbio-ch10-s02-aplo-3-7 ost-tag-lo-apbio-ch10-s02-aplo-3-8 ost-tag-lo-apbio-ch10-s02-aplo-3-9 ost-tag-lo-apbio-ch10-s02-aplo-3-11 ost-get-exercise">
+<title>Interphase</title>
+<para id="fs-id1712664">During interphase, the cell undergoes normal growth processes while also preparing for cell division. In order for a cell to move from interphase into the mitotic phase, many internal and external conditions must be met. The three stages of interphase are called G<sub>1</sub>, S, and G<sub>2</sub>.</para>
+<section id="fs-id2013371" class="ost-get-exercise">
+<title>G<sub>1</sub> Phase (First Gap)</title>
+<para id="fs-id2955338">The first stage of interphase is called the <term>G<sub>1</sub> phase</term> (first gap) because, from a microscopic aspect, little change is visible. However, during the G<sub>1</sub> stage, the cell is quite active at the biochemical level. The cell is accumulating the building blocks of chromosomal DNA and the associated proteins as well as accumulating sufficient energy reserves to complete the task of replicating each chromosome in the nucleus.</para>
+</section>
+<section id="fs-id2228970" class="ost-get-exercise">
+<title>S Phase (Synthesis of DNA)</title>
+<para id="fs-id1798381">Throughout interphase, nuclear DNA remains in a semi-condensed chromatin configuration. In the <term>S phase</term>, DNA replication can proceed through the mechanisms that result in the formation of identical pairs of DNA molecules—sister chromatids—that are firmly attached to the centromeric region. The centrosome is duplicated during the S phase. The two centrosomes will give rise to the <term>mitotic spindle</term>, the apparatus that orchestrates the movement of chromosomes during mitosis. At the center of each animal cell, the centrosomes of animal cells are associated with a pair of rod-like objects, the <term>centrioles</term>, which are at right angles to each other. Centrioles help organize cell division. Centrioles are not present in the centrosomes of other eukaryotic species, such as plants and most fungi.</para>
+</section>
+<section id="fs-id2305419" class="ost-get-exercise">
+<title>G<sub>2</sub> Phase (Second Gap)</title>
+<para id="fs-id1760961">In the <term>G<sub>2</sub> phase</term>, the cell replenishes its energy stores and synthesizes proteins necessary for chromosome manipulation. Some cell organelles are duplicated, and the cytoskeleton is dismantled to provide resources for the mitotic phase. There may be additional cell growth during G<sub>2</sub>. The final preparations for the mitotic phase must be completed before the cell is able to enter the first stage of mitosis.</para>
+</section>
+</section>
+<section id="fs-id2164207" class="ost-tag-lo-apbio-ch10-s02-lo02 ost-tag-lo-apbio-ch10-s02-aplo3-7 ost-tag-lo-apbio-ch10-s02-aplo-3-8 ost-tag-lo-apbio-ch10-s02-aplo-3-9 ost-tag-lo-apbio-ch10-s02-aplo-3-11 ost-get-exercise">
+<title>The Mitotic Phase</title>
+<para id="fs-id1479399">The mitotic phase is a multistep process during which the duplicated chromosomes are aligned, separated, and move into two new, identical daughter cells. The first portion of the mitotic phase is called <term>karyokinesis</term>, or nuclear division. The second portion of the mitotic phase, called cytokinesis, is the physical separation of the cytoplasmic components into the two daughter cells.</para>
+<note id="fs-id2229089" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch10-s02-lo02 ost-tag-lo-apbio-ch10-s02-aplo-3-7 ost-tag-lo-apbio-ch10-s02-aplo-3-8 ost-tag-lo-apbio-ch10-s02-aplo-3-9 ost-tag-lo-apbio-ch10-s02-aplo-3-11"><label>Link to Learning</label>
+<para id="fs-id1788358">Revisit the stages of mitosis at this <link window="new" url="http://openstax.org/l/Cell_cycle_mito">site</link>.</para>
+<exercise id="fs-id1167066792804" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067000180">
+<para id="fs-id1167063494624">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex007"/>
+</para>
+</problem>
+</exercise>
+</note>
+<section id="fs-id2014161" class="ost-get-exercise">
+<title>Karyokinesis (Mitosis)</title>
+<para id="fs-id2762821">Karyokinesis, also known as <term>mitosis</term>, is divided into a series of phases—prophase, prometaphase, metaphase, anaphase, and telophase—that result in the division of the cell nucleus (<link target-id="fig-ch10_02_02" document=""/>).</para>
+<note id="fs-id1167067009779" class="ap-everyday ost-assessed-feature ost-tag-lo-apbio-ch10-s02-aplo-3-7 ost-tag-lo-apbio-ch10-s02-aplo-3-8 ost-tag-lo-apbio-ch10-s02-aplo-3-9 ost-tag-lo-apbio-ch10-s02-aplo-3-11"><label>Everyday Connection for AP<sup>®</sup> Courses</label>
+
+<para id="fs-id1167067037736">These budding plants demonstrate asexual reproduction, one of the main purposes of mitosis. The other two purposes are growth and repair.</para>
+<figure id="fs-id1167063786429">
+<media id="fs-id1167063786432" alt="Photo shows small, green fleshy succulent sedum plants, growing as a ground cover. The plant has spread in a continuous mat, with new plants growing from offshoots of older plants.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_Figure_10_02_07.jpg"/>
+</media>
+<caption/>
+</figure>
+<exercise id="fs-id1167066843447" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067142620">
+<para id="fs-id1167063525950"><link class="os-embed" url="#ost/api/ex/apbio-ch10-ex044"/>
+</para></problem>
+</exercise></note><note id="fs-id2138308" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch10-s02-lo02 ost-tag-lo-apbio-ch10-s02-aplo-3-7 ost-tag-lo-apbio-ch10-s02-aplo-3-8 ost-tag-lo-apbio-ch10-s02-aplo-3-9 ost-tag-lo-apbio-ch10-s02-aplo-3-11"><label>Visual Connection</label>
+<para id="fs-id3032572"><figure id="fig-ch10_02_02" class=" "><media id="fs-id1999251" alt="This diagram shows the five phases of mitosis and cytokinesis. During prophase, the chromosomes condense and become visible, spindle fibers emerge from the centrosomes, the nuclear envelope breaks down, and the nucleolus disappears. During prometaphase, the chromosomes continue to condense and kinetochores appear at the centromeres. Mitotic spindle microtubules attach to the kinetochores, and centrosomes move toward opposite poles. During metaphase, the mitotic spindle is fully developed, and centrosomes are at opposite poles of the cell. Chromosomes line up at the metaphase plate and each sister chromatid is attached to a spindle fiber originating from the opposite pole. During anaphase, the cohesin proteins that were binding the sister chromatids together break down. The sister chromatids, which are now called chromosomes, move toward opposite poles of the cell. Non-kinetochore spindle fibers lengthen, elongating the cell. During telophase, chromosomes arrive at the opposite poles and begin to decondense. The nuclear envelope reforms. During cytokinesis in animals, a cleavage furrow separates the two daughter cells. In plants, a cell plate separates the two cells.">
+    <image mime-type="image/png" src="../../media/Figure_10_02_02.png" width="550"/>
+</media>
+<caption>Karyokinesis (or mitosis) is divided into five stages—prophase, prometaphase, metaphase, anaphase, and telophase. The pictures at the bottom were taken by fluorescence microscopy (hence, the black background) of cells artificially stained by fluorescent dyes:  blue fluorescence indicates DNA (chromosomes) and green fluorescence indicates microtubules (spindle apparatus). (credit “mitosis drawings”: modification of work by Mariana Ruiz Villareal; credit “micrographs”: modification of work by Roy van Heesbeen; credit “cytokinesis micrograph”: Wadsworth Center/New York State Department of Health; scale-bar data from Matt Russell)</caption></figure></para>
+<exercise id="fs-id1167067069292" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067100214">
+<para id="fs-id1167067088148"><link class="os-embed" url="#ost/api/ex/apbio-ch10-ex008"/>
+</para></problem>
+</exercise>
+</note>
+<para id="fs-id1694835">During <term>prophase</term>, the “first phase,” the nuclear envelope starts to dissociate into small vesicles, and the membranous organelles (such as the Golgi complex or Golgi apparatus, and endoplasmic reticulum), fragment and disperse toward the periphery of the cell. The nucleolus disappears (disperses). The centrosomes begin to move to opposite poles of the cell. Microtubules that will form the mitotic spindle extend between the centrosomes, pushing them farther apart as the microtubule fibers lengthen. The sister chromatids begin to coil more tightly with the aid of <term>condensin</term> proteins and become visible under a light microscope.</para>
+<para id="fs-id2988670">During <term>prometaphase</term>, the “first change phase,” many processes that were begun in prophase continue to advance. The remnants of the nuclear envelope fragment. The mitotic spindle continues to develop as more microtubules assemble and stretch across the length of the former nuclear area. Chromosomes become more condensed and discrete. Each sister chromatid develops a protein structure called a <term>kinetochore</term> in the centromeric region (<link target-id="fig-ch10_02_03" document=""/>). The proteins of the kinetochore attract and bind mitotic spindle microtubules. As the spindle microtubules extend from the centrosomes, some of these microtubules come into contact with and firmly bind to the kinetochores. Once a mitotic fiber attaches to a chromosome, the chromosome will be oriented until the kinetochores of sister chromatids face the opposite poles. Eventually, all the sister chromatids will be attached via their kinetochores to microtubules from opposing poles. Spindle microtubules that do not engage the chromosomes are called polar microtubules. These microtubules overlap each other midway between the two poles and contribute to cell elongation. Astral microtubules are located near the poles, aid in spindle orientation, and are required for the regulation of mitosis.</para>
+<figure id="fig-ch10_02_03" class="ost-tag-lo-apbio-ch10-s02-lo02 ost-tag-lo-apbio-ch10-s02-aplo-3-7 ost-tag-lo-apbio-ch10-s02-aplo-3-8 ost-tag-lo-apbio-ch10-s02-aplo-3-9 ost-tag-lo-apbio-ch10-s02-aplo-3-11">
+<media id="fs-id1879663" alt="This illustration shows two sister chromatids. Each has a kinetochore at the centromere, and mitotic spindle microtubules radiate from the kinetochore.">
+    <image mime-type="image/jpg" src="../../media/Figure_10_02_03-d5cd.jpg" width="320"/>
+</media>
+<caption>During prometaphase, mitotic spindle microtubules from opposite poles attach to each sister chromatid at the kinetochore. In anaphase, the connection between the sister chromatids breaks down, and the microtubules pull the chromosomes toward opposite poles.</caption></figure>
+<para id="fs-id1415542">During <term>metaphase</term>, the “change phase,” all the chromosomes are aligned in a plane called the <term>metaphase plate</term>, or the equatorial plane, midway between the two poles of the cell. The sister chromatids are still tightly attached to each other by cohesin proteins. At this time, the chromosomes are maximally condensed.</para>
+<para id="fs-id2046795">During <term>anaphase</term>, the “upward phase,” the cohesin proteins degrade, and the sister chromatids separate at the centromere. Each chromatid, now called a chromosome, is pulled rapidly toward the centrosome to which its microtubule is attached. The cell becomes visibly elongated (oval shaped) as the polar microtubules slide against each other at the metaphase plate where they overlap.</para>
+<para id="fs-id1627195">During <term>telophase</term>, the “distance phase,” the chromosomes reach the opposite poles and begin to decondense (unravel), relaxing into a chromatin configuration. The mitotic spindles are depolymerized into tubulin monomers that will be used to assemble cytoskeletal components for each daughter cell. Nuclear envelopes form around the chromosomes, and nucleosomes appear within the nuclear area.</para>
+</section>
+<section id="fs-id1597195" class="ost-get-exercise">
+<title>Cytokinesis</title>
+<para id="fs-id2022386"><term>Cytokinesis</term>, or “cell motion,” is the second main stage of the mitotic phase, during which cell division is completed via the physical separation of the cytoplasmic components into two daughter cells. Division is not complete until the cell components have been apportioned and completely separated into the two daughter cells. Although the stages of mitosis are similar for most eukaryotes, the process of cytokinesis is quite different for eukaryotes that have cell walls, such as plant cells. </para><para id="fs-id2199309">In cells such as animal cells that lack cell walls, cytokinesis starts during late anaphase. A contractile ring composed of actin filaments forms just inside the plasma membrane at the former metaphase plate. The actin filaments pull the equator of the cell inward, forming a fissure. This fissure, or “crack,” is called the <term>cleavage furrow</term>. The furrow deepens as the actin ring contracts, and eventually the membrane is cleaved in two (<link target-id="fig-ch10_02_04" document=""/>).</para><para id="fs-id1466552">In plant cells, a new cell wall must form between the daughter cells. During interphase, the Golgi apparatus accumulates enzymes, structural proteins, and glucose molecules prior to breaking into vesicles and dispersing throughout the dividing cell. During telophase, these Golgi vesicles are transported on microtubules to form a phragmoplast (a vesicular structure) at the metaphase plate. There, the vesicles fuse and coalesce from the center toward the cell walls; this structure is called a <term>cell plate</term>. As more vesicles fuse, the cell plate enlarges until it merges with the cell walls at the periphery of the cell. Enzymes use the glucose that has accumulated between the membrane layers to build a new cell wall. The Golgi membranes become parts of the plasma membrane on either side of the new cell wall (<link target-id="fig-ch10_02_04" document=""/>).</para>
+<figure id="fig-ch10_02_04" class="ost-tag-lo-apbio-ch10-s02-lo02 ost-tag-lo-apbio-ch10-s02-aplo-3-7 ost-tag-lo-apbio-ch10-s02-aplo-3-8 ost-tag-lo-apbio-ch10-s02-aplo-3-9 ost-tag-lo-apbio-ch10-s02-aplo-3-11"><media id="fs-id1962069" alt="Part a: This illustration shows cytokinesis in a typical animal cell. Part b: Cytokinesis is shown in a typical plant cell. In an animal cell, a contractile ring of actin filaments forms a cleavage furrow that divides the cell in two. In a plant cell, Golgi vesicles coalesce at the metaphase plate. A cell plate grows from the center outward, and the vesicles form a plasma membrane that divides the cytoplasm.">
+    <image mime-type="image/jpg" src="../../media/Figure_10_02_04.jpg" width="320"/>
+</media>
+<caption>During cytokinesis in animal cells, a ring of actin filaments forms at the metaphase plate. The ring contracts, forming a cleavage furrow, which divides the cell in two. In plant cells, Golgi vesicles coalesce at the former metaphase plate, forming a phragmoplast. A cell plate formed by the fusion of the vesicles of the phragmoplast grows from the center toward the cell walls, and the membranes of the vesicles fuse to form a plasma membrane that divides the cell in two.</caption></figure></section>
+</section>
+<note id="fs-id1167067201182" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch10-s02-aplo-3-7 ost-tag-lo-apbio-ch10-s02-aplo-3-8">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066947432" class="ost-assignable ost-sciprac-activity ost-tag-lo-apbio-ch10-s02-aplo-3-8">
+<list id="fs-id1167063458229">
+<item>Use a set of pipe cleaners (or other materials as directed by your teacher) that you can use to model chromosomes during mitosis and meiosis:
+<list id="fs-id1167063536984" list-type="enumerated" number-style="arabic"><item>Each of the pipe cleaners represents a single, unreplicated chromosome. Each chromosome should differ in size, as they do in most organisms. Assume that your dividing cell contains 3 chromosomes: numbered chromosome 1, 2, and 3.</item>
+<item>Using both members of each homologous pair for chromosomes 1–3, model how the chromosomes would appear in a cell that had just finished the S phase of the cell cycle. Once your teacher has approved your model, have one member of your group document the model by photographing or drawing it.</item>
+<item>Now, repeat step 2 but show the cell at metaphase during mitosis.</item>
+<item>Finally, model the two daughter cells that will result from mitosis. Again, have one member of your group document the model.</item>
+<item>Repeat steps 2–5 for both meiosis I and meiosis II. Remember that you should have four daughter cells at the end of meiosis II. Also remember to ask your teacher for approval and document your model before moving on to the next phase of meiosis.</item>
+<item>Exchange/ copy all of the drawings or photographs that your group took of your models. As a group or individually (as directed by your teacher) create a report to turn in that labels and explain each picture of your model.</item>
+</list></item>
+<item>An organism’s ploidy count is the total number of chromosome sets contained in each body cell. Most organisms have a ploidy level of 2, meaning that they have two sets of chromosomes due to presence of homologous pairs. However, some plants are multiploid, meaning they can have ploidy levels greater than 2. The table shows possible multiploid levels of some common crop plants.</item>
+</list>
+<table id="fs-id1167067188583" summary="Table with three columns and 5 rows. First column is titled “Common name” and then lists “Bananas”, “Potatoes”, “Wheat”, and “Sugar cane”. Second column is titled “Multiploid chromosome count”, and then lists “33’, “48’, “42’ and “80”. Third column is titled “Normal chromosome count” and then lists “11”, “12”, “7” and “10”." class="unnumbered"><label/>
+<tgroup cols="3"><colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+            <colspec colnum="3" colname="col3"/>
+<thead>
+<row><entry namest="col1" nameend="col3" align="left"/></row>
+<row>
+<entry align="center">Common name</entry>
+<entry align="center">Multiploid chromosome count</entry>
+<entry align="center">Normal chromosome count</entry>
+</row>
+</thead>
+<tbody>
+<row><entry>Bananas</entry><entry>33</entry><entry>11</entry></row>
+<row><entry>Potatoes</entry><entry>48</entry><entry>12</entry></row>
+<row><entry>Wheat</entry><entry>42</entry><entry>7</entry></row>
+<row><entry>Sugar cane</entry><entry>80</entry><entry>10</entry></row>
+</tbody>
+
+
+</tgroup>
+</table><para id="fs-id1167067188533" class="ost-tag-lo-apbio-ch10-s02-aplo-3-11">Analyze the data with a partner of in a group as directed by your teacher. On a separate sheet of paper, answer the following questions.</para>
+<list id="fs-id1167067039361" list-type="enumerated" number-style="lower-alpha">
+<item>How does the multiploid count of the crop plants relate to their normal chromosome count?</item>
+<item>Explain the basis for the relationship you described in part a, in terms of what occurs to chromosomes during replication and meiosis.</item>
+<item>Give one additional example of a possible multiploid chromosome count for each species in the table above.</item>
+</list>
+<exercise id="fs-id1164967475920">
+<problem id="fs-id1164960798223">
+<para id="fs-id1164965502955">A. A comparison of the relative time intervals of mitotic stages can be made by completing the task described.  In evaluating each time interval, the problem suggests that you assume that the length of time to complete one cell cycle is 24 hours.  How can that assumption be tested?</para>
+<para id="fs-id1164967861828">Suppose that you have a growth chamber in which roots of a newly germinated plant can be examined visually with a lens that provides a magnification from which lengths can be determined with a precision of ± 0.05 mm.  The field of view can be rotated so that measurements can be made of both the length and diameter of the growing tip.  A large number of growing roots can be studied.  Tips can be sampled, sectioned, and examined microscopically with a 25× magnification so that estimates of the diameter and length of cells can be made.</para>
+<para id="fs-id1164967928619">Cells in the growing tip of the root rapidly undergo mitosis, just as the whitefish blastula described in <link target-id="fig-ch10_02_05" document=""/>.  With increasing distance from the growing tip, the rate at which mitosis occurs slows until tissue is reached in which the initiation of the cell cycle is delayed.</para><para id="fs-id1164967526401">A. <emphasis>Describe</emphasis> a sequence of measurements that could be used to test the assumption that the cell cycle, once started, has a total time interval of 24 hours.  Hint: Rather than counting cells, it might be useful to measure the length of the root tip and the average length of a cell.</para>
+<para id="fs-id1164965273755">B. Using the data obtained from your measurements described in part A, how can the rate of cell division be calculated?</para>
+<para id="fs-id1164965416446">An experiment that is perhaps similar to one you have proposed was conducted previously (Beemster and Baxter, 1998), and the results are shown in the table.</para>
+<table id="fs-id1164967566931" summary="This table has two columns. The columns read from left to right. Row one: Distance (mm), Per hour Row two, 0, 0.035+0.01. Row three: 0.1, 0.047+0.005. Row four: 0.2, 0.044+0.01, Row five: 0.3, 0.039+0.01. Row six: 0.4, 0.042+0.01, Row seven: 0.5, 0.031+0.005">
+<tgroup cols="2"><thead>
+<row>
+<entry align="center">Distance (mm)</entry>
+<entry align="center">Per hour</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">0</entry>
+<entry align="center">0.035 ± 0.01</entry>
+</row>
+<row>
+<entry align="center">0.1</entry>
+<entry align="center">0.047 ± 0.005</entry>
+</row>
+<row>
+<entry align="center">0.2</entry>
+<entry align="center">0.044 ± 0.01</entry>
+</row>
+<row>
+<entry align="center">0.3</entry>
+<entry align="center">0.039 ± 0.01</entry>
+</row>
+<row>
+<entry align="center">0.4</entry>
+<entry align="center">0.042 ± 0.01</entry>
+</row>
+<row>
+<entry align="center">0.5</entry>
+<entry align="center">0.031 ± 0.005</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-id1164967542824">C. Using these data, <emphasis>estimate</emphasis> the length of time of the cell cycle, including an estimate of precision by calculating the standard deviation.</para>
+<para id="fs-id1164967592211">Growth factors are signals that initiate cell division in eukaryotes.  (The data in the table above show that cells in the plant root less than a mm from the root tip are showing a reduction of growth rate.)  The interaction of two plant hormones, auxin and brassinosteroids, have been shown [Chaiwanon and Wang, <emphasis effect="italics">Cell</emphasis>, 164(6), 1257, 2016] to regulate cell division in root tips.  Auxin concentrations are higher near the root tip and decrease with distance from the tip.  Brassinosteroids decrease in concentration near the root tip.  Auxin is actively transported between cells, whereas brassinosteroids have limited transport between cells.</para>
+<para id="fs-id1164967705146">D. Based on these data and the observed distribution of brassinosteroids and auxin in the growing root, <emphasis>predict</emphasis> a mechanism for their interaction and <emphasis>justify the claim</emphasis> that brassinosteroid synthesis is negatively regulated by auxin transported to the cell, and that auxin is positively regulated and amplified.</para>
+</problem>
+</exercise>
+</note>
+<note id="fs-id1167067311942" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch10-s02-aplo-3-7"><label/>
+<title>Think About It</title>
+<exercise id="fs-id1167067114650" class="unnumbered"><label/>
+<problem id="fs-id1167061359837"><para id="fs-id1167063429620">Chemotherapy drugs such as vincristine and colchicines disrupt mitosis by binding to tubulin (the subunit of microtubules) and interfering with microtubule assembly and disassembly. What mitotic structure is targeted by these drugs, and what effect would this have on cell division?</para></problem>
+</exercise>
+</note>
+</note>
+
+<note id="fs-id1167063716434" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167063878540">The first activity is an application of Learning Objective 3.8 and Science Practice 1.2 because students are modelling steps of the cell cycle, including mitosis and meiosis. A variety of materials can be used to represent chromosomes in the model as long as the students can easily distinguish between the three chromosomes (such as by having different-sized pipe cleaners) as well as distinguish between homologs (such as by using two colors of pipe cleaner). Be sure to provide enough chromosomes to represent sister chromatids in both the mitosis and meiosis models. The critical point to stress is that, in modelling mitosis, students should place homologous chromosomes (each with a sister chromatid) above and below each other during metaphase, ensuring a sister chromosome from each homolog enters each daughter cell. Conversely, in metaphase I of meiosis, the homologous chromosomes (each with a sister chromatid) will pair together side-by-side so that each cell only receives one of the two homologs.</para>
+<para id="fs-id1167063878542">The second activity is an application of Learning Objective 3.11 and Science Practice 5.3 because students are using their knowledge of meiosis to explain and predict possible ploidy levels in crop plants. Students should work in pairs or as a group.</para>
+
+<para id="fs-id1167063485372">An expanded lab investigation for mitosis and meiosis, involving studying onion cells undergoing mitosis (part 2), and karyotype analysis (part 3) is available from the College Board’s<sup>®</sup> <emphasis effect="italics">AP Biology Investigative Labs: An Inquiry-Based Approach</emphasis> in <link window="new" url="http://openstax.org/l/32BioLab7">Investigation 7</link>.</para>
+
+<note id="fs-id1167062555484"><title>Possible Answer</title><list id="fs-id1167066122632" list-type="enumerated" number-style="lower-alpha">
+<item>The multiploid count is always a whole-number multiple of the normal chromosome count.</item>
+<item>Before meiosis (and mitosis) all of an organism’s chromosomes are replicated before any segregation takes place. Therefore, ploidy levels will always involve whole-number multiples of the original chromosome levels.</item>
+<item>Answers will vary but all answers should be whole-number multiples of the normal chromosome numbers.</item>
+</list>
+</note><para id="fs-id1167067176707">The Think About It question is an application of Learning Objective 3.7 and Science Practice 6.4 because the student must be able to describe the events that occur in the cell cycle before you can make a prediction about the effects of a disruption in mitosis.</para>
+
+<note id="fs-id1167065703873"><title>Possible Answer</title><para id="fs-id1167063912103">The mitotic spindle is formed of microtubules. Microtubules are polymers of the protein tubulin; therefore, it is the mitotic spindle that is disrupted by these drugs. Without a functional mitotic spindle, the chromosomes will not be sorted or separated during mitosis. The cell will arrest in mitosis and die.</para>
+</note></note>
+
+<section id="fs-id2491584" class="ost-tag-lo-apbio-ch10-s02-lo02 ost-tag-lo-apbio-ch10-s02-aplo-3-7 ost-tag-lo-apbio-ch10-s02-aplo-3-8 ost-tag-lo-apbio-ch10-s02-aplo-3-9 ost-tag-lo-apbio-ch10-s02-aplo-3-11 ost-get-exercise">
+<title>G<sub>0 </sub>Phase</title>
+<para id="fs-id2168285">Not all cells adhere to the classic cell cycle pattern in which a newly formed daughter cell immediately enters the preparatory phases of interphase, closely followed by the mitotic phase. Cells in <term>G<sub>0</sub> phase</term> are not actively preparing to divide. The cell is in a <term>quiescent</term> (inactive) stage that occurs when cells exit the cell cycle. Some cells enter G<sub>0</sub> temporarily until an external signal triggers the onset of G<sub>1</sub>. Other cells that never or rarely divide, such as mature cardiac muscle and nerve cells, remain in G<sub>0</sub> permanently.</para>
+<note id="fs-id1506012" class="experiment ost-feature"><title>Determine the Time Spent in Cell Cycle Stages</title>
+<para id="fs-id1651041"><emphasis effect="bold">Problem</emphasis>: How long does a cell spend in interphase compared to each stage of mitosis?</para>
+<para id="fs-id1426300"><emphasis effect="bold">Background</emphasis>: A prepared microscope slide of blastula cross-sections will show cells arrested in various stages of the cell cycle. It is not visually possible to separate the stages of interphase from each other, but the mitotic stages are readily identifiable. If 100 cells are examined, the number of cells in each identifiable cell cycle stage will give an estimate of the time it takes for the cell to complete that stage.</para>
+<para id="fs-id1806393"><emphasis effect="bold">Problem Statement</emphasis>: Given the events included in all of interphase and those that take place in each stage of mitosis, estimate the length of each stage based on a 24-hour cell cycle. Before proceeding, state your hypothesis.</para>
+<para id="fs-id1595360"><emphasis effect="bold">Test your hypothesis</emphasis>: Test your hypothesis by doing the following:</para>
+<list id="fs-id1720501" list-type="enumerated">
+ <item>Place a fixed and stained microscope slide of whitefish blastula cross-sections under the scanning objective of a light microscope.</item>
+<item>Locate and focus on one of the sections using the scanning objective of your microscope. Notice that the section is a circle composed of dozens of closely packed individual cells.</item>
+<item>Switch to the low-power objective and refocus. With this objective, individual cells are visible.</item>
+<item><para id="fs-id1631656">Switch to the high-power objective and slowly move the slide left to right, and up and down to view all the cells in the section (<link target-id="fig-ch10_02_05" document=""/>). As you scan, you will notice that most of the cells are not undergoing mitosis but are in the interphase period of the cell cycle.</para>
+<para id="fs-id2120967">
+<figure id="fig-ch10_02_05" class="">
+<media id="fig-ch10_02_05a" alt="Left: This figure shows an illustration of whitefish blastula cells with a scanning pattern from right to left, and from top to bottom. Right: A micrograph of whitefish blastula cells in various phases of the cell cycle is shown.">
+    <image mime-type="image/jpg" src="../../media/Figure_10_02_06.jpg" width="400"/>
+</media>
+<caption>Slowly scan whitefish blastula cells with the high-power objective as illustrated in image (a) to identify their mitotic stage. (b) A microscopic image of the scanned cells is shown. (credit “micrograph”: modification of work by Linda Flora; scale-bar data from Matt Russell)</caption></figure></para></item>
+<item>Practice identifying the various stages of the cell cycle, using the drawings of the stages as a guide (<link target-id="fig-ch10_02_02" document=""/>).</item>
+<item>Once you are confident about your identification, begin to record the stage of each cell you encounter as you scan left to right, and top to bottom across the blastula section.</item>
+<item>Keep a tally of your observations and stop when you reach 100 cells identified.</item>
+<item>The larger the sample size (total number of cells counted), the more accurate the results. If possible, gather and record group data prior to calculating percentages and making estimates.</item>
+</list>
+<para id="fs-id1770335"><emphasis effect="bold">Record your observations</emphasis>: Make a table similar to <link target-id="tab-ch10_02_01" document=""/> in which you record your observations.</para>
+    <table id="tab-ch10_02_01" class="top-titled" summary="This table is used to record the number of whitefish blastula cells in different cell stages observed under the microscope">
+<tgroup cols="4"><colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+            <colspec colnum="3" colname="col3"/>
+            <colspec colnum="4" colname="col4"/>
+            <thead>
+                <row><entry namest="col1" nameend="col4" align="left">Results of Cell Stage Identification</entry></row>
+<row><entry align="center">Phase or Stage</entry><entry align="center">Individual Totals</entry><entry align="center">Group Totals</entry><entry align="center">Percent</entry></row>
+            </thead>
+            <tbody>
+    <row><entry align="center">Interphase</entry><entry/><entry/><entry/></row>
+                <row><entry align="center">Prophase</entry><entry/><entry/><entry/></row>
+                <row><entry align="center">Metaphase</entry><entry/><entry/><entry/></row>
+                <row><entry align="center">Anaphase</entry><entry/><entry/><entry/></row>
+                <row><entry align="center">Telophase</entry><entry/><entry/><entry/></row>
+                <row><entry align="center">Cytokinesis</entry><entry/><entry/><entry/></row>
+                <row><entry align="center">Totals</entry><entry align="center">100</entry><entry align="center">100</entry><entry align="center">100 percent</entry></row>
+            </tbody>
+
+
+</tgroup>
+</table><para id="fs-id2682614"><emphasis effect="bold">Analyze your data/report your results</emphasis>: To find the length of time whitefish blastula cells spend in each stage, multiply the percent (recorded as a decimal) by 24 hours. Make a table similar to <link target-id="tab-ch10_02_02" document=""/> to illustrate your data.</para>
+    <table id="tab-ch10_02_02" class="top-titled" summary="This table is used to estimate the length of time whitefish blastula cells spend in each cell stage">
+<tgroup cols="3"><colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+            <colspec colnum="3" colname="col3"/>
+    <thead>
+        <row><entry namest="col1" nameend="col3" align="left">Estimate of Cell Stage Length</entry></row>
+<row><entry align="center">Phase or Stage</entry><entry align="center">Percent (as Decimal)</entry><entry align="center">Time in Hours</entry></row>
+    </thead>
+            <tbody>
+            <row><entry align="center">Interphase</entry><entry/><entry/></row>
+            <row><entry align="center">Prophase</entry><entry/><entry/></row>
+            <row><entry align="center">Metaphase</entry><entry/><entry/></row>
+            <row><entry align="center">Anaphase</entry><entry/><entry/></row>
+            <row><entry align="center">Telophase</entry><entry/><entry/></row>
+            <row><entry align="center">Cytokinesis</entry><entry/><entry/></row>
+            </tbody>
+
+</tgroup>
+</table>
+<!--<exercise id="fs-id1167063651813" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167063651818">
+<para id="fs-id1167063599359"/></problem>
+</exercise>-->
+</note></section>
+
+<section id="fs-id2000135" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1519661">The cell cycle is an orderly sequence of events. Cells on the path to cell division proceed through a series of precisely timed and carefully regulated stages. In eukaryotes, the cell cycle consists of a long preparatory period, called interphase. Interphase is divided into G<sub>1</sub>, S, and G<sub>2</sub> phases. The mitotic phase begins with karyokinesis (mitosis), which consists of five stages: prophase, prometaphase, metaphase, anaphase, and telophase. The final stage of the mitotic phase is cytokinesis, during which the cytoplasmic components of the daughter cells are separated either by an actin ring (animal cells) or by cell plate formation (plant cells).</para>
+</section>
+
+<section id="fs-id1167067145399" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167067040384" class="os-exercise">
+<problem id="fs-id1167067106693">
+<para id="fs-id1167067106695">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex009"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067292518" class="os-exercise">
+<problem id="fs-id1167063891695">
+<para id="fs-id1167063891697">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex010"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066834995" class="os-exercise">
+<problem id="fs-id1167066834999">
+<para id="fs-id1167067179130">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex011"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066804396" class="os-exercise">
+<problem id="fs-id1167066804400">
+<para id="fs-id1167066940144">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex012"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166850101313" class="os-exercise">
+<problem id="eip-id1166849932043">
+<para id="eip-id1166849929203">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ot006"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167067039371" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167067105871" class="os-exercise">
+<problem id="fs-id1167067211376">
+<para id="fs-id1167067211378">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex013"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066952343" class="os-exercise">
+<problem id="fs-id1167063615642">
+<para id="fs-id1167063615644">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex014"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166846428616" class="os-exercise">
+<problem id="eip-id1166848973648">
+<para id="eip-id1166851233485">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ot009"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167063558109" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167063808256" class="os-exercise">
+<problem id="fs-id1167066939653">
+<para id="fs-id1167066939655">
+<link class="os-embed ost-tag-lo-apbio-ch10-s02-aplo-3-9" url="#ost/api/ex/apbio-ch10-ex015"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063429894" class="os-exercise">
+<problem id="fs-id1167067196896">
+<para id="fs-id1167067196898">
+<link class="os-embed ost-tag-lo-apbio-ch10-s02-aplo-3-9" url="#ost/api/ex/apbio-ch10-ex016"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063679032" class="os-exercise">
+<problem id="fs-id1167063679036">
+<para id="fs-id1167067067191">
+<link class="os-embed ost-tag-lo-apbio-ch10-s02-aplo-3-11" url="#ost/api/ex/apbio-ch10-ex017"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067135420" class="os-exercise">
+<problem id="fs-id1167067135424">
+<para id="fs-id1167067135426">
+<link class="os-embed ost-tag-lo-apbio-ch10-s02-aplo-3-11" url="#ost/api/ex/apbio-ch10-ex018"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+
+<section id="fs-id1164968677567" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164968953535">
+<problem id="fs-id1164968568523">
+<para id="fs-id1164968587155">Many biological processes are synchronized with the 24-hour rotational period of Earth. Circadian (24-hour) periodicity is common across phyla.  One of these processes is the cell cycle.  The currently accepted explanation is that the low-oxygen atmosphere of early Earth had no ozone layer to filter out the solar ultraviolet radiation that damages DNA.  Completing the S phase of the cell cycle at night provided a selective advantage.  The internal clock controlling the cell cycle and the circadian clock became synchronized.  Research has demonstrated that changes in one clock, either the circadian clock or the cell cycle clock, disrupt timing in the other.  The question was, which clock controls the other?</para>
+<para id="fs-id1164966479859">Researchers have found that the circadian clock, which can be observed by fluorescent markers on proteins that carry the circadian signal, can be disrupted by changes in light, nutrition, or exposure to the steroid dexamethasone.  Nutrition can also disrupt the cell cycle clock.  Rat fibroblasts (cells constantly undergoing mitosis) were cultured on medium containing different levels of fetal bovine serum (FBS) with and without the addition of dexamethasone.  Confluence is a phenomenon that occurs in tissue culture when the surface of the growth medium becomes covered with cells, and the cells stop dividing.  The circadian and cell cycle periods were measured.</para>
+<table id="fs-id1164968669914" summary="This table has 6 columns. The columns read from top to bottom. The first column reads – blank, a, b, c, d, e, f, and g. Column 2 – FBS, 0%, 10%, 15%, 10%, ‡ 20% , 20%, 10%. Column 3 – Dexamethasone , no , no , no, yes, yes, yes, yes. Row 4: Confluence , no , no , no, no, no ,no, yes. Column 5 - Circadian Period , 24 ± 0.5 hr , 21.9 ± 1.1 hr , 19.4 ± 0.5 hr , 21.25 ± 0.36 hr , 29 ± 1.05 hr , 24 ± 0.5 hr. Column 6 - Cell Cycle Period , 24 ± 0.5 hr , 21.3 ± 1.3 hr, 18.6 ± 0.6 hr , 20.1 ± 0.94 hr , 19.5 ± 0.42 hr , 16.05 ± 0.48 hr , na">
+<tgroup cols="6"><thead>
+<row>
+<entry align="center"/>
+<entry align="center">FBS</entry>
+<entry align="center">Dexa-<newline/>meth-<newline/>asone</entry>
+<entry align="center">Con-<newline/>flu-<newline/>ence</entry>
+<entry align="center">Circa-<newline/>dian <newline/> Period<newline/> (hr)</entry>
+<entry align="center">Cell<newline/>Cycle<newline/>Period<newline/>(hr)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">a</entry>
+<entry align="center">0%</entry>
+<entry align="center">no</entry>
+<entry align="center">no</entry>
+<entry align="center">24±<newline/>0.5</entry>
+<entry align="center">24±<newline/>0.5</entry>
+</row>
+<row>
+<entry align="center">b</entry>
+<entry align="center">10%</entry>
+<entry align="center">no</entry>
+<entry align="center">no</entry>
+<entry align="center">21.9±<newline/>1.1</entry>
+<entry align="center">21.3±<newline/>1.3</entry>
+</row>
+<row>
+<entry align="center">c</entry>
+<entry align="center">15%</entry>
+<entry align="center">no</entry>
+<entry align="center">no</entry>
+<entry align="center">19.4±<newline/>0.5</entry>
+<entry align="center">18.6±<newline/>0.6</entry>
+</row>
+<row>
+<entry align="center">d</entry>
+<entry align="center">10%</entry>
+<entry align="center">yes</entry>
+<entry align="center">no</entry>
+<entry align="center">24.2±<newline/>0.5</entry>
+<entry align="center">20.1±<newline/>0.94</entry>
+</row>
+<row>
+<entry align="center">e</entry>
+<entry align="center">*20%</entry>
+<entry align="center">yes</entry>
+<entry align="center">no</entry>
+<entry align="center">21.25±<newline/>0.36</entry>
+<entry align="center">19.5±<newline/>0.42</entry>
+</row>
+<row>
+<entry align="center">f</entry>
+<entry align="center">20%</entry>
+<entry align="center">yes</entry>
+<entry align="center">no</entry>
+<entry align="center">29±<newline/>1.05</entry>
+<entry align="center">16.05±<newline/>0.48</entry>
+</row>
+<row>
+<entry align="center">g</entry>
+<entry align="center">10%</entry>
+<entry align="center">yes</entry>
+<entry align="center">yes</entry>
+<entry align="center">24±<newline/>0.5</entry>
+<entry align="center">na</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup><caption>* Subsets of samples with 20% FBS and dexamethasone were clustered around two means for each measured period.</caption>
+</table><para id="fs-id1164968693127">A. Based on these data, <emphasis>describe</emphasis> the connections between the circadian period and the cell cycle period for each of the experimental conditions.</para>
+<para id="fs-id1164966480006">B. Based on these data, <emphasis>justify the claim</emphasis> that in cells that are actively dividing, the circadian period is set by the cell cycle period rather than the reverse.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164968716169">
+<problem id="fs-id1164966335076">
+<para id="fs-id1164962271352">Cells in different tissues of a fully developed human show significant variations in the length of time that they remain in the G0 phase of the cell cycle: muscle (lifetime), nerve (lifetime), adipose (years), liver (year), erythrocyte (months), bone osteoclasts (weeks), leukocyte (days), and epidermal (hours).  For each of these types of tissues, <emphasis>propose a reason</emphasis> based on internal and external factors and function that might account for the differences among their longevities.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164966550196">
+<problem id="fs-id1164968678516">
+<para id="fs-id1164969033289"><emphasis>Describe</emphasis> the essential components and results of mitosis and the activities that occur during interphase to prepare the cell for mitosis.</para>
+</problem>
+</exercise>
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-id1428966"><term>anaphase</term> <meaning id="fs-id1378666">stage of mitosis during which sister chromatids are separated from each other</meaning></definition>
+<definition id="fs-id1443934"><term>cell cycle</term> <meaning id="fs-id1456012">ordered series of events involving cell growth and cell division that produces two new daughter cells</meaning></definition>
+<definition id="fs-id1791551"><term>cell plate</term> <meaning id="fs-id1396203">structure formed during plant cell cytokinesis by Golgi vesicles, forming a temporary structure (phragmoplast) and fusing at the metaphase plate; ultimately leads to the formation of cell walls that separate the two daughter cells</meaning></definition>
+<definition id="fs-id1387495"><term>centriole</term> <meaning id="fs-id1463372">rod-like structure constructed of microtubules at the center of each animal cell centrosome</meaning></definition>
+<definition id="fs-id1519627"><term>cleavage furrow</term> <meaning id="fs-id1260853">constriction formed by an actin ring during cytokinesis in animal cells that leads to cytoplasmic division</meaning></definition>
+<definition id="fs-id1455149"><term>condensin</term> <meaning id="fs-id889896">proteins that help sister chromatids coil during prophase</meaning></definition>
+<definition id="fs-id1812272"><term>cytokinesis</term> <meaning id="fs-id1415313">division of the cytoplasm following mitosis that forms two daughter cells.</meaning></definition>
+<definition id="fs-id1250798"><term>G<sub>0 </sub>phase</term> <meaning id="fs-id1426083">distinct from the G<sub>1</sub> phase of interphase; a cell in G<sub>0</sub> is not preparing to divide</meaning></definition>
+<definition id="fs-id2135035"><term>G<sub>1</sub> phase</term> <meaning id="fs-id2763345">(also, first gap) first phase of interphase centered on cell growth during mitosis</meaning></definition>
+<definition id="fs-id1397818"><term>G<sub>2</sub> phase</term> <meaning id="fs-id1457902">(also, second gap) third phase of interphase during which the cell undergoes final preparations for mitosis</meaning></definition>
+<definition id="fs-id1719151"><term>interphase</term> <meaning id="fs-id2075238">period of the cell cycle leading up to mitosis; includes G<sub>1</sub>, S, and G<sub>2</sub> phases (the interim period between two consecutive cell divisions</meaning></definition>
+<definition id="fs-id2962755"><term>karyokinesis</term> <meaning id="fs-id1340171">mitotic nuclear division</meaning></definition>
+<definition id="fs-id1104425"><term>kinetochore</term> <meaning id="fs-id1394141">protein structure associated with the centromere of each sister chromatid that attracts and binds spindle microtubules during prometaphase</meaning></definition>
+<definition id="fs-id1262220"><term>metaphase plate</term> <meaning id="fs-id2645518">equatorial plane midway between the two poles of a cell where the chromosomes align during metaphase</meaning></definition>
+<definition id="fs-id2929890"><term>metaphase</term> <meaning id="fs-id1262335">stage of mitosis during which chromosomes are aligned at the metaphase plate</meaning></definition>
+<definition id="fs-id1358050"><term>mitosis</term> <meaning id="fs-id1846950">(also, karyokinesis) period of the cell cycle during which the duplicated chromosomes are separated into identical nuclei; includes prophase, prometaphase, metaphase, anaphase, and telophase</meaning></definition>
+<definition id="fs-id1280475"><term>mitotic phase</term> <meaning id="fs-id1847391">period of the cell cycle during which duplicated chromosomes are distributed into two nuclei and cytoplasmic contents are divided; includes karyokinesis (mitosis) and cytokinesis</meaning></definition>
+<definition id="fs-id2645938"><term>mitotic spindle</term> <meaning id="fs-id1281672">apparatus composed of microtubules that orchestrates the movement of chromosomes during mitosis</meaning></definition>
+<definition id="fs-id1454068"><term>prometaphase</term> <meaning id="fs-id1248567">stage of mitosis during which the nuclear membrane breaks down and mitotic spindle fibers attach to kinetochores</meaning></definition>
+<definition id="fs-id2084903"><term>prophase</term> <meaning id="fs-id1395222">stage of mitosis during which chromosomes condense and the mitotic spindle begins to form</meaning></definition>
+<definition id="fs-id2065754"><term>quiescent</term> <meaning id="fs-id1449648">refers to a cell that is performing normal cell functions and has not initiated preparations for cell division</meaning></definition>
+<definition id="fs-id1986334"><term>S phase</term> <meaning id="fs-id1289278">second, or synthesis, stage of interphase during which DNA replication occurs</meaning></definition>
+<definition id="fs-id1291341"><term>telophase</term> <meaning id="fs-id1630305">stage of mitosis during which chromosomes arrive at opposite poles, decondense, and are surrounded by a new nuclear envelope</meaning></definition>
+</glossary>
+
+</document>

@@ -1,0 +1,542 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Lipids</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62730</md:content-id>
+  <md:title>Lipids</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the four major types of lipids</item>
+<item>Explain the role of fats in storing energy</item>
+<item>Differentiate between saturated and unsaturated fatty acids</item>
+<item>Describe phospholipids and their role in cells</item>
+<item>Define the basic structure of a steroid and some functions of steroids</item>
+<item>Explain the how cholesterol helps to maintain the fluid nature of the plasma membrane</item>
+</list></md:abstract>
+  <md:uuid>0a0f04c9-a7ed-463a-9ac2-2611a1dbebc9</md:uuid>
+</metadata>
+
+<content>
+
+
+<section id="fs-id1167066050926" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167065772181">In this section, you will explore the following questions:</para>
+<list id="fs-id1167066091587"><item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s03-lo01">What are the four major types of lipids?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s03-lo02">What are functions of fats in living organisms?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s03-lo03">What is the difference between saturated and unsaturated fatty acids?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s03-lo04">What is the molecular structure of phospholipids, and what is the role of phospholipids in cells?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s03-lo05">What is the basic structure of a steroid, and what are examples of their functions?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s03-lo06">How does cholesterol help maintain the fluid nature of the plasma membrane of cells?</item>
+</list></section>
+
+<section id="fs-id1167065769513" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167065035138">Lipids also are sources of energy that power cellular processes. Like carbohydrates, lipids are composed of carbon, hydrogen, and oxygen, but these atoms are arranged differently. Most lipids are nonpolar and hydrophobic. Major types include fats and oils, waxes, phospholipids, and steroids. A typical fat consists of three fatty acids bonded to one molecule of glycerol, forming triglycerides or triacylglycerols. The fatty acids may be saturated or unsaturated, depending on the presence or absence of double bonds in the hydrocarbon chain; a saturated fatty acid has the maximum number of hydrogen atoms bonded to carbon and, thus, only single bonds. In general, fats that are liquid at room temperature (e.g., canola oil) tend to be more unsaturated than fats that are solid at room temperature. In the food industry, oils are artificially hydrogenated to make them chemically more appropriate for use in processed foods. During this hydrogenation process, double bonds in the cis- conformation in the hydrocarbon chain may be converted to double bonds in the trans- conformation; unfortunately, trans fats have been shown to contribute to heart disease. Phospholipids are a special type of lipid associated with cell membranes and typically have a glycerol (or sphingosine) backbone to which two fatty acid chains and a phosphate-containing group are attached. As a result, phospholipids are considered amphipathic because they have both hydrophobic and hydrophilic components. (In Chapters 4 and 5 we will explore in more detail how the amphipathic nature of phospholipids in plasma cell membranes helps regulate the passage of substances into and out of the cell.) Although the molecular structures of steroids differ from that of triglycerides and phospholipids, steroids are classified as lipids based on their hydrophobic properties. Cholesterol is a type of steroid in animal cells plasma membrane.  Cholesterol is also the precursor of steroid hormones such as testosterone.</para>
+<para id="fs-id1167065857573" class="ost-reading-discard">Information presented and the examples highlighted in the section, support concepts outlined in Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The learning objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
+
+<table id="fs-id1167065945675" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 4.A.1 The subcomponents of biological molecules and their sequence determine the properties of that molecule. Second left cell reads: Science Practice. Second right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Third left cell reads: Learning Objective. Third right cell reads: 4.1 The student is able to explain the connection between the sequence and the subcomponents of a biological polymer and its properties." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.1</emphasis></span>
+<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1</emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s03-aplo-4-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.1</emphasis></span>
+<span class="ost-standards-description">The student is able to explain the connection between the sequence and the subcomponents of a biological polymer and its properties.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.1</emphasis></span>
+<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.3</emphasis></span>
+<span class="ost-standards-description">The student can refine representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s03-aplo-4-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.2</emphasis></span>
+<span class="ost-standards-description">The student is able to refine representations and models to explain how the subcomponents of a biological polymer and their sequence determine the properties of that polymer.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.1</emphasis></span>
+<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.1</emphasis></span>
+<span class="ost-standards-description">The student can justify claims with evidence.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4</emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s03-aplo-4-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.3</emphasis></span>
+<span class="ost-standards-description">The student is able to use models to predict and justify that changes in the subcomponents of a biological polymer affect the functionality of the molecules.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table></section>
+
+<note id="fs-id1167066050672" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167065842632" class="ost-misconception">
+<label>Misconception Alert</label>
+<para id="fs-id1167065785244">An important misconception to overcome for students is that lipids are not bad for the body. They are absolutely essential to the bodys functions, including for growth and survival.</para>
+</note>
+<note id="fs-id1167065910514" class="ost-background-info"><label>Background Information</label>
+<para id="fs-id1167065861733">Another concept to discuss is the insolubility of lipids in water. It is obvious in salad dressing, but why does it occur? If other functional groups are attached to lipids, they may contain some charges and give a degree of solubility to the lipid, but most lipids do not have any charges on the surface of the molecules and are not soluble in water, therefore, lipids are usually described as being hydrophobic.</para>
+<para id="eip-id1167066966703">Insoluble lipids must be attached to proteins in the body to become soluble in body fluids. Have the class research the proteins that transport and carry lipids. Identify their contributions to health or sickness.</para>
+</note></note>
+<para id="fs-id1166849974260">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.9] [APLO 2.10] [APLO 2.12] [APLO 2.13][APLO 2.14][APLO 4.14]</para><section id="fs-id1167065895549" class="ost-tag-lo-apbio-ch03-s03-lo01 ost-get-exercise">
+<title>Fats and Oils</title>
+<para id="fs-id1318871"><term>Lipids</term> include a diverse group of compounds that are largely nonpolar in nature. This is because they are hydrocarbons that include mostly nonpolar carbon–carbon or carbon–hydrogen bonds. Non-polar molecules are hydrophobic (“water fearing”), or insoluble in water. Lipids perform many different functions in a cell. Cells store energy for long-term use in the form of fats. Lipids also provide insulation from the environment for plants and animals (<link target-id="fs-id1167065851476" document=""/>). For example, their water-repellant hydrophobic nature can help keep aquatic birds and mammals dry by forming a protective layer over fur or feathers. Lipids are also the building blocks of many hormones and an important constituent of all cellular membranes. Lipids include fats, waxes, phospholipids, and steroids.</para><note id="fs-id1167064892179" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167065891305" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167065878344">The difference between a fat and an oil is the state of the compound at room temperature (68°F). A fat is a solid or semisolid material and an oil is a liquid at this temperature. Both fats and oils are made up of glycerol and two or three fatty acid chains attached to its carbons by way of dehydration synthesis. A fatty acid is a chain of carbon atoms with hydrogen atoms attached at the open bonding sites. If the chain is fully saturated with hydrogen atoms, it is termed a saturated fat. This tends to give the compound a relatively stiff configuration and helps it to be a solid. If any of the hydrogen atoms are missing, it is called an unsaturated fat or oil. The absence of hydrogen atoms along the chain causes double bonds to form between adjacent carbon atoms, which results in a bend in the chain. This causes the molecules to push away other molecules near it, preventing the packing of fatty acid chains, and resulting in a liquid at room temperature. Fats tend to contain a high concentration of saturated fatty acids and oils tend to contain more unsaturated fatty acid chains. Both types have an effect on health; a high amount of saturated fats is significantly less healthy than a higher amount of unsaturated lipids. An exception trans fat, an unsaturated fat found in processed foods. Trans fats behave like a saturated lipid.</para>
+</note>
+
+<note id="fs-id1167065977400" class="ost-teacher-demonstration">
+<label>Teacher Demonstration</label>
+<para id="fs-id1167065655008">Divide the class into three sections: section 1: dairy department; section 2: salad dressings, and section 3: potato chips.. Each section will visit the supermarket and identify which fats or oils are in five items in their category. Then, each section will prepare a chart listing their findings and share it with the class.</para>
+</note></note>
+
+<figure id="fs-id1167065851476" class="ost-tag-lo-apbio-ch03-s03-lo02">
+<media id="fs-id1712156" alt="Photo shows a river otter swimming.">
+<image mime-type="image/jpg" src="../../media/Figure_03_03_01.jpg" width="280"/>
+</media>
+<caption>Hydrophobic lipids in the fur of aquatic mammals, such as this river otter, protect them from the elements. (credit: Ken Bosma)</caption></figure>
+<para id="fs-id1671785">A fat molecule consists of two main components—glycerol and fatty acids. Glycerol is an organic compound (alcohol) with three carbons, five hydrogens, and three hydroxyl (OH) groups. Fatty acids have a long chain of hydrocarbons to which a carboxyl group is attached, hence the name “fatty acid.” The number of carbons in the fatty acid may range from 4 to 36; most common are those containing 12–18 carbons. In a fat molecule, the fatty acids are attached to each of the three carbons of the glycerol molecule with an ester bond through an oxygen atom (<link target-id="fig-ch03_03_02" document=""/>).</para>
+<figure id="fig-ch03_03_02" class="span-all ost-tag-lo-apbio-ch03-s03-aplo-4-3"><media id="fs-id2569082" alt="The structures of glycerol, a fatty acid, and a triacylglycerol are shown. Glycerol is a chain of three carbons, with a hydroxyl (OH) group attached to each carbon. A fatty acid has an acetyl (COOH) group attached to a long carbon chain. In triacylglycerol, a fatty acid is attached to each of glycerol’s three hydroxyl groups via the carboxyl group. A water molecule is lost in the reaction so the structure of the linkage is C-O-C, with an oxygen double bonded to the second carbon.">
+<image mime-type="image/jpg" src="../../media/Figure_03_03_02-f094.jpg" width="450"/>
+</media>
+<caption>Triacylglycerol is formed by the joining of three fatty acids to a glycerol backbone in a dehydration reaction. Three molecules of water are released in the process.</caption></figure><para id="fs-id1483230">During this ester bond formation, three water molecules are released. The three fatty acids in the triacylglycerol may be similar or dissimilar. Fats are also called <term>triacylglycerols</term> or <term>triglycerides</term> because of their chemical structure. Some fatty acids have common names that specify their origin. For example, palmitic acid, a <term>saturated fatty acid</term>, is derived from the palm tree. Arachidic acid is derived from <emphasis effect="italics">Arachis hypogea,</emphasis> the scientific name for groundnuts or peanuts.</para>
+<para id="fs-id891930">Fatty acids may be saturated or unsaturated. In a fatty acid chain, if there are only single bonds between neighboring carbons in the hydrocarbon chain, the fatty acid is said to be saturated. Saturated fatty acids are saturated with hydrogen; in other words, the number of hydrogen atoms attached to the carbon skeleton is maximized. Stearic acid is an example of a saturated fatty acid (<link target-id="fig-ch03_03_03" document=""/>)</para>
+<figure id="fig-ch03_03_03" class="span-all ost-tag-lo-apbio-ch03-s03-aplo-4-1 ost-tag-lo-apbio-ch03-s03-lo03"><media id="fs-id1235407" alt="The structure of stearic acid is shown. This fatty acid has a hydrocarbon chain seventeen residues long attached to an acetyl group. All bonds between the carbons are single bonds.">
+<image mime-type="image/jpg" src="../../media/Figure_03_03_03-9520.jpg" width="600"/>
+</media>
+<caption>Stearic acid is a common saturated fatty acid.</caption></figure><para id="fs-id2169828">When the hydrocarbon chain contains a double bond, the fatty acid is said to be <term>unsaturated</term>. Oleic acid is an example of an unsaturated fatty acid (<link target-id="fig-ch03_03_04" document=""/>).</para>
+<figure id="fig-ch03_03_04" class="span-all ost-tag-lo-apbio-ch03-s03-lo03 ost-tag-lo-apbio-ch03-s03-aplo-4-1"><media id="fs-id1807206" alt="The structure of oleic acid is shown. This fatty acid has a hydrocarbon chain seventeen residues long attached to an acetyl group. The bond between carbon eight and carbon nine is a double bond.">
+<image mime-type="image/jpg" src="../../media/Figure_03_03_04-a3a2.jpg" width="600"/>
+</media>
+<caption>Oleic acid is a common unsaturated fatty acid.</caption></figure><para id="fs-id1797773">Most unsaturated fats are liquid at room temperature and are called oils. If there is one double bond in the molecule, then it is known as a monounsaturated fat (e.g., olive oil), and if there is more than one double bond, then it is known as a polyunsaturated fat (e.g., canola oil).</para>
+<para id="fs-id1066559">When a fatty acid has no double bonds, it is known as a saturated fatty acid because no more hydrogen may be added to the carbon atoms of the chain. A fat may contain similar or different fatty acids attached to glycerol. Long straight fatty acids with single bonds tend to get packed tightly and are solid at room temperature. Animal fats with stearic acid and palmitic acid (common in meat) and the fat with butyric acid (common in butter) are examples of saturated fats. Mammals store fats in specialized cells called adipocytes, where globules of fat occupy most of the cell’s volume. In plants, fat or oil is stored in many seeds and is used as a source of energy during seedling development. Unsaturated fats or oils are usually of plant origin and contain <emphasis effect="italics">cis</emphasis> unsaturated fatty acids. <emphasis effect="italics">Cis</emphasis> and <emphasis effect="italics">trans</emphasis> indicate the configuration of the molecule around the double bond. If hydrogens are present in the same plane, it is referred to as a cis fat; if the hydrogen atoms are on two different planes, it is referred to as a <term>trans fat</term>. The <emphasis effect="italics">cis</emphasis> double bond causes a bend or a “kink” that prevents the fatty acids from packing tightly, keeping them liquid at room temperature (<link target-id="fig-ch03_03_05" document=""/>). Olive oil, corn oil, canola oil, and cod liver oil are examples of unsaturated fats. Unsaturated fats help to lower blood cholesterol levels whereas saturated fats contribute to plaque formation in the arteries.</para>
+<figure id="fig-ch03_03_05" class="span-all ost-tag-lo-apbio-ch03-s03-lo03 ost-tag-lo-apbio-ch03-s03-aplo-4-1"><media id="fs-id1415018" alt="A comparison of saturated and unsaturated fatty acids is shown. Stearic acid, a saturated fatty acid, has a hydrocarbon chain seventeen residues long attached to an acetyl group. Oleic acid also has a seventeen-residue hydrocarbon chain, but a double bond exists between the eighth and ninth carbon in the chain. In cis oleic acid, the hydrogens are on the same side of the double bond. In trans oleic acid, they are on opposite sides.">
+<image mime-type="image/jpg" src="../../media/Figure_03_03_05-ff6c.jpg" width="500"/>
+</media>
+<caption>Saturated fatty acids have hydrocarbon chains connected by single bonds only. Unsaturated fatty acids have one or more double bonds. Each double bond may be in a <emphasis effect="italics">cis</emphasis> or <emphasis effect="italics">trans</emphasis> configuration. In the <emphasis effect="italics">cis </emphasis>configuration, both hydrogens are on the same side of the hydrocarbon chain. In the <emphasis effect="italics">trans</emphasis> configuration, the hydrogens are on opposite sides. A <emphasis effect="italics">cis</emphasis> double bond causes a kink in the chain.</caption></figure><section id="fs-id1596337" class="ost-get-exercise">
+<title>Trans Fats</title>
+<para id="fs-id1236538">In the food industry, oils are artificially hydrogenated to make them semi-solid and of a consistency desirable for many processed food products. Simply speaking, hydrogen gas is bubbled through oils to solidify them. During this hydrogenation process, double bonds of the <emphasis effect="italics">cis</emphasis>- conformation in the hydrocarbon chain may be converted to double bonds in the trans- conformation.</para>
+<para id="fs-id1447736">Margarine, some types of peanut butter, and shortening are examples of artificially hydrogenated trans fats. Recent studies have shown that an increase in trans fats in the human diet may lead to an increase in levels of low-density lipoproteins (LDL), or “bad” cholesterol, which in turn may lead to plaque deposition in the arteries, resulting in heart disease. Many fast food restaurants have recently banned the use of trans fats, and food labels are required to display the trans fat content.</para>
+</section>
+<section id="fs-id2890621" class="ost-get-exercise">
+<title>Omega Fatty Acids</title>
+<para id="fs-id1958165">Essential fatty acids are fatty acids required but not synthesized by the human body. Consequently, they have to be supplemented through ingestion via the diet. <term>Omega</term>-3 fatty acids (like that shown in <link target-id="fs-id1167065034203" document=""/>) fall into this category and are one of only two known for humans (the other being omega-6 fatty acid). These are polyunsaturated fatty acids and are called omega-3 because the third carbon from the end of the hydrocarbon chain is connected to its neighboring carbon by a double bond.</para><figure id="fs-id1167065034203" class="ost-tag-lo-apbio-ch03-s03-aplo-4-1">
+<media id="fs-id2927265" alt="The molecular structures of alpha-linolenic acid, an omega-3 fatty acid is shown. Alpha-linolenic acid has three double bonds located eight, eleven, and fourteen residues from the acetyl group. It has a hooked shape.">
+<image mime-type="image/jpg" src="../../media/Figure_03_03_07-cb9e.jpg" width="320"/>
+</media>
+<caption>Alpha-linolenic acid is an example of an omega-3 fatty acid. It has three <emphasis effect="italics">cis</emphasis> double bonds and, as a result, a curved shape. For clarity, the carbons are not shown. Each singly bonded carbon has two hydrogens associated with it, also not shown.</caption></figure>
+<para id="fs-id1768637">The farthest carbon away from the carboxyl group is numbered as the omega (<emphasis effect="italics">ω</emphasis>) carbon, and if the double bond is between the third and fourth carbon from that end, it is known as an omega-3 fatty acid. Nutritionally important because the body does not make them, omega-3 fatty acids include alpha-linoleic acid (ALA), eicosapentaenoic acid (EPA), and docosahexaenoic acid (DHA), all of which are polyunsaturated. Salmon, trout, and tuna are good sources of omega-3 fatty acids. Research indicates that omega-3 fatty acids reduce the risk of sudden death from heart attacks, reduce triglycerides in the blood, lower blood pressure, and prevent thrombosis by inhibiting blood clotting. They also reduce inflammation, and may help reduce the risk of some cancers in animals.</para>
+<para id="fs-id1966110">Like carbohydrates, fats have received a lot of bad publicity. It is true that eating an excess of fried foods and other “fatty” foods leads to weight gain. However, fats do have important functions. Many vitamins are fat soluble, and fats serve as a long-term storage form of fatty acids: a source of energy. They also provide insulation for the body. Therefore, “healthy” fats in moderate amounts should be consumed on a regular basis.</para>
+</section>
+</section>
+
+
+<note id="fs-id1167064929590" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065796362">This question is an application Learning Objective 4.3 and Science Practices 6.1 and 6.4 because students are predicting how a change in the subcomponents of a molecule can affect the properties of the molecule.</para>
+<note id="fs-id1167065811637" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167065726074">A phospholipid is made of a phosphate group bonded to a glycerol that is linked to two fatty acid chains. One of the fatty acid chains is saturated and the other unsaturated. The saturated one is straight, while the unsaturated chain contains a bend. Phospholipids make up lipid bilayers, the main component of most plasma membranes and give it a fluid like property, a result of the fatty acid tails creating space between phospholipid molecules.</para>
+</note>
+<note id="fs-id1167066033897" class="ost-teacher-demonstration">
+<label>Teacher Demonstration</label>
+<para id="fs-id1167065887640">The concept of a bent fatty acid tail contributing to the fluidity of a cell membrane can be difficult to visualize. Obtain some old fashioned, wooden clothes-pins. The knob at the top becomes a phosphate molecule. The two prongs of the pins become fatty acids. Both prongs are stiff, so they are saturated fatty acids. There are no unsaturated fatty acids in this demonstration. Hold a number of the pins tightly in your hand and ask a student to remove a pin in the center. They shouldnt be able to, as you are pressing the prongs of all of the pins together. This would be in a cell membrane without any unsaturated fatty acids pushing adjacent chains away, creating spaces that allow the membrane to behave like a fluid.</para>
+</note></note>
+
+
+<note id="fs-id1167064877330" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066058023" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167062368669" class="ost-tag-lo-apbio-ch03-s03-aplo-4-3 unnumbered">
+<label/>
+<problem id="fs-id1167065919116">
+<para id="fs-id1167065863182">Explain why trans fats have been banned from some restaurants. How are trans fats made, and what effect does a simple chemical change have on the properties of the lipid?</para>
+</problem>
+</exercise>
+</note>
+</note>
+
+
+<section id="fs-id1167066039814" class="ost-tag-lo-apbio-ch03-s03-lo02 ost-get-exercise">
+<title>Waxes</title>
+<para id="fs-id1384512"><term>Wax</term> covers the feathers of some aquatic birds and the leaf surfaces of some plants. Because of the hydrophobic nature of waxes, they prevent water from sticking on the surface (<link target-id="fs-id1167064903567" document=""/>). Waxes are made up of long fatty acid chains esterified to long-chain alcohols.</para><figure id="fs-id1167064903567" class="ost-tag-lo-apbio-ch03-s03-lo02">
+<media id="fs-id1778422" alt="The photo shows leaves on a plant; the leaves appear thick, shiny, and waxy.">
+<image mime-type="image/jpg" src="../../media/Figure_03_03_11.jpg" width="320"/>
+</media>
+<caption>Waxy coverings on some leaves are made of lipids. (credit: Roger Griffith)</caption></figure>
+</section>
+
+<section id="fs-id1167065689193" class="ost-tag-lo-apbio-ch03-s03-lo04 ost-get-exercise">
+<title>Phospholipids</title>
+<para id="fs-id2682552"><term>Phospholipids</term> are major constituents of the plasma membrane, the outermost layer of all living cells. Like fats, they are composed of fatty acid chains attached to a glycerol or sphingosine backbone. Instead of three fatty acids attached as in triglycerides, however, there are two fatty acids forming diacylglycerol, and the third carbon of the glycerol backbone is occupied by a modified phosphate group (<link target-id="fs-id1167064850737" document=""/>). A phosphate group alone attached to a diacylglycerol does not qualify as a phospholipid; it is phosphatidate (diacylglycerol 3-phosphate), the precursor of phospholipids. The phosphate group is modified by an alcohol. Phosphatidylcholine and phosphatidylserine are two important phospholipids that are found in plasma membranes.</para><figure id="fs-id1167064850737" class="ost-tag-lo-apbio-ch03-s03-lo04 ost-tag-lo-apbio-ch03-s03-aplo-4-1"><media id="fs-id1442842" alt="The molecular structure of a phospholipid is shown. It consists of two fatty acids attached to the first and second carbons in glycerol, and a phosphate group attached to the third position. The phosphate group may be further modified by addition of another molecule to one of its oxygens. Two molecules that may modify the phosphate group, choline and serine, are shown. Choline consists of a two-carbon chain with a hydroxy group attached to one end and a nitrogen attached to the other. The nitrogen, in turn, has three methyl groups attached to it and has a charge of plus one. Serine consists of a two-carbon chain with a hydroxyl group attached to one end. An amino group and a carboxyl group are attached to the other end.">
+<image mime-type="image/jpg" src="../../media/Figure_05_01_03a.jpg" width="320"/>
+</media>
+<caption>A phospholipid is a molecule with two fatty acids and a modified phosphate group attached to a glycerol backbone. The phosphate may be modified by the addition of charged or polar chemical groups.</caption></figure><para id="fs-id1953709">A phospholipid is an amphipathic molecule, meaning it has a hydrophobic and a hydrophilic part. The fatty acid chains are hydrophobic and cannot interact with water, whereas the phosphate-containing group is hydrophilic and interacts with water (<link target-id="fs-id1167065938302" document=""/>).</para><figure id="fs-id1167065938302" class="ost-tag-lo-apbio-ch03-s03-lo04 ost-tag-lo-apbio-ch03-s03-aplo-4-1">
+<media id="fs-id1437221" alt="An illustration of a phospholipids bilayer is shown. The phospholipids bilayer consists of two layers of phospholipids. The hydrophobic tails of the phospholipids face one another while the hydrophilic head groups face outward.">
+<image mime-type="image/jpg" src="../../media/Figure_03_03_09-0814.jpg" width="320"/>
+</media>
+<caption>The phospholipid bilayer is the major component of all cellular membranes. The hydrophilic head groups of the phospholipids face the aqueous solution. The hydrophobic tails are sequestered in the middle of the bilayer.</caption></figure>
+<para id="fs-id1506249">The head is the hydrophilic part, and the tail contains the hydrophobic fatty acids. In a membrane, a bilayer of phospholipids forms the matrix of the structure, the fatty acid tails of phospholipids face inside, away from water, whereas the phosphate group faces the outside, aqueous side (<link target-id="fs-id1167065938302" document=""/>).</para><para id="fs-id1704779">Phospholipids are responsible for the dynamic nature of the plasma membrane. If a drop of phospholipids is placed in water, it spontaneously forms a structure known as a micelle, where the hydrophilic phosphate heads face the outside and the fatty acids face the interior of this structure.</para>
+</section>
+
+
+
+<note id="fs-id1167065938841" class="ap-everyday ost-assessed-feature ost-tag-lo-apbio-ch03-s03-aplo-4-2 ost-tag-lo-apbio-ch03-s03-lo04">
+<label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<para id="fs-id1167065071601">Fats are amphiphilic molecules. In other words, the long hydrocarbon tail is hydrophobic, and the glycerol part of the molecule is hydrophilic. When in water, fats will arrange themselves into a ball called a <term>micelle</term> so that the hydrophilic heads are on the outer surface, and the hydrophobic tails are on the inside where they are protected from the surrounding water.</para>
+<figure id="fs-id1167066057004"><media id="fs-id1167065712137" alt="An illustration shows a circular arrangement of hydrocarbons with the hydrophilic head at the outer circumference, and the hydrophobic tails all pointing toward the centre of the circle. This arrangement allows the micelle to remain in suspension in an aqueous medium. A few water molecules are shown surrounding the micelle, unable to pass through the membrane.">
+<image mime-type="image/jpg" src="../../media/Figure_03_03_12.jpg" width="320"/>
+</media>
+</figure>
+
+<exercise id="fs-id1167065702415" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167062890235">
+<para id="fs-id1167062340027">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex089"/>
+</para>
+</problem>
+</exercise>
+
+</note>
+
+<note id="fs-id1167065942402" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167065941890" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167065851553">The predominant steroid found in the body is cholesterol, which is used variously by the body to form steroidal hormones and give flexibility to cells, such as red blood cells, which must change their shape to get through blood vessels and tissues.</para>
+</note>
+</note>
+
+
+<section id="fs-id1167065977684" class="ost-tag-lo-apbio-ch03-s03-lo05 ost-get-exercise">
+<title>Steroids</title>
+<para id="fs-id1780762">Unlike the phospholipids and fats discussed earlier, <term>steroids</term> have a fused ring structure. Although they do not resemble the other lipids, they are grouped with them because they are also hydrophobic and insoluble in water. All steroids have four linked carbon rings and several of them, like cholesterol, have a short tail (<link target-id="fs-id1167065768595" document=""/>). Many steroids also have the –OH functional group, which puts them in the alcohol classification (sterols).</para><figure id="fs-id1167065768595" class="ost-tag-lo-apbio-ch03-s03-lo05 ost-tag-lo-apbio-ch03-s03-aplo-4-1">
+<media id="fs-id1685167" alt=" The structures of cholesterol and cortisol are shown. Each of these molecules is composed of three six-carbon rings fused to a five-carbon ring. Cholesterol has a branched hydrocarbon attached to the five-carbon ring, and a hydroxyl group attached to the terminal six-carbon ring. Cortisol has a two-carbon chain modified with a double-bonded oxygen, a hydroxyl group attached to the five-carbon ring, and an oxygen double-bonded to the terminal six-carbon ring.">
+<image mime-type="image/jpg" src="../../media/Figure_03_03_10-a6ce.jpg" width="320"/>
+</media>
+<caption>Steroids such as cholesterol and cortisol are composed of four fused hydrocarbon rings.</caption></figure>
+<para id="fs-id1473085">Cholesterol is the most common steroid. Cholesterol is mainly synthesized in the liver and is the precursor to many steroid hormones such as testosterone and estradiol, which are secreted by the gonads and endocrine glands. It is also the precursor to Vitamin D. Cholesterol is also the precursor of bile salts, which help in the emulsification of fats and their subsequent absorption by cells. Although cholesterol is often spoken of in negative terms by lay people, it is necessary for proper functioning of the body. It is a component of the plasma membrane of animal cells and is found within the phospholipid bilayer. Being the outermost structure in animal cells, the plasma membrane is responsible for the transport of materials and cellular recognition and it is involved in cell-to-cell communication.</para>
+<note id="fs-id1462641" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch03-s03-lo01 ost-tag-lo-apbio-ch03-s03-lo02 ost-tag-lo-apbio-ch03-s03-lo03 ost-tag-lo-apbio-ch03-s03-aplo-4-1 ost-tag-lo-apbio-ch03-s03-aplo-4-2"><label>Link to Learning</label>
+<para id="fs-id3053447">For an additional perspective on lipids, explore the interactive animation <link window="new" url="http://openstax.org/l/lipids">“Biomolecules: The Lipids”</link>.</para>
+<exercise id="fs-id1167066032840" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065910345">
+<para id="fs-id1167065869348">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex030"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+
+<section id="fs-id2010424" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id2344871">Lipids are a class of macromolecules that are nonpolar and hydrophobic in nature. Major types include fats and oils, waxes, phospholipids, and steroids. Fats are a stored form of energy and are also known as triacylglycerols or triglycerides. Fats are made up of fatty acids and either glycerol or sphingosine. Fatty acids may be unsaturated or saturated, depending on the presence or absence of double bonds in the hydrocarbon chain. If only single bonds are present, they are known as saturated fatty acids. Unsaturated fatty acids may have one or more double bonds in the hydrocarbon chain. Phospholipids make up the matrix of membranes. They have a glycerol or sphingosine backbone to which two fatty acid chains and a phosphate-containing group are attached. Steroids are another class of lipids. Their basic structure has four fused carbon rings. Cholesterol is a type of steroid and is an important constituent of the plasma membrane, where it helps to maintain the fluid nature of the membrane. It is also the precursor of steroid hormones such as testosterone.</para>
+</section>
+
+
+<section id="fs-id1167065852066" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065861879" class="os-exercise">
+<problem id="fs-id1167064981182">
+<para id="fs-id1167065844164">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex029"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065725332" class="os-exercise">
+<problem id="fs-id1167065959790">
+<para id="fs-id1167064909191">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex030"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065702494" class="os-exercise">
+<problem id="fs-id1167065714907">
+<para id="fs-id1167064872220">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex031"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065893323" class="os-exercise">
+<problem id="fs-id1167064908271">
+<para id="fs-id1167065714829">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex032"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065864728" class="os-exercise">
+<problem id="fs-id1167065057972">
+<para id="fs-id1167062410636">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex033"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065826818" class="os-exercise">
+<problem id="fs-id1167065861730">
+<para id="fs-id1167066012478">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex034"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064929725" class="os-exercise">
+<problem id="fs-id1167062408871">
+<para id="fs-id1167065808558">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex035"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066042109" class="os-exercise">
+<problem id="fs-id1167065849065">
+<para id="fs-id1167066170466">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex036"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066094212" class="os-exercise">
+<problem id="fs-id1167065948878">
+<para id="fs-id1167065967738">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex037"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066096428" class="os-exercise">
+<problem id="fs-id1167064996706">
+<para id="fs-id1167064897032">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex038"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065764266" class="os-exercise">
+<problem id="fs-id1167065828686">
+<para id="fs-id1167065854512">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex039"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065825666" class="os-exercise">
+<problem id="fs-id1167065803091">
+<para id="fs-id1167065696058">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex040"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065728875" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167066038400" class="os-exercise">
+<problem id="fs-id1167065800274">
+<para id="fs-id1167064869706">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex041"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065765540" class="os-exercise">
+<problem id="fs-id1167065978452">
+<para id="fs-id1167062355480">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex042"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065920010" class="os-exercise">
+<problem id="fs-id1167066069258">
+<para id="fs-id1167064929630">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex043"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065802685" class="os-exercise">
+<problem id="fs-id1167065823884">
+<para id="fs-id1167066055649">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex044"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065827292" class="os-exercise">
+<problem id="fs-id1167065017699">
+<para id="fs-id1167066089807">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex045"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064914993" class="os-exercise">
+<problem id="fs-id1167064872850">
+<para id="fs-id1167066086099">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex046"/>
+</para>
+</problem>
+</exercise>
+
+</section>
+
+<section id="fs-id1167065795084" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167066037663" class="os-exercise">
+<problem id="fs-id1167065721246">
+<para id="fs-id1167064905074">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex067"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065823980" class="os-exercise">
+<problem id="fs-id1167065757967">
+<para id="fs-id1167065788395">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex068"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066104751" class="os-exercise">
+<problem id="fs-id1167065842215">
+<para id="fs-id1167065827796">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex069"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064770285" class="os-exercise">
+<problem id="fs-id1167066096423">
+<para id="fs-id1167065849758">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex070"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065776140" class="os-exercise">
+<problem id="fs-id1167062401916">
+<para id="fs-id1167064993967">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex082"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1166173170921" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1166168607820">
+<problem id="fs-id1166168412484">
+<para id="fs-id1166173424787">Cells are bounded by membranes composed of phospholipids. A phospholipid consists of a pair of fatty acids that may or may not have carbon-carbon double bonds, fused at the carboxylic acid with a three-carbon glycerol that is terminated by a phosphate, as shown in the figure below. Most cell membranes comprise two phospholipid layers with the hydrophilic phosphate ends of each molecule in the outer and inner surfaces. The hydrophobic chains of carbon atoms extend into the space between these two surfaces.</para>
+<figure id="fs-id1166173566885"><media id="fs-id1166166968470" alt="The figure shows a glycerol and phosphate molecule attached to each other with a label that reads hydrophilic head group. The phosphate molecule consists of a P in the middle with four main branches: a double line connecting to an O, a single line connecting to an O that is also connected by a single line to a R, a single line connecting to an O-, and a single line connecting to an O. The single line connected to the O is also connected by a single line to a C in the glycerol molecule.  This C is connected by two single lines to two H atoms and to another C. This second C is also connected by single lines to:  1 H, 1 C on the right side of the molecule that is connected to two Hs. The left C that connects to the right C are each connected with single lines to separate O atoms. These two O atoms are each connected to separate C atoms that are connected by a double line to an O atom. Finally, these two C atoms are also connected to two separate fatty acid chains made C atoms connected to each other by single lines. Each C is also connected to H molecules, forming four total bonds for each C. Next to the molecule is an image of the cell membrane with two layers. The top of the diagram is labelled Outside of the Cell and the bottom is labelled Inside of the cell. The very top and the bottom of the two layers contain circular structures labelled hydrophobic head. In the middle are string-like structures labelled hydrophilic tails.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_03_03_01_01_img.jpg" width="400"/>
+</media>
+
+</figure><para id="fs-id1166168484226">The exchange of matter between the interior of the cell and the environment is mediated by this membrane with selective permeability.</para>
+<para id="fs-id1166167134879">A. <emphasis>Pose questions</emphasis> that identify</para>
+<list id="fs-id1166173221329">
+<item>the important characteristics of this lipid bilayer structure</item>
+<item>the molecules that must be acquired from the environment and eliminated from the cell</item>
+<item>relationships between the structures of these molecules and the structure of the bilayer</item>
+</list>
+<para id="fs-id1166173119616">Because the plasma cell membrane has both hydrophilic and hydrophobic properties, few types of molecules possess structures that allow them to pass between the interior of the cell and the environment through passive diffusion. The fluidity of the membrane affects passive transport, and the incorporation of other molecules in the membrane, in particular cholesterols, has a strong effect on its fluidity. Fluidity is also affected by temperature.</para>
+<para id="fs-id1166173538636">Measurements of the speed of movement of oxygen molecules, O<sub>2</sub>, through three types of membranes were made (Widomska et al., <emphasis effect="italics">Biochimica et Biophysica Acta</emphasis>, 1,768, 2007) and compared with the speed of movement of O<sub>2</sub> through water. These measurements were carried out at four different temperatures. One type of membrane was obtained from the cells in the eyeball of a calf (lens lipid). Synthetic membranes composed of palmitic acid with cholesterol (POPC/CHOL) and without cholesterol (POPC) were also used. The results from these experiments are shown in the table below.</para>
+<table id="fs-id1166171579229" summary="This table shows a Temperature table in °C. The temperatures are 15, 25, 35, and 45. The labels on the left side are Materials, lens lipids, POPC/CHOL, POPC, and Water. And from left to right they read: Material  Speed (cm/s), Lens lipids: 15, 30, 65, 110. POPC/CHOL  15, 30, 60, 95. POPC  55, 100, 155, 280. Water  45, 55, 65, 75.">
+<tgroup cols="5">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<colspec colname="col4"/>
+<colspec colname="col5"/>
+<thead>
+<row>
+<entry/>
+<entry namest="col2" nameend="col5">Temperature (°C)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry/>
+<entry>15</entry>
+<entry>25</entry>
+<entry>35</entry>
+<entry>45</entry>
+</row>
+<row>
+<entry>Material</entry>
+<entry namest="col2" nameend="col5">Speed (cm/s)</entry>
+</row>
+<row>
+<entry>Lens lipids</entry>
+<entry>15</entry>
+<entry>30</entry>
+<entry>65</entry>
+<entry>110</entry>
+</row>
+<row>
+<entry>POPC/CHOL</entry>
+<entry>15</entry>
+<entry>30</entry>
+<entry>60</entry>
+<entry>95</entry>
+</row>
+<row>
+<entry>POPC</entry>
+<entry>55</entry>
+<entry>100</entry>
+<entry>155</entry>
+<entry>280</entry>
+</row>
+<row>
+<entry>Water</entry>
+<entry>45</entry>
+<entry>55</entry>
+<entry>65</entry>
+<entry>75</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1166173538455">B. <emphasis>Represent</emphasis> these <emphasis>data graphically</emphasis>. The axes should be labeled, and different symbols should be used to plot data for each material.</para>
+<para id="fs-id1166171722333">C. <emphasis>Analyze</emphasis> the data by comparing transport of oxygen through the biological membrane, water, and the synthetic membranes. Consider both membrane composition and temperature in your analysis.</para>
+<para id="fs-id1166167048208">The plasma membrane separates the interior and the exterior of the cell. A potential to do work is established by defining regions inside and outside the cell with different concentrations of key molecules and net charge. In addition to the membrane defining the cell boundary, eukaryotic cells have internal membranes.</para>
+<para id="fs-id1166173541416">D. <emphasis>Explain</emphasis> how internal membranes significantly increase the functional capacity of the cells of eukaryotes relative to those of prokaryotes.</para>
+</problem>
+</exercise>
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-id1512004"><term>lipid</term> <meaning id="fs-id1705359">macromolecule that is nonpolar and insoluble in water</meaning></definition>
+<definition id="fs-id2164292"><term>omega fat</term> <meaning id="fs-id1702829">type of polyunsaturated fat that is required by the body; the numbering of the carbon omega starts from the methyl end or the end that is farthest from the carboxylic end</meaning></definition>
+<definition id="fs-id2626332"><term>phospholipid</term> <meaning id="fs-id2319119">major constituent of the membranes; composed of two fatty acids and a phosphate-containing group attached to a glycerol backbone</meaning></definition>
+<definition id="fs-id2200773"><term>saturated fatty acid</term> <meaning id="fs-id2121264">long-chain of hydrocarbon with single covalent bonds in the carbon chain; the number of hydrogen atoms attached to the carbon skeleton is maximized</meaning></definition>
+<definition id="fs-id2581968"><term>steroid</term> <meaning id="fs-id2727033">type of lipid composed of four fused hydrocarbon rings forming a planar structure</meaning></definition>
+<definition id="fs-id2197534"><term>trans fat</term> <meaning id="fs-id2248581">fat formed artificially by hydrogenating oils, leading to a different arrangement of double bond(s) than those found in naturally occurring lipids</meaning></definition>
+<definition id="fs-id2954506"><term>triacylglycerol (also, triglyceride)</term> <meaning id="fs-id2138705">fat molecule; consists of three fatty acids linked to a glycerol molecule</meaning></definition>
+<definition id="fs-id2308951"><term>unsaturated fatty acid</term> <meaning id="fs-id2148360">long-chain hydrocarbon that has one or more double bonds in the hydrocarbon chain</meaning></definition>
+<definition id="fs-id1429764"><term>wax</term> <meaning id="fs-id2123880">lipid made of a long-chain fatty acid that is esterified to a long-chain alcohol; serves as a protective coating on some feathers, aquatic mammal fur, and leaves</meaning></definition>
+</glossary>
+
+</document>

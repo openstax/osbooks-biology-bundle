@@ -1,0 +1,391 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Human Population Growth</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63032</md:content-id>
+  <md:title>Human Population Growth</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss how human population growth can be exponential</item>
+<item>Explain how humans have expanded the carrying capacity of their habitat</item>
+<item>Relate population growth and age structure to the level of economic development in different countries</item>
+<item>Discuss the long-term implications of unchecked human population growth</item>
+</list></md:abstract>
+  <md:uuid>3a183364-6e9c-487b-975e-9dd8bf008d7d</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167063470405" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167061216825">In this section, you will investigate the following questions:</para>
+<list id="fs-id1167066938833">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch36-s05-lo01">How can human population growth be exponential?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch36-s05-lo02">How have humans expanded the carrying capacity of their habitat?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch36-s05-lo03">How do population growth and age structure relate to the level of economic development in different countries?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch36-s05-lo04">What are the long-term implications of unchecked human population growth?</item>
+</list>
+</section>
+<section id="fs-id1167063901329" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167063892095">The methods used to look at animal population dynamics can also be used to look at the human populations. Like animals, humans are affected by abiotic and biotic factors. Unlike animals, humans have the ability to manipulate the factors affecting the growth of their population. As a result, additional factors come into play when studying human population dynamics. When studying projections of human population growth, ethical questions can also come to light.</para>
+<para id="fs-id1167067235852" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167066971023" summary="Column 1 Row 1: Essential Knowledge Column 2 Row 1: 4.A.6 Interactions among living systems and with their environment result in the movement of matter and energy. Column 1 Row 2: Science Practice Column 2 Row 2: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Column 1 Row 3: Science Practice Column 2 Row 3: 4.1 The student can justify the selection of the kind of data needed to answer a particular scientific question. Column 1 Row 4: Learning Objective Column 2 Row 4: 4.11 The student is able to justify the selection of the kind of data needed to answer scientific questions about the interaction of populations within communities." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry></row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-6">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.6 </emphasis></span>
+<span class="ost-standards-description">Interactions among living systems and with their environment result in the movement of matter and energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-4-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.1 </emphasis></span>
+<span class="ost-standards-description">The student is able to justify the selection of the kind of data needed to answer scientific questions about the interaction of populations within communities.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s05-aplo-4-11">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.11 </emphasis></span>
+<span class="ost-standards-description">The student is able to justify the selection of the kind of data needed to answer scientific questions about the interaction of populations within communities.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-6">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.6 </emphasis></span>
+<span class="ost-standards-description">Interactions among living systems and with their environment result in the movement of matter and energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
+<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s05-aplo-4-12">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.12 </emphasis></span>
+<span class="ost-standards-description">The student is able to apply mathematical routines to quantities that describe communities composed of populations of organisms that interact in complex ways.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-6">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.6 </emphasis></span>
+<span class="ost-standards-description">Interactions among living systems and with their environment result in the movement of matter and energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s05-aplo-4-13">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.13 </emphasis></span>
+<span class="ost-standards-description">The student is able to predict the effects of a change in the community’s populations on the community.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-6">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.6 </emphasis></span>
+<span class="ost-standards-description">Interactions among living systems and with their environment result in the movement of matter and energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s05-aplo-4-16">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.16 </emphasis></span>
+<span class="ost-standards-description">The student is able to predict the effects of a change of matter or energy availability on communities.</span>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table></section>
+<para id="fs-idm225979904" class="ost-tag-lo-apbio-ch36-s05-lo01 ost-tag-lo-apbio-ch36-s05-lo02">Concepts of animal population dynamics can be applied to human population growth. Humans are not unique in their ability to alter their environment. For example, beaver dams alter the stream environment where they are built. Humans, however, have the ability to alter their environment to increase its carrying capacity sometimes to the detriment of other species (e.g., via artificial selection for crops that have a higher yield). Earth’s human population is growing rapidly, to the extent that some worry about the ability of the earth’s environment to sustain this population, as long-term exponential growth carries the potential risks of famine, disease, and large-scale death.</para>
+<para id="fs-idm113119328">Although humans have increased the carrying capacity of their environment, the technologies used to achieve this transformation have caused unprecedented changes to Earth’s environment, altering ecosystems to the point where some may be in danger of collapse. The depletion of the ozone layer, erosion due to acid rain, and damage from global climate change are caused by human activities. The ultimate effect of these changes on our carrying capacity is unknown. As some point out, it is likely that the negative effects of increasing carrying capacity will outweigh the positive ones—the carrying capacity of the world for human beings might actually decrease.</para>
+<para id="fs-idm73293856" class="ost-tag-lo-apbio-ch36-s05-lo01">The world’s human population is currently experiencing exponential growth even though human reproduction is far below its biotic potential (<link target-id="fig-ch45_05_01" document=""/>). To reach its biotic potential, all females would have to become pregnant every nine months or so during their reproductive years. Also, resources would have to be such that the environment would support such growth. Neither of these two conditions exists. In spite of this fact, human population is still growing exponentially.</para>
+<figure id="fig-ch45_05_01" class="ost-tag-lo-apbio-ch36-s05-lo01">
+<media id="fs-idm192483984" alt="Graph plots the world population growth from 1000 AD to the present. The curve starts out flat, and then becomes increasingly steep. A sharp increase in population occurs around 1900. In 1000 AD the population was around 265 million. In 2000 it was around 6 billion. Populations of various parts of the world are also plotted, including Africa, Asia, Europe, Latin America, North America, and Oceania. With the exception of Europe, the change in population in each region is similar to the change in world population. In Europe, the population is now stagnant.">
+<image mime-type="image/jpg" src="../../media/Figure_45_05_01.jpg" width="420"/>
+</media>
+<caption>Human population growth since 1000 AD is exponential (dark blue line). Notice that while the population in Asia (yellow line), which has many economically underdeveloped countries, is increasing exponentially, the population in Europe (light blue line), where most of the countries are economically developed, is growing much more slowly.</caption></figure><para id="fs-idm207085984">A consequence of exponential human population growth is the time that it takes to add a particular number of humans to the Earth is becoming shorter. <link target-id="fig-ch45_05_02" document=""/> shows that 123 years were necessary to add 1 billion humans in 1930, but it only took 24 years to add two billion people between 1975 and 1999. As already discussed, at some point it would appear that our ability to increase our carrying capacity indefinitely on a finite world is uncertain. Without new technological advances, the human growth rate has been predicted to slow in the coming decades. However, the population will still be increasing and the threat of overpopulation remains.</para>
+<figure id="fig-ch45_05_02" class="ost-tag-lo-apbio-ch36-s05-lo01"><media id="fs-idm321938736" alt="Bar graph shows the number of years it has taken to add each billion people to the world population. By 1800, there were about a billion people on Earth. It took 123 years, until 1930, for the number to reach two million. Thirty-three years later, in 1960, the number reached three billion, and 15 years after that, in 1975, the number reached four billion. The population reached five billion in 1987, and six billion in 1999, each twelve years apart. Currently, the world population is nearly seven billion. The population is projected to reach 8 billion in 2028, and 9 billion in 2054.">
+<image mime-type="image/jpg" src="../../media/Figure_45_05_02.jpg" width="480"/>
+</media>
+<caption>The time between the addition of each billion human beings to Earth decreases over time. (credit: modification of work by Ryan T. Cragun)</caption></figure>
+<note id="fs-idm193273792" class="interactive ost-tag-lo-apbio-ch36-s05-lo03 ost-assessed-feature"><label>Link to Learning</label>
+
+<para id="fs-idm170042208">Click through this <link window="new" url="http://openstax.org/l/human_growth">interactive view</link> of how human populations have changed over time.</para>
+<exercise id="fs-id1167067251200" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167061302913">
+<para id="fs-id1167063577823">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex052"/>
+</para>
+</problem>
+</exercise>
+</note><section id="fs-idm266897680" class="ost-tag-lo-apbio-ch36-s05-lo02 ost-get-exercise">
+<title>Overcoming Density-Dependent Regulation</title>
+<para id="fs-idm255714304">Humans are unique in their ability to alter their environment with the conscious purpose of increasing its carrying capacity. This ability is a major factor responsible for human population growth and a way of overcoming density-dependent growth regulation. Much of this ability is related to human intelligence, society, and communication. Humans can construct shelter to protect them from the elements and have developed agriculture and domesticated animals to increase their food supplies. In addition, humans use language to communicate this technology to new generations, allowing them to improve upon previous accomplishments.</para>
+<para id="fs-idm171579728">Other factors in human population growth are migration and public health. Humans originated in Africa, but have since migrated to nearly all inhabitable land on the Earth. Public health, sanitation, and the use of antibiotics and vaccines have decreased the ability of infectious disease to limit human population growth. In the past, diseases such as the bubonic plaque of the fourteenth century killed between 30 and 60 percent of Europe’s population and reduced the overall world population by as many as 100 million people. Today, the threat of infectious disease, while not gone, is certainly less severe. According to the World Health Organization, global death from infectious disease declined from 16.4 million in 1993 to 14.7 million in 2002. To compare to some of the epidemics of the past, the percentage of the world's population killed between 1993 and 2002 decreased from 0.30 percent of the world's population to 0.24 percent. Thus, it appears that the influence of infectious disease on human population growth is becoming less significant.</para></section>
+<section id="fs-idm64129744" class="ost-tag-lo-apbio-ch36-s05-lo03 ost-get-exercise">
+<title>Age Structure, Population Growth, and Economic Development</title>
+<para id="fs-idm247819424">The age structure of a population is an important factor in population dynamics. <emphasis>Age structure</emphasis> is the proportion of a population at different age ranges. Age structure allows better prediction of population growth, plus the ability to associate this growth with the level of economic development in the region. Countries with rapid growth have a pyramidal shape in their age structure diagrams, showing a preponderance of younger individuals, many of whom are of reproductive age or will be soon (<link target-id="fig-ch45_05_03" document=""/>). This pattern is most often observed in underdeveloped countries where individuals do not live to old age because of less-than-optimal living conditions. Age structures of areas with slow growth, including developed countries such as the United States, still have a pyramidal structure, but with many fewer young and reproductive-aged individuals and a greater proportion of older individuals. Other developed countries, such as Italy, have zero population growth. The age structure of these populations is more conical, with an even greater percentage of middle-aged and older individuals. The actual growth rates in different countries are shown in <link target-id="fig-ch45_05_04" document=""/>, with the highest rates tending to be in the less economically developed countries of Africa and Asia.</para>
+<note id="fs-idm172422800" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
+<para id="eip-idm75855568">
+<figure id="fig-ch45_05_03" class=" ">
+<media id="fs-idm253971152" alt="For the four different age structure diagrams shown, the base represents birth and the apex occurs around age 70. The age structure diagram for stage 1, rapid growth, is shaped like a deflated triangle that starts out wide at the base and rapidly decreases to a narrow apex, indicating that the number of individuals decreases rapidly with age. The age structure diagram for stage 2, slow growth, is triangular in shape, indicating that the number of individuals decreases steadily with age. The age structure diagram for stage 3, stable growth, is rounded at the top, indicating that the number of individuals per age group decreases gradually at first, then increases for the older portion of the population. The final age structure diagram, stage 4, widens from the base to middle age, and then narrows to a rounded top. The population type indicated by this diagram is not given, as this is part of the art connection question.">
+<image mime-type="image/png" src="../../media/Figure_45_05_03.png" width="500"/>
+</media>
+<caption>Typical age structure diagrams are shown. The rapid growth diagram narrows to a point, indicating that the number of individuals decreases rapidly with age. In the slow growth model, the number of individuals decreases steadily with age. Stable population diagrams are rounded on the top, showing that the number of individuals per age group decreases gradually, and then increases for the older part of the population.</caption>
+</figure></para>
+<!--<para id="fs-idm177573392">Age structure diagrams for rapidly growing, slow growing and stable populations are shown in stages 1 through 3. What type of population change do you think stage 4 represents?</para>-->
+<!--<para><link target-id="fig-ch45_05_03" document=""/>Stage 4 represents a population that is decreasing.</para>-->
+<exercise id="fs-id1167067150558" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167066956594">
+<para id="fs-id1167067311470">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex053"/>
+</para>
+</problem>
+</exercise>
+</note><figure id="fig-ch45_05_04" class="ost-tag-lo-apbio-ch36-s05-lo03">
+<media id="fs-idm278179984" alt="Percent population growth, which ranges from zero percent to three plus percent, is shown on a world map. Europe, Northern Asia, Greenland and South Africa are experiencing zero percent population growth. The United States, Canada, the southern part of South America, China, and Australia are experiencing zero to one percent population growth. Mexico, the northern part of South America, and parts of Africa, the Middle East and Asia are experiencing one percent population growth. Most of Africa and parts of the Middle East and Asia are experiencing two percent population growth. Some parts of Africa are experiencing three percent population growth.">
+<image mime-type="image/jpg" src="../../media/Figure_45_05_04.jpg" width="550"/>
+</media>
+<caption>The percent growth rate of population in different countries is shown. Notice that the highest growth is occurring in less economically developed countries in Africa and Asia.</caption>
+</figure>
+</section>
+<section id="fs-idm312151728" class="ost-tag-lo-apbio-ch36-s05-lo04">
+<title>Long-Term Consequences of Exponential Human Population Growth</title>
+<para id="fs-idm83769584">Many dire predictions have been made about the world’s population leading to a major crisis called the “population explosion.” In the 1968 book <emphasis effect="italics">The Population Bomb</emphasis>, biologist Dr. Paul R. Ehrlich wrote, “The battle to feed all of humanity is over. In the 1970s hundreds of millions of people will starve to death in spite of any crash programs embarked upon now. At this late date nothing can prevent a substantial increase in the world death rate.”<footnote id="fs-idm181607600">Paul R. Erlich, prologue to <emphasis effect="italics">The Population Bomb</emphasis>, (1968; repr., New York: Ballantine, 1970).</footnote> While many critics view this statement as an exaggeration, the laws of exponential population growth are still in effect, and unchecked human population growth cannot continue indefinitely.</para>
+<para id="fs-idm166953840">Efforts to control population growth led to the <emphasis>one-child policy</emphasis> in China, which used to include more severe consequences, but now imposes fines on urban couples who have more than one child. Due to the fact that some couples wish to have a male heir, many Chinese couples continue to have more than one child. The policy itself, its social impacts, and the effectiveness of limiting overall population growth are controversial. In spite of population control policies, the human population continues to grow. At some point the food supply may run out because of the subsequent need to produce more and more food to feed our population. The United Nations estimates that future world population growth may vary from 6 billion (a decrease) to 16 billion people by the year 2100. There is no way to know whether human population growth will moderate to the point where the crisis described by Dr. Ehrlich will be averted.</para><para id="fs-idm270377024">Another result of population growth is the endangerment of the natural environment. Many countries have attempted to reduce the human impact on climate change by reducing their emission of the greenhouse gas carbon dioxide. However, these treaties have not been ratified by every country, and many underdeveloped countries trying to improve their economic condition may be less likely to agree with such provisions if it means slower economic development. Furthermore, the role of human activity in causing climate change has become a hotly debated socio-political issue in some developed countries, including the United States. Thus, we enter the future with considerable uncertainty about our ability to curb human population growth and protect our environment.</para>
+<note id="fs-id1167061226808" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch36-s05-aplo-4-12">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167067238663" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167067111680" class="unnumbered"><label/>
+<problem id="fs-id1167063892340"><para id="fs-id1167063892341">Describe the age structures in rapidly growing countries, slowly growing countries, and countries with zero population growth.</para></problem></exercise>
+</note>
+<note id="fs-id1167063519386" class="os-teacher">
+<label>Teacher Support</label>
+<list id="fs-id1167067205110">
+<item>Rapidly growing countries tend to have younger populations while slower growing ones are more evenly distributed. The Think About It question is an application of AP<sup>®</sup> Learning Objective 4.12 and Science Practice 2.2 because students are applying mathematical routines to describe age structure diagrams which graphically reflect different types of human population growth.</item>
+<item><note id="fs-id1167066946613" class="ost-tips-teaching">
+<label>Teaching Tip</label>
+<para id="fs-id1167061705785">Help students work through population growth scenarios, then have them work together in groups to solve additional problems.</para>
+</note></item>
+</list>
+</note>
+</note>
+<note id="fs-idm282692480" class="interactive ost-tag-lo-apbio-ch36-s05-lo04 ost-assessed-feature"><label>Link to Learning</label>
+<para id="fs-idm286955264">Visit this <link window="new" url="http://openstax.org/l/populations">website</link> and select “Launch movie” for an animation discussing the global impacts of human population growth.</para>
+<!--<exercise id="fs-id1167066959781" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167067067409">
+<para id="fs-id1167061173961">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex054"/>
+</para>
+</problem>
+</exercise>-->
+</note></section>
+<section id="fs-idm322306688" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idm48316864">The world’s human population is growing at an exponential rate. Humans have increased the world’s carrying capacity through migration, agriculture, medical advances, and communication. The age structure of a population allows us to predict population growth. Unchecked human population growth could have dire long-term effects on our environment.</para>
+</section>
+<!--<section id="fs-idm260021920" class="art-exercise"><title>Art Connections</title><exercise id="fs-idm238521552">
+<problem id="fs-idm243496608">
+<para id="fs-idm229707344"><link target-id="fig-ch45_05_03" document=""/> Age structure diagrams for rapidly growing, slow growing and stable populations are shown in stages 1 through 3. What type of population change do you think stage 4 represents?</para>
+</problem>
+<solution id="fs-idm318355776">
+<label/>
+<para id="fs-idp11626656"><link target-id="fig-ch45_05_03" document=""/> Stage 4 represents a population that is decreasing.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp45091728" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm142904224">
+<problem id="fs-idm247638928"><para id="fs-idm284143776">A country with zero population growth is likely to be ________.</para>
+<list id="fs-idm166640624" list-type="enumerated" number-style="lower-alpha">
+<item>in Africa</item>
+<item>in Asia</item>
+<item>economically developed</item>
+<item>economically underdeveloped</item>
+</list>
+</problem>
+<solution id="fs-idm117912512">
+<label/>
+<para id="fs-idm106408288">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm80509840">
+<problem id="fs-idm227195552"><para id="fs-idm260977200">Which type of country has the greatest proportion of young individuals?</para>
+<list id="fs-idm246497888" list-type="enumerated" number-style="lower-alpha">
+<item>economically developed</item>
+<item>economically underdeveloped</item>
+<item>countries with zero population growth</item>
+<item>countries in Europe</item>
+</list>
+</problem>
+<solution id="fs-idm177191360">
+<label/>
+<para id="fs-idm184536976">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm205371408">
+<problem id="fs-idm190553264"><para id="fs-idm202120224">Which of the following is not a way that humans have increased the carrying capacity of the environment?</para>
+<list id="fs-idm182718768" list-type="enumerated" number-style="lower-alpha">
+<item>agriculture</item>
+<item>using large amounts of natural resources</item>
+<item>domestication of animals</item>
+<item>use of language</item>
+</list>
+</problem>
+<solution id="fs-idm155693104">
+<label/>
+<para id="fs-idm51031424">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm251419168" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm271075408">
+<problem id="fs-idm204566688"><para id="fs-idm255782032">Describe the age structures in rapidly growing countries, slowly growing countries, and countries with zero population growth.</para></problem>
+<solution id="fs-idm205374320">
+<label/>
+<para id="fs-idm242589536">Rapidly growing countries have a large segment of the population at a reproductive age or younger. Slower growing populations have a lower percentage of these individuals, and countries with zero population growth have an even lower percentage. On the other hand, a high proportion of older individuals is seen mostly in countries with zero growth, and a low proportion is most common in rapidly growing countries.</para></solution></exercise>
+</section>-->
+<section id="fs-id1167067043729" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167067040289" class="os-exercise">
+<problem id="fs-id1167067196726">
+<para id="fs-id1167066961743">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex055"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067132706" class="os-exercise">
+<problem id="fs-id1167067039634">
+<para id="fs-id1167067016057">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex056"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067211409" class="os-exercise">
+<problem id="fs-id1167063745843">
+<para id="fs-id1167067153431">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex057"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063740165" class="os-exercise">
+<problem id="fs-id1167067087609">
+<para id="fs-id1167063725800">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex058"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067226394" class="os-exercise">
+<problem id="fs-id1167067239610">
+<para id="fs-id1167067248935">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex059"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063877443" class="os-exercise">
+<problem id="fs-id1167066837821">
+<para id="fs-id1167063687674">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex060"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063891920" class="os-exercise">
+<problem id="fs-id1167066804809">
+<para id="fs-id1167067054444">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex061"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067044407" class="os-exercise">
+<problem id="fs-id1167067111872">
+<para id="fs-id1167063659439">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex062"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167067010706" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167067163117" class="os-exercise">
+<problem id="fs-id1167067144651">
+<para id="fs-id1167063735488">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex063"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063939162" class="os-exercise">
+<problem id="fs-id1167063699152">
+<para id="fs-id1167067205427">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex064"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063504293" class="os-exercise">
+<problem id="fs-id1167067014416">
+<para id="fs-id1167063709872">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex065"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066824096" class="os-exercise">
+<problem id="fs-id1167067190360">
+<para id="fs-id1167067236085">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex066"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167063656045" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167063584180" class="os-exercise  ost-tag-lo-apbio-ch36-s05-aplo-4-13">
+<problem id="fs-id1167067236385">
+<para id="fs-id1167063490365">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex067"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067217034" class="os-exercise">
+<problem id="fs-id1167067076540">
+<para id="fs-id1167067264674">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex068"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163776078827" class="os-exercise">
+<problem id="eip-id1163775903782">
+<para id="eip-id1163775903785">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ot039"/>
+</para>
+</problem>
+</exercise></section> </content>
+<glossary>
+<definition id="fs-idm165078720"><term>age structure</term> <meaning id="fs-idm209565056">proportion of population members at specific age ranges</meaning></definition>
+<definition id="fs-idm329491296"><term>one-child policy</term> <meaning id="fs-idm159772336">China’s policy to limit population growth by limiting urban couples to have only one child or face the penalty of a fine</meaning></definition>
+</glossary>
+</document>

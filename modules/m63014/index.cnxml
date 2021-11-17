@@ -1,0 +1,481 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Hormonal Control of Human Reproduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63014</md:content-id>
+  <md:title>Hormonal Control of Human Reproduction</md:title>
+  <md:abstract>By the end of this chapter, you will be able to:
+<list>
+<item>Describe the roles of male and female reproductive hormones</item>
+<item>Discuss the interplay of the ovarian and menstrual cycles</item>
+<item>Describe the process of menopause</item>
+</list></md:abstract>
+  <md:uuid>fa3b8619-c893-4a3a-894d-cf2a4c75d154</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065726483" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167064540853">In this section, you will explore the following questions:</para>
+<list id="fs-id1167065937684">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch34-s04-lo01">What are the roles of male and female reproductive hormones?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch34-s04-lo02">What is the link between the ovarian and menstrual cycles?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch34-s04-lo03">What events are associated with menopause?</item>
+</list>
+</section>
+<section id="fs-id1167065072049" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167065070413">The information in this section is an application of concepts we learned when exploring the endocrine system in a previous chapter. The human male and female reproductive cycles are regulated by the interaction of hormones from the hypothalamus and anterior pituitary with hormones from reproductive tissues and organs. Detailed knowledge about sperm production and the ovarian and menstrual cycles is not within the scope for AP<sup>®</sup>, and you likely studied this information in a health class. Since the material in this section is practical and relevant, a brief review is helpful.</para>
+<para id="fs-id1167066153624" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 and Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167065866441" summary="Table with two columns and three rows. Column 1 Row 1: Essential Knowledge Column 2 Row 1: 2.C.1 Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes. Column 1 Row 2: Science Practice Column 2 Row 2: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Column 1 Row 3: Learning Objective Column 2 Row 3: 2.16 The student is able to connect how organisms use negative feedback to maintain their internal environments." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.C</emphasis></entry>
+<entry class="ost-standards-description">Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.C.1 </emphasis></span>
+<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch34-s04-aplo-2-16">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.16 </emphasis></span>
+<span class="ost-standards-description">The student is able to connect how organisms use negative feedback to maintain their internal environments.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.C.1 </emphasis></span>
+<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch34-s04-aplo-2-17">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.17 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate data that show the effect(s) of changes in concentration of key molecules on negative feedback mechanisms.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.D</emphasis></entry>
+<entry class="ost-standards-description">Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.D.2 </emphasis></span>
+<span class="ost-standards-description">Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch34-s04-aplo-3-34">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.34 </emphasis></span>
+<span class="ost-standards-description">The student is able to construct explanations of cell communication through cell-to-cell direct contact or through chemical signaling.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.D.2 </emphasis></span>
+<span class="ost-standards-description">Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
+<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch34-s04-aplo-3-35">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.35 </emphasis></span>
+<span class="ost-standards-description">The student is able to create representation(s) that depict how cell-to-cell communication occurs by direct contact or from a distance through chemical signaling.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table></section>
+<section id="fs-idp121831536" class="ost-tag-lo-apbio-ch34-s04-lo01 ost-tag-lo-apbio-ch34-s04-aplo-2-31 ost-tag-lo-apbio-ch34-s04-aplo-2-32 ost-get-exercise">
+<title>Male Hormones</title>
+<para id="fs-idp77886272">At the onset of puberty, the hypothalamus causes the release of <emphasis>follicle stimulating hormone (FSH)</emphasis> and <emphasis>luteinizing hormone (LH)</emphasis> into the male system for the first time. FSH enters the testes and stimulates the <emphasis>Sertoli cells</emphasis> to begin facilitating spermatogenesis using negative feedback, as illustrated in <link target-id="fig-ch43_04_01" document=""/>. LH also enters the testes and stimulates the <emphasis>interstitial cells of Leydig</emphasis> to make and release testosterone into the testes and the blood.</para>
+<para id="fs-idm108547280"><emphasis>Testosterone</emphasis>, the hormone responsible for the secondary sexual characteristics that develop in the male during adolescence, stimulates spermatogenesis. These secondary sex characteristics include a deepening of the voice, the growth of facial, axillary, and pubic hair, and the beginnings of the sex drive.</para>
+<figure id="fig-ch43_04_01" class="ost-tag-lo-apbio-ch34-s04-lo01 ost-tag-lo-apbio-ch34-s04-aplo-2-16 ost-tag-lo-apbio-ch34-s04-aplo-2-17"><media id="fs-idm112419456" alt="Hormonal control of the male reproductive system is mediated by the hypothalamus, anterior pituitary and testes. The hypothalamus releases GnRN, causing the anterior pituitary to release LH and FSH. FSH and LH both act on the testes. FSH stimulates the Sertoli cells in the testes to facilitate spermatogenesis and to secrete inhibin. LH causes the Leydig cells in the testes to secrete testosterone. Testosterone further stimulates spermatogenesis by the Sertoli cells, but inhibits GnRH, LH, and FSH production by the hypothalamus and anterior pituitary. Inhibin secreted by Sertoli cells also inhibits FSH and LH production by the anterior pituitary.">
+<image mime-type="image/jpg" src="../../media/Figure_43_04_01.jpg" width="575"/>
+</media>
+<caption>Hormones control sperm production in a negative feedback system.</caption></figure><para id="fs-idm49834240">A negative feedback system occurs in the male with rising levels of testosterone acting on the hypothalamus and anterior pituitary to inhibit the release of <emphasis>gonadotropin-releasing hormone (GnRH)</emphasis> , FSH, and LH. The Sertoli cells produce the hormone <emphasis>inhibin</emphasis>, which is released into the blood when the sperm count is too high. This inhibits the release of GnRH and FSH, which will cause spermatogenesis to slow down. If the sperm count reaches 20 million/ml, the Sertoli cells cease the release of inhibin, and the sperm count increases.</para>
+</section>
+<section id="fs-idm47116928" class="ost-tag-lo-apbio-ch34-s04-lo01 ost-tag-lo-apbio-ch34-s04-aplo-2-31 ost-tag-lo-apbio-ch34-s04-aplo-2-32 ost-get-exercise">
+<title>Female Hormones</title>
+<para id="fs-idp93525568">The control of reproduction in females is more complex. As with the male, the anterior pituitary hormones cause the release of the hormones FSH and LH. In addition, estrogens and progesterone are released from the developing follicles. <emphasis>Estrogen</emphasis> is the reproductive hormone in females that assists in endometrial regrowth, ovulation, and calcium absorption; it is also responsible for the secondary sexual characteristics of females. These include breast development, flaring of the hips, and a shorter period necessary for bone maturation. <emphasis>Progesterone</emphasis> assists in endometrial re-growth and inhibition of FSH and LH release.</para>
+<para id="fs-idm47697408">In females, FSH stimulates development of egg cells, called ova, which develop in structures called follicles. Follicle cells produce the hormone inhibin, which inhibits FSH production. LH also plays a role in the development of ova, induction of ovulation, and stimulation of estradiol and progesterone production by the ovaries. Estradiol and progesterone are steroid hormones that prepare the body for pregnancy. Estradiol produces secondary sex characteristics in females, while both estradiol and progesterone regulate the menstrual cycle.</para>
+<section id="fs-idp32933696" class="ost-tag-lo-apbio-ch34-s04-lo02 ost-tag-lo-apbio-ch34-s04-aplo-2-31 ost-tag-lo-apbio-ch34-s04-aplo-2-32 ost-tag-lo-apbio-ch34-s04-aplo-3-34">
+<title>The Ovarian Cycle and the Menstrual Cycle</title>
+<para id="fs-idp35768912">The <emphasis>ovarian cycle</emphasis> governs the preparation of endocrine tissues and release of eggs, while the <emphasis>menstrual cycle</emphasis> governs the preparation and maintenance of the uterine lining. These cycles occur concurrently and are coordinated over a 22–32 day cycle, with an average length of 28 days.</para>
+<para id="fs-idp108162320">The first half of the ovarian cycle is the follicular phase shown in <link target-id="CNX_AP_Bio_43_04_02" document=""/>. Slowly rising levels of FSH and LH cause the growth of follicles on the surface of the ovary. This process prepares the egg for ovulation. As the follicles grow, they begin releasing estrogens and a low level of progesterone. Progesterone maintains the endometrium to help ensure pregnancy. The trip through the fallopian tube takes about seven days. At this stage of development, called the morula, there are 30-60 cells. If pregnancy implantation does not occur, the lining is sloughed off. After about five days, estrogen levels rise and the menstrual cycle enters the proliferative phase. The endometrium begins to regrow, replacing the blood vessels and glands that deteriorated during the end of the last cycle.</para>
+<note id="fs-idp6751792" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
+<figure id="CNX_AP_Bio_43_04_02" class="ost-tag-lo-apbio-ch34-s04-lo01 ost-tag-lo-apbio-ch34-s04-lo02 ost-tag-lo-apbio-ch34-s04-aplo-2-16 ost-tag-lo-apbio-ch34-s04-aplo-2-17"><media id="fs-idp35680016" alt="Hormone levels during the follicular phase, ovulation, and the luteal phase are compared. During the follicular phase, LH and FSH secreted from the pituitary stimulate several follicles to grow. The follicles produce low levels of estradiol that inhibit GnRH secretion by the hypothalamus, keeping LH and FSH levels low. Low levels of estradiol also cause the endometrial arteries to constrict, resulting in menstruation. During the time leading up to ovulation, LH and FSH stimulate maturation of one of the follicles. The growing follicle begins to produce high levels of estradiol, which stimulates GnRH secretion by the hypothalamus. As a result, LH and FSH levels rise, resulting in ovulation about a day later. Estradiol also causes the endometrium to thicken. After ovulation, the ovarian cycle enters the luteal phase. LH from the pituitary stimulates growth of the corpus luteum from the ruptured follicle. The corpus luteum secretes estradiol and progesterone that block GnRH production by the hypothalamus and LH and FSH production by the pituitary. Estradiol and progesterone also cause the endometrium to further develop.">
+<image mime-type="image/png" src="../../media/CNX_AP_Bio_43_04_02.jpg" width="575"/>
+</media>
+<caption>The ovarian and menstrual cycles of female reproduction are regulated by hormones produced by the hypothalamus, pituitary, and ovaries.</caption></figure>
+<!--<para id="fs-idm12233456">Which of the following statements about hormone regulation of the female reproductive cycle is false?</para>
+<list id="fs-idp155836608" list-type="enumerated" number-style="lower-alpha">
+<item>LH and FSH are produced in the pituitary, and estradiol and progesterone are produced in the ovaries.</item>
+<item>Estradiol and progesterone secreted from the corpus luteum cause the endometrium to thicken.</item>
+<item>Both progesterone and estradiol are produced by the follicles.</item>
+<item>Secretion of  GnRH  by the hypothalamus is inhibited by low levels of estradiol but stimulated by high levels of estradiol.</item>
+</list>-->
+<exercise id="fs-id1167064911792" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167064937708">
+<para id="fs-id1167065897809">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex038"/>
+</para>
+</problem>
+</exercise>
+<!--<para><link target-id="fig-ch43_04_02" document=""/>C</para>-->
+</note><para id="fs-idp22451904">Just prior to the middle of the cycle (approximately day 14), the high level of estrogen causes FSH and especially LH to rise rapidly, then fall. The spike in LH causes <emphasis>ovulation</emphasis>: the most mature follicle, like that shown in <link target-id="fig-ch43_04_03" document=""/>, ruptures and releases its egg. The follicles that did not rupture degenerate and their eggs are lost. The level of estrogen decreases when the extra follicles degenerate.</para>
+<figure id="fig-ch43_04_03" class="ost-tag-lo-apbio-ch34-s04-lo01"><media id="fs-idm11084592" alt=" Micrograph shows a spherical egg growing on the surface of a tissue.">
+<image mime-type="image/jpg" src="../../media/Figure_43_04_03.jpg" width="235"/>
+</media>
+<caption>This mature egg follicle may rupture and release an egg. (credit: scale-bar data from Matt Russell)</caption></figure><para id="fs-idm95096192">Following ovulation, the ovarian cycle enters its luteal phase, illustrated in <link target-id="CNX_AP_Bio_43_04_02" document=""/> and the menstrual cycle enters its secretory phase, both of which run from about day 15 to 28. The luteal and secretory phases refer to changes in the ruptured follicle. The cells in the follicle undergo physical changes and produce a structure called a corpus luteum. The corpus luteum produces estrogen and progesterone. The progesterone facilitates the regrowth of the uterine lining and inhibits the release of further FSH and LH. The uterus is being prepared to accept a fertilized egg, should it occur during this cycle. The inhibition of FSH and LH prevents any further eggs and follicles from developing, while the progesterone is elevated. The level of estrogen produced by the corpus luteum increases to a steady level for the next few days.</para>
+<para id="fs-idm149795664">If no fertilized egg is implanted into the uterus, the corpus luteum degenerates and the levels of estrogen and progesterone decrease. The endometrium begins to degenerate as the progesterone levels drop, initiating the next menstrual cycle. The decrease in progesterone also allows the hypothalamus to send  GnRH  to the anterior pituitary, releasing FSH and LH and starting the cycles again. <link target-id="CNX_AP_Bio_43_04_03" document=""/> visually compares the ovarian and uterine cycles as well as the commensurate hormone levels.</para>
+<note id="fs-idp24150368" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
+<figure id="CNX_AP_Bio_43_04_03" class="ost-tag-lo-apbio-ch34-s04-lo02 ost-tag-lo-apbio-ch34-s04-aplo-3-35"><media id="fs-idm81435136" alt="The menstrual cycle encompasses both an ovarian cycle and a uterine cycle. The uterine cycle is divided into menstrual flow, the proliferative phase and the secretory phase. The ovarian cycle is separated into follicular and luteal phases. At day zero the uterine cycle enters the menstrual phase and the ovarian cycle enters the follicular phase. Menstruation begins, and the follicle inside the uterus begins to grow. The level of the pituitary hormone FSH rises slightly, while LH levels remain low. The levels of ovarian hormones estradiol and progesterone remain low. After menses the uterine cycle enters the proliferative phase and the follicle continues to grow. The level of the ovarian hormone estradiol begins to rapidly rise. Toward the end of the proliferative phase, levels of the pituitary hormones FSH and LH rise as well. Around day fourteen, just after the levels of estrogen, progesterone and estradiol reach their peak, ovulation occurs. The follicle ruptures, releasing the oocyte. The ovarian cycle enters the luteal phase. The follicle grows into a corpus luteum and then degenerates. The uterus enters the secretory phase. Progesterone levels increase and estradiol levels, which had dropped after ovulation, increase as well. Toward the end of the secretory phase estrogen and progesterone levels decrease, reaching their baseline levels around day 28. At this point menstruation begins.">
+<image mime-type="image/png" src="../../media/CNX_AP_Bio_43_04_03.jpg" width="380"/>
+</media>
+<caption>Rising and falling hormone levels result in progression of the ovarian and menstrual cycles. (credit: modification of work by Mikael Häggström)</caption></figure>
+<!--<para id="fs-idp70242864">Which of the following statements about the menstrual cycle is false?</para>
+<list id="fs-idp75411552" list-type="enumerated" number-style="lower-alpha">
+    <item>Progesterone levels rise during the luteal phase of the ovarian cycle and the secretory phase of the uterine cycle.</item>
+<item>Menstruation occurs just after LH and FSH levels peak.</item>
+<item>Menstruation occurs after progesterone levels drop.</item>
+<item>Estrogen levels rise before ovulation, while progesterone levels rise after.</item>
+</list>-->
+<!--<para><link target-id="fig-ch43_04_04" document=""/>B</para>-->
+<exercise id="fs-id1167062367493" class="os-exercise unnumbered ost-tag-lo-apbio-ch34-s04-aplo-2-31 ost-tag-lo-apbio-ch34-s04-aplo-2-32"><label/>
+<problem id="fs-id1167065898329">
+<para id="fs-id1167065838756">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex039"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<note id="fs-id1167065868045" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch34-s04-aplo-3-34 ost-tag-lo-apbio-ch34-s04-aplo-2-6">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065024188" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167065865926" class="unnumbered"><label/>
+<problem id="fs-id1167064775138"><para id="fs-id1167065696857">What are the major events in the ovarian cycle leading up to ovulation, and how are these events regulated by negative feedback mechanisms?</para></problem>
+</exercise>
+</note>
+<note id="fs-id1167065858842" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065973428">The question is an application of AP<sup>®</sup> Learning Objective 3.34 and Science Practice 6.2 and Learning Objective 2.16 and Science Practice 7.2 because students are explaining the roles of hormones in ovulation and the regulation of the ovarian cycle by negative feedback.</para>
+</note>
+</note>
+<section id="fs-idm128602736" class="ost-tag-lo-apbio-ch34-s04-lo03 ost-tag-lo-apbio-ch34-s04-aplo-2-31 ost-tag-lo-apbio-ch34-s04-aplo-2-32">
+<title>Menopause</title>
+<para id="fs-idp129033696">As women approach their mid-40s to mid-50s, their ovaries begin to lose their sensitivity to FSH and LH. Menstrual periods become less frequent and finally cease; this is <emphasis>menopause</emphasis>. There are still eggs and potential follicles on the ovaries, but without the stimulation of FSH and LH, they will not produce a viable egg to be released. The outcome of this is the inability to have children.</para>
+<para id="fs-idm107557984">The side effects of menopause include hot flashes, heavy sweating (especially at night), headaches, some hair loss, muscle pain, vaginal dryness, insomnia, depression, weight gain, and mood swings. Estrogen is involved in calcium metabolism and, without it, blood levels of calcium decrease. To replenish the blood, calcium is lost from bone which may decrease the bone density and lead to osteoporosis. Supplementation of estrogen in the form of hormone replacement therapy (HRT) can prevent bone loss, but the therapy can have negative side effects. While HRT is thought to give some protection from colon cancer, osteoporosis, heart disease, macular degeneration, and possibly depression, its negative side effects include increased risk of: stroke or heart attack, blood clots, breast cancer, ovarian cancer, endometrial cancer, gall bladder disease, and possibly dementia.</para>
+<note id="fs-idm28103312" class="career ost-feature ost-tag-lo-apbio-ch34-s04-aplo-3-34"><title>Reproductive Endocrinologist</title>
+<para id="fs-idp80057488">
+A reproductive endocrinologist is a physician who treats a variety of hormonal disorders related to reproduction and infertility in both men and women. The disorders include menstrual problems, infertility, pregnancy loss, sexual dysfunction, and menopause. Doctors may use fertility drugs, surgery, or assisted reproductive techniques (ART) in their therapy. ART involves the use of procedures to manipulate the egg or sperm to facilitate reproduction, such as <emphasis effect="italics">in vitro</emphasis> fertilization.</para>
+<para id="fs-idm74481808">Reproductive endocrinologists undergo extensive medical training, first in a four-year residency in obstetrics and gynecology, then in a three-year fellowship in reproductive endocrinology. To be board certified in this area, the physician must pass written and oral exams in both areas.</para>
+</note></section>
+</section>
+<section id="fs-idp77821904" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idm140781568">The male and female reproductive cycles are controlled by hormones released from the hypothalamus and anterior pituitary as well as hormones from reproductive tissues and organs. The hypothalamus monitors the need for the FSH and LH hormones made and released from the anterior pituitary. FSH and LH affect reproductive structures to cause the formation of sperm and the preparation of eggs for release and possible fertilization. In the male, FSH and LH stimulate Sertoli cells and interstitial cells of Leydig in the testes to facilitate sperm production. The Leydig cells produce testosterone, which also is responsible for the secondary sexual characteristics of males. In females, FSH and LH cause estrogen and progesterone to be produced. They regulate the female reproductive system which is divided into the ovarian cycle and the menstrual cycle. Menopause occurs when the ovaries lose their sensitivity to FSH and LH and the female reproductive cycles slow to a stop.</para>
+    </section>
+<!--<section id="fs-idp122316032" class="art-exercise"><title>Art Connections</title><exercise id="fs-idm152976656">
+    <problem id="fs-idm45356752">
+    <para id="fs-idp19923152"><link target-id="fig-ch43_04_02" document=""/> Which of the following statements about hormone regulation of the female reproductive cycle is false?</para>
+<list id="fs-idp94908672" list-type="enumerated" number-style="lower-alpha">
+    <item>LH and FSH are produced in the pituitary, and estradiol and progesterone are produced in the ovaries.</item>
+<item>Estradiol and progesterone secreted from the corpus luteum cause the endometrium to thicken.</item>
+<item>Both progesterone and estradiol are produced by the follicles.</item>
+<item>Secretion of  GnRH  by the hypothalamus is inhibited by low levels of estradiol but stimulated by high levels of estradiol.</item>
+</list>
+</problem>
+<solution id="fs-idp65316304">
+<label/>
+    <para id="fs-idm26794480"><link target-id="fig-ch43_04_02" document=""/> C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm52941392">
+    <problem id="fs-idp70233856">
+    <para id="fs-idm54721216"><link target-id="fig-ch43_04_04" document=""/> Which of the following statements about the menstrual cycle is false?</para>
+<list id="fs-idp22770992" list-type="enumerated" number-style="lower-alpha">
+    <item>Progesterone levels rise during the luteal phase of the ovarian cycle and the secretory phase of the uterine cycle.</item>
+<item>Menstruation occurs just after LH and FSH levels peak.</item>
+<item>Menstruation occurs after progesterone levels drop.</item>
+<item>Estrogen levels rise before ovulation, while progesterone levels rise after.</item></list>
+</problem>
+<solution id="fs-idm87900112">
+    <label/>
+    <para id="fs-idm45764128"><link target-id="fig-ch43_04_04" document=""/> B</para></solution>
+</exercise>
+</section><section id="fs-idm35503056" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp21199008">
+<problem id="fs-idp98847168"><para id="fs-idm63973888">Which hormone causes Leydig cells to make testosterone?</para>
+<list id="fs-idm235008592" list-type="enumerated" number-style="lower-alpha">
+<item>FSH</item>
+<item>LH</item>
+<item>inhibin</item>
+<item>estrogen</item>
+</list>
+</problem>
+<solution id="fs-idp22466784">
+<label/>
+<para id="fs-idm110252096">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm55845888">
+<problem id="fs-idm5061056"><para id="fs-idm15288224">Which hormone causes FSH and LH to be released?</para>
+<list id="fs-idm125430272" list-type="enumerated" number-style="lower-alpha">
+<item>testosterone</item>
+<item>estrogen</item>
+<item>GnRH</item>
+<item>progesterone</item>
+</list>
+</problem>
+<solution id="fs-idp44381456">
+<label/>
+<para id="fs-idp66700544">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm171491232">
+<problem id="fs-idm68165072"><para id="fs-idm62531728">Which hormone signals ovulation?</para>
+<list id="fs-idm42936768" list-type="enumerated" number-style="lower-alpha">
+<item>FSH</item>
+<item>LH</item>
+<item>inhibin</item>
+<item>estrogen</item>
+</list>
+</problem>
+<solution id="fs-idm134962400">
+<label/>
+<para id="fs-idp9471552">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm71478992">
+<problem id="fs-idm134911664"><para id="fs-idm81921360">Which hormone causes the re-growth of the endometrial lining of the uterus?</para>
+<list id="fs-idm24631456" list-type="enumerated" number-style="lower-alpha">
+<item>testosterone</item>
+<item>estrogen</item>
+<item>GnRH</item>
+<item>progesterone</item>
+</list>
+</problem>
+<solution id="fs-idm36439968">
+<label/>
+<para id="fs-idm71494256">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm54594480" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp120215168">
+<problem id="fs-idp65929904"><para id="fs-idp67055712">If male reproductive pathways are not cyclical, how are they controlled?</para></problem>
+<solution id="fs-idm42883632"><label/>
+<para id="fs-idm68351248">Negative feedback in the male system is supplied through two hormones: inhibin and testosterone. Inhibin is produced by Sertoli cells when the sperm count exceeds set limits. The hormone inhibits GnRH and FSH, decreasing the activity of the Sertoli cells. Increased levels of testosterone affect the release of both GnRH and LH, decreasing the activity of the Leydig cells, resulting in decreased testosterone and sperm production. </para>
+</solution>
+</exercise>
+<exercise id="fs-idm112725344">
+<problem id="fs-idm228611744"><para id="fs-idm61302048">Describe the events in the ovarian cycle leading up to ovulation.</para></problem>
+<solution id="fs-idm12075648"><label/>
+<para id="fs-idp14548448">Low levels of progesterone allow the hypothalamus to send GnRH to the anterior pituitary and cause the release of FSH and LH. FSH stimulates follicles on the ovary to grow and prepare the eggs for ovulation. As the follicles increase in size, they begin to release estrogen and a low level of progesterone into the blood. The level of estrogen rises to a peak, causing a spike in the concentration of LH. This causes the most mature follicle to rupture and ovulation occurs.</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167064589173" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167065741989" class="os-exercise">
+<problem id="fs-id1167064691793">
+<para id="fs-id1167064916606">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex040"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065884326" class="os-exercise">
+<problem id="fs-id1167064904201">
+<para id="fs-id1167062328903">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex041"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064945009" class="os-exercise">
+<problem id="fs-id1167066048216">
+<para id="fs-id1167065895288">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex042"/>
+</para>
+</problem>
+</exercise>
+<!--<exercise id="fs-id1167065972880" class="os-exercise">
+<problem id="fs-id1167065942371">
+<para id="fs-id1167065704724">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex043"/>
+</para>
+</problem>
+</exercise>-->
+<exercise id="fs-id1167065883387" class="os-exercise">
+<problem id="fs-id1167065952436">
+<para id="fs-id1167064894539">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex044"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065871530" class="os-exercise">
+<problem id="fs-id1167065713428">
+<para id="fs-id1167066051291">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex045"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167066000768" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167066097456" class="os-exercise">
+<problem id="fs-id1167066061298">
+<para id="fs-id1167065772962">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex046"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065800063" class="os-exercise">
+<problem id="fs-id1167065852486">
+<para id="fs-id1167064905115">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex047"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065704773" class="os-exercise">
+<problem id="fs-id1167065914491">
+<para id="fs-id1167062551086">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex048"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167066163113" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167064825001" class="os-exercise  ost-tag-lo-apbio-ch34-s04-aplo-2-16">
+<problem id="fs-id1167065913080">
+<para id="fs-id1167066094415">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex049"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064774283" class="os-exercise">
+<problem id="fs-id1167062941035">
+<para id="fs-id1167066165882">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex050"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064845390" class="os-exercise  ost-tag-lo-apbio-ch34-s04-aplo-2-17">
+<problem id="fs-id1167062806428">
+<para id="fs-id1167065958087">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex051"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065855783" class="os-exercise">
+<problem id="fs-id1167064818530">
+<para id="fs-id1167065882520">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex052"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066025180" class="os-exercise  ost-tag-lo-apbio-ch34-s04-aplo-3-34">
+<problem id="fs-id1167065789460">
+<para id="fs-id1167065947425">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex053"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065648755" class="os-exercise">
+<problem id="fs-id1167064616823">
+<para id="fs-id1167064906477">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex054"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065858565" class="os-exercise  ost-tag-lo-apbio-ch34-s04-aplo-3-35">
+<problem id="fs-id1167064749388">
+<para id="fs-id1167065857299">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex055"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066024258" class="os-exercise">
+<problem id="fs-id1167065030925">
+<para id="fs-id1167066041283">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex056"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062967276" class="os-exercise  ost-tag-lo-apbio-ch34-s04-aplo-2-31">
+<problem id="fs-id1167065877751">
+<para id="fs-id1167066188722">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex091"/>
+</para>
+</problem>
+</exercise>
+<!--<exercise id="fs-id1167066000919" class="os-exercise  ost-tag-lo-apbio-ch34-s04-aplo-2-23">
+<problem id="fs-id1167064982088">
+<para id="fs-id1167065912870">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex093"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065790608" class="os-exercise">
+<problem id="fs-id1167065985028">
+<para id="fs-id1167064749377">
+<link class="os-embed" url="#ost/api/ex/apbio-ch34-ex094"/>
+</para>
+</problem>
+</exercise>-->
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp103535424"><term>estrogen</term> <meaning id="fs-idm46625168">reproductive hormone in females that assists in endometrial regrowth, ovulation, and calcium absorption</meaning></definition>
+<definition id="fs-idm91310800"><term>follicle stimulating hormone (FSH)</term> <meaning id="fs-idp60039584">reproductive hormone that causes sperm production in men and follicle development in women</meaning></definition>
+<definition id="fs-idp87418896"><term>gonadotropin-releasing hormone (GnRH)</term> <meaning id="fs-idm134267072">hormone from the hypothalamus that causes the release of FSH and LH from the anterior pituitary</meaning></definition>
+<definition id="fs-idp61021872"><term>inhibin</term> <meaning id="fs-idm31579744">hormone made by Sertoli cells; provides negative feedback to hypothalamus in control of FSH and GnRH release</meaning></definition>
+<definition id="fs-idm133269584"><term>interstitial cell of Leydig</term> <meaning id="fs-idm27589360">cell in seminiferous tubules that makes testosterone</meaning></definition>
+<definition id="fs-idm110164992"><term>luteinizing hormone (LH)</term> <meaning id="fs-idm2207808">reproductive hormone in both men and women, causes testosterone production in men and ovulation and lactation in women</meaning></definition>
+<definition id="fs-idp5732384"><term>menopause</term> <meaning id="fs-idm113117712">loss of reproductive capacity in women due to decreased sensitivity of the ovaries to FSH and LH</meaning></definition>
+<definition id="fs-idm23279920"><term>menstrual cycle</term> <meaning id="fs-idm125436848">cycle of the degradation and re-growth of the endometrium</meaning></definition>
+<definition id="fs-idm30622720"><term>ovarian cycle</term> <meaning id="fs-idm21509312">cycle of preparation of egg for ovulation and the conversion of the follicle to the corpus luteum</meaning></definition>
+<definition id="fs-idp107153248"><term>ovulation</term> <meaning id="fs-idp98849872">release of the egg by the most mature follicle</meaning></definition>
+<definition id="fs-idp121615824"><term>progesterone</term> <meaning id="fs-idm139303744">reproductive hormone in women; assists in endometrial re-growth and inhibition of FSH and LH release</meaning></definition>
+<definition id="fs-idm74413920"><term>Sertoli cell</term> <meaning id="fs-idm18417568">cell in seminiferous tubules that assists developing sperm and makes inhibin</meaning></definition>
+<definition id="fs-idp15487712"><term>testosterone</term> <meaning id="fs-idm9996096">reproductive hormone in men that assists in sperm production and promoting secondary sexual characteristics</meaning></definition>
+</glossary>
+</document>

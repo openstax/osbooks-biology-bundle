@@ -1,0 +1,241 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Regulation of Hormone Production</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62971</md:content-id>
+  <md:title>Regulation of Hormone Production</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how hormone production is regulated</item>
+<item>Discuss the different stimuli that control hormone levels in the body</item>
+</list></md:abstract>
+  <md:uuid>e35df3a7-a26a-47b3-8f14-f87769b7793a</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167066972948" class="learning-objectives ost-tag-lo-apbio-ch28-s04-lo01">
+<para id="fs-id1167066825258">In this section, you will explore the following questions:</para>
+<list id="fs-id1167067103618">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch28-s04-lo01">How is hormone production regulated?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch28-s04-lo02">What are examples of different stimuli that control hormone levels in the body?</item>
+</list>
+</section>
+<section id="fs-id1167061706230" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167061617432">Hormone production and release are often controlled by <emphasis>negative feedback</emphasis> or <emphasis>positive feedback</emphasis>, although regulation by negative feedback is more common. In negative feedback, a stimulus elicits the release of a hormone that produces a response, and once the response reaches a certain level, it sends a signal that stops additional release of the hormone. In this way, the concentration of hormones in blood is maintained within a narrow range. For example, the anterior pituitary stimulates the thyroid gland to release thyroid hormones T<sub>3</sub> and T<sub>4</sub>. Increased levels of these hormones result in feedback to the hypothalamus and anterior pituitary to inhibit further signaling to the thyroid gland.</para>
+<para id="fs-id1167067214392" class="ost-reading-discard">Some hormones are regulated by positive feedback in which the response is amplified; an example of hormone regulation by positive feedback is the production of oxytocin during labor and childbirth as uterine contractions cause the production and release of more oxytocin. Disruptions in the mechanisms of feedback often result in deleterious consequences, such as diabetes mellitus resulting in decreased insulin production.</para>
+<para id="fs-id1167067021051" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167063756411" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.C.1 Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes. Second left cell reads: Science Practice. Second right cell reads: 6.1: The student can justify claims with evidence. Third left cell reads: Learning Objective. Third right cell reads: 2.15 The student can justify a claim made about the effect(s) on a biological system at the molecular, physiological or organism level when given a scenario in which one or more components within a negative regulatory system is altered." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.C</emphasis></entry>
+<entry class="ost-standards-description">Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-c-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.C.1 </emphasis></span>
+<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.1 </emphasis></span>
+<span class="ost-standards-description">The student can justify claims with evidence.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-15">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.15 </emphasis></span>
+<span class="ost-standards-description">The student can justify a claim made about the effect(s) on a biological system at the molecular, physiological or organism level when given a scenario in which one or more components within a negative regulatory system is altered.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+<para id="fs-idm63107616">Hormone production and release are primarily controlled by negative feedback. In negative feedback systems, a stimulus elicits the release of a substance; once the substance reaches a certain level, it sends a signal that stops further release of the substance. In this way, the concentration of hormones in blood is maintained within a narrow range. For example, the anterior pituitary signals the thyroid to release thyroid hormones. Increasing levels of these hormones in the blood then give feedback to the hypothalamus and anterior pituitary to inhibit further signaling to the thyroid gland, as illustrated in <link target-id="fig-ch37_04_01" document=""/>. There are three mechanisms by which endocrine glands are stimulated to synthesize and release hormones: humoral stimuli, hormonal stimuli, and neural stimuli.</para>
+<note id="fs-idm151695328" class="visual-connection ost-tag-lo-apbio-ch28-s04-lo01 ost-tag-lo-apbio-ch28-s04-lo02 ost-assessed-feature"><label>Visual Connection</label>
+<figure id="fig-ch37_04_01"><media id="fs-idm190917760" alt="The hypothalamus secretes thyrotropin-releasing hormone, which causes the anterior pituitary gland to secrete thyroid-stimulating hormone. Thyroid-stimulating hormone causes the thyroid gland to secrete the thyroid hormones T3 and T4, which increase metabolism, resulting in growth and development. In a negative feedback loop, T3 and T4 inhibit hormone secretion by the hypothalamus and pituitary, terminating the signal.">
+<image mime-type="image/png" src="../../media/Figure_37_04_01.png" width="280"/>
+</media>
+<caption>The anterior pituitary stimulates the thyroid gland to release thyroid hormones T<sub>3</sub> and T<sub>4</sub>. Increasing levels of these hormones in the blood results in feedback to the hypothalamus and anterior pituitary to inhibit further signaling to the thyroid gland. (credit: modification of work by Mikael Häggström)</caption></figure>
+<!--<para id="fs-idm203603168">Hyperthyroidism is a condition in which the thyroid gland is overactive. Hypothyroidism is a condition in which the thyroid gland is underactive. Which of the conditions are the following two patients most likely to have?</para>
+    <para id="fs-idm245544800">Patient A has symptoms including weight gain, cold sensitivity, low heart rate and fatigue.</para>
+<para id="fs-idm11446432">Patient B has symptoms including weight loss, profuse sweating, increased heart rate and difficulty sleeping.</para>-->
+<!--<para><link target-id="fig-ch37_04_01" document=""/>Patient A has symptoms associated with decreased metabolism, and may be suffering from hypothyroidism. Patient B has symptoms associated with increased metabolism, and may be suffering from hyperthyroidism.</para>-->
+<exercise id="fs-id1167063497635" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167066841417">
+<para id="fs-id1167067075917">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex045"/>
+</para>
+</problem>
+</exercise>
+</note><section id="fs-idm75946256" class="ost-tag-lo-apbio-ch28-s04-lo01 ost-tag-lo-apbio-ch28-s04-lo02 ost-get-exercise">
+<title>Humoral Stimuli</title>
+<para id="fs-idm194170224">The term “humoral” is derived from the term “humor,” which refers to bodily fluids such as blood. A <emphasis>humoral stimulus</emphasis> refers to the control of hormone release in response to changes in extracellular fluids such as blood or the ion concentration in the blood. For example, a rise in blood glucose levels triggers the pancreatic release of insulin. Insulin causes blood glucose levels to drop, which signals the pancreas to stop producing insulin in a negative feedback loop.</para>
+</section>
+<section id="fs-idp33858560" class="ost-tag-lo-apbio-ch28-s04-lo01 ost-tag-lo-apbio-ch28-s04-lo02 ost-get-exercise">
+<title>Hormonal Stimuli</title>
+<para id="fs-idm308644432"><emphasis>Hormonal stimuli</emphasis> refers to the release of a hormone in response to another hormone. A number of endocrine glands release hormones when stimulated by hormones released by other endocrine glands. For example, the hypothalamus produces hormones that stimulate the anterior portion of the pituitary gland. The anterior pituitary in turn releases hormones that regulate hormone production by other endocrine glands. The anterior pituitary releases the thyroid-stimulating hormone, which then stimulates the thyroid gland to produce the hormones T<sub>3</sub> and T<sub>4</sub>. As blood concentrations of T<sub>3</sub> and T<sub>4</sub> rise, they inhibit both the pituitary and the hypothalamus in a negative feedback loop.</para>
+</section>
+<section id="fs-idm229832800" class="ost-tag-lo-apbio-ch28-s04-lo01 ost-tag-lo-apbio-ch28-s04-lo02 ost-get-exercise">
+<title>Neural Stimuli</title>
+<para id="fs-idm153624816">In some cases, the nervous system directly stimulates endocrine glands to release hormones, which is referred to as <emphasis>neural stimuli</emphasis>. Recall that in a short-term stress response, the hormones epinephrine and norepinephrine are important for providing the bursts of energy required for the body to respond. Here, neuronal signaling from the sympathetic nervous system directly stimulates the adrenal medulla to release the hormones epinephrine and norepinephrine in response to stress.</para>
+</section>
+<note id="fs-id1167061706174" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch28-s04-aplo-2-15 ost-tag-lo-apbio-ch28-s04-aplo-2-16 ost-tag-lo-apbio-ch28-s04-aplo-2-18 ost-tag-lo-apbio-ch28-s04-aplo-2-20">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167067048735" class="ost-assignable ost-sciprac-activity">
+<para id="fs-id1167066946613">Create a visual representation to describe the regulation of blood sugar levels, growth spurts in teenagers, and events associated with labor and childbirth. Then explain how disruptions to these regulatory processes (e.g., failure to produce insulin) can affect homeostasis in the body.</para>
+</note>
+<note id="fs-id1167063928862" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167063634610">The activity is an application of AP<sup>®</sup> Learning Objectives 2.15, 2.16, 2.18, and 2.20 and Science Practices 6.1, 7.2, and 5.3 because students are asked to describe the regulation of hormone-controlled physiological processes based on negative and positive feedback mechanisms and how disruptions to these regulatory mechanisms can have adverse effects on the body.</para>
+</note>
+</note>
+<section id="fs-idm35861520" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idm53761088">Hormone levels are primarily controlled through negative feedback, in which rising levels of a hormone inhibit its further release. The three mechanisms of hormonal release are humoral stimuli, hormonal stimuli, and neural stimuli. Humoral stimuli refers to the control of hormonal release in response to changes in extracellular fluid levels or ion levels. Hormonal stimuli refers to the release of hormones in response to hormones released by other endocrine glands. Neural stimuli refers to the release of hormones in response to neural stimulation.</para>
+    </section>
+<!--<section id="fs-idp118107104" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idm135591200">
+    <problem id="fs-idm28564128">
+    <para id="fs-idm207418816"><link target-id="fig-ch37_04_01" document=""/> Hyperthyroidism is a condition in which the thyroid gland is overactive. Hypothyroidism is a condition in which the thyroid gland is underactive. Which of the conditions are the following two patients most likely to have?</para>
+<para id="fs-idm192489616">Patient A has symptoms including weight gain, cold sensitivity, low heart rate and fatigue.</para>
+<para id="fs-idm116901904">Patient B has symptoms including weight loss, profuse sweating, increased heart rate and difficulty sleeping.</para>
+</problem>
+<solution id="fs-idm17120448">
+    <label/>
+    <para id="fs-idm145438880"><link target-id="fig-ch37_04_01" document=""/> Patient A has symptoms associated with decreased metabolism, and may be suffering from hypothyroidism. Patient B has symptoms associated with increased metabolism, and may be suffering from hyperthyroidism.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm28682384" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp19901472">
+<problem id="fs-idm105967744"><para id="fs-idm77593920">A rise in blood glucose levels triggers release of insulin from the pancreas. This mechanism of hormone production is stimulated by:</para>
+<list id="fs-idm169271472" list-type="enumerated" number-style="lower-alpha">
+<item>humoral stimuli</item>
+<item>hormonal stimuli</item>
+<item>neural stimuli</item>
+<item>negative stimuli</item>
+</list>
+</problem>
+<solution id="fs-idm236313760">
+<label/>
+<para id="fs-idm71687984">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm120216224">
+<problem id="fs-idm181686592"><para id="fs-idm92075088">Which mechanism of hormonal stimulation would be affected if signaling and hormone release from the hypothalamus was blocked?</para>
+<list id="fs-idm175267472" list-type="enumerated" number-style="lower-alpha">
+<item>humoral and hormonal stimuli</item>
+<item>hormonal and neural stimuli</item>
+<item>neural and humoral stimuli</item>
+<item>hormonal and negative stimuli</item>
+</list>
+</problem>
+<solution id="fs-idm89513632">
+<label/>
+<para id="fs-idp5030656">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm201728608" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm197495200">
+<problem id="fs-idp72654608"><para id="fs-idm232570096">How is hormone production and release primarily controlled?</para></problem>
+<solution id="fs-idm223774464"><label/>
+<para id="fs-idm223781776">Hormone production and release are primarily controlled by negative feedback. In negative feedback systems, a stimulus causes the release of a substance whose effects then inhibit further release. In this way, the concentration of hormones in blood is maintained within a narrow range. For example, the anterior pituitary signals the thyroid to release thyroid hormones. Increasing levels of these hormones in the blood then feed back to the hypothalamus and anterior pituitary to inhibit further signaling to the thyroid gland.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm235970128">
+<problem id="fs-idm182164944"><para id="fs-idm115711392">Compare and contrast hormonal and humoral stimuli.</para></problem>
+<solution id="fs-idm145538736"><label/>
+<para id="fs-idm87574912">The term humoral is derived from the term humor, which refers to bodily fluids such as blood. Humoral stimuli refer to the control of hormone release in response to changes in extracellular fluids such as blood or the ion concentration in the blood. For example, a rise in blood glucose levels triggers the pancreatic release of insulin. Insulin causes blood glucose levels to drop, which signals the pancreas to stop producing insulin in a negative feedback loop.</para>
+<para id="fs-idm189840976">Hormonal stimuli refer to the release of a hormone in response to another hormone. A number of endocrine glands release hormones when stimulated by hormones released by other endocrine organs. For example, the hypothalamus produces hormones that stimulate the anterior pituitary. The anterior pituitary in turn releases hormones that regulate hormone production by other endocrine glands. For example, the anterior pituitary releases thyroid-stimulating hormone, which stimulates the thyroid gland to produce the hormones T<sub>3</sub> and T<sub>4</sub>. As blood concentrations of T<sub>3</sub> and T<sub>4</sub> rise they inhibit both the pituitary and the hypothalamus in a negative feedback loop.</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167066793636" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167067140419" class="os-exercise">
+<problem id="fs-id1167067045472">
+<para id="fs-id1167066940261">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex046"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063901273" class="os-exercise">
+<problem id="fs-id1167063721012">
+<para id="fs-id1167067021271">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex047"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067079056" class="os-exercise">
+<problem id="fs-id1167063740250">
+<para id="fs-id1167067210726">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex048"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066848725" class="os-exercise">
+<problem id="fs-id1167067070462">
+<para id="fs-id1167063570033">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex049"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166849954984" class="os-exercise">
+<problem id="eip-id1166849861131">
+<para id="eip-id1166847055438">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ot032"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167067215380" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167067300022" class="os-exercise">
+<problem id="fs-id1167067043892">
+<para id="fs-id1167063659303">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex050"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066803462" class="os-exercise">
+<problem id="fs-id1167063748656">
+<para id="fs-id1167063651917">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex051"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166847998553" class="os-exercise">
+<problem id="eip-id1166849797836">
+<para id="eip-id1166849263325">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ot036"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066837994" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167066974853" class="os-exercise  ost-tag-lo-apbio-ch28-s04-aplo-2-15">
+<problem id="fs-id1167067249037">
+<para id="fs-id1167067138836">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex052"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167061196655" class="os-exercise">
+<problem id="fs-id1167063693210">
+<para id="fs-id1167063582456">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex053"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166848920454" class="os-exercise">
+<problem id="eip-id1166848779942">
+<para id="eip-id1166851379436">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ot038"/>
+</para>
+</problem>
+</exercise></section> </content>
+<glossary>
+<definition id="fs-idm153653712"><term>hormonal stimuli</term> <meaning id="fs-idm241270288">release of a hormone in response to another hormone</meaning></definition>
+<definition id="fs-idm84399184"><term>humoral stimuli</term> <meaning id="fs-idm181621136">control of hormone release in response to changes in extracellular fluids such as blood or the ion concentration in the blood</meaning></definition>
+<definition id="fs-idp63459664"><term>neural stimuli</term> <meaning id="fs-idm271482400">stimulation of endocrine glands by the nervous system</meaning></definition>
+</glossary>
+</document>

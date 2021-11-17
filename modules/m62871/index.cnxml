@@ -1,0 +1,285 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Adaptive Evolution</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62871</md:content-id>
+  <md:title>Adaptive Evolution</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the different ways natural selection can shape populations</item>
+<item>Describe how these different forces can lead to different outcomes in terms of the population variation</item>
+</list></md:abstract>
+  <md:uuid>ebcd5acc-0d21-4513-a37d-e0d2c29182b5</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167067146749" class="learning-objectives ost-tag-lo-apbio-ch19-s03-aplo-1-2">
+<para id="fs-id1167066836795">In this section, you will explore the following questions:</para>
+<list id="fs-id1167067253550">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch19-s03-lo01">What are different ways in which natural selection can shape populations?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch19-s03-lo02">How can these different forces lead to different outcomes in terms of population variation?</item>
+</list>
+</section>
+<section id="fs-id1167067074389" class="ap-connection">
+<title>Connections for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167067148299">As we have learned, natural selection acts on the level of the individual, selecting those with a higher overall <emphasis>fitness</emphasis> (reproductive success) compared to the rest of the population. In other words, natural selection favors the most adaptive variation for a given environment. If the fit phenotypes are evolving in a stable environment, natural selection results in <emphasis>stabilizing selection</emphasis>, resulting in an overall decrease in the population’s variation. However, if environmental conditions change, <emphasis>directional selection</emphasis> shifts a population’s variance toward a new and more favorable phenotype. <emphasis>Diversifying selection</emphasis> results in increased variance by selecting for two or more distinct phenotypes.</para>
+<para id="fs-id1167067092645" class="ost-reading-discard">Sexual selection results when one sex has more reproductive success than the other; as a result, males and females experience different selective pressures, which often lead to distinct phenotypic differences, or <emphasis>sexual dimorphisms</emphasis>, between the two. For example, male birds often exhibit more colorful plumage than female birds of the same species.</para>
+<para id="fs-id1167067138478" class="ost-reading-discard">What is most important to recognize is that there is no perfect organism. Natural selection acts on existing variations in the population; it does not create anything from scratch. Although natural selection selects the fittest individuals, other forces of evolution, including genetic drift and gene flow, often introduce deleterious alleles to the population’s gene pool. Evolution has no purpose; it is simply the sum of various forces that influence the genetic and phenotypic variation of a population.</para>
+<para id="fs-id1167067174856" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167065670792" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.A.1 Natural selection is a major mechanism of evolution. Second left cell reads: Science Practice. Second right cell reads: 2.2 The student can apply mathematical routines to quantities that describe natural phenomena. 5.3 The student can evaluate the evidence provided by data sets in relation to a particular scientific question. Third left cell reads: Learning Objective. Third right cell reads: 1.2 The student is able to evaluate evidence provided by data to qualitatively and quantitatively investigate the role of natural selection in evolution." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.A</emphasis></entry>
+<entry class="ost-standards-description">Change in the genetic makeup of a population over time is evolution.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.1 </emphasis></span>
+<span class="ost-standards-description">Natural selection is  a major mechanism of evolution.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
+<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s03-aplo-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate evidence provided by data to qualitatively and quantitatively investigate the role of natural selection in evolution.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.2 </emphasis></span>
+<span class="ost-standards-description">Natural selection acts on phenotypic variations in populations.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s03-aplo-1-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.5 </emphasis></span>
+<span class="ost-standards-description">The student is able to connect evolutionary changes in a population over time to a change in the environment.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+<para id="fs-idp42444224">Natural selection only acts on the population’s heritable traits: selecting for beneficial alleles and thus increasing their frequency in the population, while selecting against deleterious alleles and thereby decreasing their frequency—a process known as <emphasis>adaptive evolution</emphasis>. Natural selection does not act on individual alleles, however, but on entire organisms. An individual may carry a very beneficial genotype with a resulting phenotype that, for example, increases the ability to reproduce (fecundity), but if that same individual also carries an allele that results in a fatal childhood disease, that fecundity phenotype will not be passed on to the next generation because the individual will not live to reach reproductive age. Natural selection acts at the level of the individual; it selects for individuals with greater contributions to the gene pool of the next generation, known as an organism’s <emphasis>evolutionary (Darwinian) fitness</emphasis>.</para>
+<para id="fs-idp53909200">Fitness is often quantifiable and is measured by scientists in the field. However, it is not the absolute fitness of an individual that counts, but rather how it compares to the other organisms in the population. This concept, called <emphasis>relative fitness</emphasis>, allows researchers to determine which individuals are contributing additional offspring to the next generation, and thus, how the population might evolve.</para>
+<para id="fs-idm20346704">There are several ways selection can affect population variation: stabilizing selection, directional selection, diversifying selection, frequency-dependent selection, and sexual selection. As natural selection influences the allele frequencies in a population, individuals can either become more or less genetically similar and the phenotypes displayed can become more similar or more disparate.</para>
+<section id="fs-idp51453168" class="ost-tag-lo-apbio-ch19-s03-lo01 ost-get-exercise">
+<title>Stabilizing Selection</title>
+<para id="fs-idm71611152">If natural selection favors an average phenotype, selecting against extreme variation, the population will undergo stabilizing selection (<link target-id="fig-ch19_03_01" document=""/>). In a population of mice that live in the woods, for example, natural selection is likely to favor individuals that best blend in with the forest floor and are less likely to be spotted by predators. Assuming the ground is a fairly consistent shade of brown, those mice whose fur is most closely matched to that color will be most likely to survive and reproduce, passing on their genes for their brown coat. Mice that carry alleles that make them a bit lighter or a bit darker will stand out against the ground and be more likely to fall victim to predation. As a result of this selection, the population’s genetic variance will decrease.</para>
+</section>
+<section id="fs-idp82225248" class="ost-tag-lo-apbio-ch19-s03-lo01 ost-get-exercise">
+<title>Directional Selection</title>
+<para id="fs-idp8647264">When the environment changes, populations will often undergo directional selection (<link target-id="fig-ch19_03_01" document=""/>), which selects for phenotypes at one end of the spectrum of existing variation. A classic example of this type of selection is the evolution of the peppered moth in eighteenth- and nineteenth-century England. Prior to the Industrial Revolution, the moths were predominately light in color, which allowed them to blend in with the light-colored trees and lichens in their environment. But as soot began spewing from factories, the trees became darkened, and the light-colored moths became easier for predatory birds to spot. Over time, the frequency of the melanic form of the moth increased because they had a higher survival rate in habitats affected by air pollution because their darker coloration blended with the sooty trees.</para>
+<para id="fs-id1164186867562">Scientist can observe directional selection. Suppose populations of rabbits that eat flowers is introduced into an environment with flowering plants. Once the flowers are eaten, the plants cannot reproduce. Over time, the height of the flowers will shift higher so that the rabbits cannot reach them <link target-id="ep-2"/>.</para><figure id="ep-2"><media id="fs-id1166173419340" alt="This diagram shows Frequency percent on the Y axis and Flower height, in centimeters, on the X axis. The graph is divided, vertically, into 7 bell curves, one for each Generation. From generation 1 to 7, the peak of the bell curve moves successively form the left side of the X-axis to near the right side.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Figure_19_03_04.jpg" width="400"/>
+</media>
+
+<caption>The introduction of small herbivores that eat flowers often results in directional selection for increased flower height.</caption></figure><note id="fs-idm20485536" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch19-s03-lo02"><label>Link to Learning</label>
+<para id="fs-idp53985472">In science, sometimes things are believed to be true, and then new information comes to light that changes our understanding. The story of the peppered moth is an example: the facts behind the selection toward darker moths have recently been called into question. Read this <link window="new" url="http://openstax.org/l/peppered_moths">article</link> to learn more.</para>
+<exercise id="fs-id1167067126907" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067227706">
+<para id="fs-id1167067206521">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex036"/>
+</para>
+</problem>
+</exercise>
+</note>
+</section>
+<section id="fs-idm20683040" class="ost-tag-lo-apbio-ch19-s03-lo01 ost-get-exercise">
+<title>Diversifying Selection</title>
+<para id="fs-idm43397440">Sometimes two or more distinct phenotypes can each have their advantages and be selected for by natural selection, while the intermediate phenotypes are, on average, less fit. Known as diversifying selection (<link target-id="fig-ch19_03_01" document=""/>), this is seen in many populations of animals that have multiple male forms. Large, dominant alpha males obtain mates by brute force, while small males can sneak in for furtive copulations with the females in an alpha male’s territory. In this case, both the alpha males and the “sneaking” males will be selected for, but medium-sized males, which can’t overtake the alpha males and are too big to sneak copulations, are selected against. Diversifying selection can also occur when environmental changes favor individuals on either end of the phenotypic spectrum. Imagine a population of mice living at the beach where there is light-colored sand interspersed with patches of tall grass. In this scenario, light-colored mice that blend in with the sand would be favored, as well as dark-colored mice that can hide in the grass. Medium-colored mice, on the other hand, would not blend in with either the grass or the sand, and would thus be more likely to be eaten by predators. The result of this type of selection is increased genetic variance as the population becomes more diverse.</para>
+<note id="fs-idp84835024" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch19-s03-lo02 ost-tag-lo-apbio-ch19-s03-aplo-1-5"><label>Visual Connection</label>
+<figure id="fig-ch19_03_01"><media id="fs-idm87381712" alt=" Part (a) shows a robin clutch size as an example of stabilizing selection. Robins typically lay four eggs. Larger clutches may result in malnourished chicks, while smaller clutches may result in no viable offspring. A wide bell curve indicates that, in the original population, there was a lot of variability in clutch size. Overlaying this wide bell curve is a narrow one that represents the clutch size after natural selection, which is much less variable. Part (b) shows moth color as an example of directional selection. Light-colored pepper moths are better camouflaged against a pristine environment, while dark-colored peppered moths are better camouflaged against a sooty environment. Thus, as the Industrial Revolution progressed in nineteenth-century England, the color of the moth population shifted from light to dark, an example of directional selection. A bell curve representing the original population and one representing the population after natural selection only slightly overlap. Part (c) shows rabbit coat color as an example of diversifying selection. In this hypothetical example, gray and Himalayan (gray and white) rabbits are better able to blend into their rocky environment than white ones. The original population is represented by a bell curve in which white is the most common coat color, while gray and Himalayan colors, on the right and left flank of the curve, are less common. After natural selection, the bell curve splits into two peaks, indicating gray and Himalayan coat color have become more common than the intermediate white coat color.">
+<image mime-type="image/png" src="../../media/Figure_19_03_01.png" width="380"/>
+</media>
+<caption>Different types of natural selection can impact the distribution of phenotypes within a population. In (a) stabilizing selection, an average phenotype is favored. In (b) directional selection, a change in the environment shifts the spectrum of phenotypes observed. In (c) diversifying selection, two or more extreme phenotypes are selected for, while the average phenotype is selected against.</caption></figure>
+<exercise id="fs-id1167067104156" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167063693303">
+<para id="fs-id1167067095724">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex037"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<section id="fs-idm17821200" class="ost-tag-lo-apbio-ch19-s03-lo01 ost-get-exercise">
+<title>Frequency-dependent Selection</title>
+<para id="fs-idm7463328">Another type of selection, called <emphasis>frequency-dependent selection</emphasis>, favors phenotypes that are either common (positive frequency-dependent selection) or rare (negative frequency-dependent selection). An interesting example of this type of selection is seen in a unique group of lizards of the Pacific Northwest. Male common side-blotched lizards come in three throat-color patterns: orange, blue, and yellow. Each of these forms has a different reproductive strategy: orange males are the strongest and can fight other males for access to their females; blue males are medium-sized and form strong pair bonds with their mates; and yellow males (<link target-id="fig-ch19_03_02" document=""/>) are the smallest, and look a bit like females, which allows them to sneak copulations. Like a game of rock-paper-scissors, orange beats blue, blue beats yellow, and yellow beats orange in the competition for females. That is, the big, strong orange males can fight off the blue males to mate with the blue’s pair-bonded females, the blue males are successful at guarding their mates against yellow sneaker males, and the yellow males can sneak copulations from the potential mates of the large, polygynous orange males.</para>
+<figure id="fig-ch19_03_02" class="ost-tag-lo-apbio-ch19-s03-lo01"><media id="fs-idp14849792" alt=" Photo shows a mottled green and brown lizard sitting on a rock.">
+<image mime-type="image/jpg" src="../../media/Figure_19_03_02-22c2.jpg" width="300"/>
+</media>
+<caption>A yellow-throated side-blotched lizard is smaller than either the blue-throated or orange-throated males and appears a bit like the females of the species, allowing it to sneak copulations. (credit: “tinyfroglet”/Flickr)</caption></figure><para id="fs-idp45143616">In this scenario, orange males will be favored by natural selection when the population is dominated by blue males, blue males will thrive when the population is mostly yellow males, and yellow males will be selected for when orange males are the most populous. As a result, populations of side-blotched lizards cycle in the distribution of these phenotypes—in one generation, orange might be predominant, and then yellow males will begin to rise in frequency. Once yellow males make up a majority of the population, blue males will be selected for. Finally, when blue males become common, orange males will once again be favored.</para>
+<para id="fs-idm47114896">Negative frequency-dependent selection serves to increase the population’s genetic variance by selecting for rare phenotypes, whereas positive frequency-dependent selection usually decreases genetic variance by selecting for common phenotypes.</para>
+</section>
+<section id="fs-idm46934208" class="ost-tag-lo-apbio-ch19-s03-lo01 ost-get-exercise">
+<title>Sexual Selection</title>
+<para id="fs-idm73992944">Males and females of certain species are often quite different from one another in ways beyond the reproductive organs. Males are often larger, for example, and display many elaborate colors and adornments, like the peacock’s tail, while females tend to be smaller and duller in decoration. Such differences are known as sexual dimorphisms (<link target-id="fig-ch19_03_03" document=""/>), which arise from the fact that in many populations, particularly animal populations, there is more variance in the reproductive success of the males than there is of the females. That is, some males—often the bigger, stronger, or more decorated males—get the vast majority of the total matings, while others receive none. This can occur because the males are better at fighting off other males, or because females will choose to mate with the bigger or more decorated males. In either case, this variation in reproductive success generates a strong selection pressure among males to get those matings, resulting in the evolution of bigger body size and elaborate ornaments to get the females’ attention. Females, on the other hand, tend to get a handful of selected matings; therefore, they are more likely to select more desirable males.</para><para id="fs-idp121832544">Sexual dimorphism varies widely among species, of course, and some species are even sex-role reversed. In such cases, females tend to have a greater variance in their reproductive success than males and are correspondingly selected for the bigger body size and elaborate traits usually characteristic of males.</para>
+<figure id="fig-ch19_03_03" class="ost-tag-lo-apbio-ch19-s03-lo02"><media id="fs-idm34911536" alt="The photo on the left shows a peacock with a bright blue body and flared tail feathers standing next to a brown, drab peahen. The middle photo shows a large female spider sitting on a web next to its male counterpart. The photo on the right shows a brightly colored male wood duck swimming next to a drab brown female.">
+<image mime-type="image/jpg" src="../../media/Figure_19_03_03abc.jpg" width="525"/>
+</media>
+<caption>Sexual dimorphism is observed in (a) peacocks and peahens, (b) <emphasis effect="italics">Argiope appensa</emphasis> spiders (the female spider is the large one), and in (c) wood ducks. (credit “spiders”: modification of work by “Sanba38”/Wikimedia Commons; credit “duck”: modification of work by Kevin Cole)</caption></figure><para id="fs-idm1746112">The selection pressures on males and females to obtain matings is known as sexual selection; it can result in the development of secondary sexual characteristics that do not benefit the individual’s likelihood of survival but help to maximize its reproductive success. Sexual selection can be so strong that it selects for traits that are actually detrimental to the individual’s survival. Think, once again, about the peacock’s tail. While it is beautiful and the male with the largest, most colorful tail is more likely to win the female, it is not the most practical appendage. In addition to being more visible to predators, it makes the males slower in their attempted escapes. There is some evidence that this risk, in fact, is why females like the big tails in the first place. The speculation is that large tails carry risk, and only the best males survive that risk: the bigger the tail, the more fit the male. This idea is known as the <emphasis>handicap principle</emphasis>.</para>
+<para id="fs-idp186257088">The <emphasis>good genes hypothesis</emphasis> states that males develop these impressive ornaments to show off their efficient metabolism or their ability to fight disease. Females then choose males with the most impressive traits because it signals their genetic superiority, which they will then pass on to their offspring. Though it might be argued that females should not be picky because it will likely reduce their number of offspring, if better males father more fit offspring, it may be beneficial. Fewer, healthier offspring may increase the chances of survival more than many, weaker offspring.</para>
+<note id="fs-idp67599536" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch19-s03-lo01 ost-tag-lo-apbio-ch19-s03-aplo-1-2">
+    <para id="fs-idm38145824">In 1915, biologist Ronald Fisher proposed another model of sexual selection: the <link window="new" url="http://openstax.org/l/sexual_select">Fisherian runaway model</link>, which suggests that selection of certain traits is a result of sexual preference.</para>
+<exercise id="fs-id1167067184157" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167066864468">
+<para id="fs-id1167067277017">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex038"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-idp32071072">In both the handicap principle and the good genes hypothesis, the trait is said to be an <emphasis>honest signal</emphasis> of the males’ quality, thus giving females a way to find the fittest mates— males that will pass the best genes to their offspring.</para>
+</section>
+<section id="fs-idm89975680">
+<title>No Perfect Organism</title>
+<para id="fs-idm97600992">Natural selection is a driving force in evolution and can generate populations that are better adapted to survive and successfully reproduce in their environments. But natural selection cannot produce the perfect organism. Natural selection can only select on existing variation in the population; it does not create anything from scratch. Thus, it is limited by a population’s existing genetic variance and whatever new alleles arise through mutation and gene flow.</para>
+<para id="fs-idp12810192">Natural selection is also limited because it works at the level of individuals, not alleles, and some alleles are linked due to their physical proximity in the genome, making them more likely to be passed on together (linkage disequilibrium). Any given individual may carry some beneficial alleles and some unfavorable alleles. It is the net effect of these alleles, or the organism’s fitness, upon which natural selection can act. As a result, good alleles can be lost if they are carried by individuals that also have several overwhelmingly bad alleles; likewise, bad alleles can be kept if they are carried by individuals that have enough good alleles to result in an overall fitness benefit.</para>
+<para id="fs-idm31132112">Furthermore, natural selection can be constrained by the relationships between different polymorphisms. One morph may confer a higher fitness than another, but may not increase in frequency due to the fact that going from the less beneficial to the more beneficial trait would require going through a less beneficial phenotype. Think back to the mice that live at the beach. Some are light-colored and blend in with the sand, while others are dark and blend in with the patches of grass. The dark-colored mice may be, overall, more fit than the light-colored mice, and at first glance, one might expect the light-colored mice be selected for a darker coloration. But remember that the intermediate phenotype, a medium-colored coat, is very bad for the mice—they cannot blend in with either the sand or the grass and are more likely to be eaten by predators. As a result, the light-colored mice would not be selected for a dark coloration because those individuals that began moving in that direction (began being selected for a darker coat) would be less fit than those that stayed light.</para>
+<para id="fs-idm140344384">Finally, it is important to understand that not all evolution is adaptive. While natural selection selects the fittest individuals and often results in a more fit population overall, other forces of evolution, including genetic drift and gene flow, often do the opposite: introducing deleterious alleles to the population’s gene pool. Evolution has no purpose—it is not changing a population into a preconceived ideal. It is simply the sum of the various forces described in this chapter and how they influence the genetic and phenotypic variance of a population.</para>
+</section>
+<note id="fs-id1167065703139" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch19-s03-aplo-1-2">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065887099" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167064900472" class="unnumbered"><label/>
+<problem id="fs-id1167062312191"><para id="fs-id1167062312192">In recent years, factories have been cleaner, and less soot is released into the environment. What impact do you think this has had on the distribution of moth color in the population?</para></problem></exercise>
+</note>
+<note id="fs-id1167065794937" class="os-teacher">
+<label>Teacher Support</label>
+<list id="fs-id1167066169804"><item>This question is an application of AP<sup>®</sup> Learning Objective 1.2 and Science Practices 2.2 and 5.3 and Learning Objective 1.5 and Science Practice 7.1 because, based on evidence, students are connecting evolutionary changes in a population by natural selection to environmental change.</item>
+<item>To further enrich this activity, use the peppered moth simulator located <link url="http://openstax.org/l/32simmoths">here</link>.</item>
+<item>Additional information on the controversial nature of Kettlewell’s findings can be found at the following sites:
+<list id="fs-id1167065067685">
+<item><link url="http://openstax.org/l/32ppmoth">The Panda’s Thumb</link></item>
+<item><link url="http://openstax.org/l/32moths">The Peppered Moth—An Update</link></item>
+<item><link url="http://openstax.org/l/32readmoth">Fine Tuning The Peppered Moth Paradigm</link></item></list></item>
+<item>With less soot in the environment, tree bark tends to be lighter in color. This change is a selective advantage for light-colored moths, which will be camouflaged from predators. Darker moths, on the other hand, will have a selective disadvantage based on their color contrast with the lighter bark, making them stand out visually to predators. Thus, the percentage of light-colored moths will increase while the percentage of dark-colored moths will decrease.</item>
+</list></note>
+</note>
+<section id="fs-idm63914224" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp165008704">Because natural selection acts to increase the frequency of beneficial alleles and traits while decreasing the frequency of deleterious qualities, it is adaptive evolution. Natural selection acts at the level of the individual, selecting for those that have a higher overall fitness compared to the rest of the population. If the fit phenotypes are those that are similar, natural selection will result in stabilizing selection, and an overall decrease in the population’s variation. Directional selection works to shift a population’s variance toward a new, fit phenotype, as environmental conditions change. In contrast, diversifying selection results in increased genetic variance by selecting for two or more distinct phenotypes.</para>
+<para id="fs-idp39120208">Other types of selection include frequency-dependent selection, in which individuals with either common (positive frequency-dependent selection) or rare (negative frequency-dependent selection) are selected for. Finally, sexual selection results from the fact that one sex has more variance in the reproductive success than the other. As a result, males and females experience different selective pressures, which can often lead to the evolution of phenotypic differences, or sexual dimorphisms, between the two.</para>
+</section>
+<section id="fs-id1167067146788" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title>
+<exercise id="fs-id1167067275378" class="os-exercise">
+<problem id="fs-id1167067111497">
+<para id="fs-id1167063642143">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex039"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063502336" class="os-exercise">
+<problem id="fs-id1167063475966">
+<para id="fs-id1167067238766">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex040"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067190266" class="os-exercise">
+<problem id="fs-id1167067204116">
+<para id="fs-id1167067266722">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex041"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063786097" class="os-exercise">
+<problem id="fs-id1167067114700">
+<para id="fs-id1167067180392">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex042"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167067098409" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title>
+<exercise id="fs-id1167067111744" class="os-exercise">
+<problem id="fs-id1167067099880">
+<para id="fs-id1167061193109">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex043"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063793117" class="os-exercise">
+<problem id="fs-id1167066966227">
+<para id="fs-id1167063599493">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex044"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166171551411" class="os-exercise">
+<problem id="fs-id1166173608182">
+<para id="fs-id1166171832177">A new predator invades the habitat of a population of field mice. Individuals with larger body size are easier for the predator to capture then individuals with smaller body size. Draw a histogram of body sizes with two plot lines, one showing the former population and another showing the new population that indicates how this population will likely evolve. On your histogram, also indicate what type of natural selection is occurring here.</para>
+</problem>
+<!--<solution id="fs-id1166168136128">
+<figure xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="fs-id1166168251944"><media id="fs-id1166162709857" alt="The figure is a frequency curve. The X-axis is labeled Body size. The Y-axis is labeled Frequency. There is a left-pointing arrow at the top of the figure labeled directional selection. There are two overlapping bell-shaped curves, one positioned to the left of the other one.">
+<image mime-type="image/jpeg" src="OSX_BiologyTEA_Figure_19_03_05.jpg"/>
+</media>
+
+</figure></solution>-->
+</exercise>
+<exercise id="fs-id1166173127929" class="os-exercise">
+<problem id="fs-id1166171681381">
+<para id="fs-id1166162713898">Quinine is an antimalarial drug that is used to treat malaria in the Western Hemisphere. Scientists have noticed that this drug has become less effective over time. Based on the data below, what type of selection is being exerted on the malaria population?</para>
+<figure id="fs-id1166173190887" class="unnumbered"><label/><media id="fs-id1166173499178" alt="The figure is a line graph. The x-axis has tick marks for 1976, 1980, 1984, 1988, 1992. The y-axis has tick marks for 0%, 20%, 40%, 60%, 80%, 100%. Four lines are shown. The first is labelled Mefloquine. From 1976 to 1984 it stays at 100%. Then the line gradually declines, reaching 70% in 1992.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Figure_19_03_03.jpg"/>
+</media>
+
+</figure></problem>
+<!--<solution id="fs-id1166171672113">
+<para id="fs-id1166173565690">Directional selection.</para>
+</solution>-->
+</exercise>
+</section>
+<section id="fs-id1167067261900" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167067273304" class="os-exercise">
+<problem id="fs-id1167066948583">
+<para id="fs-id1167066787364">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex045"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067045410" class="os-exercise">
+<problem id="fs-id1167063707287">
+<para id="fs-id1167063790414">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex046"/>
+</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm34018896"><term>adaptive evolution</term> <meaning id="fs-idp124035456">increase in frequency of beneficial alleles and decrease in deleterious alleles due to selection</meaning></definition>
+<definition id="fs-idm89415120"><term>directional selection</term> <meaning id="fs-idm72176368">selection that favors phenotypes at one end of the spectrum of existing variation</meaning></definition>
+<definition id="fs-idm34814160"><term>diversifying selection</term> <meaning id="fs-idp157594128">selection that favors two or more distinct phenotypes</meaning></definition>
+<definition id="fs-idp33453360"><term>evolutionary fitness</term> <meaning id="fs-idp34200224">(also, Darwinian fitness) individual’s ability to survive and reproduce</meaning></definition>
+<definition id="fs-id1167066963440"><term>fitness</term> <meaning id="fs-id1167067222734">measure of successful reproduction, the passing on alleles to the next generation</meaning></definition>
+<definition id="fs-idm77374592"><term>frequency-dependent selection</term> <meaning id="fs-idm67820992">selection that favors phenotypes that are either common (positive frequency-dependent selection) or rare (negative frequency-dependent selection)</meaning></definition>
+<definition id="fs-idp39115856"><term>good genes hypothesis</term> <meaning id="fs-idp82129936">theory of sexual selection that argues individuals develop impressive ornaments to show off their efficient metabolism or ability to fight disease</meaning></definition>
+<definition id="fs-idm88834880"><term>handicap principle</term> <meaning id="fs-idm100156048">theory of sexual selection that argues only the fittest individuals can afford costly traits</meaning></definition>
+<definition id="fs-idp190040320"><term>honest signal</term> <meaning id="fs-idm173989376">trait that gives a truthful impression of an individual’s fitness</meaning></definition>
+<definition id="fs-idm14238608"><term>relative fitness</term> <meaning id="fs-idp190704480">individual’s ability to survive and reproduce relative to the rest of the population</meaning></definition>
+<definition id="fs-idp89332592"><term>sexual dimorphism</term> <meaning id="fs-idp60242768">phenotypic difference between the males and females of a population</meaning></definition>
+<definition id="fs-idm34760944"><term>stabilizing selection</term> <meaning id="fs-idm77452832">selection that favors average phenotypes</meaning></definition>
+</glossary>
+</document>

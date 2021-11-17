@@ -1,0 +1,785 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Population Genetics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62870</md:content-id>
+  <md:title>Population Genetics</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the different types of variation in a population</item>
+<item>Explain why only heritable variation can be acted upon by natural selection</item>
+<item>Describe genetic drift and the bottleneck effect</item>
+<item>Explain how each evolutionary force can influence the allele frequencies of a population</item>
+</list></md:abstract>
+  <md:uuid>a63b0ddc-d732-44f4-908e-96ec850c934c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167061399130" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067019267">In this section, you will explore the following questions:</para>
+<list id="fs-id1167063416640">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch19-s02-lo01">What are the different types of variation in a population?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch19-s02-lo02">Why can only heritable variation be acted upon by natural selection?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch19-s02-lo03">How can genetic drift, the bottleneck effect, and the founder effect influence allele frequencies in a population?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch19-s02-lo04">How can gene flow, mutation, nonrandom mating, and environmental variance affect allele frequencies in a population?</item>
+</list>
+</section>
+<section id="fs-id1167067099724" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167066960401">Take a look at your classmates. Individuals of a population often display different phenotypes, or express different alleles of a particular gene. These differences are called <emphasis>polymorphisms</emphasis>. The distribution of phenotypes among individuals, known as <emphasis>population variation</emphasis>, is influenced by several factors, including the population’s genetic structure and the environment (<link target-id="fig-ch19_02_01" document=""/>). Understanding the sources of phenotypic variation is important for determining how a population will evolve in response to different evolutionary pressures. Only those variations that are encoded in an individual’s genes can be passed to its offspring and be a target of natural selection.</para>
+<figure id="fig-ch19_02_01" class="ost-tag-lo-apbio-ch19-s02-lo01"><media id="fs-idm54115200" alt=" This photo shows four kittens in a basket: two are gray, black, orange, and white, the third cat is orange and white, and the fourth cat is black.">
+<image mime-type="image/jpg" src="../../media/Figure_19_02_01.jpg" width="345"/>
+</media>
+<caption>The distribution of phenotypes in this litter of kittens illustrates population variation. (credit: Pieter Lanser)</caption></figure>
+<para id="fs-id1167067268913" class="ost-reading-discard">As you learn in the chapter that discusses the evolution and origin of species, natural selection works by selecting for phenotypes—and the alleles that determine them—that confer beneficial traits or behaviors. Deleterious qualities are selected against. Genetic drift stems from the chance occurrence that some individuals have more offspring than others and, thus, will pass on more of their genes to the next generation. Small and isolated populations are more susceptible to genetic drift. Natural events, such as wildfires or hurricanes, can magnify genetic drift when a large portion of the population is killed. Because a fire does not distinguish between the genotypes of various organisms, no particular genotype survives the fire better than another. Therefore, the genetic structure of the surviving population may be very different from the genetic structure of the original population. This is called the bottleneck effect. Another scenario in which populations might experience a strong influence of genetic drift occurs when some portion of the population leaves to start a new population in a new location or gets separated by a physical barrier of some kind. In this situation, those individuals are unlikely to be representative of the entire population, a phenomenon called the founder effect. Both the bottleneck effect and the founder effect reduce genetic variation within a population—and genetic variation is the basis for natural selection. When individuals leave or join a population, they carry their alleles with them, resulting in changes in the population’s allele frequencies. Allele frequencies also can change due to mutation in DNA and when individuals do not randomly mate with others; when an individual selects a mate based on phenotype, the genotype is also selected. In summary, any of these conditions can result in deviations from the Hardy–Weinberg equilibrium—and lead to the microevolution of a population.</para>
+<para id="fs-id1167064953042" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167063554133" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.A.1 Natural selection is a major mechanism of evolution. Second left cell reads: Science Practice. Second right cell reads: 2.2 The student can apply mathematical routines to quantities that describe natural phenomena. Third left cell reads: Learning Objective. Third right cell reads: 1.2 The student is able to evaluate evidence provided by data to qualitatively and quantitatively investigate the role of natural selection in evolution." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.A</emphasis></entry>
+<entry class="ost-standards-description">Change in the genetic makeup of a population over time is evolution.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.1</emphasis></span>
+<span class="ost-standards-description">Natural selection is a major mechanism of evolution.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
+<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s02-aplo-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate evidence provided by data to qualitatively and quantitatively investigate the role of natural selection in evolution.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.2 </emphasis></span>
+<span class="ost-standards-description">Natural selection acts on phenotypic variations in populations.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s02-aplo-1-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.3 </emphasis></span>
+<span class="ost-standards-description">The student is able to apply mathematical methods to data from a real or simulated population to predict what will happen to the population in the future.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.2 </emphasis></span>
+<span class="ost-standards-description">Natural selection acts on phenotypic variations in populations.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s02-aplo-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate data-based evidence that describes evolutionary changes in the genetic makeup of a population over time.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.3 </emphasis></span>
+<span class="ost-standards-description">Evolutionary change is also driven by random processes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s02-aplo-1-8">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.8 </emphasis></span>
+<span class="ost-standards-description">The student is able to make predictions about the effects of genetic drift, migration, and artificial selection on the genetic makeup of a population.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.3 </emphasis></span>
+<span class="ost-standards-description">Evolutionary change is also driven by random processes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representatives and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.1 </emphasis></span>
+<span class="ost-standards-description">The student can justify the selection of a mathematical routine to solve problems.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s02-aplo-1-6">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.6 </emphasis></span>
+<span class="ost-standards-description">The student is able to use data from mathematical models based on the Hardy–Weinberg equilibrium to analyze genetic drift and the effects of selection in the evolution of specific populations.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.3 </emphasis></span>
+<span class="ost-standards-description">Evolutionary change is also driven by random processes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.1 </emphasis></span>
+<span class="ost-standards-description">The student can justify the selection of a mathematical routine to solve problems.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s02-aplo-1-7">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.7 </emphasis></span>
+<span class="ost-standards-description">The student is able to justify data from mathematical models based on the Hardy–Weinberg equilibrium to analyze genetic drift and the effects of selection in the evolution of specific populations.</span>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table></section>
+<para id="fs-id1166848941772">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 1.1][APLO 1.3][APLO 1.4][APLO 1.8][APLO 1.23][APLO 1.24][APLO 1.25][APLO 1.6][APLO 1.7][APLO 1.22]</para><section id="fs-idp80873184" class="ost-tag-lo-apbio-ch19-s02-lo01 ost-get-exercise">
+<title>Genetic Variance</title>
+<para id="fs-idp51276304">Natural selection and some of the other evolutionary forces can only act on heritable traits, namely an organism’s genetic code. Because alleles are passed from parent to offspring, those that confer beneficial traits or behaviors may be selected for, while deleterious alleles may be selected against. Acquired traits, for the most part, are not heritable. For example, if an athlete works out in the gym every day, building up muscle strength, the athlete’s offspring will not necessarily grow up to be a body builder. If there is a genetic basis for the ability to run fast, on the other hand, this may be passed to a child.</para>
+<note id="fs-idp49678752" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch19-s01-lo02"><label>Link to Learning</label>
+<para id="fs-idm35464176">Before Darwinian evolution became the prevailing theory of the field, French naturalist Jean-Baptiste Lamarck theorized that acquired traits could, in fact, be inherited; while this hypothesis has largely been unsupported, scientists have recently begun to realize that Lamarck was not completely wrong. Visit this <link window="new" url="http://openstax.org/l/epigenetic">site</link> to learn more.</para>
+<exercise id="fs-id1167063504914" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067146875">
+<para id="fs-id1167067192861">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex016"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-idp81956544"><emphasis>Heritability</emphasis> is the fraction of phenotype variation that can be attributed to genetic differences, or genetic variance, among individuals in a population. The greater the hereditability of a population’s phenotypic variation, the more susceptible it is to the evolutionary forces that act on heritable variation.</para>
+<para id="fs-idm33908784">The diversity of alleles and genotypes within a population is called <emphasis>genetic variance</emphasis>. When scientists are involved in the breeding of a species, such as with animals in zoos and nature preserves, they try to increase a population’s genetic variance to preserve as much of the phenotypic diversity as they can. This also helps reduce the risks associated with <emphasis>inbreeding</emphasis>, the mating of closely related individuals, which can have the undesirable effect of bringing together deleterious recessive mutations that can cause abnormalities and susceptibility to disease. For example, a disease that is caused by a rare, recessive allele might exist in a population, but it will only manifest itself when an individual carries two copies of the allele. Because the allele is rare in a normal, healthy population with unrestricted habitat, the chance that two carriers will mate is low, and even then, only 25 percent of their offspring will inherit the disease allele from both parents. While it is likely to happen at some point, it will not happen frequently enough for natural selection to be able to swiftly eliminate the allele from the population, and as a result, the allele will be maintained at low levels in the gene pool. However, if a family of carriers begins to interbreed with each other, this will dramatically increase the likelihood of two carriers mating and eventually producing diseased offspring, a phenomenon known as <emphasis>inbreeding depression</emphasis>.</para>
+<para id="fs-idp75088976">Changes in allele frequencies that are identified in a population can shed light on how it is evolving. In addition to natural selection, there are other evolutionary forces that could be in play: genetic drift, gene flow, mutation, nonrandom mating, and environmental variances.</para>
+</section>
+<section id="fs-idp26534064" class="ost-tag-lo-apbio-ch19-s02-lo03 ost-tag-lo-apbio-ch19-s02-aplo-1-16 ost-tag-lo-apbio-ch19-s02-aplo-1-17 ost-get-exercise">
+<title>Genetic Drift</title>
+<para id="fs-idm78896048">The theory of natural selection stems from the observation that some individuals in a population are more likely to survive longer and have more offspring than others; thus, they will pass on more of their genes to the next generation. A big, powerful male gorilla, for example, is much more likely than a smaller, weaker one to become the population’s silverback, the pack’s leader who mates far more than the other males of the group. The pack leader will father more offspring, who share half of his genes, and are likely to also grow bigger and stronger like their father. Over time, the genes for bigger size will increase in frequency in the population, and the population will, as a result, grow larger on average. That is, this would occur if this particular <emphasis>selection pressure</emphasis>, or driving selective force, were the only one acting on the population. In other examples, better camouflage or a stronger resistance to drought might pose a selection pressure.</para>
+<para id="fs-idm30526416">Another way a population’s allele and genotype frequencies can change is genetic drift (<link target-id="fig-ch19_02_02" document=""/>), which is simply the effect of chance. By chance, some individuals will have more offspring than others—not due to an advantage conferred by some genetically-encoded trait, but just because one male happened to be in the right place at the right time (when the receptive female walked by) or because the other one happened to be in the wrong place at the wrong time (when a fox was hunting).</para>
+
+
+<note id="fs-idm21195008" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch19-s02-lo03 ost-tag-lo-apbio-ch19-s02-aplo-1-6 ost-tag-lo-apbio-ch19-s02-aplo-1-7"><label>Visual Connection</label>
+<para id="fs-idm91336928"><figure id="fig-ch19_02_02"><media id="fs-idp67330832" alt=" A population has 10 rabbits. 2 of these rabbits are homozygous dominant for the B allele and have brown coat color. 6 are heterozygous and also have brown coat color. Two are homozygous recessive and have white coat color. The frequency of the capital B allele, p, is .5 and the frequency of the small b allele, q, is also .5.Only 5 of the rabbits, including 2 homozygous dominant and 3 heterozygous individuals, produce offspring. 5 of the resulting offspring are homozygous dominant, 4 are heterozygous, and 1 is homozygous recessive. The frequency of alleles in the second generation is p=.7 and q=.3. Only 2 rabbits in the second generation produce offspring, and both of these are homozygous dominant. As a result, the recessive small b allele is lost in the third generation, and all of the rabbits are heterozygous dominant with brown coat color.">
+<image mime-type="image/png" src="../../media/Figure_19_02_02.png" width="275"/>
+</media>
+<caption>Genetic drift occurs when the gene frequency of a population shifts by random chance (i.e. without a selective pressure). Over time, genetic drift can completely eliminate an allele from the population. For example, in the first generation here, the two alleles <emphasis effect="italics">B</emphasis> and <emphasis effect="italics">b</emphasis> occur with equal frequency, so <emphasis effect="italics">p</emphasis> = <emphasis effect="italics">q</emphasis> = 0.5. If only half the individuals reproduce, and by chance most of the reproducing alleles of are of <emphasis effect="italics">B</emphasis>, then the second generation results in <emphasis effect="italics">p</emphasis> = 0.7 and <emphasis effect="italics">q</emphasis> = 0.3. In the second generation, only two individuals, both of whom are homozygote in <emphasis effect="italics">B</emphasis>, reproduce. This leads to a loss of <emphasis effect="italics">b</emphasis> from the third generation.</caption></figure></para>
+<para id="fs-id1166174605411">As seen from the table, the frequency of the <emphasis effect="italics">b</emphasis> allele is reduced as a percentage of the population due to genetic drift.</para>
+<table id="fs-id1164190516644" summary="The table has four columns. From left to right the titles of the header row are: Generation, Individuals with Genotype uppercase B uppercase B, Individuals with Genotype Uppercase B lowercase b, Individuals with genotype lowercase b lowercase b. From left to right, Row 1: 1, 22, 53, 25. Row 2: 22, 108, 118, 25. Row 3: 3, 633, 0, 0.">
+    <tgroup cols="4">
+<thead>
+<row>
+<entry>Generation</entry>
+<entry>Individuals with genotype <emphasis effect="italics">BB</emphasis></entry>
+<entry>Individuals with genotype <emphasis effect="italics">Bb</emphasis></entry>
+<entry>Individuals with genotype <emphasis effect="italics">bb</emphasis></entry>
+</row>
+</thead>
+        <tbody>
+
+            <row>
+<entry>1</entry>
+<entry>22</entry>
+<entry>53</entry>
+<entry>25</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>108</entry>
+<entry>118</entry>
+<entry>25</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>633</entry>
+<entry>0</entry>
+<entry>0</entry>
+</row>
+        </tbody>
+    </tgroup>
+<caption>Genotypic frequencies of rabbit populations undergoing genetic drift</caption>
+</table>
+
+
+<exercise id="fs-id1167063485167" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167061174903">
+<para id="fs-id1167067174751">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex017"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-idm18731200">Small populations are more susceptible to the forces of genetic drift. Large populations, on the other hand, are buffered against the effects of chance. If one individual of a population of 10 individuals happens to die at a young age before it leaves any offspring to the next generation, all of its genes—1/10 of the population’s gene pool—will be suddenly lost. In a population of 100, that’s only 1 percent of the overall gene pool; therefore, it is much less impactful on the population’s genetic structure.</para>
+<note id="fs-idp1983504" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch19-s02-lo03 ost-tag-lo-apbio-ch19-s02-aplo-1-2 ost-tag-lo-apbio-ch19-s02-aplo-1-6 ost-tag-lo-apbio-ch19-s02-aplo-1-7"><label>Link to Learning</label>
+<para id="fs-idm45931344">Go to this <link window="new" url="http://openstax.org/l/genetic_drift">site</link> to watch an animation of random sampling and genetic drift in action.</para>
+<exercise id="fs-id1167063557778" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167061242884">
+<para id="fs-id1167067201151">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex018"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-idp4080576">Genetic drift can also be magnified by natural events, such as a natural disaster that kills—at random—a large portion of the population. Known as the bottleneck effect, it results in a large portion of the genome suddenly being wiped out (<link target-id="fig-ch19_02_03" document=""/>). In one fell swoop, the genetic structure of the survivors becomes the genetic structure of the entire population, which may be very different from the pre-disaster population.</para>
+<figure id="fig-ch19_02_03" class="ost-tag-lo-apbio-ch19-s02-lo03"><media id="fs-idp51184464" alt="This illustration shows a narrow-neck bottle filled with red, orange, and green marbles. The bottle is tipped so the marbles pour into a glass. Because of the bottleneck, only seven marbles escape, and these are all orange and green. The marbles in the bottle represent the original population, and the marbles in the glass represent the surviving population. Because of the bottleneck effect, the surviving population is less diverse than the original population.">
+<image mime-type="image/jpg" src="../../media/Figure_19_02_03-b234.jpg" width="300"/>
+</media>
+<caption>A chance event or catastrophe can reduce the genetic variability within a population.</caption></figure><para id="fs-idm47030080">Another scenario in which populations might experience a strong influence of genetic drift is if some portion of the population leaves to start a new population in a new location or if a population gets divided by a physical barrier of some kind. In this situation, those individuals are unlikely to be representative of the entire population, which results in the founder effect. The founder effect occurs when the genetic structure changes to match that of the new population’s founding fathers and mothers. The founder effect is believed to have been a key factor in the genetic history of the Afrikaner population of Dutch settlers in South Africa, as evidenced by mutations that are common in Afrikaners but rare in most other populations. This is likely due to the fact that a higher-than-normal proportion of the founding colonists carried these mutations. As a result, the population expresses unusually high incidences of Huntington’s disease (HD) and Fanconi anemia (FA), a genetic disorder known to cause blood marrow and congenital abnormalities.</para>
+<note id="fs-idp75130400" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch19-s02-lo03"><label>Link to Learning</label>
+
+    <para id="fs-idp29188400">Watch this short <link window="new" url="http://openstax.org/l/founder_bottle">video</link> to learn more about the founder and bottleneck effects.</para>
+<exercise id="fs-id1167067253372" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067093020">
+<para id="fs-id1167063891846">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex019"/>
+</para>
+</problem>
+</exercise>
+</note>
+<note id="fs-idp50278960" class="scientific ost-feature ost-tag-lo-apbio-ch19-s02-lo03 ost-tag-lo-apbio-ch19-s02-aplo-1-2 ost-tag-lo-apbio-ch19-s02-aplo-1-4"><title>Testing the Bottleneck Effect</title>
+<para id="fs-idp53661840"><emphasis>Question:</emphasis> How do natural disasters affect the genetic structure of a population?</para>
+<para id="fs-idm87802752"><emphasis>Background:</emphasis> When much of a population is suddenly wiped out by an earthquake or hurricane, the individuals that survive the event are usually a random sampling of the original group. As a result, the genetic makeup of the population can change dramatically. This phenomenon is known as the bottleneck effect.</para>
+<para id="fs-idm37862240"><emphasis>Hypothesis: </emphasis>Repeated natural disasters will yield different population genetic structures; therefore, each time this experiment is run, the results will vary.</para>
+<para id="fs-idp6716496"><emphasis>Test the hypothesis: </emphasis>Count out the original population using different colored beads. For example, red, blue, and yellow beads might represent red, blue, and yellow individuals. After recording the number of each individual in the original population, place them all in a bottle with a narrow neck that will only allow a few beads out at a time. Then, pour 1/3 of the bottle’s contents into a bowl. This represents the surviving individuals after a natural disaster kills a majority of the population. Count the number of the different colored beads in the bowl, and record it. Then, place all of the beads back in the bottle and repeat the experiment four more times.</para>
+<para id="fs-idp107504240"><emphasis>Analyze the data: </emphasis>Compare the five populations that resulted from the experiment. Do the populations all contain the same number of different colored beads, or do they vary? Remember, these populations all came from the same exact parent population.</para>
+<para id="fs-idm37584880"><emphasis>Form a conclusion: </emphasis>Most likely, the five resulting populations will differ quite dramatically. This is because natural disasters are not selective—they kill and spare individuals at random. Now think about how this might affect a real population. What happens when a hurricane hits the Mississippi Gulf Coast? How do the seabirds that live on the beach fare?</para>
+</note>
+</section>
+<section id="fs-idm51545568" class="ost-tag-lo-apbio-ch19-s02-lo04 ost-get-exercise">
+<title>Gene Flow</title>
+<para id="fs-idm31935728">Another important evolutionary force is <emphasis>gene flow</emphasis>: the flow of alleles in and out of a population due to the migration of individuals or gametes (<link target-id="fig-ch19_02_04" document=""/>). While some populations are fairly stable, others experience more flux. Many plants, for example, send their pollen far and wide, by wind or by bird, to pollinate other populations of the same species some distance away. Even a population that may initially appear to be stable, such as a pride of lions, can experience its fair share of immigration and emigration as developing males leave their mothers to seek out a new pride with genetically unrelated females. This variable flow of individuals in and out of the group not only changes the gene structure of the population, but it can also introduce new genetic variation to populations in different geological locations and habitats.</para>
+<para id="fs-idp4472544">
+<figure id="fig-ch19_02_04" class="ost-tag-lo-apbio-ch19-s02-lo04 ost-tag-lo-apbio-ch19-s02-aplo-1-4"><media id="fs-idp97522656" alt="This illustration shows an individual from a population of brown insects traveling toward a population of green insects.">
+<image mime-type="image/jpg" src="../../media/Figure_19_02_04.jpg" width="365"/>
+</media>
+<caption>Gene flow can occur when an individual travels from one geographic location to another.</caption></figure></para>
+</section>
+<section id="fs-idm72311744" class="ost-tag-lo-apbio-ch19-s02-lo04 ost-get-exercise">
+<title>Mutation</title>
+<para id="fs-idp60262576">Mutations are changes to an organism’s DNA and are an important driver of diversity in populations. Species evolve because of the accumulation of mutations that occur over time. The appearance of new mutations is the most common way to introduce novel genotypic and phenotypic variance. Some mutations are unfavorable or harmful and are quickly eliminated from the population by natural selection. Others are beneficial and will spread through the population. Whether or not a mutation is beneficial or harmful is determined by whether it helps an organism survive to sexual maturity and reproduce. Some mutations do not do anything and can linger, unaffected by natural selection, in the genome. Some can have a dramatic effect on a gene and the resulting phenotype.</para>
+</section>
+<section id="fs-idm32899104" class="ost-tag-lo-apbio-ch19-s02-lo04 ost-tag-lo-apbio-ch19-s02-aplo-1-6 ost-tag-lo-apbio-ch19-s02-aplo-1-7 ost-get-exercise">
+<title>Nonrandom Mating</title>
+<para id="fs-idm81332000">If individuals nonrandomly mate with their peers, the result can be a changing population. There are many reasons <emphasis>nonrandom mating</emphasis> occurs. One reason is simple mate choice; for example, female peahens may prefer peacocks with bigger, brighter tails. Traits that lead to more matings for an individual become selected for by natural selection. One common form of mate choice, called <emphasis>assortative mating</emphasis>, is an individual’s preference to mate with partners who are phenotypically similar to themselves.</para>
+<para id="fs-idm89683824">Another cause of nonrandom mating is physical location. This is especially true in large populations spread over large geographic distances where not all individuals will have equal access to one another. Some might be miles apart through woods or over rough terrain, while others might live immediately nearby.</para>
+</section>
+<section id="fs-idp25218480" class="ost-tag-lo-apbio-ch19-s02-lo04 ost-tag-lo-apbio-ch19-s02-aplo-1-6 ost-tag-lo-apbio-ch19-s02-aplo-1-7 ost-get-exercise">
+<title>Environmental Variance</title>
+<para id="fs-idm72231696">Genes are not the only players involved in determining population variation. Phenotypes are also influenced by other factors, such as the environment (<link target-id="fig-ch19_02_05" document=""/>). For example, sun exposure is an environmental factor, as a person who spends more time in the sun will likely have darker skin than a person who spends most of their time indoors (assuming both people had similarly-colored skin to start with). Some major characteristics, such as sex, are determined by the environment for some species. For example, some turtles and other reptiles have temperature-dependent sex determination (TSD). TSD means that individuals develop into males if their eggs are incubated within a certain temperature range, or females at a different temperature range.</para><figure id="fig-ch19_02_05" class="ost-tag-lo-apbio-ch19-s02-lo04"><media id="fs-idp155463248" alt="This photo shows a person holding a baby alligator.">
+<image mime-type="image/jpg" src="../../media/Figure_19_02_05.jpg" width="345"/>
+</media>
+<caption>The sex of the American alligator (<emphasis effect="italics">Alligator mississippiensis</emphasis>) is determined by the temperature at which the eggs are incubated. Eggs incubated at 30°C produce females, and eggs incubated at 33°C produce males. (credit: Steve Hillebrand, USFWS)</caption></figure>
+<para id="fs-idm85899280">Geographic separation between populations can lead to differences in the phenotypic variation between those populations. Such <emphasis>geographical variation</emphasis> is seen between most populations and can be significant. One type of geographic variation, called a <emphasis>cline</emphasis>, can be seen as populations of a given species vary gradually across an ecological gradient. Species of warm-blooded animals, for example, tend to have larger bodies in the cooler climates closer to the earth’s poles, allowing them to better conserve heat. This is considered a latitudinal cline. Alternatively, flowering plants tend to bloom at different times depending on where they are along the slope of a mountain, known as an altitudinal cline.</para>
+<para id="fs-idm137166592">If there is gene flow between the populations, the individuals will likely show gradual differences in phenotype along the cline. Restricted gene flow, on the other hand, can lead to abrupt differences, even speciation.</para>
+</section>
+<note id="fs-id1167067106776" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch19-s01-aplo-1-3 ost-tag-lo-apbio-ch19-s01-aplo-1-4">
+<label>Science Practices Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167061307544" class="ost-assignable ost-sciprac-lab">
+<label/><title>Lab Investigation</title>
+<para id="fs-id1167067303179"><emphasis effect="italics">AP<sup>®</sup> Biology Investigative Labs: Inquiry-Based Approach, Investigation 1: Artificial Selection</emphasis>. Using Wisconsin Fast Plants, you explore evolution by conducting an artificial selection investigation to increase or decrease genetic variation in a population and then determine if extreme selection can change the expression of a quantitative trait.</para>
+</note>
+<note id="fs-id1167061325727" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167067013526" class="unnumbered"><label/>
+<problem id="fs-id1167063515268">
+<list id="fs-id1167066036965">
+<item>Do you think genetic drift would happen more quickly on an island or on the mainland? Provide reasoning for your answer.</item>
+<item>Consider the population of red and blue flowers you analyzed in Section 1 to determine if they were undergoing microevolution. Recall that you counted 600 blue flowers and 200 red flowers.</item>
+<item>Imagine that you return four years after your initial visit, and the flowers at the site have been split into two different populations by a newly formed river, which isolates the two populations. In the population 1, you counted 125 blue flowers and 10 red flowers. In the population 2, you counted 450 blue flowers and 300 red flowers. Did genetic drift or natural selection likely cause these change in allele frequencies in population 1? What about population 2? Explain how you know for each population.</item>
+</list>
+</problem>
+</exercise>
+</note>
+<note id="fs-id1167067226799" class="os-teacher">
+<label>Teacher Support</label>
+<list id="fs-id1167067100668">
+<item>The lab investigation is an application of AP<sup>®</sup> Learning Objective 1.8 and Science Practice 6.4 because students are investigating the effect(s) of artificial selection on the genetic makeup of a population.</item>
+<item>The first Think About It question is an application AP<sup>®</sup> Learning Objective 1.8 and Science Practice 6.4 because students are making a prediction about the effect of genetic drift on the genetic makeup of a population, and the factors that influence the effects of genetic drift.</item>
+<item>First think about it question answer: Genetic drift is more likely on an island because of the founder effect. New island populations are often started by specific individuals of an original population, carrying gene frequencies different from those of the parent population. This causes genetic drift.</item>
+<item>Second Think About It Answers: In the first visit, it was determined that 200 out of 800 flowers had the recessive homozygous phenotype. Therefore, q<sup>2</sup>=0.25 and q = 0.5. For the first population, 10 out of 135 flowers were red. Therefore, q = 0.27. If bees were selecting for red flowers, the frequency of red flowers should increase, not decrease. Therefore, this evolutionary change in population 1 was likely caused by genetic drift. In the second population, 300 out of 750 flowers were red. Therefore, q=0.63 and p=0.37. This indicates that the frequency of the recessive allele q, which causes red coloration, is increasing, and is consistent with the hypothesis that red flowers are being selected for by bees.</item>
+<item>The second Think About It questions are applications AP<sup>®</sup> Learning Objective 1.6 and Science Practices 1.4 and 2.1, and Learning Objective 1.7 and Science Practice 2.1, because students are using data sets that require the use of the Hardy–Weinberg equation to justify if genetic drift or selection is involved in the evolution of specific populations.</item>
+</list>
+</note>
+</note>
+<section id="fs-idp5325056" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idm33275472">Both genetic and environmental factors can cause phenotypic variation in a population. Different alleles can confer different phenotypes, and different environments can also cause individuals to look or act differently. Only those differences encoded in an individual’s genes, however, can be passed to its offspring and, thus, be a target of natural selection. Natural selection works by selecting for alleles that confer beneficial traits or behaviors, while selecting against those for deleterious qualities. Genetic drift stems from the chance occurrence that some individuals in the germ line have more offspring than others. When individuals leave or join the population, allele frequencies can change as a result of gene flow. Mutations to an individual’s DNA may introduce new variation into a population. Allele frequencies can also be altered when individuals do not randomly mate with others in the group.</para>
+    </section>
+
+<section id="fs-id1167066953843" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title>
+<exercise id="fs-id1167067106531" class="os-exercise">
+<problem id="fs-id1167063424601">
+<para id="fs-id1167066852122">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex020"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067013864" class="os-exercise">
+<problem id="fs-id1167063675126">
+<para id="fs-id1167067006963">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex021"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067200742" class="os-exercise">
+<problem id="fs-id1167067101388">
+<para id="fs-id1167066967640">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex022"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067049889" class="os-exercise">
+<problem id="fs-id1167066836632">
+<para id="fs-id1167067150474">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex023"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067013546" class="os-exercise">
+<problem id="fs-id1167067091406">
+<para id="fs-id1167063608634">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex024"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066983332" class="os-exercise">
+<problem id="fs-id1167063515297">
+<para id="fs-id1167066959347">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex025"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063800574" class="os-exercise">
+<problem id="fs-id1167067043471">
+<para id="fs-id1167067195992">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex026"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063862550" class="os-exercise">
+<problem id="fs-id1167066948786">
+<para id="fs-id1167067189594">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex027"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167063667198" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title>
+<exercise id="fs-id1167061242819" class="os-exercise">
+<problem id="fs-id1167067200930">
+<para id="fs-id1167067032555">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex028"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067222557" class="os-exercise">
+<problem id="fs-id1167066983828">
+<para id="fs-id1167067198390">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex029"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067254530" class="os-exercise">
+<problem id="fs-id1167066860959">
+<para id="fs-id1167067088697">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex030"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066948343" class="os-exercise">
+<problem id="fs-id1167063517072">
+<para id="fs-id1167067294889">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex031"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166174613626" class="os-exercise">
+<problem id="fs-id1166174585691">
+<para id="fs-id1166172848308">The table below shows data for a small population of mice. The mice are either brown or white. Based on the data, is the population experiencing genetic drift? Explain.</para>
+<table id="fs-id1166174588477" summary="The table has three columns. From left to right, the labels in the header row are: Generation, Brown Mice, Black Mice. The number of brown mice reported for generations 1 through 6 are: 14, 20, 24, 21, 19, and 24. The number of black mice reported for generations 1 through 6 are: 32, 26, 22, 28, 30 and 29.">
+<tgroup cols="3">
+<thead>
+<row>
+<entry>Generation</entry>
+<entry>Brown mice</entry>
+<entry>Black mice</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry>
+<entry>14</entry>
+<entry>32</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>20</entry>
+<entry>26</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>24</entry>
+<entry>22</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>21</entry>
+<entry>28</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>19</entry>
+<entry>30</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>24</entry>
+<entry>29</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<!--<solution id="fs-id1166172545074">
+<para id="fs-id1166172899937">No. The frequency of both phenotypes oscillate around the same numbers through six generations.</para>
+</solution>-->
+</exercise>
+
+</section>
+<section id="fs-id1167063520871" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167063649779" class="os-exercise">
+<problem id="fs-id1167063661882">
+<para id="fs-id1167063661884">The graph below shows the change in gene frequency of the two alleles of a gene: A and a. The population being
+studies has no emigration or immigration. Which type of evolution is likely occurring here and is the allele selected for,
+neutral, or selected against by natural selection?
+<newline/>
+<media id="eip-idm377480224" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_AP_Bio_19_01_InsectGr2.jpg" height="300"/>
+</media>
+</para><para id="eip-idm475807072">
+<list id="eip-idm595658112" list-type="enumerated" number-style="lower-alpha"><item>non-random mating; both alleles are favored</item>
+<item>gene flow; allele A is favored</item>
+<item>genetic drift; both alleles are neutral</item>
+<item>natural selection; allele a is not favored</item>
+</list></para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067048277" class="os-exercise">
+<problem id="fs-id1167063656239">
+<para id="fs-id1167063656242">The graph below shows the change in gene frequency of the two alleles: A and B. These alleles are located on separate genes that do not influence each other in any way. The population being studied has no emigration or immigration. Which type of evolution is likely occurring here, if at all? Explain how you know.
+<newline/>
+<media id="eip-idm476138160" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_AP_Bio_19_02_PlantPop.jpg" height="400"/>
+</media>
+</para><para id="eip-idm401137328">
+<list id="eip-idm196239888" list-type="enumerated" number-style="lower-alpha"><item>no multiple choice available</item>
+<item>no multiple choice available</item>
+</list></para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067020801" class="os-exercise">
+<problem id="fs-id1167063644504">
+<para id="fs-id1167063644506">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex034"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066939313" class="os-exercise">
+<problem id="fs-id1167067292340">
+<para id="fs-id1167067231175">The diagram below shows the frequency of alleles on two species of wind-pollinated plants, as well as the prevailing
+wind direction. These frequencies have been fairly stable for around 10 years. However, climate change has created a new
+prevailing wind direction, as shown in the diagram. How will the two populations likely evolve in the future?
+<newline/>
+<media id="eip-idm586155488" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_AP_Bio_19_02_PlantPop.jpg" height="400"/>
+</media>
+</para><para id="eip-idm583577280">
+<list id="eip-idm372536256" list-type="enumerated" number-style="lower-alpha"><item>natural selection will cause the frequency of B to increase in population 1</item>
+<item>gene flow will cause the frequencies of A and B to drop in population 3</item>
+<item>genetic drift will cause the frequencies of A and C to increase in population 1 and 2</item>
+<item>inbreeding will reduce the frequency of allele B in population 2 and 3</item>
+</list></para>
+</problem>
+</exercise>
+<!--
+<exercise id="fs-id1167063878407" class="os-exercise">
+<problem id="fs-id1167063480899">
+<para id="fs-id1167063690628">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex047"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063739453" class="os-exercise">
+<problem id="fs-id1167063486647">
+<para id="fs-id1167063486649">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex048"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067295129" class="os-exercise">
+<problem id="fs-id1167061218440">
+<para id="fs-id1167061218442">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex049"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067150669" class="os-exercise">
+<problem id="fs-id1167067092471">
+<para id="fs-id1167063690391">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex050"/>
+</para>
+</problem>
+</exercise>
+--></section><section id="fs-id1164962961195" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164968698939">
+<problem id="fs-id1164968500044">
+<para id="fs-id1164963262854"><emphasis effect="italics">Calamus finmarchicus</emphasis> is the dominant copepod in the Gulf of Maine.  The polymorphic aminopeptidase locus, Lap-1, has been shown to be useful for the genetic differentiation of populations of this organism.  By examining the population dynamics of copepods, the dynamics of the fin fish on which they feed can be predicted.  The aerial photograph shows a landmass separating two coastal estuarine habits, the mud flats of Egypt Bay and the Mount Desert Narrows.  For the past 40 years, transport between the two habits has been hindered by a dam over the Carrying Place Inlet. However, small volumes of water occasionally crest the dam.</para>
+<figure id="fs-id1164968530973"><media id="fs-id1164968554142" alt="This is a colored aerial picture pointing out a land mass that separates two coastal estuarine habitats, the mud flats of Egypt Bay and the Mount Desert Narrows. The figures mark two locations on the map, the Mount Desert Narrow and the Carrying Place Inlet, where the water transport has been hindered by a dam at the Carrying Place Inlet.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_19_02_01_01_img.jpg" height="300"/>
+</media>
+</figure><para id="fs-id1164962089759">To evaluate the geographic isolation of invertebrate populations in these two habitats, copepods are sampled at the points labeled 1 and 2 on the photograph.  These points lie at either ends of the Carrying Place Inlet.  Enzymes encoded by three alleles, labeled A, B, and C, were determined by gel electrophoresis of equal numbers of the organisms collected at the two sites.  Numbers of each genotype are given in the following table:</para>
+
+<table id="fs-id1164968525974" summary="This column is split into eight columns. The columns each have three rows. The rows read from top to bottom. Column one: site, 1, 2. Column two: AA, 82, 96. Column three: AB, 114, 108. Column four: AC, 102, 92. Column five: BB, 74, 54. Column six: BC, 98, 110. Column seven: CC, 30, 40. Column eight: Total, 500, 500.">
+<tgroup cols="3"><thead>
+<row>
+<entry align="left">Site</entry>
+<entry align="left">1</entry>
+<entry align="left">2</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left">AA</entry>
+<entry align="left">82</entry>
+<entry align="left">96</entry>
+</row>
+<row>
+<entry align="left">AB</entry>
+<entry align="left">114</entry>
+<entry align="left">108</entry>
+</row>
+<row>
+<entry align="left">AC</entry>
+<entry align="left">102</entry>
+<entry align="left">92</entry>
+</row>
+<row>
+<entry align="left">BB</entry>
+<entry align="left">74</entry>
+<entry align="left">54</entry>
+</row>
+<row>
+<entry align="left">BC</entry>
+<entry align="left">98</entry>
+<entry align="left">110</entry>
+</row>
+<row>
+<entry align="left">CC</entry>
+<entry align="left">30</entry>
+<entry align="left">40</entry>
+</row>
+<row>
+<entry align="left">Total</entry>
+<entry align="left">500</entry>
+<entry align="left">500</entry>
+</row>
+</tbody>
+</tgroup>
+</table><para id="fs-id1164968598989">A. Calculate the frequencies, f, of each allele and complete the following table:</para>
+
+<table id="fs-id1164962969275" summary="This table shows four columns. The four labels read from left to right: Site, f(A), f(B), and f(C). The rows to follow are abled 1 and the rest of the columns are blank. The second row is labeled 2, and the rest of the rows are blank.">
+<tgroup cols="4"><thead>
+<row>
+<entry align="center">Site</entry>
+<entry align="center">f(A)</entry>
+<entry align="center">f(B)</entry>
+<entry align="center">f(C)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">1</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/>
+</row>
+<row>
+<entry align="center">2</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/>
+</row></tbody>
+</tgroup>
+</table><para id="fs-id1164968939297">B. Using a <m:math>
+ <m:mrow>
+  <m:msup>
+   <m:mtext>χ</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msup>
+
+ </m:mrow>
+</m:math>
+
+ test, <emphasis>evaluate</emphasis> these data to determine if the aminopeptidase gene in these two populations is evolving.  State your conclusion as claims supported by evidence at both the 95% and 99% confidence levels.  The formula for the <m:math>
+ <m:mrow>
+  <m:msup>
+   <m:mtext>χ</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msup>
+
+ </m:mrow>
+</m:math>
+
+ test is provided on the AP Biology Exam.</para><equation id="fs-id1164962079396">
+<m:math display="block">
+ <m:mrow>
+  <m:msup>
+   <m:mi>χ</m:mi>
+   <m:mn>2</m:mn>
+  </m:msup>
+  <m:mo>=</m:mo><m:msup>
+   <m:mstyle mathsize="140%" displaystyle="true"><m:mo>∑</m:mo></m:mstyle>
+   <m:mtext>​</m:mtext>
+  </m:msup>
+  <m:mfrac>
+   <m:mrow>
+    <m:msup>
+     <m:mrow>
+      <m:mo stretchy="false">(</m:mo><m:mi>o</m:mi><m:mo>−</m:mo><m:mi>e</m:mi><m:mo stretchy="false">)</m:mo>
+     </m:mrow>
+     <m:mn>2</m:mn>
+    </m:msup>
+
+   </m:mrow>
+   <m:mi>e</m:mi>
+  </m:mfrac>
+
+ </m:mrow>
+</m:math>
+</equation>
+
+<para id="fs-id1164966334104">This table of critical p values is also provided on the AP Biology Exam.</para>
+<table id="fs-id1164968784554" summary="This table has a title of Degrees of Freedom. It has nine columns and the columns read from top to bottom. Column one: p, 0.05, 0.01. Column two: 1 , 3.84, 6.64. Column three: 2, 5.99, 9.32. Column four: 3, 7.82, 11.34. Column five: 4, 9.49, 13.28. Column six: 5, 11.07, 15.09. Column 7: 6, 12.59, 16.81. Column 8: 7, 14.07, 18.48. Column 9: 8, 15.51, 20.09.">
+<tgroup cols="9" align="center"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<colspec colnum="9" colname="c9"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c9">Degrees of Freedom</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">p</entry>
+<entry align="center">1</entry>
+<entry align="center">2</entry>
+<entry align="center">3</entry>
+<entry align="center">4</entry>
+<entry align="center">5</entry>
+<entry align="center">6</entry>
+<entry align="center">7</entry>
+<entry align="center">8</entry>
+</row>
+<row>
+<entry align="center">0.05</entry>
+<entry align="center">3.84</entry>
+<entry align="center">5.99</entry>
+<entry align="center">7.82</entry>
+<entry align="center">9.49</entry>
+<entry align="center">11.07</entry>
+<entry align="center">12.59</entry>
+<entry align="center">14.07</entry>
+<entry align="center">15.51</entry>
+</row>
+<row>
+<entry align="center">0.01</entry>
+<entry align="center">6.64</entry>
+<entry align="center">9.32</entry>
+<entry align="center">11.34</entry>
+<entry align="center">13.28</entry>
+<entry align="center">15.09</entry>
+<entry align="center">16.81</entry>
+<entry align="center">18.48</entry>
+<entry align="center">20.09</entry>
+</row>
+</tbody>
+</tgroup>
+</table><para id="fs-id1164968917220">C. Based on these data, <term>predict</term>, with justification, changes over time in the aminopeptidase enzyme for these populations.</para>
+<para id="fs-id1164962997352">D. The B form of this aminopeptidase is slightly more efficient at extracting nutritional leucine from a protein than the A and C forms but slightly less efficient at extracting valine and serine. <term>Describe</term> an investigation of the two habitats that could suggest a causal relationship between changes in allele frequency and characteristics of the environment.</para>
+<para id="fs-id1164966576240">E. Single-nucleotide mutations are neutral when they encode changes in proteins that result in no significant differential selection. If differences in environmental factors between sites 1 and 2 are not observed, <term>predict</term> what other factors could result in departures from Hardy-Weinberg equilibrium for aminopeptidase.</para></problem></exercise>
+
+<exercise id="fs-id1164966287316">
+<problem id="fs-id1164966301522">
+<para id="fs-id1164966615627">Bioluminescence is an example of convergent evolution; 30 distinct lineages have acquired this characteristic, and all involve some form of a class of molecules called luciferins.  Sexual selection pressures are strong for light-emitting organisms.  Ellis and Oakley (<emphasis effect="italics">Curr Biol</emphasis>, 2016) examined the number of species that lack luminosity in groups of closest evolutionary relation (sister linear) with those species that are luminous.  Similarly, scientists made the same comparison between groups that use luminosity for concealment (counter-illumination) and their sister lineages.  The graphs summarize their results, comparing the natural logarithm of the number of species in each lineage.</para>
+<figure id="fs-id1164966406931"><media id="fs-id1164968584607" alt="The right side of the table shows the comparison between species that are Luminous and their sister lineages that lack luminosity. The key for this being a: Bolitaenin octopus. B: Sylid polychaete. C: Gazzin ponyfish. D. etmopterus shark. E: cypridinid ostracod f: pyrophorin click beetle g: Rhagophthalmid railroad beetle, h: myctophid lanterfish i: stomiid dragonfish j: firefly. The verticle axis of the graph is labeled Number of species (natural log) it is labeled from 0 to 7. The x axis is labeled on the right side non-luminous sister lineage and the left side luminous lineage. The first diagonal red line goes from 0 to 1 and is labeled a. The second line goes from 0 up to 2.5 and is labeled c. the third line is from a and is labeled b. the next line goes up from 1.5 and is labeled d. The next line is from 1.7 and is labeled e. Two lines go diagonally up from 2 and are labeled with h and I. and finally the last line that goes up from 5 is labeled ">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_19_02_02_01_img.jpg" height="400"/>
+</media>
+</figure><para id="fs-id1164968696124">Based on the data shown in the graphs, <term>describe</term> a model that can account for the increased speciation of bioluminescent lineages, including the mechanism of speciation.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-id1164968603928">
+<problem id="fs-id1164968684319">
+<figure id="fs-id1164969043036"><media id="fs-id1164968998643" alt="A graph showing the relationship between the number cells and cell size. The Y axis is labeled Number of cells. The X axis is labeled Cell size. The two bell shaped distribution curves are t 1 and t 2. T 1 is red and within T 2 which is purple.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_19_02_03_01_img.jpg" width="400"/>
+</media>
+</figure><para id="fs-id1164966425273">A biologist is using a simulation to model populations of African hornbills (<emphasis effect="italics">Bycanistes</emphasis> spp. and <emphasis effect="italics">Ceratogymna</emphasis> spp.), a keystone species of the savanna.  Populations of the birds are declining due to habitat loss.  The hornbills diet consists primarily of termites and fruit.  A critical component of termite digestion is chitin deacetylase, an enzyme whose mutation rate is a model parameter.  The other model parameter is population size, N.  In the results of the simulation study shown above, there is no selection, and the mutation rate is fixed.  Although both population size and mutation rate are fixed, randomness results in the five different outcomes shown in each graph above.</para>
+<para id="fs-id1164969001579">A. <term>Select</term> the graph displaying the results that are closer to Hardy-Weinberg equilibrium.  Justify the selection of the graph.</para>
+<para id="fs-id1164966277456">B. Based on these simulations, <term>predict</term> the future heterozygosity, 2pq, of the smaller populations, as shown in graph A.</para>
+<para id="fs-id1164968940444">C. <term>Justify</term> the use of a simulation study with no selection under environmental conditions in which the availability of both termites and fruit is high.</para>
+<para id="fs-id1164968673294">D. If a change in the environment occurs suddenly, such as an increase in average temperature, where fruit production declines, <term>analyze</term> the effect of the change on allele frequency in the large and small populations.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp882352"><term>assortative mating</term> <meaning id="fs-idp61126880">when individuals tend to mate with those who are phenotypically similar to themselves</meaning></definition>
+<definition id="fs-idp49550688"><term>bottleneck effect</term> <meaning id="fs-idp7844992">magnification of genetic drift as a result of natural events or catastrophes</meaning></definition>
+<definition id="fs-idm39570880"><term>cline</term> <meaning id="fs-idm46647952">gradual geographic variation across an ecological gradient</meaning></definition>
+<definition id="fs-idp48706992"><term>gene flow</term> <meaning id="fs-idm1660320">flow of alleles in and out of a population due to the migration of individuals or gametes</meaning></definition>
+<definition id="fs-idm72605376"><term>genetic drift</term> <meaning id="fs-idp5815088">effect of chance on a population’s gene pool</meaning></definition>
+<definition id="fs-idm31012784"><term>genetic variance</term> <meaning id="fs-idm16958928">diversity of alleles and genotypes in a population</meaning></definition>
+<definition id="fs-idm1878256"><term>geographical variation</term> <meaning id="fs-idp17798432">differences in the phenotypic variation between populations that are separated geographically</meaning></definition>
+<definition id="fs-idp195637184"><term>heritability</term> <meaning id="fs-idm68739904">fraction of population variation that can be attributed to its genetic variance</meaning></definition>
+<definition id="fs-idm74155600"><term>inbreeding</term> <meaning id="fs-idm49922016">mating of closely related individuals</meaning></definition>
+<definition id="fs-idm54180768"><term>inbreeding depression</term> <meaning id="fs-idp93040816">increase in abnormalities and disease in inbreeding populations</meaning></definition>
+<definition id="fs-idp35596080"><term>nonrandom mating</term> <meaning id="fs-idp90544">changes in a population’s gene pool due to mate choice or other forces that cause individuals to mate with certain phenotypes more than others</meaning></definition>
+<definition id="fs-id1167067231772"><term>polymorphisms</term> <meaning id="fs-id1167067271936">variations in phenotype within individuals of a population</meaning></definition>
+<definition id="fs-idp89495728"><term>population variation</term> <meaning id="fs-idm4416">distribution of phenotypes in a population</meaning></definition>
+<definition id="fs-idp59261952"><term>selective pressure</term> <meaning id="fs-idp49780448">environmental factor that causes one phenotype to be better than another</meaning></definition>
+</glossary>
+</document>

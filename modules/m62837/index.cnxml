@@ -1,0 +1,378 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>The Genetic Code</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62837</md:content-id>
+  <md:title>The Genetic Code</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the “central dogma” of protein synthesis</item>
+<item>Describe the genetic code and how the nucleotide sequence prescribes the amino acid and the protein sequence</item>
+</list></md:abstract>
+  <md:uuid>d05f0477-d3a8-4703-a413-3499cb2eab72</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167067106379" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167063486862">In this section, you will explore the following questions:</para>
+<list id="fs-id1167067275968">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch15-s01-lo01">What is the “Central Dogma” of protein synthesis?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch15-s01-lo02">What is the genetic code, and how does nucleotide sequence prescribe the amino acid and polypeptide sequence?</item>
+</list>
+</section>
+<section id="fs-id1167063757919" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167067176090">Since the rediscovery of Mendel’s work in the 1900s, scientists have learned much about how the genetic blueprints stored in DNA are capable of replication, expression, and mutation. Just as the 26 letters of the English alphabet can be arranged into what seems to be a limitless number of words, with new ones added to the dictionary every year, the four nucleotides of DNA—A, T, C, and G—can generate sequences of DNA called genes that specify tens of thousands of polymers of amino acids. In turn, these sequences can be transcribed into mRNA and translated into proteins which orchestrate nearly every function of the cell. The genetic code refers to the DNA alphabet (A, T, C, G), the RNA alphabet (A, U, C, G), and the polypeptide alphabet (20 amino acids). But how do genes located on a chromosome ultimately produce a polypeptide that can result in a physical phenotype such as hair or eye color—or a disease like cystic fibrosis or hemophilia?</para><para id="fs-id1167066971938">The Central Dogma describes the normal flow of genetic information from DNA to mRNA to protein: DNA in genes specify sequences of mRNA which, in turn, specify amino acid sequences in proteins. The process requires two steps, transcription and translation. During transcription, genes are used to make messenger RNA (mRNA). In turn, the mRNA is used to direct the synthesis of proteins during the process of translation. Translation also requires two other types of RNA: transfer RNA (tRNA) and ribosomal RNA (rRNA). The genetic code is a triplet code, with each RNA codon consisting of three consecutive nucleotides that specify one amino acid or the release of the newly formed polypeptide chain; for example, the mRNA codon CAU specifies the amino acid histidine. The code is degenerate; that is, some amino acids are specified by more than one codon, like synonyms you study in your English class (different word, same meaning). For example, CCU, CCC, CCA, and CCG are all codons for proline. It is important to remember the same genetic code is universal to almost all organisms on Earth. Small variations in codon assignment exist in mitochondria and some microorganisms.</para>
+<para id="fs-id1167063514661">Deviations from the simple scheme of the central dogma are discovered as researchers explore gene expression with new technology. For example the human immunodeficiency virus (HIV) is a retrovirus which stores its genetic information in single stranded RNA molecules. Upon infection of a host cell, RNA is used as a template by the virally encoded enzyme, reverse transcriptase, to synthesize DNA. The viral DNA is later transcribed into mRNA and translated into proteins. Some RNA viruses such as the influenza virus never go through a DNA step. The RNA genome is replicated by an RNA dependent RNA polymerase which is virally encoded.</para>
+<para id="fs-id1167067050004" class="ost-reading-discard">The content presented in this section supports the Learning Objectives outlined in Big Idea 1 and Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives merge Essential Knowledge content with one or more of the seven Science Practices. These Learning Objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> Exam questions.</para><table id="fs-id1167067174346" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Science Practice. Third right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Fourth left cell reads: Learning Objective. Fourth right cell reads: 1.15 The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
+<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1</emphasis></span>
+<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2</emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry>
+</row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch15-s01-aplo-1-15">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.15</emphasis></span>
+<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
+<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.1</emphasis></span>
+<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.5</emphasis></span>
+<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch15-s01-aplo-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
+<span class="ost-standards-description">The student is able to construct scientific explanations that use the structure and functions of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table></section>
+<note id="fs-id1167067013276" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167067084134" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167067142911">The Central Dogma has been validated by many experiments. The flow of information from DNA to mRNA to polypeptide is the common scheme in all cells, both prokaryotic and eukaryotic. The information in DNA is contained in the sequence of nitrogenous bases. Next question is, How is the sequence of the nitrogenous bases translated into amino acids? A combination of two out of the four letters gives 16 possible amino acids (4<sup>2</sup> = 16); for example, AA, or AC; but, there 20 amino acids. A combination of three bases gives 64 possible sets (4<sup>3</sup> = 64); for example, AAA or AAC. A combination of three bases in a row is a codon or “triplets.” This gives rise to more than enough combinations for the 20 common acids. Some amino acids are specified by a single codon, for example, methionine and tryptophan; others are encoded by up to six independent codons, for example, leucine.</para><para id="fs-id1167066881417">Although protein synthesis follows the same general scheme in prokaryotes and eukaryotes, the detailed mechanism of each can be quite different. The presence of the nuclear membrane adds a layer of complexity to the process. In prokaryotes, transcription and translation are tightly coupled. As soon as the 5'-end of a mRNA has been transcribed from the template strand of DNA, ribosomes can latch onto it and polypeptide synthesis begins. Eukaryotic cells use a more complex series of steps. The enzyme RNA polymerase forms the transcription initiation complex with many proteins called transcription factors. The product of transcription, mRNA undergoes several modifications that change its stability and facilitate export from the nucleus. These extra steps allow greater control over gene expression. Although prokaryotic mRNA is not generally modified, eukaryotic mRNA strands undergo the addition of a methyl-guanosine cap at the 5'-end and a poly-adenosine tail at the 3'- end, without which they may not exit the nucleus. The mRNA also undergoes splicing to remove introns, the non–protein–coding regions of the gene. Protein translation depends on the presence of ribosomes, mRNA, a full complement of tRNA molecules, many enzymes, and many protein factors. As the polypeptide is synthesized, it starts folding into its three-dimensional structure. Further modifications will ensure that the protein is fully functional and shipped to its destination.</para><para id="fs-id1167066945024">Ask the students what a dogma is. It will serve as an introduction to deviations from the Central Dogma. Viruses show numerous variations. The Human Immunodeficiency Virus (HIV) is a retrovirus. Its genome is encoded in RNA molecules which serve as a template for the synthesis of DNA by a virally encoded enzyme called reverse transcriptase. Point out that this enzyme, which is not found in humans, is the target of many anti-HIV medications. The flu virus carries non-coding strands of RNA molecules which are replicated in the host cell by a RNA-dependent RNA polymerase, an enzyme encoded in the viral genome. In the case of the flu virus, there is no DNA stage at all. The flow of information is RNA to RNA to proteins. Closer to “home,” the telomeres, the ends of the linear chromosomes in eukaryotes, are replicated by a special enzyme, a telomerase, which synthesizes DNA from an RNA template.</para>
+<para id="fs-id1167066804180">Just as we transfer information using letters and numbers, the cell transfers information using molecules. Emphasize the similarities between writing and the genetic code. Tell the students that much of the vocabulary of molecular genetics is borrowed from editing: transcription, translation, proofreading, missense, nonsense, etc.</para>
+<para id="fs-id1167066805242">Although the chapter does not use the term “open reading frame,” tie it to <link target-id="fig-ch15_01_05" document=""/>. An open reading frame is a DNA sequence that follows a start codon and ends with a stop codon. A long open reading frame is likely to be a gene.</para>
+</note>
+</note>
+<note id="fs-id1167063712296" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167066993042" class="ost-misconception">
+<label>Misconception Alert</label>
+<para id="fs-id1167066828008">Students confuse the vocabulary used to describe the Central Dogma. Copying information from DNA to RNA is transcription because the language is the same. Both are constructed using nucleotides. When a polypeptide is synthesized, the building blocks or “letters” have switched to amino acids. It is a translation. Although not quite identical, show students an example similar to the following:</para>
+<para id="fs-id1167066960190">Dog to <emphasis effect="italics">Dog </emphasis>(transcription) to Canis (translation)</para>
+<para id="fs-id1167067025032">The first two words represent transcription. The letters are just copied. The last word has the same meaning, “dog” in Latin, but now the language is different.</para>
+<para id="fs-id1167063486484">Consider using the word “redundant” to help explain the meaning of the word “degenerate” in this context. Students confuse the fact that the code is degenerate—several codons can encode the same amino acid—with the fact that the genetic code is universal, which means that the same codon, AUG as an example, is translated as methionine in all cells. The confusion arises from students learning the two concepts at the same time. Give examples of changes in the codons which result in the same amino acids. Although the gene sequence is different, the polypeptide is the same. Remind students that each codon specifies one amino acid, but the reverse is not true. Depending on the amino acid, more than one codon will translate to the same amino acid.</para><para id="fs-id1167067065726">Explain that many proteins of interest are synthesized in bacteria and yeast by inserting the genes for the proteins in the host expression systems. This is possible because the code is universal. If a gene coding for human insulin is inserted in the chromosomes of <emphasis effect="italics">E. coli</emphasis>, the bacteria will synthesize human insulin.</para>
+</note>
+</note>
+<note id="fs-id1167067184155" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167067049610" class="ost-teacher-demonstration">
+<label>Teacher Demonstration</label>
+<para id="fs-id1167067033897">Give students examples of codons and ask them to find the matching amino acid. Bring to their attention that typographical errors are a great source of mutations. They should proofread their sequences carefully.</para>
+</note>
+</note>
+<para id="fs-id1166851007220">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 3.4][APLO 3.25]</para><para id="fs-id2750556">The cellular process of transcription generates messenger RNA (mRNA), a mobile molecular copy of one or more genes with an alphabet of A, C, G, and uracil (U). Translation of the mRNA template converts nucleotide-based genetic information into a protein product. Protein sequences consist of 20 commonly occurring amino acids; therefore, it can be said that the protein alphabet consists of 20 letters (<link target-id="fig-ch15_01_01" document=""/>). Each amino acid is defined by a three-nucleotide sequence called the triplet codon. Different amino acids have different chemistries (such as acidic versus basic, or polar and nonpolar) and different structural constraints. Variation in amino acid sequence gives rise to enormous variation in protein structure and function.</para>
+
+<figure id="fig-ch15_01_01" class="ost-tag-lo-apbio-ch15-s01-lo01 ost-tag-lo-apbio-ch15-s01-aplo-3-1"><media id="fs-id1695436" alt="Structures of the twenty amino acids are given. Six amino acids—glycine, alanine, valine, leucine, methionine, and isoleucine—are non-polar and aliphatic, meaning they do not have a ring. Six amino acids—serine, threonine, cysteine, proline, asparagine, and glutamate—are polar but uncharged. Three amino acids—lysine, arginine, and histidine—are positively charged. Two amino acids, glutamate and aspartate, are negatively charged. Three amino acids—phenylalanine, tyrosine, and tryptophan—are nonpolar and aromatic.">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_02-aa00.jpg" width="500"/>
+</media>
+
+<caption>Structures of the 20 amino acids found in proteins are shown. Each amino acid is composed of an amino group (<m:math display="">
+ <m:mrow>
+  <m:mtext>N</m:mtext><m:msubsup>
+   <m:mtext>H</m:mtext>
+   <m:mn>3</m:mn>
+   <m:mo>+</m:mo>
+  </m:msubsup>
+ </m:mrow>
+</m:math>), a carboxyl group (COO<sup>-</sup>), and a side chain (blue). The side chain may be nonpolar, polar, or charged, as well as large or small. It is the variety of amino acid side chains that gives rise to the incredible variation of protein structure and function.</caption></figure><section id="fs-id2013510" class="ost-tag-lo-apbio-ch15-s01-lo01 ost-tag-lo-apbio-ch15-s01-aplo-3-1 ost-get-exercise">
+<title>The Central Dogma: DNA Encodes RNA; RNA Encodes Protein</title>
+<para id="fs-id2155314">The flow of genetic information in cells from DNA to mRNA to protein is described by the <term>Central Dogma</term> (<link target-id="fig-ch15_01_02" document=""/>), which states that genes specify the sequence of mRNAs, which in turn specify the sequence of proteins. The decoding of one molecule to another is performed by specific proteins and RNAs. Because the information stored in DNA is so central to cellular function, it makes intuitive sense that the cell would make mRNA copies of this information for protein synthesis, while keeping the DNA itself intact and protected. The copying of DNA to RNA is relatively straightforward, with one nucleotide being added to the mRNA strand for every nucleotide read in the DNA strand. The translation to protein is a bit more complex because three mRNA nucleotides correspond to one amino acid in the polypeptide sequence. However, the translation to protein is still systematic and <term>colinear</term>, such that nucleotides 1 to 3 correspond to amino acid 1, nucleotides 4 to 6 correspond to amino acid 2, and so on.</para>
+<figure id="fig-ch15_01_02" class="ost-tag-lo-apbio-ch15-s01-lo01 ost-tag-lo-apbio-ch15-s01-aplo-3-1"><media id="fs-id2681268" alt="To make a protein, genetic information encoded by the DNA must be transcribed onto an mRNA molecule. The RNA is then processed by splicing to remove exons and by the addition of a 5' cap and a poly-A tail. A ribosome then reads the sequence on the mRNA, and uses this information to string amino acids into a protein.">
+<image mime-type="image/jpg" src="../../media/Figure_15_02_02-abdd.jpg" width="280"/>
+</media>
+<caption>Instructions on DNA are transcribed onto messenger RNA. Ribosomes are able to read the genetic information inscribed on a strand of messenger RNA and use this information to string amino acids together into a protein.</caption></figure><section id="fs-id2000981" class="ost-tag-lo-apbio-ch15-s01-lo02 ost-tag-lo-apbio-ch15-s01-aplo-1-15 ost-get-exercise">
+<title>The Genetic Code Is Degenerate and Universal</title>
+<para id="fs-id1290387">Given the different numbers of “letters” in the mRNA and protein “alphabets,” scientists theorized that combinations of nucleotides corresponded to single amino acids. Nucleotide doublets would not be sufficient to specify every amino acid because there are only 16 possible two-nucleotide combinations (4<sup>2</sup>). In contrast, there are 64 possible nucleotide triplets (4<sup>3</sup>), which is far more than the number of amino acids. Scientists theorized that amino acids were encoded by nucleotide triplets and that the genetic code was <term>degenerate</term>. In other words, a given amino acid could be encoded by more than one nucleotide triplet. This was later confirmed experimentally; Francis Crick and Sydney Brenner used the chemical mutagen proflavin to insert one, two, or three nucleotides into the gene of a virus. When one or two nucleotides were inserted, protein synthesis was completely abolished. When three nucleotides were inserted, the protein was synthesized and functional. This demonstrated that three nucleotides specify each amino acid. These nucleotide triplets are called <term>codons</term>. The insertion of one or two nucleotides completely changed the triplet <term>reading frame</term>, thereby altering the message for every subsequent amino acid (<link target-id="fig-ch15_01_05" document=""/>). Though insertion of three nucleotides caused an extra amino acid to be inserted during translation, the integrity of the rest of the protein was maintained.</para>
+<figure id="fig-ch15_01_05" class="ost-tag-lo-apbio-ch15-s01-lo02 ost-tag-lo-apbio-ch15-s01-aplo-3-1"><media id="fs-id2339630" alt="Illustration shows a frameshift mutation in which the reading frame is altered by the deletion of two amino acids.">
+<image mime-type="image/jpg" src="../../media/Figure_15_02_03-cc49.jpg" width="350"/>
+</media>
+<caption>The deletion of two nucleotides shifts the reading frame of an mRNA and changes the entire protein message, creating a nonfunctional protein or terminating protein synthesis altogether.</caption></figure><para id="fs-id1565817">Scientists painstakingly solved the genetic code by translating synthetic mRNAs in vitro and sequencing the proteins they specified (<link target-id="fig-ch15_01_04" document=""/>).</para>
+<figure id="fig-ch15_01_04" class="ost-tag-lo-apbio-ch15-s01-lo02 ost-tag-lo-apbio-ch15-s01-aplo-1-15"><media id="fs-id2989543" alt="Figure shows all 64 codons. Sixty-two of these code for amino acids, and three are stop codons.">
+<image mime-type="image/jpg" src="../../media/Figure_15_01_04-323b.jpg" width="300"/>
+</media>
+<caption>This figure shows the genetic code for translating each nucleotide triplet in mRNA into an amino acid or a termination signal in a nascent protein. (credit: modification of work by NIH)</caption></figure>
+<para id="fs-id1634383">In addition to instructing the addition of a specific amino acid to a polypeptide chain, three of the 64 codons terminate protein synthesis and release the polypeptide from the translation machinery. These triplets are called <term>nonsense codons</term>, or stop codons. Another codon, AUG, also has a special function. In addition to specifying the amino acid methionine, it also serves as the start codon to initiate translation. The reading frame for translation is set by the AUG start codon near the 5' end of the mRNA.</para>
+<para id="fs-id913366">The genetic code is universal. With a few exceptions, virtually all species use the same genetic code for protein synthesis. Conservation of codons means that a purified mRNA encoding the globin protein in horses could be transferred to a tulip cell, and the tulip would synthesize horse globin. That there is only one genetic code is powerful evidence that all of life on Earth shares a common origin, especially considering that there are about 10<sup>84</sup> possible combinations of 20 amino acids and 64 triplet codons.</para>
+
+<note id="fs-id2739380" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch15-s01-lo02 ost-tag-lo-apbio-ch15-s01-aplo-3-1"><label>Link to Learning</label>
+<para id="fs-id1965995">Transcribe a gene and translate it to protein using complementary pairing and the genetic code at this <link window="new" url="http://openstax.org/l/create_protein"> site</link>.</para>
+<exercise id="fs-id1167067209914" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066790220">
+<para id="fs-id1167066836139">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ex001"/>
+</para>
+</problem>
+</exercise>
+</note><note id="fs-id1167063589808" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066948136" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167066824123" class="ost-tag-lo-apbio-ch15-s01-aplo-3-11 unnumbered"><label/>
+<problem id="fs-id1167067216930">
+<para id="fs-id1167063560858">
+<list id="fs-id1167063853412"><item>A strand of DNA has the nucleotide sequence 3'…GCT GTC AAA TTC GAT…5'. What is the sequence of mRNA that is complementary to this DNA sequence? Using the chart of codons in the text, determine the sequence of amino acids which can be generated from this strand of DNA.</item>
+<item>How does degeneracy of the genetic code make cells less vulnerable to mutations? What is an advantage of degeneracy with respect to the negative impact of random mutations on natural selection and evolution?</item>
+</list></para>
+</problem>
+</exercise>
+</note>
+</note>
+
+<note id="fs-id1167067077956" class="os-teacher"><label>Teacher Support</label>
+<para id="fs-id1167067265901">The first question is an application of Learning Objective 3.1 and Science Practice 6.5 because students are explaining how the language of DNA can be transcribed and translated into a sequence of amino acids<emphasis effect="italics">.</emphasis></para>
+<para id="eip-id1167062506622">The second set of questions are an application of Learning Objective 1.15 and Science Practice 3.1 because students are asked to raise questions about the universal genetic code and the impact of its degeneracy on mutations.</para>
+<note id="fs-id1167065950461"><title>Answer</title>
+<list id="fs-id1167066955557"><item>3'…GCT GTC AAA TTC GAT…5'</item>
+<item>mRNA 5'…CGA CAG UUU AAG CUA…3' ;</item>
+<item>peptide…Arg Gln Phe Lys Leu…</item>
+</list></note></note><para id="fs-id1288651">Degeneracy is believed to be a cellular mechanism to reduce the negative impact of random mutations. Codons that specify the same amino acid typically only differ by one nucleotide. In addition, amino acids with chemically similar side chains are encoded by similar codons. This nuance of the genetic code ensures that a single-nucleotide substitution mutation might either specify the same amino acid but have no effect or specify a similar amino acid, preventing the protein from being rendered completely nonfunctional.</para>
+</section>
+<note id="fs-id1796872" class="experiment ost-tag-lo-apbio-ch15-s01-lo02 ost-tag-lo-apbio-ch15-s01-aplo-1-15 ost-tag-lo-apbio-ch15-s01-aplo-3-1"><title>Which Has More DNA: A Kiwi or a Strawberry?</title>
+<figure id="fig-ch15_01_03"><media id="fs-id3051050" alt="Photographs show a thin slice of a green kiwi fruit and a bowl of strawberries.">
+<image mime-type="image/jpg" src="../../media/Figure_15_01_03-d9f3.jpg" width="450"/>
+</media>
+<caption>Do you think that a kiwi or a strawberry has more DNA per fruit? (credit “kiwi”: "Kelbv"/Flickr; credit: “strawberry”: Alisdair McDiarmid)</caption></figure><para id="eip-id2896007"><emphasis effect="bold">Question</emphasis>: Would a kiwifruit and strawberry that are approximately the same size (<link target-id="fig-ch15_01_03" document=""/>) also have approximately the same amount of DNA?</para>
+<para id="eip-id1416267"><emphasis effect="bold">Background</emphasis>: Genes are carried on chromosomes and are made of DNA. All mammals are diploid, meaning they have two copies of each chromosome. However, not all plants are diploid. The common strawberry is octoploid (8<emphasis effect="italics">n</emphasis>) and the cultivated kiwi is hexaploid (6<emphasis effect="italics">n</emphasis>). Research the total number of chromosomes in the cells of each of these fruits and think about how this might correspond to the amount of DNA in these fruits’ cell nuclei. Read about the technique of DNA isolation to understand how each step in the isolation protocol helps liberate and precipitate DNA.</para>
+<para id="eip-id1407858"><emphasis effect="bold">Hypothesis</emphasis>: Hypothesize whether you would be able to detect a difference in DNA quantity from similarly sized strawberries and kiwis. Which fruit do you think would yield more DNA?</para>
+<para id="eip-id2117311"><emphasis effect="bold">Test your hypothesis</emphasis>: Isolate the DNA from a strawberry and a kiwi that are similarly sized. Perform the experiment in at least triplicate for each fruit.</para>
+<list id="eip-716" list-type="enumerated" number-style="arabic"><item>Prepare a bottle of DNA extraction buffer from 900 mL water, 50 mL dish detergent, and two teaspoons of table salt. Mix by inversion (cap it and turn it upside down a few times).</item>
+<item>Grind a strawberry and a kiwifruit by hand in a plastic bag, or using a mortar and pestle, or with a metal bowl and the end of a blunt instrument. Grind for at least two minutes per fruit.</item>
+<item>Add 10 mL of the DNA extraction buffer to each fruit, and mix well for at least one minute.</item>
+<item>Remove cellular debris by filtering each fruit mixture through cheesecloth or porous cloth and into a funnel placed in a test tube or an appropriate container.</item>
+<item>Pour ice-cold ethanol or isopropanol (rubbing alcohol) into the test tube. You should observe white, precipitated DNA.</item>
+<item>Gather the DNA from each fruit by winding it around separate glass rods.</item></list>
+
+<para id="eip-id2024898">
+<emphasis effect="bold">Record your observations</emphasis>: Because you are not quantitatively measuring DNA volume, you can record for each trial whether the two fruits produced the same or different amounts of DNA as observed by eye. If one or the other fruit produced noticeably more DNA, record this as well. Determine whether your observations are consistent with several pieces of each fruit.</para>
+<para id="eip-id1463552"><emphasis effect="bold">Analyze your data</emphasis>: Did you notice an obvious difference in the amount of DNA produced by each fruit? Were your results reproducible?</para>
+<para id="eip-id1458204"><emphasis effect="bold">Draw a conclusion</emphasis>: Given what you know about the number of chromosomes in each fruit, can you conclude that chromosome number necessarily correlates to DNA amount? Can you identify any drawbacks to this procedure? If you had access to a laboratory, how could you standardize your comparison and make it more quantitative?</para>
+</note></section>
+
+<section id="fs-id2476108" class="summary ost-reading-discard"> <title>Section Summary</title><para id="fs-id3086772">The genetic code refers to the DNA alphabet (A, T, C, G), the RNA alphabet (A, U, C, G), and the polypeptide alphabet (20 amino acids). The Central Dogma describes the flow of genetic information in the cell from genes to mRNA to proteins. Genes are used to make mRNA by the process of transcription; mRNA is used to synthesize proteins by the process of translation. The genetic code is degenerate because 64 triplet codons in mRNA specify only 20 amino acids and three nonsense codons. Almost every species on the planet uses the same genetic code.</para>
+</section>
+<!--<section>
+<title>Free Response</title>
+<exercise>
+<problem>
+<para>Imagine if there were 200 commonly occurring amino acids instead of 20. Given what you know about the genetic code, what would be the shortest possible codon length? Explain.</para>
+</problem>
+<solution/>
+</exercise>
+<exercise>
+<problem>
+<para>Discuss how degeneracy of the genetic code makes cells more robust to mutations.</para>
+</problem>
+<solution/>
+</exercise>
+</section>-->
+<section id="fs-id1167067321677" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167063497614" class="os-exercise">
+<problem id="fs-id1167066975357">
+<para id="fs-id1167066983723">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ex002"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066850907" class="os-exercise">
+<problem id="fs-id1167063476013">
+<para id="fs-id1167063726484">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ex003"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067308240" class="os-exercise">
+<problem id="fs-id1167067174658">
+<para id="fs-id1167066966645">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ex004"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067044760" class="os-exercise">
+<problem id="fs-id1167067324767">
+<para id="fs-id1167066854595">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169283810573" class="os-exercise">
+<problem id="eip-id1169283810577">
+<para id="eip-id1169283810579">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ot001"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169283756953" class="os-exercise">
+<problem id="eip-id1169283756958">
+<para id="eip-id1169283647606">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ot002"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167063527083" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167067054098" class="os-exercise">
+<problem id="fs-id1167067232003">
+<para id="fs-id1167067252058">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067193467" class="os-exercise">
+<problem id="fs-id1167066832624">
+<para id="fs-id1167067054246">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ex007"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169282514046" class="os-exercise">
+<problem id="eip-id1169282514050">
+<para id="eip-id1169282677588">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ot005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166171534569">
+<problem id="fs-id1166173448641">
+<para id="fs-id1166167119294">Suppose a gene has the sequence ATGCGTTATCGGGAGTAG. A point mutation changes the gene to read ATGCGTTATGGGGAGTAG. How would the polypeptide product of this gene change?</para>
+</problem>
+<!--<solution id="fs-id1166167327659">
+<label/>
+<para id="fs-id1166163621758">It would change from MRYRE to MRYGE.</para>
+</solution>-->
+</exercise>
+</section>
+<section id="fs-id1167066962017" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167067200553" class="os-exercise">
+<problem id="fs-id1167067203644">
+<para id="fs-id1167063515307">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067149989" class="os-exercise">
+<problem id="fs-id1167063512032">
+<para id="fs-id1167067039728">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ex009"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066953878" class="os-exercise">
+<problem id="fs-id1167066984024">
+<para id="fs-id1167067034441">
+<link class="os-embed" url="#ost/api/ex/apbio-ch15-ex010"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164966442696" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164966546353">
+<problem id="fs-id1164968577753">
+<para id="fs-id1164968706332">Gamow (1954) proposed that the structure of DNA deduced by Watson and Crick (1953) could be interpreted as a way of forming roughly 20 "words" of the common amino acids from the four "letters" A, T, C, and G that represent DNA nucleotides.</para>
+<para id="fs-id1164966455420">Crick and coworkers (1961) used a method developed by Benzer to induce mutations in the DNA of a virus by the insertion of a single nucleotide.  The mutant could not infect the bacterium <emphasis effect="italics">Escherichia coli</emphasis> and neither could viruses with a second insertion of a second DNA nucleotide. However, a third nucleotide insertion restored the ability of the virus to infect the bacterium.</para>
+<para id="fs-id1164966343824">In 1961, Nirenberg and Matthaei conducted a series of experiments to better understand the flow of genetic information from gene to protein. They discovered that in solutions containing the contents of ruptured <emphasis effect="italics">E. coli</emphasis> bacterial cells from which DNA had been removed, polymers containing only one repeating amino acid, phenylalanine, would be synthesized if synthetic mRNA composed of only the single nucleotide, uracil (U), was added to the solution in which phenylalanine was also present.  In solutions containing mRNA with only adenine (A) or cytosine (C) and the amino acids lysine or proline, polymers containing only these amino acids would be synthesized.  The researchers found that when ribosomes were removed by filtration, these polymers did not form.  Nirenberg and Leder (1964) extended this work to include other nucleotides.</para>
+<para id="fs-id1164968720840">A. Summarize the conclusions regarding the encoding and decoding of heritable information supported by these studies. Explain how these studies provided evidence to support the Triplet Code.</para>
+<para id="fs-id1164968599977">Khorana (1960) developed a technique for synthesizing RNA composed of predictable distributions of repeated pairs or triplets of nucleotides.  He found, for example, that RNA synthesized when A and U were present in relative concentrations of 4:1, respectively, will produce RNA sequences with these distributions determined by their relative probabilities: AAU:AAA, AUA:AAA, and UAA:AAA; 0.8<sup>2</sup> × 0.2/0.8<sup>3</sup> = 1/4 [calculated as follows: i) 4/5 of the bases are A, so the likelihood of selecting A is 0.8; ii) the selection is repeated to determine the second letter of the three-letter codon; iii) the likelihood of selecting a U is 1 in 5; iv) the probability of selecting the set AUU is the product; v) similarly, the probability of AAA is (4/5)<sup>3</sup>; and vi) the ratio of these probabilities is their relative likelihood]: AUU:AAA, UUA:AAA, and UAU:AAA; 0.8 × 0.2<sup>2</sup>/0.8<sup>3</sup> = 1/16; and UUU:AAA; 0.2<sup>3</sup>/0.8<sup>3</sup> = 1/64.</para>
+<para id="fs-id1164963103012">B. Based on Khoranas findings, calculate the relative distributions of the following ratios of concentrations of RNA triplet sequences from mixtures in which the relative concentrations of guanine and cytosine, G:C, are 5:1.</para>
+<table id="fs-id1164966564367" summary="This table shows two columns. The titles on the columns read Ratio and Relative Probabilities. The first column reads from top to bottom: GGC:GGG GCG:GGG CGG:GGG. GCC:GGG CGC:GGG CCG:GGG, CCC:GGG. The second column is left blank.">
+<tgroup cols="2"><thead>
+<row>
+<entry>Ratio</entry>
+<entry>Relative Probabilities</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>GGC:GGG<newline/>
+GCG:GGG<newline/>
+CGG:GGG</entry>
+<entry/>
+</row>
+<row>
+<entry>GCC:GGG<newline/>
+CGC:GGG<newline/>
+CCG:GGG</entry>
+<entry/>
+</row>
+<row>
+<entry>CCC:GGG</entry>
+<entry/>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-id1164966327112">C. Based on the work of Nirenberg, Matthaei, Leder, and Khorana, the following table was constructed (taken from Khorana's Nobel Prize address):</para>
+<figure id="fs-id1164968821586"><media id="fs-id1164968778538" alt="Figure shows all 64 codons. Sixty-two of these code for amino acids, and three are stop codons.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_15_01_01_01_img.jpg"/>
+</media>
+
+</figure><para id="fs-id1164966551562">A solution containing the amino acids shown in the table above and equal concentrations of the two nucleotides C and G is prepared.  Predict the proteins that can be synthesized from this mixture in terms of each possible codon and their relative concentrations in terms of their amino acid repeat sequences.</para>
+<para id="fs-id1164966426547">D. Describe the effects of the codons UAA, UAG, and UGA on protein synthesis.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2123902"><term>Central Dogma</term> <meaning id="fs-id2051878">states that genes specify the sequence of mRNAs, which in turn specify the sequence of proteins</meaning></definition>
+<definition id="fs-id1803173"><term>codon</term> <meaning id="fs-id1926864">three consecutive nucleotides in mRNA that specify the insertion of an amino acid or the release of a polypeptide chain during translation</meaning></definition>
+<definition id="fs-id1360285"><term>colinear</term> <meaning id="fs-id2317494">in terms of RNA and protein, three “units” of RNA (nucleotides) specify one “unit” of protein (amino acid) in a consecutive fashion</meaning></definition>
+<definition id="fs-id782653"><term>degeneracy</term> <meaning id="fs-id1911442">(of the genetic code) describes that a given amino acid can be encoded by more than one nucleotide triplet; the code is degenerate, but not ambiguous</meaning></definition>
+<definition id="fs-id1429792"><term>nonsense codon</term> <meaning id="fs-id2228902">one of the three mRNA codons that specifies termination of translation</meaning></definition>
+<definition id="fs-id1466536"><term>reading frame</term> <meaning id="fs-id1403490">sequence of triplet codons in mRNA that specify a particular protein; a ribosome shift of one or two nucleotides in either direction completely abolishes synthesis of that protein</meaning></definition>
+</glossary>
+
+</document>

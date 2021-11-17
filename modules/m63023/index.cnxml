@@ -1,0 +1,423 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Biogeography</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63023</md:content-id>
+  <md:title>Biogeography</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define biogeography</item>
+<item>List and describe abiotic factors that affect the global distribution of plant and animal species</item>
+<item>Compare the impact of abiotic forces on aquatic and terrestrial environments</item>
+<item>Summarize the affect of abiotic factors on net primary productivity</item>
+</list></md:abstract>
+  <md:uuid>93ab6858-323b-45a2-9360-e7f95c34e001</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167067012813" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167063709516">In this section, you will explore the following questions:</para>
+<list id="fs-id1167063693109">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch35-s02-lo01">What is biogeography?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch35-s02-lo02">What are examples of abiotic factors that affect the global distribution of plant and animal species?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch35-s02-lo03">What are examples of how abiotic factors can impact aquatic and terrestrial environments?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch35-s02-lo04">What are the effects of abiotic factors on net primary productivity?</item>
+</list>
+</section>
+<section id="fs-id1167061315126" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167066846405">Many forces influence the communities of living organisms present in different parts of the biosphere (all of the parts of Earth inhabited by life). The biosphere extends into the atmosphere (several kilometers above Earth) and into the depths of the oceans. Despite its apparent vastness to an individual human, the biosphere occupies only a minute space when compared to the known universe. Many abiotic forces influence where life can exist and the types of organisms found in different parts of the biosphere. The abiotic factors influence the distribution of <emphasis>biomes</emphasis>: large areas of land with similar climate, flora, and fauna.</para>
+<para id="fs-id1167067191111" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167067044740" summary="Table with four rows and two columns. First Column First Row: Essential Knowledge, Second Column First Row: 2.D.1 Populations, communities, and ecosystems are affected by interactions with abiotic factors in the environment. First Column Second Row: Science Practice, Second Column Second Row: 1.3 The student can refine representations and models of natural or man-made phenomena and systems in the domain. First Column Third Row: Science Practice, Second Column Third Row 3.2 The student can refine scientific questions. First Column Fourth Row: Learning Objective, Second Column Fourth Row 2.22 The student is able to refine scientific models and questions about the effect of complex biotic and abiotic interactions on all biological systems, from cells and organisms to populations, communities, and ecosystems." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.D</emphasis></entry>
+<entry class="ost-standards-description">Growth and dynamic homeostasis of a biological system are influenced by changes in the system’s environment.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.1 </emphasis></span>
+<span class="ost-standards-description">Populations, communities, and ecosystems are affected by interactions with abiotic factors in the environment.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.3 </emphasis></span>
+<span class="ost-standards-description">The student can refine representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.2 </emphasis></span>
+<span class="ost-standards-description">The student can refine scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch35-s02-aplo-2-22">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.22 </emphasis></span>
+<span class="ost-standards-description">The student is able to refine scientific models and questions about the effect of complex biotic and abiotic interactions on all biological systems, from cells and organisms to populations, communities, and ecosystems.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.1 </emphasis></span>
+<span class="ost-standards-description">Populations, communities, and ecosystems are affected by interactions with abiotic factors in the environment.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-4-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
+<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch35-s02-aplo-2-23">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.23 </emphasis></span>
+<span class="ost-standards-description">The student is able to design a plan for collecting data to show that all biological systems are affected by complex biotic and abiotic interactions.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.1 </emphasis></span>
+<span class="ost-standards-description">Populations, communities, and ecosystems are affected by interactions with abiotic factors in the environment.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.1 </emphasis></span>
+<span class="ost-standards-description">The student can analyze data to identify patterns or relationships.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch35-s02-aplo-2-24">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.24 </emphasis></span>
+<span class="ost-standards-description">The student is able to analyze data to identify possible patterns and relationships between a biotic or abiotic factor and a biological system.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table></section>
+<section id="fs-idm109559440" class="ost-tag-lo-apbio-ch35-s02-lo01 ost-tag-lo-apbio-ch35-s02-lo02 ost-tag-lo-apbio-ch35-s02-aplo-2-24 ost-get-exercise">
+<title>Biogeography</title>
+<para id="fs-idp8923504"><emphasis>Biogeography</emphasis> is the study of the geographic distribution of living things and the abiotic factors that affect their distribution. Abiotic factors such as temperature and rainfall vary based mainly on latitude and elevation. As these abiotic factors change, the composition of plant and animal communities also changes. For example, if you were to begin a journey at the equator and walk north, you would notice gradual changes in plant communities. At the beginning of your journey, you would see tropical wet forests with broad-leaved evergreen trees, which are characteristic of plant communities found near the equator. As you continued to travel north, you would see these broad-leaved evergreen plants eventually give rise to seasonally dry forests with scattered trees. You would also begin to notice changes in temperature and moisture. At about 30 degrees north, these forests would give way to deserts, which are characterized by low precipitation.</para><para id="fs-idm116523360">Moving farther north, you would see that deserts are replaced by grasslands or prairies. Eventually, grasslands are replaced by deciduous temperate forests. These deciduous forests give way to the boreal forests found in the subarctic, the area south of the Arctic Circle. Finally, you would reach the Arctic tundra, which is found at the most northern latitudes. This trek north reveals gradual changes in both climate and the types of organisms that have adapted to environmental factors associated with ecosystems found at different latitudes. However, different ecosystems exist at the same latitude due in part to abiotic factors such as jet streams, the Gulf Stream, and ocean currents. If you were to hike up a mountain, the changes you would see in the vegetation would parallel those as you move to higher latitudes.</para>
+<para id="fs-idm105820432">Ecologists who study biogeography examine patterns of species distribution. No species exists everywhere; for example, the Venus flytrap is endemic to a small area in North and South Carolina. An <emphasis>endemic</emphasis> species is one which is naturally found only in a specific geographic area that is usually restricted in size. Other species are generalists: species which live in a wide variety of geographic areas; the raccoon, for example, is native to most of North and Central America.</para>
+<para id="fs-idp47145856">Species distribution patterns are based on biotic and abiotic factors and their influences during the very long periods of time required for species evolution; therefore, early studies of biogeography were closely linked to the emergence of evolutionary thinking in the eighteenth century. Some of the most distinctive assemblages of plants and animals occur in regions that have been physically separated for millions of years by geographic barriers. Biologists estimate that Australia, for example, has between 600,000 and 700,000 species of plants and animals. Approximately 3/4 of living plant and mammal species are endemic species found solely in Australia (<link target-id="fig-ch44_02_01" document=""/><emphasis effect="bold">ab</emphasis>).</para>
+<figure id="fig-ch44_02_01" class="ost-tag-lo-apbio-ch35-s02-lo01"><media id="fs-idm33943136" alt=" Photo (a) depicts a wallaby, a member of the kangaroo family. The wallaby is brown with white flecks on its fur and a light brown underbelly. Its hands are clasped together. Photo (b) shows an echidna. Like a porcupine, the echidna has a compact body covered with brown and white quills. It has a long, slender snout.">
+<image mime-type="image/jpg" src="../../media/Figure_44_02_01ab.jpg" width="475"/>
+</media>
+<caption>Australia is home to many endemic species. The (a) wallaby (<emphasis effect="italics">Wallabia bicolor</emphasis>), a medium-sized member of the kangaroo family, is a pouched mammal, or marsupial. The (b) echidna (<emphasis effect="italics">Tachyglossus aculeatus</emphasis>) is an egg-laying mammal. (credit a: modification of work by Derrick Coetzee; credit b: modification of work by Allan Whittome)</caption></figure><para id="fs-idm43825488">Sometimes ecologists discover unique patterns of species distribution by determining where species are <emphasis effect="italics">not</emphasis> found. Hawaii, for example, has no native land species of reptiles or amphibians, and has only one native terrestrial mammal, the hoary bat. Most of New Guinea, as another example, lacks placental mammals.</para>
+<note id="fs-idm64212016" class="interactive ost-tag-lo-apbio-ch35-s02-lo01 ost-assessed-feature"><label>Link to Learning</label>
+<para id="fs-idm155883120">Check out this <link window="new" url="http://openstax.org/l/platypus">video</link> to observe a platypus swimming in its natural habitat in New South Wales, Australia.</para>
+<exercise id="fs-id1167067067719" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167063496962">
+<para id="fs-id1167067008450">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex014"/>
+</para>
+</problem>
+</exercise>
+</note><para id="fs-idm173682256">Plants can be endemic or generalists: endemic plants are found only on specific regions of the Earth, while generalists are found on many regions. Isolated land masses—such as Australia, Hawaii, and Madagascar—often have large numbers of endemic plant species. Some of these plants are endangered due to human activity. The forest gardenia (<emphasis effect="italics">Gardenia brighamii</emphasis>), for instance, is endemic to Hawaii; only an estimated 15–20 trees are thought to exist (<link target-id="fig-ch44_02_02" document=""/>).</para>
+<note id="fs-id1167063764001" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch35-s02-aplo-2-24">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167067133603" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167063725808" class="unnumbered"><label/>
+<problem id="fs-id1167067274930"><para id="fs-id1167067231942">Many endemic species are found in areas that are geographically isolated. What is a possible scientific explanation for this observation? Justify your answer.</para></problem></exercise>
+</note>
+<note id="fs-id1167063649823" class="ost-assignable ost-sciprac-lab">
+<label/><title>Lab Investigation</title>
+<para id="fs-id1167063622407">Use <emphasis effect="italics">The College Board Advanced Placement Program: Measuring Primary Productivity—Grass Plants: Student Lab Template</emphasis>, found <link url="http://openstax.org/l/32grass">here</link> to explore the concept of primary productivity versus gross productivity. You will calculate primary productivity, be introduced to the benefits of measuring dry mass versus wet mass, and make predictions about the changes in net primary productivity based on the variables you decide to focus on.</para>
+<para id="fs-id1167066962024">To learn more about calculating net primary productivity, watch <link url="https://openstax.org/l/32nppcalc">this video</link>.</para></note>
+<note id="fs-id1167066975217" class="os-teacher"><label>Teacher Support</label>
+<list id="eip-id1167067144178"><item>The Think About It question is an application of AP<sup>®</sup> Learning Objective 2.24 and Science Practice 5.1 because students are asked to draw conclusions (explanations) from observable data.</item>
+<item>Sample Answer for Think About It question: Isolated species experience genetic drift, a random change in allele frequency in a population. In a small enough population that does not interbreed other populations of the same species, the differences add up over a long period of time and can create a new species. Geographical isolation ensures there will be no influx of genetic information from the original species to inhibit the evolution of a new species uniquely suited to its location.</item>
+<item>The lab investigation is an application of AP<sup>®</sup> Learning Objective 2.24 and Science Practices 1.3, 3.2, 5.1, and 7.2 because students will make predictions about natural phenomena, design experiments to test the effects of different variables, evaluate evidence provided by the data, use data to perform calculations, and use that information to support a conclusion. Teacher resources for this lab are in The College Board Advanced Placement Program: Measuring Primary Productivity—Teacher Lab Template, found <link url="https://openstax.org/l/32lab">here</link>.</item>
+</list></note></note>
+<figure id="fig-ch44_02_02" class="ost-tag-lo-apbio-ch35-s02-lo01"><media id="fs-idm151491744" alt="The photo shows a white flower with seven smooth, diamond-shaped petals radiating out from a yellow center. The flower is surrounded by waxy green leaves.">
+<image mime-type="image/jpg" src="../../media/Figure_44_02_02.jpg" width="255"/>
+</media>
+<caption>Listed as federally endangered, the forest gardenia is a small tree with distinctive flowers. It is found only in five of the Hawaiian Islands in small populations consisting of a few individual specimens. (credit: Forest &amp; Kim Starr)</caption></figure>
+<section id="fs-idm26362272" class="ost-tag-lo-apbio-ch35-s02-lo03 ost-tag-lo-apbio-ch35-s02-lo04">
+<title>Energy Sources</title>
+<para id="fs-idp8537744">Energy from the sun is captured by green plants, algae, cyanobacteria, and photosynthetic protists. These organisms convert solar energy into the chemical energy needed by all living things. Light availability can be an important force directly affecting the evolution of adaptations in photosynthesizers. For instance, plants in the understory of a temperate forest are shaded when the trees above them in the canopy completely leaf out in the late spring. Not surprisingly, understory plants have adaptations to successfully capture available light. One such adaptation is the rapid growth of spring ephemeral plants such as the spring beauty (<link target-id="fig-ch44_02_03" document=""/>). These spring flowers achieve much of their growth and finish their life cycle (reproduce) early in the season before the trees in the canopy develop leaves.</para>
+<figure id="fig-ch44_02_03" class="ost-tag-lo-apbio-ch35-s02-lo02 ost-tag-lo-apbio-ch35-s02-aplo-2-24"><media id="fs-idp90700528" alt=" This photo shows a white flower with five diamond-shaped petals radiating out from a green center. Faint purple lines radiate out from the center of each petal toward the tip. Five stalk-like stamens with pink-tipped anthers extend from the flower’s green center.">
+<image mime-type="image/jpg" src="../../media/Figure_44_02_03.jpg" width="255"/>
+</media>
+<caption>The spring beauty is an ephemeral spring plant that flowers early in the spring to avoid competing with larger forest trees for sunlight. (credit: John Beetham)</caption></figure><para id="fs-idp65054160">In aquatic ecosystems, the availability of light may be limited because sunlight is absorbed by water, plants, suspended particles, and resident microorganisms. Toward the bottom of a lake, pond, or ocean, there is a zone that light cannot reach. Photosynthesis cannot take place there and, as a result, a number of adaptations have evolved that enable living things to survive without light. For instance, aquatic plants have photosynthetic tissue near the surface of the water; for example, think of the broad, floating leaves of a water lily—water lilies cannot survive without light. In environments such as hydrothermal vents, some bacteria extract energy from inorganic chemicals because there is no light for photosynthesis.</para>
+<para id="fs-idp67880848">The availability of nutrients in aquatic systems is also an important aspect of energy or photosynthesis. Many organisms sink to the bottom of the ocean when they die in the open water; when this occurs, the energy found in that living organism is sequestered for some time unless ocean upwelling occurs. <emphasis>Ocean upwelling</emphasis> is the rising of deep ocean waters that occurs when prevailing winds blow along surface waters near a coastline (<link target-id="fig-ch44_02_04" document=""/>). As the wind pushes ocean waters offshore, water from the bottom of the ocean moves up to replace this water. As a result, the nutrients once contained in dead organisms become available for reuse by other living organisms.</para>
+<figure id="fig-ch44_02_04" class="ost-tag-lo-apbio-ch35-s02-lo03 ost-tag-lo-apbio-ch35-s02-aplo-2-22"><media id="fs-idm28625488" alt=" Arrows in the illustration indicate that the prevailing wind direction is from the coastline toward the open ocean. The wind pushes the surface water away from shore, inducing a current in this direction. A counter-current flows from the depths toward shore, where it meets the surface current. The counter-current brings nutrients from the depths up toward the surface near the shoreline.">
+<image mime-type="image/jpg" src="../../media/Figure_44_02_04.png" width="305"/>
+</media>
+<caption>Ocean upwelling is an important process that recycles nutrients and energy in the ocean. As wind (green arrows) pushes offshore, it causes water from the ocean bottom (red arrows) to move to the surface, bringing up nutrients from the ocean depths.</caption></figure><para id="fs-idm110497328">In freshwater systems, the recycling of nutrients occurs in response to air temperature changes. The nutrients at the bottom of lakes are recycled twice each year: in the spring and fall turnover. The <emphasis>spring and fall turnover</emphasis> is a seasonal process that recycles nutrients and oxygen from the bottom of a freshwater ecosystem to the top of a body of water (<link target-id="fig-ch44_02_05" document=""/>). These turnovers are caused by the formation of a <emphasis>thermocline</emphasis>: a layer of water with a temperature that is significantly different from that of the surrounding layers. In wintertime, the surface of lakes found in many northern regions is frozen. However, the water under the ice is slightly warmer, and the water at the bottom of the lake is warmer yet at 4 °C to 5 °C (39.2 °F to 41 °F). Water is densest at 4 °C; therefore, the deepest water is also the densest. The deepest water is oxygen poor because the decomposition of organic material at the bottom of the lake uses up available oxygen that cannot be replaced by means of oxygen diffusion into the water due to the surface ice layer.</para>
+<note id="fs-idm29091312" class="visual-connection ost-tag-lo-apbio-ch35-s02-lo03 ost-tag-lo-apbio-ch35-s02-aplo-2-24 ost-assessed-feature"><label>Visual Connection</label>
+<figure id="fig-ch44_02_05"><media id="fs-idp7072480" alt=" The illustration shows a cross-section of a lake in four different seasons. In winter, the surface of the lake is frozen with a temperature of 0°C. The temperature at the bottom of the lake is 4°C, and the temperature just beneath the surface is 2°C. During the spring turnover, the surface ice melts and warms to 4°C. At this temperature, the surface water is denser than the 2°C water beneath; therefore, it sinks. In summertime, the surface of the lake is 21°C, and the temperature decreases with depth, to 4°C at the bottom. During the fall turnover, the warm surface water cools to about 10°C; thus, it becomes denser and sinks.">
+<image mime-type="image/jpg" src="../../media/Figure_44_02_05.png" width="380"/>
+</media>
+<caption>The spring and fall turnovers are important processes in freshwater lakes that act to move the nutrients and oxygen at the bottom of deep lakes to the top. Turnover occurs because water has a maximum density at 4 °C. Surface water temperature changes as the seasons progress, and denser water sinks.</caption></figure>
+<!--<para id="fs-idp58077280">How might turnover in tropical lakes differ from turnover in lakes that exist in temperate regions?</para>-->
+<!--<para><link target-id="fig-ch44_02_05" document=""/>Tropical lakes don&#8217;t freeze, so they don&#8217;t undergo spring turnover in the same way temperate lakes do. However, stratification does occur, as well as seasonal turnover.</para>-->
+<exercise id="fs-id1167067200860" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167066952841">
+<para id="fs-id1167063526956">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex015"/>
+</para>
+</problem>
+</exercise>
+</note><para id="fs-idm96548704">In springtime, air temperatures increase and surface ice melts. When the temperature of the surface water begins to reach 4 °C, the water becomes heavier and sinks to the bottom. The water at the bottom of the lake is then displaced by the heavier surface water and, thus, rises to the top. As that water rises to the top, the sediments and nutrients from the lake bottom are brought along with it. During the summer months, the lake water stratifies, or forms layers, with the warmest water at the lake surface.</para><para id="fs-idp88946144">As air temperatures drop in the fall, the temperature of the lake water cools to 4 °C; therefore, this causes fall turnover as the heavy cold water sinks and displaces the water at the bottom. The oxygen-rich water at the surface of the lake then moves to the bottom of the lake, while the nutrients at the bottom of the lake rise to the surface (<link target-id="fig-ch44_02_05" document=""/>). During the winter, the oxygen at the bottom of the lake is used by decomposers and other organisms requiring oxygen, such as fish.</para></section>
+<section id="fs-idm14018672" class="ost-tag-lo-apbio-ch35-s02-lo02 ost-tag-lo-apbio-ch35-s02-lo03 ost-tag-lo-apbio-ch35-s02-aplo-2-23">
+<title>Temperature</title>
+<para id="fs-idm149941584">Temperature affects the physiology of living things as well as the density and state of water. Temperature exerts an important influence on living things because few living things can survive at temperatures below 0 °C (32 °F) due to metabolic constraints. It is also rare for living things to survive at temperatures exceeding 45 °C (113 °F); this is a reflection of evolutionary response to typical temperatures. Enzymes are most efficient within a narrow and specific range of temperatures; enzyme degradation can occur at higher temperatures. Therefore, organisms either must maintain an internal temperature or they must inhabit an environment that will keep the body within a temperature range that supports metabolism. Some animals have adapted to enable their bodies to survive significant temperature fluctuations, such as seen in hibernation or reptilian torpor. Similarly, some bacteria are adapted to surviving in extremely hot temperatures such as geysers. Such bacteria are examples of extremophiles: organisms that thrive in extreme environments.</para><para id="fs-idm15445200">Temperature can limit the distribution of living things. Animals faced with temperature fluctuations may respond with adaptations, such as migration, in order to survive. Migration, the movement from one place to another, is an adaptation found in many animals, including many that inhabit seasonally cold climates. Migration solves problems related to temperature, locating food, and finding a mate. In migration, for instance, the Arctic Tern (<emphasis effect="italics">Sterna paradisaea</emphasis>) makes a 40,000 km (24,000 mi) round trip flight each year between its feeding grounds in the southern hemisphere and its breeding grounds in the Arctic Ocean. Monarch butterflies (<emphasis effect="italics">Danaus plexippus</emphasis>) live in the eastern United States in the warmer months and migrate to Mexico and the southern United States in the wintertime. Some species of mammals also make migratory forays. Reindeer (<emphasis effect="italics">Rangifer tarandus</emphasis>) travel about 5,000 km (3,100 mi) each year to find food. Amphibians and reptiles are more limited in their distribution because they lack migratory ability. Not all animals that can migrate do so: migration carries risk and comes at a high energy cost.</para>
+<para id="fs-idp226950048">Some animals hibernate or estivate to survive hostile temperatures. Hibernation enables animals to survive cold conditions, and estivation allows animals to survive the hostile conditions of a hot, dry climate. Animals that hibernate or estivate enter a state known as torpor: a condition in which their metabolic rate is significantly lowered. This enables the animal to wait until its environment better supports its survival. Some amphibians, such as the wood frog (<emphasis effect="italics">Rana sylvatica</emphasis>), have an antifreeze-like chemical in their cells, which retains the cells’ integrity and prevents them from bursting.</para>
+</section>
+<section id="fs-idp48507440" class="ost-tag-lo-apbio-ch35-s02-lo03 ost-tag-lo-apbio-ch35-s02-aplo-2-22">
+<title>Water</title>
+<para id="fs-idm95762688">Water is required by all living things because it is critical for cellular processes. Since terrestrial organisms lose water to the environment by simple diffusion, they have evolved many adaptations to retain water.</para>
+<list id="fs-idm117919040" list-type="bulleted">
+    <item>Plants have a number of interesting features on their leaves, such as leaf hairs and a waxy cuticle, that serve to decrease the rate of water loss via transpiration.</item>
+<item>Freshwater organisms are surrounded by water and are constantly in danger of having water rush into their cells because of osmosis. Many adaptations of organisms living in freshwater environments have evolved to ensure that solute concentrations in their bodies remain within appropriate levels. One such adaptation is the excretion of dilute urine.</item>
+<item>Marine organisms are surrounded by water with a higher solute concentration than the organism and, thus, are in danger of losing water to the environment because of osmosis. These organisms have morphological and physiological adaptations to retain water and release solutes into the environment. For example, Marine iguanas (<emphasis effect="italics">Amblyrhynchus cristatus</emphasis>), sneeze out water vapor that is high in salt in order to maintain solute concentrations within an acceptable range while swimming in the ocean and eating marine plants.</item>
+</list>
+</section>
+<section id="fs-idp122178080" class="ost-tag-lo-apbio-ch35-s02-lo03">
+<title>Inorganic Nutrients and Soil</title>
+<para id="fs-idm80280656">Inorganic nutrients, such as nitrogen and phosphorus, are important in the distribution and the abundance of living things. Plants obtain these inorganic nutrients from the soil when water moves into the plant through the roots. Therefore, soil structure (particle size of soil components), soil pH, and soil nutrient content play an important role in the distribution of plants. Animals obtain inorganic nutrients from the food they consume. Therefore, animal distributions are related to the distribution of what they eat. In some cases, animals will follow their food resource as it moves through the environment.</para>
+</section>
+<section id="fs-idm89608304" class="ost-tag-lo-apbio-ch35-s02-lo03">
+<title>Other Aquatic Factors</title>
+<para id="fs-idp9927232">Some abiotic factors, such as oxygen, are important in aquatic ecosystems as well as terrestrial environments. Terrestrial animals obtain oxygen from the air they breathe. Oxygen availability can be an issue for organisms living at very high elevations, however, where there are fewer molecules of oxygen in the air. In aquatic systems, the concentration of dissolved oxygen is related to water temperature and the speed at which the water moves. Cold water has more dissolved oxygen than warmer water. In addition, salinity, current, and tide can be important abiotic factors in aquatic ecosystems.</para>
+</section>
+<section id="fs-idp69649680" class="ost-tag-lo-apbio-ch35-s02-aplo-2-22">
+<title>Other Terrestrial Factors</title>
+<para id="fs-idp88336768">Wind can be an important abiotic factor because it influences the rate of evaporation and transpiration. The physical force of wind is also important because it can move soil, water, or other abiotic factors, as well as an ecosystem’s organisms.</para>
+<para id="fs-idm113614000">Fire is another terrestrial factor that can be an important agent of disturbance in terrestrial ecosystems. Some organisms are adapted to fire and, thus, require the high heat associated with fire to complete a part of their life cycle. For example, the jack pine—a coniferous tree—requires heat from fire for its seed cones to open (<link target-id="fig-ch44_02_06" document=""/>). Through the burning of pine needles, fire adds nitrogen to the soil and limits competition by destroying undergrowth.</para>
+<figure id="fig-ch44_02_06" class=" "><media id="fs-idm71170576" alt=" Photo shows two pine cones that are tightly closed and attached to a branch.">
+<image mime-type="image/jpg" src="../../media/Figure_44_02_06.jpg" width="290"/>
+</media>
+<caption>The mature cones of the jack pine <emphasis effect="italics">(Pinus banksiana) </emphasis>open only when exposed to high temperatures, such as during a forest fire. A fire is likely to kill most vegetation, so a seedling that germinates after a fire is more likely to receive ample sunlight than one that germinates under normal conditions. (credit: USDA)</caption></figure></section>
+</section>
+<section id="fs-idm99887248" class="ost-tag-lo-apbio-ch35-s02-lo04 ost-tag-lo-apbio-ch35-s02-aplo-2-23 ost-get-exercise">
+<title>Abiotic Factors Influencing Plant Growth</title>
+<para id="fs-idm103544816">Temperature and moisture are important influences on plant production (primary productivity) and the amount of organic matter available as food (net primary productivity). <emphasis>Net primary productivity</emphasis> is an estimation of all of the organic matter available as food; it is calculated as the total amount of carbon fixed per year minus the amount that is oxidized during cellular respiration. In terrestrial environments, net primary productivity is estimated by measuring the <emphasis>aboveground biomass</emphasis> per unit area, which is the total mass of living plants, excluding roots. This means that a large percentage of plant biomass which exists underground is not included in this measurement. Net primary productivity is an important variable when considering differences in biomes. Very productive biomes have a high level of aboveground biomass.</para>
+<para id="fs-idp1195920">Annual biomass production is directly related to the abiotic components of the environment. Environments with the greatest amount of biomass have conditions in which photosynthesis, plant growth, and the resulting net primary productivity are optimized. The climate of these areas is warm and wet. Photosynthesis can proceed at a high rate, enzymes can work most efficiently, and stomata can remain open without the risk of excessive transpiration; together, these factors lead to the maximal amount of carbon dioxide (CO<sub>2</sub>) moving into the plant, resulting in high biomass production. The aboveground biomass produces several important resources for other living things, including habitat and food. Conversely, dry and cold environments have lower photosynthetic rates and therefore less biomass. The animal communities living there will also be affected by the decrease in available food.</para>
+</section>
+<section id="fs-idm3680320" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idm69481120">Biogeography is the study of the geographic distribution of living things and the abiotic factors that affect their distribution. Endemic species are species that are naturally found only in a specific geographic area. The distribution of living things is influenced by several environmental factors that are, in part, controlled by the latitude or elevation at which an organism is found. Ocean upwelling and spring and fall turnovers are important processes regulating the distribution of nutrients and other abiotic factors important in aquatic ecosystems. Energy sources, temperature, water, inorganic nutrients, and soil are factors limiting the distribution of living things in terrestrial systems. Net primary productivity is a measure of the amount of biomass produced by a biome.</para>
+</section>
+<!--<section id="fs-idm138095184" class="art-exercise">
+    <title>Art Connections</title>
+    <exercise id="fs-idp98793296">
+        <problem id="fs-idm74513248">
+        <para id="fs-idp166285488"><link target-id="fig-ch44_02_05" document=""/> How might turnover in tropical lakes differ from turnover in lakes that exist in temperate regions?</para>
+    </problem>
+<solution id="fs-idm94637584">
+    <label/>
+    <para id="fs-idm27515888"><link target-id="fig-ch44_02_05" document=""/> Tropical lakes don&#8217;t freeze, so they don&#8217;t undergo spring turnover in the same way temperate lakes do. However, stratification does occur, as well as seasonal turnover.</para>
+</solution>
+    </exercise>
+    </section>
+<section id="fs-idp61986704" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm245558256">
+<problem id="fs-idp70923072"><para id="fs-idp116518016">Understory plants in a temperate forest have adaptations to capture limited ________.</para>
+<list id="fs-idm164205072" list-type="enumerated" number-style="lower-alpha"><item>water</item>
+<item>nutrients</item>
+<item>heat</item>
+<item>sunlight</item>
+</list></problem>
+<solution id="fs-idm26732256">
+<label/>
+<para id="fs-idm68039344">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm66852096">
+<problem id="fs-idp97581920"><para id="fs-idm105380512">An ecologist hiking up a mountain may notice different biomes along the way due to changes in all of the following except:</para>
+<list id="fs-idm60317280" list-type="enumerated" number-style="lower-alpha"><item>elevation</item>
+<item>rainfall</item>
+<item>latitude</item>
+<item>temperature</item>
+</list></problem>
+<solution id="fs-idp12424704">
+<label/>
+<para id="fs-idp7961584">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm155863504" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm68610512">
+<problem id="fs-idp22592688"><para id="fs-idm161780864">Compare and contrast ocean upwelling and spring and fall turnovers.</para></problem>
+<solution id="fs-idm120720624"><label/>
+<para id="fs-idp10692656">Ocean upwelling is a continual process that occurs year-round. Spring and fall turnover in freshwater lakes and ponds, however, is a seasonal process that occurs due to temperature changes in the water that take place during springtime warming and autumn cooling. Both ocean upwelling and spring and fall turnover enable nutrients in the organic materials at the bottom of the body of water to be recycled and reused by living things.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp14281392">
+<problem id="fs-idm66342096"><para id="fs-idm40772032">Many endemic species are found in areas that are geographically isolated. Suggest a plausible scientific explanation for why this is so.</para></problem>
+<solution id="fs-idm20579552"><label/>
+<para id="fs-idm62005376">Areas that have been geographically isolated for very long periods of time allow unique species to evolve; these species are distinctly different from those of surrounding areas and remain so, since geographic isolation keeps them separated from other species.</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167067099500" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167063486456" class="os-exercise">
+<problem id="fs-id1167063526902">
+<para id="fs-id1167067083192">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex016"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067300122" class="os-exercise">
+<problem id="fs-id1167063515161">
+<para id="fs-id1167067084173">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex017"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063890067" class="os-exercise">
+<problem id="fs-id1167061376933">
+<para id="fs-id1167063506455">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex018"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067049915" class="os-exercise">
+<problem id="fs-id1167067247839">
+<para id="fs-id1167061399411">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex019"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067107339" class="os-exercise">
+<problem id="fs-id1167067147672">
+<para id="fs-id1167067240251">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex020"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066848501" class="os-exercise">
+<problem id="fs-id1167067274409">
+<para id="fs-id1167063599374">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex021"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063649431" class="os-exercise">
+<problem id="fs-id1167066862308">
+<para id="fs-id1167067158516">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex022"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067067842" class="os-exercise">
+<problem id="fs-id1167067154095">
+<para id="fs-id1167063961344">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex023"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163775686431" class="os-exercise">
+<problem id="eip-id1163775686435">
+<para id="eip-id1163775686437">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ot011"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167063956820" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167063606267" class="os-exercise">
+<problem id="fs-id1167063526202">
+<para id="fs-id1167067142993">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex024"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067289491" class="os-exercise">
+<problem id="fs-id1167067066845">
+<para id="fs-id1167067166437">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex025"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067198119" class="os-exercise">
+<problem id="fs-id1167063828412">
+<para id="fs-id1167066863770">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex026"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167061190349" class="os-exercise">
+<problem id="fs-id1167067254339">
+<para id="fs-id1167066803995">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex027"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163775891544" class="os-exercise">
+<problem id="eip-id1163775891548">
+<para id="eip-id1163775891550">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ot013"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167067145778" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup><sup>®</sup></sup> Courses</title>
+<exercise id="fs-id1167067061749" class="os-exercise  ost-tag-lo-apbio-ch35-s02-aplo-2-22">
+<problem id="fs-id1167063576673">
+<para id="fs-id1167061214683">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex028"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063679012" class="os-exercise">
+<problem id="fs-id1167063644525">
+<para id="fs-id1167066861119">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex029"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067191081" class="os-exercise  ost-tag-lo-apbio-ch35-s02-aplo-2-23">
+<problem id="fs-id1167066834656">
+<para id="fs-id1167067054792">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex030"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067066440" class="os-exercise">
+<problem id="fs-id1167067080106">
+<para id="fs-id1167061348510">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex031"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167061211171" class="os-exercise  ost-tag-lo-apbio-ch35-s02-aplo-2-24">
+<problem id="fs-id1167063506331">
+<para id="fs-id1167067231554">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex032"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066993978" class="os-exercise">
+<problem id="fs-id1167067018752">
+<para id="fs-id1167066877196">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex033"/>
+</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm142038672"><term>aboveground biomass</term> <meaning id="fs-idm69474704">total mass of aboveground living plants per area</meaning></definition>
+<definition id="fs-idm103541392"><term>biogeography</term> <meaning id="fs-idm46378320">study of the geographic distribution of living things and the abiotic factors that affect their distribution</meaning></definition>
+<definition id="fs-idp116856272"><term>biome</term> <meaning id="fs-idp90298928">ecological community of plants, animals, and other organisms that is adapted to a characteristic set of environmental conditions</meaning></definition>
+<definition id="fs-idm18367808"><term>endemic</term> <meaning id="fs-idp84111552">species found only in a specific geographic area that is usually restricted in size</meaning></definition>
+<definition id="fs-idm100637216"><term>fall and spring turnover</term> <meaning id="fs-idm159841776">seasonal process that recycles nutrients and oxygen from the bottom of a freshwater ecosystem to the top</meaning></definition>
+<definition id="fs-idp21617888"><term>net primary productivity</term> <meaning id="fs-idm19904224">measurement of the energy accumulation within an ecosystem, calculated as the total amount of carbon fixed per year minus the amount that is oxidized during cellular respiration</meaning></definition>
+<definition id="fs-idm19874800"><term>ocean upwelling</term> <meaning id="fs-idm28592992">rising of deep ocean waters that occurs when prevailing winds blow along surface waters near a coastline</meaning></definition>
+<definition id="fs-idm143618064"><term>thermocline</term> <meaning id="fs-idm48733440">layer of water with a temperature that is significantly different from that of the surrounding layers</meaning></definition>
+</glossary>
+</document>

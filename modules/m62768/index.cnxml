@@ -1,0 +1,212 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>ATP: Adenosine Triphosphate</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62768</md:content-id>
+  <md:title>ATP: Adenosine Triphosphate</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the role of ATP as the cellular energy currency</item>
+<item>Describe how energy is released through hydrolysis of ATP</item>
+</list></md:abstract>
+  <md:uuid>e4bcd951-3f03-4d34-88d6-ed0892607970</md:uuid>
+</metadata>
+
+<content>
+
+<section id="fs-id1167067254575" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067305294">In this section, you will explore the following questions:</para>
+<list id="fs-id1167067040716">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch06-s04-lo01">Why is ATP considered the energy currency of the cell?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch06-s04-lo02">How is energy released through the hydrolysis of ATP?</item>
+</list>
+</section>
+
+
+<section id="fs-id1167067100612" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167063503549">Adenosine triphosphate or ATP is the energy currency or carrier of the cell. When cells require an input of energy, they use ATP. An ATP nucleotide molecule consists of a five-carbon sugar, the nitrogenous base adenine, and three phosphate groups. (Do not confuse ATP with the nucleotides of DNA and RNA, although they have structural similarities.) The bonds that connect the phosphate have high-energy content, and the energy released from the hydrolysis of ATP to ADP + P<sub>i</sub> (Adenosine Diphosphate + phosphate) is used to perform cellular work, such as contracting a muscle or pumping a solute across a cell membrane in active transport. Cells use ATP by coupling the exergonic reaction of ATP hydrolysis with endergonic reactions, with ATP donating its phosphate group to another molecule via a process called phosphorylation. The phosphorylated molecule is at a higher energy state and is less stable than its unphosphorylated form and free energy is released to substrates to perform work during this process. Phosphorylation is an example of energy transfer between molecules.</para><para id="fs-id1167063730487" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167067217629" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.1 All living systems require constant input of free energy. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 2.1 The student is able to explain how biological systems use free energy based on empirical data that all organisms require constant energy input to maintain organization, to grow, and to reproduce." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.1</emphasis></span>
+<span class="ost-standards-description">All living systems require constant input of free energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s04-aplo-2-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.1</emphasis></span>
+<span class="ost-standards-description">The student is able to explain how biological systems use free energy based on empirical data that all organisms require constant energy input to maintain organization, to grow, and to reproduce.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+
+
+<note id="fs-id1167067111161" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167066808203" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167066847650">It is easy to say that ATP carries energy and transfers it to chemicals to fuel reactions. The hard part is in answering the question, how? All three phosphates are negatively charged and naturally repel each other. Energy is needed to keep them together. Line them up and the repelling forces increase and makes it difficult to get the third phosphate attached. This requires much more energy and creates an unstable bond. Energy is stored in this easily broken bond and can be passed on when the third phosphate is used to phosphorylate another compound. It brings the energy with it and losses some in the transfer, creating wasted energy as heat.</para>
+</note></note>
+<para id="fs-id1166850208695">The Science Practices Assessment Ancillary contains additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.2][APLO 4.14][APLO 2.7][APLO 2.35]</para>
+<para id="fs-id2155409">Even exergonic, energy-releasing reactions require a small amount of activation energy in order to proceed. However, consider endergonic reactions, which require much more energy input, because their products have more free energy than their reactants. Within the cell, where does energy to power such reactions come from? The answer lies with an energy-supplying molecule called <term>adenosine triphosphate</term>, or <term>ATP</term>. ATP is a small, relatively simple molecule (<link target-id="fs-id1167067148019" document=""/>), but within some of its bonds, it contains the potential for a quick burst of energy that can be harnessed to perform cellular work. This molecule can be thought of as the primary energy currency of cells in much the same way that money is the currency that people exchange for things they need. ATP is used to power the majority of energy-requiring cellular reactions.</para><figure id="fs-id1167067148019" class="ost-tag-lo-apbio-ch06-s03-lo01 ost-tag-lo-apbio-ch06-s04-aplo-2-1"><media id="fs-id1870581" alt="The molecular structure of adenosine triphosphate is shown. Three phosphate groups are attached to a ribose sugar. Adenine is also attached to the ribose.">
+<image mime-type="image/jpg" src="../../media/Figure_06_04_01-aa87.jpg" width="320"/>
+</media>
+<caption>ATP is the primary energy currency of the cell. It has an adenosine backbone with three phosphate groups attached.</caption></figure><note id="fs-id1167066774165" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167063599552"><link target-id="fs-id1167067148019"/> is useful in illustrating the structure of ATP and why it is easy to detach the gamma phosphate that is hanging out at the end of the structure. <link target-id="fs-id1167066807541"/> is useful in illustrating the use of ATP in the sodium-potassium pump that is in every cell membrane.</para></note>
+
+<para id="fs-id1467282">As its name suggests, adenosine triphosphate is comprised of adenosine bound to three phosphate groups (<link target-id="fs-id1167067148019" document=""/>). Adenosine is a nucleoside consisting of the nitrogenous base adenine and a five-carbon sugar, ribose. The three phosphate groups, in order of closest to furthest from the ribose sugar, are labeled alpha, beta, and gamma. Together, these chemical groups constitute an energy powerhouse. However, not all bonds within this molecule exist in a particularly high-energy state. Both bonds that link the phosphates are equally high-energy bonds (<term>phosphoanhydride bonds</term>) that, when broken, release sufficient energy to power a variety of cellular reactions and processes. These high-energy bonds are the bonds between the second and third (or beta and gamma) phosphate groups and between the first and second phosphate groups. The reason that these bonds are considered “high-energy” is because the products of such bond breaking—adenosine diphosphate (ADP) and one inorganic phosphate group (P<sub>i</sub>)—have considerably lower free energy than the reactants: ATP and a water molecule. Because this reaction takes place with the use of a water molecule, it is considered a hydrolysis reaction. In other words, ATP is hydrolyzed into ADP in the following reaction:</para><equation id="eip-628"><m:math display="block"><m:semantics>
+        <m:mrow>
+            <m:mtext>ATP</m:mtext><m:mo>+</m:mo><m:msub>
+                <m:mtext>H</m:mtext>
+                <m:mtext>2</m:mtext>
+            </m:msub>
+            <m:mtext>O</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>ADP</m:mtext><m:mo>+</m:mo><m:msub>
+                <m:mtext>P</m:mtext>
+                <m:mtext>i</m:mtext>
+            </m:msub>
+            <m:mo>+</m:mo><m:mtext>free energy</m:mtext>
+        </m:mrow>
+<m:annotation encoding="StarMath 5.0">size 12{{ATP} + H rSub { size 8{2} } O  ADP + P rSub { size 8{i}} + {free energy} } {}</m:annotation></m:semantics></m:math></equation><para id="fs-id1477773">Like most chemical reactions, the hydrolysis of ATP to ADP is reversible. The reverse reaction regenerates ATP from ADP + P<sub>i</sub>. Indeed, cells rely on the regeneration of ATP just as people rely on the regeneration of spent money through some sort of income. Since ATP hydrolysis releases energy, ATP regeneration must require an input of free energy. The formation of ATP is expressed in this equation:</para>
+<equation id="eip-976"><m:math display="block"><m:semantics>
+        <m:mrow>
+            <m:mtext>ADP</m:mtext><m:mo>+</m:mo><m:msub>
+                <m:mtext>P</m:mtext>
+                <m:mtext>i</m:mtext>
+            </m:msub>
+            <m:mo>+</m:mo><m:mtext>free energy</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>ATP</m:mtext><m:mo>+</m:mo><m:msub>
+                <m:mtext>H</m:mtext>
+                <m:mtext>2</m:mtext>
+            </m:msub>
+            <m:mtext>O</m:mtext>
+        </m:mrow>
+<m:annotation encoding="StarMath 5.0">size 12{{ATP} + H rSub { size 8{2} } O  ADP + P rSub { size 8{i}} + {free energy} } {}</m:annotation></m:semantics></m:math></equation><para id="fs-id1780567">Two prominent questions remain with regard to the use of ATP as an energy source. Exactly how much free energy is released with the hydrolysis of ATP, and how is that free energy used to do cellular work? The calculated ∆G  for the hydrolysis of one mole of ATP into ADP and P<sub>i</sub> is −7.3 kcal/mole (−30.5 kJ/mol). Since this calculation is true under standard conditions, it would be expected that a different value exists under cellular conditions. In fact, the ∆G  for the hydrolysis of one mole of ATP in a living cell is almost double the value at standard conditions: -14 kcal/mol (−57 kJ/mol).</para><para id="fs-id2018833">ATP is a highly unstable molecule. Unless quickly used to perform work, ATP spontaneously dissociates into ADP + P<sub>i</sub>, and the free energy released during this process is lost as heat. The second question posed above, that is, how the energy released by ATP hydrolysis is used to perform work inside the cell, depends on a strategy called <term>energy coupling</term>. Cells couple the exergonic reaction of ATP hydrolysis with endergonic reactions, allowing them to proceed. One example of energy coupling using ATP involves a transmembrane ion pump that is extremely important for cellular function. This sodium-potassium pump (Na<sup>+</sup>/K<sup>+</sup> pump) drives sodium out of the cell and potassium into the cell (<link target-id="fs-id1167066807541" document=""/>). A large percentage of a cell’s ATP is spent powering this pump, because cellular processes bring a great deal of sodium into the cell and potassium out of the cell. The pump works constantly to stabilize cellular concentrations of sodium and potassium. In order for the pump to turn one cycle (exporting three Na+ ions and importing two K<sup>+</sup> ions), one molecule of ATP must be hydrolyzed. When ATP is hydrolyzed, its gamma phosphate doesn’t simply float away, but is actually transferred onto the pump protein. This process of a phosphate group binding to a molecule is called phosphorylation. As with most cases of ATP hydrolysis, a phosphate from ATP is transferred onto another molecule. In a phosphorylated state, the Na<sup>+</sup>/K<sup>+</sup> pump has more free energy and is triggered to undergo a conformational change. This change allows it to release Na<sup>+</sup> to the outside of the cell. It then binds extracellular K<sup>+</sup>, which, through another conformational change, causes the phosphate to detach from the pump. This release of phosphate triggers the K<sup>+</sup> to be released to the inside of the cell. Essentially, the energy released from the hydrolysis of ATP is coupled with the energy required to power the pump and transport Na<sup>+</sup> and K<sup>+</sup> ions. ATP performs cellular work using this basic form of energy coupling through phosphorylation.</para><note id="fs-id2581828" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
+<para id="fs-id1704937">
+<figure id="fs-id1167066807541" class="ost-tag-lo-apbio-ch06-s04-lo02 ost-tag-lo-apbio-ch06-s04-aplo-2-1"><media id="fs-id1506715" alt="This illustration shows the sodium-potassium pump embedded in the cell membrane. ATP hydrolysis catalyzes a conformational change in the pump that allows sodium ions to move from the cytoplasmic side to the extracellular side of the membrane, and potassium ions to move from the extracellular side to the cytoplasmic side of the membrane as well.">
+<image mime-type="image/png" src="../../media/Figure_06_04_02.png" width="300"/>
+</media>
+<caption>The sodium-potassium pump is an example of energy coupling. The energy derived from exergonic ATP hydrolysis is used to pump sodium and potassium ions across the cell membrane.</caption></figure></para>
+<exercise id="fs-id1167066807155" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066766897">
+<para id="fs-id1167066867235">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex048"/>
+</para>
+</problem>
+</exercise>
+</note><para id="fs-id1242488">Often during cellular metabolic reactions, such as the synthesis and breakdown of nutrients, certain molecules must be altered slightly in their conformation to become substrates for the next step in the reaction series. One example is during the very first steps of cellular respiration, when a molecule of the sugar glucose is broken down in the process of glycolysis. In the first step of this process, ATP is required for the phosphorylation of glucose, creating a high-energy but unstable intermediate. This phosphorylation reaction powers a conformational change that allows the phosphorylated glucose molecule to be converted to the phosphorylated sugar fructose. Fructose is a necessary intermediate for glycolysis to move forward. Here, the exergonic reaction of ATP hydrolysis is coupled with the endergonic reaction of converting glucose into a phosphorylated intermediate in the pathway. Once again, the energy released by breaking a phosphate bond within ATP was used for the phosphorylation of another molecule, creating an unstable intermediate and powering an important conformational change.</para>
+<note id="fs-id1422276" class="interactive ost-assessed-feature"><label>Link to Learning</label>
+<para id="fs-id2258341">See an interactive animation of the ATP-producing glycolysis process at this <link window="new" url="http://openstax.org/l/glycolysis_stgs">site</link>.</para>
+<exercise id="fs-id1167066843376" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066863677">
+<para id="fs-id1167066863547"><link class="os-embed" url="#ost/api/ex/apbio-ch06-ex049"/>
+</para></problem>
+</exercise>
+</note>
+
+<note id="fs-id1167067139232" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch06-s04-lo01 ost-tag-lo-apbio-ch06-s04-lo02"><label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066958412" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167063527067" class=" ost-tag-lo-apbio-ch06-s04-aplo-2-12 unnumbered"><label/>
+<problem id="fs-id1167067093125"><para id="fs-id1167066870214">The hydrolysis of one ATP molecules releases 7.3 kcal/mol of energy (ΔG = –7.3 kcal/mol energy). If it takes 2.1 kcal/mol of energy to move one Na<sup>+</sup> across the membrane (ΔG = +2.1 kcal/mol of energy), how many sodium ions could be moved by the hydrolysis of one ATP molecule?</para></problem></exercise></note></note><note id="fs-id1167066829588" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067053196">This question is an application of Learning Objective 2.1 and Science Practice 6.2 because students are explaining how a biological system uses free energy. The question also allows you to apply quantitative skills.</para><note id="fs-id1167066862040"><title>Possible answer:</title>  7.3 divided by 2.1 equals 3.476, so three sodium ions can be moved across the membrane with a loss of 0.476 kcal/mol of energy.</note>
+</note>
+<section id="fs-id782682" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1423640">ATP is the primary energy-supplying molecule for living cells. ATP is made up of a nucleotide, a five-carbon sugar, and three phosphate groups. The bonds that connect the phosphates (phosphoanhydride bonds) have high-energy content. The energy released from the hydrolysis of ATP into ADP + P<sub>i</sub> is used to perform cellular work. Cells use ATP to perform work by coupling the exergonic reaction of ATP hydrolysis with endergonic reactions. ATP donates its phosphate group to another molecule via a process known as phosphorylation. The phosphorylated molecule is at a higher-energy state and is less stable than its unphosphorylated form, and this added energy from the addition of the phosphate allows the molecule to undergo its endergonic reaction.</para>
+</section>
+<section id="fs-id1167067072885" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167067199541" class="os-exercise">
+<problem id="fs-id1167066948599">
+<para id="fs-id1167066833941">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex050"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066846096" class="os-exercise">
+<problem id="fs-id1167066868030">
+<para id="fs-id1167066782972">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex051"/>
+</para>
+</problem>
+</exercise><exercise id="fs-id1167066963413" class="os-exercise">
+<problem id="fs-id1167067147266">
+<para id="fs-id1167066831137">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex052"/>
+</para>
+</problem>
+</exercise><exercise id="fs-id1167063527165" class="os-exercise">
+<problem id="fs-id1167066967155">
+<para id="fs-id1167066838740">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex053"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-id1167066836050" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167067087618" class="os-exercise">
+<problem id="fs-id1167066827045">
+<para id="fs-id1167067082824">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex054"/>
+</para>
+</problem>
+</exercise><exercise id="fs-id1167066825514" class="os-exercise">
+<problem id="fs-id1167067197109">
+<para id="fs-id1167066854293">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex055"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166850980753" class="os-exercise">
+<problem id="eip-id1166850986055">
+<para id="eip-id1166851020077">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ot032"/>
+</para>
+</problem>
+</exercise></section>
+<section id="fs-id1164566696594" class="ost-chapter-review ost-reading-discard science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164566576818">
+<problem id="fs-id1164564853329">
+<para id="fs-id1164562389162">The sodium-potassium pump is an example of free-energy coupling. The free energy derived from exergonic ATP hydrolysis is used to pump sodium and potassium ions across the cell membrane. The hydrolysis of one ATP molecule releases 7.3 kcal/mol of free energy (ΔG = -7.3 kcal/mol). If it takes 2.1 kcal/mol of free energy to move one Na<sup>+</sup> across the membrane (ΔG = +2.1 kcal/mol), how many sodium ions could be moved by the hydrolysis of one ATP molecule? <emphasis effect="bold">Show your calculations to provide reasoning for your answer.</emphasis></para>
+</problem>
+</exercise>
+<exercise id="fs-id1164563048218">
+<problem id="fs-id1164566915838">
+<para id="fs-id1164564833605">Is the E<sub>A</sub> for ATP hydrolysis in cells likely relatively low or high compared to the E<sub>A</sub> for the combustion of gasoline in an internal combustion engine?</para>
+<list id="fs-id1164566553996" list-type="enumerated" number-style="arabic"><item><emphasis effect="bold">Explain</emphasis> your reasoning in terms of the relative stabilities of ATP and gasoline compared to air in which no catalysts are present.</item>
+<item><emphasis effect="bold">Describe</emphasis> how the role of the enzyme ATPase in the hydrolysis of ATP in a cell differs from a spark in the cylinder of an internal combustion engine.</item>
+<item><emphasis effect="bold">Describe</emphasis> a strategy for collecting data that can be used to measure the energies of activation (E<sub>A</sub>) of each of these two processes with instruments that can measure concentrations of reactions produced in each system.</item>
+</list></problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2229089"><term>ATP</term> <meaning id="fs-id2117719">adenosine triphosphate, the cell’s energy currency</meaning></definition>
+<definition id="fs-id089"><term>energy coupling</term> <meaning id="fs-id19">process during which energy released by one reaction is used to drive another reaction</meaning></definition>
+<definition id="fs-id2228009"><term>phosphoanhydride bond</term> <meaning id="fs-id1912260">bond that connects phosphates in an ATP molecule</meaning></definition>
+</glossary>
+
+
+</document>

@@ -1,0 +1,663 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Population Demography</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63028</md:content-id>
+  <md:title>Population Demography</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how ecologists measure population size and density</item>
+<item>Describe three different patterns of population distribution</item>
+<item>Use life tables to calculate mortality rates</item>
+<item>Describe the three types of survivorship curves and relate them to specific populations</item>
+</list></md:abstract>
+  <md:uuid>18a41d9b-a634-4a8a-b7aa-970282e5172f</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167066959252" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167061226852">In this section, you will explore the following questions:</para>
+<list id="fs-id1167063771764">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch36-s01-lo01">How do ecologists measure population size and density?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch36-s01-lo02">What are three different patterns of population distribution?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch36-s01-lo03">How can life tables be used to calculate mortality rates?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch36-s01-lo04">What are the three types of survivorship curves and how do they relate to specific populations?</item>
+</list>
+</section>
+<section id="fs-id1167063593821" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167063892277">By using mathematics, ecologists can study how interactions among living organisms and with their environment affect the distribution, abundance, density, and life strategies of species. A population consists of individuals of the same species living within a specific area. Populations fluctuate based on both biotic and abiotic factors. When studying a population, characteristics of that population are quantified and their change is monitored. This statistical study of these changes, <emphasis>demography</emphasis>, investigates how populations respond to these fluctuations. A shift in populations can affect community structure and the ecosystem as a whole.</para>
+<para id="fs-id1167063504532" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 and Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167063459321" summary="Column 1 Row 1: Essential Knowledge Column 2 Row 1: 2.D.1 All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy. Column 1 Row 2: Science Practice Column 2 Row 2: 6.4 The student can make claims and predictions about natural phenomena based on scientific theories and models. Column 1 Row 3: Learning Objective Column 2 Row 3: 2.3 The student is able to predict how changes in free energy availability affect organisms, populations, and ecosystems." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.D</emphasis></entry>
+<entry class="ost-standards-description">Growth and dynamic homeostasis of a biological system are influenced by changes in the system’s environment.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.1 </emphasis></span>
+<span class="ost-standards-description">All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-2-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.3 </emphasis></span>
+<span class="ost-standards-description">The student is able to predict how changes in free energy availability affect organisms, populations, and ecosystems.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.1 </emphasis></span>
+<span class="ost-standards-description">All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.3 </emphasis></span>
+<span class="ost-standards-description">The student can refine representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-3-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.2 </emphasis></span>
+<span class="ost-standards-description">The student can refine scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-2-22">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.22 </emphasis></span>
+<span class="ost-standards-description">The student is able to refine scientific models and questions about the effect of complex biotic and abiotic interactions on all biological systems, from cells and organisms to populations, communities and ecosystems.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.1 </emphasis></span>
+<span class="ost-standards-description">All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-4-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
+<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-2-23">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.23 </emphasis></span>
+<span class="ost-standards-description">The student is able to design a plan for collecting data to show that all biological systems, including populations, are affected by complex biotic and abiotic interactions.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.1 </emphasis></span>
+<span class="ost-standards-description">All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-5-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.1 </emphasis></span>
+<span class="ost-standards-description">The student can analyze data to identify patterns or relationships.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-2-24">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.24 </emphasis></span>
+<span class="ost-standards-description">The student is able to analyze data to identify possible patterns and relationships between a biotic or abiotic factors and a biological system, including populations.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry></row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.5 </emphasis></span>
+<span class="ost-standards-description">Communities are composed of populations of organisms that interact in complex ways.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-4-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
+<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-4-11">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.11 </emphasis></span>
+<span class="ost-standards-description">The student is able to justify the selection of the kind of data needed to answer scientific questions about the interaction of populations within communities.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.5 </emphasis></span>
+<span class="ost-standards-description">Communities are composed of populations of organisms that interact in complex ways.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-2-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
+<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-4-12">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.12 </emphasis></span>
+<span class="ost-standards-description">The student is able to apply mathematical routines to quantities that describe communities composed of populations of organisms that interact in complex ways.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.5 </emphasis></span>
+<span class="ost-standards-description">Communities are composed of populations of organisms that interact in complex ways.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-4-13">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.13 </emphasis></span>
+<span class="ost-standards-description">The student is able to predict the effects of a change in the community’s populations on the community.</span>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<para id="fs-idm17263648">Populations are dynamic entities. A population consists of all of the individuals of a particular species that occur in a particular area and have the potential to interact with one another, and populations fluctuate based on a number of factors: seasonal and yearly changes in the environment, natural disasters such as forest fires and volcanic eruptions, and competition for resources between and within species. The statistical study of population dynamics, demography, uses a series of mathematical tools to investigate how populations respond to changes in their biotic and abiotic environments. Many of these tools were originally designed to study human populations. For example, <emphasis>life tables</emphasis>, which detail the life expectancy of individuals within a population, were initially developed by life insurance companies to set insurance rates. In fact, while the term “demographics” is commonly used when discussing humans, all living populations can be studied using this approach.</para><section id="fs-idp198531136" class="ost-tag-lo-apbio-ch36-s01-lo01 ost-get-exercise">
+<title>Population Size and Density</title>
+<para id="fs-idp53097968">The study of any population usually begins by determining how many individuals of a particular species exist, and how closely associated they are with each other. Within a particular habitat, a population can be characterized by its <emphasis>population size (<emphasis effect="italics">N</emphasis>)</emphasis>, the total number of individuals, and its <emphasis>population density</emphasis>, the number of individuals within a specific area or volume. Population size and density are the two main characteristics used to describe and understand populations. For example, populations with more individuals may be more stable than smaller populations based on their genetic variability, and thus their potential to adapt to the environment. Alternatively, a member of a population with low population density (more spread out in the habitat), might have more difficulty finding a mate to reproduce compared to a population of higher density. As is shown in <link target-id="fig-ch45_01_01" document=""/>, smaller organisms tend to be more densely distributed than larger organisms.</para>
+<note id="fs-idp168625840" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
+    <figure id="fig-ch45_01_01" class="ost-tag-lo-apbio-ch36-s01-lo01 ost-tag-lo-apbio-ch36-s01-aplo-2-24"><media id="fs-idm30151472" alt="Graph plots log density in kilometers squared versus log body mass in grams. The values are inversely proportional, so that density decreases linearly with increasing body mass.">
+<image mime-type="image/png" src="../../media/CNX_AP_Bio_45_01_01.jpg" width="425"/>
+</media>
+<caption>Australian mammals show a typical inverse relationship between population density and body size.</caption></figure>
+<!--<para id="fs-idp99979328">As this graph shows, population density typically decreases with increasing body size. Why do you think this is the case?</para>-->
+<!--<para><link target-id="fig-ch45_01_01" document=""/>Smaller animals require less food and other resources, so the environment can support more of them.</para>-->
+<!--<exercise id="fs-id1167063473948" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167063881033">
+<para id="fs-id1167063785889">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex001"/>
+</para>
+</problem>
+</exercise>-->
+</note><section id="fs-idp180537520">
+<title>Population Research Methods</title>
+<para id="fs-idp160552816">The most accurate way to determine population size is to simply count all of the individuals within the habitat. However, this method is often not logistically or economically feasible, especially when studying large habitats. Thus, scientists usually study populations by sampling a representative portion of each habitat and using this data to make inferences about the habitat as a whole. A variety of methods can be used to sample populations to determine their size and density. For immobile organisms such as plants, or for very small and slow-moving organisms, a <emphasis>quadrat</emphasis> may be used (<link target-id="fig-ch45_01_02" document=""/>). A quadrat is a way of marking off square areas within a habitat, either by staking out an area with sticks and string, or by the use of a wood, plastic, or metal square placed on the ground. After setting the quadrats, researchers then count the number of individuals that lie within their boundaries. Multiple quadrat samples are performed throughout the habitat at several random locations. All of this data can then be used to estimate the population size and population density within the entire habitat. The number and size of quadrat samples depends on the type of organisms under study and other factors, including the density of the organism. For example, if sampling daffodils, a 1 m<sup>2</sup> quadrat might be used whereas with giant redwoods, which are larger and live much further apart from each other, a larger quadrat of 100 m<sup>2</sup> might be employed. This ensures that enough individuals of the species are counted to get an accurate sample that correlates with the habitat, including areas not sampled.</para><figure id="fig-ch45_01_02" class="ost-tag-lo-apbio-ch36-s01-lo01 ost-tag-lo-apbio-ch36-s01-aplo-2-23"><media id="fs-idp203745456" alt="Photo shows a person looking down at a grid set on a patch of grass.">
+    <image mime-type="image/jpeg" src="../../media/Figure_45_01_02.jpg" width="300"/>
+</media>
+<caption>A scientist uses a quadrat to measure population size and density. (credit: NPS Sonoran Desert Network)</caption></figure><para id="fs-idp122746800">For mobile organisms, such as mammals, birds, or fish, a technique called <emphasis>mark and recapture</emphasis> is often used. This method involves marking a sample of captured animals in some way (such as tags, bands, paint, or other body markings), and then releasing them back into the environment to allow them to mix with the rest of the population; later, a new sample is collected, including some individuals that are marked (recaptures) and some individuals that are unmarked (<link target-id="fig-ch45_01_03" document=""/>).</para>
+<figure id="fig-ch45_01_03" class="ost-tag-lo-apbio-ch36-s01-lo01 ost-tag-lo-apbio-ch36-s01-aplo-2-23"><media id="fs-idp282030704" alt="Photo A shows two bighorn sheep, one with a collar around its neck. Photo B shows a condor in flight with a tag on its wing. Photo C shows a man holding a salmon with a tag on its back.">
+        <image mime-type="image/jpeg" src="../../media/Figure_45_01_03abc.jpg" width="495"/>
+    </media>
+<caption>Mark and recapture is used to measure the population size of mobile animals such as (a) bighorn sheep, (b) the California condor, and (c) salmon. (credit a: modification of work by Neal Herbert, NPS; credit b: modification of work by Pacific Southwest Region USFWS; credit c: modification of work by Ingrid Taylar)</caption></figure><para id="fs-idp109874224">Using the ratio of marked and unmarked individuals, scientists determine how many individuals are in the sample. From this, calculations are used to estimate the total population size. This method assumes that the larger the population, the lower the percentage of tagged organisms that will be recaptured since they will have mixed with more untagged individuals. For example, if 80 deer are captured, tagged, and released into the forest, and later 100 deer are captured and 20 of them are already marked, we can determine the population size (<emphasis effect="italics">N</emphasis>) using the following equation:</para>
+<equation id="eip-704" class="ost-tag-lo-apbio-ch36-s01-aplo-4-12"><m:math display="block">
+ <m:mrow>
+  <m:mfrac>
+   <m:mrow>
+    <m:mtext>(number marked first catch x total number of second catch)</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>number marked second catch</m:mtext>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext> = </m:mtext><m:mi>N</m:mi>
+ </m:mrow>
+</m:math></equation><para id="fs-idp57976128">Using our example, the population size would be estimated at 400.</para>
+<equation id="eip-989"><m:math display="block">
+ <m:mrow>
+  <m:mfrac>
+   <m:mrow>
+    <m:mtext>(80 x 100)</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>20</m:mtext>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext> = 400</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="fs-idp256343120">Therefore, there are an estimated 400 total individuals in the original population.</para>
+<para id="fs-idp50673072">There are some limitations to the mark and recapture method. Some animals from the first catch may learn to avoid capture in the second round, thus inflating population estimates. Alternatively, animals may preferentially be retrapped (especially if a food reward is offered), resulting in an underestimate of population size. Also, some species may be harmed by the marking technique, reducing their survival. A variety of other techniques have been developed, including the electronic tracking of animals tagged with radio transmitters and the use of data from commercial fishing and trapping operations to estimate the size and health of populations and communities.</para>
+</section>
+</section>
+<section id="fs-idp220428160" class="ost-tag-lo-apbio-ch36-s01-lo02 ost-tag-lo-apbio-ch36-s01-aplo-2-22 ost-get-exercise">
+<title>Species Distribution</title>
+<para id="fs-idm4757008">In addition to measuring simple density, further information about a population can be obtained by looking at the distribution of the individuals. <emphasis>Species dispersion patterns</emphasis> (or distribution patterns) show the spatial relationship between members of a population within a habitat at a particular point in time. In other words, they show whether members of the species live close together or far apart, and what patterns are evident when they are spaced apart.</para>
+<para id="fs-idp91292448">Individuals in a population can be more or less equally spaced apart, dispersed randomly with no predictable pattern, or clustered in groups. These are known as uniform, random, and clumped dispersion patterns, respectively (<link target-id="fig-ch45_01_04" document=""/>). Uniform dispersion is observed in plants that secrete substances inhibiting the growth of nearby individuals (such as the release of toxic chemicals by the sage plant <emphasis effect="italics">Salvia leucophylla, </emphasis>a phenomenon called allelopathy) and in animals like the penguin that maintain a defined territory. An example of random dispersion occurs with dandelion and other plants that have wind-dispersed seeds that germinate wherever they happen to fall in a favorable environment. A clumped dispersion may be seen in plants that drop their seeds straight to the ground, such as oak trees, or animals that live in groups (schools of fish or herds of elephants). Clumped dispersions may also be a function of habitat heterogeneity. Thus, the dispersion of the individuals within a population provides more information about how they interact with each other than does a simple density measurement. Just as lower density species might have more difficulty finding a mate, solitary species with a random distribution might have a similar difficulty when compared to social species clumped together in groups.</para>
+<figure id="fig-ch45_01_04" class="ost-tag-lo-apbio-ch36-s01-lo02 ost-tag-lo-apbio-ch36-s01-aplo-2-22"><media id="fs-idp26004688" alt="Photo (a) shows penguins, which maintain a defined territory and therefore have a uniform distribution. Photo (b) shows a field of dandelions whose seeds are dispersed by wind, resulting in a random distribution patter. Photo (c) shows elephants, which travel in herds resulting in a clumped distribution pattern.">
+    <image mime-type="image/jpeg" src="../../media/CNX_AP_Bio_45_01_02.jpg" width="550"/>
+</media>
+<caption>Species may have uniform, random, or clumped distribution. Territorial birds such as penguins tend to have uniform distribution. Plants such as dandelions with wind-dispersed seeds tend to be randomly distributed. Animals such as elephants that travel in groups exhibit clumped distribution. (credit a: modification of work by Ben Tubby; credit b: modification of work by Rosendahl; credit c: modification of work by Rebecca Wood)</caption></figure></section>
+<section id="fs-idm34830448">
+<title>Demography</title>
+<para id="fs-idp119485552">While population size and density describe a population at one particular point in time, scientists must use demography to study the dynamics of a population. Demography is the statistical study of population changes over time: birth rates, death rates, and life expectancies. Each of these measures, especially birth rates, may be affected by the population characteristics described above. For example, a large population size results in a higher birth rate because more potentially reproductive individuals are present. In contrast, a large population size can also result in a higher death rate because of competition, disease, and the accumulation of waste. Similarly, a higher population density or a clumped dispersion pattern results in more potential reproductive encounters between individuals, which can increase birth rate. Lastly, a female-biased sex ratio (the ratio of males to females) or age structure (the proportion of population members at specific age ranges) composed of many individuals of reproductive age can increase birth rates.</para>
+<para id="fs-idp37440880">In addition, the demographic characteristics of a population can influence how the population grows or declines over time. If birth and death rates are equal, the population remains stable. However, the population size will increase if birth rates exceed death rates; the population will decrease if birth rates are less than death rates. Life expectancy is another important factor; the length of time individuals remain in the population impacts local resources, reproduction, and the overall health of the population. These demographic characteristics are often displayed in the form of a life table.</para>
+<section id="fs-idp110703760" class="ost-tag-lo-apbio-ch36-s01-lo03"><title>Life Tables</title><para id="fs-idp226912464">Life tables provide important information about the life history of an organism. Life tables divide the population into age groups and often sexes, and show how long a member of that group is likely to live. They are modeled after actuarial tables used by the insurance industry for estimating human life expectancy. Life tables may include the probability of individuals dying before their next birthday (i.e., their <emphasis>mortality rate</emphasis>), the percentage of surviving individuals dying at a particular age interval, and their life expectancy at each interval. An example of a life table is shown in <link target-id="tab-ch45_01_01" document=""/> from a study of Dall mountain sheep, a species native to northwestern North America. Notice that the population is divided into age intervals (column A). The mortality rate (per 1000), shown in column D, is based on the number of individuals dying during the age interval (column B) divided by the number of individuals surviving at the beginning of the interval (Column C), multiplied by 1000.</para>
+<equation id="eip-659" class="ost-tag-lo-apbio-ch36-s01-aplo-4-12"><m:math display="block">
+ <m:mrow>
+  <m:mtext>mortality rate = </m:mtext><m:mfrac>
+   <m:mrow>
+    <m:mtext>number of individuals dying</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>number of individuals surviving</m:mtext>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext> x 1000</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="fs-idp214475696">For example, between ages three and four, 12 individuals die out of the 776 that were remaining from the original 1000 sheep. This number is then multiplied by 1000 to get the mortality rate per thousand.</para>
+<equation id="eip-691"><m:math display="block">
+ <m:mrow>
+  <m:mtext>mortality rate = </m:mtext><m:mfrac>
+   <m:mrow>
+    <m:mtext>12</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>776</m:mtext>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext> x 1000 </m:mtext><m:mo>≈</m:mo><m:mtext> 15</m:mtext><m:mtext>.5</m:mtext>
+ </m:mrow>
+</m:math></equation><para id="fs-idp56392560">As can be seen from the mortality rate data (column D), a high death rate occurred when the sheep were between 6 and 12 months old, and then increased even more from 8 to 12 years old, after which there were few survivors. The data indicate that if a sheep in this population were to survive to age one, it could be expected to live another 7.7 years on average, as shown by the life expectancy numbers in column E.</para>
+    <table id="tab-ch45_01_01" summary="This table has the following headers: Age interval (years), Number dying in age interval out of 1000 born, Number surviving at beginning of age interval out of 1000 born, Mortality rate per 1000 alive at beginning of age interval, and life expectancy or mean lifetime remaining to those attaining age interval. For age interval of 0-0.5 years, 52 died, 1000 survived, there was a mortality rate of 52 and the life expectancy was 7.06. For age interval of 0.5-1 years, 145 died, 946 survived, there was a mortality rate of 153.3 and the life expectancy was not recorded. For age interval of 1-2 years, 12 died, 801 survived, there was a mortality rate of 15 and the life expectancy was 7.7. For age interval of 2-3 years, 13 died, 789 survived, there was a mortality rate of 16.5 and the life expectancy was 6.8. For age interval of 3-4 years, 12 died, 776 survived, there was a mortality rate of 15.5 and the life expectancy was 5.9. For age interval of 4-5 years, 30 died, 764 survived, there was a mortality rate of 39.3 and the life expectancy was 5.0. For age interval of 5-6 years, 46 died, 734 survived, there was a mortality rate of 62.7 and the life expectancy was 4.2. For age interval of 6-7 years, 48 died, 688 survived, there was a mortality rate of 69.8 and the life expectancy was 3.4. For age interval of 7-8 years, 69 died, 640 survived, there was a mortality rate of 107.8 and the life expectancy was 2.6. For age interval of 8-9 years, 132 died, 571 survived, there was a mortality rate of 231.2 and the life expectancy was 1.9. For age interval of 9-10 years, 187 died, 439 survived, there was a mortality rate of 426.0 and the life expectancy was 1.3. For age interval of 10-11 years, 156 died, 252 survived, there was a mortality rate of 619 and the life expectancy was 0.9. For age interval of 11-12 years, 90 died, 96 survived, there was a mortality rate of 937.5 and the life expectancy was 0.6. For age interval of 12-13 years, 3 died, 6 survived, there was a mortality rate of 500.0 and the life expectancy was 1.2. For age interval of 13-14 years, 3 died, 3 survived, there was a mortality rate of 1000.0 and the life expectancy was 0.7." class="ost-tag-lo-apbio-ch36-s01-lo03 ost-tag-lo-apbio-ch36-s01-aplo-4-12 top-titled">
+<tgroup cols="5" align="center"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <thead>
+                <row>
+                    <entry namest="c1" nameend="c5">Life Table of Dall Mountain Sheep<footnote id="fs-idp118815520">Data Adapted from Edward S. Deevey, Jr., “Life Tables for Natural Populations of Animals,” <emphasis effect="italics">The Quarterly Review of Biology</emphasis> 22, no. 4 (December 1947): 283-314.</footnote></entry>
+                </row>
+                <row>
+                    <entry>Age interval (years)</entry>
+                    <entry>Number dying in age interval out of 1000 born</entry>
+                    <entry>Number surviving at beginning of age interval out of 1000 born</entry>
+                    <entry>Mortality rate per 1000 alive at beginning of age interval</entry>
+                    <entry>Life expectancy or mean lifetime remaining to those attaining age interval</entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry>0-0.5</entry>
+                    <entry>54</entry>
+                    <entry>1000</entry>
+                    <entry>54.0</entry>
+                    <entry>7.06</entry>
+                </row>
+                <row>
+                    <entry>0.5-1</entry>
+                    <entry>145</entry>
+                    <entry>946</entry>
+                    <entry>153.3</entry>
+                    <entry>--</entry>
+                </row>
+                <row>
+                    <entry>1-2</entry>
+                    <entry>12</entry>
+                    <entry>801</entry>
+                    <entry>15.0</entry>
+                    <entry>7.7</entry>
+                </row>
+                <row>
+                    <entry>2-3</entry>
+                    <entry>13</entry>
+                    <entry>789</entry>
+                    <entry>16.5</entry>
+                    <entry>6.8</entry>
+                </row>
+                <row>
+                    <entry>3-4</entry>
+                    <entry>12</entry>
+                    <entry>776</entry>
+                    <entry>15.5</entry>
+                    <entry>5.9</entry>
+                </row>
+                <row>
+                    <entry>4-5</entry>
+                    <entry>30</entry>
+                    <entry>764</entry>
+                    <entry>39.3</entry>
+                    <entry>5.0</entry>
+                </row>
+                <row>
+                    <entry>5-6</entry>
+                    <entry>46</entry>
+                    <entry>734</entry>
+                    <entry>62.7</entry>
+                    <entry>4.2</entry>
+                </row>
+                <row>
+                    <entry>6-7</entry>
+                    <entry>48</entry>
+                    <entry>688</entry>
+                    <entry>69.8</entry>
+                    <entry>3.4</entry>
+                </row>
+                <row>
+                    <entry>7-8</entry>
+                    <entry>69</entry>
+                    <entry>640</entry>
+                    <entry>107.8</entry>
+                    <entry>2.6</entry>
+                </row>
+                <row>
+                    <entry>8-9</entry>
+                    <entry>132</entry>
+                    <entry>571</entry>
+                    <entry>231.2</entry>
+                    <entry>1.9</entry>
+                </row>
+                <row>
+                    <entry>9-10</entry>
+                    <entry>187</entry>
+                    <entry>439</entry>
+                    <entry>426.0</entry>
+                    <entry>1.3</entry>
+                </row>
+                <row>
+                    <entry>10-11</entry>
+                    <entry>156</entry>
+                    <entry>252</entry>
+                    <entry>619.0</entry>
+                    <entry>0.9</entry>
+                </row>
+                <row>
+                    <entry>11-12</entry>
+                    <entry>90</entry>
+                    <entry>96</entry>
+                    <entry>937.5</entry>
+                    <entry>0.6</entry>
+                </row>
+                <row>
+                    <entry>12-13</entry>
+                    <entry>3</entry>
+                    <entry>6</entry>
+                    <entry>500.0</entry>
+                    <entry>1.2</entry>
+                </row>
+                <row>
+                    <entry>13-14</entry>
+                    <entry>3</entry>
+                    <entry>3</entry>
+                    <entry>1000</entry>
+                    <entry>0.7</entry>
+                </row>
+            </tbody>
+
+</tgroup><caption>This life table of <emphasis effect="italics">Ovis dalli</emphasis> shows the number of deaths, number of survivors, mortality rate, and life expectancy at each age interval for the Dall mountain sheep.</caption>
+</table></section><section id="fs-idp59499808" class="ost-tag-lo-apbio-ch36-s01-lo04">
+<title>Survivorship Curves</title>
+<para id="fs-idm33092432">Another tool used by population ecologists is a <emphasis>survivorship curve</emphasis>, which is a graph of the number of individuals surviving at each age interval plotted versus time (usually with data compiled from a life table). These curves allow us to compare the life histories of different populations (<link target-id="fig-ch45_01_05" document=""/>). Humans and most primates exhibit a Type I survivorship curve because a high percentage of offspring survive their early and middle years—death occurs predominantly in older individuals. These types of species usually have small numbers of offspring at one time, and they give a high amount of parental care to them to ensure their survival. Birds are an example of an intermediate or Type II survivorship curve because birds die more or less equally at each age interval. These organisms also may have relatively few offspring and provide significant parental care. Trees, marine invertebrates, and most fishes exhibit a Type III survivorship curve because very few of these organisms survive their younger years; however, those that make it to an old age are more likely to survive for a relatively long period of time. Organisms in this category usually have a very large number of offspring, but once they are born, little parental care is provided. Thus these offspring are “on their own” and vulnerable to predation, but their sheer numbers assure the survival of enough individuals to perpetuate the species.</para>
+<figure id="fig-ch45_01_05" class="ost-tag-lo-apbio-ch36-s01-lo04"><media id="fs-idp204919408" alt="Graph plots the log of number of individuals surviving versus time. Three curves are shown, representing Type I, Type II, and Type III survivorship patterns. Birds exhibit a Type II survivorship curve, which decreases linearly with time. Humans show a Type I survivorship curve, which starts with a gentle slope that becomes increasingly steep with time. Trees show a Type III survivorship pattern, which starts with a steep slope that becomes less steep with time.">
+        <image mime-type="image/jpg" src="../../media/Figure_45_01_05.jpg" width="280"/>
+    </media>
+<caption>Survivorship curves show the distribution of individuals in a population according to age. Humans and most mammals have a Type I survivorship curve because death primarily occurs in the older years. Birds have a Type II survivorship curve, as death at any age is equally probable. Trees have a Type III survivorship curve because very few survive the younger years, but after a certain age, individuals are much more likely to survive.</caption></figure></section>
+<note id="fs-id1167061689423" class="ap-science-practices">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167067068691" class="ost-assignable ost-sciprac-activity ost-reading-discard ost-tag-lo-apbio-ch36-s01-aplo-2-23 ost-tag-lo-apbio-ch36-s01-aplo-4-11">
+<para id="fs-id1167066881010">Design an investigation that a researcher might use to determine the size of a penguin population in the Antarctic using the mark and release method. What biotic or abiotic factors might influence the size of the penguin population in a given area?</para>
+</note>
+<note id="fs-id1167067312946" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067321726">The activity is an application of AP<sup>®</sup> Learning Objective 2.23 and Science Practices 4.2 and 7.2 and Learning Objective 4.11 and Science Practices 1.4 and 4.2 because students are designing a plan to investigate how the mark and recapture method can be used to determine if what biotic and abiotic factors can affect the size of a population.</para>
+</note>
+</note>
+</section>
+<section id="fs-idm24281920" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp16535568">Populations are individuals of a species that live in a particular habitat. Ecologists measure characteristics of populations: size, density, dispersion pattern, age structure, and sex ratio. Life tables are useful to calculate life expectancies of individual population members. Survivorship curves show the number of individuals surviving at each age interval plotted versus time.</para>
+    </section>
+<!--<section id="fs-idp26100672" class="art-exercise">
+    <title>Art Connections</title>
+<exercise id="fs-idm34844256">
+    <problem id="fs-idm33501104">
+    <para id="fs-idm32123872"><link target-id="fig-ch45_01_01" document=""/> As this graph shows, population density typically decreases with increasing body size. Why do you think this is the case?</para></problem>
+<solution id="fs-idp206869776">
+    <label/>
+    <para id="fs-idp168911680"><link target-id="fig-ch45_01_01" document=""/> Smaller animals require less food and other resources, so the environment can support more of them.</para>
+</solution>
+</exercise>
+    </section>
+<section id="fs-idp199586720" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp107793584">
+<problem id="fs-idp133350720"><para id="fs-idm45041856">Which of the following methods will tell an ecologist about both the size and density of a population?</para>
+<list id="fs-idp8399056" list-type="enumerated" number-style="lower-alpha">
+<item>mark and recapture</item>
+<item>mark and release</item>
+<item>quadrat</item>
+<item>life table</item>
+</list>
+</problem>
+<solution id="fs-idp11064352">
+<label/>
+<para id="fs-idp205543984">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp188104608">
+<problem id="fs-idp111232608"><para id="fs-idp124795664">Which of the following is best at showing the life expectancy of an individual within a population?</para>
+<list id="fs-idp256238592" list-type="enumerated" number-style="lower-alpha">
+<item>quadrat</item>
+<item>mark and recapture</item>
+<item>survivorship curve</item>
+<item>life table</item>
+</list>
+</problem>
+<solution id="fs-idp170794928">
+<label/>
+<para id="fs-idp186989184">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp82590032">
+<problem id="fs-idp82627648"><para id="fs-idm4484896">Humans have which type of survivorship curve?</para>
+<list id="fs-idp173466432" list-type="enumerated" number-style="lower-alpha">
+<item>Type I</item>
+<item>Type II</item>
+<item>Type III</item>
+<item>Type IV</item>
+</list>
+</problem>
+<solution id="fs-idm23221344">
+<label/>
+<para id="fs-idp78810832">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp49286576" class="free-response">
+    <title>Free Response</title>
+<exercise id="fs-idp39153568">
+    <problem id="fs-idm17099008">
+        <para id="fs-idm42853184">Describe how a researcher would determine the size of a penguin population in Antarctica using the mark and release method.</para>
+    </problem>
+<solution id="fs-idp29029760">
+    <label/>
+    <para id="fs-idm3931824">The researcher would mark a certain number of penguins with a tag, release them back into the population, and, at a later time, recapture penguins to see what percentage of the recaptured penguins was tagged. This percentage would allow an estimation of the size of the penguin population.</para>
+</solution></exercise>
+</section>-->
+<section id="fs-id1167066973007" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167067226275" class="os-exercise">
+<problem id="fs-id1167063430100">
+<para id="fs-id1167067105193">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex002"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067259223" class="os-exercise">
+<problem id="fs-id1167063862573">
+<para id="fs-id1167063540059">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex003"/>
+</para>
+</problem>
+</exercise>
+<!--<exercise id="fs-id1167067076541" class="os-exercise">
+<problem id="fs-id1167063956678">
+<para id="fs-id1167067142273">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex004"/>
+</para>
+</problem>
+</exercise>-->
+<exercise id="fs-id1167063862594" class="os-exercise">
+<problem id="fs-id1167067261816">
+<para id="fs-id1167063429267">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063964902" class="os-exercise">
+<problem id="fs-id1167067075107">
+<para id="fs-id1167061611560">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067273064" class="os-exercise">
+<problem id="fs-id1167063745766">
+<para id="fs-id1167067150588">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex007"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066959696" class="os-exercise">
+<problem id="fs-id1167066948571">
+<para id="fs-id1167066832776">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063831998" class="os-exercise">
+<problem id="fs-id1167063790587">
+<para id="fs-id1167067001072">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex009"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167067051336" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<!--<exercise id="fs-id1167063706507" class="os-exercise">
+<problem id="fs-id1167067213868">
+<para id="fs-id1167066775111">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex010"/>
+</para>
+</problem>
+</exercise>-->
+<exercise id="fs-id1167066967152" class="os-exercise">
+<problem id="fs-id1167063502288">
+<para id="fs-id1167067217974">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex011"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066841247" class="os-exercise">
+<problem id="fs-id1167067241668">
+<para id="fs-id1167063534917">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex012"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066939036" class="os-exercise">
+<problem id="fs-id1167067198185">
+<para id="fs-id1167061193578">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex013"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167067029632" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167063596559" class="os-exercise  ost-tag-lo-apbio-ch36-s01-aplo-2-3">
+<problem id="fs-id1167067025027">
+<para id="fs-id1167066938318">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex014"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066939281" class="os-exercise">
+<problem id="fs-id1167063602610">
+<para id="fs-id1167063522856">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex015"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067153819" class="os-exercise  ost-tag-lo-apbio-ch36-s01-aplo-2-22">
+<problem id="fs-id1167063568726">
+<para id="fs-id1167067067473">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex016"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066856021" class="os-exercise">
+<problem id="fs-id1167063810997">
+<para id="fs-id1167067106952">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex017"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163775911238" class="os-exercise">
+<problem id="eip-id1163775911242">
+<para id="eip-id1163775911244">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ot013"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163775911256" class="os-exercise">
+<problem id="eip-id1163775911260">
+<para id="eip-id1163775911263">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ot014"/>
+</para>
+</problem>
+</exercise></section>
+<section id="fs-id1166173209037" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1166173427176">
+<problem id="fs-id1166173427178">
+<para id="fs-id1166163602787">A flask of nutrient broth, buffered to maintain pH, is inoculated with a strain of <emphasis effect="italics">E. coli</emphasis>. The flask is placed in a constant temperature environment where it is aerated by shaking.</para>
+<para id="fs-id1166168113868">A. <emphasis>Predict</emphasis> the effect of a change in energy availability over time.</para>
+<para id="fs-id1166171689205">B. <emphasis>Represent</emphasis> the change graphically in terms of the number of cells as a function of time.</para>
+<para id="fs-id1166168490999">C. In your graph as time progresses there is a change in the growth rate of the population. Add annotation to your graph to <emphasis>describe</emphasis> the time interval during which the growth rate is increasing linearly in proportion to the number of cells. Add annotation to your graph to <emphasis>describe</emphasis> another time interval during which the growth rate is decreasing in proportion to the square of the number of cells. Add a third annotation to <emphasis>describe</emphasis> an interval of time where the rate of growth is zero.</para>
+<para id="fs-id1166167031456">D. <emphasis>Select and justify</emphasis> two measurements of the <emphasis effect="italics">E. coli</emphasis> population that could be made at two different points in time during growth that would be sufficient to answer questions about the population size at any time.</para>
+<para id="fs-id1166173421549">E. <emphasis>Describe</emphasis> the population of <emphasis effect="italics">E. coli</emphasis> if the environment was continuously supplement by additional nutrient broth.</para></problem>
+</exercise>
+</section>
+
+ </content>
+    <glossary>
+<definition id="fs-idm58874384"><term>demography</term> <meaning id="fs-idm5176016">statistical study of changes in populations over time</meaning></definition>
+<definition id="fs-idp139106400"><term>life table</term> <meaning id="fs-idp124670672">table showing the life expectancy of a population member based on its age</meaning></definition>
+<definition id="fs-idp135955376"><term>mark and recapture</term> <meaning id="fs-idp38325344">technique used to determine population size in mobile organisms</meaning></definition>
+<definition id="fs-idp150183936"><term>mortality rate</term> <meaning id="fs-idp232972688">proportion of population surviving to the beginning of an age interval that die during the age interval</meaning></definition>
+<definition id="fs-idp44707920"><term>population density</term> <meaning id="fs-idp4186352">number of population members divided by the area or volume being measured</meaning></definition>
+<definition id="fs-idp176461744"><term>population size (<emphasis effect="italics">N</emphasis>)</term> <meaning id="fs-idm48188752">number of population members in a habitat at the same time</meaning></definition>
+<definition id="fs-idp272304480"><term>quadrat</term> <meaning id="fs-idp139726480">square made of various materials used to determine population size and density in slow moving or stationary organisms</meaning></definition>
+<definition id="fs-idp96719440"><term>species dispersion pattern</term> <meaning id="fs-idp73093216">(also, species distribution pattern) spatial location of individuals of a given species within a habitat at a particular point in time</meaning></definition>
+<definition id="fs-idp187955776"><term>survivorship curve</term> <meaning id="fs-idp85777664">graph of the number of surviving population members versus the relative age of the member</meaning></definition>
+</glossary>
+</document>

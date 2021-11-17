@@ -1,0 +1,462 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Population Evolution</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62868</md:content-id>
+  <md:title>Population Evolution</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define population genetics and describe how population genetics is used in the study of the evolution of populations</item>
+<item>Define the Hardy-Weinberg principle and discuss its importance</item>
+</list></md:abstract>
+  <md:uuid>f19aec9a-f345-43da-b3a6-7330c91e0800</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167062315058" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167065979703">In this section, you will explore the following questions:</para>
+<list id="fs-id1167066041450">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch19-s01-lo01">What is population genetics and how is population genetics a synthesis of Mendelian inheritance and Darwinian evolution?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch19-s01-lo02">What is the Hardy–Weinberg principle, and how can it be applied to microevolution?</item>
+</list>
+</section>
+<para id="fs-idm26761872">The mechanisms of inheritance, or genetics, were not understood at the time Charles Darwin and Alfred Russel Wallace were developing their idea of natural selection. This lack of understanding was a stumbling block to understanding many aspects of evolution. In fact, the predominant (and incorrect) genetic theory of the time, blending inheritance, made it difficult to understand how natural selection might operate. Darwin and Wallace were unaware of the genetics work by Austrian monk Gregor Mendel, which was published in 1866, not long after publication of Darwin's book, <emphasis effect="italics">On the Origin of Species</emphasis>. Mendel’s work was rediscovered in the early twentieth century at which time geneticists were rapidly coming to an understanding of the basics of inheritance. Initially, the newly discovered particulate nature of genes made it difficult for biologists to understand how gradual evolution could occur. But over the next few decades genetics and evolution were integrated in what became known as the <emphasis>modern synthesis</emphasis>—the coherent understanding of the relationship between natural selection and genetics that took shape by the 1940s and is generally accepted today. In sum, the modern synthesis describes how evolutionary processes, such as natural selection, can affect a population’s genetic makeup, and, in turn, how this can result in the gradual evolution of populations and species. The theory also connects this change of a population over time, called <emphasis>microevolution</emphasis>, with the processes that gave rise to new species and higher taxonomic groups with widely divergent characters, called <emphasis>macroevolution</emphasis>.</para>
+<section id="fs-id1167067133571" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167062332269"><emphasis>Population genetics</emphasis> studies microevolution by measuring changes in a population’s allele frequencies over time. (Remember that we studied genotypes and allele frequencies when we explored inheritance patterns proposed by Mendel.) For example, scientists examining allele frequencies in a pesticide resistance gene in mosquitoes at Equatorial Guinea found that the frequency of one resistance allele was 6.3%, while a second resistance allele’s frequency was 74.6%, and the non-resistance allele’s frequency was 19.0%. These three frequencies add up to 100%.<footnote id="fs-id1167066098216">Reddy, M. R., Godoy, A., Dion, K., Matias, A., Callender, K., Kiszewski, A. E., Slotman, M. A. (2013). Insecticide Resistance Allele Frequencies in <emphasis effect="italics">Anopheles gambiae</emphasis> before and after Anti-Vector Interventions in Continental Equatorial Guinea. <emphasis effect="italics">The American Journal of Tropical Medicine and Hygiene, 88</emphasis>(5), 897–907. doi:10.4269/ajtmh.12-0467</footnote> A population’s <emphasis>gene pool</emphasis> is the sum of all the alleles. If these frequencies do not change over time, the population is said to be in <emphasis>Hardy–Weinberg principle of equilibrium</emphasis>—a stable, non-evolving state. However, if a phenotype is favored by natural selection, allele frequencies can change. If this is the case, the population is evolving. Sometimes allele frequencies within a population change randomly with no advantage to the population over existing allele frequencies. This phenomenon is called <emphasis>genetic drift</emphasis>. An event that initiates an allele frequency change in an isolated part of the population, which is not typical of the original population, is called the <emphasis>founder effect</emphasis>. In <link document="m62870">Population Genetics</link>, we will explore how natural selection, random drift, and founder effects can lead to significant changes in the genome of a population.</para><para id="fs-id1167062403792" class="ost-reading-discard">Hardy–Weinberg equilibrium reflects a state of constancy in a population’s gene pool. In other words, allele frequencies remain stable from generation to generation if certain conditions are met: no mutations, no gene flow, random mating, no genetic drift, and no selection. Because these conditions are rarely met, allele frequencies are typically changing, reflecting evolution. The Hardy–Weinberg principle is represented by the mathematical equation <emphasis effect="italics">p<sup>2</sup> + 2pq + q<sup>2</sup> = 1</emphasis>, where <emphasis effect="italics">p</emphasis> represents the frequency of the dominant allele and <emphasis effect="italics">q</emphasis> represents the frequency of the recessive allele. Deviations from Hardy–Weinberg equilibrium allow us to measure microevolutionary shifts in a population when one or more of the Hardy–Weinberg parameters change. For example, if we go back to the study of the frequencies of alleles in a pesticide resistance gene, after an area was treated with pesticides for two years, the resistance alleles increased to 11.1% and 83.3%, respectively, while the non-resistance allele decreased to 5.6%. This indicates that microevolution was occurring.</para>
+<para id="fs-id1167065046742" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167065789893" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.A.1 Natural selection is a major mechanism of evolution. Second left cell reads: Science Practice. Second right cell reads: 1.5 The student can re-express key elements of natural phenomena across multiple representations in the domain. Third left cell reads: Learning Objective. Third right cell reads: 1.1 The student is able to convert a data set from a table of numbers that reflect a change in the genetic makeup of a population over time and to apply mathematical methods and conceptual understandings to investigate the cause(s) and effect(s) of this change." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.A</emphasis></entry>
+<entry class="ost-standards-description">Change in the genetic makeup of a population over time is evolution.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.1</emphasis></span>
+<span class="ost-standards-description">Natural selection is a major mechanism of evolution.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.5 </emphasis></span>
+<span class="ost-standards-description">The student can re-express key elements of natural phenomena across multiple representations in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
+<span class="ost-standards-description">The student is able to convert a data set from a table of numbers that reflect a change in the genetic makeup of a population over time and to apply mathematical methods and conceptual understandings to investigate the cause(s) and effect(s) of this change.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s01-aplo-1-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
+<span class="ost-standards-description">The student is able to convert a data set from a table of numbers that reflect a change in the genetic makeup of a population over time and to apply mathematical methods and conceptual understandings to investigate the cause(s) and effect(s) of this change.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.1 </emphasis></span>
+<span class="ost-standards-description">Natural selection is a major mechanism of evolution.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
+<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s01-aplo-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate evidence provided by data to qualitatively and quantitatively investigate the role of natural selection in evolution.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.1 </emphasis></span>
+<span class="ost-standards-description">Natural selection is a major mechanism of evolution.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s01-aplo-1-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.3 </emphasis></span>
+<span class="ost-standards-description">The student is able to apply mathematical methods to data from a real or simulated population to predict what will happen to the population in the future.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table><para id="fs-id1166850993518">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 1.1]</para></section>
+<note id="fs-id1167066811303" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167063593915">A good video tutorial by Bozeman on Hardy–Weinberg can be found <link url="http://openstax.org/i/32hardy">here</link>.</para>
+</note>
+<note id="fs-id1167062337984" class="ap-everyday ost-assessed-feature ost-tag-lo-apbio-ch19-s01-lo01">
+<label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<para id="fs-idp23816096"><title>Evolution and Flu Vaccines</title>Every fall, the media starts reporting on flu vaccinations and potential outbreaks. Scientists, health experts, and institutions determine recommendations for different parts of the population, predict optimal production and inoculation schedules, create vaccines, and set up clinics to provide inoculations. You may think of the annual flu shot as a lot of media hype, an important health protection, or just a briefly uncomfortable prick in your arm. But do you think of it in terms of evolution?</para>
+<para id="fs-idm3795120">The media hype of annual flu shots is scientifically grounded in our understanding of evolution. Each year, scientists across the globe strive to predict the flu strains that they anticipate being most widespread and harmful in the coming year. This knowledge is based in how flu strains have evolved over time and over the past few flu seasons. Scientists then work to create the most effective vaccine to combat those selected strains. Hundreds of millions of doses are produced in a short period in order to provide vaccinations to key populations at the optimal time.</para>
+<para id="fs-idm94681808">Because viruses, like the flu, evolve very quickly (especially in evolutionary time), this poses quite a challenge. Viruses mutate and replicate at a fast rate, so the vaccine developed to protect against last year’s flu strain may not provide the protection needed against the coming year’s strain. Evolution of these viruses means continued adaptations to ensure survival, including adaptations to survive previous vaccines.</para>
+<exercise id="fs-id1167066050677" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167064853939">
+<para id="fs-id1167064953373">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex001"/>
+</para>
+</problem>
+</exercise>
+</note>
+<section id="fs-idm10186960" class="ost-tag-lo-apbio-ch19-s01-lo01 ost-tag-lo-apbio-ch19-s01-aplo-1-1 ost-get-exercise">
+<title>Population Genetics</title>
+<para id="fs-idp38683264">Recall that a gene for a particular character may have several alleles, or variants, that code for different traits associated with that character. For example, in the ABO blood type system in humans, three alleles determine the particular blood-type carbohydrate on the surface of red blood cells. Each individual in a population of diploid organisms can only carry two alleles for a particular gene, but more than two may be present in the individuals that make up the population. Mendel followed alleles as they were inherited from parent to offspring. In the early twentieth century, biologists in a field of study known as population genetics began to study how selective forces change a population through changes in allele and genotypic frequencies.</para>
+<para id="fs-idp27127920">The <emphasis>allele frequency</emphasis> (or gene frequency) is the proportion of a specific allele within a population, relative to all other alleles of that gene that are present in the population. Until now we have discussed evolution as a change in the characteristics of a population of organisms, but behind that phenotypic change is genetic change. In population genetics, the term evolution is defined as a change in the frequency of an allele in a population. Using the ABO blood type system as an example, the frequency of one of the alleles, <emphasis effect="italics">I</emphasis><sup>A</sup>, is the number of copies of that allele divided by all the copies of the ABO gene in the population. For example, a study in Jordan<footnote id="fs-idp35882688">Sahar S. Hanania, Dhia S. Hassawi, and Nidal M. Irshaid, “Allele Frequency and Molecular Genotypes of ABO Blood Group System in a Jordanian Population,” <emphasis effect="italics">Journal of Medical Sciences</emphasis> 7 (2007): 51-58, doi:10.3923/jms.2007.51.58.</footnote> found a frequency of <emphasis effect="italics">I</emphasis><sup>A</sup> to be 26.1 percent. The <emphasis effect="italics">I</emphasis><sup>B</sup> and <emphasis effect="italics">I</emphasis><sup>0</sup> alleles made up 13.4 percent and 60.5 percent of the alleles respectively, and all of the frequencies added up to 100 percent. A change in this frequency over time would constitute evolution in the population.</para><para id="fs-idm114333808">The allele frequency within a given population can change depending on environmental factors; therefore, certain alleles become more widespread than others during the process of natural selection. Natural selection can alter the population’s genetic makeup; for example, if a given allele confers a phenotype that allows an individual to better survive or have more offspring. Because many of those offspring will also carry the beneficial allele, and often the corresponding phenotype, they will have more offspring of their own that also carry the allele, thus, perpetuating the cycle. Over time, the allele will spread throughout the population. Some alleles will quickly become fixed in this way, meaning that every individual of the population will carry the allele, while detrimental mutations may be swiftly eliminated if derived from a dominant allele from the gene pool. The gene pool is the sum of all the alleles in a population.</para>
+<para id="fs-idp48160560">Sometimes, allele frequencies within a population change randomly with no advantage to the population over existing allele frequencies. This phenomenon is called genetic drift. Natural selection and genetic drift usually occur simultaneously in populations and are not isolated events. It is hard to determine which process dominates because it is often nearly impossible to determine the cause of change in allele frequencies at each occurrence. An event that initiates an allele frequency change in an isolated part of the population, which is not typical of the original population, is called the founder effect. Natural selection, random drift, and founder effects can lead to significant changes in the genome of a population.</para>
+</section>
+<section id="fs-idm71601456" class="ost-tag-lo-apbio-ch19-s01-lo02 ost-tag-lo-apbio-ch19-s01-aplo-1-1 ost-get-exercise">
+<title>Hardy–Weinberg Principle of Equilibrium</title>
+<para id="fs-idm129476160">In the early twentieth century, English mathematician Godfrey Hardy and German physician Wilhelm Weinberg stated the principle of equilibrium to describe the genetic makeup of a population. The theory, which later became known as the Hardy–Weinberg principle of equilibrium, states that a population’s allele and <emphasis>genotype frequencies</emphasis> are inherently stable—unless some kind of evolutionary force is acting upon the population, neither the allele nor the genotypic frequencies would change. The Hardy–Weinberg principle assumes conditions with no mutations, migration, emigration, or selective pressure for or against genotype, plus an infinite population; while no population can satisfy those conditions, the principle offers a useful model against which to compare real population changes.</para>
+<para id="fs-idm73454784">Working under this theory, population geneticists represent different alleles as different variables in their mathematical models. The variable p, for example, typically represents the frequency of the dominant allele, say Y for the trait of yellow in Mendel's peas. The variable q represents the frequency of the recessive allele, in this case y, that confers the color green. If these are the only two possible alleles for a given locus in the population, p + q = 1. In other words, all the p alleles and all the q alleles make up all of the alleles for that locus that are found in the population.</para>
+<para id="fs-idm40223024">But what ultimately interests most biologists is not the frequencies of different alleles, but the frequencies of the resulting genotypes, known as the population’s <emphasis>genetic structure</emphasis>, from which scientists can surmise the distribution of phenotypes. If the phenotype is observed, only the genotype of the homozygous recessive alleles can be known; the calculations provide an estimate of the remaining genotypes. Since each individual carries two alleles per gene, if the allele frequencies (p and q) are known, predicting the frequencies of these genotypes is a simple mathematical calculation to determine the probability of getting these genotypes if two alleles are drawn at random from the gene pool. So in the above scenario, an individual pea plant could be pp (YY), and thus produce yellow peas; pq (Yy), also yellow; or qq (yy), and thus producing green peas (<link target-id="fig-ch19_01_01" document=""/>). In other words, the frequency of pp individuals is simply p<sup>2</sup>; the frequency of pq individuals is 2pq; and the frequency of qq individuals is q<sup>2</sup>. And, again, if p and q are the only two possible alleles for a given trait in the population, these genotypes frequencies will sum to one: p<sup>2</sup> + 2pq + q<sup>2</sup> = 1.</para>
+<note id="fs-idm33635456" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch19-s01-lo02 ost-tag-lo-apbio-ch19-s01-aplo-1-1"><label>Visual Connection</label>
+<para id="fs-idp104008800"><figure id="fig-ch19_01_01"><media id="fs-idm30317200" alt="The Hardy–Weinberg principle is used to predict the genotypic distribution of offspring in a given population. In the example given, pea plants have two different alleles for pea color. The dominant capital Y allele results in yellow pea color, and the recessive small y allele results in green pea color. The distribution of individuals in a population of 500 is given. Of the 500 individuals, 245 are homozygous dominant (capital Y capital Y) and produce yellow peas. 210 are heterozygous (capital Y small y) and also produce yellow peas. 45 are homozygous recessive (small y small y) and produce green peas. The frequencies of homozygous dominant, heterozygous, and homozygous recessive individuals are 0.49, 0.42, and 0.09, respectively.  Each of the 500 individuals provides two alleles to the gene pool, or 1000 total. The 245 homozygous dominant individuals provide two capital Y alleles to the gene pool, or 490 total. The 210 heterozygous individuals provide 210 capital Y and 210 small y alleles to the gene pool. The 45 homozygous recessive individuals provide two small y alleles to the gene pool, or 90 total. The number of capital Y alleles is 490 from homozygous dominant individuals plus 210 from homozygous recessive individuals, or 700 total. The number of small y alleles is 210 from heterozygous individuals plus 90 from homozygous recessive individuals, or 300 total.  The allelic frequency is calculated by dividing the number of each allele by the total number of alleles in the gene pool. For the capital Y allele, the allelic frequency is 700 divided by 1000, or 0.7; this allelic frequency is called p. For the small y allele the allelic frequency is 300 divided by 1000, or 0.3; the allelic frequency is called q.  Hardy–Weinberg analysis is used to determine the genotypic frequency in the offspring. The Hardy-Wienberg equation is p-squared plus 2pq plus q-squared equals 1. For the population given, the frequency is 0.7-squared plus 2 times .7 times .3 plus .3-squared equals one. The value for p-squared, 0.49, is the predicted frequency of homozygous dominant (capital Y capital Y) individuals. The value for 2pq, 0.42, is the predicted frequency of heterozygous (capital Y small y) individuals. The value for q-squared, .09, is the predicted frequency of homozygous recessive individuals. Note that the predicted frequency of genotypes in the offspring is the same as the frequency of genotypes in the parent population. If all the genotypic frequencies, .49 plus .42 plus .09, are added together, the result is one ">
+<image mime-type="image/png" src="../../media/Figure_19_01_01.png" width="430"/>
+</media>
+<caption>When populations are in the Hardy–Weinberg equilibrium, the allelic frequency is stable from generation to generation and the distribution of alleles can be determined from the Hardy–Weinberg equation. If the allelic frequency measured in the field differs from the predicted value, scientists can make inferences about what evolutionary forces are at play.</caption></figure></para>
+<!--<para id="fs-idp127584704">In plants, violet flower color (V) is dominant over white (v). If p = 0.8 and q = 0.2 in a population of 500 plants, how many individuals would you expect to be homozygous dominant (VV), heterozygous (Vv), and homozygous recessive (vv)? How many plants would you expect to have violet flowers, and how many would have white flowers?</para>-->
+<exercise id="fs-id1167064681980" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065975502">
+<para id="fs-id1167064895334">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex002"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-idp7569408">In theory, if a population is at equilibrium—that is, there are no evolutionary forces acting upon it—generation after generation would have the same gene pool and genetic structure, and these equations would all hold true all of the time. Of course, even Hardy and Weinberg recognized that no natural population is immune to evolution. Populations in nature are constantly changing in genetic makeup due to drift, mutation, possibly migration, and selection. As a result, the only way to determine the exact distribution of phenotypes in a population is to go out and count them. But the Hardy–Weinberg principle gives scientists a mathematical baseline of a non-evolving population to which they can compare evolving populations and thereby infer what evolutionary forces might be at play. If the frequencies of alleles or genotypes deviate from the value expected from the Hardy–Weinberg equation, then the population is evolving.</para>
+<note id="fs-idm31398800" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch19-s01-lo02 ost-tag-lo-apbio-ch19-s01-aplo-1-1"><label>Link to Learning</label>
+<para id="fs-idm72399696">Use this <link window="new" url="http://openstax.org/l/hardy-weinberg">online calculator</link> to determine the genetic structure of a population.</para>
+<exercise id="fs-id1167064958774" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065895963">
+<para id="fs-id1167066025200">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex003"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<note id="fs-id1167066182831" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch19-s01-aplo-1-1 ost-tag-lo-apbio-ch19-s01-aplo-1-2 ost-tag-lo-apbio-ch19-s01-aplo-1-3">
+<label>Science Practices Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066029245" class="ost-assignable ost-sciprac-lab">
+<label/>
+<title>Lab Investigation</title>
+<para id="fs-id1167065696907"><emphasis effect="italics">AP<sup>®</sup> Biology Investigative Labs: Inquiry-Based Approach, Investigation 2: Mathematical Modeling: Hardy–Weinberg</emphasis>. In this lab investigation, you apply the Hardy–Weinberg equation and create a spreadsheet to study changes in allele frequencies in a population and to examine possible causes for these changes.</para>
+</note>
+<note id="fs-id1167064984939" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167065788033" class="unnumbered">
+<label/>
+<problem id="fs-id1167066112977">
+<para id="fs-id1167065823780">Imagine you are trying to determine if a population of flowers is undergoing microevolution. You suspect there is selection pressure on the color of the flower because bees seem to cluster around red flowers more often than blue flowers. In a separate experiment, you discover that blue flower color is dominant to red flower color. In a field, you count 600 blue flowers and 200 red flowers. Based on the H-W equation, what are the expected allele frequencies for flower color?</para>
+<para id="fs-id1167062332168">Two years later, you revisit the same field and discover that out of 1,000 flowers, 650 are blue. Use the H–W equation to determine if the population of flowers is undergoing evolution.</para>
+</problem>
+</exercise>
+</note>
+<note id="fs-id1167066039665" class="os-teacher">
+<label>Teacher Support</label>
+<list id="fs-id1167063485346">
+<item>This lab investigation is an application of AP<sup>®</sup> Learning Objective 1.1 and Science Practices 1.5 and 2.2, Learning Objective 1.2 and Science Practices 2.2 and 5.3, and Learning Objective 1.3 and Science Practice 2.2 because students are analyzing data sets and applying the Hardy–Weinberg equation to calculate allele frequencies and determine if a population if evolving based on changes in allele frequencies.</item>
+<item>For additional interactive programs and tutorials to aid students in understanding allelles, go to <link url="http:openstax.org/l/32allele/">this website</link>.</item>
+<item>Think About It Answers: In the first example, 200 out of 800 flowers had the recessive homozygous phenotype. The q2=0.25 and thus the frequency of q = 0.5. Since p + q = 1, the frequency of p is also 0.5. In the second example, using the same math, the frequency of p is 0.57 and q is 0.43, so it is clear that the allelic frequencies are changing and that the populations is indeed undergoing natural selection.</item>
+<item>The Think About It questions are applications of AP<sup>®</sup> Learning Objective 1.1 and Science Practices 1.5 and 2.2, Learning Objective 1.2 and Science Practices 2.2 and 5.3, and Learning Objective 1.3 and Science Practice 2.2 because students are applying the Hardy–Weinberg equation to data sets and using calculated allele frequencies to determine if a population is evolving.</item>
+</list>
+</note>
+</note>
+<section id="fs-idm122624480" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idm66419024">The modern synthesis of evolutionary theory grew out of the cohesion of Darwin’s, Wallace’s, and Mendel’s thoughts on evolution and heredity, along with the more modern study of population genetics. It describes the evolution of populations and species, from small-scale changes among individuals to large-scale changes over paleontological time periods. To understand how organisms evolve, scientists can track populations’ allele frequencies over time. If they differ from generation to generation, scientists can conclude that the population is not in Hardy–Weinberg equilibrium, and is thus evolving.</para>
+</section>
+<section id="fs-id1167066045309" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title>
+<exercise id="fs-id1167065702469" class="os-exercise">
+<problem id="fs-id1167062314715">
+<para id="fs-id1167064932395">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex004"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066171695" class="os-exercise">
+<problem id="fs-id1167064757963">
+<para id="fs-id1167066098833">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066141314" class="os-exercise">
+<problem id="fs-id1167065978795">
+<para id="fs-id1167065887664">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066155760" class="os-exercise">
+<problem id="fs-id1167064915348">
+<para id="fs-id1167065000338">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex007"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167065738230" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167065979985" class="os-exercise">
+<problem id="fs-id1167065857465">
+<para id="fs-id1167065772332">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065030103" class="os-exercise">
+<problem id="fs-id1167066038894">
+<para id="fs-id1167065768966">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex009"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169284149369" class="os-exercise">
+<problem id="eip-id1169284027945">
+<para id="eip-id1169283647241">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ot004"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065789440" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167066156114" class="os-exercise">
+<problem id="fs-id1167064893377">
+<para id="eip-idm460877936">A scientist is studying the genetics of a population of plants that she suspects is undergoing natural selection. After examining samples of the population’s DNA over several years, she finds the following data:</para>
+
+<table id="fs-id1161167851970" class="unnumbered" summary="Missing a description"><label/><tgroup cols="8"><thead>
+<row>
+<entry align="center">Year</entry>
+<entry align="center">Allele A Frequency</entry>
+<entry align="center">Allele B Frequency</entry>
+</row></thead>
+<tbody>
+<row>
+<entry align="center">1</entry>
+<entry align="center">0.80</entry>
+<entry align="center">0.2</entry>
+</row>
+<row>
+<entry align="center">2</entry>
+<entry align="center">0.72</entry>
+<entry align="center">0.28</entry>
+</row>
+<row>
+<entry align="center">3</entry>
+<entry align="center">0.66</entry>
+<entry align="center">0.34</entry>
+</row>
+<row>
+<entry align="center">4</entry>
+<entry align="center">0.52</entry>
+<entry align="center">0.48</entry>
+</row>
+<row>
+<entry align="center">5</entry>
+<entry align="center">0.45</entry>
+<entry align="center">0.55</entry>
+</row>
+<row>
+<entry align="center">6</entry>
+<entry align="center">0.39</entry>
+<entry align="center">0.61</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table>
+<para id="eip-idm594184384">
+Does this provide evidence of natural selection in this population? Why or why not?
+<list id="eip-idm611439872" list-type="enumerated" number-style="lower-alpha">
+<item>No, because the genotype frequencies, not allele frequencies, have to change for evolution to occur.</item>
+
+<item>No, because the allele frequencies are changing randomly, suggesting that genetic drift is occurring, not natural selection.</item>
+
+<item>Yes, because it shows that the previously favorable or neutral allele A is now being selected against in favor of allele B.</item>
+
+<item>Yes, because it is showing that the frequency of both alleles are changing over time.</item>
+</list></para>
+
+</problem>
+</exercise>
+<exercise id="fs-id1167066165899" class="os-exercise">
+<problem id="fs-id1167066050663">
+<para id="fs-id1167065942209">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex011"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-idm480373808" class="os-exercise">
+<problem id="eip-idm463945744">
+<para id="eip-idm612741744">A land manager mows a section of annual grass. Over the years, he recorded the date of flowering from the mown field as well as a similar grass field that was not mown. What is the most likely explanation for this trend?
+
+</para><table id="eip-idm459176704" class="unnumbered" summary="Missing a description"><label/><tgroup cols="8"><thead>
+<row>
+<entry align="center">Year</entry>
+<entry align="center">Mowed field flowering date</entry>
+<entry align="center">Unmowed field flowering date</entry>
+</row></thead>
+<tbody>
+<row>
+<entry align="center">2010</entry>
+<entry align="center">7/29</entry>
+<entry align="center">7/28</entry>
+</row>
+<row>
+<entry align="center">2011</entry>
+<entry align="center">7/20</entry>
+<entry align="center">7/26</entry>
+</row>
+<row>
+<entry align="center">2012</entry>
+<entry align="center">7/13</entry>
+<entry align="center">8/1</entry>
+</row>
+<row>
+<entry align="center">2013</entry>
+<entry align="center">7/8</entry>
+<entry align="center">7/29</entry>
+</row>
+<row>
+<entry align="center">2014</entry>
+<entry align="center">7/1</entry>
+<entry align="center">8/2</entry>
+</row>
+<row>
+<entry align="center">2015</entry>
+<entry align="center">6/29</entry>
+<entry align="center">7/26</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="eip-idm496857248"><list id="eip-idm633327184" list-type="enumerated" number-style="lower-alpha"><item>The grass population is adapting to the mowing, so it can flower for longer before being mowed.</item>
+
+<item>Mowing stabilizes the flowering time, which follows a steady trend in the mowed field but not in the unmowed field.</item>
+
+<item>The mowing is preventing the grass from reproducing, causing the mowed field to adapt by flowering earlier.</item>
+
+<item>The grass typically flowers earlier and earlier every year as it becomes older with each passing year.</item>
+</list></para></problem>
+</exercise>
+<exercise id="fs-id1167065770557" class="os-exercise"><problem id="fs-id1167065973519">
+<para id="fs-id1167064876958">A scientist observed two populations of insects for 10 years. They took data on the length, in mm , of the insect’s
+mouthparts. Their data is shown in the graphs below. How is this population evolving and what agent of evolution is most
+likely at work?
+<newline/>
+<media id="eip-idm504286944" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_AP_Bio_19_01_InsectGr2.jpg" height="300"/>
+</media>
+<list id="eip-idm535691952" list-type="enumerated" number-style="lower-alpha"><item>inbreeding, because the gene distributions are becoming less similar among the population</item>
+<item>genetic drift, as the distribution of traits has become more random</item>
+<item>gene flow, as the population has likely gained new mouthpart traits through immigration</item>
+<item>natural selection, as insects that have mid-sized mouthparts are being favored</item>
+</list></para></problem>
+</exercise><exercise id="fs-id1167064984830" class="os-exercise">
+<problem id="fs-id1167065873747">
+<para id="fs-id1167065876456">
+Researchers believe that in a fish species, individuals with the recessive genotype aa are predisposed to disease. Homozygous dominant (AA) individuals and heterozygous (Aa) individuals are not believed to be susceptible to this disease. A pond was stocked with 100 fish of the AA genotype and 100 fish of the aa phenotype, and the fish were allowed to breed. In the next generation, 35 percent of the fish had the dominant (AA) phenotype. What does this result indicate?
+  </para>
+  <list list-type="enumerated" id="fs-id1111965356020" number-style="lower-alpha">
+
+  <item> The homozygous dominant phenotype is higher than expected, indicating that evolution has occurred.</item>
+
+  <item> The homozygous dominant phenotype is lower than expected, indicating that evolution has occurred.</item>
+
+  <item> The homozygous dominant phenotype is higher than expected, indicating that evolution has not occurred.</item>
+
+  <item> The homozygous dominant phenotype is lower than expected, indicating that evolution has not occurred.</item>
+  </list>
+</problem>
+</exercise>
+<exercise id="fs-id1167063105088" class="os-exercise">
+<problem id="fs-id1167065843211">
+<para id="fs-id1167062468347">
+<link class="os-embed" url="#ost/api/ex/apbio-ch19-ex015"/>
+</para>
+</problem>
+</exercise>
+</section><section id="fs-id1164967703455" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164967930238">
+<problem id="fs-id1164965638342">
+<para id="fs-id1164961038526">Consider a polymorphic gene with three alleles: A, B, and C.</para>
+<para id="fs-id1164967886952">A. If the frequencies of the alleles A and B are 0.2 and 0.3, the frequency of allele C is closest to ___.</para>
+<list id="fs-id1164965356020" list-type="enumerated" number-style="lower-alpha"><item>0.25</item>
+<item>0.5</item>
+<item>0.2</item>
+<item>0.3</item></list><para id="fs-id1164965496609">Consider a gene with only two alleles: dominant A and recessive a.  In a population of 1,000 organisms, the fraction expressing the homozygous recessive phenotype is 0.37.</para>
+<para id="fs-id1164967590084">B. The calculated allele frequencies p and q have values that are closest to ___.</para>
+<list id="fs-id1164967608915" list-type="enumerated" number-style="lower-alpha"><item>0.69 and 0.31</item>
+<item>0.31 and 0.69</item>
+<item>0.37 and 0.63</item>
+<item>0.63 and 0.37</item></list><table id="fs-id1164967855970" summary="The table has eight columns. They read from left to right, Genotype, C1 C1, C2 C2, C3 C3, C1 C2 , C1 C3 , C2 C3, and Total. The second row reads: Observed, 120, 230, 112, 175, 198, 165, 1,000.">
+<tgroup cols="8"><tbody>
+<row>
+<entry align="center">Genotype</entry>
+<entry align="center">C<sub>1</sub> C<sub>1</sub></entry>
+<entry align="center">C<sub>2</sub> C<sub>2</sub></entry>
+<entry align="center">C<sub>3</sub> C<sub>3</sub></entry>
+<entry align="center">C<sub>1</sub> C<sub>2</sub></entry>
+<entry align="center">C<sub>1</sub> C<sub>3</sub></entry>
+<entry align="center">C<sub>2</sub> C<sub>3</sub></entry>
+<entry align="center">Total</entry>
+</row>
+<row>
+<entry align="center">Observed</entry>
+<entry align="center">120</entry>
+<entry align="center">230</entry>
+<entry align="center">112</entry>
+<entry align="center">175</entry>
+<entry align="center">198</entry>
+<entry align="center">165</entry>
+<entry align="center">1,000</entry>
+</row>
+</tbody>
+</tgroup>
+</table><para id="fs-id1164967578265">C. The calculated number of individuals in this population that are heterozygotes is closest to ___.</para>
+<list id="fs-id1164965487181" list-type="enumerated" number-style="lower-alpha"><item>240</item>
+<item>230</item>
+<item>430</item>
+<item>476</item></list><para id="fs-id1164967401146">Mountain pine beetles (<emphasis effect="italics">Dendroctonus ponderosae</emphasis>) were collected from a one-acre tract of lodge pole pine trees (<emphasis effect="italics">Pinus contorta</emphasis>) in a region of British Columbia where the forests are under temperature stress.  The beetles were crushed, and a cellulase enzyme was extracted.  Three polymorphs of the enzyme were observed when separated by gel electrophoresis.  The three proteins observed correspond to alleles labeled C<sub>1</sub>, C<sub>2</sub>, and C<sub>3</sub>.  The numbers of beetles with each allele are shown in the following table.</para>
+<para id="fs-id1164967790917">D. The calculated allelic frequencies p<sub>C1</sub>, p<sub>C2</sub>, and p<sub>C3</sub> are closest to ___.</para><list id="fs-id1164967829587" list-type="enumerated" number-style="lower-alpha"><item>p<sub>C1</sub> = 0.57 p<sub>C2</sub> = 0.57 p<sub>C3</sub> = 0.59</item>
+<item>p<sub>C1</sub> = 0.29 p<sub>C2</sub> = 0.29 p<sub>C3</sub> = 0.42</item>
+<item>p<sub>C1</sub> = 0.61 p<sub>C2</sub> = 0.80 p<sub>C3</sub> = 0.59</item>
+<item>p<sub>C1</sub> = 0.31 p<sub>C2</sub> = 0.40 p<sub>C3</sub> = 0.29</item></list><para id="fs-id1164961172442">E.  In order to investigate the presence of selection at the cellulase locus due to changing temperature, a biologist should:</para>
+<list id="fs-id1164965611655" list-type="enumerated" number-style="lower-alpha"><item>calculate the values of the sums p<sub>C1</sub> + p<sub>C2</sub> + p<sub>C3</sub> and (p<sub>C1</sub> + p<sub>C2</sub> + p<sub>C3</sub>)<sup>2</sup>.  If these numbers are not equal to 1, the gene is not in Hardy-Weinberg equilibrium, and the gene is evolving.</item>
+<item>return next year and repeat this examination of the enzyme, calculating frequencies of each allele each year.  Then calculate the values of the sums p<sub>C1</sub> + p<sub>C2</sub> + p<sub>C3</sub> and (p<sub>C1</sub> + p<sub>C2</sub> + p<sub>C3</sub>)<sup>2</sup>.  If these numbers are not the same each year, the gene is not in Hardy-Weinberg equilibrium, and the gene is evolving.</item>
+<item>return each year for several years and repeat this examination of the enzyme, calculating frequencies of each allele each year.  If the allele frequencies are changing, the gene is not in Hardy-Weinberg equilibrium, and temperature is exerting a selection pressure.</item>
+<item>return each year for several years and repeat this examination of the enzyme, calculating frequencies of each allele each year.  If the allele frequencies are changing, the gene is not in Hardy-Weinberg equilibrium.  Analysis of the dependence of allele frequencies on temperature could indicate selection.</item></list></problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm75628336"><term>allele frequency</term> <meaning id="fs-idp5678176">(also, gene frequency) rate at which a specific allele appears within a population</meaning></definition>
+<definition id="fs-idm54276000"><term>founder effect</term> <meaning id="fs-idm62262256">event that initiates an allele frequency change in part of the population, which is not typical of the original population</meaning></definition>
+<definition id="fs-idp35363168"><term>gene pool</term> <meaning id="fs-idm74238240">all of the alleles carried by all of the individuals in the population</meaning></definition>
+<definition id="fs-idp133912368"><term>genetic structure</term> <meaning id="fs-idp2041648">distribution of the different possible genotypes in a population</meaning></definition>
+<definition id="fs-idp25681552"><term>macroevolution</term> <meaning id="fs-idp80567056">broader scale evolutionary changes seen over paleontological time</meaning></definition>
+<definition id="fs-idm75163296"><term>microevolution</term> <meaning id="fs-idm72374560">changes in a population’s genetic structure</meaning></definition>
+<definition id="fs-idm40380336"><term>modern synthesis</term> <meaning id="fs-idp149403440">overarching evolutionary paradigm that took shape by the 1940s and is generally accepted today</meaning></definition>
+<definition id="fs-idp40325696"><term>population genetics</term> <meaning id="fs-idm85947680">study of how selective forces change the allele frequencies in a population over time</meaning></definition>
+<definition id="fs-id1167063790989"><term>Hardy–Weinberg principle of equilibrium</term> <meaning id="fs-id1167067132389">a stable, non-evolving state of a population in which allelic frequencies are stable over time</meaning></definition>
+<definition id="fs-id1167066830145"><term>genotype frequency</term> <meaning id="fs-id1167063892278">the proportion of a specific genotype in a population relative to all other genotypes for those genes that are present in the population</meaning></definition>
+</glossary>
+</document>

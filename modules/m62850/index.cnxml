@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Eukaryotic Translational and Post-translational Gene Regulation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62850</md:content-id>
+  <md:title>Eukaryotic Translational and Post-translational Gene Regulation</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand the process of translation and discuss its key factors</item>
+<item>Describe how the initiation complex controls translation</item>
+<item>Explain the different ways in which the post-translational control of gene expression takes place</item>
+</list></md:abstract>
+  <md:uuid>8311acd8-e825-451e-a994-517ed3a70101</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065887427" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167065979110">In this section, you will explore the following question:</para>
+<list id="fs-id1167064937742">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch16-s06-lo01">What are different ways in which translational and post-translational control of gene expression take place?</item>
+</list>
+</section>
+
+<section id="fs-id1167065801827" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167065848098">Changing the status of the RNA or the protein itself can affect the amount of protein produced, the function of the protein, or how long the protein resides in the cell. Modifications such as phosphorylation and environmental stimuli can affect the stability and function of the protein.</para>
+<para id="fs-id1167065661440" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
+<table id="fs-id1167065824686" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 4.A.3 Interactions between external stimuli and regulated gene expression result in specialization of cells, tissues and organs. Second left cell reads: Science Practice. Second right cell reads: 1.3 The student can refine representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Learning Objective. Third right cell reads: 4.7 The student is able to refine representations to illustrate how interactions between external stimuli and gene expression result in specialization of cells, tissues, and organs." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.3 </emphasis></span>
+<span class="ost-standards-description">Interactions between external stimuli and regulated gene expression result in specialization of cells, tissues and organs.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.3 </emphasis></span>
+<span class="ost-standards-description">The student can refine representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch16-s06-aplo-4-7">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.7 </emphasis></span>
+<span class="ost-standards-description">The student is able to refine representations to illustrate how interactions between external stimuli and gene expression result in specialization of cells, tissues, and organs.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+
+<note id="fs-id1167065765540" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065841082">Introduce the topic of post-translation gene regulation using visuals such as this <link window="new" url="http://openstax.org/l/32posttrans">video</link>.</para>
+</note>
+
+<para id="fs-id1976887">After the RNA has been transported to the cytoplasm, it is translated into protein. Control of this process is largely dependent on the RNA molecule. As previously discussed, the stability of the RNA will have a large impact on its translation into a protein. As the stability changes, the amount of time that it is available for translation also changes.</para>
+<section id="fs-id1396738" class="ost-tag-lo-apbio-ch16-s06-lo01 ost-tag-lo-apbio-ch16-s06-aplo-4-7 ost-get-exercise">
+<title>The Initiation Complex and Translation Rate</title>
+<para id="fs-id2754887">Like transcription, translation is controlled by proteins that bind and initiate the process. In translation, the complex that assembles to start the process is referred to as the <term>initiation complex</term>. The first protein to bind to the RNA to initiate translation is the <term>eukaryotic initiation factor-2 (eIF-2)</term>. The eIF-2 protein is active when it binds to the high-energy molecule <term>guanosine triphosphate (GTP)</term>. GTP provides the energy to start the reaction by giving up a phosphate and becoming <term>guanosine diphosphate (GDP)</term>. The eIF-2 protein bound to GTP binds to the small <term>40S ribosomal subunit</term>. When bound, the methionine initiator tRNA associates with the eIF-2/40S ribosome complex, bringing along with it the mRNA to be translated. At this point, when the initiator complex is assembled, the GTP is converted into GDP and energy is released. The phosphate and the eIF-2 protein are released from the complex and the large <term>60S ribosomal subunit</term> binds to translate the RNA. The binding of eIF-2 to the RNA is controlled by phosphorylation. If eIF-2 is phosphorylated, it undergoes a conformational change and cannot bind to GTP. Therefore, the initiation complex cannot form properly and translation is impeded (<link target-id="fig-ch16_06_01" document=""/>). When eIF-2 remains unphosphorylated, it binds the RNA and actively translates the protein.</para>
+
+<note id="fs-id2339240" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch16-s06-lo01 ost-tag-lo-apbio-ch16-s06-aplo-4-7"><label>Visual Connection</label>
+<para id="fs-id2250537">
+<figure id="fig-ch16_06_01"><media id="fs-id1453957" alt="The eIF2 protein is a translation factor that binds to the small 40S ribosome subunit. When eIF2 is phosphorylated, translation is blocked.">
+<image mime-type="image/png" src="../../media/Figure_16_06_01.png" width="320"/>
+</media>
+<caption>Gene expression can be controlled by factors that bind the translation initiation complex.</caption></figure></para>
+<!--<para><link window="new"  target-id="fig-ch16_06_01" document=""/> Protein synthesis would be inhibited.</para>-->
+
+<exercise id="fs-id1167064928921" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167064872904">
+<para id="fs-id1167065849909">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ex038"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+
+<section id="fs-id1956507" class="ost-tag-lo-apbio-ch16-s06-lo01 ost-tag-lo-apbio-ch16-s06-aplo-4-7 ost-get-exercise">
+<title>Chemical Modifications, Protein Activity, and Longevity</title>
+<para id="fs-id3321766">Proteins can be chemically modified with the addition of groups including methyl, phosphate, acetyl, and ubiquitin groups. The addition or removal of these groups from proteins regulates their activity or the length of time they exist in the cell. Sometimes these modifications can regulate where a protein is found in the cell—for example, in the nucleus, the cytoplasm, or attached to the plasma membrane.</para>
+<para id="fs-id2080792">Chemical modifications occur in response to external stimuli such as stress, the lack of nutrients, heat, or ultraviolet light exposure. These changes can alter epigenetic accessibility, transcription, mRNA stability, or translation—all resulting in changes in expression of various genes. This is an efficient way for the cell to rapidly change the levels of specific proteins in response to the environment.  Because proteins are involved in every stage of gene regulation, the phosphorylation of a protein (depending on the protein that is modified) can alter accessibility to the chromosome, can alter translation (by altering transcription factor binding or function), can change nuclear shuttling (by influencing modifications to the nuclear pore complex), can alter RNA stability (by binding or not binding to the RNA to regulate its stability), can modify translation (increase or decrease), or can change post-translational modifications (add or remove phosphates or other chemical modifications).</para>
+<para id="fs-id3327902"> The addition of an ubiquitin group to a protein marks that protein for degradation. Ubiquitin acts like a flag indicating that the protein lifespan is complete. These proteins are moved to the <term>proteasome</term>, an organelle that functions to remove proteins, to be degraded (<link target-id="fig-ch16_06_02" document=""/>). One way to control gene expression, therefore, is to alter the longevity of the protein.</para>
+<figure id="fig-ch16_06_02" class="ost-tag-lo-apbio-ch16-s06-lo01 ost-tag-lo-apbio-ch16-s06-aplo-4-7"><media id="fs-id2304651" alt="Multiple ubiquitin groups bind to a protein. The tagged protein is then fed into the hollow tube of a proteasome. The proteasome degrades the protein.">
+<image mime-type="image/jpg" src="../../media/Figure_16_06_02-fab7.jpg" width="350"/>
+</media>
+<caption>Proteins with ubiquitin tags are marked for degradation within the proteasome.</caption></figure></section>
+<note id="fs-id1167065828498" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch16-s06-lo01">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167062299485" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch16-s06-aplo-4-7"><label/>
+<title>Think About It</title>
+<exercise id="fs-id1167065909653" class="ost-tag-lo-apbio-ch16-s06-aplo-4-7 unnumbered"><label/>
+<problem id="fs-id1167065809139"><para id="fs-id1167065862160">How can environmental stimuli such as ultraviolet light exposure or nutrient deficiency modify gene expression?</para></problem>
+</exercise>
+</note>
+</note>
+<note id="fs-id1167065972757" class="os-teacher"><label>Teacher Support</label>
+<para id="fs-id1167065971710">This question is an application of Learning Objective 4.7 and Science Practice 1.3 because, based on the students knowledge of transcription and translation, the student is describing the means of translational control of gene expression.</para>
+<note id="eip-id1167067217189"><title>Answer:</title>Proteins can be chemically modified with the addition of functional groups including methyl, phosphate, acetyl, and ubiquitin groups. The addition or removal of these groups from proteins regulates the protein activity or the length of time the proteins exist in the cell. Sometimes these modifications can regulate where a protein is found in the cell: in the nucleus or cytoplasm or attached to the plasma membrane, for example. Chemical modifications occur in response to external stimuli such as stressors including the lack of nutrients, increases in temperature, or exposure to ultraviolet light. These changes can alter epigenetic accessibility, transcription, mRNA stability, or translation—all resulting in changes in expression of various genes.</note>
+</note><section id="fs-id1305154" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1511868">Changing the status of the RNA or the protein itself can affect the amount of protein, the function of the protein, or how long it is found in the cell. To translate the protein, a protein initiator complex must assemble on the RNA. Modifications (such as phosphorylation) of proteins in this complex can prevent proper translation from occurring. Once a protein has been synthesized, it can be modified (phosphorylated, acetylated, methylated, or ubiquitinated). These post-translational modifications can greatly impact the stability, degradation, or function of the protein.</para></section>
+<!--<section id="fs-id919884" class="art-exercise">
+<title>Art Connections</title>
+<exercise id="fs-id2339974">
+<problem id="fs-id2138282">
+<para id="fs-id1974790"><link target-id="fig-ch16_06_01" document=""/> An increase in phosphorylation levels of eIF-2 has been observed in patients with neurodegenerative diseases such as Alzheimer&#8217;s, Parkinson&#8217;s, and Huntington&#8217;s. What impact do you think this might have on protein synthesis?</para>
+</problem>
+<solution id="fs-id1444395"><label/>
+<para id="fs-id2137736"><link target-id="fig-ch16_06_01" document=""/> Protein synthesis would be inhibited.</para>
+</solution>
+</exercise>
+</section>-->
+
+<section id="fs-id1167065758457" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065661922" class="os-exercise">
+<problem id="fs-id1167065713888">
+<para id="fs-id1167065791137">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ex039"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065822777" class="os-exercise">
+<problem id="fs-id1167065679591">
+<para id="fs-id1167065714452">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ex040"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169282677448" class="os-exercise">
+<problem id="eip-id1169282811707">
+<para id="eip-id1169282677399">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ot021"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065970414" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167065790264" class="os-exercise">
+<problem id="fs-id1167065866702">
+<para id="fs-id1167065851052">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ex041"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169282845585" class="os-exercise">
+<problem id="eip-id1169282569885">
+<para id="eip-id1169282497034">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ot023"/>
+</para>
+</problem>
+</exercise></section> </content>
+<glossary>
+<definition id="fs-id1452415"><term>eukaryotic initiation factor-2 (eIF-2)</term> <meaning id="fs-id1695712">protein that binds first to an mRNA to initiate translation</meaning></definition>
+<definition id="fs-id2956204"><term>guanine diphosphate (GDP)</term> <meaning id="fs-id1843522"> molecule that is left after the energy is used to start translation</meaning></definition>
+<definition id="fs-id2009484"><term>guanine triphosphate (GTP)</term> <meaning id="fs-id1412653">energy-providing molecule that binds to eIF-2 and is needed for translation</meaning></definition>
+<definition id="fs-id2746232"><term>initiation complex</term> <meaning id="fs-id1802350">protein complex containing eIF2-2 that starts translation</meaning></definition>
+<definition id="fs-id2910723"><term>large 60S ribosomal subunit</term> <meaning id="fs-id2573638">second, larger ribosomal subunit that binds to the RNA to translate it into protein</meaning></definition>
+<definition id="fs-id2131438"><term>proteasome</term> <meaning id="fs-id1968431">organelle that degrades proteins</meaning></definition>
+<definition id="fs-id2595177"><term>small 40S ribosomal subunit</term> <meaning id="fs-id2909606">ribosomal subunit that binds to the RNA to translate it into protein</meaning></definition>
+</glossary>
+</document>

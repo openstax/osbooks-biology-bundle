@@ -1,0 +1,196 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Cancer and the Cell Cycle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62806</md:content-id>
+  <md:title>Cancer and the Cell Cycle</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how cancer is caused by uncontrolled cell growth</item>
+<item>Understand how proto-oncogenes are normal cell genes that, when mutated, become oncogenes</item>
+<item>Describe how tumor suppressors function</item>
+<item>Explain how mutant tumor suppressors cause cancer</item>
+</list></md:abstract>
+  <md:uuid>99af1dbc-8f8e-4534-8909-d56c89f18f9f</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167066103747" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167062599877">In this section, you will explore the following question:</para><list id="fs-id1167062588027">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch10-s04-lo01">What causes uncontrolled cell growth, and why does it often cause cancer?</item>
+</list>
+</section>
+
+<section id="fs-id1167065838899" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167065849163">Cancer results from unchecked cell division caused by a breakdown of the mechanisms that regulate the cell cycle. The loss of control begins with a change in the DNA sequence of a gene that codes for one of the regulatory molecules. Faulty instructions lead to a protein that does not function as it should. One culprit that has been identified is the p53 protein (coded for by the <emphasis effect="italics">p53</emphasis> gene), a major regulator at the G<sub>1</sub> checkpoint. Normally, p53 proteins monitor DNA. If they find cells with damaged DNA, p53 will trigger repair mechanisms or destroy the cells, thus suppressing the formation of a tumor. However, mutations in <emphasis effect="italics">p53</emphasis> can result in abnormal p53 proteins that fail to stop cell division if the cell’s DNA is damaged. This results in an increased number of mutations, leading to abnormal daughter cells. Eventually, all checkpoints in the cell become nonfunctional, and the abnormal cells can crowd out normal cells.</para>
+<para id="fs-id1167065039511" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167064899811" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.2 In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization. Second left cell reads: Science Practice. Second right cell reads: 6.4 The student can make claims and predictions about natural phenomena based on scientific theories and models. Third left cell reads: Learning Objective. Third right cell reads: 3.7 The student can make predictions about natural phenomena occurring during the cell cycle." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
+<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.2 </emphasis></span>
+<span class="ost-standards-description">In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch10-s04-aplo-3-7">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.7 </emphasis></span>
+<span class="ost-standards-description">The student can make predictions about natural phenomena occurring during the cell cycle.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+
+<note id="fs-id1167065974766" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167066152184" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167066025912">This chapter reviews the fidelity with which undamaged and damaged DNA is copied. Students who want more background on how gene mutations can occur maybe interested in reading the review “The fidelity of DNA synthesis by eukaryotic replicative and translation synthesis polymerases” <link window="new" url="http://openstax.org/l/32fidelity">here</link>.</para>
+<para id="fs-id1167064986615">Introduce the topic of loss of control of the cell cycle using visuals such as these videos: “<link window="new" url="http://openstax.org/l/32eukcancer">The Eukaryotic Cell Cycle and Cancer</link>”, “<link window="new" url="http://openstax.org/l/32tumsupp">Tumor Suppressor Genes</link>”, “<link window="new" url="http://openstax.org/l/32p53gene">Click and Learn: <emphasis effect="italics">p53</emphasis> Gene and Cancer</link>”, and “<link window="new" url="http://openstax.org/l/32p53fight">Using <emphasis effect="italics">p53</emphasis> to Fight Cancer</link>”.</para></note>
+<note id="fs-id1167062351117" class="ost-misconception">
+<label>Misconception Alert</label>
+<para id="fs-id1167065919767">Students may believe that the presence of a mutation in <emphasis effect="italics">p53</emphasis> or any of the tumor suppressor genes or proto-oncogenes leads to the formation of cancer in every case. However, the development of cancer is a complex process. The presence of a gene mutation does not in and of itself mean cancer will develop. Three main factors can cause cancer: environmental factors, carcinogens, viruses, and genetics. Additional overview of the development of cancer can be given to students in this <link window="new" url="http://openstax.org/l/32cancer1">video</link>.</para></note>
+</note>
+<para id="fs-id1166845372770">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.32][APLO 2.34][APLO 3.6][APLO 3.7][APLO 3.8][APLO 4.6][APLO 4.14][APLO 4.22]</para><para id="fs-id1863239">Cancer comprises many different diseases caused by a common mechanism: uncontrolled cell growth. Despite the redundancy and overlapping levels of cell cycle control, errors do occur. One of the critical processes monitored by the cell cycle checkpoint surveillance mechanism is the proper replication of DNA during the S phase. Even when all of the cell cycle controls are fully functional, a small percentage of replication errors (mutations) will be passed on to the daughter cells. If changes to the DNA nucleotide sequence occur within a coding portion of a gene and are not corrected, a gene mutation results. All cancers start when a gene mutation gives rise to a faulty protein that plays a key role in cell reproduction. The change in the cell that results from the malformed protein may be minor: perhaps a slight delay in the binding of Cdk to cyclin or an Rb protein that detaches from its target DNA while still phosphorylated. Even minor mistakes, however, may allow subsequent mistakes to occur more readily. Over and over, small uncorrected errors are passed from the parent cell to the daughter cells and amplified as each generation produces more non-functional proteins from uncorrected DNA damage. Eventually, the pace of the cell cycle speeds up as the effectiveness of the control and repair mechanisms decreases. Uncontrolled growth of the mutated cells outpaces the growth of normal cells in the area, and a tumor (“-oma”) can result.</para>
+<section id="fs-id1694549" class="ost-tag-lo-apbio-ch10-s04-lo01 ost-tag-lo-apbio-ch10-s04-aplo-3-7 ost-get-exercise">
+<title>Proto-oncogenes</title>
+<para id="fs-id2625974">The genes that code for the positive cell cycle regulators are called <term>proto-oncogenes</term>. Proto-oncogenes are normal genes that, when mutated in certain ways, become <term>oncogenes</term>, genes that cause a cell to become cancerous. Consider what might happen to the cell cycle in a cell with a recently acquired oncogene. In most instances, the alteration of the DNA sequence will result in a less functional (or non-functional) protein. The result is detrimental to the cell and will likely prevent the cell from completing the cell cycle; however, the organism is not harmed because the mutation will not be carried forward. If a cell cannot reproduce, the mutation is not propagated and the damage is minimal. Occasionally, however, a gene mutation causes a change that increases the activity of a positive regulator. For example, a mutation that allows Cdk to be activated without being partnered with cyclin could push the cell cycle past a checkpoint before all of the required conditions are met. If the resulting daughter cells are too damaged to undergo further cell divisions, the mutation would not be propagated and no harm would come to the organism. However, if the atypical daughter cells are able to undergo further cell divisions, subsequent generations of cells will probably accumulate even more mutations, some possibly in additional genes that regulate the cell cycle.</para>
+<para id="fs-id1552657">The Cdk gene in the above example is only one of many genes that are considered proto-oncogenes. In addition to the cell cycle regulatory proteins, any protein that influences the cycle can be altered in such a way as to override cell cycle checkpoints. An oncogene is any gene that, when altered, leads to an increase in the rate of cell cycle progression.</para>
+</section>
+<section id="fs-id2853861" class="ost-tag-lo-apbio-ch10-s04-lo01 ost-tag-lo-apbio-ch10-s04-aplo-3-7 ost-get-exercise">
+<title>Tumor Suppressor Genes</title>
+<para id="fs-id1802262">Like proto-oncogenes, many of the negative cell cycle regulatory proteins were discovered in cells that had become cancerous. <term>Tumor suppressor genes</term> are segments of DNA that code for negative regulator proteins, the type of regulators that, when activated, can prevent the cell from undergoing uncontrolled division. The collective function of the best-understood tumor suppressor gene proteins, Rb, p53, and p21, is to put up a roadblock to cell cycle progression until certain events are completed. A cell that carries a mutated form of a negative regulator might not be able to halt the cell cycle if there is a problem. Tumor suppressors are similar to brakes in a vehicle: Malfunctioning brakes can contribute to a car crash.</para>
+<para id="fs-id1910594">Mutated p53 genes have been identified in more than one-half of all human tumor cells. This discovery is not surprising in light of the multiple roles that the p53 protein plays at the G<sub>1</sub> checkpoint. A cell with a faulty p53 may fail to detect errors present in the genomic DNA (<link target-id="fig-ch10_04_01" document=""/>). Even if a partially functional p53 does identify the mutations, it may no longer be able to signal the necessary DNA repair enzymes. Either way, damaged DNA will remain uncorrected. At this point, a functional p53
+will deem the cell unsalvageable and trigger programmed cell death (apoptosis). The damaged version of p53 found in cancer cells, however, cannot trigger apoptosis.</para>
+<note id="fs-id1433250" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch10-s04-lo01 ost-tag-lo-apbio-ch10-s04-aplo-3-7"><label>Visual Connection</label>
+<para id="fs-id1984735"><figure id="fig-ch10_04_01" class="  "><media id="fs-id847150" alt="Part a: This illustration shows cell cycle regulation by normal p53, which arrests the cell cycle in response to DNA damage, cell cycle abnormalities, or hypoxia. Once the damage is repaired, the cell cycle restarts. If the damage cannot be repaired, apoptosis (programmed cell death) occurs. Part b: Mutated p53 does not arrest the cell cycle in response to cellular damage. As a result, the cell cycle continues, and the cell may become cancerous.">
+<image mime-type="image/png" src="../../media/Figure_10_04_01.png" width="500"/>
+</media>
+<caption>The role of normal p53 is to monitor DNA and the supply of oxygen (hypoxia is a condition of reduced oxygen supply). If damage is detected, p53 triggers repair mechanisms. If repairs are unsuccessful, p53 signals apoptosis. A cell with an abnormal p53 protein cannot repair damaged DNA and thus cannot signal apoptosis. Cells with abnormal p53 can become cancerous. (credit: modification of work by Thierry Soussi)</caption></figure></para>
+<exercise id="fs-id1167065799772" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065792384">
+<para id="fs-id1167066182874"><link class="os-embed" url="#ost/api/ex/apbio-ch10-ex035"/>
+</para></problem>
+</exercise>
+</note>
+<para id="fs-id2155647">The loss of p53 function has other repercussions for the cell cycle. Mutated p53 might lose its ability to trigger p21 production. Without adequate levels of p21, there is no effective block on Cdk activation. Essentially, without a fully functional p53, the G<sub>1</sub> checkpoint is severely compromised and the cell proceeds directly from G<sub>1</sub> to S regardless of internal and external conditions. At the completion of this shortened cell cycle, two daughter cells are produced that have inherited the mutated p53 gene. Given the non-optimal conditions under which the parent cell reproduced, it is likely that the daughter cells will have acquired other mutations in addition to the faulty tumor suppressor gene. Cells such as these daughter cells quickly accumulate both oncogenes and non-functional tumor suppressor genes. Again, the result is tumor growth.</para>
+<note id="fs-id2115575" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch10-s04-lo01 ost-tag-lo-apbio-ch10-s04-aplo-3-7"><label>Link to Learning</label>
+<para id="fs-id1430986">Go to this <link window="new" url="http://openstax.org/l/cancer">website</link> to watch an animation of how cancer results from errors in the cell cycle.</para>
+<exercise id="fs-id1167066094606" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065861428">
+<para id="fs-id1167066102951"><link class="os-embed" url="#ost/api/ex/apbio-ch10-ex036"/>
+</para></problem>
+</exercise>
+</note></section>
+
+<note id="fs-id1167065949537" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065023860" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch10-s04-aplo-3-7"><label/>
+<title>Think About It</title>
+<exercise id="fs-id1167064994226" class="unnumbered"><label/>
+<problem id="fs-id1167065714625"><para id="fs-id1167065714626">Human papillomavirus (HPV) can cause cervical cancer. The virus encodes E6, a protein that binds p53. Predict the most likely effect of E6 binding on p53 activity, and explain the basis for your prediction.</para></problem>
+</exercise>
+</note>
+</note>
+
+<note id="fs-id1167065891140" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065888878">This question is an application of Learning Objectives 3.7 and Science Practice 7.4 because the students are predicting how a change in regulation of the cell cycle can result in cancer.</para>
+
+<note id="fs-id1167067107178"><title>Answer</title>
+<para id="fs-id1167065737516">The role of normal p53 is to monitor DNA for damage. If damage is detected, p53 triggers repair mechanisms. If repairs are unsuccessful, p53 signals apoptosis. A cell with an abnormal p53 protein cannot repair damaged DNA or signal apoptosis. Cells with abnormal p53 can become cancerous. Because E6 leads to the development of cancer, it must bind p53 is such a way that p53 cannot monitor DNA for damage, cannot trigger a repair mechanism, or signal apoptosis.</para>
+</note></note>
+
+<section id="fs-id1953943" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1627195">Cancer is the result of unchecked cell division caused by a breakdown of the mechanisms that regulate the cell cycle. The loss of control begins with a change in the DNA sequence of a gene that codes for one of the regulatory molecules. Faulty instructions lead to a protein that does not function as it should. Any disruption of the monitoring system can allow other mistakes to be passed on to the daughter cells. Each successive cell division will give rise to daughter cells with even more accumulated damage. Eventually, all checkpoints become nonfunctional, and rapidly reproducing cells crowd out normal cells, resulting in a tumor or leukemia (blood cancer).</para>
+</section>
+
+<section id="fs-id1167065910412" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065729396" class="os-exercise">
+<problem id="fs-id1167065910473">
+<para id="fs-id1167066015380">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex030"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066028831" class="os-exercise">
+<problem id="fs-id1167065842314">
+<para id="fs-id1167065925314">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex031"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166850064523" class="os-exercise">
+<problem id="eip-id1166849848974">
+<para id="eip-id1166850248908">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ot021"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166850242592" class="os-exercise">
+<problem id="eip-id1166849387966">
+<para id="eip-id1166850284212">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ot022"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065942238" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167065938474" class="os-exercise">
+<problem id="fs-id1167064825842">
+<para id="fs-id1167062571713">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex032"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166849307286" class="os-exercise">
+<problem id="eip-id1166847992405">
+<para id="eip-id1166849804287">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ot023"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065736686" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167065671452" class="os-exercise">
+<problem id="fs-id1167064876733">
+<para id="fs-id1167065871105">
+<link class="os-embed ost-tag-lo-apbio-ch10-s04-aplo-3-7" url="#ost/api/ex/apbio-ch10-ex033"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164968669464" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164966272379">
+<problem id="fs-id1164968943999">
+<para id="fs-id1164968653072">Cancer comprises many different diseases with a common cause: uncontrolled cell growth.  Cancer is a complex response to a host of environmental mutagens as well as the accumulation of random mutations.  Since the war on cancer began in 1971, the death rate due to cancer has changed very little despite the discovery of several tumor suppressor genes, including p53.</para>
+<list id="fs-id1164968925602" list-type="enumerated" number-style="upper-alpha"><item>Briefly <emphasis>describe</emphasis> the multiple functions of p53, including the role of p53 in apoptosis.</item>
+<item>A principle of biology is that form follows function.  The protein p53, which has multiple functions, is named for its molecular massapproximately 53 kDa.  This is not a large polymer by comparison with other proteins; for example, ATP synthase, which has only one function, has a molecular mass of approximately 550 kDa.  Based on analogies to processes involved in cellular signaling, <emphasis>create a model(s) to explain</emphasis> how so many functions can be supported by a single, relatively simple structure.
+<figure id="fs-id1164961992236"><media id="fs-id1164966415675" alt="The figure is titled Mutational Signatures of P53 for Three Types of Cancer. There are three pie charts. The key on the bottom reads Green for G:C arrow T: A, peach for G: C arrow A:T, purple for G:C arrow C:G, red  for A:T arrow  C:G, light blue for A:T arrow G:C, gray for A:T arrow T:A, and aqua for Deletion/Insertion. The pie chart on the left is titled nonsmoker’s lungs and has the following values: 11% purple, 12% green, 12% aqua, 5% red, 10% light blue, 4% gray, and 47% peach. The second pie chart is labeled smoker’s lungs, and has the following values: 11% purple, 20% green, 12% aqua, 4% red, 10% light blue, 4% gray, 29% peach. The third pie chart is labeled Breast and Colorectal cancer and has the following values: 6% purple, 9% green, 13% aqua, 3% red, 11% light blue, 4% gray, 54% peach.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_10_04_01_01_img.jpg" width="450"/>
+</media>
+
+</figure></item>
+<item>Mutational signatures of p53 are shown in the figure above [G.P. Pfeifer et al., Nature, 21(48), 2002] for the three types of cancer with the highest death rates in the U.S.: lung (~225,000 deaths in 2016), breast (246,000), and colorectal (381,000).  These data can be obtained by sequencing the gene that encodes p53.  Approximately 85% of lung cancers occur in smokers.  Based on these data, <emphasis>calculate</emphasis> how many deaths due to lung cancer among nonsmokers were reported in 2016.  How much does smoking increase the likelihood of death due to lung cancer?</item>
+<item>As shown under each graph, particular transversions (replacement of a pyrimidine by a purine of vice versa) or transitions (replacement of a purine or pyrimidine by the alternative purine or pyrimidine) are features of specific mutational signatures.  Based on these data, <emphasis>identify</emphasis> the transversion or transition that seems to be induced by cigarette smoke.</item>
+<item>Using your answer to B above, <emphasis>predict</emphasis> possible mechanisms, that is, transversion or transition, for the different mutational signatures among lung cancers of smokers and those of other cancers, and for the very similar mutational signatures of lung cancers of nonsmokers and of breast and colorectal cancers.  The partitioning of function along the length of the protein can lead to functional and nonfunctional segments.  It is believed that the transversions due to smoking are caused by polyaromatic hydrocarbons.  The hotspots for these mutations lie in the segment that binds to DNA.  The transition hotspots are in segments that regulate apoptosis.</item></list></problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2200726"><term>oncogene</term> <meaning id="fs-id2013508">mutated version of a normal gene involved in the positive regulation of the cell cycle</meaning></definition>
+<definition id="fs-id1417449"><term>proto-oncogene</term> <meaning id="fs-id2163946">normal gene that when mutated becomes an oncogene</meaning></definition>
+<definition id="fs-id1912269"><term>tumor suppressor gene</term> <meaning id="fs-id1672176">segment of DNA that codes for regulator proteins that prevent the cell from undergoing uncontrolled division</meaning></definition>
+</glossary>
+
+</document>

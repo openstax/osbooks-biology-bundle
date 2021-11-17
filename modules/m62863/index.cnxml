@@ -1,0 +1,1226 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Understanding Evolution</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62863</md:content-id>
+  <md:title>Understanding Evolution</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how the present-day theory of evolution was developed</item>
+<item>Define adaptation</item>
+<item>Explain convergent and divergent evolution</item>
+<item>Describe homologous and vestigial structures</item>
+<item>Discuss misconceptions about the theory of evolution</item>
+</list></md:abstract>
+  <md:uuid>390c92f3-900b-4b4b-9e96-4f07c3aa74e0</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167063525893" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167063572939">In this section, you will explore the following questions:</para>
+<list id="fs-id1167063626551">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch18-s01-lo01">How was the present-day theory of evolution developed?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch18-s01-lo02">What is adaptation, and how does adaptation relate to natural selection?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch18-s01-lo03">What are the differences between convergent and divergent evolution, and what are examples of each that support evolution by natural selection?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch18-s01-lo04">What are examples of homologous and vestigial structures, and what evidence do these structures provide to support patterns of evolution?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch18-s01-lo05">What are common misconceptions about the theory of evolution?</item>
+</list>
+</section>
+<section id="fs-id1167061216572" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167067271906">Millions of species, from bacteria to blueberries to baboons, currently call Earth their home, but these organisms evolved from different species. Furthermore, scientists estimate that several million more species will become extinct before they have been classified and studied. But why don’t polar bears naturally inhabit deserts or rain forests, except, perhaps, in movies? Why do humans possess traits, such as opposable thumbs, that are unique to primates but not other mammals? How did observations of finches by Charles Darwin visiting the Galapagos Islands in the 1800s provide the foundation for our modern understanding of evolution?</para>
+<para id="fs-id1167066850217" class="ost-reading-discard">The <emphasis>theory of evolution</emphasis> as proposed by Darwin is the unifying theory of biology. The tenet that all life has evolved and diversified from a common ancestor is the foundation from which we approach all questions in biology. As we learned in our exploration of the structure and function of DNA, variations in individuals within a population occur through mutation, allowing more desirable traits to be passed to the next generation. Due to competition for resources and other environmental pressures, individuals possessing more favorable adaptive characteristics are more likely to survive and reproduce, passing those characteristics to the next generation with increased frequency. When environments change, what was once an unfavorable trait may become a favorable one. Organisms may evolve in response to their changing environment by the accumulation of favorable traits in succeeding generations. Thus, evolution by <emphasis>natural selection</emphasis> explains both the unity and diversity of life.</para>
+<para id="fs-id1167063472124"><emphasis>Convergent evolution</emphasis> occurs when similar traits with the same function evolve in multiple species exposed to similar selection pressure, such as the wings of bats and insects. In <emphasis>divergent evolution</emphasis>, two species evolve in different directions from a common point, such as the forelimbs of humans, dogs, birds, and whales. Although Darwin’s theory was revolutionary for its time because it contrasted with long-held ideas (for example, Lamarck proposed the inheritance of <emphasis>acquired characteristics</emphasis>), evidence drawn from many scientific disciplines, including the fossil record, the existence of homologous and vestigial structures, mathematics, and DNA analysis supports evolution through natural selection. It is also important to understand that evolution continues to occur; for example, bacteria that evolve resistance to antibiotics or plants that become resistant to pesticides provide evidence for continuing change.</para>
+<para id="fs-id1167061358792" class="ost-reading-discard">Information presented and the examples highlighted in this section support concepts outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167063589455" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.A.1 Natural selection is a major mechanism of evolution. Second left cell reads: Science Practice. Second right cell reads: 5.3 The student can evaluate the evidence provided by data sets in relation to a particular scientific question. Third left cell reads: Learning Objective. Third right cell reads: 1.9 The student is able to evaluate evidence provided by data from many scientific disciplines that support biological evolution." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.A</emphasis></entry>
+<entry class="ost-standards-description">Change in the genetic makeup of a population over time is evolution.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.1 </emphasis></span>
+<span class="ost-standards-description">Natural selection is a major mechanism of evolution.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s01-aplo-1-9">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.9 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate evidence provided by data from many scientific disciplines that support biological evolution.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.2 </emphasis></span>
+<span class="ost-standards-description">Natural selection acts on phenotypic variations in populations.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
+<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s01-aplo-1-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.5 </emphasis></span>
+<span class="ost-standards-description">The student is able to connect evolutionary changes in a population over time to a change in the environment.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.4 </emphasis></span>
+<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
+<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s01-aplo-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate evidence provided by data to qualitatively and quantitatively investigate the role of natural selection in evolution.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.4 </emphasis></span>
+<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s01-aplo-1-12">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.12 </emphasis></span>
+<span class="ost-standards-description">The student is able to connect scientific evidence from many scientific disciplines to support the modern concept of evolution.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.4 </emphasis></span>
+<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.2 </emphasis></span>
+<span class="ost-standards-description">The student can refine observations and measurements based on data analysis.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s01-aplo-1-10">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.10 </emphasis></span>
+<span class="ost-standards-description">The student is able to refine evidence based on data from many scientific disciplines that support biological evolution.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.C</emphasis></entry>
+<entry class="ost-standards-description">Life continues to evolve within a changing environment.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.C.3 </emphasis></span>
+<span class="ost-standards-description">Populations of organisms continue to evolve.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s01-aplo-1-26">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.26 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate given data sets that illustrate evolution as an ongoing processes.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.C.3 </emphasis></span>
+<span class="ost-standards-description">Populations of organisms continue to evolve.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s01-aplo-1-25">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.25 </emphasis></span>
+<span class="ost-standards-description">The student is able to describe a model that represents evolution within a population.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.C.3 </emphasis></span>
+<span class="ost-standards-description">Populations of organisms continue to evolve.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s01-aplo-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate data-based evidence that describes evolutionary changes in the genetic makeup of a population over time.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+<note id="fs-id1167067215875" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067305435">The chapter talks about embryology, so it might be important to mention Ernst Haeckel (1834–1919) and his famous principle "ontogeny recapitulates phylogeny." Please see this <link url="http:/openstax.org/l/32embryology/">PBS website</link> for more information.</para>
+</note>
+<para id="fs-id1166849441256">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 1.10][APLO 1.12][APLO 1.13][APLO 1.31][APLO 1.32][APLO 1.27][APLO 1.28][APLO 1.30][APLO 1.14][APLO 1.29][APLO 1.26][APLO 4.8]</para><section id="fs-id1164190386518">
+<title>The Origin of Life</title>
+<para id="fs-id1166166987840">Humans have adopted many theories regarding the origin of life over the course of our time on Earth. Early civilizations believed that life was created by supernatural forces. Organisms were hand-made to be perfectly adapted to their environment and, therefore, did not change over time. Some early thinkers, such as the Greek philosopher Aristotle, believed that organisms belonged to a ladder of increasing complexity. Based on this understanding, scientists such as Carolus Linnaeus attempted to organize all living things into classification schemes that demonstrated an increasing complexity of life.</para>
+<para id="fs-id1166167402734">Over time, however, scientists came to understand that life was constantly evolving on Earth. Georges Cuvier found that fossilized remains or organisms changed as he dug into deeper rock layers (strata), indicating that the organisms present in the area had changed over time. This observation led Jean-Baptiste de Lamarck to hypothesize that organisms adapted to their environment by changing over time. As organisms used different parts of their body, those parts improved, and these changes were passed down to their offspring. Ultimately, these theories were disproven by scientists, but their development contributed to the theory of evolution that was finally formulated by Charles Darwin.</para>
+</section>
+
+<section id="fs-idp168381568" class="ost-tag-lo-apbio-ch18-s01-lo01 ost-tag-lo-apbio-ch18-s01-lo02 ost-tag-lo-apbio-ch18-s01-aplo-1-2 ost-get-exercise">
+<title>Charles Darwin and Natural Selection</title>
+<para id="fs-idp4422704">In the mid-nineteenth century, the actual mechanism for evolution was independently conceived of and described by two naturalists: Charles Darwin and Alfred Russel Wallace. Importantly, each naturalist spent time exploring the natural world on expeditions to the tropics. From 1831 to 1836, Darwin traveled around the world on <emphasis effect="italics">H.M.S. Beagle</emphasis>, including stops in South America, Australia, and the southern tip of Africa. Wallace traveled to Brazil to collect insects in the Amazon rainforest from 1848 to 1852 and to the Malay Archipelago from 1854 to 1862. Darwin’s journey, like Wallace’s later journeys to the Malay Archipelago, included stops at several island chains, the last being the Galápagos Islands west of Ecuador. On these islands, Darwin observed species of organisms on different islands that were clearly similar, yet had distinct differences. For example, the ground finches inhabiting the Galápagos Islands comprised several species with a unique beak shape (<link target-id="fig-ch18_01_01" document=""/>). The species on the islands had a graded series of beak sizes and shapes with very small differences between the most similar. He observed that these finches closely resembled another finch species on the mainland of South America. Darwin imagined that the island species might be species modified from one of the original mainland species. Upon further study, he realized that the varied beaks of each finch helped the birds acquire a specific type of food. For example, seed-eating finches had stronger, thicker beaks for breaking seeds, and insect-eating finches had spear-like beaks for stabbing their prey.</para>
+<figure id="fig-ch18_01_01" class="ost-tag-lo-apbio-ch18-s01-lo02"><media id="fs-idm49934816" alt="Illustration shows four different species of finch from the Galápagos Islands. Beak shape ranges from broad and thick to narrow and thin.">
+<image mime-type="image/jpg" src="../../media/Figure_18_01_01-c16e.jpg" width="295"/>
+</media>
+
+<caption>Darwin observed that beak shape varies among finch species. He postulated that the beak of an ancestral species had adapted over time to equip the finches to acquire different food sources.</caption></figure><para id="fs-idp1148032">Wallace and Darwin both observed similar patterns in other organisms and they independently developed the same explanation for how and why such changes could take place. Darwin called this mechanism natural selection. <emphasis>Natural selection</emphasis>, also known as “survival of the fittest,” is the more prolific reproduction of individuals with favorable traits that survive environmental change because of those traits; this leads to evolutionary change.</para>
+<para id="fs-idp50154320">For example, a population of giant tortoises found in the Galapagos Archipelago was observed by Darwin to have longer necks than those that lived on other islands with dry lowlands. These tortoises were “selected” because they could reach more leaves and access more food than those with short necks. In times of drought when fewer leaves would be available, those that could reach more leaves had a better chance to eat and survive than those that couldn’t reach the food source. Consequently, long-necked tortoises would be more likely to be reproductively successful and pass the long-necked trait to their offspring. Over time, only long-necked tortoises would be present in the population.</para>
+<para id="fs-idp77605168">Natural selection, Darwin argued, was an inevitable outcome of three principles that operated in nature. First, most characteristics of organisms are inherited, or passed from parent to offspring. Although no one, including Darwin and Wallace, knew how this happened at the time, it was a common understanding. Second, more offspring are produced than are able to survive, so resources for survival and reproduction are limited. The capacity for reproduction in all organisms outstrips the availability of resources to support their numbers. Thus, there is competition for those resources in each generation. Both Darwin and Wallace’s understanding of this principle came from reading an essay by the economist Thomas Malthus who discussed this principle in relation to human populations. Third, offspring vary among each other in regard to their characteristics and those variations are inherited. Darwin and Wallace reasoned that offspring with inherited characteristics which allow them to best compete for limited resources will survive and have more offspring than those individuals with variations that are less able to compete. Because characteristics are inherited, these traits will be better represented in the next generation. This will lead to change in populations over generations in a process that Darwin called descent with modification. Ultimately, natural selection leads to greater adaptation of the population to its local environment; it is the only mechanism known for adaptive evolution.</para>
+<para id="fs-idp812944">Papers by Darwin and Wallace (<link target-id="fig-ch18_01_02" document=""/>) presenting the idea of natural selection were read together in 1858 before the Linnean Society in London. The following year Darwin’s book, <emphasis effect="italics">On the Origin of Species, </emphasis>was published. His book outlined in considerable detail his arguments for evolution by natural selection.</para>
+<figure id="fig-ch18_01_02" class="ost-tag-lo-apbio-ch18-s01-lo01"><media id="fs-idp33365664" alt="Paintings of Charles Darwin and Alfred Wallace are shown.">
+<image mime-type="image/jpg" src="../../media/Figure_18_01_02ab.jpg" width="420"/>
+</media>
+
+<caption>Both (a) Charles Darwin and (b) Alfred Wallace wrote scientific papers on natural selection that were presented together before the Linnean Society in 1858.</caption></figure><para id="fs-idm13442992">Demonstrations of evolution by natural selection are time consuming and difficult to obtain. One of the best examples has been demonstrated in the very birds that helped to inspire Darwin’s theory: the Galápagos finches. Peter and Rosemary Grant and their colleagues have studied Galápagos finch populations every year since 1976 and have provided important demonstrations of natural selection. The Grants found changes from one generation to the next in the distribution of beak shapes with the medium ground finch on the Galápagos island of Daphne Major. The birds have inherited variation in the bill shape with some birds having wide deep bills and others having thinner bills. During a period in which rainfall was higher than normal because of an El Niño, the large hard seeds that large-billed birds ate were reduced in number; however, there was an abundance of the small soft seeds which the small-billed birds ate. Therefore, survival and reproduction were much better in the following years for the small-billed birds. In the years following this El Niño, the Grants measured beak sizes in the population and found that the average bill size was smaller. Since bill size is an inherited trait, parents with smaller bills had more offspring and the size of bills had evolved to be smaller. As conditions improved in 1987 and larger seeds became more available, the trend toward smaller average bill size ceased.</para>
+<note id="fs-idm54557984" class="career ost-feature"><title>Field Biologist</title>
+<para id="fs-idp36297104">Many people hike, explore caves, scuba dive, or climb mountains for recreation. People often participate in these activities hoping to see wildlife. Experiencing the outdoors can be incredibly enjoyable and invigorating. What if your job was to be outside in the wilderness? Field biologists by definition work outdoors in the “field.” The term field in this case refers to any location outdoors, even under water. A field biologist typically focuses research on a certain species, group of organisms, or a single habitat (<link target-id="fig-ch18_01_03" document=""/>).</para>
+<figure id="fig-ch18_01_03" class="ost-tag-lo-apbio-ch18-s01-lo02"><media id="fs-idm17152800" alt="Photo shows a scientist next to a tranquilized polar bear laying on the snow.">
+<image mime-type="image/jpg" src="../../media/Figure_18_01_03-0b39.jpg" width="350"/>
+</media>
+
+<caption>A field biologist tranquilizes a polar bear for study. (credit: Karen Rhode)</caption></figure><para id="fs-idp100993104">One objective of many field biologists includes discovering new species that have never been recorded. Not only do such findings expand our understanding of the natural world, but they also lead to important innovations in fields such as medicine and agriculture. Plant and microbial species, in particular, can reveal new medicinal and nutritive knowledge. Other organisms can play key roles in ecosystems or be considered rare and in need of protection. When discovered, these important species can be used as evidence for environmental regulations and laws.</para>
+</note></section>
+<section id="fs-idp116035664" class="ost-tag-lo-apbio-ch18-s01-lo03 ost-tag-lo-apbio-ch18-s01-aplo-1-25 ost-get-exercise">
+<title>Processes and Patterns of Evolution</title>
+<para id="fs-idp115962288">Natural selection can only take place if there is <emphasis>variation</emphasis>, or differences, among individuals in a population. Importantly, these differences must have some genetic basis; otherwise, the selection will not lead to change in the next generation. This is critical because variation among individuals can be caused by non-genetic reasons such as an individual being taller because of better nutrition rather than different genes.</para>
+<para id="fs-idp33338224">Genetic diversity in a population comes from two main mechanisms: mutation and sexual reproduction. Mutation, a change in DNA, is the ultimate source of new alleles, or new genetic variation in any population. The genetic changes caused by mutation can have one of three outcomes on the phenotype. A mutation can affect the phenotype of the organism in a way that gives it reduced fitness—lower likelihood of survival or fewer offspring. Alternatively, a mutation may produce a phenotype with a beneficial effect on fitness. And, many mutations will also have no effect on the fitness of the phenotype; these are called neutral mutations. Mutations may also have a whole range of effect sizes on the fitness of the organism that expresses them in their phenotype, from a small effect to a great effect. Sexual reproduction also leads to genetic diversity: when two parents reproduce, unique combinations of alleles assemble to produce the unique genotypes and thus phenotypes in each of the offspring.</para>
+<para id="fs-idp107347984">A heritable trait that helps the survival and reproduction of an organism in its present environment is called an <emphasis>adaptation</emphasis>. Scientists describe groups of organisms becoming adapted to their environment when a change in the range of genetic variation occurs over time that increases or maintains the “fit” of the population to its environment. The webbed feet of platypuses are an adaptation for swimming. The snow leopards’ thick fur is an adaptation for living in the cold. The cheetahs’ fast speed is an adaptation for catching prey.</para>
+<para id="fs-id1166166959535">These adaptations can occur through the rearrangements of entire genomes or can be caused by the mutation of a single gene. For example, dogs have 78 chromosomes while cats have 38. A large number of the characteristics that distinguish dogs from cats arose from chromosomal rearrangements that have occurred since both groups diverged from their last common ancestor. On the other hand, certain mice are white and other mice are black. The difference in fur color occurs through the mutation of a single gene. Thus, as a result of a single mutation, a mouse population can become more adapted to survive in snowy environments versus a dark, forest floor.</para>
+<para id="fs-idp82108048">Whether or not a trait is favorable depends on the environmental conditions at the time. The same traits are not always selected because environmental conditions can change. For example, consider a species of plant that grew in a moist climate and did not need to conserve water. Large leaves were selected because they allowed the plant to obtain more energy from the sun. Large leaves require more water to maintain than small leaves, and the moist environment provided favorable conditions to support large leaves. After thousands of years, the climate changed, and the area no longer had excess water. The direction of natural selection shifted so that plants with small leaves were selected because those populations were able to conserve water to survive the new environmental conditions.</para>
+<para id="fs-idm40399968">The evolution of species has resulted in enormous variation in form and function. Sometimes, evolution gives rise to groups of organisms that become tremendously different from each other. When two species evolve in diverse directions from a common point, it is called divergent evolution. Such divergent evolution can be seen in the forms of the reproductive organs of flowering plants which share the same basic anatomies; however, they can look very different as a result of selection in different physical environments and adaptation to different kinds of pollinators (<link target-id="fig-ch18_01_04" document=""/>).</para>
+<figure id="fig-ch18_01_04" class="ost-tag-lo-apbio-ch18-s01-lo03"><media id="fs-idp66637632" alt="Photo showing a Dense Blazing Star (Liatrus spicata) and a Purple Coneflower (Echinacea purpurea).">
+<image mime-type="image/jpg" src="../../media/Figure_18_01_04ab-e353.jpg" width="400"/>
+</media>
+
+<caption>Flowering plants evolved from a common ancestor. Notice that the (a) dense blazing star (<emphasis effect="italics">Liatrus spicata</emphasis>) and the (b) purple coneflower (<emphasis effect="italics">Echinacea purpurea</emphasis>) vary in appearance, yet both share a similar basic morphology. (credit a: modification of work by Drew Avery; credit b: modification of work by Cory Zanker)</caption></figure><para id="fs-idp82793792">In other cases, similar phenotypes evolve independently in distantly related species. For example, flight has evolved in both bats and insects, and they both have structures we refer to as wings, which are adaptations to flight. However, the wings of bats and insects have evolved from very different original structures. This phenomenon is called convergent evolution, where  similar traits  evolve independently in species that do not share a common ancestry. The two species came to the same function, flying, but did so separately from each other.</para><para id="fs-idp48928224">These physical changes occur over enormous spans of time and help explain how evolution occurs. Natural selection acts on individual organisms, which in turn can shape an entire species. Although natural selection may work in a single generation on an individual, it can take thousands or even millions of years for the genotype of an entire species to evolve. It is over these large time spans that life on earth has changed and continues to change.</para>
+</section>
+<section id="fs-idm60806016" class="ost-tag-lo-apbio-ch18-s01-lo04 ost-tag-lo-apbio-ch18-s01-aplo-1-9 ost-tag-lo-apbio-ch18-s01-aplo-1-5 ost-get-exercise">
+<title>Evidence of Evolution</title>
+<para id="fs-idm45573264">The evidence for evolution is compelling and extensive. Looking at every level of organization in living systems, biologists see the signature of past and present evolution. Darwin dedicated a large portion of his book, <emphasis effect="italics">On the</emphasis> <emphasis effect="italics">Origin of Species</emphasis>, to identifying patterns in nature that were consistent with evolution, and since Darwin, our understanding has become clearer and broader.</para>
+<section id="fs-idm50233312" class="ost-tag-lo-apbio-ch18-s01-lo04">
+<title>Fossils</title>
+<para id="fs-idp177502144">Fossils provide solid evidence that organisms from the past are not the same as those found today, and fossils show the gradual evolutionary changes over time. Scientists determine the age of fossils and categorize them from all over the world to determine when the organisms lived relative to each other. The resulting fossil record tells the story of the past and shows the evolution of form over millions of years (<link target-id="fig-ch18_01_05" document=""/>). For example, scientists have recovered highly detailed records showing the evolution of humans and horses.</para><figure id="fig-ch18_01_05"><media id="fs-idp1185712" alt="Photo A shows a museum display of hominid skulls that vary in size and shape. Illustration B shows five extinct species related and similar in appearance to the modern horse. The species vary in size from that of a modern horse to that of a medium-sized dog.">
+<image mime-type="image/jpg" src="../../media/Figure_18_01_05-4164.jpg" width="480"/>
+</media>
+
+<caption>In this (a) display, fossil hominids are arranged from oldest (bottom) to newest (top). As hominids evolved, the shape of the skull changed. An artist’s rendition of (b) extinct species of the genus <emphasis effect="italics">Equus</emphasis> reveals that these ancient species resembled the modern horse (<emphasis effect="italics">Equus ferus</emphasis>) but varied in size.</caption></figure></section>
+<section id="fs-idp108706080" class="ost-tag-lo-apbio-ch18-s01-lo04">
+<title>Anatomy and Embryology</title>
+<para id="fs-idp29542864">Another type of evidence for evolution is the presence of structures in organisms that share the same basic form. For example, the bones in the appendages of a human, dog, bird, and whale all share the same overall construction (<link target-id="fig-ch18_01_06" document=""/>) resulting from their origin in the appendages of a common ancestor. Over time, evolution led to changes in the shapes and sizes of these bones in different species, but they have maintained the same overall layout. Scientists call these synonymous parts <emphasis>homologous structures</emphasis>.</para>
+<figure id="fig-ch18_01_06"><media id="fs-idm1817648" alt="Illustration compares a human arm, dog and bird legs, and a whale flipper. All appendages have the same bones, but the size and shape of these bones vary.">
+<image mime-type="image/jpg" src="../../media/Figure_18_01_06-9f9f.jpg" width="320"/>
+</media>
+
+<caption>The similar construction of these appendages indicates that these organisms share a common ancestor.</caption></figure><para id="fs-idm35706112">Some structures exist in organisms that have no apparent function at all, and appear to be residual parts from a past common ancestor. These unused structures without function are called <emphasis>vestigial structures</emphasis>. Examples of vestigial structures include wings on flightless birds, leaves on some cacti, and hind leg bones in whales.</para>
+<note id="fs-idp129618288" class="interactive ost-assessed-feature">
+
+<para id="fs-idp120562304">Visit this <link window="new" url="http://openstax.org/l/bone_structures">interactive site</link> to guess which bones structures are homologous and which are analogous, and see examples of evolutionary adaptations to illustrate these concepts.</para>
+<exercise id="fs-id1167063625505" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167067194245">
+<para id="fs-id1167067087968">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex001"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-idm18168368">Another evidence of evolution is the convergence of form in organisms that share similar environments. For example, species of unrelated animals, such as the arctic fox and ptarmigan, living in the arctic region have been selected for seasonal white phenotypes during winter to blend with the snow and ice (<link target-id="fig-ch18_01_07" document=""/><emphasis effect="bold">ab</emphasis>). These similarities occur not because of common ancestry, but because of similar selection pressures—the benefits of not being seen by predators.</para>
+<figure id="fig-ch18_01_07" class="ost-tag-lo-apbio-ch18-s01-lo04"><media id="fs-idp82149424" alt="The left photo depicts an arctic fox with white fur sleeping on white snow, and the right photo shows a ptarmigan with white plumage standing on white snow.">
+<image mime-type="image/jpg" src="../../media/Figure_18_01_07ab.jpg" width="400"/>
+</media>
+
+<caption>The white winter coat of the (a) arctic fox and the (b) ptarmigan’s plumage are adaptations to their environments. (credit a: modification of work by Keith Morehouse)</caption></figure><para id="fs-idm19448496">Embryology, the study of the development of the anatomy of an organism to its adult form, also provides evidence of relatedness between now widely divergent groups of organisms. Mutational tweaking in the embryo can have such magnified consequences in the adult that embryo formation tends to be conserved. As a result, structures that are absent in some groups often appear in their embryonic forms and disappear by the time the adult or juvenile form is reached. For example, all vertebrate embryos, including humans, exhibit gill slits and tails at some point in their early development. These disappear in the adults of terrestrial groups but are maintained in adult forms of aquatic groups such as fish and some amphibians. Great ape embryos, including humans, have a tail structure during their development that is lost by the time of birth.</para>
+</section>
+<section id="fs-idp73509664" class="ost-tag-lo-apbio-ch18-s01-lo04">
+<title>Biogeography</title>
+<para id="fs-idm39906832">The geographic distribution of organisms on the planet follows patterns that are best explained by evolution in conjunction with the movement of tectonic plates over geological time. Broad groups that evolved before the breakup of the supercontinent Pangaea (about 200 million years ago) are distributed worldwide. Groups that evolved since the breakup appear uniquely in regions of the planet, such as the unique flora and fauna of northern continents that formed from the supercontinent Laurasia and of the southern continents that formed from the supercontinent Gondwana. The presence of members of the plant family Proteaceae in Australia, southern Africa, and South America, for example, is best explained by their presence prior to the southern supercontinent Gondwana breaking up.</para>
+<para id="fs-idp46317792">The great diversification of marsupials in Australia and the absence of other mammals reflect Australia’s long isolation. Australia has an abundance of endemic species—species found nowhere else—which is typical of islands whose isolation by expanses of water prevents species from migrating. Over time, these species diverge evolutionarily into new species that look very different from their ancestors that may exist on the mainland. The marsupials of Australia, the finches on the Galápagos, and many species on the Hawaiian Islands are all unique to their one point of origin, yet they display distant relationships to ancestral species on mainlands.</para>
+</section>
+<section id="fs-idm2884480" class="ost-tag-lo-apbio-ch18-s01-lo04 ost-tag-lo-apbio-ch18-s01-aplo-1-4">
+<title>Molecular Biology</title>
+<para id="fs-idp38956352">Like anatomical structures, the structures of the molecules of life reflect descent with modification. Evidence of a common ancestor for all of life is reflected in the universality of DNA as the genetic material and in the near universality of the genetic code and the machinery of DNA replication and expression. Fundamental divisions in life between the three domains are reflected in major structural differences in otherwise conservative structures such as the components of ribosomes and the structures of membranes. In general, the relatedness of groups of organisms is reflected in the similarity of their DNA sequences—exactly the pattern that would be expected from descent and diversification from a common ancestor.</para>
+<para id="fs-idp38453984">DNA sequences have also shed light on some of the mechanisms of evolution. For example, it is clear that the evolution of new functions for proteins commonly occurs after gene duplication events that allow the free modification of one copy by mutation, selection, or drift (changes in a population’s gene pool resulting from chance), while the second copy continues to produce a functional protein.</para>
+<section id="fs-id1164190239303">
+<title>Direct Observations</title>
+<para id="fs-id1166167388183">Scientists have also observed evolution occurring in both the laboratory and in the wild. A common example of this is the spread of antibiotic resistant genes in a population of bacteria. When bacteria are exposed to antibiotics, alleles that help the organism survive increase in frequency <link target-id="ep-01"/>. This is because individuals that cannot resist the antibacterial die off, leaving only individuals with the resistance gene to reproduce.</para>
+<figure id="ep-01"><media id="fs-id1166171915562" alt="The figure shows a line graph. The X-axis is labeled Year and the Y-axis is labeled percent. The X-axis has tick marks for 1983, 1985,1987,1989, 1991, 1993, 1995, 1999, 2001.  The Y-axis has tick marks for 0, 5, 10, 15, 20, 25, 30. The data is presented annually and there are red circles showing the percent for each year. From 1983 to 1988, the value is 0 percent. In 1989, the value is just above the 0 percent line. The line follows a clear upward path, reaching approximately 30 percent in 2001.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Figure_18_01_08.jpg" width="400"/>
+</media>
+</figure><section id="fs-id1164190367787">
+<title>Adaptations for homeostasis</title>
+<para id="fs-id1166168335005">One major reason that organisms adapt is to maintain homeostasis, one of the main characteristics of life. All organisms have likely descended from a single common ancestor, which is why so many organisms share anatomical, morphological, and molecular features. However, each organism has adapted these similar features to suit their environment and adapt to environmental changes over time. For example, all organisms use DNA polymerase to replicate their genomes. However, whereas organisms with small genomes can get away with just a single polymerase molecule working at one point in the genome at time, organisms with larger genomes replicate many points of the genome simultaneously. Other organisms that live in extremely hot environments, such as deep-sea thermal vents, have specialized polymerase molecules that can withstand the heat that would quickly denature the polymerases in land-based animals. Although the basis for each of these different DNA polymerase molecules is the same, each one has been adapted to function in the organisms environmental niche.</para>
+</section>
+</section>
+</section>
+</section>
+
+<section id="fs-idp37948032" class="ost-tag-lo-apbio-ch18-s01-lo05 ost-get-exercise">
+<title>Misconceptions of Evolution</title>
+<para id="fs-idp114131648">Although the theory of evolution generated some controversy when it was first proposed, it was almost universally accepted by biologists, particularly younger biologists, within 20 years after publication of <emphasis effect="italics">On the</emphasis> <emphasis effect="italics">Origin of Species</emphasis>. Nevertheless, the theory of evolution is a difficult concept and misconceptions about how it works abound.</para>
+<note id="fs-idp13955696" class="interactive ost-assessed-feature">
+<para id="fs-idp149830720">This <link window="new" url="http://openstax.org/l/misconceptions">site</link> addresses some of the main misconceptions associated with the theory of evolution. </para><exercise id="fs-id1167066799871" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167067015395">
+<para id="fs-id1167066999723">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex002"/>
+</para>
+</problem>
+</exercise>
+</note>
+<section id="fs-idp30595280" class="ost-tag-lo-apbio-ch18-s01-lo05">
+<title>Evolution Is Just a Theory</title>
+<para id="fs-idm14482288">Critics of the theory of evolution dismiss its importance by purposefully confounding the everyday usage of the word “theory” with the way scientists use the word. In science, a “theory” is understood to be a body of thoroughly tested and verified explanations for a set of observations of the natural world. Scientists have a theory of the atom, a theory of gravity, and the theory of relativity, each of which describes understood facts about the world. In the same way, the theory of evolution describes facts about the living world. As such, a theory in science has survived significant efforts to discredit it by scientists. In contrast, a “theory” in common vernacular is a word meaning a guess or suggested explanation; this meaning is more akin to the scientific concept of “hypothesis.” When critics of evolution say evolution is “just a theory,” they are implying that there is little evidence supporting it and that it is still in the process of being rigorously tested. This is a mischaracterization.</para>
+</section>
+<section id="fs-idm5606224" class="ost-tag-lo-apbio-ch18-s01-lo05">
+<title>Individuals Evolve</title>
+<para id="fs-idm60941600">Evolution is the change in genetic composition of a population over time, specifically over generations, resulting from differential reproduction of individuals with certain alleles. Individuals do change over their lifetime, obviously, but this is called development and involves changes programmed by the set of genes the individual acquired at birth in coordination with the individual’s environment. When thinking about the evolution of a characteristic, it is probably best to think about the change of the average value of the characteristic in the population over time. For example, when natural selection leads to bill-size change in medium-ground finches in the Galápagos, this does not mean that individual bills on the finches are changing. If one measures the average bill size among all individuals in the population at one time and then measures the average bill size in the population several years later, this average value will be different as a result of evolution. Although some individuals may survive from the first time to the second, they will still have the same bill size; however, there will be many new individuals that contribute to the shift in average bill size.</para>
+</section>
+<section id="fs-idm14850112" class="ost-tag-lo-apbio-ch18-s01-lo05">
+<title>Evolution Explains the Origin of Life</title>
+<para id="fs-idp57388688">It is a common misunderstanding that evolution includes an explanation of life’s origins. Conversely, some of the theory’s critics believe that it cannot explain the origin of life. The theory does not try to explain the origin of life. The theory of evolution explains how populations change over time and how life diversifies the origin of species. It does not shed light on the beginnings of life including the origins of the first cells, which is how life is defined. The mechanisms of the origin of life on Earth are a particularly difficult problem because it occurred a very long time ago, and presumably it just occurred once. Importantly, biologists believe that the presence of life on Earth precludes the possibility that the events that led to life on Earth can be repeated because the intermediate stages would immediately become food for existing living things.</para>
+<para id="fs-idp95118672">However, once a mechanism of inheritance was in place in the form of a molecule like DNA either within a cell or pre-cell, these entities would be subject to the principle of natural selection. More effective reproducers would increase in frequency at the expense of inefficient reproducers. So while evolution does not explain the origin of life, it may have something to say about some of the processes operating once pre-living entities acquired certain properties.</para>
+</section>
+<section id="fs-idm49884976" class="ost-tag-lo-apbio-ch18-s01-lo05">
+<title>Organisms Evolve on Purpose</title>
+<para id="fs-idp71002752">Statements such as “organisms evolve in response to a change in an environment” are quite common, but such statements can lead to two types of misunderstandings. First, the statement must not be understood to mean that individual organisms evolve. The statement is shorthand for “a population evolves in response to a changing environment.” However, a second misunderstanding may arise by interpreting the statement to mean that the evolution is somehow intentional. A changed environment results in some individuals in the population, those with particular phenotypes, benefiting and therefore producing proportionately more offspring than other phenotypes. This results in change in the population if the characteristics are genetically determined.</para>
+<para id="fs-idm42084400">It is also important to understand that the variation that natural selection works on is already in a population and does not arise in response to an environmental change. For example, applying antibiotics to a population of bacteria will, over time, select a population of bacteria that are resistant to antibiotics. The resistance, which is caused by a gene, did not arise by mutation because of the application of the antibiotic. The gene for resistance was already present in the gene pool of the bacteria, likely at a low frequency. The antibiotic, which kills the bacterial cells without the resistance gene, strongly selects individuals that are resistant, since these would be the only ones that survived and divided. Experiments have demonstrated that mutations for antibiotic resistance do not arise as a result of antibiotic.</para>
+<para id="fs-idp38734752">In a larger sense, evolution is not goal directed. Species do not become “better” over time; they simply track their changing environment with adaptations that maximize their reproduction in a particular environment at a particular time. Evolution has no goal of making faster, bigger, more complex, or even smarter species, despite the commonness of this kind of language in popular discourse. What characteristics evolve in a species are a function of the variation present and the environment, both of which are constantly changing in a non-directional way. What trait is fit in one environment at one time may well be fatal at some point in the future. This holds equally well for a species of insect as it does the human species.</para>
+</section>
+<note id="fs-id1167066958916" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch18-s01-aplo-1-26 ost-tag-lo-apbio-ch18-s01-aplo-1-12 ost-tag-lo-apbio-ch18-s01-aplo-1-10">
+<label>Science Practices Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167067252881" class="ost-assignable ost-sciprac-activity ost-tag-lo-apbio-ch18-s01-aplo-1-2 ost-tag-lo-apbio-ch18-s01-aplo-1-4 ost-tag-lo-apbio-ch18-s01-aplo-1-5 ost-tag-lo-apbio-ch18-s01-aplo-1-9 ost-tag-lo-apbio-ch18-s01-aplo-1-10 ost-tag-lo-apbio-ch18-s01-aplo-1-12 ost-tag-lo-apbio-ch18-s01-aplo-1-25 ost-tag-lo-apbio-ch18-s01-aplo-1-26">
+<para id="fs-id1167067090654">Using information from a book or online resource such as Jonathan Weiner’s <emphasis effect="italics">The Beak of the Finch</emphasis>, explain how contemporary evidence drawn from multiple scientific disciplines supports the observations of Charles Darwin regarding evolution by natural selection. Then, in small groups or as a whole class discussion or debate, present an argument to dispel misconceptions about evolution and how it works.</para>
+</note>
+<note id="fs-id1167066869203" class="ost-assignable ost-sciprac-lab ost-tag-lo-apbio-ch18-s01-aplo-1-2 ost-tag-lo-apbio-ch18-s01-aplo-1-4 ost-tag-lo-apbio-ch18-s01-aplo-1-26">
+<label/><title>Lab Investigation</title>
+<para id="fs-id1167067250976"><emphasis effect="italics">AP<sup>®</sup> Biology Investigative Labs: Inquiry-Based, Investigation 8: Biotechnology: Bacterial Transformation</emphasis>. You will explore how genetic engineering techniques can be used to manipulate heritable information by inserting plasmids into bacterial cells.</para>
+</note>
+<note id="fs-id1167067269112" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch18-s01-aplo-1-25">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167067104300" class="unnumbered"><label/>
+<problem id="fs-id1167067205110"><para id="fs-id1167066973649">What selection pressures may affect the survival and reproduction of a group of pea seeds scattered by a person along the ground?</para></problem></exercise>
+</note>
+<note id="fs-id1167067266023" class="os-teacher">
+<label>Teacher Support</label>
+<list id="fs-id1167067036255">
+<item>The activity is an application of all of the AP<sup>®</sup> Learning Objectives and Science Practices listed above because students are constructing an argument based on scientific evidence and data that support Darwin’s model of evolution through natural selection.</item>
+<item>The lab investigation is an application of AP<sup>®</sup> Learning Objective 1.2 and Science Practices 2.2 and 5.3, Learning Objective 1.4 and Science Practice 5.3, and Learning Objective 1.26 and Science Practice 5.3 because students are performing experiments and collecting and analyzing data to confirm that the development of resistance to antibiotics by bacteria is an example of evolution by natural selection and that evolution continues to occur. (Note: This lab investigation also connects to concepts studied in the Biotechnology chapter and is a link between genetic variation and evolution.)</item>
+<item>The Think About It question is an application of Learning Objective 1.25 and Science Practice 1.2 because students are describing a model that represents evolution within a population.</item>
+<item>Think About It sample answer: The survival and reproduction of the pea seeds would likely face selection pressure imposed by the fertility of the ground on which they land, how often the ground is disturbed (such as by people walking on it), and the amount of water and light the plants receive.</item>
+<item>Biointeractive activities contain more evolution activities that generate population statistics which students can analyze.</item>
+</list>
+</note>
+</note>
+</section>
+<section id="fs-idm18790992" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idm62061344">Evolution is the process of adaptation through mutation which allows more desirable characteristics to be passed to the next generation. Over time, organisms evolve more characteristics that are beneficial to their survival. For living organisms to adapt and change to environmental pressures, genetic variation must be present. With genetic variation, individuals have differences in form and function that allow some to survive certain conditions better than others. These organisms pass their favorable traits to their offspring. Eventually, environments change, and what was once a desirable, advantageous trait may become an undesirable trait and organisms may further evolve. Evolution may be convergent with similar traits evolving in multiple species or divergent with diverse traits evolving in multiple species that came from a common ancestor. Evidence of evolution can be observed by means of DNA code and the fossil record, and also by the existence of homologous and vestigial structures.</para>
+</section>
+<!--<section id="fs-idm5763520" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp17417072">
+<problem id="fs-idm60018160">
+<para id="fs-idm67960560">Which scientific concept did Charles Darwin and Alfred Wallace independently discover?</para>
+<list id="fs-idp78297328" list-type="enumerated" number-style="lower-alpha">
+<item>mutation</item>
+<item>natural selection</item>
+<item>overbreeding</item>
+<item>sexual reproduction</item>
+</list>
+</problem>
+<solution id="fs-idp153733584">
+<label/>
+<para id="fs-idm52167616">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp75629984">
+<problem id="fs-idp11524496">
+<para id="fs-idp163107376">Which of the following situations will lead to natural selection?</para>
+<list id="fs-idm54706400" list-type="enumerated" number-style="lower-alpha">
+<item>The seeds of two plants land near each other and one grows larger than the other.</item>
+<item>Two types of fish eat the same kind of food, and one is better able to gather food than the other.</item>
+<item>Male lions compete for the right to mate with females, with only one possible winner.</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idp69660032">
+<label/>
+<para id="fs-idm7262288">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp13702976">
+<problem id="fs-idm42967712">
+<para id="fs-idp1206112">Which description is an example of a phenotype?</para>
+<list id="fs-idm92273440" list-type="enumerated" number-style="lower-alpha">
+<item>A certain duck has a blue beak.</item>
+<item>A mutation occurred to a flower.</item>
+<item>Most cheetahs live solitary lives.</item>
+<item>both a and c</item>
+</list>
+</problem>
+<solution id="fs-idm92301296">
+<label/>
+<para id="fs-idm65834176">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp75619248">
+<problem id="fs-idp38034496">
+<para id="fs-idm32335616">Which situation is most likely an example of convergent evolution?</para>
+<list id="fs-idm76874816" list-type="enumerated" number-style="lower-alpha">
+<item>Squid and humans have eyes similar in structure.</item>
+<item>Worms and snakes both move without legs.</item>
+<item>Some bats and birds have wings that allow them to fly</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idp153618560">
+<label/>
+<para id="fs-idm58616192">D</para>
+</solution>
+</exercise>
+</section> -->
+<!--<section id="fs-idm60431856" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm56506992">
+<problem id="fs-idp225424">
+<para id="fs-idp138077296">If a person scatters a handful of garden pea plant seeds in one area, how would natural selection work in this situation?</para>
+</problem>
+<solution id="fs-idm55630720">
+<label/>
+<para id="fs-idm41306752">The plants that can best use the resources of the area, including competing with other individuals for those resources will produce more seeds themselves and those traits that allowed them to better use the resources will increase in the population of the next generation.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm14597648">
+<problem id="fs-idm3458816">
+<para id="fs-idm50855408">Why do scientists consider vestigial structures evidence for evolution?</para>
+</problem>
+<solution id="fs-idm193641328">
+<label/>
+<para id="fs-idp6110624">Vestigial structures are considered evidence for evolution because most structures do not exist in an organism without serving some function either presently or in the past. A vestigial structure indicates a past form or function that has since changed, but the structure remains present because it had a function in the ancestor.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp6173936">
+<problem id="fs-idm34710880">
+<para id="fs-idp63996800">How does the scientific meaning of &#8220;theory&#8221; differ from the common vernacular meaning?</para>
+</problem>
+<solution id="fs-idp85802704">
+<label/>
+<para id="fs-idp58325712">In science, a theory is a thoroughly tested and verified set of explanations for a body of observations of nature. It is the strongest form of knowledge in science. In contrast, a theory in common vernacular can mean a guess or speculation about something, meaning that the knowledge implied by the theory is very weak.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp154022048">
+<problem id="fs-idp79109904">
+<para id="fs-idp70408608">Explain why the statement that a monkey is more evolved than a mouse is incorrect.</para>
+</problem>
+<solution id="fs-idp32125952">
+<label/>
+<para id="fs-idm60843200">The statement implies that there is a goal to evolution and that the monkey represents greater progress to that goal than the mouse. Both species are likely to be well adapted to their particular environments, which is the outcome of natural selection.</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167067305263" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167067203159" class="os-exercise">
+<problem id="fs-id1167063485123">
+<para id="fs-id1167066792836">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex003"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063429659" class="os-exercise">
+<problem id="fs-id1167067099993">
+<para id="fs-id1167063876704">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex004"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063509585" class="os-exercise">
+<problem id="fs-id1167067014965">
+<para id="fs-id1167063675333">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067045617" class="os-exercise">
+<problem id="fs-id1167063891782">
+<para id="fs-id1167067025634">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067150171" class="os-exercise">
+<problem id="fs-id1167063560809">
+<para id="fs-id1167067167271">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex007"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066983636" class="os-exercise">
+<problem id="fs-id1167066983137">
+<para id="fs-id1167067075202">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067080002" class="os-exercise">
+<problem id="fs-id1167063901424">
+<para id="fs-id1167066983736">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex009"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066847618" class="os-exercise">
+<problem id="fs-id1167067073957">
+<para id="fs-id1167066971588">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex010"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066963040" class="os-exercise">
+<problem id="fs-id1167067026667">
+<para id="fs-id1167067142652">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex011"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067194925" class="os-exercise">
+<problem id="fs-id1167066869509">
+<para id="fs-id1167066856685">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex012"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167067276342" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167063836686" class="os-exercise">
+<problem id="fs-id1167067217666">
+<para id="fs-id1167067101856">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex013"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067053378" class="os-exercise">
+<problem id="fs-id1167067037738">
+<para id="fs-id1167067011149">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex014"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067292404" class="os-exercise">
+<problem id="fs-id1167063826368">
+<para id="fs-id1167067025995">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex015"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063527931" class="os-exercise">
+<problem id="fs-id1167066800314">
+<para id="fs-id1167067109776">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex016"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166168471443">
+<problem id="fs-id1166168450228">
+<para id="fs-id1166171558666">Reproduction in sexually-reproducing organisms occurs when two sex cells, or gametes, fuse. In fish, this occurs when sperm swim through the water to find the ovum. In flowers, pollen is dispersed through the air and carried to another flower. Explain what evolutionary adaptations for reproduction occur in humans, based on the fact that we are land-based animals.</para>
+</problem>
+<!--<solution id="fs-id1166168545547">
+<label/>
+<para id="fs-id1166167149876">Because humans are land-based animals, the female must provide an internal, fluid environment in which sperm will not be desiccated and can move. Thus, the male sperm is deposited directly into the internal reproductive tract of the female, which creates an insulated environment in which sperm can survive and travel to the ovum.</para>
+</solution>-->
+</exercise>
+<exercise id="fs-id1166171622883">
+<problem id="fs-id1166173375781">
+<para id="fs-id1166166984797">While examining the human genome, you find a gene that is not homologous to any other organisms known to man. You conclude that this gene must be unique to the human species and could not have evolved from another organism. Would this discovery suggest that humans do not share a common ancestor with all other organisms on Earth? Explain your answer.</para>
+</problem>
+<!--<solution id="fs-id1166173536223">
+<label/>
+<para id="fs-id1166171488160">No. Although all organisms descended from other organisms, it is possible for a new gene to form in the human genome, or any organism, through processes such as mutation or crossing-over during meiosis. Such a gene would not need to have been inherited from an ancestor and humans would still likely share many other genes with other Earth organisms.</para>
+</solution>-->
+</exercise>
+<exercise id="fs-id1166173166092">
+<problem id="fs-id1166171631940">
+<para id="fs-id1166173359744">Mutations in the glucose 6-phosphate dehydrogenase (G6PD) gene can cause a rare anemia when inherited. However, homozygotes with this mutation are less prone to malaria infection, a disease that historically was the most widespread deadly disease among humans. Predict how this mutation would affect the fitness of individuals living in countries where malaria is endemic.</para>
+</problem>
+<!--<solution id="fs-id1166173477192">
+<label/>
+<para id="fs-id1166173512300">Despite the ability of G6PD to cause deadly anemia, the mutation is favored and will remain in the population because it causes resistance to malaria, a much more widespread disease among humans.</para>
+</solution>-->
+</exercise>
+<exercise id="fs-id1167066853412" class="os-exercise">
+<problem id="fs-id1167066962196">
+<para id="fs-id1167063615558">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex017"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167066959411" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167063606161" class="os-exercise">
+<problem id="fs-id1167066806461">
+<para id="fs-id1167066790376">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex018"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066968286" class="os-exercise">
+<problem id="fs-id1167067189313">
+<para id="fs-id1167067075844">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex019"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063798559" class="os-exercise">
+<problem id="fs-id1167063520619">
+<para id="fs-id1167063808202">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex020"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063870937" class="os-exercise">
+<problem id="fs-id1167066972430">
+<para id="fs-id1167063862823">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex021"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063424675" class="os-exercise">
+<problem id="fs-id1167067106864">
+<para id="fs-id1167067067990">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex022"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167061173569" class="os-exercise">
+<problem id="fs-id1167067186272">
+<para id="fs-id1167063486591">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex023"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067193629" class="os-exercise">
+<problem id="fs-id1167066778900">
+<para id="fs-id1167067147767">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex024"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067025715" class="os-exercise">
+<problem id="fs-id1167067149556">
+<para id="fs-id1167063923029">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex025"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063659420" class="os-exercise">
+<problem id="fs-id1167067196890">
+<para id="fs-id1167067184470">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex026"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066961148" class="os-exercise">
+<problem id="fs-id1167067276020">
+<para id="fs-id1167063520483">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex027"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067295269" class="os-exercise">
+<problem id="fs-id1167063524959">
+<para id="fs-id1167063723531">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex028"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063828460" class="os-exercise">
+<problem id="fs-id1167060078553">
+<para id="fs-id1167061653693">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex029"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067036082" class="os-exercise"><problem id="eip-idm1022540992">
+<para id="eip-idm881033792">The term microevolution describes evolution on its smallest scale: the change in allele frequencies in a population over generations. DDT is a pesticide that was widely in use in the United States from the 1940s until 1972. The table below summarizes a particular allele frequency in laboratory strains of the common fruit fly, <emphasis effect="italics">Drosophila melanogaster</emphasis></para>
+
+<table id="fs-id1224964267910" class="unnumbered" summary="The term microevolution describes evolution on its smallest scale: the change in allele frequencies in a population over generations. DDT is a pesticide that was widely in use in the United States from the 1940s until 1972. The table below summarizes a particular allele frequency in laboratory strains of the common fruit fly, Drosophila melanogaster."><label/>
+<tgroup cols="3">
+<thead><row>
+<entry/>
+<entry align="center">Strains collected from flies in the wild in the 1930s</entry>
+<entry align="center">Strains collected from flies in the wild in the 1960s</entry>
+</row></thead><tbody>
+<row>
+<entry align="center">Frequency of allele conferring DDT resistance</entry>
+<entry align="center">0%</entry>
+<entry align="center">40%</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+
+
+
+<para id="eip-idm471873280">Using this information, describe a model in which natural selection improved the match between D. mealanogaster and its environment through microevolution.
+<list id="eip-idm394273296" list-type="enumerated" number-style="lower-alpha"><item>DDT killed off a large proportion of the population, and the alleles present in the surviving fruit flies differed from those in the original population</item>
+
+<item>Mutations from the application of DDT caused the allele conferring DDT resistance to appear in the population.</item>
+
+<item>Female mosquitoes chose to mate with male mosquitoes that had the allele conferring DDT resistance because it would make their offspring more fit.</item>
+
+<item> The wide use of DDT meant that fruit flies with DDT resistance were more evolutionarily fit than their counterparts without DDT resistance.
+</item>
+</list></para>
+
+</problem>
+</exercise><exercise id="fs-id1167061330716" class="os-exercise">
+<problem id="fs-id1167063895758">
+<para id="fs-id1167067024474">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex031"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063490395" class="os-exercise">
+<problem id="fs-id1167061202438">
+<para id="fs-id1167067190920">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex032"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066842938" class="os-exercise">
+<problem id="fs-id1167063490763">
+<para id="fs-id1167066993151">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex033"/>
+</para>
+</problem>
+</exercise>
+</section><section id="fs-id1164964487791" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164967552706">
+<problem id="fs-id1164965236742">
+
+<para id="fs-id1164967760792">In addition to biology, evidence drawn from many different disciplines, including chemistry, geology, and mathematics, supports models of the origin of life on Earth.  In order to determine when the first forms of life likely formed, the rate of radioactive decay can be used to determine the age of the oldest rocks (see optional problems C and D, below) exposed on Earths surface.  These are found to be approximately 3.5 billion years old.  The age of rocks can be correlated to fossils of the earliest forms of life.</para>
+<para id="fs-id1164964212117">A. The graph compares times of divergence from the last common ancestor based on the fossil record with a "molecular time" constructed by comparing sequences of conserved proteins to determine a mutation rate (after Hedges and Kumar, <emphasis effect="italics">Trends in Genetics</emphasis>, 2003). <emphasis>Explain</emphasis> how such a molecular clock could be refined to infer time for the evolution of prokaryotes.</para>
+
+<figure id="fs-id1164967504456"><media id="fs-id1164967634684" alt="This line graph is labeled Times of Divergence from the Last Common Ancestor. The Y axis is labeled Fossil record time (Maya) and it goes by from 0, 10, 100, 1000, and 10,000. The X axis is labeled Molecular time due to mutation rate (Mya) and it goes up from 0, 10, 100, 1000, 10,000. The lines plotted on the chart are Human Macque, Human and cattle, Human and frog) and they climb upward. The slope of this chart is 1.1.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_18_01_01_01_img.jpg" width="400"/>
+</media>
+</figure><para id="fs-id1164965526000">B. Using a molecular clock constructed from 32 conserved proteins, Hedges and colleagues (Battistuzzi et al., <emphasis effect="italics">BMC Evol. Biol</emphasis>. 2004) estimated the times during which key biological processes evolved. A diagram based on their work is shown. <emphasis>Connect</emphasis> the time of the origin of life inferred from this diagram with the age of the oldest fossil stromatolites and the age of the oldest exposed rock to show how evidence from different scientific disciplines provides support for the concept of evolution. <emphasis>Evaluate</emphasis> the legitimacy of claims drawn from these different disciplines (biology, geology, and mathematics) regarding the origin of life on Earth.</para><figure id="fs-id1164965328181"><media id="fs-id1164959905480" alt="This graph is labeled Evolution of Key Biological processes. The Y axis is labeled Metabolic Innovations and the X axis is labeled Time (billion years ago) with the markings, 4.5, 4.0, 3.5, 3.0, 2.5, 2.0, 1.5, 1.0, 0.5, and 0. The first markings from 4.2 to 3.2 is a straight red line marked Anaerobic Photosynthesizers. The second red line goes from 3.7 to 2.5 and it is labeled Anerobic methanophiles. The next red line is from 3.2 to 2.5 and it is labeled Aerobic Methanophiles. The last red line goes from 3.0 to 2.2 and is labeled aerobic photosynthesizers.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_18_01_01_02_img.jpg" width="400"/>
+</media>
+</figure><para id="fs-id1164965487024">The oldest known rocks are exposed at three locations: Greenland, Australia, and Swaziland.  The following application of mathematical methods provides the essential evidence of the minimum age of Earth.  The mathematics is appropriate for students who have completed a second year of algebra.  However, it is not illustrative of the type of item that could appear on the AP Biology Exam.</para>
+<para id="fs-id1164967870164">The exposed rocks contain a radioactive isotope of rubidium, <sup>87</sup>Rb, which decays into a stable isotope of strontium, <sup>87</sup>Sr.  An <sup>87</sup>Rb atom with 37 protons and 50 neutrons decays when a proton is converted into a neutron to produce an atom, <sup>87</sup>Sr, with 36 protons and 51 neutrons.  As time passed, the number of each isotope changed from its initial value.  When a crystal containing <sup>87</sup>Rb atoms formed from the molten surface of the hot, early Earth during the Hadean eon, the number of these atoms at that initial time can be represented as N<sub>87Rb,0</sub>.  As time passed, the number of atoms of this isotope changed to N<sub>87Rb</sub>.</para>
+
+<para id="fs-id1164967761148">C. <emphasis>Justify</emphasis> the relationship between the number of each isotope at any time and the number of each at the time that the molten rock solidified (denoted by the subscript 0):</para><equation id="fs-id1164965499275">
+<m:math display="block">
+ <m:mrow>
+  <m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>87</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>S</m:mi><m:mi>r</m:mi>
+     </m:mrow>
+    </m:msub>
+
+   </m:mrow>
+  </m:msub>
+  <m:mo>=</m:mo><m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>87</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>S</m:mi><m:mi>r</m:mi><m:mo>,</m:mo><m:mn>0</m:mn>
+     </m:mrow>
+    </m:msub>
+
+   </m:mrow>
+  </m:msub>
+  <m:mo>+</m:mo><m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>87</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>R</m:mi><m:mi>b</m:mi><m:mo>,</m:mo><m:mn>0</m:mn>
+     </m:mrow>
+    </m:msub>
+
+   </m:mrow>
+  </m:msub>
+  <m:mo>−</m:mo><m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>87</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>R</m:mi><m:mi>b</m:mi>
+     </m:mrow>
+    </m:msub>
+
+   </m:mrow>
+  </m:msub>
+
+ </m:mrow>
+</m:math>
+</equation>
+<para id="fs-id1164965481207">The decay of unstable radioisotopes is exponential with a half-life of T<sub>1/2</sub>, which for <sup>87</sup>Rb is 4.88 × 10<sup>10</sup> years:</para>
+<equation id="fs-id1164965240590">
+<m:math display="block">
+ <m:msub>
+  <m:mi>N</m:mi>
+  <m:mrow>
+   <m:msub>
+    <m:mrow>
+     <m:mn>87</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mi>R</m:mi><m:mi>b</m:mi>
+    </m:mrow>
+   </m:msub>
+
+  </m:mrow>
+ </m:msub>
+ <m:mo>=</m:mo><m:msub>
+  <m:mi>N</m:mi>
+  <m:mrow>
+   <m:msub>
+    <m:mrow>
+     <m:mn>87</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mi>R</m:mi><m:mi>b</m:mi><m:mo>,</m:mo><m:mn>0</m:mn>
+    </m:mrow>
+   </m:msub>
+
+  </m:mrow>
+ </m:msub>
+ <m:msup>
+  <m:mi>e</m:mi>
+  <m:mrow>
+   <m:mo>−</m:mo><m:mn>0.693</m:mn><m:mi>t</m:mi><m:mo>/</m:mo><m:msub>
+    <m:mi>T</m:mi>
+    <m:mrow>
+     <m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn>
+    </m:mrow>
+   </m:msub>
+
+  </m:mrow>
+ </m:msup>
+
+</m:math>
+</equation>
+
+<para id="fs-id1164965576891">This can be used to replace the initial number of <sup>87</sup>Rb atoms, which cannot be measured, with the present-day value:</para>
+
+<equation id="fs-id1164960702948">
+<m:math display="block">
+ <m:mfrac>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>87</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>s</m:mi><m:mi>r</m:mi>
+      </m:mrow>
+     </m:msub>
+
+    </m:mrow>
+   </m:msub>
+
+  </m:mrow>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>86</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>s</m:mi><m:mi>r</m:mi>
+      </m:mrow>
+     </m:msub>
+
+    </m:mrow>
+   </m:msub>
+
+  </m:mrow>
+ </m:mfrac>
+ <m:mo>=</m:mo><m:mfrac>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>87</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>s</m:mi><m:mi>r</m:mi><m:mo>,</m:mo><m:mn>0</m:mn>
+      </m:mrow>
+     </m:msub>
+
+    </m:mrow>
+   </m:msub>
+
+  </m:mrow>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>86</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>s</m:mi><m:mi>r</m:mi>
+      </m:mrow>
+     </m:msub>
+
+    </m:mrow>
+   </m:msub>
+
+  </m:mrow>
+ </m:mfrac>
+ <m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:msup>
+  <m:mi>e</m:mi>
+  <m:mrow>
+   <m:mo>−</m:mo><m:mn>0.693</m:mn><m:mi>t</m:mi><m:mo>/</m:mo><m:msub>
+    <m:mi>T</m:mi>
+    <m:mrow>
+     <m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn>
+    </m:mrow>
+   </m:msub>
+
+  </m:mrow>
+ </m:msup>
+ <m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mfrac>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>87</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>R</m:mi><m:mi>b</m:mi>
+      </m:mrow>
+     </m:msub>
+
+    </m:mrow>
+   </m:msub>
+
+  </m:mrow>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>86</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>s</m:mi><m:mi>r</m:mi>
+      </m:mrow>
+     </m:msub>
+
+    </m:mrow>
+   </m:msub>
+
+  </m:mrow>
+ </m:mfrac>
+
+</m:math>
+</equation>
+
+<para id="fs-id1164959911391">When the measurements of the numbers of <sup>87</sup>Rb and <sup>87</sup>Sr were made (Moorbath et al., <emphasis effect="italics">Nature</emphasis>, 1972), measurements of a second stable isotope of strontium, <sup>86</sup>Sr, were also made.  The ratio of the initial number of <sup>87</sup>Sr and <sup>86</sup>Sr atoms is the same as today, since the isotopes are both stable.  The value of this ratio is 0.71.</para><para id="fs-id1164967883743">This is a linear equation in the form <emphasis effect="italics">y = ax + b</emphasis>, where a is the term in parenthesis containing the half-life of <sup>87</sup>Rb. If <m:math display="block">
+ <m:mrow>
+  <m:mi>Y</m:mi><m:mo>=</m:mo><m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>87</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>S</m:mi><m:mi>r</m:mi>
+     </m:mrow>
+    </m:msub>
+
+   </m:mrow>
+  </m:msub>
+  <m:mo>/</m:mo><m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>86</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>S</m:mi><m:mi>r</m:mi>
+     </m:mrow>
+    </m:msub>
+
+   </m:mrow>
+  </m:msub>
+
+ </m:mrow></m:math> is graphed versus <m:math display="block">
+ <m:mrow>
+  <m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>87</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>R</m:mi><m:mi>b</m:mi>
+     </m:mrow>
+    </m:msub>
+
+   </m:mrow>
+  </m:msub>
+  <m:mo>/</m:mo><m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>86</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>S</m:mi><m:mi>r</m:mi>
+     </m:mrow>
+    </m:msub>
+
+   </m:mrow>
+  </m:msub>
+  <m:mo>,</m:mo>
+ </m:mrow>
+</m:math>
+the slope can be used to determine the time, t, that has passed since the rock formed from melting: <m:math display="block">
+ <m:mrow>
+  <m:mi>a</m:mi><m:mo>=</m:mo><m:msup>
+   <m:mi>e</m:mi>
+   <m:mrow>
+    <m:mn>0.683</m:mn><m:mi>t</m:mi><m:mo>/</m:mo><m:msub>
+     <m:mi>T</m:mi>
+     <m:mrow>
+      <m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn>
+     </m:mrow>
+    </m:msub>
+
+   </m:mrow>
+  </m:msup>
+  <m:mo>−</m:mo><m:mn>1</m:mn>
+ </m:mrow>
+</m:math>, so <m:math display="block">
+ <m:mrow>
+  <m:mi>t</m:mi><m:mo>=</m:mo><m:mi>ln</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>•</m:mo><m:msub>
+   <m:mi>T</m:mi>
+   <m:mrow>
+    <m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn>
+   </m:mrow>
+  </m:msub>
+  <m:mo>/</m:mo><m:mn>0.693</m:mn>
+ </m:mrow>
+</m:math></para><para id="fs-id1164964256699">D. Data on the rubidium and strontium isotopes at Isua in Greenland are provided in the table. <emphasis>Analyze</emphasis> these data to obtain the age of formation of these rocks.</para>
+
+<table id="fs-id1164964267910" summary="This table has two columns. The rows read from left to right: Row one - N 87Rb / N 86Sr , N 87Sr / N 86Sr . Row two: .212, .711, Row three: .214 , .711. Row four: .223 , .712 , Row Five: .259 , .714 , Row six: .268 , .714 , Row seven: .267 , .715 , Row eight: .290 , .716 Row nine: .394 , .720 . Row ten: .434 , .723">
+<tgroup cols="2"><tbody>
+<row>
+<entry align="center">N 87<sub>Rb</sub> / N 86<sub>Sr</sub></entry>
+<entry align="center">N 87<sub>Sr</sub> / N 86<sub>Sr</sub></entry>
+</row>
+<row>
+<entry align="center">.212</entry>
+<entry align="center">.711</entry>
+</row>
+<row>
+<entry align="center">.214</entry>
+<entry align="center">.711</entry>
+</row>
+<row>
+<entry align="center">.223</entry>
+<entry align="center">.712</entry>
+</row>
+<row>
+<entry align="center">.259</entry>
+<entry align="center">.714</entry>
+</row>
+<row>
+<entry align="center">.268</entry>
+<entry align="center">.714</entry>
+</row>
+<row>
+<entry align="center">.267</entry>
+<entry align="center">.715</entry>
+</row>
+<row>
+<entry align="center">.290</entry>
+<entry align="center">.716</entry>
+</row>
+<row>
+<entry align="center">.394</entry>
+<entry align="center">.720</entry>
+</row>
+<row>
+<entry align="center">.434</entry>
+<entry align="center">.723</entry>
+</row></tbody>
+</tgroup>
+</table><para id="fs-id1164967737778">The solidification of the molten surface of Earth at the end of the Hadean eon (4 to 4.6 billion years ago) and the condensation of liquid oceans provided a medium from which life emerged. The most ancient fossils are colonial, photosynthetic cyanobacteria called stromatolites. As climate change melted the perennial snow covering Greenland, new geologic evidence of the time of that origin was obtained (Nutman et al., <emphasis effect="italics">Nature</emphasis> 2016) with the discovery of the most ancient stromatolites.  These fossils record communities of photosynthetic bacteria embedded in Isua sediments 3.7 billion years ago. Worldwide stromatolite fossils show a decline between 1 and 1.3 billion years ago.</para></problem>
+</exercise>
+
+<exercise id="fs-id1164965569209">
+<problem id="fs-id1164967825721">
+<para id="fs-id1164967750881">In 1952, the Miller-Urey experiment showed that an electrical discharge in a gas-phase mixture of ammonia, hydrogen, methane, and water produced five amino acids.  When the experiment was conducted, evidence indicated that this mixture was representative of the Hadean (early Earth) atmosphere.  The experiment was repeated in the presence of jets of hot steam, simulating Hadean volcanic eruptions and producing an even larger variety of amino acids.</para>
+<para id="fs-id1164965566591">A. Consider the following criticisms of the organic soup model and <emphasis>justify the selection of data</emphasis> that other experiments might provide regarding the origin of life on Earth.</para>
+<list id="fs-id1164965485253">
+<item>Biopolymers on Earth have a left-hand symmetry at the carbon adjacent to the carboxylic acid carbon, and these experiments produced mixtures of both left- and right-hand symmetries.</item>
+<item>No peptide bonds between amino acids were observed.</item>
+<item>Early Earths atmospheric oxygen concentration is known to have been very low, implying the absence of an ozone layer to filter high-energy ultraviolet (uv) radiation.</item>
+<item>Ammonia decomposes when it absorbs high-energy uv radiation, but diatomic nitrogen does not.</item></list>
+
+<para id="fs-id1164967520129">Models of the abiotic synthesis of biomolecules suffer from a chicken and egg dilemma.  Proteins are needed to synthesize DNA and RNA, and DNA and RNA are needed to synthesize proteins.  Which molecules came first?</para>
+
+<para id="fs-id1164967871345">B. In light of the following observations, <emphasis>evaluate the hypothesis</emphasis> that nucleotides arose from a prebiotic mixture.</para>
+<list id="fs-id1164967704877">
+<item>Nuclei acids are not found in experiments like those of Miller and Urey.</item>
+<item>Purines and pyrimidines decompose at high temperature, and Earth was bombarded by meteors and comets during the Hadean eon.</item>
+<item>Bonds in the purine and pyrimidine rings of nucleic acids are broken by high-energy uv radiation.</item>
+<item>Carl Sagan and colleagues synthesized ATP from a mixture of adenosine, ribose, and phosphate when exposed to uv radiation.</item>
+<item>Ribose has never been synthesized in experiments like those conducted by Miller and Urey.</item>
+<item>Ribose has a left/right symmetry, and the right-handed form occurs in Earth organisms.</item></list>
+<para id="fs-id1164965231367">Continuing with the analogy, if neither the chicken nor the egg came first, then both must have arisen together.  Some regard simultaneous innovations in both catalysis and information storage and retrieval as too improbable.  In samples of meteorites, both amino acids and nucleic acids have been found.  The amino acids are mixtures of left- and right-handed symmetries, although some have shown a significant bias toward the left-handed form (J. Elisa et al., <emphasis effect="italics">ACS Central Science</emphasis>, 2016).  The arrival from space of the seeds of biomolecules is called panspermia.  Carl Sagan (1966) and Francis Crick (1973), one of the first to describe the structure of DNA, regarded panspermia as the only plausible origin of life on Earth.  In fact, their belief was in directed panspermia, the intentional seeding by intelligent aliens.</para><para id="fs-id1164967558502">C. <emphasis>Describe</emphasis> the questions that must be addressed for panspermia to be a scientific hypothesis about the origin of life on Earth and <emphasis>describe</emphasis> the reasons for the directed panspermia revision of this hypothesis.</para>
+<para id="fs-id1164967746708">To avoid the conflicting chicken-and-egg claims that protein catalyst was first and DNA information storage was first, two alternatives have emerged regarding the origin of life on Earth.  Consider two simple ideas: 1) water blocks uv radiation, and cracks in the ocean floor (hot vents) provide a temperature difference that generates a source of entropy; and 2) ribosomes are composed of RNA.</para>
+
+<para id="fs-id1164965250687">D. <emphasis>Describe</emphasis> one of the following as a hypothesis concerning the origin of life on Earth:</para>
+<list id="fs-id1164964269953">
+<item>Reactions among molecules in the vicinity of hot vents became organized in space and time, eventually developing structures that foreshadow the proton gradient upon which metabolism is based.  This alternative is the basis for what is referred to as the metabolism-first hypothesis.</item>
+<item>The catalytic properties of the ribosome reflect the self-catalytic polymerization of nucleotides with sequential structures conserved in modern DNA, the catalytic properties conserved in proteins, and the catalytic properties of the ribosome whose core structure is RNA.  This alternative is the basis for what is referred to as the RNA-first hypothesis.</item></list>
+</problem>
+</exercise>
+<exercise id="fs-id1164967853434">
+<problem id="fs-id1164967829680">
+<para id="fs-id1164965598948">The radiant energy emitted by a star gradually increases after its birth.  During the Hadean eon, while the molten Earth cooled and life emerged, the Sun provided approximately 25% less radiant energy than it does now.  Ignoring effects due to differences in the composition of Earth's atmosphere between then and now, this means that the average surface temperature of the surface would be about 25 °C below the freezing temperature of water.  Evidence of liquid water on Earth during the Hadean eon is provided by geologic structures known only to form in liquid water, such as lava pillows and the stromatolites that are the fossilized layers of photosynthetic cyanobacteria.</para>
+<para id="fs-id1164967464104"><emphasis>Pose a scientific question</emphasis> that guides inquiry into early Earth conditions that supported the innovation of photosynthesis.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-id1164967382693">
+<problem id="fs-id1164964126515">
+<para id="fs-id1164967855976"><emphasis>Connect</emphasis> the techniques of radiometric measurement, anatomy, and molecular biology to the supporting evidence of the theory of evolution provided.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-id1164967401084">
+<problem id="fs-id1164967860540">
+<para id="fs-id1164967557880"><emphasis>Describe</emphasis> reasons for the revision of scientific hypotheses of the origin of life on Earth.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-id1164965527435">
+<problem id="fs-id1164965345637">
+<para id="fs-id1164960733293">Directed evolution is an inquiry strategy that is usually used to investigate gene expression or the function of proteins that are expressed.  The investigator imposes a selection pressure and observes the evolution of a population.  In one investigation, unicellular yeast were allowed to sediment in a column of a nutrient-containing solution.  Individuals that traveled furthest towards the bottom of the column were removed and placed in a new column.  After 60 generations of repeated selection, yeast became multicellular.  In this experiment, selection was acting on the collection of cells and not on the individual.  To test the claim that selection was acting on the multicellular system and not just individual cells, the investigators compared the effects on a population of yeast that had acquired multicellularity by strong selection (allowing only 5 minutes to settle) and weak selection (allowing 25 minutes to settle).  A strong selection increased cluster size, and a weak selection decreased cluster size.</para>
+
+<para id="fs-id1164967910033">A. <emphasis>Evaluate</emphasis> the claim that the use of both a strong and weak selection demonstrates that evolution is an ongoing process that, under artificially imposed conditions, led to the emergence of multicellularity in a single-celled organism.</para>
+<para id="fs-id1164967607668">B. In this directed evolution study, the selection pressure imposed by the investigators led to a new phenotype.  Consider a situation in which there is a vertical variation in the density of nutritional resources.  Analyze the advantages and disadvantages of cooperative behavior, including changes in the likelihood of replication of the individual and population genomes.</para>
+</problem>
+</exercise>
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-idm45480192">
+<term>adaptation</term> <meaning id="fs-idp26468464">heritable trait or behavior in an organism that aids in its survival and reproduction in its present environment</meaning>
+</definition>
+<definition id="fs-idp36236704">
+<term>convergent evolution</term> <meaning id="fs-idm1026480">process by which groups of organisms independently evolve to similar forms</meaning>
+</definition>
+<definition id="fs-idm13445328">
+<term>divergent evolution</term> <meaning id="fs-idp37363984">process by which groups of organisms evolve in diverse directions from a common point</meaning>
+</definition>
+<definition id="fs-idm1447152">
+<term>homologous structures</term> <meaning id="fs-idp40048992">parallel structures in diverse organisms that have a common ancestor</meaning>
+</definition>
+<definition id="fs-idm2843008">
+<term>natural selection</term> <meaning id="fs-idp102489360">reproduction of individuals with favorable genetic traits that survive environmental change because of those traits, leading to evolutionary change</meaning>
+</definition>
+<definition id="fs-idp91489152">
+<term>variation</term> <meaning id="fs-idm56287040">genetic differences among individuals in a population</meaning>
+</definition>
+<definition id="fs-idm17668576">
+<term>vestigial structure</term> <meaning id="fs-idm67347136">physical structure present in an organism but that has no apparent function and appears to be from a functional structure in a distant ancestor</meaning>
+</definition>
+<definition id="fs-id1167067189728"><term>acquired characteristics</term> <meaning id="fs-id1167061322502">modifications caused by an individual’s environment that can be inherited by its offspring</meaning></definition>
+<definition id="fs-id1167067180714"><term>theory of evolution</term> <meaning id="fs-id1167066869294">explains how populations change over time and how life diversifies the origin of species</meaning></definition>
+</glossary>
+</document>

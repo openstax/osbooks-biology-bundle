@@ -1,0 +1,471 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Mendel’s Experiments and the Laws of Probability</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62813</md:content-id>
+  <md:title>Mendel’s Experiments and the Laws of Probability</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the scientific reasons for the success of Mendel’s experimental work</item>
+<item>Describe the expected outcomes of monohybrid crosses involving dominant and recessive alleles</item>
+<item>Apply the sum and product rules to calculate probabilities</item>
+</list></md:abstract>
+  <md:uuid>14bf2db5-bfa1-4d6c-bac8-04c886e7c5a5</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167066766636" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067183958">In this section, you will explore the following questions:</para>
+<list id="fs-id1167067197384">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch12-s01-lo01">Why was Mendel’s experimental work so successful?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch12-s01-lo02">How do the sum and product rules of probability predict the outcomes of monohybrid crosses involving dominant and recessive alleles?</item>
+</list>
+</section>
+<section id="fs-id1167067031262" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066807291">Genetics is the science of heredity. Austrian monk Gregor Mendel set the framework for genetics long before chromosomes or genes had been identified, at a time when meiosis was not well understood. Working with garden peas, Mendel found that crosses between true-breeding parents (P) that differed in one trait (e.g., color: green peas versus yellow peas) produced first generation (F1) offspring that all expressed the trait of one parent (e.g., all green or all yellow). Mendel used the term dominant to refer to the trait that was observed, and recessive to denote that non-expressed trait, or the trait that had “disappeared” in this first generation. When the F1 offspring were crossed with each other, the F2 offspring exhibited both traits in a 3:1 ratio. Other crosses (e.g., height: tall plants versus short plants) generated the same 3:1 ratio (in this example, tall to short) in the F2 offspring. By mathematically examining sample sizes, Mendel showed that genetic crosses behaved according to the laws of probability, and that the traits were inherited as independent events. In other words, Mendel used statistical methods to build his model of inheritance.</para><para id="fs-id1167067142063">As you have likely noticed, the AP Biology course emphasizes the application of mathematics. Two rules of probability can be used to find the expected proportions of different traits in offspring from different crosses. To find the probability of two or more independent events (events where the outcome of one event has no influence on the outcome of the other event) occurring together, apply the product rule and <emphasis effect="italics">multiply</emphasis> the probabilities of the individual events. To find the probability that one of two or more events occur, apply the sum rule and <emphasis effect="italics">add</emphasis> their probabilities together.</para><para id="fs-id1167066862661" class="ost-reading-discard">The content presented in this section supports the learning objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> learning objectives merge essential knowledge content with one or more of the seven science practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> exam questions.</para><table id="fs-id1167067073469" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.3 The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Learning Objective. Third right cell reads: 3.13 The student is able to pose questions about ethical, social, or medical issues surrounding human genetic disorders." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
+<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.3</emphasis></span>
+<span class="ost-standards-description">The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-s01-aplo-3-13">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.13</emphasis></span>
+<span class="ost-standards-description">The student is able to pose questions about ethical, social, or medical issues surrounding human genetic disorders.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.3</emphasis></span>
+<span class="ost-standards-description">The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.2</emphasis></span>
+<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-s01-aplo-3-14">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.14</emphasis></span>
+<span class="ost-standards-description">The student is able to apply mathematical routines to determine Mendelian patterns of inheritance provided by data sets.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+<note id="fs-id1167066841110" class="os-teacher">
+<label>Teacher Support</label>
+
+<note id="fs-id1167067209600" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167066825589">Two rules of probability are used in solving genetics problems: the rule of multiplication and the rule of addition. The probability that independent events will occur simultaneously is the product of their individual probabilities. If two dices are tossed, what is the probability of landing two ones? A die has 6 faces, and assuming the die is not loaded, each face has the same probability of outcome. The probability of obtaining the number 1 is equal to the number on the die divided by the total number of sides:
+<m:math display="inline">
+<m:mrow>
+                <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mn>6</m:mn>
+                </m:mfrac>
+
+                </m:mrow>
+                </m:math>. The probability of rolling two ones is equal to <m:math display="inline">
+<m:mrow>
+                                   <m:mfrac>
+                                   <m:mn>1</m:mn>
+                                   <m:mn>6</m:mn>
+                                   </m:mfrac>
+                                   <m:mtext> </m:mtext><m:mo>×</m:mo><m:mtext> </m:mtext><m:mfrac>
+                                   <m:mn>1</m:mn>
+                                   <m:mn>6</m:mn>
+                                   </m:mfrac>
+                                   <m:mtext> </m:mtext><m:mo>=</m:mo><m:mtext> </m:mtext><m:mfrac>
+                                   <m:mn>1</m:mn>
+                                   <m:mrow>
+                                   <m:mn>36</m:mn>
+                                   </m:mrow>
+                                   </m:mfrac>
+
+                                   </m:mrow>
+                                   </m:math>.</para><para id="fs-id1167066874618">The probability that any one of a set of mutually exclusive events will occur is the sum of their individual probabilities. The probability of rolling a 1 or a 2 is equal to <m:math display="inline">
+    <m:mrow>
+    <m:mfrac>
+    <m:mn>1</m:mn>
+    <m:mn>6</m:mn>
+    </m:mfrac>
+    <m:mtext> </m:mtext><m:mo>+</m:mo><m:mtext> </m:mtext><m:mfrac>
+    <m:mn>1</m:mn>
+    <m:mn>6</m:mn>
+    </m:mfrac>
+    <m:mtext> </m:mtext><m:mo>=</m:mo><m:mtext> </m:mtext><m:mfrac>
+    <m:mn>1</m:mn>
+    <m:mn>3</m:mn>
+    </m:mfrac>
+
+    </m:mrow>
+    </m:math> because the two outcomes are mutually exclusive. If we roll a 1, it cannot be a 2.</para>
+<para id="fs-id1167067039672">Tell students that Gregor Mendel was a monk who had received a solid scientific education and had excelled at mathematics. He brought this knowledge of science into his experiments with peas.</para>
+<para id="fs-id1167066810839">Engage students in describing what makes a good organism to study genetics. One approach is to ask the class if they would use elephants to study genetics. The disadvantages of using elephants actually highlight the advantages of using peas, corn, fruit flies, or mice for genetics studies: short life cycle, easy to maintain and handle, large number of offspring for statistical analysis, etc.</para>
+<para id="fs-id1167066839319">The concepts of statistics are not intuitive. Practice with dice and coins. Explain that the probability ratios are achieved with large numbers of trials.</para>
+</note>
+<note id="fs-id1167063688452" class="ost-misconception">
+<label>Misconception Alert</label>
+<para id="fs-id1167066865246">Dominant traits are the ones expressed in a dominant/recessive situation. They do not usually repress the recessive trait. A dominant trait is not necessarily the most common trait in a population. For example, type O blood is a recessive trait, but it is the most frequent blood group in many ethnic groups. A dominant trait can be lethal. A dominant allele is not better than the recessive allele. Whether a trait is beneficial depends on the environment. Give the example of wing color in moths. Dark pigmentation is beneficial in a polluted environment where predators would not pick up the moths on dark tree barks. For example, the population peppered moths in 19th century London shifted so that their wing colors were darker to blend in with the soot of the Industrial Revolution. After pollution levels dropped, light pigmentation became more prevalent because it helped the moths to escape notice.</para>
+</note>
+</note>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="fig-ch12_01_01" class="ost-tag-lo-apbio-ch12-s01-lo01 ost-tag-lo-apbio-ch12-s01-aplo-3-14"><media id="fs-id1457343" alt="Sketch of Gregor Mendel, a monk who wore reading glasses and a large cross.">
+<image mime-type="image/jpg" src="../../media/Figure_12_01_01-3b21.jpg" width="250"/>
+</media>
+
+<caption>Johann Gregor Mendel is considered the father of genetics.</caption></figure><para id="fs-id1582421">Johann Gregor Mendel (1822–1884) (<link target-id="fig-ch12_01_01" document=""/>) was a lifelong learner, teacher, scientist, and man of faith. As a young adult, he joined the Augustinian Abbey of St. Thomas in Brno in what is now the Czech Republic. Supported by the monastery, he taught physics, botany, and natural science courses at the secondary and university levels. In 1856, he began a decade-long research pursuit involving inheritance patterns in honeybees and plants, ultimately settling on pea plants as his primary <term>model system</term> (a system with convenient characteristics used to study a specific biological phenomenon to be applied to other systems). In 1865, Mendel presented the results of his experiments with nearly 30,000 pea plants to the local Natural History Society. He demonstrated that traits are transmitted faithfully from parents to offspring independently of other traits and in dominant and recessive patterns. In 1866, he published his work, <emphasis effect="italics">Experiments in Plant Hybridization,</emphasis><footnote id="fs-id2026365">Johann Gregor Mendel, <emphasis effect="italics">Versuche über Pflanzenhybriden Verhandlungen des naturforschenden Vereines in Brünn, Bd. IV für das Jahr</emphasis>, 1865 Abhandlungen, 3–47. [go here for the English translation <link url="http://openstax.org/l/32mendelPlain">here</link>] </footnote> in the proceedings of the Natural History Society of Brünn.</para><para id="fs-id2491606">Mendel’s work went virtually unnoticed by the scientific community that believed, incorrectly, that the process of inheritance involved a blending of parental traits that produced an intermediate physical appearance in offspring; this hypothetical process appeared to be correct because of what we know now as continuous variation. <term>Continuous variation</term> results from the action of many genes to determine a characteristic like human height. Offspring appear to be a “blend” of their parents’ traits when we look at characteristics that exhibit continuous variation. The <term>blending theory of inheritance</term> asserted that the original parental traits were lost or absorbed by the blending in the offspring, but we now know that this is not the case. Mendel was the first researcher to see it. Instead of continuous characteristics, Mendel worked with traits that were inherited in distinct classes (specifically, violet versus white flowers); this is referred to as <term>discontinuous variation</term>. Mendel’s choice of these kinds of traits allowed him to see experimentally that the traits were not blended in the offspring, nor were they absorbed, but rather that they kept their distinctness and could be passed on. In 1868, Mendel became abbot of the monastery and exchanged his scientific pursuits for his pastoral duties. He was not recognized for his extraordinary scientific contributions during his lifetime. In fact, it was not until 1900 that his work was rediscovered, reproduced, and revitalized by scientists on the brink of discovering the chromosomal basis of heredity.</para>
+<section id="fs-id2574310" class="ost-tag-lo-apbio-ch12-s01-lo01 ost-tag-lo-apbio-ch12-s01-aplo-3-14 ost-get-exercise">
+<title>Mendel’s Model System</title>
+<para id="fs-id2196762">Mendel’s seminal work was accomplished using the garden pea, <emphasis effect="italics">Pisum sativum</emphasis>, to study inheritance. This species naturally self-fertilizes, such that pollen encounters ova within individual flowers. The flower petals remain sealed tightly until after pollination, preventing pollination from other plants. The result is highly inbred, or “true-breeding,” pea plants. These are plants that always produce offspring that look like the parent. By experimenting with true-breeding pea plants, Mendel avoided the appearance of unexpected traits in offspring that might occur if the plants were not true breeding. The garden pea also grows to maturity within one season, meaning that several generations could be evaluated over a relatively short time. Finally, large quantities of garden peas could be cultivated simultaneously, allowing Mendel to conclude that his results did not come about simply by chance.</para>
+</section>
+<section id="fs-id1799593" class="ost-tag-lo-apbio-ch12-s01-lo01 ost-tag-lo-apbio-ch12-s01-aplo-3-14 ost-get-exercise">
+<title>Mendelian Crosses</title>
+<para id="fs-id2339300">Mendel performed <term>hybridizations</term>, which involve mating two true-breeding individuals that have different traits. In the pea, which is naturally self-pollinating, this is done by manually transferring pollen from the anther of a mature pea plant of one variety to the stigma of a separate mature pea plant of the second variety. In plants, pollen carries the male gametes (sperm) to the stigma, a sticky organ that traps pollen and allows the sperm to move down the pistil to the female gametes (ova) below. To prevent the pea plant that was receiving pollen from self-fertilizing and confounding his results, Mendel painstakingly removed all of the anthers from the plant’s flowers before they had a chance to mature.</para>
+<para id="fs-id2739398">Plants used in first-generation crosses were called <term>P<sub>0</sub></term>, or parental generation one, plants (<link target-id="fig-ch12_01_02" document=""/>). Mendel collected the seeds belonging to the P<sub>0</sub> plants that resulted from each cross and grew them the following season. These offspring were called the <term>F<sub>1</sub></term>, or the first filial (<emphasis effect="italics">filial </emphasis>= offspring, daughter or son), generation. Once Mendel examined the characteristics in the F<sub>1</sub> generation of plants, he allowed them to self-fertilize naturally. He then collected and grew the seeds from the F<sub>1</sub> plants to produce the <term>F<sub>2</sub></term>, or second filial, generation. Mendel’s experiments extended beyond the F<sub>2</sub> generation to the F<sub>3</sub> and F<sub>4 </sub>generations, and so on, but it was the ratio of characteristics in the P<sub>0</sub>−F<sub>1</sub>−F<sub>2</sub> generations that were the most intriguing and became the basis for Mendel’s postulates.</para>
+<figure id="fig-ch12_01_02" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14">
+<media id="fs-id2019116" alt="The diagram shows a cross between pea plants that are true-breeding for purple flower color and plants true-breeding for white flower color. This cross-fertilization of the P generation resulted in an F_{1} generation with all violet flowers. Self-fertilization of the F_{1} generation resulted in an F_{2} generation that consisted of 705 plants with violet flowers, and 224 plants with white flowers. ">
+<image mime-type="image/jpg" src="../../media/Figure_12_01_02.jpg" width="320"/>
+</media>
+<caption>In one of his experiments on inheritance patterns, Mendel crossed plants that were true-breeding for violet flower color with plants true-breeding for white flower color (the P generation). The resulting hybrids in the F<sub>1</sub> generation all had violet flowers. In the F<sub>2</sub> generation, approximately three quarters of the plants had violet flowers, and one quarter had white flowers.</caption></figure>
+</section>
+<section id="fs-id1396419" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14 ost-get-exercise">
+<title>Garden Pea Characteristics Revealed the Basics of Heredity</title>
+<para id="fs-id1373802">In his 1865 publication, Mendel reported the results of his crosses involving seven different characteristics, each with two contrasting traits. A <term>trait</term> is defined as a variation in the physical appearance of a heritable characteristic. The characteristics included plant height, seed texture, seed color, flower color, pea pod size, pea pod color, and flower position. For the characteristic of flower color, for example, the two contrasting traits were white versus violet. To fully examine each characteristic, Mendel generated large numbers of F<sub>1 </sub>and F<sub>2</sub> plants, reporting results from 19,959 F<sub>2</sub> plants alone. His findings were consistent.</para>
+<para id="fs-id2000007">What results did Mendel find in his crosses for flower color? First, Mendel confirmed that he had plants that bred true for white or violet flower color. Regardless of how many generations Mendel examined, all self-crossed offspring of parents with white flowers had white flowers, and all self-crossed offspring of parents with violet flowers had violet flowers. In addition, Mendel confirmed that, other than flower color, the pea plants were physically identical.</para>
+<para id="fs-id2018996">Once these validations were complete, Mendel applied the pollen from a plant with violet flowers to the stigma of a plant with white flowers. After gathering and sowing the seeds that resulted from this cross, Mendel found that 100 percent of the F<sub>1</sub> hybrid generation had violet flowers. Conventional wisdom at that time would have predicted the hybrid flowers to be pale violet or for hybrid plants to have equal numbers of white and violet flowers. In other words, the contrasting parental traits were expected to blend in the offspring. Instead, Mendel’s results demonstrated that the white flower trait in the F<sub>1</sub> generation had completely disappeared.</para>
+<para id="fs-id1999817">Importantly, Mendel did not stop his experimentation there. He allowed the F<sub>1</sub> plants to self-fertilize and found that, of F<sub>2</sub>-generation plants, 705 had violet flowers and 224 had white flowers. This was a ratio of 3.15 violet flowers per one white flower, or approximately 3:1. When Mendel transferred pollen from a plant with violet flowers to the stigma of a plant with white flowers and vice versa, he obtained about the same ratio regardless of which parent, male or female, contributed which trait. This is called a <term>reciprocal cross</term>—a paired cross in which the respective traits of the male and female in one cross become the respective traits of the female and male in the other cross. For the other six characteristics Mendel examined, the F<sub>1</sub> and F<sub>2</sub> generations behaved in the same way as they had for flower color. One of the two traits would disappear completely from the F<sub>1</sub> generation only to reappear in the F<sub>2</sub> generation at a ratio of approximately 3:1 (<link target-id="tab-ch12-01-01" document=""/>).</para>
+<table id="tab-ch12-01-01" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14 top-titled" summary=""><tgroup cols="1">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <colspec colnum="3" colname="col3"/>
+                <colspec colnum="4" colname="col4"/>
+                <colspec colnum="5" colname="col5"/>
+
+<thead>
+<row>
+<entry namest="col1" nameend="col5" align="left">The Results of Mendel’s Garden Pea Hybridizations</entry>
+</row>
+<row>
+<entry>Characteristic</entry>
+<entry>Contrasting P<sub>0</sub> Traits</entry>
+<entry>F<sub>1</sub> Offspring Traits</entry>
+<entry>F<sub>2</sub> Offspring Traits</entry>
+<entry>F<sub>2</sub> Trait Ratios</entry>
+</row>
+</thead>
+<tbody>
+<row><entry>Flower color</entry>
+<entry>Violet vs. white</entry>
+<entry>100 percent violet</entry>
+<entry>
+<list id="eip-547" list-type="bulleted" bullet-style="none"><item>705 violet</item>
+<item>224 white</item></list></entry>
+<entry>3.15:1</entry></row>
+<row><entry>Flower position</entry>
+<entry>Axial vs. terminal</entry>
+<entry>100 percent axial</entry>
+<entry><list id="fs-id3032232" list-type="bulleted" bullet-style="none"><item>651 axial</item>
+<item>207 terminal</item>
+</list></entry>
+<entry>3.14:1</entry></row>
+<row><entry>Plant height</entry>
+<entry>Tall vs. dwarf</entry>
+<entry>100 percent tall</entry>
+<entry><list id="eip-189" list-type="bulleted" bullet-style=""><item>787 tall</item>
+<item>277 dwarf</item>
+</list></entry>
+<entry>2.84:1</entry></row>
+<row><entry>Seed texture</entry>
+<entry>Round vs. wrinkled</entry>
+<entry>100 percent round</entry>
+<entry><list id="fs-id1684663" list-type="bulleted" bullet-style="none"><item>5,474 round</item>
+<item>1,850 wrinkled</item>
+</list></entry>
+<entry>2.96:1</entry></row>
+<row><entry>Seed color</entry>
+<entry>Yellow vs. green</entry>
+<entry>100 percent yellow</entry>
+<entry><list id="fs-id1808010" list-type="bulleted" bullet-style="none"><item>6,022 yellow</item>
+<item>2,001 green</item>
+</list></entry>
+<entry>3.01:1</entry></row>
+<row><entry>Pea pod texture</entry>
+<entry>Inflated vs. constricted</entry>
+<entry>100 percent inflated</entry>
+<entry><list id="fs-id2026434" list-type="bulleted" bullet-style="none"><item>882 inflated</item>
+<item>299 constricted</item>
+</list></entry>
+<entry>2.95:1</entry></row>
+<row><entry>Pea pod color</entry>
+<entry>Green vs. yellow</entry>
+<entry>100 percent green</entry>
+<entry><list id="fs-id1808846" list-type="bulleted" bullet-style="none"><item>428 green</item>
+<item>152 yellow</item>
+</list></entry>
+<entry>2.82:1</entry></row>
+</tbody>
+</tgroup>
+</table><para id="fs-id2187561">Upon compiling his results for many thousands of plants, Mendel concluded that the characteristics could be divided into expressed and latent traits. He called these, respectively, dominant and recessive traits. <term>Dominant traits</term> are those that are inherited unchanged in a hybridization. <term>Recessive traits</term> become latent, or disappear, in the offspring of a hybridization. The recessive trait does, however, reappear in the progeny of the hybrid offspring. An example of a dominant trait is the violet-flower trait. For this same characteristic (flower color), white-colored flowers are a recessive trait. The fact that the recessive trait reappeared in the F<sub>2</sub> generation meant that the traits remained separate (not blended) in the plants of the F<sub>1</sub> generation. Mendel also proposed that plants possessed two copies of the trait for the flower-color characteristic, and that each parent transmitted one of its two copies to its offspring, where they came together. Moreover, the physical observation of a dominant trait could mean that the genetic composition of the organism included two dominant versions of the characteristic or that it included one dominant and one recessive version. Conversely, the observation of a recessive trait meant that the organism lacked any dominant versions of this characteristic.</para><para id="fs-id2688486">So why did Mendel repeatedly obtain 3:1 ratios in his crosses? To understand how Mendel deduced the basic mechanisms of inheritance that lead to such ratios, we must first review the laws of probability.</para>
+</section>
+<note id="fs-id1167067225363" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch12-s01-lo02">
+<label>Science Practices Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066832196" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch12-s01-aplo-3-14">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167066955819" class=" ost-tag-lo-apbio-ch12-s01-aplo-2-12 unnumbered">
+<label/>
+<problem id="fs-id1167067000414">
+<para id="fs-id1167067197171">Students are performing a cross involving seed color in garden pea plants. Yellow seed color is dominant to green seed color. What F1 offspring would be expected when cross true-breeding plants with green seeds with true-breading plants with yellow seeds? Express the answer(s) as percentage.</para>
+</problem>
+</exercise>
+</note>
+</note>
+<note id="fs-id1167066939580" class="os-teacher"><label>Teacher Support</label>
+<para id="fs-id1167067084787">This question is an application of Learning Objectives 3.14 and Science Practice 2.2 because students are applying a mathematical routine (probability) to determine a Mendelian pattern of inheritance.</para>
+<note id="fs-id1167067070782"><title>Possible answer:</title> 100% would be yellow seeds. The dominant trait is the only one displayed in F1.</note>
+</note><section id="fs-id2003118" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14 ost-get-exercise">
+<title>Probability Basics</title>
+<para id="fs-id1771773">Probabilities are mathematical measures of likelihood. The empirical probability of an event is calculated by dividing the number of times the event occurs by the total number of opportunities for the event to occur. It is also possible to calculate theoretical probabilities by dividing the number of times that an event is expected to occur by the number of times that it could occur. Empirical probabilities come from observations, like those of Mendel. Theoretical probabilities come from knowing how the events are produced and assuming that the probabilities of individual outcomes are equal. A probability of one for some event indicates that it is guaranteed to occur, whereas a probability of zero indicates that it is guaranteed not to occur. An example of a genetic event is a round seed produced by a pea plant. In his experiment, Mendel demonstrated that the probability of the event “round seed” occurring was one in the F<sub>1</sub> offspring of true-breeding parents, one of which has round seeds and one of which has wrinkled seeds. When the F<sub>1</sub> plants were subsequently self-crossed, the probability of any given F<sub>2</sub> offspring having round seeds was now three out of four. In other words, in a large population of F<sub>2</sub> offspring chosen at random, 75 percent were expected to have round seeds, whereas 25 percent were expected to have wrinkled seeds. Using large numbers of crosses, Mendel was able to calculate probabilities and use these to predict the outcomes of other crosses.</para></section>
+<section id="fs-id1805576" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14 ost-get-exercise">
+<title>The Product Rule and Sum Rule</title>
+<para id="fs-id1798638">Mendel demonstrated that the pea-plant characteristics he studied were transmitted as discrete units from parent to offspring. As will be discussed, Mendel also determined that different characteristics, like seed color and seed texture, were transmitted independently of one another and could be considered in separate probability analyses. For instance, performing a cross between a plant with green, wrinkled seeds and a plant with yellow, round seeds still produced offspring that had a 3:1 ratio of green:yellow seeds (ignoring seed texture) and a 3:1 ratio of round:wrinkled seeds (ignoring seed color). The characteristics of color and texture did not influence each other.</para>
+<para id="fs-id1780876">The <term>product rule</term> of probability can be applied to this phenomenon of the independent transmission of characteristics. The product rule states that the probability of two independent events occurring together can be calculated by multiplying the individual probabilities of each event occurring alone. To demonstrate the product rule, imagine that you are rolling a six-sided die (D) and flipping a penny (P) at the same time. The die may roll any number from 1–6 (D<sub>#</sub>), whereas the penny may turn up heads (P<sub>H</sub>) or tails (P<sub>T</sub>). The outcome of rolling the die has no effect on the outcome of flipping the penny and vice versa. There are 12 possible outcomes of this action (<link target-id="tab-ch12-01-02" document=""/>), and each event is expected to occur with equal probability.</para>
+<table id="tab-ch12-01-02" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14 top-titled" summary=""><tgroup cols="1">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="left">Twelve Equally Likely Outcomes of Rolling a Die and Flipping a Penny</entry>
+</row>
+<row><entry align="center">Rolling Die</entry>
+<entry align="center">Flipping Penny</entry></row>
+</thead>
+<tbody>
+<row><entry align="center">D<sub>1</sub></entry>	<entry align="center">P<sub>H</sub></entry></row>
+<row><entry align="center">D<sub>1</sub></entry>	<entry align="center">P<sub>T</sub></entry></row>
+<row><entry align="center">D<sub>2</sub></entry>	<entry align="center">P<sub>H</sub></entry></row>
+<row><entry align="center">D<sub>2</sub></entry>	<entry align="center">P<sub>T</sub></entry></row>
+<row><entry align="center">D<sub>3</sub></entry>	<entry align="center">P<sub>H</sub></entry></row>
+<row><entry align="center">D<sub>3</sub></entry>	<entry align="center">P<sub>T</sub></entry></row>
+<row><entry align="center">D<sub>4</sub></entry>	<entry align="center">P<sub>H</sub></entry></row>
+<row><entry align="center">D<sub>4</sub></entry>	<entry align="center">P<sub>T</sub></entry></row>
+<row><entry align="center">D<sub>5</sub></entry>	<entry align="center">P<sub>H</sub></entry></row>
+<row><entry align="center">D<sub>5</sub></entry>	<entry align="center">P<sub>T</sub></entry></row>
+<row><entry align="center">D<sub>6</sub></entry>	<entry align="center">P<sub>H</sub></entry></row>
+<row><entry align="center">D<sub>6</sub></entry>	<entry align="center">P<sub>T</sub></entry></row>
+</tbody>
+</tgroup>
+</table><para id="fs-id2316750">Of the 12 possible outcomes, the die has a 2/12 (or 1/6) probability of rolling a two, and the penny has a 6/12 (or 1/2) probability of coming up heads. By the product rule, the probability that you will obtain the combined outcome 2 and heads is: (D<sub>2</sub>) x (P<sub>H</sub>) = (1/6) x (1/2) or 1/12 (<link target-id="tab-ch12-01-03" document=""/>). Notice the word “and” in the description of the probability. The “and” is a signal to apply the product rule. For example, consider how the product rule is applied to the dihybrid cross: the probability of having both dominant traits (for example, yellow and round) in the F<sub>2</sub> progeny is the product of the probabilities of having the dominant trait for each characteristic, as shown here:</para><equation id="eip-772"><m:math display="block">
+ <m:mrow>
+  <m:mfrac bevelled="true">
+   <m:mn>3</m:mn>
+   <m:mn>4</m:mn>
+  </m:mfrac>
+  <m:mtext> </m:mtext><m:mo>×</m:mo><m:mtext> </m:mtext><m:mfrac bevelled="true">
+   <m:mn>3</m:mn>
+   <m:mn>4</m:mn>
+  </m:mfrac>
+<m:mtext> </m:mtext><m:mo>=</m:mo><m:mtext> </m:mtext><m:mtext>​</m:mtext><m:mfrac bevelled="true">
+   <m:mn>9</m:mn>
+   <m:mrow>
+    <m:mn>16</m:mn>
+   </m:mrow>
+  </m:mfrac>
+ </m:mrow>
+</m:math>
+</equation><para id="fs-id1512071">On the other hand, the <term>sum rule</term> of probability is applied when considering two mutually exclusive outcomes that can come about by more than one pathway. The sum rule states that the probability of the occurrence of one event or the other event, of two mutually exclusive events, is the sum of their individual probabilities. Notice the word “or” in the description of the probability. The “or” indicates that you should apply the sum rule. In this case, let’s imagine you are flipping a penny (P) and a quarter (Q). What is the probability of one coin coming up heads and one coin coming up tails? This outcome can be achieved by two cases: the penny may be heads (P<sub>H</sub>) and the quarter may be tails (Q<sub>T</sub>), or the quarter may be heads (Q<sub>H</sub>) and the penny may be tails (P<sub>T</sub>). Either case fulfills the outcome. By the sum rule, we calculate the probability of obtaining one head and one tail as [(P<sub>H</sub>) × (Q<sub>T</sub>)] + [(Q<sub>H</sub>) × (P<sub>T</sub>)] = [(1/2) × (1/2)] + [(1/2) × (1/2)] = 1/2 (<link target-id="tab-ch12-01-03" document=""/>). You should also notice that we used the product rule to calculate the probability of P<sub>H</sub> and Q<sub>T</sub>, and also the probability of P<sub>T</sub> and Q<sub>H</sub>, before we summed them. Again, the sum rule can be applied to show the probability of having at least one dominant trait in the F<sub>2</sub> generation of a dihybrid cross:</para>
+<equation id="fs-id1760400"><m:math display="block">
+ <m:mrow>
+   <m:mo>(</m:mo>
+   <m:mfrac bevelled="true">
+      <m:mn>1</m:mn>
+      <m:mrow>
+       <m:mn>4</m:mn>
+      </m:mrow>
+     </m:mfrac>
+   <m:mo>×</m:mo>
+   <m:mfrac bevelled="true">
+      <m:mn>3</m:mn>
+      <m:mrow>
+       <m:mn>4</m:mn>
+      </m:mrow>
+     </m:mfrac>
+   <m:mo>)</m:mo>
+   <m:mo>+</m:mo>
+   <m:mo>(</m:mo>
+   <m:mfrac bevelled="true">
+      <m:mn>3</m:mn>
+      <m:mrow>
+       <m:mn>4</m:mn>
+      </m:mrow>
+     </m:mfrac>
+   <m:mo>×</m:mo>
+   <m:mfrac bevelled="true">
+      <m:mn>1</m:mn>
+      <m:mrow>
+       <m:mn>4</m:mn>
+      </m:mrow>
+     </m:mfrac>
+   <m:mo>)</m:mo>
+   <m:mo>=</m:mo>
+   <m:mfrac bevelled="true">
+      <m:mn>3</m:mn>
+      <m:mrow>
+       <m:mn>16</m:mn>
+      </m:mrow>
+     </m:mfrac>
+   <m:mo>+</m:mo>
+   <m:mfrac bevelled="true">
+      <m:mn>3</m:mn>
+      <m:mrow>
+       <m:mn>16</m:mn>
+      </m:mrow>
+     </m:mfrac>
+   <m:mo>=</m:mo>
+   <m:mfrac bevelled="true">
+      <m:mn>6</m:mn>
+      <m:mrow>
+       <m:mn>16</m:mn>
+      </m:mrow>
+     </m:mfrac>
+   <m:mo>=</m:mo>
+   <m:mfrac bevelled="true">
+      <m:mn>3</m:mn>
+      <m:mrow>
+       <m:mn>8</m:mn>
+      </m:mrow>
+     </m:mfrac>
+ </m:mrow>
+</m:math>
+</equation>
+<table id="tab-ch12-01-03" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14 top-titled" summary="">
+<tgroup cols="1">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="left">The Product Rule and Sum Rule</entry>
+</row>
+<row>
+<entry>Product Rule</entry>
+<entry>Sum Rule</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>For independent events A and B, the probability (P) of them both occurring (A <emphasis effect="italics">and</emphasis> B) is (P<sub>A</sub> × P<sub>B</sub>)</entry>
+<entry>For mutually exclusive events A and B, the probability (P) that at least one occurs (A <emphasis effect="italics">or</emphasis> B) is (P<sub>A</sub> + P<sub>B</sub>)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1570444">To use probability laws in practice, it is necessary to work with large sample sizes because small sample sizes are prone to deviations caused by chance. The large quantities of pea plants that Mendel examined allowed him calculate the probabilities of the traits appearing in his F<sub>2</sub> generation. As you will learn, this discovery meant that when parental traits were known, the offspring’s traits could be predicted accurately even before fertilization.</para>
+</section>
+
+<section id="fs-id2048421" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1702829">Working with garden pea plants, Mendel found that crosses between parents that differed by one trait produced F<sub>1</sub> offspring that all expressed the traits of one parent. Observable traits are referred to as dominant, and non-expressed traits are described as recessive. When the offspring in Mendel’s experiment were self-crossed, the F<sub>2</sub> offspring exhibited the dominant trait or the recessive trait in a 3:1 ratio, confirming that the recessive trait had been transmitted faithfully from the original P<sub>0</sub> parent. Reciprocal crosses generated identical F<sub>1</sub> and F<sub>2</sub> offspring ratios. By examining sample sizes, Mendel showed that his crosses behaved reproducibly according to the laws of probability, and that the traits were inherited as independent events.</para>
+<para id="fs-id2216009">Two rules in probability can be used to find the expected proportions of offspring of different traits from different crosses. To find the probability of two or more independent events occurring together, apply the product rule and multiply the probabilities of the individual events. The use of the word “and” suggests the appropriate application of the product rule. To find the probability of two or more events occurring in combination, apply the sum rule and add their individual probabilities together. The use of the word “or” suggests the appropriate application of the sum rule.</para>
+</section>
+
+<section id="fs-id1167067050663" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167063563539" class="os-exercise">
+<problem id="fs-id1167063499146">
+<para id="fs-id1167067019589">
+<link class="os-embed" url="#ost/api/ex/apbio-ch12-ex001"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066971925" class="os-exercise">
+<problem id="fs-id1167067147274">
+<para id="fs-id1167066851548">
+<link class="os-embed" url="#ost/api/ex/apbio-ch12-ex002"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067176106" class="os-exercise">
+<problem id="fs-id1167063582331">
+<para id="fs-id1167067012985">
+<link class="os-embed" url="#ost/api/ex/apbio-ch12-ex003"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066878229" class="os-exercise">
+<problem id="fs-id1167066868484">
+<para id="fs-id1167067041900">
+<link class="os-embed" url="#ost/api/ex/apbio-ch12-ex004"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167067101291" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167067149992" class="os-exercise">
+<problem id="fs-id1167067147900">
+<para id="fs-id1167066958772">
+<link class="os-embed" url="#ost/api/ex/apbio-ch12-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067049547" class="os-exercise">
+<problem id="fs-id1167066855702">
+<para id="fs-id1167066851567">
+<link class="os-embed" url="#ost/api/ex/apbio-ch12-ex006"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-id1777919"><term>blending theory of inheritance</term> <meaning id="fs-id2575162">hypothetical inheritance pattern in which parental traits are blended together in the offspring to produce an intermediate physical appearance</meaning></definition>
+<definition id="fs-id1434153"><term>continuous variation</term> <meaning id="fs-id2642255">inheritance pattern in which a character shows a range of trait values with small gradations rather than large gaps between them</meaning></definition>
+<definition id="fs-id2197332"><term>discontinuous variation</term> <meaning id="fs-id2187731">inheritance pattern in which traits are distinct and are transmitted independently of one another</meaning></definition>
+<definition id="fs-id1456317"><term>dominant</term> <meaning id="fs-id1693542">trait which confers the same physical appearance whether an individual has two copies of the trait or one copy of the dominant trait and one copy of the recessive trait</meaning></definition>
+<definition id="fs-id1987203"><term>F<sub>1</sub></term> <meaning id="fs-id1986270">first filial generation in a cross; the offspring of the parental generation</meaning></definition>
+<definition id="fs-id1570463"><term>F<sub>2</sub></term> <meaning id="fs-id2073286">second filial generation produced when F<sub>1</sub> individuals are self-crossed or fertilized with each other</meaning></definition>
+<definition id="fs-id1455588"><term>hybridization</term> <meaning id="fs-id2642534">process of mating two individuals that differ with the goal of achieving a certain characteristic in their offspring</meaning></definition>
+<definition id="fs-id1808911"><term>model system</term> <meaning id="fs-id1387087">species or biological system used to study a specific biological phenomenon to be applied to other different species</meaning></definition>
+<definition id="fs-id1870752"><term>P<sub>0</sub></term> <meaning id="fs-id1875997">parental generation in a cross</meaning></definition>
+<definition id="fs-id1812494"><term>product rule</term> <meaning id="fs-id1571215">probability of two independent events occurring simultaneously can be calculated by multiplying the individual probabilities of each event occurring alone</meaning></definition>
+<definition id="fs-id1417271"><term>recessive</term> <meaning id="fs-id1650827">trait that appears “latent” or non-expressed when the individual also carries a dominant trait for that same characteristic; when present as two identical copies, the recessive trait is expressed</meaning></definition>
+<definition id="fs-id1788406"><term>reciprocal cross</term> <meaning id="fs-id2228252">paired cross in which the respective traits of the male and female in one cross become the respective traits of the female and male in the other cross</meaning></definition>
+<definition id="fs-id2010265"><term>sum rule</term> <meaning id="fs-id1822101">probability of the occurrence of at least one of two mutually exclusive events is the sum of their individual probabilities</meaning></definition>
+<definition id="fs-id2073375"><term>trait</term> <meaning id="fs-id1424907">variation in the physical appearance of a heritable characteristic</meaning></definition>
+</glossary>
+</document>

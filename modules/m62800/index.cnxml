@@ -1,0 +1,339 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Response to the Signal</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62800</md:content-id>
+  <md:title>Response to the Signal</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how signaling pathways direct protein expression, cellular metabolism, and cell growth</item>
+<item>Identify the function of PKC in signal transduction pathways</item>
+<item>Recognize the role of apoptosis in the development and maintenance of a healthy organism</item>
+</list></md:abstract>
+  <md:uuid>8372d122-4ac0-4ed7-98f8-7b3d8f16a513</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167067054274" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167066956208">In this section you will explore the following questions:</para>
+<list id="fs-id1167063496502">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch09-s03-lo01">How do signaling pathways direct protein expression, cellular metabolism, and cell growth?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch09-s03-lo02">What is the role of apoptosis in the development and maintenance of a healthy organism?</item>
+</list>
+</section>
+<section id="fs-id1167067015449" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066938460">The initiation of a signaling pathway results in a cellular response to changes in the external environment. This response can take many different forms, including protein synthesis, a change in cell metabolism, cell division and growth, or even cell death. As we will explore in more detail in later chapters, some pathways activate enzymes that interact within DNA transcription factors to promote gene expression, others can cause cells to store energy as glycogen as fat, or result in free energy availability in the form of glucose. Cell division and growth are almost always stimulated by external signals called growth factors; left unregulated, cell growth leads to cancer. Programmed cell death, or apoptosis, removes damaged or unnecessary cells and plays a vital role in development, including morphogenesis of fingers and toes. Termination of the cell signaling cascade is important to ensure that the response to a signal is appropriate in timing and intensity. Degradation of signaling molecules and dephosphorylation of intermediates of the pathway are two ways signals are terminated within cells. Conditions where signaling pathways are blocked or defective can be deleterious, preventative, or prophylactic; examples include diabetes, heart disease, autoimmune disease, toxins, anesthetics, and birth control pills.</para>
+<para id="fs-id1167067053284" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and learning objectives outlined in Big Idea 3 and Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para><table id="fs-id1167066859810" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.4 Changes in signal transduction pathways can alter cellular response. Second left cell reads: Science Practice. Second right cell reads: 1.5 The student can re-express key elements of natural phenomena across multiple representations in the domain. Third left cell reads: Learning Objective. Third right cell reads: 3.36 The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.D</emphasis></entry>
+<entry class="ost-standards-description">Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.D.4</emphasis></span>
+<span class="ost-standards-description">Changes in signal transduction pathways can alter cellular response.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.5</emphasis></span>
+<span class="ost-standards-description">The student can re-express key elements of natural phenomena across multiple representations in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch09-s03-aplo-3-36">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.36</emphasis></span>
+<span class="ost-standards-description">The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.D.4</emphasis></span>
+<span class="ost-standards-description">Changes in signal transduction pathways can alter cellular response.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.1</emphasis></span>
+<span class="ost-standards-description">The student can justify claims with evidence.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch09-s03-aplo-3-37">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.37</emphasis></span>
+<span class="ost-standards-description">The student is able to justify claims based on scientific evidence that changes in signal transduction pathways can alter cellular response.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.D.4</emphasis></span>
+<span class="ost-standards-description">Changes in signal transduction pathways can alter cellular response.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch09-s03-aplo-3-39">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.39</emphasis></span>
+<span class="ost-standards-description">The student is able to construct an explanation of how certain drugs affect signal reception and, consequently, signal transduction pathways.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-e"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.E</emphasis></entry>
+<entry class="ost-standards-description">Many biological processes involved in growth, reproduction and dynamic homeostasis include temporal regulation and coordination.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-e-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.E.1</emphasis></span>
+<span class="ost-standards-description">Timing and coordination of specific events are necessary for the normal development of an organism, and these events are regulated by a variety of mechanisms.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1</emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch09-s03-aplo-2-34">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.34</emphasis></span>
+<span class="ost-standards-description">The student is able to describe the role of programmed cell death in development and differentiation, the reuse of molecules, and the maintenance of dynamic homeostasis.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+<note id="fs-id1167066843089" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067087028">Remind students that response to the environment is one of the characteristics of life. Organisms must be able to perceive changes in the environment in order to survive. Ask students to make a list of which changes an organism should perceive to survive. The list may include availability of nutrients, changes in physical conditions, perception of noxious chemicals and the presence of predators. Multicellular organisms must be able to coordinate the responses of their cells. The integration of responses first requires signal transmission, then reception and transduction. The signaling pathways can easily confuse students. Many enzymes and other proteins are involved in cascading reactions. This <link window="new" url="http://openstax.org/l/32cellcomm">website</link> offers clear explanations of signal transduction and a number of activities to engage students using the flight-or-flight response as an example. The activity, “Dealing Signals,” can help students understand signaling pathways asks them to act as the components of a signaling pathway by taking cues from cell communication cards. Students mimic signaling pathways by running in place, interacting with specific classmates by either bumping into them or holding them, and leaning or lifting arms to simulate conformational changes.</para>
+</note>
+<para id="fs-id1166848665342">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 3.33][APLO 3.35]</para><para id="fs-id2030121">Inside the cell, ligands bind to their internal receptors, allowing them to directly affect the cell’s DNA and protein-producing machinery. Using signal transduction pathways, receptors in the plasma membrane produce a variety of effects on the cell. The results of signaling pathways are extremely varied and depend on the type of cell involved as well as the external and internal conditions. A small sampling of responses is described below.</para>
+<section id="fs-id2745977" class="ost-tag-lo-apbio-ch09-s03-lo01 ost-tag-lo-apbio-ch09-s03-aplo-3-37 ost-get-exercise">
+<title>Gene Expression</title>
+<para id="fs-id2919345">Some signal transduction pathways regulate the transcription of RNA. Others regulate the translation of proteins from mRNA. An example of a protein that regulates translation in the nucleus is the MAP kinase ERK. ERK is activated in a phosphorylation cascade when epidermal growth factor (EGF) binds the EGF receptor (see <link target-id="fig-ch09_02_01" document="m62799" class="has-default-text"/>). Upon phosphorylation, ERK enters the nucleus and activates a protein kinase that, in turn, regulates protein translation (<link target-id="fig-ch09_03_01" document="m62800"/>).</para><figure id="fig-ch09_03_01" class="ost-tag-lo-apbio-ch09-s03-lo01 ost-tag-lo-apbio-ch09-s03-aplo-3-36"><media id="fs-id2258365" alt="This illustration shows the pathway by which ERK, a MAP kinase, activates protein synthesis. Phosphorylated ERK phosphorylates MNK1, which in turn phosphorylates eIF-4E, which is associated with mRNA. When eIF-4E is phosphorylated, the mRNA unfolds and protein synthesis begins.">
+<image mime-type="image/jpg" src="../../media/Figure_09_03_01-0225.jpg" width="320"/>
+</media>
+    <caption>ERK is a MAP kinase that activates translation when it is phosphorylated. ERK phosphorylates MNK1, which in turn phosphorylates eIF-4E, an elongation initiation factor that, with other initiation factors, is associated with mRNA. When eIF-4E becomes phosphorylated, the mRNA unfolds, allowing protein synthesis in the nucleus to begin. (See <link target-id="fig-ch09_02_01" document="m62799" class="has-default-text"/> for the phosphorylation pathway that activates ERK.)</caption></figure><para id="fs-id1958404">The second kind of protein with which PKC can interact is a protein that acts as an inhibitor. An <term>inhibitor</term> is a molecule that binds to a protein and prevents it from functioning or reduces its function. In this case, the inhibitor is a protein called Iκ-B, which binds to the regulatory protein NF-κB. (The symbol κ represents the Greek letter kappa.) When Iκ-B is bound to NF-κB, the complex cannot enter the nucleus of the cell, but when Iκ-B is phosphorylated by PKC, it can no longer bind NF-κB, and NF-κB (a transcription factor) can enter the nucleus and initiate RNA transcription. In this case, the effect of phosphorylation is to inactivate an inhibitor and thereby activate the process of transcription.</para>
+</section>
+<section id="fs-id1467010" class="ost-tag-lo-apbio-ch09-s03-lo01 ost-tag-lo-apbio-ch09-s03-aplo-3-37 ost-get-exercise">
+<title>Increase in Cellular Metabolism</title>
+<para id="fs-id1465544">The result of another signaling pathway affects muscle cells. The activation of β-adrenergic receptors in muscle cells by adrenaline leads to an increase in cyclic AMP (cAMP) inside the cell. Also known as epinephrine, adrenaline is a hormone (produced by the adrenal gland attached to the kidney) that readies the body for short-term emergencies. Cyclic AMP activates PKA (protein kinase A), which in turn phosphorylates two enzymes. The first enzyme promotes the degradation of glycogen by activating intermediate glycogen phosphorylase kinase (GPK) that in turn activates glycogen phosphorylase (GP) that catabolizes glycogen into glucose. (Recall that your body converts excess glucose to glycogen for short-term storage. When energy is needed, glycogen is quickly reconverted to glucose.) Phosphorylation of the second enzyme, glycogen synthase (GS), inhibits its ability to form glycogen from glucose. In this manner, a muscle cell obtains a ready pool of glucose by activating its formation via glycogen degradation and by inhibiting the use of glucose to form glycogen, thus preventing a futile cycle of glycogen degradation and synthesis. The glucose is then available for use by the muscle cell in response to a sudden surge of adrenaline—the “fight or flight” reflex.</para>
+</section>
+<section id="fs-id2984656" class="ost-tag-lo-apbio-ch09-s03-lo01 ost-tag-lo-apbio-ch09-s03-aplo-3-37 ost-get-exercise">
+<title>Cell Growth</title>
+<para id="fs-id2319045">Cell signaling pathways also play a major role in cell division. Cells do not normally divide unless they are stimulated by signals from other cells. The ligands that promote cell growth are called <term>growth factors</term>. Most growth factors bind to cell-surface receptors that are linked to tyrosine kinases. These cell-surface receptors are called receptor tyrosine kinases (RTKs). Activation of RTKs initiates a signaling pathway that includes a G-protein called RAS, which activates the MAP kinase pathway described earlier. The enzyme MAP kinase then stimulates the expression of proteins that interact with other cellular components to initiate cell division.</para>
+<note id="fs-id1480636" class="career ost-feature ost-tag-lo-apbio-ch09-s03-lo01 ost-tag-lo-apbio-ch09-s03-aplo-lo-3-39"><title>Cancer Biologist</title>
+
+<para id="fs-id1167064872187">Cancer biologists study the molecular origins of cancer with the goal of developing new prevention methods and treatment strategies that will inhibit the growth of tumors without harming the normal cells of the body. As mentioned earlier, signaling pathways control cell growth. These signaling pathways are controlled by signaling proteins, which are, in turn, expressed by genes. Mutations in these genes can result in malfunctioning signaling proteins. This prevents the cell from regulating its cell cycle, triggering unrestricted cell division and cancer. The genes that regulate the signaling proteins are one type of oncogene, which is a gene that has the potential to cause cancer. The gene encoding RAS is an oncogene that was originally discovered when mutations in the RAS protein were linked to cancer. Further studies have indicated that 30 percent of cancer cells have a mutation in the RAS gene that leads to uncontrolled growth. If left unchecked, uncontrolled cell division can lead to tumor formation and metastasis, the growth of cancer cells in new locations in the body.</para><para id="fs-id2305543">Cancer biologists have been able to identify many other oncogenes that contribute to the development of cancer. For example, HER2 is a cell-surface receptor that is present in excessive amounts in 20 percent of human breast cancers. Cancer biologists realized that gene duplication led to HER2 overexpression in 25 percent of breast cancer patients and developed a drug called Herceptin (trastuzumab). Herceptin is a monoclonal antibody that targets HER2 for removal by the immune system. Herceptin therapy helps to control signaling through HER2. The use of Herceptin in combination with chemotherapy has helped to increase the overall survival rate of patients with metastatic breast cancer.</para>
+<para id="fs-id2897178">More information on cancer biology research can be found at the National Cancer Institute <link window="new" url="http://openstax.org/l/32NCI">website</link>.</para></note></section>
+<section id="fs-id3241712" class="ost-tag-lo-apbio-ch09-s03-lo02 ost-tag-lo-apbio-ch09-s03-aplo-2-34 ost-get-exercise">
+<title>Cell Death</title>
+<para id="fs-id2278385">When a cell is damaged, superfluous, or potentially dangerous to an organism, a cell can initiate a mechanism to trigger programmed cell death, or <term>apoptosis</term>. Apoptosis allows a cell to die in a controlled manner that prevents the release of potentially damaging molecules from inside the cell. There are many internal checkpoints that monitor a cell’s health; if abnormalities are observed, a cell can spontaneously initiate the process of apoptosis. However, in some cases, such as a viral infection or uncontrolled cell division, the cell’s normal checks and balances fail. External signaling can also initiate apoptosis. For example, most normal animal cells have receptors that interact with the extracellular matrix, a network of glycoproteins that provides structural support for cells in an organism. The binding of cellular receptors to the extracellular matrix initiates a signaling cascade within the cell. However, if the cell moves away from the extracellular matrix, the signaling ceases, and the cell undergoes apoptosis. This system keeps cells from traveling through the body and proliferating out of control.</para>
+<para id="fs-id2781180">Another example of external signaling that leads to apoptosis occurs in T-cell development. T-cells are immune cells that bind to foreign macromolecules and particles, and target them for destruction by the immune system. Normally, T-cells do not target “self” proteins (those of their own organism), a process that can lead to autoimmune diseases. In order to develop the ability to discriminate between self and non-self, immature T-cells undergo screening to determine whether they bind to so-called self proteins. If the T-cell receptor binds to self proteins, the cell initiates apoptosis to remove the potentially dangerous cell.</para>
+<para id="fs-id1966349">Apoptosis is also essential for normal embryological development. In vertebrates, for example, early stages of development include the formation of web-like tissue between individual fingers and toes (<link target-id="fig-ch09_03_02" document=""/>). During the course of normal development, these unneeded cells must be eliminated, enabling fully separated fingers and toes to form. A cell signaling mechanism triggers apoptosis, which destroys the cells between the developing digits.</para>
+<figure id="fig-ch09_03_02" class="ost-tag-lo-apbio-ch09-s03-lo02 ost-tag-lo-apbio-ch09-s03-aplo-2-34"><media id="fs-id848549" alt="This photo shows a histological section of a foot of a 15-day-old mouse embryo. Tissue connects the space between the toes.">
+<image mime-type="image/jpg" src="../../media/Figure_09_03_02-cc77.jpg" width="200"/>
+</media>
+<caption>The histological section of a foot of a 15-day-old mouse embryo, visualized using light microscopy, reveals areas of tissue between the toes, which apoptosis will eliminate before the mouse reaches its full gestational age at 27 days. (credit: modification of work by Michal Mañas)</caption></figure></section>
+<section id="fs-id3032521" class="ost-tag-lo-apbio-ch09-s03-lo01 ost-tag-lo-apbio-ch09-s03-aplo-2-34 ost-get-exercise">
+<title>Termination of the Signal Cascade</title>
+<para id="fs-id2315383">The aberrant signaling often seen in tumor cells is proof that the termination of a signal at the appropriate time can be just as important as the initiation of a signal. One method of stopping a specific signal is to degrade the ligand or remove it so that it can no longer access its receptor. One reason that hydrophobic hormones like estrogen and testosterone trigger long-lasting events is because they bind carrier proteins. These proteins allow the insoluble molecules to be soluble in blood, but they also protect the hormones from degradation by circulating enzymes.</para>
+<para id="fs-id2682235">Inside the cell, many different enzymes reverse the cellular modifications that result from signaling cascades. For example, <term>phosphatases</term> are enzymes that remove the phosphate group attached to proteins by kinases in a process called dephosphorylation. Cyclic AMP (cAMP) is degraded into AMP by <term>phosphodiesterase</term>, and the release of calcium stores is reversed by the Ca<sup>2+</sup> pumps that are located in the external and internal membranes of the cell.</para>
+</section>
+<note id="fs-id1167066841611" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066876496" class="ost-assignable ost-sciprac-activity ost-tag-lo-apbio-ch09-s03-aplo-3-37 ost-tag-lo-apbio-ch09-s03-aplo-3-39">
+<para id="fs-id1167067084133">Explain the mechanism by which a specific disease is caused by a defective signaling pathway. Then, investigate online how a specific drug works by blocking a signaling pathway.</para>
+</note>
+</note>
+<note id="fs-id1167067041495" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067203003">This activity is an application of Learning Objective 3.37, Science Practice 6.1, Learning Objective 3.39, and Science Practice 6.2 because the students are asked to justify the claim based on evidence that changes in signaling pathways can alter cellular response and cause disease, and explain how a specific drug can affect a signaling pathway.</para>
+<note id="fs-id1167066838801" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167063674007">Another example is Parkinson’s disease, in which the brain cells that make dopamine slowly die. Without dopamine, the cells that control movement cannot send messages to the muscles. The primary treatment helps increase dopamine levels in the brain by supplementing with L-dopa, a drug that converts to dopamine in the brain, or drugs that mimic dopamine and bind to the receptor. Like dopamine, serotonin is a neurotransmitter. It is linked to positive mood, emotion, and sleep. Most antidepressants block the reuptake or breakdown of serotonin and are called selective serotonin reuptake inhibitors (SSRIs).</para>
+<para id="fs-id1167067276752">Stopping uncontrolled cell division is a major cancer research goal. The MAP kinase pathway stimulates the expression of proteins that interact with other cellular components to initiate cell division. By attacking proteins acting downstream in the MAP kinase, or MAPK pathway, cell division can be stopped or slowed down. One such protein is MEK. The Food and Drug Administration (FDA) recently approved one MEK inhibitor, trametinib (Mekinist™), for the treatment of certain patients with advanced melanoma.</para>
+</note>
+</note>
+
+<section id="fs-id1760576" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id2596138">The initiation of a signaling pathway is a response to external stimuli. This response can take many different forms, including protein synthesis, a change in the cell’s metabolism, cell growth, or even cell death. Many pathways influence the cell by initiating gene expression, and the methods utilized are quite numerous. Some pathways activate enzymes that interact with DNA transcription factors. Others modify proteins and induce them to change their location in the cell. Depending on the status of the organism, cells can respond by storing energy as glycogen or fat, or making it available in the form of glucose. A signal transduction pathway allows muscle cells to respond to immediate requirements for energy in the form of glucose. Cell growth is almost always stimulated by external signals called growth factors. Uncontrolled cell growth leads to cancer, and mutations in the genes encoding protein components of signaling pathways are often found in tumor cells. Programmed cell death, or apoptosis, is important for removing damaged or unnecessary cells. The use of cellular signaling to organize the dismantling of a cell ensures that harmful molecules from the cytoplasm are not released into the spaces between cells, as they are in uncontrolled death, necrosis. Apoptosis also ensures the efficient recycling of the components of the dead cell. Termination of the cellular signaling cascade is very important so that the response to a signal is appropriate in both timing and intensity. Degradation of signaling molecules and dephosphorylation of phosphorylated intermediates of the pathway by phosphatases are two ways to terminate signals within the cell.</para>
+</section>
+
+
+<section id="fs-id1167066881417" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167066810059" class="os-exercise">
+<problem id="fs-id1167067277746">
+<para id="fs-id1167066832725">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex025"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066835564" class="os-exercise">
+<problem id="fs-id1167063579900">
+<para id="fs-id1167067275467">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex026"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066791138" class="os-exercise">
+<problem id="fs-id1167066839448">
+<para id="fs-id1167066811425">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex027"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067006927" class="os-exercise">
+<problem id="fs-id1167067025577">
+<para id="fs-id1167063476701">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex028"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166851333002" class="os-exercise">
+<problem id="eip-id1166851311460">
+<para id="eip-id1166848922310">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ot018"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167063748593" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167067042841" class="os-exercise">
+<problem id="fs-id1167066810369">
+<para id="fs-id1167066992360">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex029"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066783059" class="os-exercise">
+<problem id="fs-id1167063817852">
+<para id="fs-id1167067067179">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex030"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166851325872" class="os-exercise">
+<problem id="eip-id1166851010143">
+<para id="eip-id1166848777381">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ot022"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167063772014" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167067041096" class="os-exercise">
+<problem id="fs-id1167066830078">
+<para id="fs-id1167063419870">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex013"/>
+</para>
+</problem>
+</exercise>
+<!--<exercise id="fs-id1167067184224" class="os-exercise">
+<problem id="fs-id1167067009579">
+<para id="fs-id1167063525796">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex014"/>
+</para>
+</problem>
+</exercise>-->
+<exercise id="fs-id1167067007373" class="os-exercise">
+<problem id="fs-id1167066838865">
+<para id="fs-id1167067271732">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex015"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066983735" class="os-exercise ost-tag-lo-apbio-ch09-s03-aplo-3-36">
+<problem id="fs-id1167067024737">
+<para id="fs-id1167067202025">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex031"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067048214" class="os-exercise">
+<problem id="fs-id1167067029414">
+<para id="fs-id1167066961566">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex032"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067226484" class="os-exercise">
+<problem id="fs-id1167067085449">
+<para id="fs-id1167067179200">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex033"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067045793" class="os-exercise">
+<problem id="fs-id1167063915019">
+<para id="fs-id1167067145695">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex034"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067132316" class="os-exercise">
+<problem id="fs-id1167066971072">
+<para id="fs-id1167066858820">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex035"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067294188" class="os-exercise">
+<problem id="fs-id1167067102150">
+<para id="fs-id1167066836650">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex036"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066974926" class="os-exercise">
+<problem id="fs-id1167066878115">
+<para id="fs-id1167066853661">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex037"/>
+</para>
+</problem>
+</exercise>
+<!--<exercise id="fs-id1167066880063" class="os-exercise">
+<problem id="fs-id1167067308248">
+<para id="fs-id1167067139969">
+<link class="os-embed" url="#ost/api/ex/apbio-ch09-ex038"/>
+</para>
+</problem>
+</exercise>-->
+</section>
+<section id="fs-id1164961819870" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164961908936">
+<problem id="fs-id1164966613023">
+<para id="fs-id1164966441275"><emphasis>Construct a graphical representation</emphasis> of information as a function of time during the transduction of a signal along a signaling pathway.</para>
+<para id="fs-id1164966594181">A. Use your graph to <emphasis>describe</emphasis> trends in the amount of information rather than the actual magnitude.  In sketching your graph, consider how the shape of the curve would change during these events:</para>
+<list id="fs-id1164966313624" list-type="enumerated" number-style="lower-roman"><item>extracellular first messenger</item>
+<item>receptor binding and conformational changes</item>
+<item>release of second messengers</item>
+<item>cellular responses</item>
+<item>halt signal and degrade intermediates</item>
+</list><para id="fs-id1164966497674">B. <emphasis>Annotate</emphasis> your representation for a specific signaling system, such as the effect of epinephrine on the free energy released from glucose.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2212395"><term>apoptosis</term> <meaning id="fs-id2573998">programmed cell death</meaning></definition>
+<definition id="fs-id1702829"><term>growth factor</term> <meaning id="fs-id1879649">ligand that binds to cell-surface receptors and stimulates cell growth</meaning></definition>
+<definition id="fs-id1293730"><term>inhibitor</term> <meaning id="fs-id2004572">molecule that binds to a protein (usually an enzyme) and keeps it from functioning</meaning></definition>
+<definition id="fs-id2308951"><term>phosphatase</term> <meaning id="fs-id1703103">enzyme that removes the phosphate group from a molecule that has been previously phosphorylated</meaning></definition>
+<definition id="fs-id1384518"><term>phosphodiesterase</term> <meaning id="fs-id2198144">enzyme that degrades cAMP, producing AMP, to terminate signaling</meaning></definition>
+</glossary>
+
+</document>

@@ -1,0 +1,308 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Oxidative Phosphorylation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62789</md:content-id>
+  <md:title>Oxidative Phosphorylation</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how electrons move through the electron transport chain and what happens to their energy levels</item>
+<item>Explain how a proton (H+) gradient is established and maintained by the electron transport chain</item>
+</list></md:abstract>
+  <md:uuid>70c7cd30-10a9-41d2-8cb2-78e909dd5f16</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167064872663" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167065913460">In this section, you will explore the following questions:</para>
+<list id="fs-id1167065062270">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch07-s04-lo01">How do electrons move through the electron transport chain and what happens to their energy levels?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch07-s04-lo02">How is a proton (H<sup>+</sup>) gradient established and maintained by the electron transport chain and how many ATP molecules are produced by chemiosmosis?</item>
+</list>
+</section>
+
+<section id="fs-id1167065698423" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167065885695">The electron transport chain (ETC) is the stage of aerobic respiration that uses free oxygen as the final electron acceptor of the electrons removed during glucose metabolism in glycolysis and the citric acid cycle. The ETC is located in membrane of the mitochondrial cristae, an area with many folds that increase the surface area available for chemical reactions. Electrons carried by NADH and FADH<sub>2</sub> are delivered to electron acceptor proteins embedded in the membrane as they move toward the final electron acceptor, O<sub>2</sub>, forming water. The electrons pass through a series of redox reactions, using free energy at three points to transport hydrogen ions across the membrane. This process contributes to the formation of the H<sup>+</sup> gradient used in chemiosmosis. As the protons are driven down their concentration gradient through ATP synthase, ATP is generated from ADP and inorganic phosphate. Under aerobic conditions, the stages of cellular respiration can generate 36-38 ATP.</para>
+<para id="fs-id1167065742546">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. As shown in the table, concepts covered in this section also align to the Learning Objectives listed in the Curriculum Framework that provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167065726074" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.1 All living systems require constant input of free energy. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Science Practice. Third right cell reads: 3.1 The student can pose scientific questions. Fourth left cell reads: Learning Objective. Fourth right cell reads: 2.4 The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.1 </emphasis></span>
+<span class="ost-standards-description">All living systems require constant input of free energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s04-aplo-2-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.4 </emphasis></span>
+<span class="ost-standards-description">The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.1 </emphasis></span>
+<span class="ost-standards-description">All living systems require constant input of free energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s04-aplo-2-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.5 </emphasis></span>
+<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store, or use free energy.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+
+<note id="fs-id1167066021220" class="os-teacher"><label>Teacher Support</label>
+<para id="fs-id1167065769770">Introduce oxidative phosphorylation using visuals such as this <link window="new" url="http://openstax.org/l/32oxidative">video</link>.</para><para id="fs-id1167065882950">Have students create a visual representation that shows an overview of glycolysis and the citric acid cycle and how the cycles relate to one another.</para>
+</note>
+<para id="fs-id1166849634700">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.5][APLO 2.15][APLO 2.18][APLO 2.22]</para><para id="fs-id2232480">You have just read about two pathways Introduce glucose catabolism—glycolysis and the citric acid cycle—that generate ATP. Most of the ATP generated during the aerobic catabolism of glucose, however, is not generated directly from these pathways. Rather, it is derived from a process that begins with moving electrons through a series of electron transporters that undergo redox reactions. This causes hydrogen ions to accumulate within the intermembranous space. Therefore, a concentration gradient forms in which hydrogen ions diffuse out of the intermembranous space into the mitochondrial matrix by passing through ATP synthase. The current of hydrogen ions powers the catalytic action of ATP synthase, which phosphorylates ADP, producing ATP.</para>
+<section id="fs-id2026052" class="ost-tag-lo-apbio-ch07-s04-lo01 ost-tag-lo-apbio-ch07-s04-aplo-2-4 ost-tag-lo-apbio-ch07-s04-aplo-2-5 ost-get-exercise">
+<title>Electron Transport Chain</title>
+    <para id="fs-id1286890">The electron transport chain (<link target-id="fig-ch07_04_01" document=""/>) is the last component of aerobic respiration and is the only part of glucose metabolism that uses atmospheric oxygen. Oxygen continuously diffuses into plants; in animals, it enters the body through the respiratory system. Electron transport is a series of redox reactions that resemble a relay race or bucket brigade in that electrons are passed rapidly from one component to the next, to the endpoint of the chain where the electrons reduce molecular oxygen, producing water. There are four complexes composed of proteins, labeled I through IV in  <link target-id="fig-ch07_04_01" document=""/>, and the aggregation of these four complexes, together with associated mobile, accessory electron carriers, is called the electron transport chain. The electron transport chain is present in multiple copies in the inner mitochondrial membrane of eukaryotes and the plasma membrane of prokaryotes.</para>
+<figure id="fig-ch07_04_01" class="ost-tag-lo-apbio-ch07-s04-lo01 ost-tag-lo-apbio-ch07-s04-aplo-2-4 ost-tag-lo-apbio-ch07-s04-aplo-2-5"><media id="fs-id1600050" alt="This illustration shows the electron transport chain embedded in the inner mitochondrial membrane. The electron transport chain consists of four electron complexes. Complex I oxidizes NADH to NAD^^{+} and simultaneously pumps a proton across the membrane to the inter membrane space. The two electrons released from NADH are shuttled to coenzyme Q, then to complex III, to cytochrome c, to complex IV, then to molecular oxygen. In the process, two more protons are pumped across the membrane to the intermembrane space, and molecular oxygen is reduced to form water. Complex II removes two electrons from FADH_{2}, thereby forming FAD. The electrons are shuttled to coenzyme Q, then to complex III, cytochrome c, complex I, and molecular oxygen as in the case of NADH oxidation.">
+<image mime-type="image/jpg" src="../../media/Figure_07_04_01.jpg" width="320"/>
+</media>
+<caption>The electron transport chain is a series of electron transporters embedded in the inner mitochondrial membrane that shuttles electrons from NADH and FADH<sub>2</sub> to molecular oxygen. In the process, protons are pumped from the mitochondrial matrix to the intermembrane space, and oxygen is reduced to form water.
+</caption></figure>
+<section id="fs-id2186394" class="ost-get-exercise">
+<title>Complex I</title>
+<para id="fs-id2321845">To start, two electrons are carried to the first complex aboard NADH. This complex, labeled I, is composed of flavin mononucleotide (FMN) and an iron-sulfur (Fe-S)-containing protein. FMN, which is derived from vitamin B<sub>2,</sub> also called riboflavin, is one of several prosthetic groups or co-factors in the electron transport chain. A <term>prosthetic group</term> is a non-protein molecule required for the activity of a protein. Prosthetic groups are organic or inorganic, non-peptide molecules bound to a protein that facilitate its function; prosthetic groups include co-enzymes, which are the prosthetic groups of enzymes. The enzyme in complex I is NADH dehydrogenase and is composed of 44 separate polypeptide chains. Complex I can pump four hydrogen ions across the membrane from the matrix into the intermembrane space, and it is in this way that the hydrogen ion gradient is established and maintained between the two compartments separated by the inner mitochondrial membrane.</para>
+</section>
+<section id="fs-id2299949" class="ost-get-exercise">
+<title>Q and Complex II</title>
+<para id="fs-id1775118">Complex II directly receives FADH<sub>2</sub>, which does not pass through complex I. The compound connecting the first and second complexes to the third is <term>ubiquinone</term> (Q). The Q molecule is lipid soluble and freely moves through the hydrophobic core of the membrane. Once it is reduced, (QH<sub>2</sub>), ubiquinone delivers its electrons to the next complex in the electron transport chain. Q receives the electrons derived from NADH from complex I, and the electrons derived from FADH<sub>2</sub> from complex II. This enzyme and FADH<sub>2</sub> form a small complex that delivers electrons directly to the electron transport chain, bypassing the first complex. Since these electrons bypass and thus do not energize the proton pump in the first complex, fewer ATP molecules are made from the FADH<sub>2</sub> electrons. The number of ATP molecules ultimately obtained is directly proportional to the number of protons pumped across the inner mitochondrial membrane.</para></section>
+<section id="fs-id1705359" class="ost-get-exercise">
+<title>Complex III</title>
+<para id="fs-id2278162">The third complex is composed of cytochrome b, another Fe-S protein, Rieske center (2Fe-2S center), and cytochrome c proteins; this complex is also called cytochrome oxidoreductase. Cytochrome proteins have a prosthetic group of heme. The heme molecule is similar to the heme in hemoglobin, but it carries electrons, not oxygen. As a result, the iron ion at its core is reduced and oxidized as it passes the electrons, fluctuating between different oxidation states: Fe<sup>++</sup> (reduced) and Fe<sup>+++</sup> (oxidized). The heme molecules in the cytochromes have slightly different characteristics due to the effects of the different proteins binding them, giving slightly different characteristics to each complex. Complex III pumps protons through the membrane and passes its electrons to cytochrome c for transport to the fourth complex of proteins and enzymes (cytochrome c is the acceptor of electrons from Q; however, whereas Q carries pairs of electrons, cytochrome c can accept only one at a time).</para>
+</section>
+<section id="fs-id2300410" class="ost-get-exercise">
+<title>Complex IV</title>
+<para id="fs-id2676976">The fourth complex is composed of cytochrome proteins c, a, and a<sub>3</sub>. This complex contains two heme groups (one in each of the two cytochromes, a, and a<sub>3</sub>) and three copper ions (a pair of Cu<sub>A</sub> and one Cu<sub>B</sub> in cytochrome a<sub>3</sub>). The cytochromes hold an oxygen molecule very tightly between the iron and copper ions until the oxygen is completely reduced. The reduced oxygen then picks up two hydrogen ions from the surrounding medium to make water (H<sub>2</sub>O). The removal of the hydrogen ions from the system contributes to the ion gradient used in the process of chemiosmosis.</para>
+</section>
+</section>
+<section id="fs-id1409110" class="ost-tag-lo-apbio-ch07-s04-lo02 ost-tag-lo-apbio-ch07-s04-aplo-2-4 ost-tag-lo-apbio-ch07-s04-aplo-2-5 ost-get-exercise">
+<title>Chemiosmosis</title>
+<para id="fs-id1785709">In chemiosmosis, the free energy from the series of redox reactions just described is used to pump hydrogen ions (protons) across the membrane. The uneven distribution of H<sup>+</sup> ions across the membrane establishes both concentration and electrical gradients (thus, an electrochemical gradient), owing to the hydrogen ions’ positive charge and their aggregation on one side of the membrane.</para>
+    <para id="fs-id2645910">If the membrane were open to diffusion by the hydrogen ions, the ions would tend to diffuse back across into the matrix, driven by their electrochemical gradient. Recall that many ions cannot diffuse through the nonpolar regions of phospholipid membranes without the aid of ion channels.  Similarly, hydrogen ions in the matrix space can only pass through the inner mitochondrial membrane through an integral membrane protein called ATP synthase (<link target-id="fig-ch07_04_02" document=""/>). This complex protein acts as a tiny generator, turned by the force of the hydrogen ions diffusing through it, down their electrochemical gradient. The turning of parts of this molecular machine facilitates the addition of a phosphate to ADP, forming ATP, using the potential energy of the hydrogen ion gradient.</para>
+<note id="fs-id1778490" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch07-s04-lo02 ost-tag-lo-apbio-ch07-s04-aplo-2-4 ost-tag-lo-apbio-ch07-s04-aplo-2-5"><label>Visual Connection</label>
+<para id="fs-id1396245"><figure id="fig-ch07_04_02"><media id="fs-id1807698" alt="This illustration shows an ATP synthase enzyme embedded in the inner mitochondrial membrane. ATP synthase allows protons to move from an area of high concentration in the intermembrane space to an area of low concentration in the mitochondrial matrix. The energy derived from this exergonic process is used to synthesize ATP from ADP and inorganic phosphate.">
+<image mime-type="image/png" src="../../media/Figure_07_04_02.png" width="320"/>
+</media>
+<caption>ATP synthase is a complex, molecular machine that uses a proton (H<sup>+</sup>) gradient to form ATP from ADP and inorganic phosphate (Pi). (Credit: modification of work by Klaus Hoffmeier)</caption></figure></para>
+<!-- [link]Figure 07_04_02[/link]After DNP poisoning, the electron transport chain can no longer form a proton gradient, and ATP synthase can no longer make ATP. DNP is an effective diet drug because it uncouples ATP synthesis; in other words, after taking it, a person obtains less energy out of the food he or she eats. Interestingly, one of the worst side effects of this drug is hyperthermia, or overheating of the body. Since ATP cannot be formed, the energy from electron transport is lost as heat. -->
+<exercise id="fs-id1167065822565" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065855829">
+<para id="fs-id1167064775243">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex025"/>
+</para>
+</problem>
+</exercise>
+</note><para id="fs-id1473469">Chemiosmosis (<link target-id="fig-ch07_04_03" document=""/>) is used to generate 90 percent of the ATP made during aerobic glucose catabolism; it is also the method used in the light reactions of photosynthesis to harness the energy of sunlight in the process of photophosphorylation. Recall that the production of ATP using the process of chemiosmosis in mitochondria is called oxidative phosphorylation. The overall result of these reactions is the production of ATP from the energy of the electrons removed from hydrogen atoms. These atoms were originally part of a glucose molecule. At the end of the pathway, the electrons are used to reduce an oxygen molecule to oxygen ions. The extra electrons on the oxygen attract hydrogen ions (protons) from the surrounding medium, and water is formed.</para>
+<note id="fs-id1704696" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch07-s04-lo02 ost-tag-lo-apbio-ch07-s04-aplo-2-4 ost-tag-lo-apbio-ch07-s04-aplo-2-5"><label>Visual Connection</label>
+<para id="fs-id2216483">
+<figure id="fig-ch07_04_03">
+<media id="fs-id2315383" alt="This illustration shows the electron transport chain, the ATP synthase enzyme embedded in the inner mitochondrial membrane, and the citric acid cycle occurring in the mitochondrial matrix. The citric acid cycle feeds NADH and FADH_{2} to the electron transport chain. The electron transport chain oxidizes these substrates and, in the process, pumps protons into the intermembrane space. ATP synthase allows protons to leak back into the matrix and synthesizes ATP.">
+<image mime-type="image/png" src="../../media/Figure_07_04_03.png" width="400"/>
+</media>
+<caption>In oxidative phosphorylation, the pH gradient formed by the electron transport chain is used by ATP synthase to form ATP.</caption></figure></para>
+<!-- <para><link window="new"  target-id="fig-ch07_04_03" document=""/>After cyanide poisoning, the electron transport chain can no longer pump electrons into the intermembrane space. The pH of the intermembrane space would increase, the pH gradient would decrease, and ATP synthesis would stop.</para> -->
+<exercise id="fs-id1167064896198" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065700999">
+<para id="fs-id1167064895763">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex026"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<section id="fs-id2681954" class="ost-tag-lo-apbio-ch07-s04-lo02 ost-tag-lo-apbio-ch07-s04-aplo-2-4 ost-tag-lo-apbio-ch07-s04-aplo-2-5 ost-get-exercise">
+<title>ATP Yield</title>
+<para id="fs-id848549">The number of ATP molecules generated from the catabolism of glucose varies. For example, the number of hydrogen ions that the electron transport chain complexes can pump through the membrane varies between species. Another source of variance stems from the shuttle of electrons across the membranes of the mitochondria. (The NADH generated from glycolysis cannot easily enter mitochondria.) Thus, electrons are picked up on the inside of mitochondria by either NAD<sup>+</sup> or FAD<sup>+</sup>. As you have learned earlier, these FAD<sup>+</sup> molecules can transport fewer ions; consequently, fewer ATP molecules are generated when FAD<sup>+</sup> acts as a carrier. NAD<sup>+</sup> is used as the electron transporter in the liver and FAD<sup>+</sup> acts in the brain.</para>
+<para id="fs-id1236715">Another factor that affects the yield of ATP molecules generated from glucose is the fact that intermediate compounds in these pathways are used for other purposes. Glucose catabolism connects with the pathways that build or break down all other biochemical compounds in cells, and the result is somewhat messier than the ideal situations described thus far. For example, sugars other than glucose are fed into the glycolytic pathway for energy extraction. Moreover, the five-carbon sugars that form nucleic acids are made from intermediates in glycolysis. Certain nonessential amino acids can be made from intermediates of both glycolysis and the citric acid cycle. Lipids, such as cholesterol and triglycerides, are also made from intermediates in these pathways, and both amino acids and triglycerides are broken down for energy through these pathways. Overall, in living systems, these pathways of glucose catabolism extract about 34 percent of the energy contained in glucose.</para>
+</section>
+
+<note id="fs-id1167065851051" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch07-s04-aplo-2-5">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065822767" class="ost-assignable ost-sciprac-activity ost-tag-lo-apbio-ch07-s04-aplo-2-5">
+<para id="fs-id1167064929609">Use construction paper and other art materials to create your own diagram of the electron transport chain (ETC). Be sure to include all parts of the electron transport chain, as well as the electrons themselves, NAD+ and NADH, and oxygen. On your diagram, label all parts of the ETC that transfers the free energy from electrons to another form. Then, use your model to make predictions about each of the following. Then, share your answers with the class.</para>
+<list id="fs-id1167065711498" list-type="enumerated" number-style="lower-alpha">
+<item>What would happen to free energy release if a cytochrome failed to undergo one of the redox reactions involved in the electron transport chain?</item>
+<item>What ultimately happens to the free energy in the electrons that travel down the ETC?</item>
+<item>Did you remember to have a pair of electrons travel down the ETC? What would happen if only one electron reached oxygen?</item>
+</list>
+</note>
+<note id="fs-id1167064746482" class="ost-assignable ost-sciprac-scithink"><label/>
+<title>Think About It</title>
+<exercise id="fs-id1167065020939" class="ost-tag-lo-apbio-ch07-s04-aplo-2-4 unnumbered"><label/>
+<problem id="fs-id1167065061989"><list id="fs-id1167065061990">
+<item>Dinitrophenol (DNP) is an uncoupler that makes the inner mitochondrial membrane leaky to protons. It was used until 1938 as a weight loss drug. What effect would DNP have on the change in pH across the inner mitochondrial membrane and the overall process of cellular respiration? Why do you think DNP might be an effective weight-loss drug? Why is DNP no longer used?</item>
+</list></problem>
+</exercise>
+<exercise id="fs-id1167066155928" class="ost-tag-lo-apbio-ch07-s04-aplo-2-4 unnumbered"><label/>
+<problem id="fs-id1167066188741"><list id="fs-id1167066188742">
+<item>Cyanide inhibits cytochrome c oxidase, a component of the electron transport chain. If cyanide poisoning occurs, would you expect the pH of the intermembrane space to increase or decrease? Explain the effect of cyanide on ATP synthesis.</item>
+</list></problem>
+</exercise>
+</note>
+</note>
+<note id="fs-id1167066145539" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065875885">This activity is an application of Learning Objective 2.4 and Science Practices 1.4 and 3.1 and Learning Objective 2.5 and Science Practice 6.2 because students will have the opportunity to create a model of the electron transport chain, allowing students to study and discuss the components of the electron transport chain that allow organisms to capture, store, and use free energy.</para>
+<para id="fs-id1167063495906">An extended lab investigation on cellular respiration is available from the College Board®. This activity involves respirometry of plant seeds. It is available from the College Board’s® <emphasis effect="italics">AP Biology Investigative Labs: An Inquiry-Based Approach</emphasis>, <link window="new" url="http://openstax.org/l/32BioLab6">Investigation 6</link>.</para>
+<para id="fs-id1167065844591">The Think About It questions are applications of Learning Objective 2.4 and Science Practices 1.4 and 3.1 and Learning Objective 2.5 and Science Practice 6.2 because students are provided with situations that raise questions about cellular respiration and are then asked to explain the effects of factors that affect the process. Students are also connecting the structure of the mitochondrion to its role in cellular respiration.</para>
+<note id="fs-id1167065711686"><title>Possible answers to Activity:</title>
+<list id="fs-id1167065850611" list-type="enumerated" number-style="lower-alpha">
+<item>If a cytochrome failed to perform a redox reaction, the electrons could not travel to the next cytochrome, and possibly not reach the proton pumps. Even if they did reach the pumps, the ETC could not offload the electrons into oxygen, preventing any additional electrons from travelling down the ETC and also preventing any further ATP production.</item>
+<item>The free energy in the electrons is transferred to the proton pumps, allowing them to pump protons. Some is also lost as heat and the rest is transferred to oxygen at the end of the ETC.</item>
+<item>If only one electron reached oxygen, water would not form at the end of the electron transport chain until another electron travelled through the chain.</item>
+</list></note>
+<note id="fs-id1167065827386"><title>Possible answers to Think About It questions:</title>
+<list id="fs-id1167064941334" list-type="enumerated" number-style="lower-alpha">
+<item>In living cells, DNP acts as an agent that can directly shuttle protons across biological membranes. Therefore, it weakens the proton concentration gradient that drives protons to pass through ATP synthase. After DNP poisoning, the electron transport chain can no longer form a proton gradient, and ATP synthase can no longer make ATP. DNP is an effective diet drug because it uncouples ATP synthesis; in other words, after taking it, a person obtains less energy out of the food he or she eats. Interestingly, one of the worst side effects of this drug is hyperthermia, or overheating of the body. Since ATP cannot be formed, the energy from electron transport is lost as heat.</item>
+<item>After cyanide poisoning, the electron transport chain can no longer pump protons into the intermembrane space. The pH of the intermembrane space would increase, the pH gradient would decrease, and ATP synthesis would stop.</item>
+</list></note>
+</note>
+
+<section id="fs-id1568706" class="summary ost-reading-discard">
+    <title>Section Summary</title><para id="fs-id1479324">The electron transport chain is the portion of aerobic respiration that uses free oxygen as the final electron acceptor of the electrons removed from the intermediate compounds in glucose catabolism. The electron transport chain is composed of four large, multiprotein complexes embedded in the inner mitochondrial membrane and two small diffusible electron carriers shuttling electrons between them. The electrons are passed through a series of redox reactions, with a small amount of free energy used at three points to transport hydrogen ions across a membrane. This process contributes to the gradient used in chemiosmosis. The electrons passing through the electron transport chain gradually lose energy, High-energy electrons donated to the chain by either NADH or FADH<sub>2</sub> complete the chain, as low-energy electrons reduce oxygen molecules and form water. The level of free energy of the electrons drops from about 60 kcal/mol in NADH or 45 kcal/mol in FADH<sub>2</sub> to about 0 kcal/mol in water. The end products of the electron transport chain are water and ATP. A number of intermediate compounds of the citric acid cycle can be diverted into the anabolism of other biochemical molecules, such as nonessential amino acids, sugars, and lipids. These same molecules can serve as energy sources for the glucose pathways.</para>
+</section>
+
+
+<section id="fs-id1167064907747" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167065875296" class="os-exercise">
+<problem id="fs-id1167062385744">
+<para id="fs-id1167065846391">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex027"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065979646" class="os-exercise">
+<problem id="fs-id1167065884479">
+<para id="fs-id1167064695510">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex028"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065809138" class="os-exercise">
+<problem id="fs-id1167065849909">
+<para id="fs-id1167064929306">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex029"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064932352" class="os-exercise">
+<problem id="fs-id1167065828042">
+<para id="fs-id1167065891558">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex030"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+
+<section id="fs-id1167064872988" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167065877598" class="os-exercise">
+<problem id="fs-id1167062477274">
+<para id="fs-id1167065853524">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex031"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065880029" class="os-exercise">
+<problem id="fs-id1167064531242">
+<para id="fs-id1167065922327">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex032"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166848713256" class="os-exercise">
+<problem id="eip-id1166848783836">
+<para id="eip-id1166851057928">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ot018"/>
+</para>
+</problem>
+</exercise>
+</section><section id="fs-id1167065885678" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167065658788" class="os-exercise">
+<problem id="fs-id1167065855680">
+<para id="fs-id1167066112599">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex033"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065789268" class="os-exercise">
+<problem id="fs-id1167065939215">
+<para id="fs-id1167064841839">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex034"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166849721503" class="os-exercise">
+<problem id="eip-id1166849890653">
+<para id="eip-id1166849908455">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ot017"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164966453426" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164968679931">
+<problem id="fs-id1164969049579">
+<para id="fs-id1164968916548">Dinitrophenol (DNP) was used in the manufacture of munitions in World War I. In the 1930s, it was used as a weight loss drug. Use in the U.S. cannot be regulated by the FDA because DNP is considered a dietary supplement. Attempts to ban the drug in the U.K. following the death of four users in 2015 failed in Parliament. DNP is a small molecule that is soluble in the mitochondrial inner membrane. The hydroxyl group reversibly dissociates a proton.</para>
+<figure id="fs-id1164968669961"><media id="fs-id1164969029766" alt="The figure shows an orange matrix outside of a dark orange inner mitochondrial membrane. Inside the inner mitochondrial molecule is a hexagon with alternating double-lined and single-lined sides. The top, lower right, and lower left sides of the hexagon are double lines. The rest are single lines. The rightmost point on the hexagon is connected by a single line to NO2, the  lower left point is connected by a single line to NO2, and the leftmost point is connected to OH. There is a two-way arrow between this molecule and a second hexagonal molecule. This second molecule has alternating double lines on the top left side, the top right side, and the bottom. The rest of the sides are singe lines. The leftmost point has a single line connected to O2N, the top right point is connected by a single line to NO2, and the rightmost point is connected by a single line to O-. After this molecule there is a plus sign followed by an H+. The H+ falls inside the Matrix.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_07_04_01_01_img.jpg"/>
+</media>
+
+</figure><para id="fs-id1164969033298">A. <emphasis>Predict</emphasis> the effect of DNP on the electrochemical gradient across the inner mitochondrial membrane. </para>
+<para id="fs-id1164966442306">B. <emphasis>Explain</emphasis> how DNP can be used to reduce weight.</para>
+<para id="fs-id1164968732196">C. The effects of DNP can be reversed by administering glucose. However, treatment with a combination of glucose and 2-deoxyglucose, which is an inhibitor of glycolysis, does not reverse the effects of DNP. <emphasis>Explain</emphasis>, in terms of the products of glycolysis, why this reversal of the effects of DNP was unexpected. (Hint: It might be useful to review the reactants and products of glycolysis.)</para>
+<para id="fs-id1164968593487">D. Obesity correlates with an epidemic of other health issues, such as elevated blood pressure, heart disease, and diabetes II. A slow-release form of DNP (CRMP) is patented. With slow-release technology, a drug can be delivered in small doses over time from a pill whose matrix limits solubility. A simple but nonscientific question that can be raised is: Will a slow-release drug retard progress toward behavioral changes that can reduce the magnitude of this epidemic? Scientific questions can be pursued by testing the outcomes predicted by possible answers. <emphasis>Refine this question</emphasis> for discussion in small groups. Be prepared to <emphasis>justify</emphasis> the merits of your question.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164968553939">
+<problem id="fs-id1164968533145">
+<para id="fs-id1164963101845">As shown in <link target-id="fig-ch07_04_01" document=""/>, cyanide inhibits the electron transport chain by competing with O<sub>2</sub> molecules for the cytochrome c oxidase heme group. Carbon monoxide (CO) has a similar effect. Both cyanide and carbon monoxide cause poisoning in victims of smoke inhalation.</para>
+<para id="fs-id1164963135701">A. <emphasis>Predict</emphasis> the effects of these poisons on the following properties of mitochondria just after exposure: the pH of the intermembrane space, the concentration of NADH, and the rate of production of ATP in the matrix. <emphasis>Justify</emphasis> your predictions.</para>
+<para id="fs-id1164968965643">B. Rotenone is a poison that blocks the transfer of electrons from Complex I of the electron transport chain to ubiquinone. Methylene blue is a molecule with many uses involving its reduction-oxidation properties. Recent studies show the effectiveness of methylene blue in increasing the bodys metabolic rate and as a treatment for Alzheimers patients. The oxidized form of methylene blue is reduced by NADH, and its reduced form is oxidized by O<sub>2</sub>. <emphasis>Explain</emphasis> the use of methylene blue as an antidote for rotenone poisoning.</para>
+</problem>
+</exercise>
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-id1807369"><term>ATP synthase</term> <meaning id="fs-id2170202">(also, F1F0 ATP synthase) membrane-embedded protein complex that adds a phosphate to ADP with energy from protons diffusing through it</meaning></definition>
+<definition id="fs-id2589867"><term>prosthetic group</term> <meaning id="fs-id1777910">(also, prosthetic cofactor) molecule bound to a protein that facilitates the function of the protein</meaning></definition>
+<definition id="fs-id2701000"><term>ubiquinone</term> <meaning id="fs-id1720582">soluble electron transporter in the electron transport chain that connects the first or second complex to the third</meaning></definition>
+</glossary>
+
+</document>

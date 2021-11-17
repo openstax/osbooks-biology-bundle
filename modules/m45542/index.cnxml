@@ -1,0 +1,137 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Innate Immunity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45542</md:content-id>
+  <md:title>Innate Immunity</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the body’s innate physical and chemical defenses</item>
+<item>Explain the inflammatory response</item>
+<item>Describe the complement system</item>
+</list></md:abstract>
+  <md:uuid>998a1548-7b8f-4ce8-9a6b-88a7995371c1</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm46773744">The vertebrate, including human, immune system is a complex multilayered system for defending against external and internal threats to the integrity of the body. The system can be divided into two types of defense systems: the innate immune system, which is nonspecific toward a particular kind of pathogen, and the adaptive immune system, which is specific (<link target-id="fig-ch17_02_01" document=""/>). <term>Innate immunity</term> is not caused by an infection or vaccination and depends initially on physical and chemical barriers that work on all pathogens, sometimes called the first line of defense. The second line of defense of the innate system includes chemical signals that produce inflammation and fever responses as well as mobilizing protective cells and other chemical defenses. The adaptive immune system mounts a highly specific response to substances and organisms that do not belong in the body. The adaptive system takes longer to respond and has a memory system that allows it to respond with greater intensity should the body reencounter a pathogen even years later.</para>
+<figure id="fig-ch17_02_01" class=" "><media id="fs-idm62730256" alt=" Table shows vertebrate immunity, with 2 columns for innate and adaptive immune system characteristics. The innate immune system if further divided into physical barriers and internal defenses. Under physical barriers are: skin, hairs, cilia, mucus membranes, mucus and chemical secretions, digestive enzymes in mouth, and stomach acid. Under internal defenses are: inflammatory response, complement proteins, phagocytic cells, and natural killer (NK) cells. In the adaptive immune system column are: antibodies and the humoral immune response, cell-mediated immune response, and memory response.">
+<image mime-type="image/jpg" src="../../media/Figure_17_02_01-52f0.jpg" width="550"/>
+</media>
+<caption>There are two main parts to the vertebrate immune system. The innate immune system, which is made up of physical barriers and internal defenses, responds to all pathogens. The adaptive immune system is highly specific.</caption></figure><section id="fs-idp53318944">
+<title>External and Chemical Barriers</title>
+<para id="fs-idm31920176">The body has significant physical barriers to potential pathogens. The skin contains the protein keratin, which resists physical entry into cells. Other body surfaces, particularly those associated with body openings, are protected by the mucous membranes. The sticky mucus provides a physical trap for pathogens, preventing their movement deeper into the body. The openings of the body, such as the nose and ears, are protected by hairs that catch pathogens, and the mucous membranes of the upper respiratory tract have cilia that constantly move pathogens trapped in the mucus coat up to the mouth.</para>
+<para id="fs-idm28794832">The skin and mucous membranes also create a chemical environment that is hostile to many microorganisms. The surface of the skin is acidic, which prevents bacterial growth. Saliva, mucus, and the tears of the eye contain an enzyme that breaks down bacterial cell walls. The stomach secretions create a highly acidic environment, which kills many pathogens entering the digestive system.</para>
+<para id="fs-idp53337664">Finally, the surface of the body and the lower digestive system have a community of microorganisms such as bacteria, archaea, and fungi that coexist without harming the body. There is evidence that these organisms are highly beneficial to their host, combating disease-causing organisms and outcompeting them for nutritional resources provided by the host body. Despite these defenses, pathogens may enter the body through skin abrasions or punctures, or by collecting on mucosal surfaces in large numbers that overcome the protections of mucus or cilia.</para>
+</section>
+<section id="fs-idp34394320">
+<title>Internal Defenses</title>
+<para id="fs-idm6623008">When pathogens enter the body, the innate immune system responds with a variety of internal defenses. These include the inflammatory response, phagocytosis, natural killer cells, and the complement system. White blood cells in the blood and lymph recognize pathogens as foreign to the body. A <term>white blood cell</term> is larger than a red blood cell, is nucleated, and is typically able to move using amoeboid locomotion. Because they can move on their own, white blood cells can leave the blood to go to infected tissues. For example, a <term>monocyte</term> is a type of white blood cell that circulates in the blood and lymph and develops into a macrophage after it moves into infected tissue. A <term>macrophage</term> is a large cell that engulfs foreign particles and pathogens. <term>Mast cells</term> are produced in the same way as white blood cells, but unlike circulating white blood cells, mast cells take up residence in connective tissues and especially mucosal tissues. They are responsible for releasing chemicals in response to physical injury. They also play a role in the allergic response, which will be discussed later in the chapter.</para>
+<para id="fs-idp25664192">When a pathogen is recognized as foreign, chemicals called cytokines are released. A <term>cytokine</term> is a chemical messenger that regulates cell differentiation (form and function), proliferation (production), and gene expression to produce a variety of immune responses. Approximately 40 types of cytokines exist in humans. In addition to being released from white blood cells after pathogen recognition, cytokines are also released by the infected cells and bind to nearby uninfected cells, inducing those cells to release cytokines. This positive feedback loop results in a burst of cytokine production.</para>
+<para id="fs-idp51703632">One class of early-acting cytokines is the interferons, which are released by infected cells as a warning to nearby uninfected cells. An <term>interferon</term> is a small protein that signals a viral infection to other cells. The interferons stimulate uninfected cells to produce compounds that interfere with viral replication. Interferons also activate macrophages and other cells.</para>
+<section id="fs-idm57541312">
+<title>The Inflammatory Response and Phagocytosis</title>
+    <para id="fs-idp23392464">The first cytokines to be produced encourage <term>inflammation</term>, a localized redness, swelling, heat, and pain. Inflammation is a response to physical trauma, such as a cut or a blow, chemical irritation, and infection by pathogens (viruses, bacteria, or fungi). The chemical signals that trigger an inflammatory response enter the extracellular fluid and cause capillaries to dilate (expand) and capillary walls to become more permeable, or leaky. The serum and other compounds leaking from capillaries cause swelling of the area, which in turn causes pain. Various kinds of white blood cells are attracted to the area of inflammation. The types of white blood cells that arrive at an inflamed site depend on the nature of the injury or infecting pathogen. For example, a <term>neutrophil</term> is an early arriving white blood cell that engulfs and digests pathogens. Neutrophils are the most abundant white blood cells of the immune system (<link target-id="fig-ch17_02_02" document=""/>). Macrophages follow neutrophils and take over the phagocytosis function and are involved in the resolution of an inflamed site, cleaning up cell debris and pathogens.</para>
+<figure id="fig-ch17_02_02" class=" "><media id="fs-idm982608" alt=" Illustration shows a capillary near the surface of skin that has a cut in it. Bacteria have penetrated the skin around the cut. In response, mass cells in the lower part of the skin tissue release histamines, and dendritic cells release cytokines. The histamines cause the capillary to become permeable. Neutrophils and monocytes exit the capillary into the damaged skin. Both the neutrophil and macrophage release cytokines and consumes bacteria by phagocytosis.">
+<image mime-type="image/jpg" src="../../media/Figure_17_02_02-eda4.jpg" width="220"/>
+</media>
+<caption>White blood cells (leukocytes) release chemicals to stimulate the inflammatory response following a cut in the skin.</caption></figure><para id="fs-idm35976704">Cytokines also send feedback to cells of the nervous system to bring about the overall symptoms of feeling sick, which include lethargy, muscle pain, and nausea. Cytokines also increase the core body temperature, causing a fever. The elevated temperatures of a fever inhibit the growth of pathogens and speed up cellular repair processes. For these reasons, suppression of fevers should be limited to those that are dangerously high.</para>
+<note id="fs-idm32915760" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+    <para id="fs-idp13628208">Check out this <link window="new" url="https://commons.wikimedia.org/wiki/File:S1-Polymorphonuclear_Cells_with_Conidia_in_Liquid_Media.ogv">23-second, stop-motion video</link> showing a neutrophil that searches and engulfs fungus spores during an elapsed time of 79 minutes.</para>
+</note></section>
+<section id="fs-idp5938608">
+<title>Natural Killer Cells</title>
+    <para id="fs-idp36322512">A <term>lymphocyte</term> is a white blood cell that contains a large nucleus (<link target-id="fig-ch17_02_03" document=""/>). Most lymphocytes are associated with the adaptive immune response, but infected cells are identified and destroyed by natural killer cells, the only lymphocytes of the innate immune system. A <term>natural killer (NK) cell</term> is a lymphocyte that can kill cells infected with viruses (or cancerous cells). NK cells identify intracellular infections, especially from viruses, by the altered expression of <term>major histocompatibility complex (MHC) I molecules</term> on the surface of infected cells. MHC class I molecules are proteins on the surfaces of all nucleated cells that provide a sample of the cell’s internal environment at any given time. Unhealthy cells, whether infected or cancerous, display an altered MHC class I complement on their cell surfaces.</para>
+<figure id="fig-ch17_02_03" class=" "><media id="fs-idp20671760" alt="Micrograph shows a round cell with a large nucleus occupying more than half of the cell.">
+<image mime-type="image/jpg" src="../../media/Figure_17_02_03.jpg" width="200"/>
+</media>
+<caption>Lymphocytes, such as NK cells, are characterized by their large nuclei that actively absorb Wright stain and therefore appear dark colored under a microscope. (credit: scale-bar data from Matt Russell)</caption></figure><para id="fs-idp23403408">After the NK cell detects an infected or tumor cell, it induces programmed cell death, or apoptosis. Phagocytic cells then come along and digest the cell debris left behind. NK cells are constantly patrolling the body and are an effective mechanism for controlling potential infections and preventing cancer progression. The various types of immune cells are shown in <link target-id="fig-ch17_02_04" document=""/>.</para>
+<figure id="fig-ch17_02_04" class=" "><media id="fs-idp16636304" alt=" Illustration shows several innate immunity cells. Mast cells have an abundance of cytoplasmic granules and an irregular nucleus. Natural killer cells and neutrophils are filled with granules. Neutrophils have a multi-lobed nucleus. Macrophages are irregular in shape, with a round nucleus.">
+<image mime-type="image/jpg" src="../../media/Figure_17_02_04.jpg" width="550"/>
+</media>
+<caption>Cells involved in the innate immune response include mast cells, natural killer cells, and white blood cells, such as monocytes, macrophages and neutrophils.</caption></figure></section>
+<section id="fs-idm1783120">
+<title>Complement</title>
+<para id="fs-idp27127424">An array of approximately 20 types of proteins, called a <term>complement system</term>, is also activated by infection or the activity of the cells of the adaptive immune system and functions to destroy extracellular pathogens. Liver cells and macrophages synthesize inactive forms of complement proteins continuously; these proteins are abundant in the blood serum and are capable of responding immediately to infecting microorganisms. The complement system is so named because it is complementary to the innate and adaptive immune system. Complement proteins bind to the surfaces of microorganisms and are particularly attracted to pathogens that are already tagged by the adaptive immune system. This “tagging” involves the attachment of specific proteins called antibodies (discussed in detail later) to the pathogen. When they attach, the antibodies change shape providing a binding site for one of the complement proteins. After the first few complement proteins bind, a cascade of binding in a specific sequence of proteins follows in which the pathogen rapidly becomes coated in complement proteins.</para><para id="fs-idm18352">Complement proteins perform several functions, one of which is to serve as a marker to indicate the presence of a pathogen to phagocytic cells and enhance engulfment. Certain complement proteins can combine to open pores in microbial cell membranes and cause lysis of the cells.</para>
+</section>
+</section>
+<section id="fs-idm63022304" class="summary">
+<title>Section Summary</title><para id="fs-idp79632224">The innate immune system consists first of physical and chemical barriers to infection including the skin and mucous membranes and their secretions, ciliated surfaces, and body hairs. The second line of defense is an internal defense system designed to counter pathogenic threats that bypass the physical and chemical barriers of the body. Using a combination of cellular and molecular responses, the innate immune system identifies the nature of a pathogen and responds with inflammation, phagocytosis, cytokine release, destruction by NK cells, or the complement system.</para>
+</section>
+<section id="fs-idm60373920" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp24272816">
+<problem id="fs-idp50407536"><para id="fs-idp23508368">Which of the following is a barrier against pathogens provided by the skin?</para>
+<list id="fs-idm54507648" list-type="enumerated" number-style="lower-alpha">
+<item>low pH</item>
+<item>mucus</item>
+<item>tears</item>
+<item>cilia</item>
+</list>
+</problem>
+<solution id="fs-idm6484624">
+<label/>
+<para id="fs-idm40814816">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm92983344">
+<problem id="fs-idp34004560"><para id="fs-idp38085168">Although interferons have several effects, they are particularly useful against infections with which type of pathogen?</para>
+<list id="fs-idp30109936" list-type="enumerated" number-style="lower-alpha">
+<item>bacteria</item>
+<item>viruses</item>
+<item>fungi</item>
+<item>helminths</item>
+</list>
+</problem>
+<solution id="fs-idm2633312">
+<label/>
+<para id="fs-idp85619088">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm6796080">
+<problem id="fs-idp50722240"><para id="fs-idm31356384">Which innate immune system component uses MHC class I molecules directly in its defense strategy?</para>
+<list id="fs-idm55352272" list-type="enumerated" number-style="lower-alpha">
+<item>macrophages</item>
+<item>neutrophils</item>
+<item>NK cells</item>
+<item>interferon</item>
+</list>
+</problem>
+<solution id="fs-idp37741472">
+<label/>
+<para id="fs-idm45869808">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm73823168" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idp40323088">
+<problem id="fs-idp12991136"><para id="fs-idm6413200">Different MHC class I molecules between donor and recipient cells can lead to rejection of a transplanted organ or tissue. Suggest a reason for this.</para></problem>
+<solution id="fs-idp35614304"><label/>
+<para id="fs-idp24337744">If the MHC class I molecules expressed on donor cells differ from the MHC class I molecules expressed on recipient cells, NK cells may identify the donor cells as not normal and produce enzymes to induce the donor cells to undergo apoptosis, which would destroy the transplanted organ.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm31377696">
+<problem id="fs-idp23324384"><para id="fs-idp15299648">If a series of genetic mutations prevented some, but not all, of the complement proteins from binding antibodies or pathogens, would the entire complement system be compromised?</para></problem>
+<solution id="fs-idm33748960"><label/>
+<para id="fs-idp51664672">The entire complement system would probably be affected even when only a few members were mutated such that they could no longer bind. Because the complement involves the binding of activated proteins in a specific sequence, when one or more proteins in the sequence is absent, the subsequent proteins would be incapable of binding to elicit the complement’s pathogen-destructive effects.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm55760576"><term>complement system</term> <meaning id="fs-idm162496">an array of approximately 20 soluble proteins of the innate immune system that enhance phagocytosis, bore holes in pathogens, and recruit lymphocytes</meaning></definition>
+<definition id="fs-idm20426048"><term>cytokine</term> <meaning id="fs-idm35710272">a chemical messenger that regulates cell differentiation, proliferation, and gene expression to effect immune responses</meaning></definition>
+<definition id="fs-idm35956288"><term>inflammation</term> <meaning id="fs-idm6622400">the localized redness, swelling, heat, and pain that results from the movement of leukocytes through opened capillaries to a site of infection</meaning></definition>
+<definition id="fs-idp27271344"><term>innate immunity</term> <meaning id="fs-idm33122592">an immunity that occurs naturally because of genetic factors or physiology, and is not caused by infection or vaccination</meaning></definition>
+<definition id="fs-idp23166496"><term>interferon</term> <meaning id="fs-idp8963504">a cytokine that inhibits viral replication</meaning></definition>
+<definition id="fs-idm7635312"><term>lymphocyte</term> <meaning id="fs-idp30067664">a type of white blood cell that includes natural killer cells of the innate immune system and B and T cells of the adaptive immune system</meaning></definition>
+<definition id="fs-idm35530672"><term>macrophage</term> <meaning id="fs-idp75176400">a large phagocytic cell that engulfs foreign particles and pathogens</meaning></definition>
+<definition id="fs-idp51183360"><term>major histocompatibility complex (MHC) I</term> <meaning id="fs-idm11435600">a group of proteins found on the surface of all nucleated cells that signals to immune cells whether the cell is normal or is infected or cancerous; it also provides the appropriate sites into which antigens can be loaded for recognition by lymphocytes</meaning></definition>
+<definition id="fs-idm76273344"><term>mast cell</term> <meaning id="fs-idm46862224">a leukocyte that produces inflammatory molecules, such as histamine, in response to large pathogens</meaning></definition>
+<definition id="fs-idm39553488"><term>monocyte</term> <meaning id="fs-idm11230592">a type of white blood cell that circulates in the blood and lymph and differentiates into a macrophage after it moves into infected tissue</meaning></definition>
+<definition id="fs-idm31307024"><term>natural killer (NK) cell</term> <meaning id="fs-idm37157472">a lymphocyte that can kill cells infected with viruses or tumor cells</meaning></definition>
+<definition id="fs-idp22711424"><term>neutrophil</term> <meaning id="fs-idm47438752">a phagocytic leukocyte that engulfs and digests pathogens</meaning></definition>
+<definition id="fs-idm9744784"><term>white blood cell</term> <meaning id="fs-idp22098064">a nucleated cell found in the blood that is a part of the immune system; also called leukocytes</meaning></definition>
+</glossary>
+</document>

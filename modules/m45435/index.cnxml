@@ -1,0 +1,117 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Active Transport</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45435</md:content-id>
+  <md:title>Active Transport</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand how electrochemical gradients affect ions</item>
+<item>Describe endocytosis, including phagocytosis, pinocytosis, and receptor-mediated endocytosis</item>
+<item>Understand the process of exocytosis</item>
+</list></md:abstract>
+  <md:uuid>74109370-3dca-4c2c-b4e8-35b29377c5f4</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm35352224"><term>Active transport</term> mechanisms require the use of the cell’s energy, usually in the form of adenosine triphosphate (ATP). If a substance must move into the cell against its concentration gradient, that is, if the concentration of the substance inside the cell must be greater than its concentration in the extracellular fluid, the cell must use energy to move the substance. Some active transport mechanisms move small-molecular weight material, such as ions, through the membrane.</para>
+<para id="fs-idp114125120">In addition to moving small ions and molecules through the membrane, cells also need to remove and take in larger molecules and particles. Some cells are even capable of engulfing entire unicellular microorganisms. You might have correctly hypothesized that the uptake and release of large particles by the cell requires energy. A large particle, however, cannot pass through the membrane, even with energy supplied by the cell.</para>
+<section id="fs-idp71584544">
+<title>Electrochemical Gradient</title>
+<para id="fs-idp33965648">We have discussed simple concentration gradients—differential concentrations of a substance across a space or a membrane—but in living systems, gradients are more complex. Because cells contain proteins, most of which are negatively charged, and because ions move into and out of cells, there is an electrical gradient, a difference of charge, across the plasma membrane. The interior of living cells is electrically negative with respect to the extracellular fluid in which they are bathed; at the same time, cells have higher concentrations of potassium (K<sup>+</sup>) and lower concentrations of sodium (Na<sup>+</sup>) than does the extracellular fluid. Thus, in a living cell, the concentration gradient and electrical gradient of Na<sup>+</sup> promotes diffusion of the ion into the cell, and the electrical gradient of Na<sup>+</sup> (a positive ion) tends to drive it inward to the negatively charged interior. The situation is more complex, however, for other elements such as potassium. The electrical gradient of K<sup>+ </sup>promotes diffusion of the ion <emphasis effect="italics">into</emphasis> the cell, but the concentration gradient of K<sup>+</sup> promotes diffusion <emphasis effect="italics">out</emphasis> of the cell (<link target-id="fig-ch03_06_01" document=""/>). The combined gradient that affects an ion is called its <term>electrochemical gradient</term>, and it is especially important to muscle and nerve cells.</para>
+<figure id="fig-ch03_06_01" class="  "><media id="fs-idm54003568" alt="A cell membrane is shown with a protein channel that allows passage of ions into and out of the cell. The cytoplasm has a higher concentration of potassium, and the extracellular fluid has a higher concentration of sodium. An arrow shows movement of a potassium ion out of the cell through the protein channel.">
+<image mime-type="image/jpg" src="../../media/Figure_03_06_01.jpg" width="425"/>
+</media>
+
+<caption>Electrochemical gradients arise from the combined effects of concentration gradients and electrical gradients. (credit: modification of work by “Synaptitude”/Wikimedia Commons)</caption></figure><section id="fs-idp67354960">
+<title>Moving Against a Gradient</title>
+<para id="fs-idp69579376">To move substances against a concentration or an electrochemical gradient, the cell must use energy. This energy is harvested from ATP that is generated through cellular metabolism. Active transport mechanisms, collectively called pumps or carrier proteins, work against electrochemical gradients. With the exception of ions, small substances constantly pass through plasma membranes. Active transport maintains concentrations of ions and other substances needed by living cells in the face of these passive changes. Much of a cell’s supply of metabolic energy may be spent maintaining these processes. Because active transport mechanisms depend on cellular metabolism for energy, they are sensitive to many metabolic poisons that interfere with the supply of ATP.</para>
+<para id="fs-idm20132368">Two mechanisms exist for the transport of small-molecular weight material and macromolecules. Primary active transport moves ions across a membrane and creates a difference in charge across that membrane. The primary active transport system uses ATP to move a substance, such as an ion, into the cell, and often at the same time, a second substance is moved out of the cell. The sodium-potassium pump, an important pump in animal cells, expends energy to move potassium ions into the cell and a different number of sodium ions out of the cell (<link target-id="fig-ch03_06_02" document=""/>). The action of this pump results in a concentration and charge difference across the membrane.</para>
+<figure id="fig-ch03_06_02" class="  "><media id="fs-idp140005312" alt=" This illustration shows the sodium-potassium pump. Initially, the pump’s opening faces the cytoplasm, where three sodium ions bind to it. The pump hydrolyzes ATP to ADP and, as a result, undergoes a conformational change. The sodium ions are released into the extracellular space. Two potassium ions from the extracellular space now bind the pump, which changes conformation again, releasing the potassium ions into the cytoplasm.">
+<image mime-type="image/jpg" src="../../media/Figure_03_06_02.jpg" width="550"/>
+</media>
+
+<caption>The sodium-potassium pump move potassium and sodium ions across the plasma membrane. (credit: modification of work by Mariana Ruiz Villarreal)</caption></figure><para id="fs-idp19705616">Secondary active transport describes the movement of material using the energy of the electrochemical gradient established by primary active transport. Using the energy of the electrochemical gradient created by the primary active transport system, other substances such as amino acids and glucose can be brought into the cell through membrane channels. ATP itself is formed through secondary active transport using a hydrogen ion gradient in the mitochondrion.</para>
+</section>
+</section>
+<section id="fs-idm23488224">
+<title>Endocytosis</title>
+<para id="fs-idm21433520"><term>Endocytosis</term> is a type of active transport that moves particles, such as large molecules, parts of cells, and even whole cells, into a cell. There are different variations of endocytosis, but all share a common characteristic: The plasma membrane of the cell invaginates, forming a pocket around the target particle. The pocket pinches off, resulting in the particle being contained in a newly created vacuole that is formed from the plasma membrane.</para>
+<figure id="fig-ch03_06_03" class="  "><media id="fs-idp10137264" alt="Three types of endocytosis are shown: (a) phagocytosis, (b) pinocytosis, and (c) receptor-mediated endocytosis. Part a shows the plasma membrane forming a pocket around a particle in the extracellular fluid. The membrane subsequently engulfs the particle, which becomes trapped in a vacuole. Part b shows a plasma membrane forming a pocket around fluid in the extracellular fluid. The membrane subsequently engulfs the fluid, which becomes trapped in a vacuole. Part c shows a part of the plasma membrane that is clathrin-coated on the cytoplasmic side and has receptors on the extracellular side. The receptors bind a substance, then pinch off to form a coated vesicle.">
+<image mime-type="image/jpg" src="../../media/Figure_03_06_03abc.jpg" width="575"/>
+</media>
+
+<caption>Three variations of endocytosis are shown. (a) In one form of endocytosis, phagocytosis, the cell membrane surrounds the particle and pinches off to form an intracellular vacuole. (b) In another type of endocytosis, pinocytosis, the cell membrane surrounds a small volume of fluid and pinches off, forming a vesicle. (c) In receptor-mediated endocytosis, uptake of substances by the cell is targeted to a single type of substance that binds at the receptor on the external cell membrane. (credit: modification of work by Mariana Ruiz Villarreal)</caption></figure><para id="fs-idp88581936"><term>Phagocytosis</term> is the process by which large particles, such as cells, are taken in by a cell. For example, when microorganisms invade the human body, a type of white blood cell called a neutrophil removes the invader through this process, surrounding and engulfing the microorganism, which is then destroyed by the neutrophil (<link target-id="fig-ch03_06_03" document=""/>).</para>
+<para id="fs-idm23205152">A variation of endocytosis is called <term>pinocytosis</term>. This literally means “cell drinking” and was named at a time when the assumption was that the cell was purposefully taking in extracellular fluid. In reality, this process takes in solutes that the cell needs from the extracellular fluid (<link target-id="fig-ch03_06_03" document=""/>).</para>
+<para id="fs-idp1969200">A targeted variation of endocytosis employs binding proteins in the plasma membrane that are specific for certain substances (<link target-id="fig-ch03_06_03" document=""/>). The particles bind to the proteins and the plasma membrane invaginates, bringing the substance and the proteins into the cell. If passage across the membrane of the target of <term>receptor-mediated endocytosis</term> is ineffective, it will not be removed from the tissue fluids or blood. Instead, it will stay in those fluids and increase in concentration. Some human diseases are caused by a failure of receptor-mediated endocytosis. For example, the form of cholesterol termed low-density lipoprotein or LDL (also referred to as “bad” cholesterol) is removed from the blood by receptor-mediated endocytosis. In the human genetic disease familial hypercholesterolemia, the LDL receptors are defective or missing entirely. People with this condition have life-threatening levels of cholesterol in their blood, because their cells cannot clear the chemical from their blood.</para>
+<note id="fs-idp85052496" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idp86919184">See receptor-mediated endocytosis <link window="new" url="https://www.youtube.com/watch?v=hLbjLWNA5c0">animation</link> in action.</para>
+</note></section>
+<section id="fs-idp68317440">
+<title>Exocytosis</title>
+<para id="fs-idp18492384">In contrast to these methods of moving material into a cell is the process of exocytosis. <term>Exocytosis</term> is the opposite of the processes discussed above in that its purpose is to expel material from the cell into the extracellular fluid. A particle enveloped in membrane fuses with the interior of the plasma membrane. This fusion opens the membranous envelope to the exterior of the cell, and the particle is expelled into the extracellular space (<link target-id="fig-ch03_06_04" document=""/>).</para>
+<figure id="fig-ch03_06_04"><media id="fs-idm6385680" alt="A vesicle containing waste products is shown in the cytoplasm. The vesicle migrates to the cell membrane. The membrane of the vesicle fuses with the cell membrane, and the contents of the vesicle are released to the extracellular fluid.">
+<image mime-type="image/jpg" src="../../media/Figure_03_06_04.jpg" width="280"/>
+</media>
+
+<caption>In exocytosis, a vesicle migrates to the plasma membrane, binds, and releases its contents to the outside of the cell. (credit: modification of work by Mariana Ruiz Villarreal)</caption></figure></section>
+<section id="fs-idp63514304" class="summary">
+<title>Section Summary</title><para id="fs-idm9124896">The combined gradient that affects an ion includes its concentration gradient and its electrical gradient. Living cells need certain substances in concentrations greater than they exist in the extracellular space. Moving substances up their electrochemical gradients requires energy from the cell. Active transport uses energy stored in ATP to fuel the transport. Active transport of small molecular-size material uses integral proteins in the cell membrane to move the material—these proteins are analogous to pumps. Some pumps, which carry out primary active transport, couple directly with ATP to drive their action. In secondary transport, energy from primary transport can be used to move another substance into the cell and up its concentration gradient.</para>
+<para id="fs-idp146271280">Endocytosis methods require the direct use of ATP to fuel the transport of large particles such as macromolecules; parts of cells or whole cells can be engulfed by other cells in a process called phagocytosis. In phagocytosis, a portion of the membrane invaginates and flows around the particle, eventually pinching off and leaving the particle wholly enclosed by an envelope of plasma membrane. Vacuoles are broken down by the cell, with the particles used as food or dispatched in some other way. Pinocytosis is a similar process on a smaller scale. The cell expels waste and other particles through the reverse process, exocytosis. Wastes are moved outside the cell, pushing a membranous vesicle to the plasma membrane, allowing the vesicle to fuse with the membrane and incorporating itself into the membrane structure, releasing its contents to the exterior of the cell.</para>
+</section>
+<section id="fs-idp84870864" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idp108230560">
+<problem id="fs-idp22326272">
+<para id="fs-idp159219808">Active transport must function continuously because __________.</para>
+<list id="fs-idm18731696" list-type="enumerated" number-style="lower-alpha">
+<item>plasma membranes wear out</item>
+<item>cells must be in constant motion</item>
+<item>facilitated transport opposes active transport</item>
+<item>diffusion is constantly moving the solutes in the other direction</item>
+</list>
+</problem>
+<solution id="fs-idp60399904">
+<label/>
+<para id="fs-idp80111728">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp144532048" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idp10932384">
+<problem id="fs-idp73860384">
+<para id="fs-idp112098976">Where does the cell get energy for active transport processes?</para>
+</problem>
+<solution id="fs-idp41846672">
+<label/>
+<para id="fs-idp29028912">The cell harvests energy from ATP produced by its own metabolism to power active transport processes, such as pumps.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp57609248">
+<term>active transport</term> <meaning id="fs-idp20276288">the method of transporting material that requires energy</meaning>
+</definition>
+<definition id="fs-idp86264688">
+<term>electrochemical gradient</term> <meaning id="fs-idp29096944">a gradient produced by the combined forces of the electrical gradient and the chemical gradient</meaning>
+</definition>
+<definition id="fs-idp161863648">
+<term>endocytosis</term> <meaning id="fs-idp81603536">a type of active transport that moves substances, including fluids and particles, into a cell</meaning>
+</definition>
+<definition id="fs-idp117608608">
+<term>exocytosis</term> <meaning id="fs-idp73033792">a process of passing material out of a cell</meaning>
+</definition>
+<definition id="fs-idm20824928">
+<term>phagocytosis</term> <meaning id="fs-idp65564672">a process that takes particulate matter like macromolecules, cells, or cell fragments that the cell needs from the extracellular fluid; a variation of endocytosis</meaning>
+</definition>
+<definition id="fs-idp871792">
+<term>pinocytosis</term> <meaning id="fs-idp102203136">a process that takes solutes that the cell needs from the extracellular fluid; a variation of endocytosis</meaning>
+</definition>
+<definition id="fs-idm22053312">
+<term>receptor-mediated endocytosis</term> <meaning id="fs-idm1077584">a variant of endocytosis that involves the use of specific binding proteins in the plasma membrane for specific molecules or particles</meaning>
+</definition>
+</glossary>
+</document>

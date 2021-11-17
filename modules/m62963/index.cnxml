@@ -1,0 +1,271 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>How Hormones Work</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62963</md:content-id>
+  <md:title>How Hormones Work</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how hormones work</item>
+<item>Discuss the role of different types of hormone receptors</item>
+</list></md:abstract>
+  <md:uuid>e1ec1b11-f0a7-4416-af9b-ee030bd9c601</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065926964" class="learning-objectives ost-tag-lo-apbio-ch28-s02-lo01">
+<para id="fs-id1167064635517">In this section, you will explore the following questions:</para>
+<list id="fs-id1167064919287">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch28-s02-lo01">How do hormones work?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch28-s02-lo02">What is the role of different types of hormone receptors?</item>
+</list>
+</section>
+<section id="fs-id1167065871885" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167064928874">Much of the information in this section is an application of the material we explored in the Cell Communication chapter about cell communication and signaling pathways. Hormones are chemical signals (ligands) that mediate changes in target cells by binding to specific receptors. Even though hormones released by endocrine glands can travel long distances through the blood and come into contact with many different cell types, they only affect cells that possess the necessary receptors. Depending on the location of the receptor on the target cell and the chemical structure of the hormone, for example, whether or not it is lipid-soluble, hormones can mediate changes directly by binding to <emphasis>intracellular hormone receptors</emphasis> and modulating gene expression (transcription and translation), or indirectly by binding to cell surface receptors and simulating signaling pathways.</para>
+<para id="fs-id1167063087931" class="ost-reading-discard">The hormone binds to its receptor like a key fits a lock. Because a lipid-derived hormone such as a steroid hormone can diffuse across the membrane of the target cell, they bind to intracellular receptors residing in the cytoplasm or in the nucleus. The cell signaling pathways induced by steroid hormones regulate specific genes by acting as transcription regulators. In turn, this affects the amount of protein produced. Lipid-derived hormones that are not steroids, for example, vitamin D and thyroxin, bind to receptors located in the nucleus of the target cell.</para>
+<para id="fs-id1167065067029" class="ost-reading-discard">Because amino acid-derived hormones (with the exception of thyroxine) and polypeptide hormones are not lipid-soluble, they bind to <emphasis>plasma membrane hormone receptors</emphasis> located on the outer surface of the membrane. Unlike steroid hormones, they cannot act directly on DNA but activate a signaling pathway; this triggers intracellular activity and carries out the specific effects associated with the hormone. The hormone that initiated the signaling pathway is called a <emphasis>first messenger</emphasis>. In the case of the epinephrine signaling pathway, binding of the amino acid-derived hormone epinephrine to its receptor activates a G-protein which, in turn, activates cAMP, a second messenger, ultimately resulting in a cellular response such as the conversion of glycogen to glucose.</para><para id="fs-id1167066205375" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167065893373" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.3 Signal transduction pathways link signal reception with a cellular response. Second left cell reads: Science Practice. Second right cell reads: 1.5: The student can re-express key elements of natural phenomena across multiple representations in the domain. Third left cell reads: Learning Objective. Third right cell reads: 3.36 The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.D</emphasis></entry>
+<entry class="ost-standards-description">Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-d-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.D.3 </emphasis></span>
+<span class="ost-standards-description">Signal transduction pathways link signal reception with a cellular response.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.5 </emphasis></span>
+<span class="ost-standards-description">The student can re-express key elements of natural phenomena across multiple representations in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-36">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.36 </emphasis></span>
+<span class="ost-standards-description">The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+<para id="fs-idp268044016">Hormones mediate changes in target cells by binding to specific <emphasis>hormone</emphasis> <emphasis>receptors</emphasis>. In this way, even though hormones circulate throughout the body and come into contact with many different cell types, they only affect cells that possess the necessary receptors. Receptors for a specific hormone may be found on many different cells or may be limited to a small number of specialized cells. For example, thyroid hormones act on many different tissue types, stimulating metabolic activity throughout the body. Cells can have many receptors for the same hormone but often also possess receptors for different types of hormones. The number of receptors that respond to a hormone determines the cell’s sensitivity to that hormone, and the resulting cellular response. Additionally, the number of receptors that respond to a hormone can change over time, resulting in increased or decreased cell sensitivity. In <emphasis>up-regulation</emphasis>, the number of receptors increases in response to rising hormone levels, making the cell more sensitive to the hormone and allowing for more cellular activity. When the number of receptors decreases in response to rising hormone levels, called <emphasis>down-regulation</emphasis>, cellular activity is reduced.</para>
+<para id="fs-idp39453248">Receptor binding alters cellular activity and results in an increase or decrease in normal body processes. Depending on the location of the protein receptor on the target cell and the chemical structure of the hormone, hormones can mediate changes directly by binding to intracellular hormone receptors and modulating gene transcription, or indirectly by binding to cell surface receptors and stimulating signaling pathways.</para>
+<section id="fs-idm6952064" class="ost-tag-lo-apbio-ch28-s02-lo02 ost-get-exercise">
+<title>Intracellular Hormone Receptors</title>
+<para id="fs-idp39011552">Lipid-derived (soluble) hormones such as steroid hormones diffuse across the membranes of the endocrine cell. Once outside the cell, they bind to transport proteins that keep them soluble in the bloodstream. At the target cell, the hormones are released from the carrier protein and diffuse across the lipid bilayer of the plasma membrane of cells. The steroid hormones pass through the plasma membrane of a target cell and adhere to intracellular receptors residing in the cytoplasm or in the nucleus. The cell signaling pathways induced by the steroid hormones regulate specific genes on the cell's DNA. The hormones and receptor complex act as transcription regulators by increasing or decreasing the synthesis of mRNA molecules of specific genes. This, in turn, determines the amount of corresponding protein that is synthesized by altering gene expression. This protein can be used either to change the structure of the cell or to produce enzymes that catalyze chemical reactions. In this way, the steroid hormone regulates specific cell processes as illustrated in <link target-id="fig-ch37_02_01" document=""/>.</para>
+<note id="fs-idp99897760" class="visual-connection ost-tag-lo-apbio-ch28-s02-lo02 ost-assessed-feature"><label>Visual Connection</label>
+<figure id="fig-ch37_02_01"><media id="fs-idp135464736" alt="Illustration shows a hormone crossing the cellular membrane and attaching to the NR/HSP complex. The complex dissociates, releasing the heat shock protein and a NR/hormone complex. The complex dimerizes, enters the nucleus, and attaches to an HRE element on DNA, triggering transcription of certain genes.">
+<image mime-type="image/png" src="../../media/Figure_37_02_01.png" width="525"/>
+</media>
+<caption>An intracellular nuclear receptor (NR) is located in the cytoplasm bound to a heat shock protein (HSP). Upon hormone binding, the receptor dissociates from the heat shock protein and translocates to the nucleus. In the nucleus, the hormone-receptor complex binds to a DNA sequence called a hormone response element (HRE), which triggers gene transcription and translation. The corresponding protein product can then mediate changes in cell function.</caption></figure>
+<!--<para id="fs-idp80895504">Heat shock proteins (HSP) are so named because they help refold misfolded proteins. In response to increased temperature (a &#8220;heat shock&#8221;), heat shock proteins are activated by release from the NR/HSP complex. At the same time, transcription of HSP genes is activated. Why do you think the cell responds to a heat shock by increasing the activity of proteins that help refold misfolded proteins?</para>-->
+<!--<para><link target-id="fig-ch37_02_01" document=""/> Proteins unfold, or denature, at higher temperatures.</para>-->
+<exercise id="fs-id1167065895198" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167065941345">
+<para id="fs-id1167064853704">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex013"/>
+</para>
+</problem>
+</exercise>
+</note><para id="fs-idp135634080">Other lipid-soluble hormones that are not steroid hormones, such as vitamin D and thyroxine, have receptors located in the nucleus. While thyroxine is mostly hydrophobic, its passage across the membrane is dependent on transporter protein. Vitamin D diffuses across both the plasma membrane and the nuclear envelope. Once in the cell, both hormones bind to receptors in the nucleus. The hormone-receptor complex stimulates transcription of specific genes.</para></section>
+<section id="fs-idp117931792" class="ost-tag-lo-apbio-ch28-s02-lo02 ost-get-exercise">
+<title>Plasma Membrane Hormone Receptors</title>
+<para id="fs-idp78427184">Amino acid derived hormones and polypeptide hormones are not lipid-derived (lipid-soluble) and therefore cannot diffuse through the plasma membrane of cells. Lipid insoluble hormones bind to receptors on the outer surface of the plasma membrane, via plasma membrane hormone receptors. Unlike steroid hormones, lipid insoluble hormones do not directly affect the target cell because they cannot enter the cell and act directly on DNA. Binding of these hormones to a cell surface receptor results in activation of a signaling pathway; this triggers intracellular activity and carries out the specific effects associated with the hormone. In this way, nothing passes through the cell membrane; the hormone that binds at the surface remains at the surface of the cell while the intracellular product remains inside the cell. The hormone that initiates the signaling pathway is called a first messenger, which activates a second messenger in the cytoplasm, as illustrated in <link target-id="fig-ch37_02_02" document=""/>.</para>
+<figure id="fig-ch37_02_02" class="ost-tag-lo-apbio-ch28-s02-lo02"><media id="fs-idp88457680" alt="Illustration shows epinephrine bound to the extracellular surface of a beta-adrenergic receptor. A G-protein associated with the intracellular surface of the receptor is activated when the GDP associated with it is replaced with GTP. The G protein activates the enzyme adenylyl cyclase, which converts ATP to cAMP, triggering a cellular response.">
+<image mime-type="image/jpg" src="../../media/Figure_37_02_02.jpg" width="520"/>
+</media>
+<caption>The amino acid-derived hormones epinephrine and norepinephrine bind to beta-adrenergic receptors on the plasma membrane of cells. Hormone binding to receptor activates a G-protein, which in turn activates adenylyl cyclase, converting ATP to cAMP. cAMP is a second messenger that mediates a cell-specific response. An enzyme called phosphodiesterase breaks down cAMP, terminating the signal.</caption></figure><para id="fs-idp53679792">One very important second messenger is cyclic AMP (cAMP). When a hormone binds to its membrane receptor, a <emphasis>G-protein</emphasis> that is associated with the receptor is activated; G-proteins are proteins separate from receptors that are found in the cell membrane. When a hormone is not bound to the receptor, the G-protein is inactive and is bound to guanosine diphosphate, or GDP. When a hormone binds to the receptor, the G-protein is activated by binding guanosine triphosphate, or GTP, in place of GDP. After binding, GTP is hydrolysed by the G-protein into GDP and becomes inactive.</para><para id="fs-idp260294208">The activated G-protein in turn activates a membrane-bound enzyme called <emphasis>adenylyl cyclase</emphasis>. Adenylyl cyclase catalyzes the conversion of ATP to cAMP. cAMP, in turn, activates a group of proteins called protein kinases, which transfer a phosphate group from ATP to a substrate molecule in a process called phosphorylation. The phosphorylation of a substrate molecule changes its structural orientation, thereby activating it. These activated molecules can then mediate changes in cellular processes.</para>
+<para id="fs-idp54512752">The effect of a hormone is amplified as the signaling pathway progresses. The binding of a hormone at a single receptor causes the activation of many G-proteins, which activates adenylyl cyclase. Each molecule of adenylyl cyclase then triggers the formation of many molecules of cAMP. Further amplification occurs as protein kinases, once activated by cAMP, can catalyze many reactions. In this way, a small amount of hormone can trigger the formation of a large amount of cellular product. To stop hormone activity, cAMP is deactivated by the cytoplasmic enzyme <emphasis>phosphodiesterase</emphasis>, or PDE. PDE is always present in the cell and breaks down cAMP to control hormone activity, preventing overproduction of cellular products.</para><para id="fs-idp174337632">The specific response of a cell to a lipid insoluble hormone depends on the type of receptors that are present on the cell membrane and the substrate molecules present in the cell cytoplasm. Cellular responses to hormone binding of a receptor include altering membrane permeability and metabolic pathways, stimulating synthesis of proteins and enzymes, and activating hormone release.</para>
+    </section>
+    <note id="fs-id1167065976411" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch28-s02-aplo-3-36">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065855086" class="ost-assignable ost-sciprac-activity">
+<para id="fs-id1167065867904">Create a representation to describe how a lipid-soluble hormone and a peptide hormone activate different cellular responses in a target cell.</para>
+</note>
+<note id="fs-id1167065947690" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065942201">The activity is an application of AP® Learning Objective 3.36 and Science Practice 1.5 because students are describing a model that expresses how different types of hormones and hormone-receptor complexes activate different cellular responses.</para>
+</note>
+</note>
+<section id="fs-idp66110528" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp168532192">Hormones cause cellular changes by binding to receptors on target cells. The number of receptors on a target cell can increase or decrease in response to hormone activity. Hormones can affect cells directly through intracellular hormone receptors or indirectly through plasma membrane hormone receptors.</para>
+<para id="fs-idp169369024">Lipid-derived (soluble) hormones can enter the cell by diffusing across the plasma membrane and binding to DNA to regulate gene transcription and to change the cell’s activities by inducing production of proteins that affect, in general, the long-term structure and function of the cell. Lipid insoluble hormones bind to receptors on the plasma membrane surface and trigger a signaling pathway to change the cell’s activities by inducing production of various cell products that affect the cell in the short-term. The hormone is called a first messenger and the cellular component is called a second messenger. G-proteins activate the second messenger (cyclic AMP), triggering the cellular response. Response to hormone binding is amplified as the signaling pathway progresses. Cellular responses to hormones include the production of proteins and enzymes and altered membrane permeability.</para>
+</section>
+    <!--<section id="fs-idp156050496" class="art-exercise">
+        <title>Art Connections</title>
+<exercise id="fs-idp147588368">
+    <problem id="fs-idp98730432"><para id="fs-idp215767904"><link target-id="fig-ch37_02_01" document=""/> Heat shock proteins (HSP) are so named because they help refold mis-folded proteins. In response to increased temperature (a &#8220;heat shock&#8221;), heat shock proteins are activated by release from the NR/HSP complex. At the same time, transcription of HSP genes is activated. Why do you think the cell responds to a heat shock by increasing the activity of proteins that help refold misfolded proteins?</para></problem>
+<solution id="fs-idp92637568">
+    <label/>
+    <para id="fs-idp5890032"><link target-id="fig-ch37_02_01" document=""/> Proteins unfold, or denature, at higher temperatures.</para>
+</solution></exercise>
+    </section>
+<section id="fs-idp110257856" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp180067424">
+<problem id="fs-idp93906416"><para id="fs-idp72084768">A new antagonist molecule has been discovered that binds to and blocks plasma membrane receptors. What effect will this antagonist have on testosterone, a steroid hormone?</para>
+<list id="fs-idp13854880" list-type="enumerated" number-style="lower-alpha">
+<item>It will block testosterone from binding to its receptor.</item>
+<item>It will block testosterone from activating cAMP signaling.</item>
+<item>It will increase testosterone-mediated signaling.</item>
+<item>It will not affect testosterone-mediated signaling.</item>
+</list>
+</problem>
+<solution id="fs-idp189916656">
+<label/>
+<para id="fs-idp175761408">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp128311408">
+<problem id="fs-idp164952160"><para id="fs-idp17391952">What effect will a cAMP inhibitor have on a peptide hormone-mediated signaling pathway?</para>
+<list id="fs-idp51301760" list-type="enumerated" number-style="lower-alpha">
+<item>It will prevent the hormone from binding its receptor.</item>
+<item>It will prevent activation of a G-protein.</item>
+<item>It will prevent activation of adenylate cyclase.</item>
+<item>It will prevent activation of protein kinases.</item>
+</list>
+</problem>
+<solution id="fs-idp224487216">
+<label/>
+<para id="fs-idp160886592">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp1626720" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp268410496">
+<problem id="fs-idp180103136"><para id="fs-idp172457056">Name two important functions of hormone receptors.</para></problem>
+<solution id="fs-idp151590576"><label/>
+<para id="fs-idp38592352">The number of receptors that respond to a hormone can change, resulting in increased or decreased cell sensitivity. The number of receptors can increase in response to rising hormone levels, called up-regulation, making the cell more sensitive to the hormone and allowing for more cellular activity. The number of receptors can also decrease in response to rising hormone levels, called down-regulation, leading to reduced cellular activity.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp53017136">
+<problem id="fs-idp117962432"><para id="fs-idp175210768">How can hormones mediate changes?</para></problem>
+<solution id="fs-idp33982544"><label/>
+<para id="fs-idp135664704">Depending on the location of the protein receptor on the target cell and the chemical structure of the hormone, hormones can mediate changes directly by binding to intracellular receptors and modulating gene transcription, or indirectly by binding to cell surface receptors and stimulating signaling pathways.</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167065844584" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065944025" class="os-exercise">
+<problem id="fs-id1167064529088">
+<para id="fs-id1167062385575">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex014"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063009974" class="os-exercise">
+<problem id="fs-id1167065948089">
+<para id="fs-id1167064826091">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex015"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066088901" class="os-exercise">
+<problem id="fs-id1167064794642">
+<para id="fs-id1167066105581">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex016"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065969601" class="os-exercise">
+<problem id="fs-id1167066029686">
+<para id="fs-id1167064945223">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex017"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166847269251" class="os-exercise">
+<problem id="eip-id1166850065607">
+<para id="eip-id1166849902802">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ot009"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065950489" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167064905269" class="os-exercise">
+<problem id="fs-id1167065763642">
+<para id="fs-id1167065919696">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex018"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065768690" class="os-exercise">
+<problem id="fs-id1167065066777">
+<para id="fs-id1167064736594">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex019"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166847587436" class="os-exercise">
+<problem id="eip-id1166847946604">
+<para id="eip-id1166849571555">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ot013"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065970025" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167062901239" class="os-exercise  ost-tag-lo-apbio-ch28-s02-aplo-3-36">
+<problem id="fs-id1167064820998">
+<para id="fs-id1167066032352">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex020"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064948540" class="os-exercise">
+<problem id="fs-id1167066000865">
+<para id="fs-id1167064876568">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex021"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166849748968" class="os-exercise">
+<problem id="eip-id1166849708586">
+<para id="eip-id1166847279313">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ot015"/>
+</para>
+</problem>
+</exercise></section>
+
+<section id="fs-id1166167113372" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1166173240926">
+<problem id="fs-id1166173341039">
+<para id="fs-id1166166965458">Gonadotrophin-releasing hormone (GnRH) stimulates the production of follicle-stimulating hormone (FSH) and luteinizing hormone (LH).  The concentration of these hormones over time in females regulates the menstrual cycle.  GnRH expressing neurons (GEN) are scattered throughout the forebrain and hypothalamus and secrete into ducts leading to the pituitary gland, causing the secretion of FSH and LH into the bloodstream.  Ca<sup>+2</sup> concentrations oscillate in time, changing the electric membrane potential of the GnRH neurons, GEN.  The period of the oscillation is only a few seconds in duration.  The mechanism controlling the oscillating membrane potential is unknown, but during maturation the frequency of the oscillations of the Ca<sup>+2</sup> concentration in the GEN increases.</para>
+<para id="fs-id1166171861112">A. <emphasis>Explain</emphasis> how the absence of direct contact among the GnRH neurons and the coordinated release of FSH and LH suggest another timing mechanism.</para>
+<para id="fs-id1166173395176">An association of high concentrations of anti-Mullerian hormone (AMH) and elevated LH levels among women with a common reproductive disorder called polycystic ovary syndrome (PCOS) caused investigators to study the effects of AMH on membrane potentials of GnRH expressing neurons.  The researchers (Cimino et al., <emphasis effect="italics">Nature Communications</emphasis>, 7, 2016) found that very small concentrations of AMH initiated oscillations.</para><para id="fs-id1166167207057">B. The graph  illustrates the time dependence of LH and estrogen in the blood of a female. A goal of research in human reproductive physiology is to construct a model that accounts for the spike in luteinizing hormone at approximately 14 days. <emphasis>Predict</emphasis> how a positive feedback loop involving the release of a hormone such as AMH could be used to account for this response. <emphasis>Explain</emphasis> why estrogen is probably not a good candidate for use in this model.</para>
+<figure id="fs-id1166173410878">
+<media id="fs-id1166171625058" alt="This figure shows a line graph. The vertical bar is labeled Concentration and the horizontal bar is labeled Time (Days) with tick marks at 0, 14, and 28. The inner left is labeled Estrogen. It has a blue line that crawls up from 0, rounds around 14 and drops down slightly, to round up again and finally come to a close around 28. The red line stays dormant before spiking at 14 and falling back down to nothing. The inner part of the red line is labeled LH.">
+<image mime-type="image/jpeg" src="../../media/OSX_AP_Bio_Figure_28_02b.jpg"/>
+</media>
+</figure>
+<para id="fs-id1166168474714">FSH and LH inhibit production of GnRH.  Exposure of ovarian follicles to high levels of FSH and LH causes the follicle to rupture, releasing an oocyte to the oviduct.   Birth control drugs suppress the LH surge by maintaining a constant blood concentration of progesterone (PG).  After 40 years of use, the mechanism of suppression is still unknown.  However, we do know that during pregnancy progesterone levels remain elevated and that cells in both the pituitary gland and GnRH expressing neurons (GEN) have progesterone nuclear receptors (PGR) that act as transcription factors to either i) inhibit production of GnRH possibly by blocking transcription of <emphasis effect="italics">GNRH1</emphasis>, the gene coding for GnRH, or ii) inhibit production of LH by blocking transcription in the GnRH neurons of the gene, <emphasis effect="italics">LH1</emphasis>, coding for LH.</para>
+<para id="fs-id1166173104807">C. <emphasis>Construct two alternative explanations</emphasis> of the role of progesterone as a birth control drug.  Your explanation can be in the form of descriptions or in terms of diagrams involving the key molecular components PG, PGR, LH, <emphasis effect="italics">LH1</emphasis>, GEN, GnRH, and <emphasis effect="italics">GnRH1</emphasis>.</para><para id="fs-id1166173366378">An endocrine disruptor is a molecule with a structure that mimics a hormone and can interfere with regulation.  The chemical bis-phenol A (BPA) has been used for many years in the production of plastics and is now widespread. BPA mimics estrogen.  BPA is present in most humans at the concentration of 5 micrograms per kilogram of body weight. Whether or not that concentration is harmful is uncertain.</para>
+<para id="fs-id1166171546866">In a study of Ca<sup>+2</sup> oscillations in GnRH expressing neurons, Klenke and co-workers (<emphasis effect="italics">Endocrinology</emphasis>, 157, 2016) presented evidence that BPA switches off oscillations even at these very low concentrations.  This suggests a mechanism for the results from an earlier investigation in which female rats were fed low and high levels of estrogen (EE) and BPA during pregnancy.  Measurements were made of the levels of expression of an estrogen nuclear receptor in the hypothalamus of the pups just after birth (Cao et al., <emphasis effect="italics">Toxicological Sciences</emphasis>, 133, 2013). Their data are shown in the graph below.</para><figure id="fs-id1166168282892"><media id="fs-id1166168423318" alt="This figure is a bar graph. The vertical line is labeled  ER mRNA level. These bars are pink for female and blue for male. From left to right the results are. For Naïve there is long pink line, and a shorter blue line. For vehicle there is a shorter pink line, and a even shorter blue line. For the second graph the vertical line this time reads ER mRNA level.  The horizontal axis reads Vehicle, EE low, EE high, BPA low, PBA high. From left to right they are listed. The first is vehicle and there is a longer pink line and a shorter blue line. For EE low there is a slightly longer pink line than blue line. For EE high there is a long pink line with a slightly shorter pink line. For BPA there is a medium pink line with a slightly shorter blue line. And for BPA high there is a slightly shorter pink line with a slightly shorter blue line.">
+<image mime-type="image/jpeg" src="../../media/OSX_AP_Bio_Figure_28_02c.jpg" width="450"/>
+</media>
+</figure><para id="fs-id1166173431312">Using the data, the graph at the top compares expression in a do-nothing control (Naïve) and a control (Vehicle) in which a feeding tube is used to deliver nutrients during pregnancy.  The graph at the bottom shows expression levels in pups born to female rats with four different treatments of estrogen (EE) and bis-phenol A (BPA).</para><para id="fs-id1166168462288">D. Compared to the naïve control where homeostasis is not disrupted, qualitatively <emphasis>analyze</emphasis> these data for the disruption of the endocrine system in offspring of a female rat  exposed to both physical and chemical stresses.</para>
+<para id="fs-id1166171720472">E. In female sheep, the estrus cycle is coordinated by the length of the day and does not begin until day length shortens.  The gestation period of sheep is roughly 150 days.</para>
+<list id="fs-id1166171533373">
+<item><emphasis>Predict</emphasis> the effect on fitness of this control of gene expression by an external stimulus.</item>
+<item>The ram effect is a livestock management practice in Australia to induce ovulation by exposing an anestrus (when the estrus cycle is inactive) ewe to a ram.  Compare this phenomenon with the results of delivering nutrients and hormones using a feeding tube to <emphasis>construct</emphasis> a possible <emphasis>explanation</emphasis> for the ram effect.</item>
+</list>
+</problem>
+</exercise>
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-idp93997824"><term>adenylate cyclase</term> <meaning id="fs-idp213053856">an enzyme that catalyzes the conversion of ATP to cyclic AMP</meaning></definition>
+<definition id="fs-idp12141712"><term>down-regulation</term> <meaning id="fs-idp33955744">a decrease in the number of hormone receptors in response to increased hormone levels</meaning></definition>
+<definition id="fs-idp171798512"><term>first messenger</term> <meaning id="fs-idp52086048">the hormone that binds to a plasma membrane hormone receptor to trigger a signal transduction pathway</meaning></definition>
+<definition id="fs-idp52786928"><term>G-protein</term> <meaning id="fs-idp169162944">a membrane protein activated by the hormone first messenger to activate formation of cyclic AMP</meaning></definition>
+<definition id="fs-idp257472480"><term>hormone receptor</term> <meaning id="fs-idp277496192">the cellular protein that binds to a hormone</meaning></definition>
+<definition id="fs-idp251884176"><term>intracellular hormone receptor</term> <meaning id="fs-idp64792352">a hormone receptor in the cytoplasm or nucleus of a cell</meaning></definition>
+<definition id="fs-idp49007248"><term>phosphodiesterase (PDE)</term> <meaning id="fs-idp174434160">enzyme that deactivates cAMP, stopping hormone activity</meaning></definition>
+<definition id="fs-idp70334144"><term>plasma membrane hormone receptor</term> <meaning id="fs-idp139572848">a hormone receptor on the surface of the plasma membrane of a cell</meaning></definition>
+<definition id="fs-idp46451456"><term>up-regulation</term> <meaning id="fs-idp67400704">an increase in the number of hormone receptors in response to increased hormone levels</meaning></definition>
+</glossary>
+</document>

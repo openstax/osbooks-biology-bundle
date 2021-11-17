@@ -1,0 +1,298 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Types of Hormones</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62961</md:content-id>
+  <md:title>Types of Hormones</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>List the different types of hormones</item>
+<item>Explain their role in maintaining homeostasis</item>
+</list></md:abstract>
+  <md:uuid>b4032f0e-f6bd-43b5-9202-3ce3102be030</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167066825258" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167063589388">In this section, you will explore the following questions:</para>
+<list id="fs-id1167061624968">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch28-s01-lo01">What are the different types of hormones?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch28-s01-lo02">What is the role of hormones in maintaining homeostasis?</item>
+</list>
+</section>
+<section id="fs-id1167066879762" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167063438518">Much information about the various organ systems of animals is not within the scope for AP<sup>®</sup>. The endocrine system, however, was selected for in-depth study because an animal’s ability to detect, transmit and respond to information is critical to survival. The endocrine and nervous systems work together to maintain homeostasis and adjust physiological activity when external or internal environmental conditions change. The nervous system works by generating action potentials along neurons; the endocrine system uses chemical messengers called hormones that are released from glands, travel to target cells, and elicit a response by the target cell. For AP<sup>®</sup> you are not expected to memorize a laundry list of the various endocrine glands, their hormones, and the effects of each hormone. You should be able to interpret, however, a diagram that shows the activity of a hormonal signal. We will briefly describe a few of these examples in <link document="m62963">How Hormones Work</link>.</para><para id="fs-id1167063756411" class="ost-reading-discard">There are three types of hormones classified based on molecular structure and properties. (We explored structure/function relationships at the molecular level in the chapter on Biological Macromolecules.) <emphasis>Lipid-derived hormones</emphasis> are lipid-soluble and can diffuse across cell membranes because they are non-polar. Most lipid hormones are derived from cholesterol; examples include steroids such as estrogen and testosterone. Because lipid hormones can diffuse across cell membranes, their receptors are located in the cytoplasm of target cells. The <emphasis>amino acid-derived hormones</emphasis> are relatively small molecules derived from the amino acids tyrosine and tryptophan; examples include epinephrine, norepinephrine, thyroxin, and melatonin. <emphasis>Peptide hormones</emphasis> such as oxytocin and growth hormone consist of polypeptide chains of amino acids. Because these hormones are water-soluble and insoluble in lipids, they cannot pass through the plasma membrane of cells; their receptors are found on the surface of the target cells.</para>
+<para id="fs-id1167067158173" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 and Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167063503440" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.1 Cell communication processes share common features that reflect a shared evolutionary history. Second left cell reads: Science Practice. Second right cell reads: 6.2: The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 3.33 The student is able to use representations and models to describe features of a cell signaling pathway." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry></row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.D</emphasis></entry>
+<entry class="ost-standards-description">Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-d-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.D.1 </emphasis></span>
+<span class="ost-standards-description">Cell communication processes share common features that reflect a shared evolutionary history.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-33">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.33 </emphasis></span>
+<span class="ost-standards-description">The student is able to use representations and models to describe features of a cell signaling pathway.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry></row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.1 </emphasis></span>
+<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.1 </emphasis></span>
+<span class="ost-standards-description">The student is able to explain the connection between the sequence and subcomponents of a biological polymer and its properties.</span>
+</entry>
+</row>
+
+</tbody>
+
+
+</tgroup>
+</table></section>
+<para id="fs-idp218838624">Maintaining homeostasis within the body requires the coordination of many different systems and organs. Communication between neighboring cells, and between cells and tissues in distant parts of the body, occurs through the release of chemicals called hormones. Hormones are released into body fluids (usually blood) that carry these chemicals to their target cells. At the target cells, which are cells that have a receptor for a signal or ligand from a signal cell, the hormones elicit a response. The cells, tissues, and organs that secrete hormones make up the endocrine system. Examples of glands of the endocrine system include the adrenal glands, which produce hormones such as epinephrine and norepinephrine that regulate responses to stress, and the thyroid gland, which produces thyroid hormones that regulate metabolic rates.</para><para id="fs-idp213417824">Although there are many different hormones in the human body, they can be divided into three classes based on their chemical structure: lipid-derived, amino acid-derived, and peptide (peptide and proteins) hormones. One of the key distinguishing features of lipid-derived hormones is that they can diffuse across plasma membranes whereas the amino acid-derived and peptide hormones cannot.</para>
+<section id="fs-idp127604400" class="ost-tag-lo-apbio-ch28-s01-lo01 ost-tag-lo-apbio-ch28-s01-aplo-3-33 ost-get-exercise">
+<title>Lipid-Derived Hormones (or Lipid-soluble Hormones)</title>
+<para id="fs-idp278651712">Most lipid hormones are derived from cholesterol and thus are structurally similar to it, as illustrated in <link target-id="fig-ch37_01_01" document=""/>. The primary class of lipid hormones in humans is the steroid hormones. Chemically, these hormones are usually ketones or alcohols; their chemical names will end in “-ol” for alcohols or “-one” for ketones. Examples of steroid hormones include estradiol, which is an <emphasis>estrogen</emphasis>, or female sex hormone,  and testosterone, which is an androgen, or male sex hormone. These two hormones  are released by the female and male reproductive organs, respectively. Other steroid hormones include  aldosterone and cortisol, which are released by the adrenal glands along with some other types of androgens. Steroid hormones are insoluble in water, and they are transported by transport proteins in blood. As a result, they remain in circulation longer than peptide hormones. For example, cortisol has a half-life of 60 to 90 minutes, while epinephrine, an amino acid derived-hormone, has a half-life of approximately one minute.</para>
+<figure id="fig-ch37_01_01" class="ost-tag-lo-apbio-ch28-s01-lo01 ost-tag-lo-apbio-ch28-s01-aplo-3-33"><media id="fs-idp114317408" alt="Part A shows the molecular structure of cholesterol, which has three six-carbon rings attached to a five-carbon ring. A hydroxyl group is attached to the first six-membered ring, and a branched carbon chain is attached to the five-membered ring. Two methyl groups are attached each to a carbon that links the rings together. Part B shows the molecular structure of testosterone, which has a hydroxyl group in place of the branched carbon chain found on cholesterol. A ketone instead of a hydroxyl group is attached to the six-membered ring. Part C shows the molecular structure of estradiol, which, like testosterone, has a hydroxyl group in place of cholesterol’s branched carbon chain. Estradiol also lacks one of the methyl groups found in cholesterol.">
+<image mime-type="image/jpg" src="../../media/Figure_37_01_01abc.jpg" width="420"/>
+</media>
+<caption>The structures shown here represent (a) cholesterol, plus the steroid hormones (b) testosterone and (c) estradiol.</caption></figure></section>
+<section id="fs-idm49172336" class="ost-tag-lo-apbio-ch28-s01-lo01 ost-tag-lo-apbio-ch28-s01-aplo-3-33 ost-get-exercise">
+<title>Amino Acid-Derived Hormones</title>
+<para id="fs-idp229009568">The amino acid-derived hormones are relatively small molecules that are derived from the amino acids tyrosine and tryptophan, shown in <link target-id="fig-ch37_01_02" document=""/>. If a hormone is amino acid-derived, its chemical name will end in “-ine”. Examples of amino acid-derived hormones include epinephrine and norepinephrine, which are synthesized in the medulla of the adrenal glands, and thyroxine, which is produced by the thyroid gland. The pineal gland in the brain makes and secretes melatonin which regulates sleep cycles.</para>
+<figure id="fig-ch37_01_02" class="ost-tag-lo-apbio-ch28-s01-lo01 ost-tag-lo-apbio-ch28-s01-aplo-3-33"><media id="fs-idm45986512" alt="Part A shows the amino acid tyrosine on the left and epinephrine on the right. Epinephrine is similar in structure to tyrosine, with minor modifications. Part B shows the amino acid tryptophan on the left and the structurally similar melatonin on the right.">
+<image mime-type="image/jpg" src="../../media/Figure_37_01_02ab.jpg" width="420"/>
+</media>
+<caption>(a) The hormone epinephrine, which triggers the fight-or-flight response, is derived from the amino acid tyrosine. (b) The hormone melatonin, which regulates circadian rhythms, is derived from the amino acid tryptophan.</caption></figure></section>
+<section id="fs-idp209141952" class="ost-tag-lo-apbio-ch28-s01-lo01 ost-tag-lo-apbio-ch28-s01-aplo-3-33 ost-get-exercise">
+<title>Peptide Hormones</title>
+<para id="fs-idp53021152">The structure of peptide hormones is that of a polypeptide chain (chain of amino acids). The peptide hormones include molecules that are short polypeptide chains, such as antidiuretic hormone and oxytocin produced in the brain and released into the blood in the posterior pituitary gland. This class also includes small proteins, like growth hormones produced by the pituitary, and large glycoproteins such as follicle-stimulating hormone produced by the pituitary. <link target-id="fig-ch37_01_03" document=""/> illustrates these peptide hormones.</para>
+<para id="fs-idm24624192">Secreted peptides like insulin are stored within vesicles in the cells that synthesize them. They are then released in response to stimuli such as high blood glucose levels in the case of insulin. Amino acid-derived and polypeptide hormones are water-soluble and insoluble in lipids. These hormones cannot pass through plasma membranes of cells; therefore, their receptors are found on the surface of the target cells.</para>
+<figure id="fig-ch37_01_03" class="ost-tag-lo-apbio-ch28-s01-lo01 ost-tag-lo-apbio-ch28-s01-aplo-3-33"><media id="fs-idp149974160" alt="Oxytocin, growth hormone, and follicle stimulating hormone are all large, with complex three-dimensional structures.">
+<image mime-type="image/jpg" src="../../media/Figure_37_01_03abc.jpg" width="480"/>
+</media>
+<caption>The structures of peptide hormones (a) oxytocin, (b) growth hormone, and (c) follicle-stimulating hormone are shown. These peptide hormones are much larger than those derived from cholesterol or amino acids.</caption></figure>
+<note id="fs-id1167063895923" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167063726211" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch28-s01-aplo-4-1">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167067150154" class="unnumbered"><label/>
+<problem id="fs-id1167063568821"><para id="fs-id1167063568822">Although there are many different hormones in the human body, they can be classified based on their chemical structure. What one factor distinguishes them?</para></problem></exercise>
+</note>
+<note id="fs-id1167067179583" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067283812">Different types of hormones can be distinguished based on their water solubility. The Think About It question is an application of AP<sup>®</sup> Learning Objective 4.1 and Science Practice 7.1 because AP<sup>®</sup> students are explaining how the molecular structure of a hormone influences its properties, for example, lipid-derived hormones, which can diffuse across plasma membranes.</para>
+</note>
+</note>
+<note id="fs-idp92714896" class="career ost-tag-lo-apbio-ch28-s01-lo02 ost-feature"><title>Endocrinologist</title>
+
+<para id="fs-idp218848096">An endocrinologist is a medical doctor who specializes in treating disorders of the endocrine glands, hormone systems, and glucose and lipid metabolic pathways. An endocrine surgeon specializes in the surgical treatment of endocrine diseases and glands. Some of the diseases that are managed by endocrinologists: disorders of the pancreas (diabetes mellitus), disorders of the pituitary (gigantism, acromegaly, and pituitary dwarfism), disorders of the thyroid gland (goiter and Graves’ disease), and disorders of the adrenal glands (Cushing’s disease and Addison’s disease).</para>
+<para id="fs-idp212309904">Endocrinologists are required to assess patients and diagnose endocrine disorders through extensive use of laboratory tests. Many endocrine diseases are diagnosed using tests that stimulate or suppress endocrine organ functioning. Blood samples are then drawn to determine the effect of stimulating or suppressing an endocrine organ on the production of hormones. For example, to diagnose diabetes mellitus, patients are required to fast for 12 to 24 hours. They are then given a sugary drink, which stimulates the pancreas to produce insulin to decrease blood glucose levels. A blood sample is taken one to two hours after the sugar drink is consumed. If the pancreas is functioning properly, the blood glucose level will be within a normal range. Another example is the A1C test, which can be performed during blood screening. The A1C test measures average blood glucose levels over the past two to three months by examining how well the blood glucose is being managed over a long time.</para>
+<para id="fs-idp15296112">Once a disease has been diagnosed, endocrinologists can prescribe lifestyle changes and/or medications to treat the disease. Some cases of diabetes mellitus can be managed by exercise, weight loss, and a healthy diet; in other cases, medications may be required to enhance insulin release. If the disease cannot be controlled by these means, the endocrinologist may prescribe insulin injections.</para>
+<para id="fs-idp229970096">In addition to clinical practice, endocrinologists may also be involved in primary research and development activities. For example, ongoing islet transplant research is investigating how healthy pancreas islet cells may be transplanted into diabetic patients. Successful islet transplants may allow patients to stop taking insulin injections.</para>
+</note></section>
+<section id="fs-idp95602032" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp191333664">There are three basic types of hormones: lipid-derived, amino acid-derived, and peptide. Lipid-derived hormones are structurally similar to cholesterol and include steroid hormones such as estradiol and testosterone. Amino acid-derived hormones are relatively small molecules and include the adrenal hormones epinephrine and norepinephrine. Peptide hormones are polypeptide chains or proteins and include the pituitary hormones, antidiuretic hormone (vasopressin), and oxytocin.</para>
+    </section>
+<!--<section id="fs-idp33171808" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp224539408">
+<problem id="fs-idp27103808"><para id="fs-idp167916320">A newly discovered hormone contains four amino acids linked together. Under which chemical class would this hormone be classified?</para>
+<list id="fs-idp2966624" list-type="enumerated" number-style="lower-alpha">
+<item>lipid-derived hormone</item>
+<item>amino acid-derived hormone</item>
+<item>peptide hormone</item>
+<item>glycoprotein</item>
+</list>
+</problem>
+<solution id="fs-idp51993776">
+<label/>
+<para id="fs-idp278178496">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp32331328">
+<problem id="fs-idp25362160"><para id="fs-idp103970784">Which class of hormones can diffuse through plasma membranes?</para>
+<list id="fs-idp31422288" list-type="enumerated" number-style="lower-alpha">
+<item>lipid-derived hormones</item>
+<item>amino acid-derived hormones</item>
+<item>peptide hormones</item>
+<item>glycoprotein hormones</item>
+</list>
+</problem>
+<solution id="fs-idm27813136">
+<label/>
+<para id="fs-idp83075360">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp168607664" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp39173488">
+<problem id="fs-idp84290144"><para id="fs-idp44209552">Although there are many different hormones in the human body, they can be divided into three classes based on their chemical structure. What are these classes and what is one factor that distinguishes them?</para></problem>
+<solution id="fs-idp92314368"><label/>
+<para id="fs-idp15354480">Although there are many different hormones in the human body, they can be divided into three classes based on their chemical structure: lipid-derived, amino acid-derived, and peptide hormones. One of the key distinguishing features of the lipid-derived hormones is that they can diffuse across plasma membranes whereas the amino acid-derived and peptide hormones cannot.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm4431424">
+<problem id="fs-idp122188384"><para id="fs-idp8714928">Where is insulin stored, and why would it be released?</para></problem>
+<solution id="fs-idp278234800"><label/>
+<para id="fs-idp180789936">Secreted peptides such as insulin are stored within vesicles in the cells that synthesize them. They are then released in response to stimuli such as high blood glucose levels in the case of insulin.</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167067206204" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167067179087" class="os-exercise">
+<problem id="fs-id1167067159519">
+<para id="fs-id1167063470001">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex001"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066973027" class="os-exercise">
+<problem id="fs-id1167063806344">
+<para id="fs-id1167063429225">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex002"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066770465" class="os-exercise">
+<problem id="fs-id1167067240503">
+<para id="fs-id1167067145714">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex003"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067142087" class="os-exercise">
+<problem id="fs-id1167063443620">
+<para id="fs-id1167063525273">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex004"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166847300346" class="os-exercise">
+<problem id="eip-id1166849290237">
+<para id="eip-id1166849700042">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ot001"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166849662341" class="os-exercise">
+<problem id="eip-id1166847386886">
+<para id="eip-id1166847547811">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ot002"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167067198292" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167063631891" class="os-exercise">
+<problem id="fs-id1167067199155">
+<para id="fs-id1167063430146">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066856898" class="os-exercise">
+<problem id="fs-id1167067044714">
+<para id="fs-id1167061348444">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166847297104" class="os-exercise">
+<problem id="eip-id1166849932729">
+<para id="eip-id1166849357235">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ot005"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167063769562" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167061226860" class="os-exercise  ost-tag-lo-apbio-ch28-s01-aplo-3-33">
+<problem id="fs-id1167061400819">
+<para id="fs-id1167067140274">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex007"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067019270" class="os-exercise">
+<problem id="fs-id1167067146124">
+<para id="fs-id1167067015413">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067314835" class="os-exercise  ost-tag-lo-apbio-ch28-s01-aplo-4-1">
+<problem id="fs-id1167066962073">
+<para id="fs-id1167063566702">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex011"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063615057" class="os-exercise">
+<problem id="fs-id1167066851966">
+<para id="fs-id1167067103485">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ex012"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166849798011" class="os-exercise">
+<problem id="eip-id1166849662811">
+<para id="eip-id1166849444280">
+<link class="os-embed" url="#ost/api/ex/apbio-ch28-ot007"/>
+</para>
+</problem>
+</exercise></section>
+<section id="fs-id1166171712026" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1166171490608">
+<problem id="fs-id1166173189928">
+<para id="fs-id1166173210543">Many hormones repress or enhance protein expression by binding to transcription factors called nuclear receptors.   Other hormones regulate processes by binding to cell surface receptors that induce cell signaling cascades.</para>
+<para id="fs-id1166167017746">A. <emphasis>Represent</emphasis> these two different processes for cell-cell communication by creating a flow chart showing the direction of information in a process regulating homeostasis such as the control of blood sugar or water loss. Annotate your diagram to <emphasis>describe</emphasis> the key elements of each step in the particular example that you choose.</para>
+<para id="fs-id1166173464256">B. <emphasis>Justify the claim</emphasis> that a developmental process is more likely to involve nuclear receptors, while regulation of metabolism is more likely to involve cell surface receptors.</para>
+<para id="fs-id1166173198696">The lancelet is a chordate, fish-like filter feeder that buries itself in marine sands.  Their ancestors and vertebrates diverged approximately 500 million years ago. Lancelet and human are members of a superphylum of animals with bilateral symmetry, <emphasis effect="italics">Deuterostomia</emphasis>.  In one model of animal evolution, the other superphylum, <emphasis effect="italics">Protostomia</emphasis>, includes fruit fly and nematode.  In an alternative model, insects are included with lancelet and human in a superphylum called the <emphasis effect="italics">Coelomata</emphasis>, and the nematode is separate.  Molecular studies of fruit fly, lancelet, human, and nematode show that homologous genes, when present, are strongly conserved.  For example, the genes for the receptors of germ cell nuclear factor (GCNF) and retinoids, hormones that regulate cellular differentiation during development, are present in each species.  Homologous genes for nuclear receptor estrogen and thyroid hormone are present in lancelet and human but missing in nematode and fruit fly.  Genes for the vitamin D receptor are absent in fruit fly but are present in the other species.</para>
+<para id="fs-id1166171725699">Many neuropeptide hormones found in human, fruit fly and nematode such as GnRH (gonadotropin-releasing hormone) and the gonadotropins luteinizing and follicle stimulating hormones (LH and FSH) have not been found in lancelet.  However, genes for the cell surface receptors activated by these hormones are expressed.  The same is true for many different hormones and their corresponding receptors.  A large number of such orphan nuclear receptors have been reported in animals where there is no evidence of the presence of the hormone to which they bind.</para>
+<para id="fs-id1166168129580">C. <emphasis>Analyze</emphasis> these data (a table to organize the data is suggested) for supporting evidence of the alternative superphylum, <emphasis effect="italics">Coelomata</emphasis>. Consider:</para><list id="fs-id1166171539454">
+<item>separate selection of signaling molecules and the proteins that detect them</item>
+<item>constitutive (always transcribed) expression</item>
+<item>the possible effect of gene deletion</item>
+</list>
+<para id="fs-id1166168464989">D. <emphasis>Evaluate</emphasis> the legitimacy of a claim that a hormone is not present although the receptor for that hormone has been found.</para>
+<para id="fs-id1166171679570">Genes for receptors and the hormones to which they bind are often found on different chromosomes and have co-evolved.  Other ligands may have an affinity for orphaned receptors.  By understanding the three-dimensional shape of the ligand binding site of a nuclear receptor, new drugs can be developed to match the site and regulate expression when the endocrine system fails.  Even greater flexibility in drug design is allowed when small molecules, called positive (PAM) and negative (NAM) allosteric modulators, change the shape of the ligand binding site.  The receptors for follicle stimulating hormone (FSH) and luteinizing hormone (LH) were subjects in a drug discovery program using PAMs and NAMs (Nataraja et al., <emphasis effect="italics">Frontiers in Endocrinology</emphasis>, 6, 2015).</para><para id="fs-id1166173407565">E. <emphasis>Explain</emphasis> how the refinement of nuclear receptor by attachment of a molecule other than the ligand of the receptor can increase the level of expression of genes targeted by the transcription factor.</para>
+</problem>
+</exercise>
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-idp25731520"><term>amino acid-derived hormone</term> <meaning id="fs-idp28405696">hormone derived from amino acids</meaning></definition>
+<definition id="fs-idp26239024"><term>lipid-derived hormone</term> <meaning id="fs-idp202364672">hormone derived mostly from cholesterol</meaning></definition>
+<definition id="fs-idp100534976"><term>peptide hormone</term> <meaning id="fs-idp201216384">hormone composed of a polypeptide chain</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,76 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Genome</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45455</md:content-id>
+  <md:title>The Genome</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the prokaryotic and eukaryotic genome</item>
+<item>Distinguish between chromosomes, genes, and traits</item>
+</list></md:abstract>
+  <md:uuid>2d50c698-729c-4750-81cf-f131c192ea12</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2918946">The continuity of life from one cell to another has its foundation in the reproduction of cells by way of the cell cycle. The cell cycle is an orderly sequence of events in the life of a cell from the division of a single parent cell to produce two new daughter cells, to the subsequent division of those daughter cells. The mechanisms involved in the cell cycle are highly conserved across eukaryotes. Organisms as diverse as protists, plants, and animals employ similar steps.</para>
+<section id="fs-id1771455">
+<title>Genomic DNA</title>
+<para id="fs-id3052052">Before discussing the steps a cell undertakes to replicate, a deeper understanding of the structure and function of a cell’s genetic information is necessary. A cell’s complete complement of DNA is called its <term>genome</term>. In prokaryotes, the genome is composed of a single, double-stranded DNA molecule in the form of a loop or circle. The region in the cell containing this genetic material is called a nucleoid. Some prokaryotes also have smaller loops of DNA called plasmids that are not essential for normal growth.</para>
+<para id="fs-id1766337">In eukaryotes, the genome comprises several double-stranded, linear DNA molecules (<link target-id="fig-ch06_01_01" document=""/>) bound with proteins to form complexes called chromosomes. Each species of eukaryote has a characteristic number of chromosomes in the nuclei of its cells. Human body cells (somatic cells) have 46 chromosomes. A somatic cell contains two matched sets of chromosomes, a configuration known as <term>diploid</term>. The letter <emphasis effect="italics">n</emphasis> is used to represent a single set of chromosomes; therefore a diploid organism is designated 2<emphasis effect="italics">n</emphasis>. Human cells that contain one set of 23 chromosomes are called <term>gametes</term>, or sex cells; these eggs and sperm are designated <emphasis effect="italics">n</emphasis>, or <term>haploid</term>.</para>
+<figure id="fig-ch06_01_01"><media id="fs-id2071867" alt="Chromosomes from a human female are shown in a nucleus, scattered outside the nucleus, and arranged in numerical order, from 1–22 followed by X. Each chromosome is stained a different color.">
+<image mime-type="image/jpg" src="../../media/Figure_06_01_01-54ec.jpg" width="320"/>
+</media>
+
+<caption>There are 23 pairs of homologous chromosomes in a female human somatic cell. These chromosomes are viewed within the nucleus (top), removed from a cell in mitosis (right), and arranged according to length (left) in an arrangement called a karyotype. In this image, the chromosomes were exposed to fluorescent stains to distinguish them. (credit: “718 Bot”/Wikimedia Commons, National Human Genome Research)</caption></figure><para id="fs-id1448039">The matched pairs of chromosomes in a diploid organism are called <term>homologous chromosomes</term>. Homologous chromosomes are the same length and have specific nucleotide segments called <term>genes</term> in exactly the same location, or <term>locus</term>. Genes, the functional units of chromosomes, determine specific characteristics by coding for specific proteins. Traits are the different forms of a characteristic. For example, the shape of earlobes is a characteristic with traits of free or attached.</para>
+<para id="fs-id3319116">Each copy of the homologous pair of chromosomes originates from a different parent; therefore, the copies of each of the genes themselves may not be identical. The variation of individuals within a species is caused by the specific combination of the genes inherited from both parents. For example, there are three possible gene sequences on the human chromosome that codes for blood type: sequence A, sequence B, and sequence O. Because all diploid human cells have two copies of the chromosome that determines blood type, the blood type (the trait) is determined by which two versions of the marker gene are inherited. It is possible to have two copies of the same gene sequence, one on each homologous chromosome (for example, AA, BB, or OO), or two different sequences, such as AB.</para>
+<para id="fs-id2121629">Minor variations in traits such as those for blood type, eye color, and height contribute to the natural variation found within a species. The sex chromosomes, X and Y, are the single exception to the rule of homologous chromosomes; other than a small amount of homology that is necessary to reliably produce gametes, the genes found on the X and Y chromosomes are not the same.</para>
+</section>
+
+<section id="fs-id1884006" class="summary"> <title>Section Summary</title><para id="fs-id1812835">Prokaryotes have a single loop chromosome, whereas eukaryotes have multiple, linear chromosomes surrounded by a nuclear membrane. Human somatic cells have 46 chromosomes consisting of two sets of 22 homologous chromosomes and a pair of nonhomologous sex chromosomes. This is the 2<emphasis effect="italics">n,</emphasis> or diploid, state. Human gametes have 23 chromosomes or one complete set of chromosomes. This is the <emphasis effect="italics">n,</emphasis> or haploid, state. Genes are segments of DNA that code for a specific protein or RNA molecule. An organism’s traits are determined in large part by the genes inherited from each parent, but also by the environment that they experience.  Genes are expressed as characteristics of the organism and each characteristic may have different variants called traits that are caused by differences in the DNA sequence for a gene.</para>
+</section>
+
+<section id="fs-id3103393" class="multiple-choice"> <title>Multiple Choice</title>
+<exercise id="fs-id1690762">
+<problem id="fs-id1650048"><para id="fs-id1650049">A diploid cell has ________ the number of chromosomes as a haploid cell.</para>
+<list id="fs-id2572349" list-type="enumerated" number-style="lower-alpha">
+<item>one-fourth</item>
+<item>one-half</item>
+<item>twice</item>
+<item>four times</item>
+</list>
+</problem>
+<solution id="fs-id1786775"> <label/> <para id="fs-id2055064">C</para> </solution>
+</exercise>
+<exercise id="fs-id2079712">
+<problem id="fs-id2061417"><para id="fs-id1358613">An organism’s traits are determined by the specific combination of inherited ________.</para>
+<list id="fs-id2278079" list-type="enumerated" number-style="lower-alpha">
+<item>cells</item>
+<item>genes</item>
+<item>proteins</item>
+<item>chromatids</item>
+</list>
+</problem>
+<solution id="fs-id2020665"> <label/> <para id="fs-id1291312">B</para> </solution>
+</exercise>
+</section>
+
+<section id="fs-id2255196" class="critical-thinking"> <title>Free Response</title>
+<exercise id="fs-id1565996">
+<problem id="fs-id1538179"><para id="fs-id1463460">Compare and contrast a human somatic cell to a human gamete.</para></problem>
+<solution id="fs-id1466315"><label/> <para id="fs-id2891169">Human somatic cells have 46 chromosomes, including 22 homologous pairs and one pair of nonhomologous sex chromosomes. This is the 2<emphasis effect="italics">n,</emphasis> or diploid, condition. Human gametes have 23 chromosomes, one each of 23 unique chromosomes. This is the <emphasis effect="italics">n,</emphasis> or haploid, condition.</para> </solution>
+</exercise>
+</section>
+ </content>
+
+<glossary>
+<definition id="fs-id1285467"><term>diploid</term> <meaning id="fs-id3052105">describes a cell, nucleus, or organism containing two sets of chromosomes (2<emphasis effect="italics">n</emphasis>)</meaning></definition>
+<definition id="fs-id1802930"><term>gamete</term> <meaning id="fs-id2984395">a haploid reproductive cell or sex cell (sperm or egg)</meaning></definition>
+<definition id="fs-id1778890"><term>gene</term> <meaning id="fs-id2300472">the physical and functional unit of heredity; a sequence of DNA that codes for a specific peptide or RNA molecule</meaning></definition>
+<definition id="fs-id2991028"><term>genome</term> <meaning id="fs-id1339961">the entire genetic complement (DNA) of an organism</meaning></definition>
+<definition id="fs-id2853889"><term>haploid</term> <meaning id="fs-id1449105">describes a cell, nucleus, or organism containing one set of chromosomes (<emphasis effect="italics">n</emphasis>)</meaning></definition>
+<definition id="fs-id1879640"><term>homologous chromosomes</term> <meaning id="fs-id2637809">chromosomes of the same length with genes in the same location; diploid organisms have pairs of homologous chromosomes, and the members of each pair come from different parents</meaning></definition>
+<definition id="fs-id1699902"><term>locus</term> <meaning id="fs-id2072317">the position of a gene on a chromosome</meaning></definition>
+</glossary>
+
+</document>

@@ -1,0 +1,353 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Prokaryotic Cells</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62740</md:content-id>
+  <md:title>Prokaryotic Cells</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Name examples of prokaryotic and eukaryotic organisms</item>
+<item>Compare and contrast prokaryotic cells and eukaryotic cells</item>
+<item>Describe the relative sizes of different kinds of cells</item>
+<item>Explain why cells must be small</item>
+</list></md:abstract>
+  <md:uuid>974f1390-692f-432e-aba2-a4643a966188</md:uuid>
+</metadata>
+
+<content>
+
+<section id="fs-id1167066169808" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167065866449">In this section, you will explore the following questions:</para>
+<list id="fs-id1167066036185">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch04-s02-lo01">What are the major structures of prokaryotic cells?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch04-s02-lo02">What limits the size of a cell?</item>
+</list>
+</section>
+
+<section id="fs-id1167066032022" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167065743218">According to the cell theory, all living organisms, from bacteria to humans, are composed of cells, the smallest units of living matter. Often too small to be seen without a microscope, cells come in all sizes and shapes, and their small size allows for a large surface area-to-volume ratio that enables a more efficient exchange of nutrients and wastes with the environment.</para>
+<para id="fs-id1167065839444">There are three basic types of cells: archaea, bacteria, and eukaryotes. Both archaea and bacteria are classified as prokaryotes, whereas cells of animals, plants, fungi, and protists are eukaryotes. Archaea are a unique group of organisms and likely evolved in the harsh conditions of early Earth and are still prevalent today in extreme environments, such as hot springs and polar regions. All cells share features that reflect their evolution from a common ancestor; these features are 1) a plasma membrane that separates the cell from its environment; 2) cytoplasm comprising the jelly-like cytosol inside the cell; 3) ribosomes that are important for the synthesis of proteins, and 4) DNA to store and transmit hereditary information.</para>
+<para id="fs-id1167065826065">Prokaryotes may also have a cell wall that acts as an extra layer of protection against the external environment. The term “prokaryote” means “before nucleus,” and prokaryotes do not have nuclei. Rather, their DNA exists as a single circular chromosome in the central part of the cell called the nucleoid. Some bacterial cells also have circular DNA plasmids that often carry genes for resistance to antibiotics (Chapter 17). Other common prokaryotic cell features include flagella and pili.</para>
+<para id="fs-id1167064876564" class="ost-reading-discard">The content presented in this section supports the learning objectives outlined in Big Idea 1 and Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives merge essential knowledge content with one or more of the seven Science Practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> exam questions.</para><table id="fs-id1167064854745" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.D.2 Scientific evidence from many different disciplines supports models of the origin of life. Second left cell reads: Science Practice. Second right cell reads: 4.1 The student can justify the selection of the kind of data needed to answer a particular scientific question. Third left cell reads: Learning Objective. Third right cell reads: 1.32 The student is able to justify the selection of geological, physical, chemical, and biological data that reveal early Earth conditions." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.D</emphasis></entry>
+<entry class="ost-standards-description">The origin of living systems is explained by natural processes.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-d-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.D.2</emphasis></span>
+<span class="ost-standards-description">Scientific evidence from many different disciplines supports models of the origin of life.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-4-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.1</emphasis></span>
+<span class="ost-standards-description">The student can justify the selection of the kind of data needed to answer a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch04-s02-aplo-1-32">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>1.32</emphasis></span>
+<span class="ost-standards-description">The student is able to justify the selection of geological, physical, chemical, and biological data that reveal early Earth conditions.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.3</emphasis></span>
+<span class="ost-standards-description">Organisms must exchange matter with the environment to grow, reproduce and maintain organization.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.2</emphasis></span>
+<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch04-s02-aplo-2-6">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.6</emphasis></span>
+<span class="ost-standards-description">The student is able to use calculated surface area-to-volume ratios to predict which cell(s) might eliminate wastes or procure nutrients faster by diffusion.</span>
+</entry>
+</row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.3</emphasis></span>
+<span class="ost-standards-description">Organisms must exchange matter with the environment to grow, reproduce and maintain organization.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch04-s02-aplo-2-7">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.7</emphasis></span>
+<span class="ost-standards-description">The student will be able to explain how cell sizes and shapes affect the overall rate of nutrient intake and the rate of waste elimination.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table></section><note id="fs-id1167064535475" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167065772688" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167065841232">The major structures common to all bacteria are depicted in Figure 4.5. The cell wall contains a complex structural component, the peptidoglycan layer, which has yet to be observed in any eukaryotic cell. This peptidoglycan layer is made of a network of alternating modified complex sugar units, the glycans, joined by peptide cross-bridges. This rigid structure contributes to the shape of bacterial cells and protects them against changes in osmotic pressure in the environment. Antibiotics such as penicillin interfere with the synthesis of the peptidoglycan layers and cause bacterial cells to lyse without affecting the human host.</para>
+<para id="fs-id1167065024345">Many bacterial cells contain plasmids: small, extrachromosomal rings of double-stranded DNA which can replicate independently of the bacterial chromosome and often carry genes which confer resistance to antibiotics. Bacteria readily transfer plasmids to other bacterial cells by a mechanism called horizontal gene transfer, thereby spreading antibiotic resistance.</para>
+<para id="fs-id1167066035792">Cells at the lower end of the size spectrum are limited on just how small they can be. To illustrate, compare a bacterial cell to a bag packed for camping in the wilderness. In order to make the camping trip possible, the bag must contain a minimum amount of supplies and equipment. Here, introduce the concept of prokaryotes, bacteria and archaea. Prokaryotes are the most successful organisms on the planet. They probably appeared first during evolution and occupy every possible environment.</para>
+<para id="fs-id1167065847278">Surface area-to-volume ratio limits the maximum size of a cell. Nutrients and intermediates enter the cell by diffusion. As the cell increases in size, the volume increase outpaces the surface area increase, and the cell size exceeds the capacity of the surface area to adequately exchange nutrients and waste with the external environment.</para>
+</note>
+
+<note id="fs-id1167066097328" class="ost-misconception"><label>Misconception Alert</label>
+<para id="fs-id1167064892531">“All bacteria cause disease.” This misconception started with the germ theory of disease when it became clear that some of the most feared diseases were caused by microorganisms. In fact, very few microorganisms are actually pathogens. The balance between control of infectious diseases and reasonable sanitary standards is often misunderstood. Excess hygiene is thought to have caused an increase in asthma and other immune system imbalances between a human host and the human microbiome. Ask students if one can be “too clean.” The notion that improved hygiene has led to increases in the prevalence of allergies and asthma is called the “hygiene hypothesis.”</para>
+<para id="fs-id1167065721087">Until recently, surface area-to-volume ratio was considered the main factor in determining the limits of cell sizes. New research opened the possibility that other factors such as avoiding predators, cell division mechanics and environment also contribute to size and shape determination. The topic is reviewed in the following article:</para>
+<para id="fs-id1167066023720">Young, K. D. (2006). The Selective Value of Bacterial Shape. <emphasis effect="italics">Microbiology and Molecular Biology Reviews</emphasis>, <emphasis effect="italics">70</emphasis>(3), 660–703. doi:10.1128	/MMBR.00001-06</para>
+<para id="fs-id1167066121906">Show in class, if possible, the following <link window="new" url="http://openstax.org/l/32cellsize_1">video</link> from HHMI on the discovery of microbial life by Leeuwenhoek.</para><para id="fs-id1167065879103">Use the video to discuss what set apart the single lens microscope of Leeuwenhoek. Challenge students by asking them why the rapid development of microbiology, the so-called golden age, happened in the nineteenth century, close to 200 years after the discovery of microbial life. One of the main reasons is the germ theory of disease. Once the connection was made between devastating diseases and microbes, the interest in microorganisms soared.</para>
+<para id="fs-id1167064541128">Ask students if they can think of ways in which bacteria are beneficial and write them on the board. Include the obvious ones such as probiotics; food and fermentation; and the less obvious ones such as to stimulate the immune system, biofuels, bioremediation (here mention cleaning oil spills), and synthesis of useful products (antibiotics).</para>
+<para id="fs-id1167065851553">Ask students if a cell in a 30-meter long blue whale is considerably larger than a cell in a tiny water flea at 3 mm long. Record answers on the board. Cells are similar in size because there are constraints on how large and how small they can be and still be functionally independent entities.</para>
+</note></note>
+
+<para id="fs-id1961711">Cells fall into one of two broad categories: prokaryotic and eukaryotic. Only the predominantly single-celled organisms of the domains Bacteria and Archaea are classified as prokaryotes (pro- = “before”; -kary- = “nucleus”). Cells of animals, plants, fungi, and protists are all eukaryotes (eu- = “true”) and have a nucleus.</para><section id="fs-id2215233" class="ost-tag-lo-apbio-ch04-s02-lo01 ost-tag-lo-apbio-ch04-s02-aplo-1-32 ost-get-exercise">
+<title>Components of Prokaryotic Cells</title>
+<para id="fs-id1801596">All cells share four common components: 1) a plasma membrane, an outer covering that separates the cell’s interior from its surrounding environment; 2) cytoplasm, consisting of a jelly-like cytosol within the cell in which other cellular components are found; 3) DNA, the genetic material of the cell; and 4) ribosomes, which synthesize proteins. However, prokaryotes differ from eukaryotic cells in several ways.</para>
+<para id="fs-id1325738">A <term>prokaryote</term> is a simple, single-celled (unicellular) organism that lacks a nucleus, or any other membrane-bound organelle. We will shortly come to see that this is significantly different in eukaryotes. Prokaryotic DNA is found in a central part of the cell: the <term>nucleoid</term> (<link target-id="fig-ch04-02-01" document=""/>).</para><figure id="fig-ch04-02-01" class="ost-tag-lo-apbio-ch04-s02-lo01 ost-tag-lo-apbio-ch04-s02-aplo-1-32"><media id="fs-id1407801" alt="In this illustration, the prokaryotic cell has an oval shape. The circular chromosome is concentrated in a region called the nucleoid. The fluid inside the cell is called the cytoplasm. Ribosomes, depicted as small circles, float in the cytoplasm. The cytoplasm is encased by a plasma membrane, which in turn is encased by a cell wall. A capsule surrounds the cell wall. The bacterium depicted has a flagellum protruding from one narrow end. Pili are small protrusions that project from the capsule in all directions.">
+<image mime-type="image/jpg" src="../../media/Figure_04_02_01-5016.jpg" width="350"/>
+</media>
+
+<caption>This figure shows the generalized structure of a prokaryotic cell. All prokaryotes have chromosomal DNA localized in a nucleoid, ribosomes, a cell membrane, and a cell wall. The other structures shown are present in some, but not all, bacteria.</caption></figure>
+
+<note id="fs-id1167067258968" class="ap-everyday ost-assessed-feature ost-tag-lo-apbio-ch04-s02-aplo-1-18 ost-tag-lo-apbio-ch04-s02-lo01">
+<label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<para id="fs-id1167067034733">While the Earth is approximately 4.6 billion years old, the earliest fossil evidence for life are of microbial mats that date back to 3.5 billion years.</para><exercise id="fs-id1167067093122" class="os-exercise unnumbered"><label/>
+
+<problem id="fs-id1167066945805">
+<para id="fs-id1167063772274">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex068"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-id1798051">Most prokaryotes have a peptidoglycan cell wall and many have a polysaccharide capsule (<link target-id="fig-ch04-02-01" document=""/>). The cell wall acts as an extra layer of protection, helps the cell maintain its shape, and prevents dehydration. The capsule enables the cell to attach to surfaces in its environment. Some prokaryotes have flagella, pili, or fimbriae. Flagella are used for locomotion. Pili are used to exchange genetic material during a type of reproduction called conjugation. Fimbriae are used by bacteria to attach to a host cell.</para>
+<note id="fs-id1193831" class="career ost-feature ost-tag-lo-apbio-ch04-s02-lo01 ost-tag-lo-apbio-ch04-s02-aplo-1-32"><title>Microbiologist</title>
+
+<para id="fs-id1056900">The most effective action anyone can take to prevent the spread of contagious illnesses is to wash his or her hands. Why? Because microbes (organisms so tiny that they can only be seen with microscopes) are ubiquitous. They live on doorknobs, money, your hands, and many other surfaces. If someone sneezes into his hand and touches a doorknob, and afterwards you touch that same doorknob, the microbes from the sneezer’s mucus are now on your hands. If you touch your hands to your mouth, nose, or eyes, those microbes can enter your body and could make you sick.</para>
+<para id="fs-id1627806">However, not all microbes (also called microorganisms) cause disease; most are actually beneficial. You have microbes in your gut that make vitamin K.</para>
+<para id="fs-id1904890">Microbiologists are scientists who study microbes. Microbiologists can pursue a number of careers. Not only do they work in the food industry, they are also employed in the veterinary and medical fields. They can work in the pharmaceutical sector, serving key roles in research and development by identifying new sources of antibiotics that could be used to treat bacterial infections.</para>
+<para id="fs-id2028947">Environmental microbiologists may look for new ways to use specially selected or genetically engineered microbes for the removal of pollutants from soil or groundwater, as well as hazardous elements from contaminated sites. These uses of microbes are called bioremediation technologies. Microbiologists can also work in the field of bioinformatics, providing specialized knowledge and insight for the design, development, and specificity of computer models of, for example, bacterial epidemics.</para>
+</note><section id="fs-id1889993" class="ost-tag-lo-apbio-ch04-s02-lo02 ost-tag-lo-apbio-ch04-s02-aplo-2-6 ost-get-exercise">
+<title>Cell Size</title>
+<para id="fs-id1775152">At 0.1 to 5.0 μm in diameter, prokaryotic cells are significantly smaller than eukaryotic cells, which have diameters ranging from 10 to 100 μm (<link target-id="fig-ch04-02-02" document=""/>). The small size of prokaryotes allows ions and organic molecules that enter them to quickly diffuse to other parts of the cell. Similarly, any wastes produced within a prokaryotic cell can quickly diffuse out. This is not the case in eukaryotic cells, which have developed different structural adaptations to enhance intracellular transport.</para>
+<figure id="fig-ch04-02-02" class="ost-tag-lo-apbio-ch04-s02-lo02 ost-tag-lo-apbio-ch04-s02-aplo-2-6"><media id="fs-id607795" alt="Part a: Relative sizes on a logarithmic scale, from 0.1 nm to 1 m, are shown. Objects are shown from smallest to largest. The smallest object shown, an atom, is about 1 nm in size. The next largest objects shown are lipids and proteins; these molecules are between 1 and 10 nm. Bacteria are about 100 nm, and mitochondria are about 1 greek mu m. Plant and animal cells are both between 10 and 100 greek mu m. A human egg is between 100 greek mu m and 1 mm. A frog egg is about 1 mm, A chicken egg and an ostrich egg are both between 10 and 100 mm, but a chicken egg is larger. For comparison, a human is approximately 1 m tall.">
+<image mime-type="image/jpg" src="../../media/Figure_04_02_02-2dda.jpg" width="600"/>
+</media>
+
+<caption>This figure shows relative sizes of microbes on a logarithmic scale (recall that each unit of increase in a logarithmic scale represents a 10-fold increase in the quantity being measured).</caption></figure><para id="fs-id1443691">Small size, in general, is necessary for all cells, whether prokaryotic or eukaryotic. Let’s examine why that is so. First, we’ll consider the area and volume of a typical cell. Not all cells are spherical in shape, but most tend to approximate a sphere. You may remember from your high school geometry course that the formula for the surface area of a sphere is 4πr<sup>2</sup>, while the formula for its volume is 4πr<sup>3</sup>/3. Thus, as the radius of a cell increases, its surface area increases as the square of its radius, but its volume increases as the cube of its radius (much more rapidly). Therefore, as a cell increases in size, its surface area-to-volume ratio decreases. This same principle would apply if the cell had the shape of a cube (<link target-id="fig-ch04-02-03" document="" class="has-default-text">see this figure</link>). If the cell grows too large, the plasma membrane will not have sufficient surface area to support the rate of diffusion required for the increased volume. In other words, as a cell grows, it becomes less efficient. One way to become more efficient is to divide. Other ways are to increase surface area by foldings of the cell membrane, become flat or thin and elongated, or develop organelles that perform specific tasks. These adaptations lead to the development of more sophisticated cells called eukaryotic cells.</para><para id="fs-id1164189032306">Besides the volume of the cell, the size of the cell is also important for survival. As mentioned before, most cells are approximately spherical in shape. This is because a sphere is the shape with the largest surface area-to-volume ratio. As nutrients diffuse into the cell, a sphere is the shape where nutrients would have to travel the least distance to reach the center. This is important because nutrients and wastes are always exchanged at the periphery of the cell. The shorter the distance these nutrients and wastes have to travel, the faster the exchange of these molecules are.</para>
+
+<note id="fs-id1456208" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
+<para id="fs-id1418460">
+<figure id="fig-ch04-02-03"><media id="fs-id1322516" alt="On the left, a sphere 1 mm in diameter is encased in a box of the same width. On the right, the same sphere is encased in a box 2 mm in diameter.">
+<image mime-type="image/png" src="../../media/Figure_04_02_03.png" width="350"/>
+</media>
+<caption>Notice that as a cell increases in size, its surface area-to-volume ratio decreases. When there is insufficient surface area to support a cell’s increasing volume, a cell will either divide or die. The cell on the left has a volume of 1 mm<sup>3</sup> and a surface area of 6 mm<sup>2</sup>, with a surface area-to-volume ratio of 6 to 1, whereas the cell on the right has a volume of 8 mm<sup>3</sup> and a surface area of 24 mm<sup>2</sup>, with a surface area-to-volume ratio of 3 to 1.</caption></figure></para>
+<exercise id="fs-id1167066091735" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065823102">
+<para id="fs-id1167065739658">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex011"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+
+
+
+<note id="fs-id1167064769450" class="ap-science-practices ost-reading-discard"><label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065788013" class="ost-assignable ost-sciprac-activity ost-tag-lo-apbio-ch04-s02-aplo-2-6">
+<para id="fs-id1167065893323">Create an annotated diagram to explain how approximately 300 million alveoli in a human lung increases surface area for gas exchange to the size of a tennis court. Use the diagram to explain how the cellular structures of alveoli, capillaries, and red blood cells allow for rapid diffusion of O<sub>2</sub> and CO<sub>2</sub> among them.</para>
+</note>
+
+<note id="fs-id1167065736777" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch04-s02-aplo-4-4"><label/>
+<title>Think About It</title>
+<exercise id="eip-id1167066037315" class="unnumbered"><label/>
+<problem id="eip-id1167065887335">
+<para id="fs-id1167065879973">Which of the following cells would likely exchange nutrients and wastes with its environment more efficiently: a spherical cell with a diameter of 5 μm or a cubed-shaped cell with a side length of 7μm? Provide a quantitative justification for your answer based on surface area-to-volume ratios.</para>
+</problem>
+</exercise>
+</note>
+
+<!--<exercise id="eip-id1167065858933" class="os-exercise unnumbered"><label/>
+<problem id="eip-id1167064948558">
+<para id="eip-id1167064948560">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex068"/>
+</para>
+</problem>
+</exercise>--></note>
+<note id="fs-id1167065708388" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065865264">This activity is an application of Learning Objective 2.6 and Science Practice 6.2 because students are creating a diagram to explain diffusion rates across membranes.</para>
+<para id="fs-id1167065961612">The Think about it question is an application of Learning Objective 2.6 and Science Practice 2.2 and Learning Objective 2.7 and Science Practice 2.2 because they need to calculate surface area-to-volume ratios for two different shapes and sizes of cells to predict which one procures nutrients or eliminates wastes more efficiently.</para>
+<para id="fs-id1167065948129">Cell sizes and shapes can vary. The longest cells are neurons that start at the brain and reach the limbs. Other examples of large cells include bird eggs, skeletal muscle cells, and the marine algae <emphasis effect="italics">Caulerpa</emphasis> and <emphasis effect="italics">Acetabularia</emphasis>. These are exceptional cells and have unusual solutions to the surface area-to-volume challenge.</para>
+<note id="fs-id1167065837761"><label>Possible answer to activity:</label>
+<para id="fs-id1167066059077">The main point is that the alveoli cover a large surface because they are essentially very small beads packed in two large bags, the lungs. The sum of the individual surface areas of these microscopic beads is equivalent to the surface of a tennis court (roughly 200 m<sup>2</sup> for singles). The surface area of a sphere is 4πr<sup>2</sup>. If the average diameter of an alveolus is 300 µm, which is equal to 0.3mm, the average surface area of an alveolus is</para>
+
+<m:math display="block">
+ <m:mrow>
+  <m:mn>4</m:mn><m:mo>×</m:mo><m:mi>π</m:mi><m:mo>×</m:mo><m:msup>
+   <m:mrow>
+    <m:mo stretchy="false">(</m:mo><m:mfrac>
+     <m:mrow>
+      <m:mn>0.3</m:mn><m:mtext>mm</m:mtext>
+     </m:mrow>
+     <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mo stretchy="false">)</m:mo>
+   </m:mrow>
+   <m:mn>2</m:mn>
+  </m:msup>
+  <m:mo>≈</m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>3</m:mn><m:msup>
+   <m:mrow>
+    <m:mtext>mm</m:mtext>
+   </m:mrow>
+   <m:mn>2</m:mn>
+  </m:msup>
+ </m:mrow>
+</m:math></note>
+
+<para id="fs-id1167064986682">1mm=10<sup>-3</sup>m</para>
+<para id="fs-id1167065016051">1mm<sup>2</sup>=1mm*1mm=10<sup>-3</sup>m*10<sup>-3</sup>m=10<sup>-6</sup>m<sup>2</sup></para>
+<para id="fs-id1167065855626">The surface area of an alveolus in square meters is equal to 0.3 × 10<sup>-6</sup>m<sup>2</sup>. If there are 300 million (300 × 10<sup>6</sup>) alveoli in one lung, the total surface is equal to about 90m<sup>2</sup> which is almost half the area of a tennis court!</para>
+<para id="fs-id1167062400308">Demonstration</para>
+<para id="fs-id1167065896660">Take a piece of paper and crumple it to show how a large surface area can fit in a small volume.</para>
+<para id="fs-id1167065827386">The alveoli are squamous cells, thin and flat; the capillaries have the diameter of a hair (from the Latin <emphasis effect="italics">capellus</emphasis>, meaning “hair”). Oxygen diffuses through very thin barriers only two cell membranes thick.</para>
+<note id="fs-id1167065891557"><label>Possible answers to Think About It question:</label>
+<para id="fs-id1167065886789">Calculate:</para>
+<para id="fs-id1167065066627">The dimension of the sphere given is the diameter. It must be divided by 2 to obtain the value for the radius.</para>
+<para id="fs-id1167066091226">D=5µm and r=D/2=2.5µm</para>
+<para id="fs-id1167065771950">Surface area of sphere: 4πr<sup>2 </sup>=78.54µm<sup>2</sup></para>
+<para id="fs-id1167064908526">Volume: 4/3πr<sup>3</sup>= 65.45µm<sup>3</sup></para>
+<para id="fs-id1167065919841">Surface area-to-volume ratio=1.2 µm<sup>-1</sup></para>
+<para id="fs-id1167065884909">Cube</para>
+<para id="fs-id1167064708663">Surface area: 6s<sup>2</sup> =294 µm<sup>2</sup></para>
+<para id="fs-id1167065794835">Volume: s<sup>3</sup> = 343 µm<sup>3</sup></para>
+<para id="fs-id1167065809243">Surface area to volume: 294/343 =0.86 µm<sup>-1</sup></para>
+<para id="fs-id1167062299486">The sphere has a larger surface area to volume ratio and would exchange chemicals with the environment more efficiently to support its volume, even though the cube has a larger surface area.</para>
+<para id="fs-id1167065878293">Desai B.V., Harmon, R. M. and Green K. J. (2009). <emphasis effect="italics">Desmosomes at a glance</emphasis> Journal of Cell Science 122, 4401-4407</para></note>
+</note>
+
+<section id="fs-id1857265" class="summary">
+<title>Section Summary</title><para id="fs-id1320930">Prokaryotes are single-celled organisms of the domains Bacteria and Archaea. All prokaryotes have plasma membranes, cytoplasm, ribosomes, and DNA that is not membrane-bound. Most have peptidoglycan cell walls and many have polysaccharide capsules. Prokaryotic cells range in diameter from 0.1 to 5.0 μm.</para><para id="fs-id1320804">As a cell increases in size, its surface area-to-volume ratio decreases. If the cell grows too large, the plasma membrane will not have sufficient surface area to support the rate of diffusion required for the increased volume.</para>
+</section>
+
+<section id="fs-id1167064928921" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167066121955" class="os-exercise">
+<problem id="fs-id1167064824360">
+<para id="fs-id1167063152525">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex012"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065898749" class="os-exercise">
+<problem id="fs-id1167065863471">
+<para id="fs-id1167065826408">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex013"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065795593" class="os-exercise">
+<problem id="fs-id1167065853790">
+<para id="fs-id1167065034105">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex014"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064744646" class="os-exercise">
+<problem id="fs-id1167065770291">
+<para id="fs-id1167065854993">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex015"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-id1167065869733" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167065841109" class="os-exercise">
+<problem id="fs-id1167065722022">
+<para id="fs-id1167065872834">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex016"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065770877" class="os-exercise">
+<problem id="fs-id1167062315552">
+<para id="fs-id1167065770826">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex017"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-id1167065822816" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167066054814" class="os-exercise ost-tag-lo-apbio-ch04-s02-aplo-1-32">
+<problem id="fs-id1167065828677">
+<para id="fs-id1167065880148">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex018"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065714452" class="os-exercise ost-tag-lo-apbio-ch04-s02-aplo-1-32">
+<problem id="fs-id1167065807742">
+<para id="fs-id1167065853525">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex019"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066030326" class="os-exercise ost-tag-lo-apbio-ch04-s02-aplo-2-6">
+<problem id="fs-id1167065755627">
+<para id="fs-id1167064906399">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex020"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065846344" class="os-exercise ost-tag-lo-apbio-ch04-s02-aplo-2-6">
+<problem id="fs-id1167065944125">
+<para id="fs-id1167065880029">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex021"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065851051" class="os-exercise ost-tag-lo-apbio-ch04-s02-aplo-2-6">
+<problem id="fs-id1167064910564">
+<para id="fs-id1167065948677">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex022"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065711686" class="os-exercise ost-tag-lo-apbio-ch04-s02-aplo-2-6">
+<problem id="fs-id1167065826660">
+<para id="fs-id1167066020703">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex023"/>
+</para>
+</problem>
+</exercise>
+</section></section>
+
+
+ </content>
+
+<glossary>
+<definition id="fs-id1330398"><term>nucleoid</term> <meaning id="fs-id1227229">central part of a prokaryotic cell in which the chromosome is found</meaning></definition>
+<definition id="fs-id1703590"><term>prokaryote</term> <meaning id="fs-id1338820">unicellular organism that lacks a nucleus or any other membrane-bound organelle</meaning></definition>
+</glossary>
+
+</document>

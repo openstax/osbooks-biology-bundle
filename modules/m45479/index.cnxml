@@ -1,0 +1,129 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Translation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45479</md:content-id>
+  <md:title>Translation</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the different steps in protein synthesis</item>
+<item>Discuss the role of ribosomes in protein synthesis</item>
+<item>Describe the genetic code and how the nucleotide sequence determines the amino acid and the protein sequence</item>
+</list></md:abstract>
+  <md:uuid>1541fd5d-4916-4286-9b65-f881867befaf</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp89464864">The synthesis of proteins is one of a cell’s most energy-consuming metabolic processes. In turn, proteins account for more mass than any other component of living organisms (with the exception of water), and proteins perform a wide variety of the functions of a cell. The process of translation, or protein synthesis, involves decoding an mRNA message into a polypeptide product. Amino acids are covalently strung together in lengths ranging from approximately 50 amino acids to more than 1,000.</para>
+<section id="fs-idp30566448">
+<title>The Protein Synthesis Machinery</title>
+<para id="fs-idp18630208">In addition to the mRNA template, many other molecules contribute to the process of translation. The composition of each component may vary across species; for instance, ribosomes may consist of different numbers of ribosomal RNAs (<term>rRNA</term>) and polypeptides depending on the organism. However, the general structures and functions of the protein synthesis machinery are comparable from bacteria to human cells. Translation requires the input of an mRNA template, ribosomes, tRNAs, and various enzymatic factors (<link target-id="fig-ch09_04_01" document=""/>).</para>
+<figure id="fig-ch09_04_01">
+<media id="fs-idp71480720" alt="Illustration of the molecules involved in protein translation. A ribosome is shown with mRNA and tRNA. Amino acids are emerging to form a protein chain.">
+<image mime-type="image/jpg" src="../../media/Figure_09_04_01-2820.jpg" width="320"/>
+</media>
+<caption>The protein synthesis machinery includes the large and small subunits of the ribosome, mRNA, and tRNA. (credit: modification of work by NIGMS, NIH)</caption>
+</figure>
+<para id="fs-idp112281632">In <emphasis effect="italics">E. coli</emphasis>, there are 200,000 ribosomes present in every cell at any given time. A ribosome is a complex macromolecule composed of structural and catalytic rRNAs, and many distinct polypeptides. In eukaryotes, the nucleolus is completely specialized for the synthesis and assembly of rRNAs.</para>
+<para id="fs-idp40004288">Ribosomes are located in the cytoplasm in prokaryotes and in the cytoplasm and endoplasmic reticulum of eukaryotes. Ribosomes are made up of a large and a small subunit that come together for translation. The small subunit is responsible for binding the mRNA template, whereas the large subunit sequentially binds <term>tRNAs</term>, a type of RNA molecule that brings amino acids to the growing chain of the polypeptide. Each mRNA molecule is simultaneously translated by many ribosomes, all synthesizing protein in the same direction.</para>
+<para id="fs-idp86500640">Depending on the species, 40 to 60 types of tRNA exist in the cytoplasm. Serving as adaptors, specific tRNAs bind to sequences on the mRNA template and add the corresponding amino acid to the polypeptide chain. Therefore, tRNAs are the molecules that actually “translate” the language of RNA into the language of proteins. For each tRNA to function, it must have its specific amino acid bonded to it. In the process of tRNA “charging,” each tRNA molecule is bonded to its correct amino acid.</para>
+</section>
+<section id="fs-idp165032192">
+<title>The Genetic Code</title>
+<para id="fs-idp107859264">To summarize what we know to this point, the cellular process of transcription generates messenger RNA (mRNA), a mobile molecular copy of one or more genes with an alphabet of A, C, G, and uracil (U). Translation of the mRNA template converts nucleotide-based genetic information into a protein product. Protein sequences consist of 20 commonly occurring amino acids; therefore, it can be said that the protein alphabet consists of 20 letters. Each amino acid is defined by a three-nucleotide sequence called the triplet <term>codon</term>. The relationship between a nucleotide codon and its corresponding amino acid is called the <term>genetic code</term>.</para>
+<para id="fs-idm42787104">Given the different numbers of “letters” in the mRNA and protein “alphabets,” combinations of nucleotides corresponded to single amino acids. Using a three-nucleotide code means that there are a total of 64 (4 × 4 × 4) possible combinations; therefore, a given amino acid is encoded by more than one nucleotide triplet (<link target-id="fig-ch09_04_02" document=""/>).</para>
+<figure id="fig-ch09_04_02">
+<media id="fs-idp153304544" alt="Figure shows all 64 codons. Sixty-two of these code for amino acids, and three are stop codons shown in red. The start codon, AUG, is colored green.">
+<image mime-type="image/jpg" src="../../media/Figure_09_04_02-376e.jpg" width="350"/>
+</media>
+<caption>This figure shows the genetic code for translating each nucleotide triplet, or codon, in mRNA into an amino acid or a termination signal in a nascent protein. (credit: modification of work by NIH)</caption>
+</figure>
+<para id="fs-idp36584640">Three of the 64 codons terminate protein synthesis and release the polypeptide from the translation machinery. These triplets are called <term>stop codons</term>. Another codon, AUG, also has a special function. In addition to specifying the amino acid methionine, it also serves as the <term>start codon</term> to initiate translation. The reading frame for translation is set by the AUG start codon near the 5' end of the mRNA. The genetic code is universal. With a few exceptions, virtually all species use the same genetic code for protein synthesis, which is powerful evidence that all life on Earth shares a common origin.</para>
+</section>
+<section id="fs-idp89090192">
+<title>The Mechanism of Protein Synthesis</title>
+<para id="fs-idp91206144">Just as with mRNA synthesis, protein synthesis can be divided into three phases: initiation, elongation, and termination. The process of translation is similar in prokaryotes and eukaryotes. Here we will explore how translation occurs in <emphasis effect="italics">E. coli</emphasis>, a representative prokaryote, and specify any differences between prokaryotic and eukaryotic translation.</para>
+<para id="fs-idp5517792">Protein synthesis begins with the formation of an initiation complex. In <emphasis effect="italics">E. coli</emphasis>, this complex involves the small ribosome subunit, the mRNA template, three initiation factors, and a special initiator tRNA. The initiator tRNA interacts with the AUG start codon, and links to a special form of the amino acid methionine that is typically removed from the polypeptide after translation is complete.</para>
+<para id="fs-idp83193104">In prokaryotes and eukaryotes, the basics of polypeptide elongation are the same, so we will review elongation from the perspective of <emphasis effect="italics">E. coli</emphasis>. The large ribosomal subunit of <emphasis effect="italics">E. coli </emphasis>consists of three compartments: the A site binds incoming charged tRNAs (tRNAs with their attached specific amino acids). The P site binds charged tRNAs carrying amino acids that have formed bonds with the growing polypeptide chain but have not yet dissociated from their corresponding tRNA. The E site releases dissociated tRNAs so they can be recharged with free amino acids. The ribosome shifts one codon at a time, catalyzing each process that occurs in the three sites. With each step, a charged tRNA enters the complex, the polypeptide becomes one amino acid longer, and an uncharged tRNA departs. The energy for each bond between amino acids is derived from GTP, a molecule similar to ATP (<link target-id="fig-ch09_04_03" document=""/>). Amazingly, the <emphasis effect="italics">E. coli </emphasis>translation apparatus takes only 0.05 seconds to add each amino acid, meaning that a 200-amino acid polypeptide could be translated in just 10 seconds.</para>
+<figure id="fig-ch09_04_03">
+<media id="fs-idp44696864" alt="Illustration shows the steps of protein synthesis. First, an initiator tRNA recognizes the sequence AUG on the mRNA that is associated with the small ribosomal subunit. The large subunit joins the complex. Next, a second tRNA is recruited at the A site. A peptide bond is formed between the first amino acid, which is at the P site, and the second amino acid, which is at the A site. The mRNA then shifts and the first tRNA is moved to the E site, where it dissociates from the ribosome. Another tRNA binds the A site, and the process is repeated.">
+<image mime-type="image/jpg" src="../../media/Figure_09_04_03-5da7.jpg" width="320"/>
+</media>
+<caption>Translation begins when a tRNA anticodon recognizes a codon on the mRNA. The large ribosomal subunit joins the small subunit, and a second tRNA is recruited. As the mRNA moves relative to the ribosome, the polypeptide chain is formed. Entry of a release factor into the A site terminates translation and the components dissociate.</caption>
+</figure>
+<para id="fs-idp36404448">Termination of translation occurs when a stop codon (UAA, UAG, or UGA) is encountered. When the ribosome encounters the stop codon, the growing polypeptide is released and the ribosome subunits dissociate and leave the mRNA. After many ribosomes have completed translation, the mRNA is degraded so the nucleotides can be reused in another transcription reaction.</para>
+<note id="fs-idp28336400" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idm79989712">Transcribe a gene and translate it to protein using complementary pairing and the genetic code at <link window="new" url="http://openstax.org/l/create_protein2">this site</link>.</para>
+</note></section>
+<section id="fs-idp89509424" class="summary">
+<title>Section Summary</title><para id="fs-idp15086240">The central dogma describes the flow of genetic information in the cell from genes to mRNA to proteins. Genes are used to make mRNA by the process of transcription; mRNA is used to synthesize proteins by the process of translation. The genetic code is the correspondence between the three-nucleotide mRNA codon and an amino acid. The genetic code is “translated” by the tRNA molecules, which associate a specific codon with a specific amino acid. The genetic code is degenerate because 64 triplet codons in mRNA specify only 20 amino acids and three stop codons. This means that more than one codon corresponds to an amino acid. Almost every species on the planet uses the same genetic code.</para>
+<para id="fs-idp69417712">The players in translation include the mRNA template, ribosomes, tRNAs, and various enzymatic factors. The small ribosomal subunit binds to the mRNA template. Translation begins at the initiating AUG on the mRNA. The formation of bonds occurs between sequential amino acids specified by the mRNA template according to the genetic code. The ribosome accepts charged tRNAs, and as it steps along the mRNA, it catalyzes bonding between the new amino acid and the end of the growing polypeptide. The entire mRNA is translated in three-nucleotide “steps” of the ribosome. When a stop codon is encountered, a release factor binds and dissociates the components and frees the new protein.</para>
+</section>
+<section id="fs-idp84234752" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm27189136">
+<problem id="fs-idp77835040">
+<para id="fs-idp148118112">The RNA components of ribosomes are synthesized in the ________.</para>
+<list id="fs-idp67711744" list-type="enumerated" number-style="lower-alpha">
+<item>cytoplasm</item>
+<item>nucleus</item>
+<item>nucleolus</item>
+<item>endoplasmic reticulum</item>
+</list>
+</problem>
+<solution id="fs-idp73138640">
+<label/>
+<para id="fs-idp36387824">C</para>
+</solution>
+</exercise><exercise id="eip-826"><problem id="eip-446">
+  <para id="eip-383">
+    How long would the peptide be that is translated from this MRNA sequence: 5'-AUGGGCUACCGA-3'?
+  </para>
+<list id="eip-idm16117856" list-type="enumerated" number-style="lower-alpha"><item>0</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+</list></problem>
+
+<solution id="eip-79">
+<label/>
+  <para id="eip-940">
+    D
+  </para>
+</solution>
+</exercise></section>
+<section id="fs-idm20404608" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idp43187360">
+<problem id="fs-idp23232080">
+<para id="fs-idp50171552">Transcribe and translate the following DNA sequence (nontemplate strand): 5'-ATGGCCGGTTATTAAGCA-3'</para>
+</problem>
+<solution id="fs-idm14356560">
+<label/>
+<para id="fs-idp26474816">The mRNA would be: 5'-AUGGCCGGUUAUUAAGCA-3'. The protein would be: MAGY. Even though there are six codons, the fifth codon corresponds to a stop, so the sixth codon would not be translated.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp66890864">
+<term>codon</term> <meaning id="fs-idp13272080">three consecutive nucleotides in mRNA that specify the addition of a specific amino acid or the release of a polypeptide chain during translation</meaning>
+</definition>
+<definition id="fs-idp74314480">
+<term>genetic code</term> <meaning id="fs-idp171854496">the amino acids that correspond to three-nucleotide codons of mRNA</meaning>
+</definition>
+<definition id="fs-idp64490848">
+<term>rRNA</term> <meaning id="fs-idp115503168">ribosomal RNA; molecules of RNA that combine to form part of the ribosome</meaning>
+</definition>
+<definition id="fs-idp87072656">
+<term>stop codon</term> <meaning id="fs-idp39847200">one of the three mRNA codons that specifies termination of translation</meaning>
+</definition>
+<definition id="fs-idp77753904">
+<term>start codon</term> <meaning id="fs-idm1006288">the AUG (or, rarely GUG) on an mRNA from which translation begins; always specifies methionine</meaning>
+</definition>
+<definition id="fs-idp112729792">
+<term>tRNA</term> <meaning id="fs-idp46178896">transfer RNA; an RNA molecule that contains a specific three-nucleotide anticodon sequence to pair with the mRNA codon and also binds to a specific amino acid</meaning>
+</definition>
+</glossary>
+</document>

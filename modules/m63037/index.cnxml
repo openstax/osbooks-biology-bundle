@@ -1,0 +1,301 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Energy Flow through Ecosystems</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63037</md:content-id>
+  <md:title>Energy Flow through Ecosystems</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how organisms acquire energy in a food web and in associated food chains</item>
+<item>Explain how the efficiency of energy transfers between trophic levels affects ecosystem structure and dynamics</item>
+<item>Discuss trophic levels and how ecological pyramids are used to model them</item>
+</list></md:abstract>
+  <md:uuid>610a3708-3672-40d9-930c-640eb716145c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167064701896" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167066037563">In this section, you will explore the following questions:</para>
+<list id="fs-id1167066072699">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch37-s02-lo01">How do organisms acquire energy in a food web and associated food chains?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch37-s02-lo02">How does the efficiency of energy transfer between trophic levels affect ecosystem structure and dynamics?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch37-s02-lo03">What are the characteristics of each trophic level in an ecosystem, and how can ecological pyramids be used to model them?</item>
+</list>
+</section>
+<section id="fs-id1167062966035" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167066104859">As we learned when we explored concepts in earlier chapters, all living organisms require energy in one form or another, usually ATP, to carry out cellular processes. It is important to understand how organisms in an ecosystem acquire free energy and how that energy is passed among organisms through food webs and their constituent food chains. Energy takes a one-way path through ecosystems because energy conversions result in a loss of usable (free) energy through the release of heat. In addition, matter cycles and recycles as it moves from organism to organism. We also have learned that the biotic and abiotic components of an ecosystem interact. Autotrophs, chemoautotrophs, heterotrophs and decomposers comprise the living components, whereas abiotic factors include nutrients, temperature, pH, availability of sunlight, and type of soil. In this section, a variety of ways to depict this movement of energy through an ecosystem will be presented. Utilizing multiple representations of data as well as understanding the movement of matter and energy through systems are significant concepts in the AP<sup>®</sup> Biology course.</para>
+<para id="fs-id1167065877128" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167064896794" summary="Table with two columns and three rows. Column 1 Row 1: Essential Knowledge. Column 2 Row 1: 4.A.6 Interactions among living systems and with their environment result in the movement of matter and energy. Column 1 Row 2: Science Practice. Column 2 Row 2: 2.2 The student can apply mathematical routines to quantities that describe natural phenomena. Column 1 Row 3: Learning Objective. Column 2 Row 3: 4.14 The student is able to apply mathematical routines to quantities that describe interactions among living systems and their environment, which result in the movement of matter and energy." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry></row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-6">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.6 </emphasis></span>
+<span class="ost-standards-description">Interactions among living systems and with their environment result in the movement of matter and energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-2-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
+<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-14">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.14 </emphasis></span>
+<span class="ost-standards-description">The student is able to apply mathematical routines to quantities that describe interactions among living systems and their environment, which result in the movement of matter and energy.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-6">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.6 </emphasis></span>
+<span class="ost-standards-description">Interactions among living systems and with their environment result in the movement of matter and energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-15">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.15 </emphasis></span>
+<span class="ost-standards-description">The student is able to use visual representations to analyze situations or solve problems qualitatively to illustrate how interactions among living systems and with their environment result in the movement of matter and energy.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+<para id="fs-idp14175904">All living things require energy in one form or another. Energy is required by most complex metabolic pathways (often in the form of adenosine triphosphate, ATP), especially those responsible for building large molecules from smaller compounds, and life itself is an energy-driven process. Living organisms would not be able to assemble macromolecules (proteins, lipids, nucleic acids, and complex carbohydrates) from their monomeric subunits without a constant energy input.</para>
+<para id="fs-idp182465488">It is important to understand how organisms acquire energy and how that energy is passed from one organism to another through food webs and their constituent food chains. Food webs illustrate how energy flows directionally through ecosystems, including how efficiently organisms acquire it, use it, and how much remains for use by other organisms of the food web.</para>
+    <section id="fs-idm13225120" class="ost-tag-lo-apbio-ch37-s02-lo01 ost-get-exercise">
+        <title>How Organisms Acquire Energy in a Food Web</title>
+<para id="fs-idp6583872">Energy is acquired by living things in three ways: photosynthesis, chemosynthesis, and the consumption and digestion of other living or previously living organisms by heterotrophs.</para>
+<para id="fs-idp7243392">Photosynthetic and chemosynthetic organisms are both grouped into a category known as autotrophs: organisms capable of synthesizing their own food (more specifically, capable of using inorganic carbon as a carbon source). Photosynthetic autotrophs (photoautotrophs) use sunlight as an energy source, whereas chemosynthetic autotrophs (chemoautotrophs) use inorganic molecules as an energy source. Autotrophs are critical for all ecosystems. Without these organisms, energy would not be available to other living organisms and life itself would not be possible.</para>
+<para id="fs-idp126665776">Photoautotrophs, such as plants, algae, and photosynthetic bacteria, serve as the energy source for a majority of the world’s ecosystems. These ecosystems are often described by grazing food webs. Photoautotrophs harness the solar energy of the sun by converting it to chemical energy in the form of ATP (and NADP). The energy stored in ATP is used to synthesize complex organic molecules, such as glucose.</para>
+<para id="fs-idm124697248"><emphasis>Chemoautotrophs</emphasis> are primarily bacteria that are found in rare ecosystems where sunlight is not available, such as in those associated with dark caves or hydrothermal vents at the bottom of the ocean (<link target-id="fig-ch46_02_01" document=""/>). Many chemoautotrophs in hydrothermal vents use hydrogen sulfide (H<sub>2</sub>S), which is released from the vents as a source of chemical energy. This allows chemoautotrophs to synthesize complex organic molecules, such as glucose, for their own energy and in turn supplies energy to the rest of the ecosystem.</para>
+<figure id="fig-ch46_02_01" class="ost-tag-lo-apbio-ch37-s02-lo01">
+<media id="fs-idp136839568" alt=" Photo shows shrimp, lobster, and white crabs crawling on a rocky ocean floor littered with mussels.">
+<image mime-type="image/jpg" src="../../media/Figure_46_02_01.jpg" width="380"/>
+</media>
+<caption>Swimming shrimp, a few squat lobsters, and hundreds of vent mussels are seen at a hydrothermal vent at the bottom of the ocean. As no sunlight penetrates to this depth, the ecosystem is supported by chemoautotrophic bacteria and organic material that sinks from the ocean’s surface. This picture was taken in 2006 at the submerged NW Eifuku volcano off the coast of Japan by the National Oceanic and Atmospheric Administration (NOAA). The summit of this highly active volcano lies 1535 m below the surface.</caption></figure>
+    </section>
+    <section id="fs-idp147316480" class="ost-tag-lo-apbio-ch37-s02-lo01 ost-get-exercise"><title>Productivity within Trophic Levels</title><para id="fs-idp124740224">Productivity within an ecosystem can be defined as the percentage of energy entering the ecosystem incorporated into biomass in a particular trophic level. <emphasis>Biomass</emphasis> is the total mass, in a unit area at the time of measurement, of living or previously living organisms within a trophic level. Ecosystems have characteristic amounts of biomass at each trophic level. For example, in the English Channel ecosystem the primary producers account for a biomass of 4 g/m<sup>2</sup> (grams per meter squared), while the primary consumers exhibit a biomass of 21 g/m<sup>2</sup>.</para><para id="fs-idm120555168">The productivity of the primary producers is especially important in any ecosystem because these organisms bring energy to other living organisms by photoautotrophy or chemoautotrophy. The rate at which photosynthetic primary producers incorporate energy from the sun is called <emphasis>gross primary productivity</emphasis>. An example of gross primary productivity is shown in the compartment diagram of energy flow within the Silver Springs aquatic ecosystem as shown (<link target-id="fig-ch46_01_07" document="m63036"/>). In this ecosystem, the total energy accumulated by the primary producers (gross primary productivity) was shown to be 20,810 kcal/m<sup>2</sup>/yr.</para><para id="fs-idm59091200">Because all organisms need to use some of this energy for their own functions (like respiration and resulting metabolic heat loss) scientists often refer to the net primary productivity of an ecosystem. <emphasis>Net primary productivity</emphasis> is the energy that remains in the primary producers after accounting for the organisms’ respiration and heat loss. The net productivity is then available to the primary consumers at the next trophic level. In our Silver Spring example, 13,187 of the 20,810 kcal/m<sup>2</sup>/yr were used for respiration or were lost as heat, leaving 7,632 kcal/m<sup>2</sup>/yr of energy for use by the primary consumers.</para>
+    </section>
+<section id="fs-idp16572144" class="ost-tag-lo-apbio-ch37-s02-lo02 ost-get-exercise">
+<title>Ecological Efficiency: The Transfer of Energy between Trophic Levels</title><para id="fs-idm120859552">As illustrated in <link target-id="fig-ch46_01_07" document="m63036"/>, large amounts of energy are lost from the ecosystem from one trophic level to the next level as energy flows from the primary producers through the various trophic levels of consumers and decomposers. The main reason for this loss is the second law of thermodynamics, which states that whenever energy is converted from one form to another, there is a tendency toward disorder (entropy) in the system. In biologic systems, this means a great deal of energy is lost as metabolic heat when the organisms from one trophic level consume the next level. In the Silver Springs ecosystem example (<link target-id="fig-ch46_01_07" document="m63036"/>), we see that the primary consumers produced 1103 kcal/m<sup>2</sup>/yr from the 7618 kcal/m<sup>2</sup>/yr of energy available to them from the primary producers. The measurement of energy transfer efficiency between two successive trophic levels is termed the <emphasis>trophic level transfer efficiency (TLTE)</emphasis> and is defined by the formula:</para><equation id="eip-16"><m:math display="block ost-tag-lo-apbio-ch37-s02-aplo-4-14">
+ <m:mrow>
+  <m:mtext>TLTE </m:mtext><m:mo>=</m:mo><m:mtext> </m:mtext><m:mfrac>
+   <m:mrow>
+    <m:mtext>production at present trophic level</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>production at previous trophic level</m:mtext>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext> × 100</m:mtext>
+ </m:mrow>
+</m:math>
+</equation>
+<para id="fs-idm53133120">In Silver Springs, the TLTE between the first two trophic levels was approximately 14.48 percent. The low efficiency of energy transfer between trophic levels is usually the major factor that limits the length of food chains observed in a food web. The fact is, after four to six energy transfers, there is not enough energy left to support another trophic level. In the Lake Ontario example shown in <link target-id="CNX_AP_Bio_46_01_05.jpg" document="m63036">Ecology of Ecosystems</link>, only three energy transfers occurred between the primary producer, (green algae), and the apex consumer (Chinook salmon).	</para><para id="fs-idp35684864">Ecologists have many different methods of measuring energy transfers within ecosystems. Some transfers are easier or more difficult to measure depending on the complexity of the ecosystem and how much access scientists have to observe the ecosystem. In other words, some ecosystems are more difficult to study than others, and sometimes the quantification of energy transfers has to be estimated.</para>
+<para id="fs-idm34319552">Another main parameter that is important in characterizing energy flow within an ecosystem is the net production efficiency. <emphasis>Net production efficiency (NPE)</emphasis> allows ecologists to quantify how efficiently organisms of a particular trophic level incorporate the energy they receive into biomass; it is calculated using the following formula:</para>
+<equation id="eip-592"><m:math display="block">
+ <m:mrow>
+  <m:mtext>NPE </m:mtext><m:mo>=</m:mo><m:mtext> </m:mtext><m:mfrac>
+   <m:mrow>
+    <m:mtext>net consumer productivity</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>assimilation</m:mtext>
+   </m:mrow>
+  </m:mfrac>
+  <m:mtext> </m:mtext><m:mo>×</m:mo><m:mtext> 100</m:mtext>
+ </m:mrow>
+</m:math>
+</equation><para id="fs-idm59836864"><emphasis>Net consumer productivity</emphasis> is the energy content available to the organisms of the next trophic level. <emphasis>Assimilation</emphasis> is the biomass (energy content generated per unit area) of the present trophic level after accounting for the energy lost due to incomplete ingestion of food, energy used for respiration, and energy lost as waste. Incomplete ingestion refers to the fact that some consumers eat only a part of their food. For example, when a lion kills an antelope, it will eat everything except the hide and bones. The lion is missing the energy-rich bone marrow inside the bone, so the lion does not make use of all the calories its prey could provide.</para>
+<para id="fs-idp66575456">Thus, NPE measures how efficiently each trophic level uses and incorporates the energy from its food into biomass to fuel the next trophic level. In general, cold-blooded animals (ectotherms), such as invertebrates, fish, amphibians, and reptiles, use less of the energy they obtain for respiration and heat than warm-blooded animals (endotherms), such as birds and mammals. The extra heat generated in endotherms, although an advantage in terms of the activity of these organisms in colder environments, is a major disadvantage in terms of NPE. Therefore, many endotherms have to eat more often than ectotherms to get the energy they need for survival. In general, NPE for ectotherms is an order of magnitude (10x) higher than for endotherms. For example, the NPE for a caterpillar eating leaves has been measured at 18 percent, whereas the NPE for a squirrel eating acorns may be as low as 1.6 percent.</para>
+<para id="fs-idm59286112">The inefficiency of energy use by warm-blooded animals has broad implications for the world's food supply. It is widely accepted that the meat industry uses large amounts of crops to feed livestock, and because the NPE is low, much of the energy from animal feed is lost. For example, it costs about $0.01 to produce 1000 dietary calories (kcal) of corn or soybeans, but approximately $0.19 to produce a similar number of calories growing cattle for beef consumption. The same energy content of milk from cattle is also costly, at approximately $0.16 per 1000 kcal. Much of this difference is due to the low NPE of cattle. Thus, there has been a growing movement worldwide to promote the consumption of non-meat and non-dairy foods so that less energy is wasted feeding animals for the meat industry.</para></section>
+            <section id="fs-idp11327440" class="ost-tag-lo-apbio-ch37-s02-lo03 ost-get-exercise">
+                <title>Modeling Ecosystems Energy Flow: Ecological Pyramids</title>
+        <para id="fs-idp94656096">The structure of ecosystems can be visualized with ecological pyramids, which were first described by the pioneering studies of Charles Elton in the 1920s. <emphasis>Ecological pyramids</emphasis> show the relative amounts of various parameters (such as number of organisms, energy, and biomass) across trophic levels.</para>
+        <para id="fs-idp4231984">Pyramids of numbers can be either upright or inverted, depending on the ecosystem. As shown in <link target-id="CNX_AP_Bio_46_02_PCBchart" document=""/>, typical grassland during the summer has a base of many plants and the numbers of organisms decrease at each trophic level. However, during the summer in a temperate forest, the base of the pyramid consists of few trees compared with the number of primary consumers, mostly insects. Because trees are large, they have great photosynthetic capability, and dominate other plants in this ecosystem to obtain sunlight. Even in smaller numbers, primary producers in forests are still capable of supporting other trophic levels.</para><para id="fs-idm125064640">Another way to visualize ecosystem structure is with pyramids of biomass. This pyramid measures the amount of energy converted into living tissue at the different trophic levels. Using the Silver Springs ecosystem example, this data exhibits an upright biomass pyramid (<link target-id="CNX_AP_Bio_46_02_PCBchart" document=""/>), whereas the pyramid from the English Channel example is inverted. The plants (primary producers) of the Silver Springs ecosystem make up a large percentage of the biomass found there. However, the phytoplankton in the English Channel example make up less biomass than the primary consumers, the zooplankton. As with inverted pyramids of numbers, this inverted pyramid is not due to a lack of productivity from the primary producers, but results from the high turnover rate of the phytoplankton. The phytoplankton are consumed rapidly by the primary consumers, thus, minimizing their biomass at any particular point in time. However, phytoplankton reproduce quickly, thus they are able to support the rest of the ecosystem.</para><para id="fs-idm91808400">Pyramid ecosystem modeling can also be used to show energy flow through the trophic levels. Notice that these numbers are the same as those used in the energy flow compartment diagram in <link target-id="fig-ch46_01_07" document="m63036"/>. Pyramids of energy are always upright, and an ecosystem without sufficient primary productivity cannot be supported. All types of ecological pyramids are useful for characterizing ecosystem structure. However, in the study of energy flow through the ecosystem, pyramids of energy are the most consistent and representative models of ecosystem structure (<link target-id="CNX_AP_Bio_46_02_PCBchart" document="m63037"/>).</para><note id="fs-idp48674416" class="visual-connection ost-tag-lo-apbio-ch37-s02-lo03 ost-tag-lo-apbio-ch37-s02-aplo-4-14 ost-tag-lo-apbio-ch37-s02-aplo-4-15 ost-assessed-feature"><label>Visual Connection</label>
+<figure id="CNX_AP_Bio_46_02_PCBchart" class=" "><media id="fs-idp11993056" alt=" Part A: on the left is a pyramid diagram of the number of individuals per 0.1 hectare in a summer grassland. There are 1,500,000 grass plants, 200,000 herbivorous insects, 90,000 predatory insects, and 1 bird. Part A: on the right is a pyramid diagram of organisms per 0.1 hectare in a temperate forest. There are 200 trees, 150,000 herbivorous insects, 120,000 predatory insects, and 5 birds. Part B: on the left is a pyramid diagram of dry biomass in grams per meter squared in the English Channel. The biomass is 4 phytoplankton and 21 zooplankton. Part B: on the right is a pyramid diagram of dry biomass in grams per meter squared in Silver Springs, Florida. The biomass of plants is 809. The biomass of primary consumers, including herbivorous insects and snails is 37. The biomass of secondary consumer fishes is 11, and the biomass of tertiary consumer fishes is 5. Primary, secondary and tertiary decomposers have a combined biomass of 5. Part C is a pyramid diagram of energy in kilocalories per meter squared per year. The energy of plants is 20,810. The energy of primary consumers, including insects and snails, is 3,368. The energy of primary consumer fishes is 383, and the energy of secondary consumer fishes is 21. The energy of decomposers, including fungi and bacteria, is 5,060.">
+<image mime-type="image/png" src="../../media/Figure_46_02_02.png" width="520"/>
+</media>
+
+<caption>Ecological pyramids depict the (a) biomass, (b) number of organisms, and (c) energy in each trophic level.</caption></figure><!--<para id="fs-idm59923120">Pyramids depicting the number of organisms or biomass may be inverted, upright, or even diamond-shaped. Energy pyramids, however, are always upright. Why?</para>-->
+     <!--<para><link target-id="CNX_AP_Bio_46_02_PCBchart" document=""/><emphasis effect="bold">ab</emphasis>Pyramids of organisms may be inverted or diamond-shaped because a large organism, such as a tree, can sustain many smaller organisms. Likewise, a low biomass of organisms can sustain a larger biomass at the next trophic level because the organisms reproduce rapidly and thus supply continuous nourishment. Energy pyramids, however, must always be upright because of the laws of thermodynamics. The first law of thermodynamics states that energy can neither be created nor destroyed; thus, each trophic level must acquire energy from the trophic level below. The second law of thermodynamics states that, during the transfer of energy, some energy is always lost as heat; thus, less energy is available at each higher trophic level.</para>-->
+     <exercise id="fs-id1167066090838" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167065000347">
+<para id="fs-id1167066111959">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ex027"/>
+</para>
+</problem>
+</exercise>
+        </note></section>
+    <section id="fs-idp117234848" class="ost-tag-lo-apbio-ch37-s02-lo02 ost-get-exercise">
+        <title>Consequences of Food Webs: Biological Magnification</title>
+<para id="fs-idm13265440">One of the most important environmental consequences of ecosystem dynamics is biomagnification. <emphasis>Biomagnification</emphasis> is the increasing concentration of persistent, toxic substances in organisms at each trophic level, from the primary producers to the apex consumers. Many substances have been shown to bioaccumulate, including classical studies with the pesticide <emphasis effect="bold">d</emphasis>ichloro<emphasis effect="bold">d</emphasis>iphenyl<emphasis effect="bold">t</emphasis>richloroethane (DDT), which was published in the 1960s bestseller, <emphasis effect="italics">Silent Spring</emphasis>, by Rachel Carson. DDT was a commonly used pesticide before its dangers became known. In some aquatic ecosystems, organisms from each trophic level consumed many organisms of the lower level, which caused DDT to increase in birds (apex consumers) that ate fish. Thus, the birds accumulated sufficient amounts of DDT to cause fragility in their eggshells. This effect increased egg breakage during nesting and was shown to have adverse effects on these bird populations. The use of DDT was banned in the United States in the 1970s.</para>
+<para id="fs-idp13422016">Other substances that biomagnify are polychlorinated biphenyls (PCBs), which were used in coolant liquids in the United States until their use was banned in 1979, and heavy metals, such as mercury, lead, and cadmium. These substances were best studied in aquatic ecosystems, where fish species at different trophic levels accumulate toxic substances brought through the ecosystem by the primary producers. As illustrated in a study performed by the National Oceanic and Atmospheric Administration (NOAA) in the Saginaw Bay of Lake Huron (<link target-id="fig-ch46_02_03" document=""/>), PCB concentrations increased from the ecosystem’s primary producers (phytoplankton) through the different trophic levels of fish species. The apex consumer (walleye) has more than four times the amount of PCBs compared to phytoplankton. Also, based on results from other studies, birds that eat these fish may have PCB levels at least one order of magnitude higher than those found in the lake fish.</para>
+<figure id="fig-ch46_02_03" class="ost-tag-lo-apbio-ch37-s02-aplo-4-14 ost-tag-lo-apbio-ch37-s02-aplo-4-15"><media id="fs-idp108251952" alt=" The illustration is a graph that plots total PCBs in micrograms per gram of dry weight versus nitrogen-15 enrichment, shows that PCBs become increasingly concentrated at higher trophic levels. The slope of the graph becomes increasingly steep from phytoplankton (the primary consumer) to walleye (the tertiary consumer).">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_46_02_PCBchart.jpg" width="320"/>
+</media>
+<caption>This chart shows the PCB concentrations found at the various trophic levels in the Saginaw Bay ecosystem of Lake Huron. Numbers on the x-axis reflect enrichment with heavy isotopes of nitrogen (<sup>15</sup>N), which is a marker for increasing trophic level. Notice that the fish in the higher trophic levels accumulate more PCBs than those in lower trophic levels. (credit: Patricia Van Hoof, NOAA, GLERL)</caption></figure><para id="fs-idp35207760">Other concerns have been raised by the accumulation of heavy metals, such as mercury and cadmium, in certain types of seafood. The United States Environmental Protection Agency (EPA) recommends that pregnant women and young children should not consume any swordfish, shark, king mackerel, or tilefish because of their high mercury content. These individuals are advised to eat fish low in mercury: salmon, tilapia, shrimp, pollock, and catfish. Biomagnification is a good example of how ecosystem dynamics can affect our everyday lives, even influencing the food we eat.</para>
+        </section>
+        <note id="fs-id1167064741012" class="ap-everyday ost-assessed-feature"><label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<para id="fs-id1167065052699">Many people enjoy eating swordfish, but pregnant women and young children should avoid it due to its high mercury content resulting from biomagnification.</para>
+<figure id="fs-id1167062968843">
+<media id="fs-id1167064918342" alt="Grilled swordfish is displayed with grilled vegetables and oranges on a plate.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_46_02_FishFood.jpg" width="350"/>
+</media>
+<caption/>
+</figure>
+<exercise id="fs-id1167065882228" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065983937">
+<para id="fs-id1167065983939">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ex028"/>
+</para>
+</problem>
+</exercise>
+</note><note id="fs-id1167065888257" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066088647" class="ost-assignable ost-sciprac-lab">
+<label/><title>Lab Investigation</title>
+<para id="fs-id1167065736320"><emphasis effect="italics">AP<sup>®</sup> Biology Investigation Labs: Inquiry-Based Approach, Investigation 10: Energy Dynamics.</emphasis> This inquiry-based investigation provides an opportunity for you to explore factors that govern energy capture, allocation, storage, and transfer between producers and consumers in a terrestrial ecosystem composed of Wisconsin Fast Plants (producers) and cabbage white butterfly (<emphasis effect="italics">Pieris rapae</emphasis>) larvae.</para>
+</note>
+<note id="fs-id1167065874921" class="ost-assignable ost-sciprac-activity">
+<para id="fs-id1167065880649">An ecosystem consists of earthworms, heterotrophic soil bacteria, grass, deer, beetles, and a lion. Create a mini-poster to describe the trophic structure of the ecosystem, how each organism receives inputs of energy and nutrients, where outputs (e.g., wastes) go, and the effect(s) each organisms has on the others. Include all energy transformations and transfers based on the hypothetical assumption that 9,500 J of net energy is available at the producer level.</para>
+</note>
+<note id="fs-id1167062371945" class="os-teacher"><label>Teacher Support</label>
+<list id="eip-id1167066085504">
+<item>Lab Investigation: The lab investigation is an application of AP<sup>®</sup> Learning Objectives 2.3, 4.14, 4.15, and 4.16 and Science Practices 6.4, 2.2, and 1.4 because students are collecting data and using mathematics to analyze a situation, for example, energy dynamics in an ecosystem, and then making predictions about how a change in energy availability can affect these dynamics.</item>
+<item>Activity: The activity is an application of AP<sup>®</sup> Learning Objectives 2.3, 4.14, 4.15, and 4.16 and Science Practices 6.4, 2.2, and 1.4 because students illustrate energy dynamics in an ecosystem, using mathematics to analyze a situation, and then making predictions about how a change in energy availability can affect these dynamics.</item>
+</list>
+</note></note>
+<section id="fs-id1167065914438" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1167066164755">Organisms in an ecosystem acquire energy in a variety of ways, which is transferred between trophic levels as the energy flows from the bottom to the top of the food web, with energy being lost at each transfer. The efficiency of these transfers is important for understanding the different behaviors and eating habits of warm-blooded versus cold-blooded animals. Modeling of ecosystem energy is best done with ecological pyramids of energy, although other ecological pyramids provide other vital information about ecosystem structure.</para>
+    </section>
+<section id="fs-id1167066041561" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167064774257" class="os-exercise">
+<problem id="fs-id1167065774780">
+<para id="fs-id1167065774783">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ex029"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065949056" class="os-exercise">
+<problem id="fs-id1167065704739">
+<para id="fs-id1167064783827">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ex030"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065984935" class="os-exercise">
+<problem id="fs-id1167066046662">
+<para id="fs-id1167065039555">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ex031"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062506629" class="os-exercise">
+<problem id="fs-id1167065862426">
+<para id="fs-id1167065862428">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ex032"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062305241" class="os-exercise">
+<problem id="fs-id1167065912783">
+<para id="fs-id1167065912785">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ex033"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066137182" class="os-exercise">
+<problem id="fs-id1167066045102">
+<para id="fs-id1167064697088">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ex034"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1164278196002" class="os-exercise">
+<problem id="eip-id1164278114924">
+<para id="eip-id1164278114926">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ot018"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167062358935" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167065941704" class="os-exercise">
+<problem id="fs-id1167064832532">
+<para id="fs-id1167065039323">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ex035"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062328980" class="os-exercise">
+<problem id="fs-id1167065954139">
+<para id="fs-id1167065954141">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ex036"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064982521" class="os-exercise">
+<problem id="fs-id1167065852942">
+<para id="fs-id1167065852823">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ex037"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1164276844727" class="os-exercise">
+<problem id="eip-id1164276858842">
+<para id="eip-id1164276792078">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ot024"/>
+</para>
+</problem>
+</exercise></section><section id="eip-755" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP Courses</title>
+<exercise id="eip-id1169283810942" class="os-exercise">
+<problem id="eip-id1169283810946">
+<para id="eip-id1169283810948">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ot027"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169283810960" class="os-exercise">
+<problem id="eip-id1169283810964">
+<para id="eip-id1169283810966">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ot028"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169283735776" class="os-exercise">
+<problem id="eip-id1169283735780">
+<para id="eip-id1169283735782">
+<link class="os-embed" url="#ost/api/ex/apbio-ch37-ot029"/>
+</para>
+</problem>
+</exercise></section> </content>
+<glossary>
+<definition id="fs-id1167064533252"><term>assimilation</term> <meaning id="fs-id1167065945835">biomass consumed and assimilated from the previous trophic level after accounting for the energy lost due to incomplete ingestion of food, energy used for respiration, and energy lost as waste</meaning></definition>
+<definition id="fs-id1167064568446"><term>biomagnification</term> <meaning id="fs-id1167064843563">increasing concentrations of persistent, toxic substances in organisms at each trophic level, from the primary producers to the apex consumers</meaning></definition>
+<definition id="fs-id1167065919847"><term>biomass</term> <meaning id="fs-id1167064820885">total weight, at the time of measurement, of living or previously living organisms in a unit area within a trophic level</meaning></definition>
+<definition id="fs-id1167065984188"><term>chemoautotroph</term> <meaning id="fs-id1167062601348">organism capable of synthesizing its own food using energy from inorganic molecules</meaning></definition>
+<definition id="fs-id1167062481362"><term>ecological pyramid</term> <meaning id="fs-id1167065893783">(also, Eltonian pyramid) graphical representation of different trophic levels in an ecosystem based of organism numbers, biomass, or energy content</meaning></definition>
+<definition id="fs-id1167066123406"><term>gross primary productivity</term> <meaning id="fs-id1167066032114">rate at which photosynthetic primary producers incorporate energy from the sun</meaning></definition>
+<definition id="fs-id1167065979396"><term>net consumer productivity</term> <meaning id="fs-id1167064990256">energy content available to the organisms of the next trophic level</meaning></definition>
+<definition id="fs-id1167064990260"><term>net primary productivity</term> <meaning id="fs-id1167062351026">energy that remains in the primary producers after accounting for the organisms’ respiration and heat loss</meaning></definition>
+<definition id="fs-id1167066044385"><term>net production efficiency (NPE)</term> <meaning id="fs-id1167066150952">measure of the ability of a trophic level to convert the energy it receives from the previous trophic level into biomass</meaning></definition>
+<definition id="fs-id1167065943160"><term>trophic level transfer efficiency (TLTE)</term> <meaning id="fs-id1167066041784">energy transfer efficiency between two successive trophic levels</meaning></definition>
+</glossary>
+</document>

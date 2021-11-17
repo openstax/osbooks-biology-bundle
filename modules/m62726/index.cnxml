@@ -1,0 +1,370 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Carbohydrates</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62726</md:content-id>
+  <md:title>Carbohydrates</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the role of carbohydrates in cells and in the extracellular materials of animals and plants</item>
+<item>Explain the classifications of carbohydrates</item>
+<item>List common monosaccharides, disaccharides, and polysaccharides</item>
+</list></md:abstract>
+  <md:uuid>e857d3fd-c34f-4411-8fc8-e2d6b5728714</md:uuid>
+</metadata>
+
+<content>
+
+
+<section id="fs-id1167067084431" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067112385">By the end of this section, you will be able to:</para>
+<list id="fs-id1167067070384">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s02-lo01">What is the role of carbohydrates in cells and in the extracellular materials of animals and plants?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s02-lo02">What are the different classifications of carbohydrates?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s02-lo03">How are monosaccharide building blocks assembled into disaccharides and complex polysaccharides?</item>
+</list>
+</section>
+
+
+
+<section id="fs-id1167067147409" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167067078557">Carbohydrates provide energy for the cell and structural support to plants, fungi, and arthropods such as insects, spiders, and crustaceans. Consisting of carbon, hydrogen, and oxygen in the ratio CH<sub>2</sub>O or carbon hydrated with water, carbohydrates are classified as monosaccharides, disaccharides, and polysaccharides depending on the number of monomers in the macromolecule. Monosaccharides are linked by glycosidic bonds that form as a result of dehydration synthesis. Glucose, galactose, and fructose are common isomeric monosaccharides, whereas sucrose or table sugar is a disaccharide. Examples of polysaccharides include cellulose and starch in plants and glycogen in animals. Although storing glucose in the form of polymers like starch or glycogen makes it less accessible for metabolism, this prevents it from leaking out of cells or creating a high osmotic pressure that could cause excessive water uptake by the cell. Insects have a hard outer skeleton made of chitin, a unique nitrogen-containing polysaccharide.</para>
+<para id="fs-id1167067293834" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices. </para><table id="fs-id1167067074466" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 4.A.1 The subcomponents of biological molecules and their sequence determine the properties of that molecule. Second left cell reads: Science Practice. Second right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Third left cell reads: Learning Objective. Third right cell reads: 4.1 The student is able to refine representations and models to explain how the subcomponents of a biological polymer and their sequence determine the properties of that polymer." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.1 </emphasis></span>
+<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1</emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s02-aplo-4-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>4.1</emphasis></span>
+<span class="ost-standards-description">The student is able to refine representations and models to explain how the subcomponents of a biological polymer and their sequence determine the properties of that polymer.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-A-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.A.1 </emphasis></span>
+<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
+</entry>
+</row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.3</emphasis></span>
+<span class="ost-standards-description">The student can refine representations and models of natural or man-made phenomena and systems in the domain.</span></entry>
+</row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s02-aplo-4-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.2</emphasis></span>
+<span class="ost-standards-description">The student is able to refine representations and models to explain how the subcomponents of a biological polymer and their sequence determine the properties of that polymer.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-A-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.A.1 </emphasis></span>
+<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
+</entry>
+</row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.1</emphasis></span>
+<span class="ost-standards-description">The student can justify claims with evidence.</span></entry>
+</row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4</emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry>
+</row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s02-aplo-4-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.3</emphasis></span>
+<span class="ost-standards-description">The student is able to use models to predict and justify that changes in the subcomponents of a biological polymer affect the functionality of the molecules.</span>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table><para id="fs-id1166848757147">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 4.15] [APLO 2.5]</para></section>
+<section id="fs-id1167066859978" class="ost-tag-lo-apbio-ch03-s02-lo01 ost-tag-lo-apbio-ch03-s02-lo02 ost-get-exercise">
+<title>Molecular Structures</title>
+<para id="fs-id1364671">Most people are familiar with carbohydrates, one type of macromolecule, especially when it comes to what we eat. To lose weight, some individuals adhere to “low-carb” diets. Athletes, in contrast, often “carb-load” before important competitions to ensure that they have enough energy to compete at a high level. Carbohydrates are, in fact, an essential part of our diet; grains, fruits, and vegetables are all natural sources of carbohydrates. Carbohydrates provide energy to the body, particularly through glucose, a simple sugar that is a component of <term>starch</term> and an ingredient in many staple foods. Carbohydrates also have other important functions in humans, animals, and plants.</para>
+
+<para id="fs-id1262009"><term>Carbohydrates</term> can be represented by the stoichiometric formula (CH<sub>2</sub>O)<emphasis effect="italics"><sub>n</sub></emphasis>, where n is the number of carbons in the molecule. In other words, the ratio of carbon to hydrogen to oxygen is 1:2:1 in carbohydrate molecules. This formula also explains the origin of the term “carbohydrate”: the components are carbon (“carbo”) and the components of water (hence, “hydrate”). Carbohydrates are classified into three subtypes: monosaccharides, disaccharides, and polysaccharides.</para>
+<section id="fs-id1462931" class="ost-get-exercise">
+<title>Monosaccharides</title>
+<para id="fs-id2177131"><term>Monosaccharides</term> (mono- = “one”; sacchar- = “sweet”) are simple sugars, the most common of which is glucose. In monosaccharides, the number of carbons usually ranges from three to seven. Most monosaccharide names end with the suffix -ose. If the sugar has an aldehyde group (the functional group with the structure R-CHO), it is known as an aldose, and if it has a ketone group (the functional group with the structure RC(=O)R'), it is known as a ketose. Depending on the number of carbons in the sugar, they also may be known as trioses (three carbons), pentoses (five carbons), and or hexoses (six carbons). See <link target-id="fig-ch03_02_01" document=""/> for an illustration of the monosaccharides.</para>
+<figure id="fig-ch03_02_01" class="ost-tag-lo-apbio-ch03-s02-lo02 ost-tag-lo-apbio-ch03-s02-aplo-4-1"><media id="fs-id1266915" alt="The molecular structures of glyceraldehyde, an aldose, and dihydroxyacetone, a ketose, are shown. Both sugars have a three-carbon backbone. Glyceraldehyde has a carbonyl group (c double bonded to O) at one end of the carbonchain with hydroxyl (OH) groups attached to the other carbons. Dihydroxyacetone has a carbonyl group in the middle of the chain and alcohol groups at each end. The molecular structures of linear forms of ribose, a pentose, and glucose, a hexose, are also shown. Both ribose and glucose are aldoses with a carbonyl group at the end of chain,and hydroxyl groups attached to the other carbons.">
+<image mime-type="image/jpg" src="../../media/Figure_03_02_01-40f7.jpg" width="400"/>
+</media>
+<caption>Monosaccharides are classified based on the position of their carbonyl group and the number of carbons in the backbone. Aldoses have a carbonyl group (indicated in green) at the end of the carbon chain, and ketoses have a carbonyl group in the middle of the carbon chain. Trioses, pentoses, and hexoses have three-, five-, and six-carbon backbones, respectively.</caption></figure><para id="fs-id1083099">The chemical formula for glucose is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>. In humans, glucose is an important source of energy. During cellular respiration, energy is released from glucose, and that energy is used to help make adenosine triphosphate (ATP). Plants synthesize glucose using carbon dioxide and water, and glucose in turn is used for energy requirements for the plant. Excess glucose is often stored as starch that is catabolized (the breakdown of larger molecules by cells) by humans and other animals that feed on plants.</para>
+<para id="fs-id1778752">Galactose (part of lactose, or milk sugar) and fructose (found in sucrose, in fruit) are other common monosaccharides. Although glucose, galactose, and fructose all have the same chemical formula (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>), they differ structurally and chemically (and are known as isomers) because of the different arrangement of functional groups around the asymmetric carbon; all of these monosaccharides have more than one asymmetric carbon (<link target-id="fig-ch03_02_02" document=""/>).</para><note id="fs-id1385935" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch03-s02-lo02 ost-tag-lo-apbio-ch03-s02-aplo-4-1"><label>Visual Connection</label>
+<para id="fs-id2000117">
+<figure id="fig-ch03_02_02"><media id="fs-id1319192" alt="The molecular structures of the linear forms of glucose, galactose, and fructose are shown. Glucose and galactose are both aldoses with a carbonyl group (carbon double-bonded to oxygen) at one end of the molecule. A hydroxyl (OH) group is attached to each of the other residues. In glucose, the hydroxyl group attached to the second carbon is on the left side of the molecular structure and all other hydroxyl groups are on the right. In galactose, the hydroxyl groups attached to the third and fourth carbons are on the left, and the hydroxyl groups attached to the second, fifth and sixth carbon are on the right. Frucose is a ketose with C doubled bonded to O at the second carbon. All other carbons have hydroxyl groups associated with them. The hydroxyl group associated with the third carbon is on the left, and all the other hydroxyl groups are on the right.">
+<image mime-type="image/png" src="../../media/Figure_03_02_02.png" width="400"/>
+</media>
+<caption>Glucose, galactose, and fructose are all hexoses. They are structural isomers, meaning they have the same chemical formula (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) but a different arrangement of atoms.</caption></figure></para>
+<exercise id="fs-id1167067014680" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067174393">
+<para id="fs-id1167067132227">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex014"/>
+</para>
+</problem>
+</exercise>
+</note>
+
+</section>
+
+<para id="fs-id2009364">Glucose, galactose, and fructose are isomeric monosaccharides (hexoses), meaning they have the same chemical formula but have slightly different structures. Glucose and galactose are aldoses, and fructose is a ketose.</para>
+<para id="fs-id1465546">Monosaccharides can exist as a linear chain or as ring-shaped molecules; in aqueous solutions they are usually found in ring forms (<link target-id="fig-ch03_02_03" document=""/>). Glucose in a ring form can have two different arrangements of the hydroxyl group (OH) around the anomeric carbon (carbon 1 that becomes asymmetric in the process of ring formation). If the hydroxyl group is below carbon number 1 in the sugar, it is said to be in the alpha (<emphasis effect="italics">α</emphasis>) position, and if it is above the plane, it is said to be in the beta (<emphasis effect="italics">β</emphasis>) position.</para>
+<figure id="fig-ch03_02_03" class="ost-tag-lo-apbio-ch03-s02-lo02 ost-tag-lo-apbio-ch03-s02-aplo-4-1">
+<media id="fs-id2020604" alt="The conversion of glucose between linear and ring forms is shown. The glucose ring has five carbons and an oxygen. In alpha glucose, the first hydroxyl group is locked in a down position, and in beta glucose, the ring is locked in an up position. Structures for ring forms of ribose and fructose are also shown. Both sugars have a ring with four carbons and an oxygen.">
+<image mime-type="image/jpg" src="../../media/Figure_03_02_03.jpg" width="400"/>
+</media>
+<caption>Five and six carbon monosaccharides exist in equilibrium between linear and ring forms. When the ring forms, the side chain it closes on is locked into an <emphasis effect="italics">α</emphasis> or <emphasis effect="italics">β </emphasis>position. Fructose and ribose also form rings, although they form five-membered rings as opposed to the six-membered ring of glucose.</caption></figure></section>
+<section id="fs-id2016502" class="ost-get-exercise">
+<title>Disaccharides</title>
+<para id="fs-id1958211"><term>Disaccharides</term> (di- = “two”) form when two monosaccharides undergo a dehydration reaction (also known as a condensation reaction or dehydration synthesis). During this process, the hydroxyl group of one monosaccharide combines with the hydrogen of another monosaccharide, releasing a molecule of water and forming a covalent bond. A covalent bond formed between a carbohydrate molecule and another molecule (in this case, between two monosaccharides) is known as a <term>glycosidic bond</term> (<link target-id="fig-ch03_02_04" document=""/>). Glycosidic bonds (also called glycosidic linkages) can be of the alpha or the beta type.</para>
+<figure id="fig-ch03_02_04" class="ost-tag-lo-apbio-ch03-s02-lo03 ost-tag-lo-apbio-ch03-s02-aplo-4-2"><media id="fs-id2890621" alt="The formation of sucrose from glucose and fructose is shown. In sucrose, the number one carbon of the glucose ring is connected to the number two carbon of fructose via an oxygen.">
+<image mime-type="image/jpg" src="../../media/Figure_03_02_04.jpg" width="400"/>
+</media>
+<caption>Sucrose is formed when a monomer of glucose and a monomer of fructose are joined in a dehydration reaction to form a glycosidic bond. In the process, a water molecule is lost. By convention, the carbon atoms in a monosaccharide are numbered from the terminal carbon closest to the carbonyl group. In sucrose, a glycosidic linkage is formed between carbon 1 in glucose and carbon 2 in fructose.</caption></figure><para id="fs-id1720997">Common disaccharides include lactose, maltose, and sucrose (<link target-id="fig-ch03_02_05" document=""/>). Lactose is a disaccharide consisting of the monomers glucose and galactose. It is found naturally in milk. Maltose, or malt sugar, is a disaccharide formed by a dehydration reaction between two glucose molecules. The most common disaccharide is sucrose, or table sugar, which is composed of the monomers glucose and fructose.</para>
+<figure id="fig-ch03_02_05" class="ost-tag-lo-apbio-ch03-s02-lo02 ost-tag-lo-apbio-ch03-s02-aplo-4-1"><media id="fs-id1462227" alt=" The chemical structures of maltose, lactose, and sucrose are shown. Both maltose and lactose are made from two glucose monomers joined together in ring form. In maltose, the oxygen in the glycosidic bond points downward. In lactose, the oxygen in the glycosidic bond points upward. Sucrose is made from glucose and fructose monomers. The oxygen in the glycosidic bond points downward.">
+<image mime-type="image/jpg" src="../../media/Figure_03_02_05.jpg" width="400"/>
+</media>
+<caption>Common disaccharides include maltose (grain sugar), lactose (milk sugar), and sucrose (table sugar).</caption></figure></section>
+<section id="fs-id2051550" class="ost-get-exercise"><title>Polysaccharides</title><para id="fs-id2164545">A long chain of monosaccharides linked by glycosidic bonds is known as a <term>polysaccharide</term> (poly- = “many”). The chain may be branched or unbranched, and it may contain different types of monosaccharides. The molecular weight may be 100,000 daltons or more depending on the number of monomers joined. Starch, glycogen, cellulose, and chitin are primary examples of polysaccharides.</para>
+<para id="fs-id1712546">Starch is the stored form of sugars in plants and is made up of a mixture of amylose and amylopectin (both polymers of glucose). Plants are able to synthesize glucose, and the excess glucose, beyond the plant’s immediate energy needs, is stored as starch in different plant parts, including roots and seeds. The starch in the seeds provides food for the embryo as it germinates and can also act as a source of food for humans and animals. The starch that is consumed by humans is broken down by enzymes, such as salivary amylases, into smaller molecules, such as maltose and glucose. The cells can then absorb the glucose.</para>
+<para id="fs-id1707972">Starch is made up of glucose monomers that are joined by <emphasis effect="italics">α</emphasis> 1-4 or <emphasis effect="italics">α</emphasis> 1-6 glycosidic bonds. The numbers 1-4 and 1-6 refer to the carbon number of the two residues that have joined to form the bond. As illustrated in <link target-id="fig-ch03_02_06" document=""/>, amylose is starch formed by unbranched chains of glucose monomers (only <emphasis effect="italics">α</emphasis> 1-4 linkages), whereas amylopectin is a branched polysaccharide (<emphasis effect="italics">α</emphasis> 1-6 linkages at the branch points).</para>
+<figure id="fig-ch03_02_06" class="ost-tag-lo-apbio-ch03-s02-lo02 ost-tag-lo-apbio-ch03-s02-aplo-4-2"><media id="fs-id2582195" alt="The chemical structures of amylose and amylopectin are shown. Amylose consists of unbranched chains of glucose subunits, and amylopectin consists of branched chains of glucose subunits.">
+<image mime-type="image/jpg" src="../../media/Figure_03_02_06.jpg" width="400"/>
+</media>
+<caption>Amylose and amylopectin are two different forms of starch. Amylose is composed of unbranched chains of glucose monomers connected by <emphasis effect="italics">α</emphasis> 1,4 glycosidic linkages. Amylopectin is composed of branched chains of glucose monomers connected by <emphasis effect="italics">α</emphasis> 1,4 and <emphasis effect="italics">α</emphasis> 1,6 glycosidic linkages. Because of the way the subunits are joined, the glucose chains have a helical structure. Glycogen (not shown) is similar in structure to amylopectin but more highly branched.</caption></figure>
+<note id="fs-id1167063425433" class="os-teacher">
+<label>Teacher Support</label>
+<list id="fs-id1167067139441">
+<item>Obtain copies of metabolic charts and use them to illustrate to students the connections between carbohydrate metabolism, lipid and amino acid production and breakdown. Have the students trace a molecule of glucose through its metabolism and identify the linkage points between macromolecule pathways. Ask the students what happens when excess sugar is ingested, at the molecular level.</item>
+<item>Have the class research the dangers of excess carbohydrate intake, including the health hazards that can result. Suggest that they research a condition relevant to their family.</item>
+</list>
+<note id="fs-id1167066820926" class="ost-background-info">
+<label>Background Information</label>
+<list id="fs-id1167067272778"><item>Carbohydrates or sugars include more than just table sugar. All have the basic formula CH<sub>2</sub>O.  The ratio of carbon, hydrogen, and oxygen is always the same. The number of carbons determines the category of sugar. Biological sugars are usually pentoses (5 carbon or C<sub>5</sub>H<sub>10</sub>O<sub>5</sub>) or hexoses (6 carbon or C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>).</item>
+<item>Monosaccharides are the building blocks of all sugars. If two are combined, they are disaccharides; if more than two are combined, they make up a large molecule called a polysaccharide.  The type of linkage between the monomers determines whether animals can digest them. If the oxygen linking the monomers is oriented down relative to both adjacent carbons, it is called an alpha bond and can be digested. If the oxygen atom orients upward relative to one carbon and downward relative to the next, it is called a beta bond and is not able to be digested by animal digestive enzymes.</item>
+<item>In the United States, people consume large quantities of carbohydrates, often in the form of sugars. Carbohydrates provide an immediate source of energy when broken down. They are also involved in the metabolism of other types of macromolecules. Sugars can be converted into a number of amino acids, nucleic acids, and fats as needed by the body.</item>
+</list></note>
+</note>
+<para id="fs-id1477384"><term>Glycogen</term> is the storage form of glucose in humans and other vertebrates and is made up of monomers of glucose. Glycogen is the animal equivalent of starch and is a highly branched molecule usually stored in liver and muscle cells. Whenever blood glucose levels decrease, glycogen is broken down to release glucose in a process known as glycogenolysis.</para>
+<para id="fs-id2491319"><term>Cellulose</term> is the most abundant natural biopolymer. The cell wall of plants is mostly made of cellulose; this provides structural support to the cell. Wood and paper are mostly cellulosic in nature. Cellulose is made up of glucose monomers that are linked by <emphasis effect="italics">β</emphasis> 1-4 glycosidic bonds (<link target-id="fs-id1167063518970" document=""/>).</para><figure id="fs-id1167063518970" class="ost-tag-lo-apbio-ch03-s02-lo02 ost-tag-lo-apbio-ch03-s02-aplo-4-1">
+<media id="fs-id1405882" alt="The chemical structure of cellulose is shown. Cellulose consists of unbranched chains of glucose subunits.">
+<image mime-type="image/jpg" src="../../media/Figure_03_02_07.jpg" width="350"/>
+</media>
+<caption>In cellulose, glucose monomers are linked in unbranched chains by <emphasis effect="italics">β</emphasis> 1-4 glycosidic linkages. Because of the way the glucose subunits are joined, every glucose monomer is flipped relative to the next one resulting in a linear, fibrous structure.</caption></figure><para id="fs-id1808424">As shown in <link target-id="fs-id1167063518970" document=""/>, every other glucose monomer in cellulose is flipped over, and the monomers are packed tightly as extended long chains. This gives cellulose its rigidity and high tensile strength—which is so important to plant cells. While the <emphasis effect="italics">β</emphasis> 1-4 linkage cannot be broken down by human digestive enzymes, herbivores such as cows, koalas, and buffalos are able, with the help of the specialized flora in their stomach, to digest plant material that is rich in cellulose and use it as a food source. In these animals, certain species of bacteria and protists reside in the digestive system of herbivores and secrete the enzyme cellulase. The appendix of grazing animals also contains bacteria that digest cellulose, giving it an important role in the digestive systems of some ruminants. Cellulases can break down cellulose into glucose monomers that can be used as an energy source by the animal. Termites are also able to break down cellulose because of the presence of other organisms in their bodies that secrete cellulases.</para><para id="fs-id2076089">Carbohydrates serve various functions in different animals. Arthropods (insects, crustaceans, and others) have an outer skeleton, called the exoskeleton, which protects their internal body parts (as seen in the bee in <link target-id="fs-id1167066983324" document=""/>). This exoskeleton is made of the biological macromolecule <term>chitin</term>, which is a nitrogen-containing polysaccharide. It is made of repeating units of N-acetyl-<emphasis effect="italics">β</emphasis>-d-glucosamine, a modified sugar. Chitin is also a major component of fungal cell walls; fungi are neither animals nor plants and form a kingdom of their own in the domain Eukarya.</para>
+<figure id="fs-id1167066983324" class="ost-tag-lo-apbio-ch03-s02-lo01">
+<media id="fs-id2229089" alt="A photograph shows a bee in flight, getting nectar from a flower.">
+<image mime-type="image/jpg" src="../../media/Figure_03_02_08.jpg" width="320"/>
+</media>
+<caption>Insects have a hard outer exoskeleton made of chitin, a type of polysaccharide. (credit: Louise Docker)</caption></figure>
+<note id="fs-id2689115" class="career"><title>Registered Dietitians</title><para id="fs-id1164189183886">Registered dietitians help plan nutrition programs for individuals in various settings. They often work with patients in health care facilities, designing nutrition plans to treat and prevent diseases. For example, dietitians may teach a patient with diabetes how to manage blood sugar levels by eating the correct types and amounts of carbohydrates. Dietitians may also work in nursing homes, schools, and private practices.</para>
+<para id="fs-id1396080">To become a registered dietitian, one needs to earn at least a bachelor’s degree in dietetics, nutrition, food technology, or a related field. In addition, registered dietitians must complete a supervised internship program and pass a national exam. Those who pursue careers in dietetics take courses in nutrition, chemistry, biochemistry, biology, microbiology, and human physiology. Dietitians must become experts in the chemistry and physiology (biological functions) of food (proteins, carbohydrates, and fats).</para>
+</note></section><section id="fs-id1167067253881" class="ost-tag-lo-apbio-ch03-s02-lo01 ost-get-exercise">
+<title>Benefits of Carbohydrates</title>
+<para id="fs-id2642520">Are carbohydrates good for you? Some people believe that carbohydrates are bad for them and should be avoided. Some diets completely forbid carbohydrate consumption, claiming that a low-carbohydrate diet helps people to lose weight faster. However, carbohydrates have been an important part of the human diet for thousands of years; artifacts from ancient civilizations show the presence of wheat, rice, and corn in our ancestors’ storage areas.</para><para id="fs-id1760576">Carbohydrates should be supplemented with proteins, vitamins, and fats to be parts of a well-balanced diet. Calorie-wise, a gram of carbohydrate provides 4.3 Kcal. For comparison, fats provide 9 Kcal/g, a less desirable ratio. Carbohydrates contain soluble and insoluble elements; the insoluble part is known as fiber, which is mostly cellulose. Fiber has many uses; it promotes regular bowel movement by adding bulk, and it regulates the rate of consumption of blood glucose. Fiber also helps to remove excess cholesterol from the body: fiber binds to the cholesterol in the small intestine, then attaches to the cholesterol and prevents the cholesterol particles from entering the bloodstream, and then cholesterol exits the body via the feces. In addition, a meal containing whole grains and vegetables gives a feeling of fullness. As an immediate source of energy, glucose is broken down during the process of cellular respiration, which produces ATP, the energy currency of the cell. Without the consumption of carbohydrates, the availability of “instant energy” would be reduced. Eliminating carbohydrates from the diet may be necessary for some people, but such a step may not be healthy for everyone.</para><note id="fs-id1685167" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch03-s02-lo02"><label>Link to Learning</label>
+<para id="fs-id1470797">For an additional perspective on carbohydrates, explore “Biomolecules: the Carbohydrates” through this <link window="new" url="http://openstax.org/l/carbohydrates">interactive animation</link>.</para>
+<exercise id="fs-id1167067293655" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167067039653">
+<para id="fs-id1167066847922">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex015"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+
+<note id="fs-id1167066831958" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch03-s02-aplo-4-1 ost-tag-lo-apbio-ch03-s02-aplo-4-2 ost-tag-lo-apbio-ch03-s02-aplo-4-3 ost-tag-lo-apbio-ch03-s00-lo03">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066880846" class="ost-assignable ost-sciprac-activity">
+<para id="fs-id1167067252804">Use a molecular model kit to construct a polysaccharide from several different monosaccharide monomers. Explain how the structure of the polysaccharide determines its primary function as an energy storage molecule. Then use your model to describe how changes in structure result in changes in function.</para>
+</note>
+<note id="fs-id1167067086918" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+
+<list id="fs-id1167067041229">
+<item>Explain why athletes often “carb-load” before a big game or tournament.</item>
+<item>Explain why it is difficult for some animals, including humans, to digest cellulose. Describe a structural difference between cellulose and starch, which is easily digested by humans. How are cows and other ruminants able to digest cellulose?</item>
+</list>
+
+</note>
+</note>
+
+<note id="fs-id1167067041893" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067028848">This activity is an application of Learning Objective 4.1 and Science Practice 7.1 and Learning Objective 4.3 and science practices 6.1 and 6.4 because students first construct a model to show the connection between structure and function at the molecular level and then use the model to predict how changes in structure at the molecular level can affect a molecules properties and function(s).</para>
+<para id="fs-id1167067215417">The first Think About It question is an application of Learning Objective 4.1 and Science Practice 7.1 because students are connecting the structure of a molecule to its function.</para>
+<para id="fs-id1167066803426">The second Think About It question is an application of Learning Objective 4.1 and Science Practice 7.1 and Learning Objective 4.2 and Science Practice 1.3 because students are using representations of the structural features of molecules to explain the relationship between its structure and its properties function(s).</para>
+</note>
+
+<section id="fs-id2642295" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id3032521">Carbohydrates are a group of macromolecules that are a vital energy source for the cell and provide structural support to plant cells, fungi, and all of the arthropods that include lobsters, crabs, shrimp, insects, and spiders. Carbohydrates are classified as monosaccharides, disaccharides, and polysaccharides depending on the number of monomers in the molecule. Monosaccharides are linked by glycosidic bonds that are formed as a result of dehydration reactions, forming disaccharides and polysaccharides with the elimination of a water molecule for each bond formed. Glucose, galactose, and fructose are common monosaccharides, whereas common disaccharides include lactose, maltose, and sucrose. Starch and glycogen, examples of polysaccharides, are the storage forms of glucose in plants and animals, respectively. The long polysaccharide chains may be branched or unbranched. Cellulose is an example of an unbranched polysaccharide, whereas amylopectin, a constituent of starch, is a highly branched molecule. Storage of glucose, in the form of polymers like starch of glycogen, makes it slightly less accessible for metabolism; however, this prevents it from leaking out of the cell or creating a high osmotic pressure that could cause excessive water uptake by the cell.</para>
+</section>
+
+<section id="fs-id1167066831137" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167066846811" class="os-exercise">
+<problem id="fs-id1167067026002">
+<para id="fs-id1167066875518">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex016"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066863169" class="os-exercise">
+<problem id="fs-id1167066791972">
+<para id="fs-id1167067142063">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex017"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063589737" class="os-exercise">
+<problem id="fs-id1167067217009">
+<para id="fs-id1167066877806">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex018"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066862661" class="os-exercise">
+<problem id="fs-id1167066871009">
+<para id="fs-id1167067006878">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex019"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066809587" class="os-exercise">
+<problem id="fs-id1167067183958">
+<para id="fs-id1167066875120">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex020"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066774150" class="os-exercise">
+<problem id="fs-id1167066867052">
+<para id="fs-id1167066829932">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex021"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-id1167067271844" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167067068522" class="os-exercise">
+<problem id="fs-id1167066953160">
+<para id="fs-id1167067150813">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex022"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066867282" class="os-exercise">
+<problem id="fs-id1167066974425">
+<para id="fs-id1167066855677">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex023"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066837973" class="os-exercise">
+<problem id="fs-id1167067300183">
+<para id="fs-id1167067275596">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex024"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-id1167066808399" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167066983777" class="os-exercise">
+<problem id="fs-id1167066863804">
+<para id="fs-id1167066868042">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex012"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067147253" class="os-exercise">
+<problem id="fs-id1167067084904">
+<para id="fs-id1167067101160">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex013"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066973789" class="os-exercise">
+<problem id="fs-id1167066850469">
+<para id="fs-id1167067104375">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex025"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066971938" class="os-exercise">
+<problem id="fs-id1167067093009">
+<para id="fs-id1167066784672">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex049"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066959888" class="os-exercise">
+<problem id="fs-id1167067137944">
+<para id="fs-id1167066831066">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex050"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1166174735081" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1166170322696">
+<problem id="fs-id1166174389960">
+<para id="fs-id1166174575296">The capture of radiant energy through the conversion of carbon dioxide and water into carbohydrates is the engine that drives life on Earth. Ribose, C<sub>5</sub>H<sub>10</sub>O<sub>5</sub>, and hexose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, form stable five- and six-carbon rings.</para>
+<figure id="fs-id1166174386388"><media id="fs-id1166174407347" alt="This figure shows the structures of Ribose and glucose. Ribose is a pentagon-shaped molecule with a carbon at each corner of the pentagon, with the exception of the apex of the pentagon, which has an O atom. The carbons on ribose have the following attaching groups: the right carbon, labelled 1, has an O H and an H. The lower right carbon has an O H and an H. The lower left carbon has an O H and an H. The left carbon, labelled 5, has H O C H 2 and a H. Glucose is a hexagon-shaped molecule with a carbon at each corner of the pentagon, with the exception of the apex of the upper right corner, which has an O atom. The carbons on glucose have the following attaching groups: the right carbon, labelled 1, has an O H and an H. The lower right carbon has an O H and an H. The lower right carbon has an O H and an H. The lower right carbon has an O H and an H. The left carbon has an O H and an H The upper right carbon, labelled 6, has C H 2 O H and an H.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_03_02_01_01_img.jpg" width="400"/>
+</media>
+
+</figure><para id="fs-id1166172802655">The numbering of the carbons on these rings is important in organizing our description of the role these molecules play in biological energy transfer and information storage and retrieval. Glycolysis is a sequence of chemical reactions that convert glucose to two three-carbon compounds called pyruvic acid.</para>
+<figure id="fs-id1166170346464"><media id="fs-id1166174658027" alt="The shows the structure of a molecule containing two central carbons, bonded by a single line. The left carbon is also bonded, by two lines, to an O. The left carbon is also bonded, by a single line lines, to an H O. The right carbon is also bonded, by a single line, to a C H 3. The right carbon is also bonded, by two lines, to an O.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_03_02_01_02_img.jpg"/>
+</media>
+
+</figure><para id="fs-id1166174501103">A. <emphasis>Create visual representations</emphasis> to show how when bonds in the glucose molecules are broken between carbon number 1 and the oxygen atom and between carbons 3 and 4, two molecules of pyruvic acid are produced.</para>
+<para id="fs-id1166170303875">Several enzymes in the cell are involved in converting glucose to pyruvic acid. These enzymes are proteins whose amino acid sequences provide these functions. This protein structure is information that was inherited from the cells parent, and is stored in deoxyribonucleic acid (DNA). The deoxyribo component of that name is a shorthand for 2-deoxyribose.</para>
+<para id="fs-id1166173059618">B. <emphasis>Create a visual representation</emphasis> of 2-deoxyribose, 5-phosphate by replacing the OH at carbon 2 with a hydrogen atom and replacing the OH at carbon 5 with a hydrogen phosphate ion, HPO<sub>3</sub><sup>-2</sup>, whose structure is shown in problem AP3.2. Use your representation to show that both phosphorylation (the addition of a phosphate ion) at carbon 5 and removal of the hydroxide at carbon 2 produce water molecules in an aqueous solution where hydrogen ions are abundant.</para>
+<para id="fs-id1166174713111">DNA is a polymer formed from a chain with repeated 2-deoxyribose, 5-phosphate molecules.</para>
+<para id="fs-id1166173043509">C. <emphasis>Create a visual representation</emphasis> of three 2-deoxyribose, 5-phosphate molecules forming a chain in which an oxygen atom in the phosphate that is attached to the 5-carbon replaces the OH on the 3-carbon of the next ribose sugar.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2348307"><term>carbohydrate</term> <meaning id="fs-id2572195">biological macromolecule in which the ratio of carbon to hydrogen and to oxygen is 1:2:1; carbohydrates serve as energy sources and structural support in cells and form the a cellular exoskeleton of arthropods</meaning></definition>
+<definition id="fs-id2144933"><term>cellulose</term> <meaning id="fs-id1966871">polysaccharide that makes up the cell wall of plants;  provides structural support to the cell</meaning></definition>
+<definition id="fs-id1778091"><term>chitin</term> <meaning id="fs-id1957163">type of carbohydrate that forms the outer skeleton of all arthropods that include crustaceans and insects; it also forms the cell walls of fungi</meaning></definition>
+<definition id="fs-id1805432"><term>disaccharide</term> <meaning id="fs-id2123880">two sugar monomers that are linked together by a glycosidic bond</meaning></definition>
+<definition id="fs-id2581968"><term>glycogen</term> <meaning id="fs-id1449477">storage carbohydrate in animals</meaning></definition>
+<definition id="fs-id1286063"><term>glycosidic bond</term> <meaning id="fs-id2979084">bond formed by a dehydration reaction between two monosaccharides with the elimination of a water molecule</meaning></definition>
+<definition id="fs-id2155001"><term>monosaccharide</term> <meaning id="fs-id1511899">single unit or monomer of carbohydrates</meaning></definition>
+<definition id="fs-id2171791"><term>polysaccharide</term> <meaning id="fs-id1882991">long chain of monosaccharides; may be branched or unbranched</meaning></definition>
+<definition id="fs-id1386450"><term>starch</term> <meaning id="fs-id1470590">storage carbohydrate in plants</meaning></definition>
+</glossary>
+
+</document>

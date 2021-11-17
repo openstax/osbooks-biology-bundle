@@ -1,0 +1,658 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>The Light-Dependent Reaction of Photosynthesis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62795</md:content-id>
+  <md:title>The Light-Dependent Reaction of Photosynthesis</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how plants absorb energy from sunlight</item>
+<item>Describe short and long wavelengths of light</item>
+<item>Describe how and where photosynthesis takes place within a plant</item>
+</list></md:abstract>
+  <md:uuid>fc91589d-f040-4939-9c39-f8de80100734</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065966870" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167065931560">In this section, you will explore the following questions:</para>
+<list id="fs-id1167065842828">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch08-s02-lo01">How do plants absorb energy from sunlight?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch08-s02-lo02">What are the differences between short and long wavelengths of light? What wavelengths are used in photosynthesis?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch08-s02-lo03">How and where does photosynthesis occur within a plant?</item>
+</list>
+</section>
+
+
+<section id="fs-id1167066145857" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066112503">Photosynthesis consists of two stages: the light-dependent reactions and the light-independent reactions or Calvin cycle. The light-dependent reactions occur when light is available. The overall equation for photosynthesis shows that is it a redox reaction; carbon dioxide is reduced and water is oxidized to produce oxygen:</para>
+<equation id="eip-168"><m:math display="block">
+ <m:mrow>
+  <m:mtext>Energy</m:mtext><m:mtext> </m:mtext><m:mtext>+</m:mtext><m:mtext> </m:mtext><m:msub>
+   <m:mrow>
+    <m:mtext>6CO</m:mtext>
+   </m:mrow>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mtext> </m:mtext><m:mtext>+</m:mtext><m:mtext> </m:mtext><m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mtext>O</m:mtext><m:mtext> </m:mtext><m:mo stretchy="false">→</m:mo><m:mtext> </m:mtext><m:msub>
+   <m:mtext>C</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mrow>
+    <m:mtext>12</m:mtext>
+   </m:mrow>
+  </m:msub>
+  <m:msub>
+   <m:mtext>O</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:mtext> </m:mtext><m:mtext>+</m:mtext><m:mtext> </m:mtext><m:msub>
+   <m:mrow>
+    <m:mtext>6O</m:mtext>
+   </m:mrow>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+
+ </m:mrow>
+</m:math></equation><para id="fs-id1167065763219" class="ost-reading-discard">The light-dependent reactions occur in the thylakoid membranes of chloroplasts, whereas the Calvin cycle occurs in the stroma of chloroplasts. Embedded in the thylakoid membranes are two photosystems (PS I and PS II), which are complexes of pigments that capture solar energy. Chlorophylls <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis> absorb violet, blue, and red wavelengths from the visible light spectrum and reflect green. The carotenoid pigments absorb violet-blue-green light and reflect yellow-to-orange light. Environmental factors such as day length and temperature influence which pigments predominant at certain times of the year. Although the two photosystems run simultaneously, it is easier to explore them separately. Let’s begin with photosystem II.</para>
+<para id="fs-id1167064710379" class="ost-reading-discard">A photon of light strikes the antenna pigments of PS II to initiate photosynthesis. In the noncyclic pathway, PS II captures photons at a slightly higher energy level than PS I. (Remember that shorter wavelengths of light carry more energy.) The absorbed energy travels to the reaction center of the antenna pigment that contains chlorophyll <emphasis effect="italics">a</emphasis> and boosts chlorophyll <emphasis effect="italics">a</emphasis> electrons to a higher energy level. The electrons are accepted by a primary electron acceptor protein and then pass to the electron transport chain also embedded in the thylakoid membrane. The energy absorbed in PS II is enough to oxidize (split) water, releasing oxygen into the atmosphere; the electrons released from the oxidation of water replace the electrons that were boosted from the reaction center chlorophyll. As the electrons from the reaction center chlorophyll pass through the series of electron carrier proteins, hydrogen ions (H<sup>+</sup>) are pumped across the membrane via chemiosmosis into the interior of the thylakoid. (If this sounds familiar, it should. We studied chemiosmosis in our exploration of cellular respiration in Cellular Respiration.) This action builds up a high concentration of H+ ions, and as they flow through ATP synthase, molecules of ATP are formed. These molecules of ATP will be used to provide free energy for the synthesis of carbohydrate in the Calvin cycle, the second stage of photosynthesis. The electron transport chain connects PS II and PS I. Similar to the events occurring in PS II, this second photosystem absorbs a second photon of light, resulting in the formation of a molecule of NADPH from NADP<sub>+</sub>. The energy carried in NADPH also is used to power the chemical reactions of the Calvin cycle.</para><para id="fs-id1167065655008" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and learning objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. The learning objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para><table id="fs-id1167065862940" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.2 Organisms use various strategies to capture and store free energy for use in biological processes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Science Practice. Third right cell reads: 3.1 The student can pose scientific questions. Fourth left cell reads: Learning Objective. Fourth right cell reads: 2.4 The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.2</emphasis></span>
+<span class="ost-standards-description">The light-independent reactions of photosynthesis in eukaryotes involve a series of reactions that capture free energy present in light.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4</emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s02-aplo-2-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.4</emphasis></span>
+<span class="ost-standards-description">The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.2</emphasis></span>
+<span class="ost-standards-description">The light-independent reactions of photosynthesis in eukaryotes involve a series of reactions that capture free energy present in light. </span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s02-aplo-2-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.5</emphasis></span>
+<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store, or use free energy.</span>
+</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.2</emphasis></span>
+<span class="ost-standards-description">Chloroplasts are specialized organelles that capture energy through photosynthesis.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4</emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s02-aplo-4-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>4.4</emphasis></span>
+<span class="ost-standards-description">The student is able to make a prediction about the interactions of subcellular organelles.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.2</emphasis></span>
+<span class="ost-standards-description">Chloroplasts are specialized organelles that capture energy through photosynthesis.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s02-aplo-4-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>4.5</emphasis></span>
+<span class="ost-standards-description">The student is able to construct explanations based on scientific evidence as to how interactions of subcellular structures provide essential functions.</span>
+</entry>
+</row>
+
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.2</emphasis></span>
+<span class="ost-standards-description">Chloroplasts are specialized organelles that capture energy through photosynthesis.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4</emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s02-aplo-4-6">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>4.6</emphasis></span>
+<span class="ost-standards-description">The student is able to use representations and models to analyze situations qualitatively to describe how interactions of subcellular structures, which possess specialized functions, provide essential functions.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+
+
+</tgroup>
+</table></section><note id="fs-id1167066055401" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167065965139" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167064845867">This section deals with the first half of photosynthesis. These reactions capture light energy and store it in chemicals for short periods of time to fuel the second half of photosynthesis. This is also where free oxygen can be released, but carbon dioxide is not captured or fixed.
+</para>
+</note>
+</note>
+<para id="fs-id1166848676663">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.5][APLO 2.16][APLO 2.18][APLO 1.9][APLO 1.32][APLO 4.14][APLO 2.2][APLO 2.3][APLO 2.23][APLO 1.15][APLO 1.29]</para><para id="fs-idm88490128">How can light be used to make food? When a person turns on a lamp, electrical energy becomes light energy. Like all other forms of kinetic energy, light can travel, change form, and be harnessed to do work. In the case of photosynthesis, light energy is converted into chemical energy, which photoautotrophs use to build carbohydrate molecules (<link target-id="fig-ch08_02_01" document=""/>). However, autotrophs only use a few specific components of sunlight.</para>
+<figure id="fig-ch08_02_01" class="ost-tag-lo-apbio-ch08-s01-lo01"><media id="fs-idm92191472" alt="A photo shows the silhouette of a grassy plant against the sun at sunset.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_01-c52d.jpg" width="295"/>
+</media>
+
+<caption>Photoautotrophs can capture light energy from the sun, converting it into the chemical energy used to build food molecules. (credit: Gerry Atwell)</caption></figure>
+<section id="fs-idp36564064" class="ost-tag-lo-apbio-ch08-s02-lo01 ost-tag-lo-apbio-ch08-s02-aplo-2-4 ost-get-exercise">
+<title>What Is Light Energy?</title>
+
+<note id="fs-id1167065020907" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065770361">Everybody knows what a rainbow is, but some students may not be able to connect it to actual light sources. Obtain some way of refracting light, such as a prism, and use it to separate the components of several light sources, such as an older, incandescent light bulb, a new fluorescent type of light bulb and actual sunlight.</para>
+<para id="fs-id1167065714517">When discussing the electromagnetic spectrum, include the fact that when someone sets a radio station to its number, such as 92.1 or 1450 on the dial, they are really setting the radio to the specific wavelength of spectrum used by the station.</para>
+</note>
+
+
+<para id="fs-idm194396816">The sun emits an enormous amount of electromagnetic radiation (solar energy). Humans can see only a fraction of this energy, which portion is therefore referred to as “visible light.” The manner in which solar energy travels is described as waves. Scientists can determine the amount of energy of a wave by measuring its <term>wavelength</term>, the distance between consecutive points of a wave. A single wave is measured from two consecutive points, such as from crest to crest or from trough to trough (<link target-id="fig-ch08_02_02" document=""/>).</para>
+<figure id="fig-ch08_02_02" class="ost-tag-lo-apbio-ch08-s02-lo01"><media id="fs-idm128612944" alt="The illustration shows two waves. The distance between the crests (or troughs) is the wavelength.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_02-f0bf.jpg" width="320"/>
+</media>
+
+<caption>The wavelength of a single wave is the distance between two consecutive points of similar position (two crests or two troughs) along the wave.</caption></figure><para id="fs-idm125423280">Visible light constitutes only one of many types of electromagnetic radiation emitted from the sun and other stars. Scientists differentiate the various types of radiant energy from the sun within the electromagnetic spectrum. The <term>electromagnetic spectrum</term> is the range of all possible frequencies of radiation (<link target-id="fig-ch08_02_03" document=""/>). The difference between wavelengths relates to the amount of energy carried by them.</para>
+<figure id="fig-ch08_02_03" class="ost-tag-lo-apbio-ch08-s02-lo01 ost-tag-lo-apbio-ch08-s02-lo02 ost-tag-lo-apbio-ch08-s02-aplo-2-4"><media id="fs-idp102263632" alt="The illustration lists the types of electromagnetic radiation in order of increasing wavelength. These include gamma rays, X-rays, ultraviolet, visible, infrared, and radio. Gamma rays have a very short wavelength, on the order of one thousandth of a nanometer. Radio waves have a very long wavelength, on the order of one kilometer. Visible light ranges from 380 nanometers at the violet end of the spectrum, to 750 nanometers at the red end of the spectrum.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_03-895c.jpg" width="750"/>
+</media>
+
+<caption>The sun emits energy in the form of electromagnetic radiation. This radiation exists at different wavelengths, each of which has its own characteristic energy. All electromagnetic radiation, including visible light, is characterized by its wavelength.</caption></figure><para id="fs-idm53908304">Each type of electromagnetic radiation travels at a particular wavelength. The longer the wavelength (or the more stretched out it appears in the diagram), the less energy is carried. Short, tight waves carry the most energy. This may seem illogical, but think of it in terms of a piece of moving a heavy rope. It takes little effort by a person to move a rope in long, wide waves. To make a rope move in short, tight waves, a person would need to apply significantly more energy.</para>
+<para id="fs-idm126523248">The electromagnetic spectrum (<link target-id="fig-ch08_02_03"/>) shows several types of electromagnetic radiation originating from the sun, including X-rays and ultraviolet (UV) rays. The higher-energy waves can penetrate tissues and damage cells and DNA, explaining why both X-rays and UV rays can be harmful to living organisms.</para>
+</section>
+
+
+<section id="fs-idm82071776" class="ost-tag-lo-apbio-ch08-s02-lo02 ost-get-exercise"><title>Absorption of Light</title><note id="fs-id1167066123168" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065730005">Stress the differences in the amount of energy at each wavelength, and the usefulness of the wavelengths for energy capture. Discuss what is in a “grow light” (artificial light source for plants grown indoors).</para>
+</note>
+
+
+<para id="fs-idm268137472">Light energy initiates the process of photosynthesis when pigments absorb the light. Organic pigments, whether in the human retina or the chloroplast thylakoid, have a narrow range of energy levels that they can absorb. Energy levels lower than those represented by red light are insufficient to raise an orbital electron to a populatable, excited (quantum) state. Energy levels higher than those in blue light will physically tear the molecules apart, called bleaching. So retinal pigments can only “see” (absorb) 700 nm to 400 nm light, which is therefore called visible light. For the same reasons, plants pigment molecules absorb only light in the wavelength range of 700 nm to 400 nm; plant physiologists refer to this range for plants as photosynthetically active radiation.</para>
+<para id="fs-idp33763296">The visible light seen by humans as white light actually exists in a rainbow of colors. Certain objects, such as a prism or a drop of water, disperse white light to reveal the colors to the human eye. The visible light portion of the electromagnetic spectrum shows the rainbow of colors, with violet and blue having shorter wavelengths, and therefore higher energy. At the other end of the spectrum toward red, the wavelengths are longer and have lower energy (<link target-id="fig-ch08_02_04" document=""/>).</para>
+<figure id="fig-ch08_02_04" class="ost-tag-lo-apbio-ch08-s02-lo02 ost-tag-lo-apbio-ch08-s02-aplo-2-4">
+<media id="fs-idm211258048" alt="The illustration shows the colors of visible light. In order of decreasing wavelength, from 700 nanometers to 400 nanometers, these are red, orange, yellow, green, blue, indigo, and violet. 500 nanometers is about the thickness of a soap bubble membrane. Infrared has longer wavelengths than red light, and uv and X-rays have shorter wavelengths than violet light.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_04-da20.jpg" width="750"/>
+</media>
+
+<caption>The colors of visible light do not carry the same amount of energy. Violet has the shortest wavelength and therefore carries the most energy, whereas red has the longest wavelength and carries the least amount of energy. (credit: modification of work by NASA)</caption></figure>
+</section>
+<section id="fs-idm123511168" class="ost-tag-lo-apbio-ch08-s02-lo02 ost-get-exercise">
+<title>Understanding Pigments</title>
+<note id="fs-id1167065808558" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167062346666">Concentrate on the types and functions of chlorophylls and carotenoids that are found in leaves. Discuss how all of them are always there even though they are not visible in the summer. They are visible in the fall.</para>
+<para id="fs-id1167065810530">Ask the class what color coats people tend to wear in the summer and in the winter. Discuss why they do this.</para>
+</note>
+<para id="fs-idp9838128">Different kinds of pigments exist, and each absorbs only certain wavelengths (colors) of visible light. Pigments reflect or transmit the wavelengths they cannot absorb, making them appear in the corresponding color.</para><para id="fs-idm211300064">Chlorophylls and carotenoids are the two major classes of photosynthetic pigments found in plants and algae; each class has multiple types of pigment molecules. There are five major chlorophylls: <emphasis effect="italics">a</emphasis>, <emphasis effect="italics">b</emphasis>, <emphasis effect="italics">c</emphasis> and <emphasis effect="italics">d</emphasis> and a related molecule found in prokaryotes called bacteriochlorophyll. <term>Chlorophyll <emphasis effect="italics">a</emphasis></term> and <term>chlorophyll <emphasis effect="italics">b</emphasis></term> are found in higher plant chloroplasts and will be the focus of the following discussion.</para><para id="fs-idm123243680">With dozens of different forms, carotenoids are a much larger group of pigments. The carotenoids found in fruit—such as the red of tomato (lycopene), the yellow of corn seeds (zeaxanthin), or the orange of an orange peel (β-carotene)—are used as advertisements to attract seed dispersers. In photosynthesis, <term>carotenoids</term> function as photosynthetic pigments that are very efficient molecules for the disposal of excess energy. When a leaf is exposed to full sun, the light-dependent reactions are required to process an enormous amount of energy; if that energy is not handled properly, it can do significant damage. Therefore, many carotenoids reside in the thylakoid membrane, absorb excess energy, and safely dissipate that energy as heat.</para>
+<para id="fs-idp27821616">Each type of pigment can be identified by the specific pattern of wavelengths it absorbs from visible light, which is the <term>absorption spectrum</term>. The graph in <link target-id="fig-ch08_02_05" document=""/> shows the absorption spectra for chlorophyll <emphasis effect="italics">a</emphasis>, chlorophyll <emphasis effect="italics">b</emphasis>, and a type of carotenoid pigment called β-carotene (which absorbs blue and green light). Notice how each pigment has a distinct set of peaks and troughs, revealing a highly specific pattern of absorption. Chlorophyll <emphasis effect="italics">a</emphasis> absorbs wavelengths from either end of the visible spectrum (blue and red), but not green. Because green is reflected or transmitted, chlorophyll appears green. Carotenoids absorb in the short-wavelength blue region, and reflect the longer yellow, red, and orange wavelengths.</para>
+<figure id="fig-ch08_02_05" class="ost-tag-lo-apbio-ch08-s02-lo02 ost-tag-lo-apbio-ch08-s02-aplo-2-5"><media id="fs-idm181645856" alt="Chlorophyll a and chlorophyll b are made up of a long hydrocarbon chain attached to a large, complex ring made up of nitrogen and carbon. Magnesium is associated with the center of the ring. Chlorophyll b differs from chlorophyll a in that it has a CHO group instead of a CH3 group associated with one part of the ring. Beta-carotene is a branched hydrocarbon with a six-membered carbon ring at each end. Each chart shows the absorbance spectra for chlorophyll a, chlorophyll b, and β-carotene. The three pigments absorb blue-green and orange-red wavelengths of light but have slightly different spectra.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_05abcd.jpg" width="550"/>
+</media>
+
+<caption>(a) Chlorophyll <emphasis effect="italics">a</emphasis>, (b) chlorophyll <emphasis effect="italics">b</emphasis>, and (c) <emphasis effect="italics">β</emphasis>-carotene are hydrophobic organic pigments found in the thylakoid membrane. Chlorophyll <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis>, which are identical except for the part indicated in the red box, are responsible for the green color of leaves. <emphasis effect="italics">β</emphasis>-carotene is responsible for the orange color in carrots. Each pigment has (d) a unique absorbance spectrum.</caption></figure><para id="fs-idm186915168">Many photosynthetic organisms have a mixture of pigments; using them, the organism can absorb energy from a wider range of wavelengths. Not all photosynthetic organisms have full access to sunlight. Some organisms grow underwater where light intensity and quality decrease and change with depth. Other organisms grow in competition for light. Plants on the rainforest floor must be able to absorb any bit of light that comes through, because the taller trees absorb most of the sunlight and scatter the remaining solar radiation (<link target-id="fig-ch08_02_06" document=""/>).</para>
+<figure id="fig-ch08_02_06" class="ost-tag-lo-apbio-ch08-s02-lo01"><media id="fs-idm168490976" alt="The photo shows undergrowth in a forest.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_06.jpg" width="380"/>
+</media>
+<caption>Plants that commonly grow in the shade have adapted to low levels of light by changing the relative concentrations of their chlorophyll pigments. (credit: Jason Hollinger)</caption></figure><para id="fs-idm160247200">When studying a photosynthetic organism, scientists can determine the types of pigments present by generating absorption spectra. An instrument called a <term>spectrophotometer</term> can differentiate which wavelengths of light a substance can absorb. Spectrophotometers measure transmitted light and compute from it the absorption. By extracting pigments from leaves and placing these samples into a spectrophotometer, scientists can identify which wavelengths of light an organism can absorb. Additional methods for the identification of plant pigments include various types of chromatography that separate the pigments by their relative affinities to solid and mobile phases.</para>
+</section>
+
+<section id="fs-idm30660704" class="ost-tag-lo-apbio-ch08-s02-lo03 ost-tag-lo-apbio-ch08-s02-aplo-4-5 ost-get-exercise">
+<title>How Light-Dependent Reactions Work</title>
+
+<note id="fs-id1167065867519" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167066202920">Photosystems I and II can be confusing. Obtain diagrams of both systems and use them to go through the steps of the pathways. Discuss why some plants use the cyclic form of the systems and some the linear form. Discuss why oxygen is released during one pathway, but not the other.</para>
+</note>
+
+
+<para id="fs-idm291419072">The overall function of light-dependent reactions is to convert solar energy into chemical energy in the form of NADPH and ATP. This chemical energy supports the light-independent reactions and fuels the assembly of sugar molecules. The light-dependent reactions are depicted in <link target-id="fig-ch08_02_07" document=""/>. Protein complexes and pigment molecules work together to produce NADPH and ATP.</para>
+<figure id="fig-ch08_02_07" class="ost-tag-lo-apbio-ch08-s02-lo03 ost-tag-lo-apbio-ch08-s02-aplo-4-5"><media id="fs-idm3490080" alt=" Illustration a shows the structure of PSII, which is embedded in the thylakoid membrane. At the core of PSII is the reaction center. The reaction center is surrounded by the light-harvesting complex, which contains antenna pigment molecules that shunt light energy toward a pair of chlorophyll a molecules in the reaction center. As a result, an electron is excited and transferred to the primary electron acceptor. A water molecule is split, releasing two electrons which are used to replace excited electrons. Illustration b shows the structure of PSI, which is similar in structure to PSII. However, PSII uses an electron from the chloroplast electron transport chain also embedded in the thylakoid membrane to replace the excited electron.">
+<image mime-type="image/png" src="../../media/Figure_08_02_07ab.png" width="320"/>
+</media>
+
+<caption>A photosystem consists of a light-harvesting complex and a reaction center. Pigments in the light-harvesting complex pass light energy to two special chlorophyll <emphasis effect="italics">a</emphasis> molecules in the reaction center. The light excites an electron from the chlorophyll <emphasis effect="italics">a</emphasis> pair, which passes to the primary electron acceptor. The excited electron must then be replaced. In (a) photosystem II, the electron comes from the splitting of water, which releases oxygen as a waste product. In (b) photosystem I, the electron comes from the chloroplast electron transport chain discussed below.</caption></figure><para id="fs-idm97436496">The actual step that converts light energy into chemical energy takes place in a multiprotein complex called a <term>photosystem</term>, two types of which are found embedded in the thylakoid membrane, <term>photosystem II</term> (PSII) and <term>photosystem I</term> (PSI) (<link target-id="fig-ch08_02_08" document=""/>). The two complexes differ on the basis of what they oxidize (that is, the source of the low-energy electron supply) and what they reduce (the place to which they deliver their energized electrons).</para>
+<para id="fs-idm82968160">Both photosystems have the same basic structure; a number of <term>antenna proteins</term> to which the chlorophyll molecules are bound surround the <term>reaction center</term> where the photochemistry takes place. Each photosystem is serviced by the <term>light-harvesting complex</term>, which passes energy from sunlight to the reaction center; it consists of multiple antenna proteins that contain a mixture of 300–400 chlorophyll <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis> molecules as well as other pigments like carotenoids. The absorption of a single <term>photon</term> or distinct quantity or “packet” of light by any of the chlorophylls pushes that molecule into an excited state. In short, the light energy has now been captured by biological molecules but is not stored in any useful form yet. The energy is transferred from chlorophyll to chlorophyll until eventually (after about a millionth of a second), it is delivered to the reaction center. Up to this point, only energy has been transferred between molecules, not electrons.</para>
+</section>
+
+<note id="fs-idm100402144" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch08-s02-lo03 ost-tag-lo-apbio-ch08-s02-aplo-4-6">
+<label>Visual Connection</label>
+<para id="fs-id1167067260848">
+<figure id="fig-ch08_02_08"><media id="fs-idm130539056" alt="This illustration shows the components involved in the light reactions, which are all embedded in the thylakoid membrane. Photosystem II uses light energy to strip electrons from water, producing half an oxygen molecule and two protons in the process. The excited electron is then passed through the chloroplast electron transport chain to photosystem I. Photosystem I passes the electron to NADP+ reductase, which uses it to convert NADP+ and a proton to NADPH. As the electron transport chain moves electrons, it pumps protons into the thylakoid lumen. The splitting of water also adds electrons to the lumen, and the reduction of NADPH removes protons from the stroma. The net result is a low pH inside the thylakoid lumen, and a high pH outside, in the stroma. ATP synthase embedded the thylakoid  membrane moves protons down their electrochemical gradient, from the lumen to the stroma, and uses the energy from this gradient to make ATP.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_08.jpg" width="445"/>
+</media>
+<caption>In the photosystem II (PSII) reaction center, energy from sunlight is used to extract electrons from water. The electrons travel through the chloroplast electron transport chain to photosystem I (PSI), which reduces NADP<sup>+</sup> to NADPH. The electron transport chain moves protons across the thylakoid membrane into the lumen. At the same time, splitting of water adds protons to the lumen, and reduction of NADPH removes protons from the stroma. The net result is a low pH in the thylakoid lumen, and a high pH in the stroma. ATP synthase uses this electrochemical gradient to make ATP.</caption></figure>
+</para>
+<exercise id="fs-id1167064896197" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066091403">
+<para id="fs-id1167065896660">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex017"/>
+</para>
+</problem>
+</exercise>
+</note>
+
+<para id="fs-idm135716528">The reaction center contains a pair of chlorophyll <emphasis effect="italics">a</emphasis> molecules with a special property. Those two chlorophylls can undergo oxidation upon excitation; they can actually give up an electron in a process called a <term>photoact</term>. It is at this step in the reaction center, this step in photosynthesis, that light energy is converted into an excited electron. All of the subsequent steps involve getting that electron onto the energy carrier NADPH for delivery to the Calvin cycle where the electron is deposited onto carbon for long-term storage in the form of a carbohydrate.PSII and PSI are two major components of the photosynthetic <term>electron transport chain</term>, which also includes the <term>cytochrome complex</term>. The cytochrome complex, an enzyme composed of two protein complexes, transfers the electrons from the carrier molecule plastoquinone (Pq) to the protein plastocyanin (Pc), thus enabling both the transfer of protons across the thylakoid membrane and the transfer of electrons from PSII to PSI.
+</para><para id="fs-idm101449600">The reaction center of PSII (called <term>P680</term>) delivers its high-energy electrons, one at the time, to the <term>primary electron acceptor</term>, and through the electron transport chain (Pq to cytochrome complex to plastocyanine) to PSI. P680’s missing electron is replaced by extracting a low-energy electron from water; thus, water is split and PSII is re-reduced after every photoact. Splitting one H<sub>2</sub>O molecule releases two electrons, two hydrogen atoms, and one atom of oxygen. Splitting two molecules is required to form one molecule of diatomic O<sub>2</sub> gas. About 10 percent of the oxygen is used by mitochondria in the leaf to support oxidative phosphorylation. The remainder escapes to the atmosphere where it is used by aerobic organisms to support respiration.</para><para id="fs-idm16256512">As electrons move through the proteins that reside between PSII and PSI, they lose energy. That energy is used to move hydrogen atoms from the stromal side of the membrane to the thylakoid lumen. Those hydrogen atoms, plus the ones produced by splitting water, accumulate in the thylakoid lumen and will be used to synthesize ATP in a later step. Because the electrons have lost energy prior to their arrival at PSI, they must be re-energized by PSI, hence, another photon is absorbed by the PSI antenna. That energy is relayed to the PSI reaction center (called <term>P700</term>). P700 is oxidized and sends a high-energy electron to NADP<sup>+</sup> to form NADPH. Thus, PSII captures the energy to create proton gradients to make ATP, and PSI captures the energy to reduce NADP<sup>+</sup> into NADPH. The two photosystems work in concert, in part, to guarantee that the production of NADPH will roughly equal the production of ATP. Other mechanisms exist to fine tune that ratio to exactly match the chloroplast’s constantly changing energy needs.</para>
+
+<section id="fs-idm202200336" class="ost-get-exercise">
+<title>Generating an Energy Carrier: ATP</title>
+
+<note id="fs-id1167065764047" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167064929093">Discuss the similarities between ATP production in the light dependent reactions and in cellular respiration.</para>
+</note>
+
+
+<para id="fs-idm53562256">As in the intermembrane space of the mitochondria during cellular respiration, the buildup of hydrogen ions inside the thylakoid lumen creates a concentration gradient. The passive diffusion of hydrogen ions from high concentration (in the thylakoid lumen) to low concentration (in the stroma) is harnessed to create ATP, just as in the electron transport chain of cellular respiration. The ions build up energy because of diffusion and because they all have the same electrical charge, repelling each other.</para><para id="fs-idm115415664">To release this energy, hydrogen ions will rush through any opening, similar to water jetting through a hole in a dam. In the thylakoid, that opening is a passage through a specialized protein channel called the ATP synthase. The energy released by the hydrogen ion stream allows ATP synthase to attach a third phosphate group to ADP, which forms a molecule of ATP (<link target-id="fig-ch08_02_08" document=""/>). The flow of hydrogen ions through ATP synthase is called chemiosmosis because the ions move from an area of high to an area of low concentration through a semi-permeable structure.</para>
+
+<note id="fs-idm66463072" class="interactive ost-assessed-feature"><label>Link to Learning</label>
+<para id="fs-idm54765440">Visit this <link window="new" url="http://openstax.org/l/light_reactions">site</link> and click through the animation to view the process of photosynthesis within a leaf.</para>
+<exercise id="fs-id1167062351241" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066113207">
+<para id="fs-id1167065979882">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex018"/>
+</para>
+</problem>
+</exercise>
+</note>
+
+<note id="fs-id1167066055957" class="ap-everyday ost-assessed-feature ost-tag-lo-apbio-ch08-s02-lo03"><label>Everyday Connections for AP<sup>®</sup> Courses</label>
+<para id="fs-id1167067198681"><figure id="fs-id1167065809244"><media id="fs-id1167062299486" alt="A leaf cross section illustration. A flat layer of rectangular cells make up the upper and lower epidermis, labelled 2 and 5 respectively. A cuticle layer protects the outside of both epidermal layers labelled 1. A stomatal pore, labelled 6, in the lower epidermis allows carbon dioxide to enter and oxygen to leave. Oval guard cells surround the pore, labelled 7. Sandwiched between the upper and lower epidermis is the mesophyll. The upper part of the mesophyll is comprised of columnar cells called palisade parenchyma, labelled 3. The lower part of the mesophyll is made up of loosely packed spongy parenchyma, labelled 4. A leaf vein is labelled 10. Inside the vein is the xylem, labelled 8, and the phloem, labelled 9.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_Figure_08_02_13.jpg" width="445"/>
+</media>
+<caption>The anatomy of a leaf. The cuticle and epidermis are the outer layers of the leaf and protect it from drying out. Chloroplasts are found in the mesophyll cells and are where photosynthesis occurs. Gas is exchanged through pores called stomata, which are opened and closed by the guard cells. Legend: 1) cuticle 2) upper epidermis 3) palisade mesophyll 4) spongy mesophyll 5) lower epidermis 6) stoma 7) guard cells 8) xylem 9) phloem 10) vascular bundle.</caption></figure></para>
+<exercise id="eip-id1167067000248" class="os-exercise unnumbered"><label/>
+<problem id="eip-id1167066966410">
+<para id="eip-id1167066966412">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex019"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<note id="fs-id1167066141335" class="ap-science-practices ost-reading-discard"><label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<!-- <note id="fs-id1167065713507" class="ost-assignable ost-sciprac-lab ost-tag-lo-apbio-ch08-s02-aplo-2-11">
+<label/><title>Lab Investigation</title>
+<para id="fs-id1167065807742">Your teacher has set up 3 demonstrations. Each setup includes a clear dialysis bag filled with starch solutions at three different concentrations: 1%, 25%, and 60%. Dialysis tubing is semipermeable, as it contains pores that permit the passage of small ions and molecules, like water; but will not permit the passage of larger molecules, like proteins. In this way, the dialysis bag models a semipermeable cell membrane.</para>
+<list id="fs-id1167064947638" list-type="enumerated" number-style="arabic"><item>Your teacher will now weigh each dialysis bag. Record these starting weights.</item>
+<item>Your teacher will now immerse each dialysis tube into a beaker containing an iodine solution. If each dialysis bag were a cell, would it be hypertonic, hypotonic, or isotonic relative to the distilled water? How quickly will water flow into or out of the dialysis bag by osmosis? What will happen if the starch solution comes in contact with the iodine solution?</item>
+<item>Allow the dialysis bags to sit for at least 1 hour. While waiting, predict how osmosis will affect the weight of the three dialysis bags. Will the weight of the bags increase, decrease, or remain the same?</item>
+<item>Your teacher will now weigh the bags again. Was both water and starch able to pass through the dialysis tubing? How do you know, based on your results? Did the concentration of the starch solutions affect the rate of osmosis? Why would this occur?</item>
+</list>
+</note> -->
+
+<note id="fs-id1167065914519" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch08-s02-aplo-4-4"><label/>
+<title>Think About It</title>
+<para id="fs-id1167065661922">On a hot, dry day, plants close their stomata to conserve water. Predict the impact of this on photosynthesis and justify your prediction.</para>
+</note>
+</note><note id="fs-id1167065762636" class="os-teacher">
+<label>Teacher Support</label>
+<!--<note id="fs-id1167065927198" class="ost-teacher-demonstration">
+<label>Teacher Demonstration</label>
+<para id="fs-id1167065942166">Materials: 3 dialysis bags, 3 medium-sized beakers, stock starch solution, distilled water, iodine dropper bottle, thread, balance or scale</para>
+<para id="fs-id1167065869424">Preparation: To prepare the percent starch solutions, determine the volume of the solution you wish to use (e.g. 100 ml) and add the mass of solute, in grams, equivalent to the desired percent concentration:</para>
+<para id="fs-id1167064635442">Percent solution = [Mass of solute (g) / Volume of solution (ml)] x 100</para>
+<para id="fs-id1167066198428">Label each dialysis bag with one of the three concentrations. Then, moisten the dialysis tubing to make it easier to open. Fill each tube with the corresponding solution about three-quarters of the way fill in order to leave space to tie off the top of the bag. Tie the tops of the bags tightly with standard thread. Do not place the bags in the iodine solution yet, as they will first be weighed in front of the students.</para>
+<para id="fs-id1167065711498">With students present, explain to them the details of the setup and show them how iodine is used as an indicator for the presence of starch. Then fill each beaker about three-quarters of the way with distilled water. Add 3-8 drops of iodine, based on the strength of your iodine, and stir so that the solution is yellow in color. Then, weigh each dialysis bag and record the weights on a chart visible to the class. Immerse the dialysis bags in the iodine solution for 45 min to 1 hour. Then, remove the bags and carefully rinse them under a gentle tap. Weigh each bag and place the results on the board.</para>
+<para id="fs-id1167065914543">Results: Starch molecules cannot pass through the dialysis tubing. However, the iodine solution can pass from the beaker into the dialysis bag. This turns the starch solution from colorless to purple. The amount of iodine that diffuses into the bag is related to the concentration of each solution. As the starch concentration increases, more iodine solution will diffuse into the bag, causing the bag to increase in weight.</para>
+<list id="fs-id1167065838303">
+<item>This lab is an application of Learning Objective 2.4 and science practices 1.4 and 3.1 and Learning Objective 2.5 and science practice 6.2 because as students collect and analyze data, they will raise questions about the factors that influence the rate of photosynthesis; in addition, as part of their experimental design, students draw conclusions from the data.</item>-->
+<para id="fs-id1167064826073">The Think About It question is an application of Learning Objective 4.4 and Science Practice 6.4 because students are making a prediction about how interactions of cellular organelles and structures affect the rate of photosynthesis.</para>
+<note id="fs-id1167065896375"><title>Possible answer:</title> When the stomata are closed, carbon dioxide cannot enter the leaves to form glucose in the light independent reactions. When the light independent reactions are not occurring, energy stored in ATP and NADPH cannot be transferred to carbon-carbon bonds and so eventually the light-dependent reactions will run out of ADP and NADP to accept electrons. As a result, photosynthesis will slow.</note></note>
+<section id="fs-idm97401264" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idm94280464">The pigments of the first part of photosynthesis, the light-dependent reactions, absorb energy from sunlight. A photon strikes the antenna pigments of photosystem II to initiate photosynthesis. The energy travels to the reaction center that contains chlorophyll <emphasis effect="italics">a</emphasis> and then to the electron transport chain, which pumps hydrogen ions into the thylakoid interior. This action builds up a high concentration of ions. The ions flow through ATP synthase via chemiosmosis to form molecules of ATP, which are used for the formation of sugar molecules in the second stage of photosynthesis. Photosystem I absorbs a second photon, which results in the formation of an NADPH molecule, another energy and reducing power carrier for the light-independent reactions.</para></section>
+<section id="fs-id1167065828676" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065758879" class="os-exercise">
+<problem id="fs-id1167065071942">
+<para id="fs-id1167064695512">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex020"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066170390" class="os-exercise">
+<problem id="fs-id1167065919842">
+<para id="fs-id1167065764151">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex021"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065747608" class="os-exercise">
+<problem id="fs-id1167065735415">
+<para id="fs-id1167066167249">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex022"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066027251" class="os-exercise">
+<problem id="fs-id1167064770060">
+<para id="fs-id1167065755627">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex023"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065820267" class="os-exercise">
+<problem id="fs-id1167065826408">
+<para id="fs-id1167066046192">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex024"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065844590" class="os-exercise">
+<problem id="fs-id1167065895036">
+<para id="fs-id1167065827278">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex025"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166851322812" class="os-exercise">
+<problem id="eip-id1166848758105">
+<para id="eip-id1166851178808">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ot013"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066155851" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167066095554" class="os-exercise">
+<problem id="fs-id1167065763709">
+<para id="fs-id1167062409144">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex026"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064894116" class="os-exercise">
+<problem id="fs-id1167064746481">
+<para id="fs-id1167065822408">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex027"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065023075" class="os-exercise">
+<problem id="fs-id1167065055735">
+<para id="fs-id1167066045545">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex028"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166848668862" class="os-exercise">
+<problem id="eip-id1166848886094">
+<para id="eip-id1166851246970">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ot018"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065848969" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167063517737" class="os-exercise">
+<problem id="fs-id1167067159684">
+<para id="fs-id1167067078165">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex029"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063480978" class="os-exercise">
+<problem id="fs-id1167067111224">
+<para id="fs-id1167067198940">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex030"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065742768" class="os-exercise"><problem id="fs-id1167066039437">
+<para id="fs-id1167062315634">
+Based on <link target-id="fig-ch08_03_01" document="m62796"/>, which would most likely cause a plant to run out of NADP?
+<list id="eip-idm1740962400" list-type="enumerated" number-style="lower-alpha">
+<item>missing the ATP synthase enzyme</item>
+<item>exposure to light</item>
+<item>A lack of water would prevent H<sup>+</sup> and NADP<sup>+</sup> from forming NADPH</item>
+<item>not enough CO<sub>2</sub></item>
+</list>
+</para>
+</problem>
+</exercise><exercise id="fs-id1167065039659" class="os-exercise">
+<problem id="fs-id1167064893000">
+<para id="fs-id1167064896153">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex032"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066035826" class="os-exercise">
+<problem id="fs-id1167066169997">
+<para id="fs-id1167065971826">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex033"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065968370" class="os-exercise">
+<problem id="fs-id1167065877652">
+<para id="fs-id1167065791384">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex034"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066152184" class="os-exercise">
+<problem id="fs-id1167064904937">
+<para id="fs-id1167062305090">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex035"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065970346" class="os-exercise">
+<problem id="fs-id1167065762452">
+<para id="fs-id1167065851019">
+<link class="os-embed" url="#ost/api/ex/apbio-ch08-ex036"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164968715594" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164968591165">
+<problem id="fs-id1164968657773">
+<para id="fs-id1164966545023">On a hot, dry day, plants close their stomata to conserve water.  <emphasis>Explain</emphasis> the connection between the oxidation of water in photosystem II of the light-dependent reactions and the synthesis of glyceraldehyde-3-phosphate (G3PA) in the light-independent reactions.  <emphasis>Predict</emphasis> the effect of closed stomata on the synthesis of G3PA and <emphasis>justify</emphasis> the prediction.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164966424616">
+<problem id="fs-id1164963234976">
+<para id="fs-id1164968973432">The emergence of photosynthetic organisms is recorded in layers of sedimentary rock known as a banded iron formation.  Dark-colored and iron-rich bands composed of hematite (Fe<sub>2</sub>O<sub>3</sub>) and magnetite (Fe<sub>3</sub>O<sub>4</sub>) only a few millimeters thick alternate with light-colored and iron-poor shale or chert.  Hematite and magnetite can form precipitates from water that has a high concentration of dissolved oxygen.  Shale and chert can form under conditions that have high concentrations of carbonates (CO<sub>3</sub><sup>-2</sup>).  These banded iron formations appeared 3.7 billion years ago (and became less common 1.8 billion years ago).  <emphasis>Justify the claim</emphasis> that these sedimentary rock formations reveal early Earth conditions.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164962094242">
+<problem id="fs-id1164963129220">
+<para id="fs-id1164969035365">The following diagram summarizes the light reactions of photosynthesis.</para>
+<figure id="fs-id1164968894447"><media id="fs-id1164966529341" alt="A diagram shows the light reactions of photosynthesis. The diagram is broken up into three sections of different colors of pink. The bottom section takes up the lower half of the bottom left quadrant and is labeled Thylakoid lumen. The top section takes up the upper half of the top right quadrant and is labeled stroma. The center section is the largest. For photosystem 2 the top of the diagram says Free energy of reaction 77 kilojoules per electron at 680 nanometers P 6 8 0. Four H plus added to O 2 from 2 H 2 O  1400 kilojoules to P 680. In the cytochrome complex 4 H plus are exchanging between 2 P c and 2 P q is exchanging between 2 P q H q. In Photosystem 700 nanometers 1 P 700 1400 kilojoules to P 700. The ferredoxin cluster shows 2 H plus plus 2 N A D P positive exchanging to 2 N A D P H. ATP synthase between 6 H plus and 6 H plus. 3 A D P plus 3 P arrow to 3 A T P.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_08_02_03_01_img.jpg"/>
+</media>
+
+</figure><para id="fs-id1164966344005">The diagram shows light-dependent reactions of photosynthesis, including the reaction centers, electron transport chains, and the overall reactions within each of these.  The free energy per electron is shown for the oxidation-reduction reactions.  The free change of the captured radiant energy is shown.</para>
+<para id="fs-idm1310310720"><preformat id="eip-idm731460128" display="block"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>2</m:mn><m:mi>N</m:mi><m:mi>A</m:mi><m:mi>D</m:mi><m:msup>
+    <m:mi>P</m:mi>
+    <m:mo>+</m:mo>
+   </m:msup>
+   <m:mo>+</m:mo><m:mn>2</m:mn><m:msup>
+    <m:mi>H</m:mi>
+    <m:mo>+</m:mo>
+   </m:msup>
+   <m:mo>+</m:mo><m:mn>2</m:mn><m:msub>
+    <m:mi>H</m:mi>
+    <m:mn>2</m:mn>
+   </m:msub>
+   <m:mi>O</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>A</m:mi><m:mi>D</m:mi><m:mi>P</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:msub>
+    <m:mi>P</m:mi>
+    <m:mi>i</m:mi>
+   </m:msub>
+   <m:mrow><m:mo>→</m:mo></m:mrow></m:mrow></m:semantics></m:math><newline/>
+<m:math><m:semantics><m:mrow>
+<m:msub>
+    <m:mi>O</m:mi>
+    <m:mn>2</m:mn>
+   </m:msub>
+   <m:mo>+</m:mo><m:mn>4</m:mn><m:msup>
+    <m:mi>H</m:mi>
+    <m:mo>+</m:mo>
+   </m:msup>
+   <m:mo>+</m:mo><m:mn>2</m:mn><m:mi>N</m:mi><m:mi>A</m:mi><m:mi>D</m:mi><m:mi>P</m:mi><m:mi>H</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>A</m:mi><m:mi>T</m:mi><m:mi>P</m:mi>
+  </m:mrow>
+ </m:semantics>
+</m:math></preformat></para><list id="fs-id1164966422457" list-type="enumerated" number-style="upper-alpha">
+<item>In the <emphasis effect="italics">overall</emphasis> mass balance equation for the light reactions shown above, <emphasis>identify</emphasis> the source of electrons for the synthesis of NADPH.</item>
+<item><emphasis>Calculate</emphasis> the number of electrons transferred in this reaction.</item>
+<item>Using the free energies per electron displayed, <emphasis>calculate</emphasis> the free energy change of the light-dependent reactions.</item>
+<item>Given that the free energy change for the hydrolysis of ATP is -31.5 kJ/mole and the free energy change for the formation of NADPH from NADP<sup>+</sup> is 18 kJ/mole, <emphasis>calculate</emphasis> the total production of free energy for the light reactions.</item>
+<item>Using this definition of energy efficiency, <emphasis>calculate</emphasis> the efficiency of the light reaction of photosynthesis: energy efficiency = free energy produced/energy input.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1164966497464">
+<problem id="fs-id1164966342005">
+<para id="fs-id1164968615721">Algae can be used for food and fuel.  To maximize profit from algae production under artificial light, researchers proposed an experiment to determine the dependence of the efficiency of the process used to grow the algae on light intensity (brightness) that will be purchased from the electric company.</para>
+<para id="fs-id1164966470012">The algae will be grown on a flat sheet that will be continuously washed with dissolved carbon dioxide and nutrients.  Light-emitting diodes (LEDs) will be used to illuminate the growth sheet.  Photodiodes placed above and below the sheet will be used to detect light transmitted through and reflected from the algal mat.  The intensity of light can be varied, and the algae can be removed, filtered, and dried.  The amount of stored energy in the algal mats can be determined by calorimetry.</para>
+<para id="fs-id1164966590360">A. <emphasis>Identify</emphasis> a useful definition of efficiency for this study and <emphasis>justify</emphasis> your choice.</para>
+<para id="fs-id1164966468673">B. Frequencies of light emitted by the LEDs will not be variables but must be specified for the construction of the apparatus. <emphasis>Identify</emphasis> the frequencies of light that should be used in the experiment and justify your choice.</para>
+<para id="fs-id1164968606576">C. <emphasis>Evaluate the claim</emphasis> that the experiment is based on the assumption that there is an upper limit on the intensity of light used to support growth of algae. <emphasis>Predict</emphasis> a possible effect on algal growth if light with too great an intensity is used and <emphasis>justify</emphasis> the prediction.</para>
+<para id="fs-id1164966491556">D. <emphasis>Design an experiment</emphasis> by describing a procedure that can be used to determine the relationship between light intensity and efficiency.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164968699994">
+<problem id="fs-id1164966557488">
+<para id="fs-id1164968643996">The classical theory of evolution is based on a gradual transformation, the accumulation of many random mutations that are selected.  The biological evidence for evolution is overwhelming, particularly when one considers what has not changed: core conserved characteristics.</para>
+<para id="fs-id1164961814876">A. <emphasis>Describe</emphasis> three conserved characteristics common to both chloroplasts and mitochondria.</para>
+<para id="fs-id1164968937194">Some hypotheses that have been proposed to account for biological diversity are saltatory, involving sudden changes, rather than gradualist.  In defense of the classical gradualist theory of evolution, nearly all biologists in the late 1960s rejected the theory of endosymbiosis as presented by Lynn Margulis in 1967.</para><para id="fs-id1164966610770">B. Suppose that you want to disprove the theory of endosymbiosis.</para>
+<para id="fs-id1164968667859"><emphasis>Explain</emphasis> how the following evidence could disprove the theory:</para>
+<para id="fs-id1164968933805">i. a transitional species with cellular features that are intermediate cells with and without mitochondria</para>
+<para id="fs-id1164966266022">ii. a transitional organelle with some features, such as compartmentalized metabolic processes, but not other features, such as DNA</para>
+<para id="fs-id1164968709016"><emphasis>Explain</emphasis> how the following evidence supports the theory of endosymbiosis:</para>
+<para id="fs-id1164966349646">iii. bacteria live within your intestines, but you still have a separate identity</para>
+<para id="fs-id1164968927434">iv. no one has directly observed the fusion of two organisms in which a single organism results</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm183062032">
+<term>absorption spectrum</term> <meaning id="fs-idm55857392">range of wavelengths of electromagnetic radiation absorbed by a given substance</meaning>
+</definition>
+<definition id="fs-idp28134576">
+<term>antenna protein</term> <meaning id="fs-idm195817856">pigment molecule that directly absorbs light and transfers the energy absorbed to other pigment molecules</meaning>
+</definition>
+<definition id="fs-idm4469216">
+<term>carotenoid</term> <meaning id="fs-idp19362736">photosynthetic pigment that functions to dispose of excess energy</meaning>
+</definition>
+<definition id="fs-idm159628512">
+<term>chlorophyll <emphasis effect="italics">a</emphasis></term> <meaning id="fs-idp40061136">form of chlorophyll that absorbs violet-blue and red light and consequently has a bluish-green color; the only pigment molecule that performs the photochemistry by getting excited and losing an electron to the electron transport chain</meaning>
+</definition>
+<definition id="fs-idm154072096">
+<term>chlorophyll <emphasis effect="italics">b</emphasis></term> <meaning id="fs-idm98014768">accessory pigment that absorbs blue and red-orange light and consequently has a yellowish-green tint</meaning>
+</definition>
+<definition id="fs-idm129650752">
+<term>cytochrome complex</term> <meaning id="fs-idm149510448">group of reversibly oxidizable and reducible proteins that forms part of the electron transport chain between photosystem II and photosystem I</meaning>
+</definition>
+<definition id="fs-idm194226544">
+<term>electromagnetic spectrum</term> <meaning id="fs-idm70976864">range of all possible frequencies of radiation</meaning>
+</definition>
+<definition id="fs-idm30728160">
+<term>electron transport chain</term> <meaning id="fs-idm100373344">group of proteins between PSII and PSI that pass energized electrons and use the energy released by the electrons to move hydrogen ions against their concentration gradient into the thylakoid lumen</meaning>
+</definition>
+<definition id="fs-idp6906896">
+<term>light harvesting complex</term> <meaning id="fs-idm135590992">complex that passes energy from sunlight to the reaction center in each photosystem; it consists of multiple antenna proteins that contain a mixture of 300–400 chlorophyll <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis> molecules as well as other pigments like carotenoids</meaning>
+</definition>
+<definition id="fs-idm76092288">
+<term>P680</term> <meaning id="fs-idm91539168">reaction center of photosystem II</meaning>
+</definition>
+<definition id="fs-idm48261264">
+<term>P700</term> <meaning id="fs-idm2562848">reaction center of photosystem I</meaning>
+</definition>
+<definition id="fs-idm196081584">
+<term>photoact</term> <meaning id="fs-idm267692608">ejection of an electron from a reaction center using the energy of an absorbed photon</meaning>
+</definition>
+<definition id="fs-idm187340544">
+<term>photon</term> <meaning id="fs-idm96922928">distinct quantity or “packet” of light energy</meaning>
+</definition>
+<definition id="fs-idm531264">
+<term>photosystem</term> <meaning id="fs-idm99514832">group of proteins, chlorophyll, and other pigments that are used in the light-dependent reactions of photosynthesis to absorb light energy and convert it into chemical energy</meaning>
+</definition>
+<definition id="fs-idm106946144">
+<term>photosystem I</term> <meaning id="fs-idm52972544"> integral pigment and protein complex in thylakoid membranes that uses light energy to transport electrons from plastocyanin to NADP<sup>+</sup> (which becomes reduced to NADPH in the process)</meaning>
+</definition>
+<definition id="fs-idm153519904">
+<term>photosystem II</term> <meaning id="fs-idm42660992">integral protein and pigment complex in thylakoid membranes that transports electrons from water to the electron transport chain; oxygen is a product of PSII</meaning>
+</definition>
+<definition id="fs-idm147830256">
+<term>primary electron acceptor</term> <meaning id="fs-idm72920448">pigment or other organic molecule in the reaction center that accepts an energized electron from the reaction center</meaning>
+</definition>
+<definition id="fs-idm3318144">
+<term>reaction center</term> <meaning id="fs-idm185064640">complex of chlorophyll molecules and other organic molecules that is assembled around a special pair of chlorophyll molecules and a primary electron acceptor; capable of undergoing oxidation and reduction</meaning>
+</definition>
+<definition id="fs-idm69091392">
+<term>spectrophotometer</term> <meaning id="fs-idm183689808">instrument that can measure transmitted light and compute the absorption</meaning>
+</definition>
+<definition id="fs-idm74655728">
+<term>wavelength</term> <meaning id="fs-idm82867552">distance between consecutive points of equal position (two crests or two troughs) of a wave in a graphic representation; inversely proportional to the energy of the radiation</meaning>
+</definition>
+</glossary>
+</document>

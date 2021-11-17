@@ -1,0 +1,339 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Osmoregulation and Osmotic Balance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63000</md:content-id>
+  <md:title>Osmoregulation and Osmotic Balance</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define osmosis and explain its role within molecules</item>
+<item>Explain why osmoregulation and osmotic balance are important body functions</item>
+<item>Describe active transport mechanisms</item>
+<item>Explain osmolarity and the way in which it is measured</item>
+<item>Describe osmoregulators or osmoconformers and how these tools allow animals to adapt to different environments</item>
+</list></md:abstract>
+  <md:uuid>93ce99a5-1cad-4255-8be2-fd3af5507a0c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167063678989" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067088943">In this section, you will explore the following questions:</para>
+<list id="fs-id1167067010182">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch32-s01-lo01">Why are osmoregulation and osmotic balance important to body functions?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch32-s01-lo02">What is osmolarity and how is it measured?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch32-s01-lo03">What are osmoregulators or osmoconformers, and how do these tools allow animals to adapt to different environments?</item>
+</list>
+</section>
+<section id="fs-id1167066973440" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167063895796">Much of the information in this chapter is not within the scope for AP<sup>®</sup>. However, the chapter is filled with illustrative examples that are applicable to concepts we’ve explored previously, including chemistry, structure of the plasma cell membrane, and movement of molecules across membranes. With this in mind, it is helpful to have a general understanding how the human body, specifically the excretory system, maintains osmotic homeostasis despite the influence of external factors like temperature, diet, and varying environmental conditions. For example, if we drink eight to ten glasses of water per day, the human body excretes that water via urination, defecation, sweating, and, to a small extent, respiration.</para>
+<para id="fs-id1167063863069" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167067052751" summary="Table with two columns and five rows. First left cell reads: Essential Knowledge. First right cell reads: 2.B.1 Cell membranes are selectively permeable due to their structure. Second left cell reads: Science Practice. Second right cell reads: 1.1 The student can create representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Science Practice. Third right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Fourth left cell reads: Science Practice. Fourth right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Fifth left cell reads: Learning Objective. Fifth right cell reads: 2.11 The student is able to construct models that connect the movement of molecules across membranes with membrane structure and function." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.B</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and dynamic homeostasis require that cell create and maintain internal environments that are different form their external environment.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.B.1 </emphasis></span>
+<span class="ost-standards-description">Cell membranes are selectively permeable due to their structure.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
+<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch32-s01-aplo-2-11">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.11 </emphasis></span>
+<span class="ost-standards-description">The student is able to construct models that connect the movement of molecules across membranes with membrane structure and function.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.B.2 </emphasis></span>
+<span class="ost-standards-description">Growth and dynamic homeostasis are maintained by the constant movement of molecules across membranes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch32-s01-aplo-2-12">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.12 </emphasis></span>
+<span class="ost-standards-description">The student is able to use representations and models to analyze situations or solve problems qualitatively and quantitatively to investigate whether dynamic homeostasis is maintained by the active movement of molecules across membranes.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+<para id="fs-idm15739200">Osmosis is the diffusion of water across a membrane in response to <emphasis>osmotic pressure</emphasis> caused by an imbalance of molecules on either side of the membrane. <emphasis>Osmoregulation</emphasis> is the process of maintenance of salt and water balance (<emphasis>osmotic balance</emphasis>) across membranes within the body’s fluids, which are composed of water, plus electrolytes and non-electrolytes. An <emphasis>electrolyte</emphasis> is a solute that dissociates into ions when dissolved in water. A <emphasis>non-electrolyte</emphasis>, in contrast, doesn’t dissociate into ions during water dissolution. Both electrolytes and non-electrolytes contribute to the osmotic balance. The body’s fluids include blood plasma, the cytosol within cells, and interstitial fluid, the fluid that exists in the spaces between cells and tissues of the body. The membranes of the body (such as the pleural, serous, and cell membranes) are <emphasis>semi-permeable membranes</emphasis>. Semi-permeable membranes are permeable (or permissive) to certain types of solutes and water. Solutions on two sides of a semi-permeable membrane tend to equalize in solute concentration by movement of solutes and/or water across the membrane. As seen in <link target-id="fig-ch41_01_01" document=""/>, a cell placed in water tends to swell due to gain of water from the hypotonic or “low salt” environment. A cell placed in a solution with higher salt concentration, on the other hand, tends to make the membrane shrivel up due to loss of water into the hypertonic or “high salt” environment. Isotonic cells have an equal concentration of solutes inside and outside the cell; this equalizes the osmotic pressure on either side of the cell membrane which is a semi-permeable membrane.</para>
+<figure id="fig-ch41_01_01" class="ost-tag-lo-apbio-ch32-s01-lo02">
+<media id="fs-idp142053840" alt="The left part of this illustration shows shriveled red blood cells bathed in a hypertonic solution. The middle part shows healthy red blood cells bathed in an isotonic solution, and the right part shows bloated red blood cells bathed in a hypotonic solution. One of the bloated cells in the hypotonic solution bursts.">
+<image mime-type="image/jpg" src="../../media/Figure_41_01_01.jpg" width="380"/>
+</media>
+<caption>Cells placed in a hypertonic environment tend to shrink due to loss of water. In a hypotonic environment, cells tend to swell due to intake of water. The blood maintains an isotonic environment so that cells neither shrink nor swell. (credit: Mariana Ruiz Villareal)</caption></figure>
+<para id="fs-idp317901792">The body does not exist in isolation. There is a constant input of water and electrolytes into the system. While osmoregulation is achieved across membranes within the body, excess electrolytes and wastes are transported to the kidneys and excreted, helping to maintain osmotic balance.</para>
+<section id="fs-idp54127232">
+<title>Need for Osmoregulation</title>
+<para id="fs-idp6024352">Biological systems constantly interact and exchange water and nutrients with the environment by way of consumption of food and water and through excretion in the form of sweat, urine, and feces. Without a mechanism to regulate osmotic pressure, or when a disease damages this mechanism, there is a tendency to accumulate toxic waste and water, which can have dire consequences.</para>
+<para id="fs-idm11703344">Mammalian systems have evolved to regulate not only the overall osmotic pressure across membranes, but also specific concentrations of important electrolytes in the three major fluid compartments: blood plasma, extracellular fluid, and intracellular fluid. Since osmotic pressure is regulated by the movement of water across membranes, the volume of the fluid compartments can also change temporarily. Because blood plasma is one of the fluid components, osmotic pressures have a direct bearing on blood pressure.</para>
+</section>
+<section id="fs-idp160208656">
+<title>Transport of Electrolytes across Cell Membranes</title>
+<para id="fs-idm22780000">Electrolytes, such as sodium chloride, ionize in water, meaning that they dissociate into their component ions. In water, sodium chloride (NaCl), dissociates into the sodium ion (Na<sup>+</sup>) and the chloride ion (Cl<sup>–</sup>). The most important ions, whose concentrations are
+very closely regulated in body fluids, are the cations sodium (Na<sup>+</sup>), potassium (K<sup>+</sup>), calcium (Ca<sup>+2</sup>),
+magnesium (Mg<sup>+2</sup>), and the anions chloride (Cl<sup>–</sup>), carbonate (CO<sub>3</sub><sup>–2</sup>), bicarbonate (HCO<sub>3</sub><sup>–</sup>), and phosphate(PO<sub>3</sub><sup>–</sup>).  Electrolytes are lost from the body during urination and perspiration. For this
+reason, athletes are encouraged to replace electrolytes and fluids during periods of increased activity and perspiration.
+
+</para><para id="eip-152">Osmotic pressure is influenced by the concentration of solutes in a solution. It is directly proportional to
+the number of solute atoms or molecules and not dependent on the size of the solute molecules. Because  electrolytes dissociate into their component ions, they, in essence, add more solute particles into the solution and have a greater effect on osmotic pressure, per mass than compounds that do not dissociate in water, such as glucose.
+</para><para id="fs-idp192669184">Water can pass through membranes by passive diffusion. If electrolyte ions could passively diffuse across membranes, it would be impossible to maintain specific concentrations of ions in each fluid compartment therefore they require special mechanisms to cross the semi-permeable membranes in the body. This movement can be accomplished by facilitated diffusion and active transport. Facilitated diffusion requires protein-based channels for moving the solute. Active transport requires energy in the form of ATP conversion, carrier proteins, or pumps in order to move ions against the concentration gradient.</para>
+</section>
+<section id="fs-idp85228080">
+<title>Concept of Osmolality and Milliequivalent</title>
+<para id="fs-idp16230720">In order to calculate osmotic pressure, it is necessary to understand how solute concentrations are measured. The unit for measuring solutes is the <emphasis>mole</emphasis>. One mole is defined as the gram molecular weight of the solute. For example, the molecular weight of sodium chloride is 58.44. Thus, one mole of sodium chloride weighs 58.44 grams. The <emphasis>molarity</emphasis> of a solution is the number of moles of solute per liter of solution. The <emphasis>molality</emphasis> of a solution is the number of moles of solute per kilogram of solvent. If the solvent is water, one kilogram of water is equal to one liter of water. While molarity and molality are used to express the concentration of solutions, electrolyte concentrations are usually expressed in terms of milliequivalents per liter (mEq/L): the mEq/L is equal to the ion concentration (in millimoles) multiplied by the number of electrical charges on the ion. The unit of milliequivalent takes into consideration the ions present in the solution (since electrolytes form ions in aqueous solutions) and the charge on the ions.</para>
+<para id="fs-idp105917248">Thus, for ions that have a charge of one, one milliequivalent is equal to one millimole. For ions that have a charge of two (like calcium), one milliequivalent is equal to 0.5 millimoles. Another unit for the expression of electrolyte concentration is the milliosmole (mOsm), which is the number of milliequivalents of solute per kilogram of solvent. Body fluids are usually maintained within the range of 280 to 300 mOsm.</para>
+</section>
+<section id="fs-idm71869712">
+<title>Osmoregulators and Osmoconformers</title>
+<para id="fs-idp149727408">Persons lost at sea without any fresh water to drink are at risk of severe dehydration because the human body cannot adapt to drinking seawater, which is hypertonic in comparison to body fluids. Organisms such as goldfish that can tolerate only a relatively narrow range of salinity are referred to as stenohaline. About 90 percent of all bony fish are restricted to either freshwater or seawater. They are incapable of osmotic regulation in the opposite environment. It is possible, however, for a few fishes like salmon to spend part of their life in fresh water and part in sea water. Organisms like the salmon and molly that can tolerate a relatively wide range of salinity are referred to as euryhaline organisms. This is possible because some fish have evolved <emphasis>osmoregulatory</emphasis> mechanisms to survive in all kinds of aquatic environments. When they live in fresh water, their bodies tend to take up water because the environment is relatively hypotonic, as illustrated in <link target-id="fig-ch41_01_02" document=""/><emphasis effect="bold">a</emphasis>. In such hypotonic environments, these fish do not drink much water. Instead, they pass a lot of very dilute urine, and they achieve electrolyte balance by active transport of salts through the gills. When they move to a hypertonic marine environment, these fish start drinking sea water; they excrete the excess salts through their gills and their urine, as illustrated in <link target-id="fig-ch41_01_02" document=""/><emphasis effect="bold">b</emphasis>. Most marine invertebrates, on the other hand, may be isotonic with sea water (<emphasis>osmoconformers</emphasis>). Their body fluid concentrations conform to changes in seawater concentration. Cartilaginous fishes’ salt composition of the blood is similar to bony fishes; however, the blood of sharks contains the organic compounds urea and trimethylamine oxide (TMAO). This does not mean that their electrolyte composition is similar to that of sea water. They achieve isotonicity with the sea by storing large concentrations of urea. These animals that secrete urea are called ureotelic animals. TMAO stabilizes proteins in the presence of high urea levels, preventing the disruption of peptide bonds that would occur in other animals exposed to similar levels of urea. Sharks are cartilaginous fish with a rectal gland to secrete salt and assist in osmoregulation.</para>
+<figure id="fig-ch41_01_02" class="ost-tag-lo-apbio-ch32-s01-lo01"><media id="fs-idp175392880" alt="Illustration A shows a fish in a freshwater environment, where water is absorbed through the skin. To compensate, the fish drinks little water and excretes dilute urine. Sodium, potassium and chlorine ions are lost through the skin, and the fish actively transports these same ions into its gills to compensate for this loss. Illustration B shows a fish in a saltwater environment, where water is lost through the skin. To compensate, the fish drinks ample water and excretes concentrated urine. It absorbs sodium, potassium, and chlorine ions through its skin, and excretes them through its gills.">
+<image mime-type="image/jpg" src="../../media/Figure_41_01_02ab.jpg" width="550"/>
+</media>
+<caption>Fish are osmoregulators, but must use different mechanisms to survive in (a) freshwater or (b) saltwater environments. (credit: modification of work by Duane Raver, NOAA)</caption></figure>
+<note id="fs-idm10520544" class="career ost-tag-lo-apbio-ch32-s01-lo02 ost-feature"><title>Dialysis Technician</title>
+
+<para id="fs-idp65896848">Dialysis is a medical process of removing wastes and excess water from the blood by diffusion and ultrafiltration. When kidney function fails, dialysis must be done to artificially rid the body of wastes. This is a vital process to keep patients alive. In some cases, the patients undergo artificial dialysis until they are eligible for a kidney transplant. In others who are not candidates for kidney transplants, dialysis is a life-long necessity.</para>
+<para id="fs-idp85844528">Dialysis technicians typically work in hospitals and clinics. While some roles in this field include equipment development and maintenance, most dialysis technicians work in direct patient care. Their on-the-job duties, which typically occur under the direct supervision of a registered nurse, focus on providing dialysis treatments. This can include reviewing patient history and current condition, assessing and responding to patient needs before and during treatment, and monitoring the dialysis process. Treatment may include taking and reporting a patient’s vital signs and preparing solutions and equipment to ensure accurate and sterile procedures.</para>
+</note></section>
+<note id="fs-id1167063779200" class="ap-everyday ost-assessed-feature">
+<label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<para id="fs-id1167066865642">Patients undergoing dialysis use dialysis machines such as the one shown here. Their blood runs through a tube that is immersed in a solution, with the walls of the tube actually being semipermeable membranes. The solution is made so that urea, the main waste product produced by humans, is pulled out of the blood through diffusion. The semi-permeable tube wall allows urea through, but keeps the larger components of the blood, such as proteins and blood cells, within the tube. The “cleaned” blood is eventually returned to the body.</para>
+<figure id="fs-id1167066878765"><media id="fs-id1167066998118" alt="A photo shows a man’s arm connected to a dialysis machine. There are two blood-filled tubes conveying blood to and from his arm. The machine has a cylindrical filter, a mechanical circular pump, a bag of saline, and a display screen with various readings.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_41_01_dialysis.jpg" width="250"/>
+</media>
+<caption/>
+</figure>
+<exercise id="fs-id1167063519468" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067153374">
+<para id="fs-id1167067031757">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex001"/>
+</para>
+</problem>
+</exercise>
+</note>
+<note id="fs-id1167067044155" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167067066872" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch32-s01-aplo-2-11">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167063451724" class="unnumbered"><label/>
+<problem id="fs-id1167067074547"><para id="fs-id1167067033058">Why is excretion important in order to achieve osmotic balance?</para></problem></exercise>
+</note>
+<note id="fs-id1167063878522" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167063606275">The question is an application of AP<sup>®</sup> Learning Objective 2.11 and Science Practices 1.1, 7.1, and 7.2 because students are describing how cells maintain osmotic balance based on a model of how molecules and ions move across plasma cell membranes.</para>
+</note>
+</note>
+<section id="fs-idm13993872" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp68024336">Solute concentrations across a semi-permeable membranes influence the movement of water and solutes across the membrane. It is the number of solute molecules and not the molecular size that is important in osmosis. Osmoregulation and osmotic balance are important bodily functions, resulting in water and salt balance. Not all solutes can pass through a semi-permeable membrane. Osmosis is the movement of water across the membrane. Osmosis occurs to equalize the number of solute molecules across a semi-permeable membrane by the movement of water to the side of higher solute concentration. Facilitated diffusion utilizes protein channels to move solute molecules from areas of higher to lower concentration while active transport mechanisms are required to move solutes against concentration gradients. Osmolarity is measured in units of milliequivalents or milliosmoles, both of which take into consideration the number of solute particles and the charge on them. Fish that live in fresh water or saltwater adapt by being osmoregulators or osmoconformers.</para>
+    </section>
+<!--<section id="fs-idp170228272" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm76593808">
+<problem id="fs-idp244239504"><para id="fs-idp28925904">When a dehydrated human patient needs to be given fluids intravenously, he or she is given:</para>
+<list id="fs-idp57701328" list-type="enumerated" number-style="lower-alpha">
+<item>water, which is hypotonic with respect to body fluids</item>
+<item>saline at a concentration that is isotonic with respect to body fluids</item>
+<item>glucose because it is a non-electrolyte</item>
+<item>blood</item>
+</list>
+</problem>
+<solution id="fs-idp175448112">
+<label/>
+<para id="fs-idp71114464">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm2578240">
+<problem id="fs-idp141888016"><para id="fs-idp13725200">The sodium ion is at the highest concentration in:</para>
+<list id="fs-idm18534240" list-type="enumerated" number-style="lower-alpha">
+<item>intracellular fluid</item>
+<item>extracellular fluid</item>
+<item>blood plasma</item>
+<item>none of the above</item>
+</list>
+</problem>
+<solution id="fs-idm51466192">
+<label/>
+<para id="fs-idm52405152">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp206826416">
+<problem id="fs-idp150849552"><para id="fs-idp84793600">Cells in a hypertonic solution tend to:</para>
+<list id="fs-idp73104720" list-type="enumerated" number-style="lower-alpha">
+<item>shrink due to water loss</item>
+<item>swell due to water gain</item>
+<item>stay the same size due to water moving into and out of the cell at the same rate</item>
+<item>none of the above</item>
+</list>
+</problem>
+<solution id="fs-idp148922160">
+<label/>
+<para id="fs-idp72295120">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm17911008" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm46483664">
+<problem id="fs-idm22902160"><para id="fs-idp97189760">Why is excretion important in order to achieve osmotic balance?</para></problem>
+<solution id="fs-idm13893552"><label/>
+<para id="fs-idp249643504">Excretion allows an organism to rid itself of waste molecules that could be toxic if allowed to accumulate. It also allows the organism to keep the amount of water and dissolved solutes in balance.</para></solution>
+</exercise>
+<exercise id="fs-idp15980864">
+<problem id="fs-idp84171760"><para id="fs-idp79936064">Why do electrolyte ions move across membranes by active transport?</para></problem>
+<solution id="fs-idp72610592"><label/>
+<para id="fs-idp115300704">Electrolyte ions often require special mechanisms to cross the semi-permeable membranes in the body. Active transport is the movement against a concentration gradient.</para></solution>
+</exercise>
+</section>-->
+<section id="fs-id1167067111184" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167066770508" class="os-exercise">
+<problem id="fs-id1167066956399">
+<para id="fs-id1167066973601">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex002"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067039916" class="os-exercise">
+<problem id="fs-id1167067052918">
+<para id="fs-id1167063779555">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex003"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067277551" class="os-exercise">
+<problem id="fs-id1167066968076">
+<para id="fs-id1167063496791">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex004"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067055958" class="os-exercise">
+<problem id="fs-id1167066869358">
+<para id="fs-id1167067240320">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063572279" class="os-exercise">
+<problem id="fs-id1167067300164">
+<para id="fs-id1167063491511">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066832565" class="os-exercise">
+<problem id="fs-id1167063779397">
+<para id="fs-id1167067049209">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex007"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167061211420" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167063863083" class="os-exercise">
+<problem id="fs-id1167063473940">
+<para id="fs-id1167063525917">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066999697" class="os-exercise">
+<problem id="fs-id1167066850911">
+<para id="fs-id1167067041468">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex009"/>
+</para>
+</problem>
+</exercise>
+<!--<exercise id="fs-id1167061359827" class="os-exercise">
+<problem id="fs-id1167066829433">
+<para id="fs-id1167063556845">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex010"/>
+</para>
+</problem>
+</exercise>-->
+<exercise id="eip-id1169282740398" class="os-exercise">
+<problem id="eip-id1169282680260">
+<para id="eip-id1169282680262">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ot007"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167067251634" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167067104867" class="os-exercise">
+<problem id="fs-id1167066767684">
+<para id="fs-id1167066851739">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex011"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063878278" class="os-exercise">
+<problem id="fs-id1167067132299">
+<para id="fs-id1167067011008">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex012"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066856594" class="os-exercise">
+<problem id="fs-id1167063582585">
+<para id="fs-id1167067189151">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex013"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067268625" class="os-exercise">
+<problem id="fs-id1167063769645">
+<para id="fs-id1167067040655">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex014"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169282686601" class="os-exercise">
+<problem id="eip-id1169282686605">
+<para id="eip-id1169282686607">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ot011"/>
+</para>
+</problem>
+</exercise></section> </content>
+<glossary>
+<definition id="fs-idp147223936"><term>electrolyte</term> <meaning id="fs-idp138010368">solute that breaks down into ions when dissolved in water</meaning></definition>
+<definition id="fs-idp91340976"><term>molality</term> <meaning id="fs-idp216811200">number of moles of solute per kilogram of solvent</meaning></definition>
+<definition id="fs-idp112798688"><term>molarity</term> <meaning id="fs-idm25206912">number of moles of solute per liter of solution</meaning></definition>
+<definition id="fs-idp159263632"><term>mole</term> <meaning id="fs-idm62718160">gram equivalent of the molecular weight of a substance</meaning></definition>
+<definition id="fs-idp106123392"><term>non-electrolyte</term> <meaning id="fs-idp69652944">solute that does not break down into ions when dissolved in water</meaning></definition>
+<definition id="fs-idp26120656"><term>osmoconformer</term> <meaning id="fs-idp34223120">organism that changes its tonicity based on its environment</meaning></definition>
+<definition id="fs-idm72243136"><term>osmoregulation</term> <meaning id="fs-idm60797568">mechanism by which water and solute concentrations are maintained at desired levels</meaning></definition>
+<definition id="fs-idm9417088"><term>osmoregulator</term> <meaning id="fs-idp100178272">organism that maintains its tonicity irrespective of its environment</meaning></definition>
+<definition id="fs-idp71941584"><term>osmotic balance</term> <meaning id="fs-idp28919952">balance of the amount of water and salt input and output to and from a biological system without disturbing the desired osmotic pressure and solute concentration in every compartment</meaning></definition>
+<definition id="fs-idm56512304"><term>osmotic pressure</term> <meaning id="fs-idp78255296">pressure exerted on a membrane to equalize solute concentration on either side</meaning></definition>
+<definition id="fs-idp204224640"><term>semi-permeable membrane</term> <meaning id="fs-idp56618112">membrane that allows only certain solutes to pass through</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,224 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Community Ecology</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45555</md:content-id>
+  <md:title>Community Ecology</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the predator-prey cycle</item>
+<item>Give examples of defenses against predation and herbivory</item>
+<item>Describe the competitive exclusion principle</item>
+<item>Give examples of symbiotic relationships between species</item>
+<item>Describe community structure and succession</item>
+</list></md:abstract>
+  <md:uuid>a4cb5c69-ee7a-43b5-bded-5d36a225eb74</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp122741136">In general, populations of one species never live in isolation from populations of other species. The interacting populations occupying a given habitat form an ecological community. The number of species occupying the same habitat and their relative abundance is known as the diversity of the community. Areas with low species diversity, such as the glaciers of Antarctica, still contain a wide variety of living organisms, whereas the diversity of tropical rainforests is so great that it cannot be accurately assessed. Scientists study ecology at the community level to understand how species interact with each other and compete for the same resources.</para>
+<section id="fs-idp249266432">
+<title>Predation and Herbivory</title>
+<para id="fs-idp68030768">Perhaps the classical example of species interaction is the predator-prey relationship. The narrowest definition of the predator-prey interaction describes individuals of one population that kill and then consume the individuals of another population. Population sizes of predators and prey in a community are not constant over time, and they may vary in cycles that appear to be related. The most often cited example of predator-prey population dynamics is seen in the cycling of the lynx (predator) and the snowshoe hare (prey), using 100 years of trapping data from North America (<link target-id="fig-ch19_04_01" document=""/>). This cycling of predator and prey population sizes has a period of approximately ten years, with the predator population lagging one to two years behind the prey population. An apparent explanation for this pattern is that as the hare numbers increase, there is more food available for the lynx, allowing the lynx population to increase as well. When the lynx population grows to a threshold level, however, they kill so many hares that hare numbers begin to decline, followed by a decline in the lynx population because of scarcity of food. When the lynx population is low, the hare population size begins to increase due, in part, to low predation pressure, starting the cycle anew.</para>
+<figure id="fig-ch19_04_01" class=" "><media id="fs-idm21529904" alt=" Graph plots number of animals in thousands versus time in years. The number of hares fluctuates between 10,000 at the low points and 75,000 to 150,000 at the high points. There are typically fewer lynxes than hares, but the trend in number of lynxes follows that of number of hares.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_01.jpg" width="420"/>
+</media>
+<caption>The cycling of snowshoe hare and lynx populations in Northern Ontario is an example of predator-prey dynamics.</caption></figure><section id="fs-idp199876512">
+<title>Defense Mechanisms against Predation and Herbivory</title>
+<para id="fs-idm40275136">Predation and predator avoidance are strong selective agents. Any heritable character that allows an individual of a prey population to better evade its predators will be represented in greater numbers in later generations. Likewise, traits that allow a predator to more efficiently locate and capture its prey will lead to a greater number of offspring and an increase in the commonness of the trait within the population. Such ecological relationships between specific populations lead to adaptations that are driven by reciprocal evolutionary responses in those populations. Species have evolved numerous mechanisms to escape predation and herbivory (the consumption of plants for food). Defenses may be mechanical, chemical, physical, or behavioral.</para>
+<para id="fs-idp106924976">Mechanical defenses, such as the presence of armor in animals or thorns in plants, discourage predation and herbivory by discouraging physical contact (<link target-id="fig-ch19_04_02" document=""/><emphasis effect="bold">a</emphasis>). Many animals produce or obtain chemical defenses from plants and store them to prevent predation. Many plant species produce secondary plant compounds that serve no function for the plant except that they are toxic to animals and discourage consumption. For example, the foxglove produces several compounds, including digitalis, that are extremely toxic when eaten (<link target-id="fig-ch19_04_02" document=""/><emphasis effect="bold">b</emphasis>). (Biomedical scientists have purposed the chemical produced by foxglove as a heart medication, which has saved lives for many decades.)</para>
+<figure id="fig-ch19_04_02" class=" "><media id="fs-idp97212400" alt=" Photo (a) shows the long, sharp thorns of a honey locust tree. Photo (b) shows the pink, bell-shaped flowers of a foxglove.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_02ab.jpg" width="475"/>
+</media>
+<caption>The (a) honey locust tree uses thorns, a mechanical defense, against herbivores, while the (b) foxglove uses a chemical defense: toxins produces by the plant can cause nausea, vomiting, hallucinations, convulsions, or death when consumed. (credit a: modification of work by Huw Williams; credit b: modification of work by Philip Jägenstedt)</caption></figure><para id="fs-idp50674800">Many species use physical appearance, such as body shape and coloration, to avoid being detected by predators. The tropical walking stick is an insect with the coloration and body shape of a twig, which makes it very hard to see when it is stationary against a background of real twigs (<link target-id="fig-ch19_04_03" document=""/><emphasis effect="bold">a</emphasis>). In another example, the chameleon can, within limitations, change its color to match its surroundings (<link target-id="fig-ch19_04_03" document=""/><emphasis effect="bold">b</emphasis>). There are many behavioral adaptations to avoid or confuse predators. Playing dead and traveling in large groups, like schools of fish or flocks of birds, are both behaviors that reduce the risk of being eaten.</para><figure id="fig-ch19_04_03" class=" "><media id="fs-idm6969056" alt=" Photo (a) shows a green walking stick insect that resembles the stem on which it sits. Photo (b) shows a green chameleon that resembles a leaf.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_03ab.jpg" width="520"/>
+</media>
+<caption>(a) The tropical walking stick and (b) the chameleon use their body shape and/or coloration to prevent detection by predators. (credit a: modification of work by Linda Tanner; credit b: modification of work by Frank Vassen)</caption></figure><para id="fs-idp90601376">Some species use coloration as a way of warning predators that they are distasteful or poisonous. For example, the monarch butterfly caterpillar sequesters poisons from its food (plants and milkweeds) to make itself poisonous or distasteful to potential predators. The caterpillar is bright yellow and black to advertise its toxicity. The caterpillar is also able to pass the sequestered toxins on to the adult monarch, which is also dramatically colored black and red as a warning to potential predators. Fire-bellied toads produce toxins that make them distasteful to their potential predators. They have bright red or orange coloration on their bellies, which they display to a potential predator to advertise their poisonous nature and discourage an attack. These are only two examples of warning coloration, which is a relatively common adaptation. Warning coloration only works if a predator uses eyesight to locate prey and can learn—a naïve predator must experience the negative consequences of eating one before it will avoid other similarly colored individuals (<link target-id="fig-ch19_04_04" document=""/>).</para><figure id="fig-ch19_04_04"><media id="fs-idp148387344" alt=" Photo shows a side view of a toad in an aquarium floating in the water: the belly is bright orange and black and its back and head are green and black.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_04.jpg" width="300"/>
+</media>
+<caption>The fire-bellied toad has bright coloration on its belly that serves to warn potential predators that it is toxic. (credit: modification of work by Roberto Verzo)</caption></figure><para id="fs-idm50044160">While some predators learn to avoid eating certain potential prey because of their coloration, other species have evolved mechanisms to mimic this coloration to avoid being eaten, even though they themselves may not be unpleasant to eat or contain toxic chemicals. In some cases of <term>mimicry</term>, a harmless species imitates the warning coloration of a harmful species. Assuming they share the same predators, this coloration then protects the harmless ones. Many insect species mimic the coloration of wasps, which are stinging, venomous insects, thereby discouraging predation (<link target-id="fig-ch19_04_05" document=""/>).</para><figure id="fig-ch19_04_05" class=" "><media id="fs-idm4719776" alt=" Photos A and B show what appears to be virtually identical looking wasps, but B is actually a harmless hoverfly.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_05ab.jpg" width="495"/>
+</media>
+<caption>One form of mimicry is when a harmless species mimics the coloration of a harmful species, as is seen with the (a) wasp (<emphasis effect="italics">Polistes </emphasis>sp.) and the (b) hoverfly (<emphasis effect="italics">Syrphus </emphasis>sp.). (credit: modification of work by Tom Ings)</caption></figure><para id="fs-idp115673248">In other cases of mimicry, multiple species share the same warning coloration, but all of them actually have defenses. The commonness of the signal improves the compliance of all the potential predators. <link target-id="fig-ch19_04_06" document=""/> shows a variety of foul-tasting butterflies with similar coloration.</para>
+<figure id="fig-ch19_04_06" class=" "><media id="fs-idp214045664" alt=" Photos show four pairs of butterflies that are virtually identical to one another in color and banding pattern.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_06.jpg" width="300"/>
+</media>
+<caption>Several unpleasant-tasting <emphasis effect="italics">Heliconius</emphasis> butterfly species share a similar color pattern with better-tasting varieties, an example of mimicry. (credit: Joron M, Papa R, Beltrán M, Chamberlain N, Mavárez J, et al.)</caption></figure><note id="fs-idp108401200" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idp122562832">Go to this <link window="new" url="http://openstax.org/l/find_the_mimic2">website</link> to view stunning examples of mimicry.</para>
+</note></section>
+</section>
+<section id="fs-idp36986992">
+<title>Competitive Exclusion Principle</title>
+<para id="fs-idp93792624">Resources are often limited within a habitat and multiple species may compete to obtain them. Ecologists have come to understand that all species have an ecological niche. A niche is the unique set of resources used by a species, which includes its interactions with other species. The <term>competitive exclusion principle</term> states that two species cannot occupy the same niche in a habitat: in other words, different species cannot coexist in a community if they are competing for all the same resources. This principle works because if there is an overlap in resource use and therefore competition between two species, then traits that lessen reliance on the shared resource will be selected for leading to evolution that reduces the overlap. If either species is unable to evolve to reduce competition, then the species that most efficiently exploits the resource will drive the other species to extinction. An experimental example of this principle is shown in <link target-id="fig-ch19_04_07" document=""/> with two protozoan species: <emphasis effect="italics">Paramecium aurelia</emphasis> and <emphasis effect="italics">Paramecium caudatum</emphasis>. When grown individually in the laboratory, they both thrive. But when they are placed together in the same test tube (habitat), <emphasis effect="italics">P. aurelia</emphasis> outcompetes <emphasis effect="italics">P. caudatum </emphasis>for food, leading to the latter’s eventual extinction.</para>
+<figure id="fig-ch19_04_07" class=" "><media id="fs-idp239729744" alt=" The three graphs all plot number of cells versus time in days. In Graph (a), P. aurelia is grown alone. In graph (b), P. caudatum is grown alone. In graph (c), the two species are grown together. When grown together, the two species both exhibit logistic growth and grow to a relatively high cell density. When the two species are grown together, P. aurelia shows logistic growth to nearly the same cell density as it exhibited when grown alone, but P. caudatum hardly grows at all, and eventually its population drops to zero.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_07.jpg" width="550"/>
+</media>
+<caption><emphasis effect="italics">Paramecium aurelia</emphasis> and <emphasis effect="italics">Paramecium caudatum</emphasis> grow well individually, but when they compete for the same resources, the <emphasis effect="italics">P. aurelia</emphasis> outcompetes the <emphasis effect="italics">P. caudatum</emphasis>.</caption></figure></section>
+<section id="fs-idm16545088">
+<title> Symbiosis</title>
+<para id="fs-idp65594960">Symbiotic relationships are close, long-term interactions between individuals of different species. Symbioses may be commensal, in which one species benefits while the other is neither harmed nor benefited; mutualistic, in which both species benefit; or parasitic, in which the interaction harms one species and benefits the other.</para>
+<section id="fs-idp169353200">
+<title>Commensalism</title>
+<para id="fs-idm19785952">A commensal relationship occurs when one species benefits from a close prolonged interaction, while the other neither benefits nor is harmed. Birds nesting in trees provide an example of a commensal relationship (<link target-id="fig-ch19_04_08" document=""/>). The tree is not harmed by the presence of the nest among its branches. The nests are light and produce little strain on the structural integrity of the branch, and most of the leaves, which the tree uses to get energy by photosynthesis, are above the nest so they are unaffected. The bird, on the other hand, benefits greatly. If the bird had to nest in the open, its eggs and young would be vulnerable to predators. Many potential commensal relationships are difficult to identify because it is difficult to prove that one partner does not derive some benefit from the presence of the other.</para>
+<figure id="fig-ch19_04_08" class=" "><media id="fs-idp4412656" alt=" Photo shows a yellow bird building a nest in a tree.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_08.jpg" width="280"/>
+</media>
+<caption>The southern masked-weaver is starting to make a nest in a tree in Zambezi Valley, Zambia. This is an example of a commensal relationship, in which one species (the bird) benefits, while the other (the tree) neither benefits nor is harmed. (credit: “Hanay”/Wikimedia Commons)</caption></figure></section>
+<section id="fs-idp57159168">
+<title>Mutualism</title>
+<para id="fs-idp105746304">A second type of symbiotic relationship is called <term>mutualism</term>, in which two species benefit from their interaction. For example, termites have a mutualistic relationship with protists that live in the insect’s gut (<link target-id="fig-ch19_04_09" document=""/><emphasis effect="bold">a</emphasis>). The termite benefits from the ability of the protists to digest cellulose. However, the protists are able to digest cellulose only because of the presence of symbiotic bacteria within their cells that produce the cellulase enzyme. The termite itself cannot do this: without the protozoa, it would not be able to obtain energy from its food (cellulose from the wood it chews and eats). The protozoa benefit by having a protective environment and a constant supply of food from the wood chewing actions of the termite. In turn, the protists benefit from the enzymes provided by their bacterial endosymbionts, while the bacteria benefit from a doubly protective environment and a constant source of nutrients from two hosts. Lichen are a mutualistic relationship between a fungus and photosynthetic algae or cyanobacteria (<link target-id="fig-ch19_04_09" document=""/><emphasis effect="bold">b</emphasis>). The glucose produced by the algae provides nourishment for both organisms, whereas the physical structure of the lichen protects the algae from the elements and makes certain nutrients in the atmosphere more available to the algae. The algae of lichens can live independently given the right environment, but many of the fungal partners are unable to live on their own.</para><figure id="fig-ch19_04_09" class=" "><media id="fs-idp208991024" alt=" Photo (a) shows yellow termites, and photo (b) shows a tree covered with lichen.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_09ab.jpg" width="550"/>
+</media>
+<caption>(a) Termites form a mutualistic relationship with symbiotic protozoa in their guts, which allow both organisms to obtain energy from the cellulose the termite consumes. (b) Lichen is a fungus that has symbiotic photosynthetic algae living in close association. (credit a: modification of work by Scott Bauer, USDA; credit b: modification of work by Cory Zanker)</caption></figure></section>
+<section id="fs-idp90926480">
+<title>Parasitism</title>
+<para id="fs-idp118577872">A <term>parasite</term> is an organism that feeds off another without immediately killing the organism it is feeding on. In this relationship, the parasite benefits, but the organism being fed upon, the <term>host</term>, is harmed. The host is usually weakened by the parasite as it siphons resources the host would normally use to maintain itself. Parasites may kill their hosts, but there is usually selection to slow down this process to allow the parasite time to complete its reproductive cycle before it or its offspring are able to spread to another host.</para>
+<para id="fs-idp149163552">The reproductive cycles of parasites are often very complex, sometimes requiring more than one host species. A tapeworm causes disease in humans when contaminated, undercooked meat such as pork, fish, or beef is consumed (<link target-id="fig-ch19_04_10" document=""/>). The tapeworm can live inside the intestine of the host for several years, benefiting from the host’s food, and it may grow to be over 50 feet long by adding segments. The parasite moves from one host species to a second host species in order to complete its life cycle. <emphasis effect="italics">Plasmodium falciparum </emphasis>is another parasite: the protists that cause malaria, a significant disease in many parts of the world. Living inside human liver and red blood cells, the organism reproduces asexually in the human host and then sexually in the gut of blood-feeding mosquitoes to complete its life cycle. Thus malaria is spread from human to mosquito and back to human, one of many arthropod-borne infectious diseases of humans.</para>
+<figure id="fig-ch19_04_10" class=" "><media id="fs-idp70740592" alt=" The life cycle of a tapeworm begins when eggs or tapeworm segments in the feces are ingested by pigs or humans. The embryos hatch, penetrate the intestinal wall, and circulate to the musculature in both pigs and humans. This figure shows how humans may acquire a tapeworm infection by ingesting raw or undercooked meat. Infection may results in cysts in the musculature, or in tapeworms in the intestine. Tapeworms attach themselves to the intestine via a hook-like structure called the scolex. Tapeworm segments and eggs are excreted in the feces, completing the cycle.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_10f.jpg" width="520"/>
+</media>
+<caption>This diagram shows the life cycle of the tapeworm, a human worm parasite. (credit: modification of work by CDC)</caption></figure><note id="fs-idp37834944" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idp68882080">To learn more about “Symbiosis in the Sea,” watch this <link window="new" url="http://openstax.org/l/symbiosis">webisode</link> of Jonathan Bird’s Blue World.</para></note></section>
+</section>
+<section id="fs-idp31864288">
+<title>Characteristics of Communities</title>
+<para id="fs-idp55931760">Communities are complex systems that can be characterized by their structure (the number and size of populations and their interactions) and dynamics (how the members and their interactions change over time). Understanding community structure and dynamics allows us to minimize impacts on ecosystems and manage ecological communities we benefit from.</para>
+<section id="fs-idp20937648">
+<title>Biodiversity</title>
+<para id="fs-idp41382256">Ecologists have extensively studied one of the fundamental characteristics of communities: biodiversity. One measure of biodiversity used by ecologists is the number of different species in a particular area and their relative abundance. The area in question could be a habitat, a biome, or the entire biosphere. <term>Species richness</term> is the term used to describe the number of species living in a habitat or other unit. Species richness varies across the globe (<link target-id="fig-ch19_04_11" document=""/>). Ecologists have struggled to understand the determinants of biodiversity. Species richness is related to latitude: the greatest species richness occurs near the equator and the lowest richness occurs near the poles. Other factors influence species richness as well. <term>Island biogeography</term> attempts to explain the great species richness found in isolated islands, and has found relationships between species richness, island size, and distance from the mainland.</para>
+<para id="fs-idp147523392"><term>Relative species abundance</term> is the number individuals in a species relative to the total number of individuals in all species within a system. Foundation species, described below, often have the highest relative abundance of species.</para>
+<figure id="fig-ch19_04_11" class=" "><media id="fs-idp183346656" alt=" Map shows the special distribution of mammal species richness in North and South America. The highest number of mammal species, 179-228 per square kilometer, occurs in the Amazon region of South America. Species richness is generally highest in tropical latitudes, and then decreases to the north and south, and is at zero in the Arctic regions.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_11.jpg" width="350"/>
+</media>
+<caption>The greatest species richness for mammals in North America is associated in the equatorial latitudes. (credit: modification of work by NASA, CIESIN, Columbia University)</caption></figure></section>
+<section id="fs-idp36945328">
+<title>Foundation Species</title>
+<para id="fs-idp151345760"><term>Foundation species</term> are considered the “base” or “bedrock” of a community, having the greatest influence on its overall structure. They are often primary producers, and they are typically an abundant organism. For example, kelp, a species of brown algae, is a foundation species that forms the basis of the kelp forests off the coast of California.</para>
+<para id="fs-idp221019520">Foundation species may physically modify the environment to produce and maintain habitats that benefit the other organisms that use them. Examples include the kelp described above or tree species found in a forest. The photosynthetic corals of the coral reef also provide structure by physically modifying the environment (<link target-id="fig-ch19_04_12" document=""/>). The exoskeletons of living and dead coral make up most of the reef structure, which protects many other species from waves and ocean currents.</para>
+<figure id="fig-ch19_04_12" class=" "><media id="fs-idp86189728" alt=" Photo shows pink brain-like coral and long, finger-like coral growing on a reef. Fish swim among the coral.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_12.jpg" width="320"/>
+</media>
+<caption>Coral is the foundation species of coral reef ecosystems. (credit: Jim E. Maragos, USFWS)</caption></figure></section>
+<section id="fs-idp34461216">
+<title>Keystone Species</title>
+<para id="fs-idp35574272">A <term>keystone species</term> is one whose presence has inordinate influence in maintaining the prevalence of various species in an ecosystem, the ecological community’s structure, and sometimes its biodiversity. <emphasis effect="italics">Pisaster ochraceus</emphasis>, the intertidal sea star, is a keystone species in the northwestern portion of the United States (<link target-id="fig-ch19_04_13" document=""/>). Studies have shown that when this organism is removed from communities, mussel populations (their natural prey) increase, which completely alters the species composition and reduces biodiversity. Another keystone species is the banded tetra, a fish in tropical streams, which supplies nearly all of the phosphorus, a necessary inorganic nutrient, to the rest of the community. The banded tetra feeds largely on insects from the terrestrial ecosystem and then excretes phosphorus into the aquatic ecosystem. The relationships between populations in the community, and possibly the biodiversity, would change dramatically if these fish were to become extinct.</para>
+<figure id="fig-ch19_04_13" class=" "><media id="fs-idp147685328" alt="Photo shows a reddish-brown sea star.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_13.jpg" width="320"/>
+</media>
+<caption>The <emphasis effect="italics">Pisaster ochraceus</emphasis> sea star is a keystone species. (credit: Jerry Kirkhart)</caption></figure><note id="fs-idp64663760" class="everyday non-majors">
+<label/>
+<title>Biology in Action</title>
+<para id="fs-idp115580576">
+<title>Invasive Species</title>
+Invasive species are non-native organisms that, when introduced to an area out of its native range, alter the community they invade. In the United States, invasive species like the purple loosestrife (<emphasis effect="italics">Lythrum salicaria</emphasis>) and the zebra mussel (<emphasis effect="italics">Dreissena polymorpha</emphasis>) have altered aquatic ecosystems, and some forests are threatened by the spread of common buckthorn (<emphasis effect="italics">Rhamnus cathartica</emphasis>) and garlic mustard (<emphasis effect="italics">Alliaria petiolata</emphasis>). Some well-known invasive animals include the emerald ash borer (<emphasis effect="italics">Agrilus planipennis</emphasis>) and the European starling (<emphasis effect="italics">Sturnus vulgaris</emphasis>). Whether enjoying a forest hike, taking a summer boat trip, or simply walking down an urban street, you have likely encountered an invasive species.</para>
+<para id="fs-idp131965280">One of the many recent proliferations of an invasive species concerns the Asian carp in the United States. Asian carp were introduced to the United States in the 1970s by fisheries (commercial catfish ponds) and by sewage treatment facilities that used the fish’s excellent filter feeding abilities to clean their ponds of excess plankton. Some of the fish escaped, and by the 1980s they had colonized many waterways of the Mississippi River basin, including the Illinois and Missouri Rivers.</para>
+<para id="fs-idp153153760">Voracious feeders and rapid reproducers, Asian carp may outcompete native species for food and could lead to their extinction. One species, the grass carp, feeds on phytoplankton and aquatic plants. It competes with native species for these resources and alters nursery habitats for other fish by removing aquatic plants. Another species, the silver carp, competes with native fish that feed on zooplankton. In some parts of the Illinois River, Asian carp constitute 95 percent of the community's biomass. Although edible, the fish is bony and not desired in the United States. Moreover, their presence now threatens the native fish and fisheries of the Great Lakes, which are important to local economies and recreational anglers. Asian carp have even injured humans. The fish, frightened by the sound of approaching motorboats, thrust themselves into the air, often landing in the boat or directly hitting boaters.</para>
+<para id="fs-idp81690752">The Great Lakes and their prized salmon and lake trout fisheries are being threatened by Asian carp. The carp are not yet present in the Great Lakes, and attempts are being made to prevent its access to the lakes through the Chicago Ship and Sanitary Canal, which is the only connection between the Mississippi River and Great Lakes basins. To prevent the Asian carp from leaving the canal, a series of electric barriers have been used to discourage their migration; however, the threat is significant enough that several states and Canada have sued to have the Chicago channel permanently cut off from Lake Michigan. Local and national politicians have weighed in on how to solve the problem. In general, governments have been ineffective in preventing or slowing the introduction of invasive species.</para>
+<para id="fs-idp75734240">The issues associated with Asian carp show how population and community ecology, fisheries management, and politics intersect on issues of vital importance to the human food supply and economy. Socio-political issues like the Asian carp make extensive use of the sciences of population ecology, the study of members of a particular species occupying a habitat; and community ecology, the study of the interaction of all species within a habitat.</para>
+</note>
+</section>
+</section>
+<section id="fs-idp127275840">
+<title>Community Dynamics</title>
+<para id="fs-idp200464432">Community dynamics are the changes in community structure and composition over time, often following <term>environmental disturbances</term> such as volcanoes, earthquakes, storms, fires, and climate change. Communities with a relatively constant number of species are said to be at equilibrium. The equilibrium is dynamic with species identities and relationships changing over time, but maintaining relatively constant numbers. Following a disturbance, the community may or may not return to the equilibrium state.</para>
+<para id="fs-idm1708608">Succession describes the sequential appearance and disappearance of species in a community over time after a severe disturbance. In <term>primary succession</term>, newly exposed or newly formed rock is colonized by living organisms; in <term>secondary succession</term>, a part of an ecosystem is disturbed and remnants of the previous community remain. In both cases, there is a sequential change in species until a more or less permanent community develops.</para>
+<section id="fs-idm66797824">
+<title>Primary Succession and Pioneer Species</title>
+<para id="fs-idp151624976">Primary succession occurs when new land is formed, for example, following the eruption of volcanoes, such as those on the Big Island of Hawaii. As lava flows into the ocean, new land is continually being formed. On the Big Island, approximately 32 acres of land is added to it its size each year. Weathering and other natural forces break down the rock enough for the establishment of hearty species such as lichens and some plants, known as <term>pioneer species</term> (<link target-id="fig-ch19_04_14" document=""/>). These species help to further break down the mineral-rich lava into soil where other, less hardy but more competitive species, such as grasses, shrubs, and trees, will grow and eventually replace the pioneer species. Over time the area will reach an equilibrium state, with a set of organisms quite different from the pioneer species.</para>
+<figure id="fig-ch19_04_14" class=" "><media id="fs-idp73931280" alt="Photo shows a succulent plant growing in bare earth.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_14.jpg" width="320"/>
+</media>
+<caption>During primary succession in lava on Maui, Hawaii, succulent plants are the pioneer species. (credit: Forest and Kim Starr)</caption></figure></section>
+<section id="fs-idp102197424">
+<title>Secondary succession</title>
+<para id="fs-idp319737376">A classic example of secondary succession occurs in oak and hickory forests cleared by wildfire (<link target-id="fig-ch19_04_15" document=""/>). Wildfires will burn most vegetation, and unless the animals can flee the area, they are killed. Their nutrients, however, are returned to the ground in the form of ash. Thus, although the community has been dramatically altered, there is a soil ecosystem present that provides a foundation for rapid recolonization.</para>
+<para id="fs-idm21416960">Before the fire, the vegetation was dominated by tall trees with access to the major plant energy resource: sunlight. Their height gave them access to sunlight while also shading the ground and other low-lying species. After the fire, though, these trees are no longer dominant. Thus, the first plants to grow back are usually annual plants followed within a few years by quickly growing and spreading grasses and other pioneer species. Due, at least in part, to changes in the environment brought on by the growth of grasses and forbs, over many years, shrubs emerge along with small pine, oak, and hickory trees. These organisms are called intermediate species. Eventually, over 150 years, the forest will reach its equilibrium point and resemble the community before the fire. This equilibrium state is referred to as the <term>climax community</term>, which will remain until the next disturbance. The climax community is typically characteristic of a given climate and geology. Although the community in equilibrium looks the same once it is attained, the equilibrium is a dynamic one with constant changes in abundance and sometimes species identities. The return of a natural ecosystem after agricultural activities is also a well-documented secondary succession process.</para>
+<figure id="fig-ch19_04_15" class=" "><media id="fs-idp99332640" alt="The three illustrations show secondary succession of an oak and hickory forest. The first illustration shows a plot of land covered with pioneer species, including grasses and perennials. The second illustration shows the same plot of land later covered with intermediate species, including shrubs, pines, oak and hickory. The third illustration shows the plot of land covered with a climax community of mature oak and hickory. This community remains stable until the next disturbance.">
+<image mime-type="image/jpg" src="../../media/Figure_19_04_15.jpg" width="575"/>
+</media>
+<caption>Secondary succession is seen in an oak and hickory forest after a forest fire. A sequence of the community present at three successive times at the same location is depicted.</caption></figure></section>
+</section>
+<section id="fs-idm33723664" class="summary">
+<title>Section Summary</title><para id="fs-idp149152544">Communities include all the different species living in a given area. The variety of these species is referred to as biodiversity. Many organisms have developed defenses against predation and herbivory, including mechanical defenses, warning coloration, and mimicry. Two species cannot exist indefinitely in the same habitat competing directly for the same resources. Species may form symbiotic relationships such as commensalism, mutualism, or parasitism. Community structure is described by its foundation and keystone species. Communities respond to environmental disturbances by succession: the predictable appearance of different types of plant species, until a stable community structure is established.</para>
+</section>
+<section id="fs-idm66817776" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idp193619328">
+<problem id="fs-idp86410016"><para id="fs-idp18737504">The first species to live on new land, such as that formed from volcanic lava, are called________.</para>
+<list id="fs-idp56090912" list-type="enumerated" number-style="lower-alpha">
+<item>climax community</item>
+<item>keystone species</item>
+<item>foundation species</item>
+<item>pioneer species</item>
+</list>
+</problem>
+<solution id="fs-idp264669440">
+<label/>
+<para id="fs-idp53339728">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp201181232">
+<problem id="fs-idp88960272"><para id="fs-idp91232240">A symbiotic relationship where both of the co-existing species benefit from the interaction is called ________.</para>
+<list id="fs-idp40633232" list-type="enumerated" number-style="lower-alpha">
+<item>commensalism</item>
+<item>parasitism</item>
+<item>mutualism</item>
+<item>communism</item>
+</list>
+</problem>
+<solution id="fs-idp108491808">
+<label/>
+<para id="fs-idp56537296">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp53347040">
+<problem id="fs-idp109937552"><para id="fs-idm145690192">When an invasive species alters the community structure it is introduced to, what can the consequence be?</para>
+<list id="fs-idp33653264" list-type="enumerated" number-style="lower-alpha">
+<item>extinction of economically important species</item>
+<item>reduced predation on some native species</item>
+<item>increased predation on some native species</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idm8459456">
+<label/>
+<para id="fs-idp58598560">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp92540464" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idm52082208">
+<problem id="fs-idp109231536"><para id="fs-idm13540640">Describe the competitive exclusion principle and its effects on competing species.</para></problem>
+<solution id="fs-idm19536704"><label/>
+<para id="fs-idm64141984">The competitive exclusion principles states that no two species competing for the same resources at the same time and place can co-exist over time. Thus, one of the competing species will eventually dominate. On the other hand, if the species evolve such that they use resources from different parts of the habitat or at different times of day, the two species can exist together indefinitely.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp129873264">
+<problem id="fs-idp180595136"><para id="fs-idp129191200">Describe the potential effects when a keystone species is removed from a community.</para></problem>
+<solution id="fs-idm24244352"><label/>
+<para id="fs-idp159873728">Removing a keystone species will have dramatic effects on the abundance of individuals in other populations, increasing some and decreasing others. This affects the interactions between populations such as competition and predator-prey relationships. In addition, the community may show a loss of diversity.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp106945696"><term>climax community</term> <meaning id="fs-idp222081936">the final stage of succession, where a stable community is formed by a characteristic assortment of plant and animal species</meaning></definition>
+<definition id="fs-idp110613728"><term>competitive exclusion principle</term> <meaning id="fs-idp52063600">no two species within a habitat can coexist indefinitely when they compete for the same resources at the same time and place</meaning></definition>
+<definition id="fs-idp198881632"><term>environmental disturbance</term> <meaning id="fs-idp217142336">a change in the environment caused by natural disasters or human activities</meaning></definition>
+<definition id="fs-idp207984000"><term>foundation species</term> <meaning id="fs-idp56856224">a species which often forms the major structural portion of the habitat</meaning></definition>
+<definition id="fs-idp71853344"><term>host</term> <meaning id="fs-idm49687088">an organism a parasite lives on</meaning></definition>
+<definition id="fs-idm48600864"><term>island biogeography</term> <meaning id="fs-idp256323456">the study of life on island chains and how their geography interacts with the diversity of species found there</meaning></definition>
+<definition id="fs-idp146769376"><term>keystone species</term> <meaning id="fs-idp100225760">a species whose presence is key to maintaining biodiversity in an ecosystem and to upholding an ecological community’s structure</meaning></definition>
+<definition id="fs-idp54933088"><term>mimicry</term> <meaning id="fs-idm46973456">an adaptation in which an organism looks like another organism that is dangerous, toxic, or distasteful to its predators</meaning></definition>
+<definition id="fs-idp9607776"><term>mutualism</term> <meaning id="fs-idp212581648">a symbiotic relationship between two species where both species benefit</meaning></definition>
+<definition id="fs-idp73814544"><term>parasite</term> <meaning id="fs-idm42807488">an organism that uses resources from another species: the host</meaning></definition>
+<definition id="fs-idm183024"><term>pioneer species</term> <meaning id="fs-idp207006592">the first species to appear in primary and secondary succession</meaning></definition>
+<definition id="fs-idp101320848"><term>primary succession</term> <meaning id="fs-idm8578768">the succession on land that previously has had no life</meaning></definition>
+<definition id="fs-idp125204912"><term>relative species abundance</term> <meaning id="fs-idp23032448">the absolute population size of a particular species relative to the population size of other species within the community</meaning></definition>
+<definition id="fs-idp148378192"><term>secondary succession</term> <meaning id="fs-idm51283008">the succession in response to environmental disturbances that move a community away from its equilibrium</meaning></definition>
+<definition id="fs-idp264647888"><term>species richness</term> <meaning id="fs-idp114727616">the number of different species in a community</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,270 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Oxidation of Pyruvate and the Citric Acid Cycle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62788</md:content-id>
+  <md:title>Oxidation of Pyruvate and the Citric Acid Cycle</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how a circular pathway, such as the citric acid cycle, fundamentally differs from a linear pathway, such as glycolysis</item>
+<item>Describe how pyruvate, the product of glycolysis, is prepared for entry into the citric acid cycle</item>
+</list></md:abstract>
+  <md:uuid>2f2fdff0-5a1c-4c81-8b93-c5db304eb769</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167067056072" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067075240">In this section, you will explore the following question:</para>
+<list id="fs-id1167063855925">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch07-s03-lo01">How is pyruvate, the product of glycolysis, prepared for entry into the citric acid cycle?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch07-s03-lo02">What are the products of the citric acid cycle?</item>
+</list>
+</section>
+<section id="fs-id1167067205095" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167067203222">In the next stage of cellular respiration—and in the presence of oxygen—pyruvate produced in glycolysis is transformed into an acetyl group attached to a carrier molecule of coenzyme A.  The resulting acetyl CoA is usually delivered from the cytoplasm to the mitochondria, a process that uses some ATP. In the mitochondria, acetyl CoA continues on to the citric acid cycle. The citric acid cycle (CAC or TCA- tricarboxylic acid cycle) is also known as the Krebs cycle. During the conversion of pyruvate into the acetyl group, a molecule of CO<sub>2</sub> and two high-energy electrons are removed. Remember that glycolysis produces two molecules of pyruvate, and each can attach to a molecule of CoA and then enter the citric acid cycle. (A simple rule is to “count the carbons.” Because matter and energy cannot be created or destroyed, we must account for everything.) The electrons are picked up by NAD<sup>+</sup>, and NADH carries the electrons to a later pathway (the electron transport chain described below) for ATP production. The glucose molecule that originally entered cellular respiration in glycolysis has been completely oxidized. Chemical potential energy stored within the glucose molecules has been transferred to NADH or has been used to synthesize ATP molecules.</para><para id="fs-id1167063568924">The citric acid cycle occurs in the mitochondrial matrix and involves a series of redox and decarboxylation reactions that again remove high energy electrons and produce CO<sub>2</sub>. These electrons are carried by NADH and FADH<sub>2</sub> to the electron transport chain located in the cristae of the mitochondrion. (You do not need to memorize the steps in the citric acid cycle, but if provided with a diagram of the cycle, you should be able to interpret the steps.) During the cycle, ATP is synthesized from ADP and inorganic phosphate by substrate-level phosphorylation.</para>
+
+<table id="fs-id1167067226548" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.2 Organisms capture and store free energy for use in biological processes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Science Practice. Third right cell reads: 3.1 The student can pose scientific questions. Fourth left cell reads: Learning Objective. Fourth right cell reads: 2.4 The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.2 </emphasis></span>
+<span class="ost-standards-description">Organisms capture and store free energy for use in biological processes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s03-aplo-2-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.4 </emphasis></span>
+<span class="ost-standards-description">The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.A.2 </emphasis></span>
+<span class="ost-standards-description">Organisms capture and store free energy for use in biological processes</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s03-aplo-2-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.5 </emphasis></span>
+<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store, or use free energy.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.2 </emphasis></span>
+<span class="ost-standards-description">The structure and function of subcellular components, and their interactions, provide essential cellular processes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s03-aplo-4-6">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>4.6 </emphasis></span>
+<span class="ost-standards-description">The student is able to use representations and models to analyze situations qualitatively to describe how interactions of subcellular structures, which possess specialized functions, provide essential functions.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table></section>
+<note id="fs-id1167066983726" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167066791178">Introduce the citric acid cycle using visuals such as this <link window="new" url="http://openstax.org/l/32citric">video</link>.</para></note>
+<para id="fs-id1166849520522">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.1][APLO 2.5][APLO 2.16][APLO 2.17][APLO 2.18]</para><para id="fs-id2609938">If oxygen is available, aerobic respiration will go forward. In eukaryotic cells, the pyruvate molecules produced at the end of glycolysis are transported into mitochondria. There, pyruvate will be transformed into an acetyl group that will be picked up and activated by a carrier compound called coenzyme A (CoA). The resulting compound is called <term>acetyl CoA</term>. CoA is made from vitamin B5, pantothenic acid. Acetyl CoA can be used in a variety of ways by the cell, but its major function is to deliver the acetyl group derived from pyruvate to the next stage of the pathway in glucose catabolism.</para>
+<section id="fs-id2278162" class="ost-tag-lo-apbio-ch07-s03-lo01 ost-tag-lo-apbio-ch07-s03-aplo-2-4 ost-tag-lo-apbio-ch07-s03-aplo-2-5 ost-tag-lo-apbio-ch07-s03-aplo-4-6 ost-get-exercise">
+<title>Breakdown of Pyruvate</title>
+      <para id="fs-id1640338">In order for pyruvate, the product of glycolysis, to enter the next pathway, it must undergo several changes. The conversion is a three-step process (<link target-id="fig-ch07_03_01" document=""/>).</para>
+<para id="fs-id1720364">Step 1. A carboxyl group is removed from pyruvate, releasing a molecule of carbon dioxide into the surrounding medium. The result of this step is a two-carbon hydroxyethyl group bound to the enzyme (pyruvate dehydrogenase). This is the first of the six carbons from the original glucose molecule to be removed. This step proceeds twice (remember: there are <emphasis effect="italics">two</emphasis> pyruvate molecules produced at the end of glycolsis) for every molecule of glucose metabolized; thus, two of the six carbons will have been removed at the end of both steps.</para>
+<para id="fs-id1451059">Step 2. The hydroxyethyl group is oxidized to an acetyl group, and the electrons are picked up by NAD<sup>+</sup>, forming NADH. The high-energy electrons from NADH will be used later to generate ATP.</para>
+<para id="fs-id2891070">Step 3. The enzyme-bound acetyl group is transferred to CoA, producing a molecule of acetyl CoA.</para>
+<figure id="fig-ch07_03_01" class="ost-tag-lo-apbio-ch07-s03-lo01 ost-tag-lo-apbio-ch07-s03-aplo-2-4 ost-tag-lo-apbio-ch07-s03-aplo-2-5 ost-tag-lo-apbio-ch07-s03-aplo-4-6"><media id="fs-id1809036" alt="This illustration shows the three-step conversion of pyruvate into acetyl CoA. In step one, a carboxyl group is removed from pyruvate, releasing carbon dioxide. In step two, a redox reaction forms acetate and NADH. In step three, the acetate is transferred coenzyme A, forming acetyl CoA.">
+<image mime-type="image/jpg" src="../../media/Figure_07_03_01-a059.jpg" width="350"/>
+</media>
+<caption>Upon entering the mitochondrial matrix, a multi-enzyme complex converts pyruvate into acetyl CoA. In the process, carbon dioxide is released and one molecule of NADH is formed.</caption></figure><para id="fs-id1396285">Note that during the second stage of glucose metabolism, whenever a carbon atom is removed, it is bound to two oxygen atoms, producing carbon dioxide, one of the major end products of cellular respiration.</para>
+</section>
+<section id="fs-id1703136" class="ost-tag-lo-apbio-ch07-s03-lo01 ost-tag-lo-apbio-ch07-s03-aplo-2-4 ost-tag-lo-apbio-ch07-s03-aplo-2-5 ost-tag-lo-apbio-ch07-s03-aplo-4-6 ost-get-exercise">
+<title>Acetyl CoA to CO<sub>2</sub></title>
+<para id="fs-id2186668">In the presence of oxygen, acetyl CoA delivers its acetyl group to a four-carbon molecule, oxaloacetate, to form citrate, a six-carbon molecule with three carboxyl groups; this pathway will harvest the remainder of the extractable energy from what began as a glucose molecule. This single pathway is called by different names: the <term>citric acid cycle</term> (for the first intermediate formed—citric acid, or citrate—when acetate joins to the oxaloacetate), the <term>TCA cycle</term> (since citric acid or citrate and isocitrate are tricarboxylic acids), and the <term>Krebs cycle</term>, after Hans Krebs, who first identified the steps in the pathway in the 1930s in pigeon flight muscles.</para>
+</section>
+<section id="fs-id2676976" class="ost-tag-lo-apbio-ch07-s03-lo01 ost-tag-lo-apbio-ch07-s03-aplo-2-4 ost-tag-lo-apbio-ch07-s03-aplo-2-5 ost-tag-lo-apbio-ch07-s03-aplo-4-6 ost-get-exercise">
+<title>Citric Acid Cycle</title>
+      <para id="fs-id2750537">Like the conversion of pyruvate to acetyl CoA, the citric acid cycle takes place in the matrix of mitochondria. Almost all of the enzymes of the citric acid cycle are soluble, with the single exception of the enzyme succinate dehydrogenase, which is embedded in the inner membrane of the mitochondrion. Unlike glycolysis, the citric acid cycle is a closed loop: The last part of the pathway regenerates the compound used in the first step. The eight steps of the cycle are a series of redox, dehydration, hydration, and decarboxylation reactions that produce two carbon dioxide molecules, one GTP/ATP, and reduced forms of NADH and FADH<sub>2</sub> (<link target-id="fig-ch07_03_02" document=""/>). This is considered an aerobic pathway because the NADH and FADH<sub>2</sub> produced must transfer their electrons to the next pathway in the system, which will use oxygen. If this transfer does not occur, the oxidation steps of the citric acid cycle also do not occur. Note that the citric acid cycle produces very little ATP directly and does not directly consume oxygen.</para>
+<figure id="fig-ch07_03_02" class="ost-tag-lo-apbio-ch07-s03-lo01 ost-tag-lo-apbio-ch07-s03-aplo-2-4 ost-tag-lo-apbio-ch07-s03-aplo-2-5 ost-tag-lo-apbio-ch07-s03-aplo-4-6"><media id="fs-id1352657" alt="This illustration shows the eight steps of the citric acid cycle. In the first step, the acetyl group from acetyl CoA is transferred to a four-carbon oxaloacetate molecule to form a six-carbon citrate molecule. In the second step, citrate is rearranged to form isocitrate. In the third step, isocitrate is oxidized to α-ketoglutarate. In the process, one NADH is formed from NAD^{+} and one carbon dioxide is released. In the fourth step, α-ketoglutarate is oxidized and CoA is added, forming succinyl CoA. In the process, another NADH is formed and another carbon dioxide is released. In the fifth step, CoA is released from succinyl CoA, forming succinate. In the process, one GTP is formed, which is later converted into ATP. In the sixth step, succinate is oxidized to fumarate, and one FAD is reduced to FADH_{2}. In the seventh step, fumarate is converted into malate. In the eighth step, malate is oxidized to oxaloacetate, and another NADH is formed.">
+      <image mime-type="image/jpg" src="../../media/Figure_07_03_02-a978.jpg" width="500"/>
+</media>
+<caption>In the citric acid cycle, the acetyl group from acetyl CoA is attached to a four-carbon oxaloacetate molecule to form a six-carbon citrate molecule. Through a series of steps, citrate is oxidized, releasing two carbon dioxide molecules for each acetyl group fed into the cycle. In the process, three NAD<sup>+</sup> molecules are reduced to NADH, one FAD molecule is reduced to FADH<sub>2</sub>, and one ATP or GTP (depending on the cell type) is produced (by substrate-level phosphorylation). Because the final product of the citric acid cycle is also the first reactant, the cycle runs continuously in the presence of sufficient reactants. (credit: modification of work by “Yikrazuul”/Wikimedia Commons)</caption></figure>
+<section id="fs-id1412882" class="ost-get-exercise">
+<title>Steps in the Citric Acid Cycle</title>
+<para id="fs-id2319045">Step 1. Prior to the start of the first step, a transitional phase occurs during which pyruvic acid is converted to acetyl CoA. Then, the first step of the cycle begins: This is a condensation step, combining the two-carbon acetyl group with a four-carbon oxaloacetate molecule to form a six-carbon molecule of citrate. CoA is bound to a sulfhydryl group (-SH) and diffuses away to eventually combine with another acetyl group. This step is irreversible because it is highly exergonic. The rate of this reaction is controlled by negative feedback and the amount of ATP available. If ATP levels increase, the rate of this reaction decreases. If ATP is in short supply, the rate increases.</para>
+<para id="fs-id1420226">Step 2. In step two, citrate loses one water molecule and gains another as citrate is converted into its isomer, isocitrate.</para>
+<para id="fs-id2854030">Step 3. In step three, isocitrate is oxidized, producing a five-carbon molecule, α-ketoglutarate, together with a molecule of CO<sub>2</sub> and two electrons, which reduce NAD<sup>+</sup> to NADH. This step is also regulated by negative feedback from ATP and NADH, and a positive effect of ADP.</para>
+<para id="fs-id1227579">Steps 3 and 4. Steps three and four are both oxidation and decarboxylation steps, which release electrons that reduce NAD<sup>+ </sup>to NADH and release carboxyl groups that form CO<sub>2</sub>  molecules. α-Ketoglutarate is the product of step three, and a succinyl group is the product of step four. CoA binds the succinyl group to form succinyl CoA. The enzyme that catalyzes step four is regulated by feedback inhibition of ATP, succinyl CoA, and NADH.</para>
+<para id="fs-id1702798">Step 5. In step five, a carboxyl group is substituted for coenzyme A, and a high-energy bond is formed. This energy is used in substrate-level phosphorylation (during the conversion of the succinyl group to succinate) to form either guanine triphosphate (GTP) or ATP. There are two forms of the enzyme, called isoenzymes, for this step, depending upon the type of animal tissue in which they are found. One form is found in tissues that use large amounts of ATP, such as heart and skeletal muscle. This form produces ATP. The second form of the enzyme is found in tissues that have a high number of anabolic pathways, such as liver tissues. This form produces GTP. GTP is energetically equivalent to ATP; however, its use is more restricted. In particular, protein synthesis primarily uses GTP.</para>
+<para id="fs-id1447483">Step 6. Step six is a dehydration process that converts succinate into fumarate. Two hydrogen atoms are transferred to FAD, producing FADH<sub>2</sub>. The energy contained in the electrons of these atoms is insufficient to reduce NAD<sup>+</sup> but adequate to reduce FAD. Unlike NADH, this carrier remains attached to the enzyme and transfers the electrons to the electron transport chain directly. This process is made possible by the localization of the enzyme catalyzing this step inside the inner membrane of the mitochondrion.</para>
+<para id="fs-id1582545">Step 7. Water is added to fumarate during step seven, and malate is produced. The last step in the citric acid cycle regenerates oxaloacetate by oxidizing malate. Another molecule of NADH is produced in the process.</para>
+<note id="fs-id1807369" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch07-s03-lo02 ost-tag-lo-apbio-ch07-s03-aplo-2-4 ost-tag-lo-apbio-ch07-s03-aplo-2-5 ost-tag-lo-apbio-ch07-s03-aplo-4-6"><label>Link to Learning</label>
+<para id="fs-id2003238">Click through each step of the citric acid cycle <link window="new" url="http://openstax.org/l/krebs_cycle">here</link>.</para>
+<exercise id="fs-id1167066845462" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167063449530">
+<para id="fs-id1167066873800">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex016"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<section id="fs-id1806393" class="ost-get-exercise">
+<title>Products of the Citric Acid Cycle</title>
+<para id="fs-id2135056">Two carbon atoms come into the citric acid cycle from each acetyl group, representing four out of the six carbons of one glucose molecule. Two carbon dioxide molecules are released on each turn of the cycle; however, these do not necessarily contain the most recently added carbon atoms. The two acetyl carbon atoms will eventually be released on later turns of the cycle; thus, all six carbon atoms from the original glucose molecule are eventually incorporated into carbon dioxide. Each turn of the cycle forms three NADH molecules and one FADH<sub>2</sub> molecule. These carriers will connect with the last portion of aerobic respiration to produce ATP molecules. One GTP or ATP is also made in each cycle. Several of the intermediate compounds in the citric acid cycle can be used in synthesizing non-essential amino acids; therefore, the cycle is amphibolic (both catabolic and anabolic).</para>
+</section>
+</section>
+<note id="fs-id1167063622281" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066859349" class="ost-assignable ost-sciprac-scithink"><label/>
+<title>Think About It</title>
+<exercise id="fs-id1167067069014" class="ost-tag-lo-apbio-ch07-s03-aplo-2-4 unnumbered"><label/>
+<problem id="fs-id1167067179200"><para id="fs-id1167067179201">Explain how citrate from the citric acid cycle might affect glycolysis. What other factors might affect the efficiency of the citric acid cycle and its products?</para></problem>
+</exercise>
+</note>
+</note>
+<note id="fs-id1167066794305" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167063771883">This question is an application of Learning Objective 2.4 and Science Practice 6.2 because students are asked to explain the links between glycolysis and the citric acid cycle and factors that might affect the efficiency of these processes.</para>
+<note id="fs-id1167066855637"><title>Possible answer</title>: High levels of citric acid inhibit glycolysis rate. Step one of the citric acid cycle is controlled by negative feedback and the amount of ATP available. If ATP levels increase, the rate of this reaction decreases. If ATP is in short supply, the rate increases.</note>
+</note>
+
+<section id="fs-id1367144" class="summary ost-reading-discard">
+      <title>Section Summary</title><para id="fs-id2018930">In the presence of oxygen, pyruvate is transformed into an acetyl group attached to a carrier molecule of coenzyme A. The resulting acetyl CoA can enter several pathways, but most often, the acetyl group is delivered to the citric acid cycle for further catabolism. During the conversion of pyruvate into the acetyl group, a molecule of carbon dioxide and two high-energy electrons are removed. The carbon dioxide accounts for two (conversion of two pyruvate molecules) of the six carbons of the original glucose molecule. The electrons are picked up by NAD<sup>+</sup>, and the NADH carries the electrons to a later pathway for ATP production. At this point, the glucose molecule that originally entered cellular respiration has been completely oxidized. Chemical potential energy stored within the glucose molecule has been transferred to electron carriers or has been used to synthesize a few ATPs.</para><para id="fs-id1770098">The citric acid cycle is a series of redox and decarboxylation reactions that remove high-energy electrons and carbon dioxide. The electrons temporarily stored in molecules of NADH and FADH<sub>2</sub> are used to generate ATP in a subsequent pathway. One molecule of either GTP or ATP is produced by substrate-level phosphorylation on each turn of the cycle. There is no comparison of the cyclic pathway with a linear one.</para>
+</section>
+
+<section id="fs-id1167066952800" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167067311514" class="os-exercise">
+<problem id="fs-id1167066869325">
+<para id="fs-id1167067039672">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex017"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066867401" class="os-exercise">
+<problem id="fs-id1167063817852">
+<para id="fs-id1167067105612">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex018"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066862402" class="os-exercise">
+<problem id="fs-id1167067040587">
+<para id="fs-id1167066800618">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex019"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066843963" class="os-exercise">
+<problem id="fs-id1167067253405">
+<para id="fs-id1167067150479">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex020"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+
+<section id="fs-id1167063536064" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167063505349" class="os-exercise">
+<problem id="fs-id1167066790034">
+<para id="fs-id1167063674006">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex021"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066844346" class="os-exercise">
+<problem id="fs-id1167067078962">
+<para id="fs-id1167066811425">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex022"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166851324919" class="os-exercise">
+<problem id="eip-id1166851279226">
+<para id="eip-id1166848873673">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ot011"/>
+</para>
+</problem>
+</exercise></section>
+<section id="fs-id1164965594482" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164965524663">
+<problem id="fs-id1164965534493">
+<para id="fs-id1164967798550">A. <emphasis>[Extension]</emphasis> Living systems require free energy to carry out cellular functions, and employ various strategies to capture, use, and store free energy. <emphasis>Explain</emphasis> the advantage that the higher energy efficiency per kg of the Krebs cycle provides to <emphasis effect="italics">you</emphasis> compared to a metabolism based on glycolysis alone. Your explanation should make use of all the following facts:</para>
+<list id="fs-id1164967856813">
+<item>ΔG for glycolysis is -135kJ per mole of glucose</item>
+<item>ΔG for aerobic respiration is -2880kJ per mole glucose</item>
+<item>the basal metabolic rate of mammals is often represented as -300kJ/day • m<sup>0.75</sup></item>
+<item>the molar mass of glucose is 180 g/mole</item>
+</list>
+<para id="fs-id1164967408874">B. <emphasis>Explain</emphasis> the bioenergetic difference between aerobic and anaerobic respiration in terms of the difference between free-energy production and power. Your explanation should make use of all the following facts:</para>
+<list id="fs-id1164965188440">
+<item>power is the rate of free-energy production</item>
+<item>cancer cells derive most of their free energy from glycolysis</item>
+<item>enzymes of the citric acid (Krebs) cycle form coordinate complexes on the cytoskeleton within the mitochondria</item>
+</list>
+<para id="fs-id1164967769562">C. The life cycle of the human parasite <emphasis effect="italics">Trypanosoma brucei</emphasis> is divided between the body of the tsetse fly and the human blood stream. The parasite causes sleeping sickness in Sub-Saharan Africa. Within the human bloodstream, the parasite depends on glycolysis, with enzymes compartmentalized in a membrane-bound organelle called the glycosome. In the insect host, the parasite utilizes glycolysis as well as substrate-level and oxidative phosphorylation. <emphasis>Explain</emphasis> the advantage of a life cycle in the human host that employs anaerobic respiration with a rate of free-energy production that is enhanced by compartmentalization in the glycosome and a life cycle in the insect host that is aerobic.</para>
+<para id="fs-id1164967499022">D. <emphasis>Predict</emphasis> the advantages of a biological system that uses both glycolysis and oxidative phosphorylation. Your prediction should make use of all the following facts:</para>
+<list id="fs-id1164965594247">
+<item>signaling can be used to detect low-oxygen environments and to regulate response</item>
+<item>some cells, such as muscle and blood cells, must function in both low- and high-oxygen environments </item>
+<item>glycolysis is reversible</item>
+<item>the citric acid cycle is not reversible</item>
+<item>thermoregulation is needed for homeostasis</item>
+</list>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1596337"><term>acetyl CoA</term> <meaning id="fs-id1396394">combination of an acetyl group derived from pyruvic acid and coenzyme A, which is made from pantothenic acid (a B-group vitamin)</meaning></definition>
+<definition id="fs-id1788358"><term>citric acid cycle</term> <meaning id="fs-id1602689">(also, Krebs cycle) series of enzyme-catalyzed chemical reactions of central importance in all living cells</meaning></definition>
+<definition id="fs-id3237310"><term>Krebs cycle</term> <meaning id="fs-id1864534">(also, citric acid cycle) alternate name for the citric acid cycle, named after Hans Krebs who first identified the steps in the pathway in the 1930s in pigeon flight muscles; see citric acid cycle</meaning></definition>
+<definition id="fs-id1479324"><term>TCA cycle</term> <meaning id="fs-id2021098">(also, citric acid cycle) alternate name for the citric acid cycle, named after the group name for citric acid, tricarboxylic acid (TCA); see citric acid cycle</meaning></definition>
+</glossary>
+</document>

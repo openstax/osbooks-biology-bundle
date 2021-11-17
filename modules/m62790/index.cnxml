@@ -1,0 +1,253 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Metabolism without Oxygen</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62790</md:content-id>
+  <md:title>Metabolism without Oxygen</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the fundamental difference between anaerobic cellular respiration and fermentation</item>
+<item>Describe the type of fermentation that readily occurs in animal cells and the conditions that initiate that fermentation</item>
+</list></md:abstract>
+  <md:uuid>028fa545-bc6e-4d94-92b4-306df2655ba1</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065948422" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167065800783">In this section, you will explore the following question:</para>
+<list id="fs-id1167065711932">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch07-s05-lo01">What is the fundamental difference between anaerobic cellular respiration and the different types of fermentation?</item>
+</list>
+</section>
+
+<section id="fs-id1167065883707" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167066020805">As was previously stated, under aerobic conditions cellular respiration can yield 36-38 ATP molecules. If oxygen is not present, ATP is only produced by substrate-level phosphorylation. Without oxygen, organisms must use another electron acceptor. Most organisms will use some form of fermentation to accomplish the regeneration of NAD<sup>+ </sup>to ensure the continuation of glycolysis. In alcohol fermentation, pyruvate from glycolysis is converted to ethyl alcohol; during lactic acid fermentation, pyruvate is reduced to form lactate as an end-product. Without fermentation and anaerobic respiration, we wouldn’t have yogurt or soy sauce. Nor would our muscle cells cramp from the buildup of lactate when we exercise vigorously and oxygen is scarce.</para>
+<para id="fs-id1167064746840">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167064845867" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.2 Organisms capture and store free energy for use in biological processes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Science Practice. Third right cell reads: 3.1 The student can pose scientific questions. Fourth left cell reads: Learning Objective. Fourth right cell reads: 2.4 The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.2 </emphasis></span>
+<span class="ost-standards-description">Organisms capture and store free energy for use in biological processes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s05-aplo-2-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.4 </emphasis></span>
+<span class="ost-standards-description">The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.2 </emphasis></span>
+<span class="ost-standards-description">Organisms capture and store free energy for use in biological processes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s05-aplo-2-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.5 </emphasis></span>
+<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store, or use free energy.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+<note id="fs-id1167065914320" class="os-teacher"><label>Teacher Support</label>
+<para id="fs-id1167066020877">Discuss with students the role of fermentation in processes such as the production of bread, yogurt, alcohol, and fuels. For example as discussed in this <link window="new" url="http://openstax.org/l/32ferment">video</link>.</para><note id="fs-id1167065736332" class="ost-misconception">
+<label>Misconception Alert</label>
+<para id="fs-id1167065707865">Students may not realize that fermentation functions to regenerate NAD<sup>+</sup>; students may think that fermentation only functions to produce additional ATP. Fermentation can produce ATP as long as there is enough NAD<sup>+</sup> to accept electrons. Without NAD<sup>+</sup> regeneration from NADH, glycolysis will deplete NAD<sup>+</sup> and come to a stop.</para>
+</note>
+</note>
+<para id="fs-id1166848777881">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.21][APLO 2.24][APLO 4.14][APLO 4.26]</para><para id="fs-id1982002">In aerobic respiration, the final electron acceptor is an oxygen molecule, O<sub>2</sub>. If aerobic respiration occurs, then ATP will be produced using the energy of high-energy electrons carried by NADH or FADH<sub>2 </sub>to the electron transport chain. If aerobic respiration does not occur, NADH must be reoxidized to NAD<sup>+</sup> for reuse as an electron carrier for the glycolytic pathway to continue. How is this done? Some living systems use an organic molecule as the final electron acceptor. Processes that use an organic molecule to regenerate NAD<sup>+</sup> from NADH are collectively referred to as <term>fermentation</term>. In contrast, in some living systems the electron transport chain (ETC) uses an inorganic molecule as a final electron acceptor, which is called <term>anaerobic cellular respiration</term>. Both processes allow organisms to convert energy for their use in the absence of oxygen.</para><section id="fs-id1986553" class="ost-tag-lo-apbio-ch07-s05-lo01 ost-tag-lo-apbio-ch07-s05-aplo-2-4 ost-tag-lo-apbio-ch07-s05-aplo-2-5 ost-get-exercise">
+<title>Anaerobic Cellular Respiration</title>
+<para id="fs-id1451059">Certain prokaryotes, including some species of bacteria and Archaea, use anaerobic respiration. For example, the group of Archaea called methanogens reduces carbon dioxide to methane to oxidize NADH. These microorganisms are found in soil and in the digestive tracts of ruminants, such as cows and sheep. Similarly, sulfate-reducing bacteria and Archaea, most of which are anaerobic (<link target-id="fig-ch07_05_01" document=""/>), reduce sulfate to hydrogen sulfide to regenerate NAD<sup>+</sup> from NADH.</para><figure id="fig-ch07_05_01" class="ost-tag-lo-apbio-ch07-s05-lo01 ost-tag-lo-apbio-ch07-s05-aplo-2-4 ost-tag-lo-apbio-ch07-s05-aplo-2-5"><media id="fs-id1975018" alt="This photo shows a bloom of green bacteria in water.">
+<image mime-type="image/jpg" src="../../media/Figure_07_05_01.jpg" width="400"/>
+</media>
+<caption>The green color seen in these coastal waters is from an eruption of hydrogen sulfide-producing bacteria. These anaerobic, sulfate-reducing bacteria release hydrogen sulfide gas as they decompose algae in the water. (credit: modification of work by NASA/Jeff Schmaltz, MODIS Land Rapid Response Team at NASA GSFC, Visible Earth Catalog of NASA images)</caption></figure>
+<note id="fs-id1785709" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch07-s05-lo01 ost-tag-lo-apbio-ch07-s05-aplo-2-4 ost-tag-lo-apbio-ch07-s05-aplo-2-5"><label>Link to Learning</label>
+<para id="fs-id1957291">Visit this <link window="new" url="http://openstax.org/l/fermentation">site</link> to see anaerobic cellular respiration in action.</para>
+
+<exercise id="fs-id1167066137380" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065854834">
+<para id="fs-id1167064723992">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex035"/>
+</para>
+</problem>
+</exercise>
+</note>
+
+<section id="fs-id2121627" class="ost-get-exercise">
+<title>Lactic Acid Fermentation</title>
+<para id="fs-id2077122">The fermentation method used by animals and certain bacteria, like those in yogurt, is lactic acid fermentation (<link target-id="fig-ch07_05_02" document=""/>). This type of fermentation is used routinely in mammalian red blood cells and in skeletal muscle that has an insufficient oxygen supply to allow aerobic respiration to continue (that is, in muscles used to the point of fatigue). In muscles, lactic acid accumulation must be removed by the blood circulation and the lactate brought to the liver for further metabolism. The chemical reactions of lactic acid fermentation are the following:</para>
+<equation id="eip-345"><m:math display="block">
+   <m:mrow>
+   <m:mtext>Pyruvic acid</m:mtext>
+   <m:mo>+</m:mo>
+   <m:mtext>NADH</m:mtext>
+   <m:mrow><m:mo stretchy="false">↔</m:mo></m:mrow>
+   <m:mtext>lactic acid</m:mtext>
+   <m:mo>+</m:mo>
+   <m:msup>
+    <m:mtext>NAD</m:mtext>
+    <m:mrow>
+       <m:mo>+</m:mo>
+    </m:mrow>
+   </m:msup>
+   </m:mrow>
+</m:math></equation><para id="fs-id2197931">The enzyme used in this reaction is lactate dehydrogenase (LDH). The reaction can proceed in either direction, but the reaction from left to right is inhibited by acidic conditions. Such lactic acid accumulation was once believed to cause muscle stiffness, fatigue, and soreness, although more recent research disputes this hypothesis. Once the lactic acid has been removed from the muscle and circulated to the liver, it can be reconverted into pyruvic acid and further catabolized for energy.</para>
+<note id="fs-id2123848" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch07-s05-lo01 ost-tag-lo-apbio-ch07-s05-aplo-2-4 ost-tag-lo-apbio-ch07-s05-aplo-2-5"><label>Visual Connection</label>
+<para id="fs-id1894837"><figure id="fig-ch07_05_02"><media id="fs-id3107799" alt="This illustration shows that during glycolysis, glucose is broken down into two pyruvate molecules and, in the process, two NADH are formed from NAD^{+}. During lactic acid fermentation, the two pyruvate molecules are converted into lactate, and NADH is recycled back into NAD^{+}.">
+<image mime-type="image/png" src="../../media/Figure_07_05_02.png" width="320"/>
+</media>
+<caption>Lactic acid fermentation is common in muscle cells that have run out of oxygen.</caption></figure></para>
+<para id="fs-id2321845">Tremetol, a metabolic poison found in the white snake root plant, prevents the metabolism of lactate. When cows eat this plant, it is concentrated in the milk they produce. Humans who consume the milk become ill. Symptoms of this disease, which include vomiting, abdominal pain, and tremors, become worse after exercise. Why do you think this is the case?</para>
+<!-- [link]Figure 07_05_02[/link]The illness is caused by lactate accumulation. Lactate levels rise after exercise, making the symptoms worse. Milk sickness is rare today, but was common in the Midwestern United States in the early 1800s. -->
+<exercise id="fs-id1167065758879" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065919037">
+<para id="fs-id1167065856064">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex036"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<section id="fs-id2025525" class="ost-get-exercise"><title>Alcohol Fermentation</title><para id="fs-id2988639">Another familiar fermentation process is alcohol fermentation (<link target-id="fig-ch07_05_03" document=""/>) that produces ethanol, an alcohol. The first chemical reaction of alcohol fermentation is the following (CO<sub>2</sub> does not participate in the second reaction):</para><equation id="eip-10"><m:math display="block">
+   <m:mrow>
+   <m:mtext>pyruvic acid</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup>
+   <m:mo stretchy="false">→</m:mo>
+   <m:msub>
+    <m:mtext>CO</m:mtext>
+    <m:mrow>
+       <m:mn>2</m:mn>
+    </m:mrow>
+   </m:msub>
+   <m:mo>+</m:mo>
+   <m:mtext>acetaldehyde</m:mtext>
+   <m:mo>+</m:mo>
+   <m:mtext>NADH</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup>
+   <m:mo stretchy="false">→</m:mo>
+   <m:mtext>ethanol</m:mtext>
+   <m:mo>+</m:mo>
+   <m:msup>
+    <m:mtext>NAD</m:mtext>
+    <m:mrow>
+       <m:mo>+</m:mo>
+    </m:mrow>
+   </m:msup>
+   </m:mrow>
+</m:math></equation><para id="fs-id1986576">The first reaction is catalyzed by pyruvate decarboxylase, a cytoplasmic enzyme, with a coenzyme of thiamine pyrophosphate (TPP, derived from vitamin B<sub>1</sub> and also called thiamine). A carboxyl group is removed from pyruvic acid, releasing carbon dioxide as a gas. The loss of carbon dioxide reduces the size of the molecule by one carbon, making acetaldehyde. The second reaction is catalyzed by alcohol dehydrogenase to oxidize NADH to NAD<sup>+</sup> and reduce acetaldehyde to ethanol. The fermentation of pyruvic acid by yeast produces the ethanol. Ethanol tolerance of yeast is variable, ranging from about 5 percent to 21 percent, depending on the yeast strain and environmental conditions.</para>
+<figure id="fig-ch07_05_03" class="ost-tag-lo-apbio-ch07-s05-lo01 ost-tag-lo-apbio-ch07-s05-aplo-2-4 ost-tag-lo-apbio-ch07-s05-aplo-2-5"><media id="fs-id1797657" alt="This photo shows large cylindrical fermentation tanks stacked one on top of the other.">
+<image mime-type="image/jpg" src="../../media/Figure_07_05_03.jpg" width="350"/>
+</media>
+<caption>Fermentation of grape juice produces CO<sub>2</sub> as a byproduct. Fermentation tanks have valves so that the pressure inside the tanks created by the carbon dioxide produced can be released.</caption></figure></section><section id="fs-id811872" class="ost-get-exercise">
+<title>Other Types of Fermentation</title>
+<para id="fs-id2317124">Other fermentation methods occur in bacteria. Many prokaryotes are facultatively anaerobic. This means that they can switch between aerobic respiration and fermentation, depending on the availability of oxygen. Certain prokaryotes, like <emphasis effect="italics">Clostridia</emphasis>, are obligate anaerobes. Obligate anaerobes live and grow in the absence of molecular oxygen. Oxygen is a poison to these microorganisms and kills them on exposure. It should be noted that all forms of fermentation, except lactic acid fermentation, produce gas. The production of particular types of gas is used as an indicator of the fermentation of specific carbohydrates, which plays a role in the laboratory identification of the bacteria. Various methods of fermentation are used by assorted organisms to ensure an adequate supply of NAD<sup>+</sup> for the sixth step in glycolysis. Without these pathways, that step would not occur and no ATP would be harvested from the breakdown of glucose.</para>
+</section>
+</section>
+
+<note id="fs-id1167064932352" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch07-s05-aplo-2-5">
+<label>Science Practices Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066095630" class="ost-assignable ost-sciprac-lab ost-tag-lo-apbio-ch07-s05-aplo-2-5"><label/>
+<title>Lab Investigation</title>
+<para id="fs-id1167065809139">Lab Investigation: Respiration of Sugars by Yeast. You are given the opportunity to design and conduct experiments to investigate whether yeasts are able to metabolize a variety of sugars, using gas pressure sensors or other means to measure CO<sub>2</sub> production.</para>
+</note>
+<note id="fs-id1167065891557" class="ost-assignable ost-sciprac-scithink"><label/>
+<title>Think About It</title>
+<exercise id="fs-id1167064872988" class="ost-tag-lo-apbio-ch07-s05-aplo-2-5 unnumbered"><label/>
+<problem id="fs-id1167065825625"><para id="fs-id1167065037200">Tremetol, a metabolic poison found in the white snake plant root, prevents the metabolism of lactate. When female cows eat this plant, tremetol becomes concentrated in their milk. Humans who consume the milk become ill. Explain why the symptoms of this disease, which include vomiting, abdominal pain, and tremors, becomes worse after exercise.</para></problem>
+</exercise>
+</note>
+</note>
+
+<note id="fs-id1167065792300" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065861598">This investigation is an application of Learning Objective 2.5 and Science Practice 6.2 because in the course of their investigation, students will collect data and based on the results explain if different sugars can be metabolized in fermentation.</para>
+<para id="fs-id1167065882003">Lab investigation: This lab can be done in one of several ways. A common one involves attaching a balloon to a chamber in which fermentation is occurring, allowing the carbon dioxide to gradually fill up the balloon.</para>
+<para id="fs-id1167065855680">The Think About It question is an application of Learning Objective 2.5 and Science Practice 6.2 because students are asked to explain how an environmental variable can interfere with the fermentation pathway.</para>
+<note id="fs-id1167064981394"><title>Possible answer:</title> The illness is caused by lactate accumulation. Lactate levels rise after exercise, making the symptoms worse. Milk sickness is rare today, but was common in the Midwestern United States in the early 1800s.</note>
+</note>
+
+<section id="fs-id1342929" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id2235232">If NADH cannot be oxidized through aerobic respiration, another electron acceptor is used. Most organisms will use some form of fermentation to accomplish the regeneration of NAD<sup>+</sup>, ensuring the continuation of glycolysis. The regeneration of NAD<sup>+</sup> in fermentation is not accompanied by ATP production; therefore, the potential of NADH to produce ATP using an electron transport chain is not utilized.</para>
+</section>
+
+<section id="fs-id1167065944431" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167064914925" class="os-exercise">
+<problem id="fs-id1167065857754">
+<para id="fs-id1167065910046">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex037"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065034130" class="os-exercise">
+<problem id="fs-id1167062315632">
+<para id="fs-id1167065851018">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex038"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166851284610" class="os-exercise">
+<problem id="eip-id1166848719607">
+<para id="eip-id1166848662482">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ot025"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167064978800" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167065801724" class="os-exercise">
+<problem id="fs-id1167065072048">
+<para id="fs-id1167065909942">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex039"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166847261880" class="os-exercise">
+<problem id="eip-id1166849848513">
+<para id="eip-id1166849873415">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ot024"/>
+</para>
+</problem>
+</exercise></section>
+<section id="fs-id1164968893335" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164968968152">
+<problem id="fs-id1164968498852">
+<para id="fs-id1164966273171"><emphasis effect="italics">E. coli</emphasis> are enteric (gut-dwelling) facultative anaerobic bacteria. (Facultative anaerobes can grow either with or without free oxygen. Obligatory anaerobes grow only in the absence of free oxygen.) Researchers planned to grow cultures of <emphasis effect="italics">E. coli</emphasis> under a range of conditions to model the transition from strictly anaerobic to aerobic respiration.</para>
+<para id="fs-id1164966418663">The oxygen content of atmospheres at constant total pressure will be controlled by volumes of nitrogen and oxygen gases. Ratios of volume, r = V<sub>O<sub>2</sub></sub>/V<sub>N<sub>2</sub></sub> between 0 and 0.25 of shaken growth flasks can be measured in terms of optical density, which is the percent of transmission of light through a sample of the growing <emphasis effect="italics">E. coli</emphasis> culture. A rule of thumb is that the range of strict anaerobes is when r &lt; 0.01, and the boundary for aerobic respiration is when r = 0.05. A large number of flasks that can be constantly shaken at fixed temperature, and from which samples can be taken without atmospheric contamination, are available for this study.</para><para id="fs-id1164968985032">These results of the experiment will be used to infer growth rates of <emphasis effect="italics">E. coli</emphasis> along the entire 7.5 m length of the average human intestine (small intestine and large intestine), where the oxygen content varies from atmospheric to anaerobic conditions. The retention time of food in the small intestine, whose average length is 2.5 m, is approximately four hours. The retention time of food over the entire length of the intestine is between 24 and 72 hours.</para>
+<para id="fs-id1164963169425">A. <emphasis>Describe and apply a mathematical model</emphasis> that can be used to represent the variation of oxygen environments of a bacterium that is being transported with the food along the length of the intestine.</para>
+<para id="fs-id1164969029853">B. <emphasis>Design</emphasis> the experimental sampling times in terms of growth intervals of interest in this study: i) the time when the bacteria is passing the small-large intestine boundary; ii) the time when the bacteria reaches the end of the large intestine; and iii) the time when the bacterium reaches facultative anaerobic conditions, r &lt; 0.05.</para>
+<para id="fs-id1164962332498">C. Sketch a graph that <emphasis>predicts</emphasis> the distribution of aerobic, facultative anaerobic and obligatory anaerobic bacteria along the length of the entire intestine based on these parameters. Keep in mind that anaerobes have a lower respiration rate.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1707504"><term>anaerobic cellular respiration</term> <meaning id="fs-id2200333">process in which organisms convert energy for their use in the absence of oxygen</meaning></definition>
+<definition id="fs-id1769884"><term>fermentation</term> <meaning id="fs-id1447483">process of regenerating NAD<sup>+</sup> with either an inorganic or organic compound serving as the final electron acceptor; occurs in the absence of oxygen</meaning></definition>
+</glossary>
+</document>

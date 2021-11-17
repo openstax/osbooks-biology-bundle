@@ -1,0 +1,732 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Formation of New Species</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62864</md:content-id>
+  <md:title>Formation of New Species</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define species and describe how species are identified as different</item>
+<item>Describe genetic variables that lead to speciation</item>
+<item>Identify prezygotic and postzygotic reproductive barriers</item>
+<item>Explain allopatric and sympatric speciation</item>
+<item>Describe adaptive radiation</item>
+</list></md:abstract>
+  <md:uuid>ff9d6b54-09c4-481e-9bb8-cd3fbf06a5e1</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167067068812" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067072835">In this section, you will explore the following questions:</para>
+<list id="fs-id1167063727224">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch18-s02-lo01">What defines a species, and how can different species be distinguished from each other?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch18-s02-lo02">How does genetic variation lead to speciation?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch18-s02-lo03">What is the role of pre-zygotic and post-zygotic reproductive barriers in speciation?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch18-s02-lo04">What is the difference between allopatric speciation and sympatric speciation?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch18-s02-lo05">How does adaptive radiation explain the diversification?</item>
+</list>
+</section>
+<section id="fs-id1167063901615" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167066966086">Speciation explains the diversity of organisms that inhabit the Earth. Although all life shares various genetic similarities, only certain organisms combine genetic information by sexual reproduction and produce viable and fertile offspring that, in turn, can successfully reproduce. Scientists call such organisms members of a biological species. As we will study in later, changes in allele frequencies within a population over generations result in microevolution. However, macroevolution leads to the evolution of new species when populations diverge from a common ancestor and, for one reason or another, become reproductively isolated from the original population.</para>
+<para id="fs-id1167063754890" class="ost-reading-discard">Speciation occurs along two main pathways: geographic separation (<emphasis>allopatric speciation</emphasis>) and through mechanisms that occur within a shared habitat (<emphasis>sympatric speciation</emphasis>). In both cases, populations become reproductively isolated. When populations become geographically isolated, the free-flow of alleles is prevented. Over time—and because of different selective pressures—the populations diverge and become genetically independent species. <emphasis>Prezygotic barriers</emphasis> block reproduction prior to formation of a zygote, whereas <emphasis>postzygotic barriers</emphasis> block reproduction after fertilization occurs. Obviously, if two populations are separated by a vast ocean, they will not come in contact with each other to reproduce. However, if speciation has occurred, even when brought back together, they will retain their species identity. There are many examples of this in nature, including Darwin’s finches, northern and Mexican spotted owls, and Hawaiian honeycreeper. <emphasis>Adaptive radiation</emphasis> occurs when a single ancestral species gives rise to many new species. This may occur, for example, when new habitats become available. It can also be seen historically in the rise of mammals following the extinction of dinosaurs. Other examples of prezygotic isolating mechanisms include mating seasons and unique courtship behaviors. Sometimes mating occurs between two different species, resulting in a <emphasis>hybrid</emphasis> such as the mule, which is a cross between a horse and a donkey. However, most hybrids are inviable or sterile.</para>
+<para id="fs-id1167067098884"><emphasis>Sympatric speciation</emphasis> does not require a geographic barrier and explains how many different species can inhabit the same area. One form of sympatric speciation begins with a serious chromosomal error during cell division. As you recall from our exploration of meiosis, sometimes errors occur in the separation of chromosomes or chromatids, resulting in gametes with extra chromosomes (<emphasis>polyploidy</emphasis>). This type of speciation is more common in plants than in animals, though some examples in animals exist. For example, two groups of cichlid fish in Africa’s Lake Victoria, which have distinct morphologies and diets, may be in the early stage of sympatric speciation without polyploidy, as genetic differences arise between the two groups.</para>
+<para id="fs-id1167063526433" class="ost-reading-discard">Information presented and the examples highlighted in this section support concepts outlined in Big Idea 1 and Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167066867497" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.C.1 Speciation and extinction have occurred throughout the Earth’s history. Second left cell reads: Science Practice. Second right cell reads: 5.1 The student can analyze data to identify patterns or relationships. Third left cell reads: Learning Objective. Third right cell reads: 1.20 The student is able to analyze data related to questions of speciation and extinction throughout the Earth’s history." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.C</emphasis></entry>
+<entry class="ost-standards-description">Life continues to evolve within a changing environment.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.C.1 </emphasis></span>
+<span class="ost-standards-description">Speciation and extinction have occurred throughout the Earth’s history.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.1 </emphasis></span>
+<span class="ost-standards-description">The student can analyze data to identify patterns or relationships.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s02-aplo-1-20">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.20 </emphasis></span>
+<span class="ost-standards-description">The student is able to analyze data related to questions of speciation and extinction throughout the Earth’s history.</span>
+</entry>
+</row>
+
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.C.1 </emphasis></span>
+<span class="ost-standards-description">Speciation and extinction have occurred throughout the Earth’s</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-4-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
+<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s02-aplo-1-21">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.21 </emphasis></span>
+<span class="ost-standards-description">The student is able to design a plan for collecting data to investigate the scientific claim that speciation and extinction have occurred throughout the Earth’s history.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.C.2 </emphasis></span>
+<span class="ost-standards-description">Speciation may occur when two populations become reproductively isolated from each other.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s02-aplo-1-22">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.22 </emphasis></span>
+<span class="ost-standards-description">The student is able to use data from a real or simulated population(s), based on graphs or models of types of selection, to predict what will happen to the population in the future.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.C.2 </emphasis></span>
+<span class="ost-standards-description">Speciation may occur when two populations become reproductively isolated from each other.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-4-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.1 </emphasis></span>
+<span class="ost-standards-description">The student can justify the selection of the kind of data needed to answer a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s02-aplo-1-23">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.23 </emphasis></span>
+<span class="ost-standards-description">The student is able to justify the selection of data that address questions related to reproductive isolation and speciation.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.C.2 </emphasis></span>
+<span class="ost-standards-description">Speciation may occur when two populations become reproductively isolated from each other.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s02-aplo-1-24">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.24 </emphasis></span>
+<span class="ost-standards-description">The student is able to describe speciation in an isolated population and connect it to change in gene frequency, change in environment, natural selection, and/or genetic drift.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.C</emphasis></entry>
+<entry class="ost-standards-description">The processing of genetic information is imperfect and is a source of genetic variation.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.C.1 </emphasis></span>
+<span class="ost-standards-description">Changes in genotype can result in changes in phenotype.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s02-aplo-3-24">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.24 </emphasis></span>
+<span class="ost-standards-description">The student is able to predict how a change in genotype, when expressed as a phenotype, provides a variation that can be subject to natural selection.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.C.1 </emphasis></span>
+<span class="ost-standards-description">Changes in genotype can result in changes in phenotype.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s02-aplo-3-26">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.26 </emphasis></span>
+<span class="ost-standards-description">The student is able to explain the connection between genetic variations in organisms and phenotypic variations in populations.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+<note id="fs-id1167063680259" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167066773980" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167066810352">The word species means “kind” in Latin. In daily life, we commonly distinguish between kinds of organisms strictly by using the criteria of appearance. Differentiating between kinds of organisms on the basis of bodily form (or morphology) is, of course, both a useful and practical thing to do. As it turns out, it is also largely in line with other means (physiological traits, biochemical patterns, and DNA sequences) of biological differentiation.</para>
+<para id="fs-id1167067102345">The definition of species as a group of individuals whose members have the potential to interbreed and produce viable, fertile offspring is known as the <emphasis effect="italics">biological species concept</emphasis>. Inherent in this concept of species as populations of reproductively compatible individuals is the related concept of speciation as dependent on reproductive isolation. While this definition of species depends on ideas of separateness, other definitions depend on ideas of unity. For example, the <emphasis effect="italics">ecological species concept</emphasis> defines species as a set of organisms adapted to a singular niche. In the <emphasis effect="italics">phylogenetic species concept</emphasis>, a species is defined as the smallest cluster of individuals within which there is a pattern of ancestry and descent.</para>
+</note>
+<note id="fs-id1167067305435" class="ost-tips-teaching">
+<label>Teaching Tip</label>
+<para id="fs-id1167063525079">You may wish to ask students to research and report on different species concepts. Have students compare and contrast the different definitions. Through discussion, elicit which definitions are useful, and in what kinds of situations, and which are less useful, and in what kinds of situations. You might ask questions such as: Which definition or definitions is useful for identifying asexual species? Which definition or definitions is useful for identifying asexual and sexual species? Why might different definitions work in different environments, for different types of organisms, or at different junctures of individuals’ lives?</para>
+</note>
+</note>
+<para id="fs-id1166849446122">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.27][APLO 1.8][APLO 1.23]</para><section id="fs-id1167063730478" class="ost-tag-lo-apbio-ch18-s02-lo01 ost-tag-lo-apbio-ch18-s02-lo02 ost-tag-lo-apbio-ch18-s02-aplo-3-26 ost-get-exercise">
+<title>Species and the Ability to Reproduce</title>
+<para id="fs-idm16575136">A species is a group of individual organisms that interbreed and produce fertile, viable offspring. According to this definition, one species is distinguished from another when, in nature, it is not possible for matings between individuals from each species to produce fertile offspring.</para>
+<para id="fs-idm96224336">Members of the same species share both external and internal characteristics, which develop from their DNA. The closer relationship two organisms share, the more DNA they have in common, just like people and their families. People’s DNA is likely to be more like their father or mother’s DNA than their cousin or grandparent’s DNA. Organisms of the same species have the highest level of DNA alignment and therefore share characteristics and behaviors that lead to successful reproduction.</para>
+<para id="fs-idm101726640">Species’ appearance can be misleading in suggesting an ability or inability to mate. For example, even though domestic dogs (<emphasis effect="italics">Canis lupus familiaris</emphasis>) display phenotypic differences, such as size, build, and coat, most dogs can interbreed and produce viable puppies that can mature and sexually reproduce (<link target-id="fig-ch18_02_01" document=""/>).</para>
+<figure id="fig-ch18_02_01" class="ost-tag-lo-apbio-ch18-s02-lo01"><media id="fs-idm19623744" alt="Photo a shows a poodle with curly short fur. Photo b shows a cocker spaniel with long, wavy fur that has light brown parts and cream-colored markings on the face, forepaws, belly, hind legs, and tail. The poodle has longer legs than the cocker spaniel. The cockapoo in photo c has curly hair, like the poodle, and short legs, like the cocker spaniel.">
+<image mime-type="image/jpg" src="../../media/Figure_18_02_01abc.jpg" width="480"/>
+</media>
+
+<caption>The (a) poodle and (b) cocker spaniel can reproduce to produce a breed known as (c) the cockapoo. (credit a: modification of work by Sally Eller, Tom Reese; credit b: modification of work by Jeremy McWilliams; credit c: modification of work by Kathleen Conklin)</caption></figure><para id="fs-idm20379552">In other cases, individuals may appear similar although they are not members of the same species. For example, even though bald eagles (<emphasis effect="italics">Haliaeetus leucocephalus</emphasis>) and African fish eagles (<emphasis effect="italics">Haliaeetus vocifer</emphasis>) are both birds and eagles, each belongs to a separate species group (<link target-id="fig-ch18_02_02" document=""/>). If humans were to artificially intervene and fertilize the egg of a bald eagle with the sperm of an African fish eagle and a chick did hatch, that offspring, called a hybrid	 (a cross between two species), would probably be infertile—unable to successfully reproduce after it reached maturity. Different species may have different genes that are active in development; therefore, it may not be possible to develop a viable offspring with two different sets of directions. Thus, even though hybridization may take place, the two species still remain separate.</para>
+<figure id="fig-ch18_02_02" class="ost-tag-lo-apbio-ch18-s02-lo01"><media id="fs-idp74102880" alt="Photo a shows a picture of the African fish eagle in flight, and photo b shows the bald eagle perched on a post.">
+<image mime-type="image/jpg" src="../../media/Figure_18_02_02ab-afd4.jpg" width="400"/>
+</media>
+
+    <caption>The (a) African fish eagle is similar in appearance to the (b) bald eagle, but the two birds are members of different species. (credit a: modification of work by Nigel Wedge; credit b: modification of work by U.S. Fish and Wildlife Service)</caption></figure><para id="fs-idm101339568">Populations of species share a gene pool: a collection of all the variants of genes in the species. Again, the basis to any changes in a group or population of organisms must be genetic for this is the only way to share and pass on traits. When variations occur within a species, they can only be passed to the next generation along two main pathways: asexual reproduction or sexual reproduction. The change will be passed on asexually simply if the reproducing cell possesses the changed trait. For the changed trait to be passed on by sexual reproduction, a gamete, such as a sperm or egg cell, must possess the changed trait.  In other words, sexually-reproducing organisms can experience several genetic changes in their body cells, but if these changes do not occur in a sperm or egg cell, the changed trait will never reach the next generation. Only heritable traits can evolve. Therefore, reproduction plays a paramount role for genetic change to take root in a population or species. In short, organisms must be able to reproduce with each other to pass new traits to offspring.</para>
+    <note id="fs-id1167063502464" class="ap-everyday ost-tag-lo-apbio-ch18-s02-lo02 ost-tag-lo-apbio-ch18-s02-lo04 ost-tag-lo-apbio-ch18-s02-aplo-1-20 ost-tag-lo-apbio-ch18-s02-aplo-1-21 ost-assessed-feature">
+<label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<para id="fs-id1167061220716">Until recently, these three species of short-tailed pythons, <emphasis effect="italics">Python curtus, Python brongersmai</emphasis> (middle), and <emphasis effect="italics">Python breitensteini</emphasis> were considered one species. However, due to the different locations in which they are found, they have become three distinct species.</para>
+<figure id="fs-id1167063454495"><media id="fs-id1167067064755" alt="A map shows the distribution of three python species. Python brongersmai, a brown snake with highly contrasting patterns of yellow-beige and black spots, is found in the southern tip of Thailand, Peninsular (West) Malaysia, and the eastern half of Sumatra. Python breitensteini has less contrast in the pattern of its skin, with patches of light yellow to medium brown and dark brown. It is found in western Sumatra. Python curtus is similar to breitensteini, but is much darker, almost black with visible pattern. It is found on the island comprised of Borneo, Brunei, and East Malaysia.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_18_02_Pythons_img.jpg" width="250"/>
+</media>
+<caption/>
+</figure>
+<exercise id="fs-id1167067202878" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167063556576">
+<para id="fs-id1167067090724">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex072"/>
+</para>
+</problem>
+</exercise>
+</note>
+</section>
+<section id="fs-idm107227808">
+<title>Speciation</title>
+<para id="fs-idm99888736">The biological definition of species, which works for sexually reproducing organisms, is a group of actually or potentially interbreeding individuals. There are exceptions to this rule. Many species are similar enough that hybrid offspring are possible and may often occur in nature, but for the majority of species this rule generally holds. In fact, the presence in nature of hybrids between similar species suggests that they may have descended from a single interbreeding species, and the speciation process may not yet be complete.</para><para id="fs-idm101597488">Given the extraordinary diversity of life on the planet there must be mechanisms for <emphasis>speciation</emphasis>: the formation of two species from one original species. Darwin envisioned this process as a branching event and diagrammed the process in the only illustration found in <emphasis effect="italics">On the</emphasis> <emphasis effect="italics">Origin of Species</emphasis> (<link target-id="fig-ch18_02_03" document=""/><emphasis effect="bold">a</emphasis>). Compare this illustration to the diagram of elephant evolution (<link target-id="fig-ch18_02_03" document=""/><emphasis effect="bold">b</emphasis>), which shows that as one species changes over time, it branches to form more than one new species, repeatedly, as long as the population survives or until the organism becomes extinct.</para>
+<figure id="fig-ch18_02_03"><media id="fs-idm103229696" alt="Image (a) shows a sketch of lines branching into a tree shape. At the bottom are 11 vertical lines labeled A through L. These then are branched out as they move up across the page through fourteen rows labeled with Roman numerals. Some branches make a straight line from the bottom row to the top row, others keep branching out further at each row, and some are straight partway through the rows until they connect to an existing branch or form no connection and instead stop. The top four rows each consists of a single line from a branch tip (there are 6 branch tips at row XI) to one of 15 individual final designations. Illustration B shows the evolution of modern African and Asian elephants from a common ancestor, the Palaeomastodon. The Palaeomastodon was similar to modern elephants; however, it was smaller and had a long nose instead of a trunk. Side branches of the elephant evolutionary tree gave rise to mastodons and mammoths. The mammoth is more closely related to modern elephants than the mastodon.">
+<image mime-type="image/jpg" src="../../media/Figure_18_02_03ab.jpg" width="525"/>
+</media>
+
+<caption>The only illustration in Darwin's <emphasis effect="italics">On the Origin of Species</emphasis> is (a) a diagram showing speciation events leading to biological diversity. The diagram shows similarities to phylogenetic charts that are drawn today to illustrate the relationships of species. (b) Modern elephants evolved from the <emphasis effect="italics">Palaeomastodon</emphasis>, a species that lived in Egypt 35–50 million years ago.</caption></figure><para id="fs-idm103124960">For speciation to occur, two new populations must be formed from one original population and they must evolve in such a way that it becomes impossible for individuals from the two new populations to interbreed. Biologists have proposed mechanisms by which this could occur that fall into two broad categories. Allopatric speciation (allo- = "other"; -patric = "homeland") involves geographic separation of populations from a parent species and subsequent evolution. Sympatric speciation (sym- = "same"; -patric = "homeland") involves speciation occurring within a parent species remaining in one location.</para>
+<para id="fs-idm143545712">Biologists think of speciation events as the splitting of one ancestral species into two descendant species. There is no reason why there might not be more than two species formed at one time except that it is less likely and multiple events can be conceptualized as single splits occurring close in time.</para>
+</section>
+<section id="fs-idm102039344" class="ost-tag-lo-apbio-ch18-s02-lo04 ost-get-exercise">
+<title>Allopatric Speciation</title>
+<para id="fs-idm85041232">A geographically continuous population has a gene pool that is relatively homogeneous. Gene flow, the movement of alleles across the range of the species, is relatively free because individuals can move and then mate with individuals in their new location. Thus, the frequency of an allele at one end of a distribution will be similar to the frequency of the allele at the other end. When populations become geographically discontinuous, that free-flow of alleles is prevented. When that separation lasts for a period of time, the two populations are able to evolve along different trajectories. Thus, their allele frequencies at numerous genetic loci gradually become more and more different as new alleles independently arise by mutation in each population. Typically, environmental conditions, such as climate, resources, predators, and competitors for the two populations will differ causing natural selection to favor divergent adaptations in each group.</para>
+<para id="fs-idm93398672">Isolation of populations leading to allopatric speciation can occur in a variety of ways: a river forming a new branch, erosion forming a new valley, a group of organisms traveling to a new location without the ability to return, or seeds floating over the ocean to an island. The nature of the geographic separation necessary to isolate populations depends entirely on the biology of the organism and its potential for dispersal. If two flying insect populations took up residence in separate nearby valleys, chances are, individuals from each population would fly back and forth continuing gene flow. However, if two rodent populations became divided by the formation of a new lake, continued gene flow would be unlikely; therefore, speciation would be more likely.</para>
+<para id="fs-idm104294672">Biologists group allopatric processes into two categories: dispersal and vicariance. <emphasis>Dispersal</emphasis> is when a few members of a species move to a new geographical area, and <emphasis>vicariance</emphasis> is when a natural situation arises to physically divide organisms.</para>
+<para id="fs-idm103603056">Scientists have documented numerous cases of allopatric speciation taking place. For example, along the west coast of the United States, two separate sub-species of spotted owls exist. The northern spotted owl has genetic and phenotypic differences from its close relative: the Mexican spotted owl, which lives in the south (<link target-id="fig-ch18_02_04" document=""/>).</para>
+<figure id="fig-ch18_02_04" class="ost-tag-lo-apbio-ch18-s02-lo04"><media id="fs-idm138586416" alt="The northern spotted owl lives in the Pacific Northwest, and the Mexican spotted owl lives in Mexico and the southwestern portion of the United States. The two owls are similar in appearance but with slightly different coloration.">
+<image mime-type="image/jpg" src="../../media/Figure_18_02_04.jpg" width="280"/>
+</media>
+
+<caption>The northern spotted owl and the Mexican spotted owl inhabit geographically separate locations with different climates and ecosystems. The owl is an example of allopatric speciation. (credit "northern spotted owl": modification of work by John and Karen Hollingsworth; credit "Mexican spotted owl": modification of work by Bill Radke)</caption></figure><para id="fs-idm98993792">Additionally, scientists have found that the farther the distance between two groups that once were the same species, the more likely it is that speciation will occur. This seems logical because as the distance increases, the various environmental factors would likely have less in common than locations in close proximity. Consider the two owls: in the north, the climate is cooler than in the south; the types of organisms in each ecosystem differ, as do their behaviors and habits; also, the hunting habits and prey choices of the southern owls vary from the northern owls. These variances can lead to evolved differences in the owls, and speciation likely will occur.</para>
+<section id="fs-idm159382464" class="ost-tag-lo-apbio-ch18-s02-lo05">
+<title>Adaptive Radiation</title>
+<para id="fs-idm41089472">In some cases, a population of one species disperses throughout an area, and each population finds a distinct niche or isolated habitat. Over time, the varied demands of their new lifestyles lead to multiple speciation events originating from a single species. This is called adaptive radiation because many adaptations evolve from a single point of origin; thus, causing the species to radiate into several new ones. Island archipelagos like the Hawaiian Islands provide an ideal context for adaptive radiation events because water surrounds each island which leads to geographical isolation for many organisms. The Hawaiian honeycreeper illustrates one example of adaptive radiation. From a single species, called the founder species, numerous species have evolved, including the six shown in <link target-id="fig-ch18_02_05" document=""/>.</para>
+<figure id="fig-ch18_02_05" class="ost-tag-lo-apbio-ch18-s02-lo05"><media id="fs-idm101597008" alt="The illustration shows a wheel with the founder species at the hub. The spokes of the wheel are six modern honeycreeper species that evolved from the founder species. Five of these birds eat insects and/or nectar and have long, thick beaks: the Apapane, Liwi, Amakihi, Akiapola’au and Maui Parrotbill. The Nihoa Finch has a short, fat beak and eats insects, seeds, and bird eggs.">
+<image mime-type="image/jpg" src="../../media/Figure_11_04_03_replaced.jpg" width="380"/>
+</media>
+
+<caption>The honeycreeper birds illustrate adaptive radiation. From one original species of bird, multiple others evolved, each with its own distinctive characteristics.</caption></figure><para id="fs-idm147724608">Notice the differences in the species’ beaks in <link target-id="fig-ch18_02_05" document=""/>. Evolution in response to natural selection based on specific food sources in each new habitat led to evolution of a different beak suited to the specific food source. The seed-eating bird has a thicker, stronger beak which is suited to break hard nuts. The nectar-eating birds have long beaks to dip into flowers to reach the nectar. The insect-eating birds have beaks like swords, appropriate for stabbing and impaling insects. Darwin’s finches are another example of adaptive radiation in an archipelago.</para>
+<note id="fs-idm19803040" class="interactive ost-assessed-feature">
+<para id="fs-idm1483088">Click through this <link window="new" url="http://openstax.org/l/bird_evolution">interactive site</link> to see how island birds evolved in evolutionary increments from 5 million years ago to today.</para>
+<exercise id="fs-id1167067106304" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167067085342">
+<para id="fs-id1167063915343">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex034"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+</section>
+<section id="fs-idm74920656" class="ost-tag-lo-apbio-ch18-s02-lo04 ost-get-exercise">
+<title>Sympatric Speciation</title>
+<para id="fs-idm201779952">Can divergence occur if no physical barriers are in place to separate individuals who continue to live and reproduce in the same habitat? The answer is yes. The process of speciation within the same space is called sympatric speciation; the prefix “sym” means same, so “sympatric” means “same homeland” in contrast to “allopatric” meaning “other homeland.” A number of mechanisms for sympatric speciation have been proposed and studied.</para>
+<para id="fs-idm174791120">One form of sympatric speciation can begin with a serious chromosomal error during cell division. In a normal cell division event chromosomes replicate, pair up, and then separate so that each new cell has the same number of chromosomes. However, sometimes the pairs separate and the end cell product has too many or too few individual chromosomes in a condition called <emphasis effect="bold">aneuploidy </emphasis>(<link target-id="fig-ch18_02_06" document=""/>).</para>
+<note id="fs-idm161280" class="visual-connection ost-assessed-feature">
+<figure id="fig-ch18_02_06" class="ost-tag-lo-apbio-ch18-s02-lo03"><media id="fs-idp89855760" alt="Aneuploidy results when chromosomes fail to separate correctly during meiosis. As a result, one gamete has one too many chromosomes (n +1), and the other has one too few (n – 1). When the n + 1 gamete fuses with a normal gamete, the resulting zygote has 2n + 1 chromosomes. When the n – 1 gamete fuses with a normal gamete, the resulting zygote has 2n -1 chromosomes.">
+<image mime-type="image/png" src="../../media/Figure_18_02_06.png" width="430"/>
+</media>
+<caption>Aneuploidy results when the gametes have too many or too few chromosomes due to nondisjunction during meiosis. In the example shown here, the resulting offspring will have 2<emphasis effect="italics">n</emphasis>+1 or 2<emphasis effect="italics">n</emphasis>-1 chromosomes</caption>
+</figure>
+<!--<para id="fs-idm37322000">Which is most likely to survive, offspring with 2<emphasis effect="italics">n</emphasis>+1 chromosomes or offspring with 2<emphasis effect="italics">n</emphasis>-1 chromosomes?</para>-->
+<!--<para><link target-id="fig-ch18_02_06" document=""/>Loss of genetic material is almost always lethal, so offspring with 2<emphasis effect="italics">n</emphasis>+1 chromosomes are more likely to survive.</para>-->
+<exercise id="fs-id1167063663887" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167067254526">
+<para id="fs-id1167066839954">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex035"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-idm110753248">Polyploidy is a condition in which a cell or organism has an extra set, or sets, of chromosomes. Scientists have identified two main types of polyploidy that can lead to reproductive isolation of an individual in the polyploidy state. Reproductive isolation is the inability to interbreed. In some cases, a polyploid individual will have two or more complete sets of chromosomes from its own species in a condition called <emphasis>autopolyploidy</emphasis> (<link target-id="fig-ch18_02_07" document=""/>). The prefix “auto-” means “self,” so the term means multiple chromosomes from one’s own species. Polyploidy results from an error in meiosis in which all of the chromosomes move into one cell instead of separating.</para>
+<figure id="fig-ch18_02_07" class="ost-tag-lo-apbio-ch18-s02-lo03"><media id="fs-idp11713120" alt="Autopolyploidy results in offspring with two sets of chromosomes. In the example shown, a diploid parent (2n) produces polyploid offspring (4n).">
+<image mime-type="image/jpg" src="../../media/Figure_18_02_07.jpg" width="320"/>
+</media>
+
+<caption>Autopolyploidy results when mitosis is not followed by cytokinesis.</caption></figure><para id="fs-idm121334384">For example, if a plant species with 2<emphasis effect="italics">n</emphasis> = 6 produces autopolyploid gametes that are also diploid (2<emphasis effect="italics">n</emphasis> = 6, when they should be <emphasis effect="italics">n</emphasis> = 3), the gametes now have twice as many chromosomes as they should have. These new gametes will be incompatible with the normal gametes produced by this plant species. However, they could either self-pollinate or reproduce with other autopolyploid plants with gametes having the same diploid number. In this way, sympatric speciation can occur quickly by forming offspring with 4<emphasis effect="italics">n</emphasis> called a tetraploid. These individuals would immediately be able to reproduce only with those of this new kind and not those of the ancestral species.</para>
+<para id="fs-idm78071504">The other form of polyploidy occurs when individuals of two different species reproduce to form a viable offspring called an <emphasis>allopolyploid</emphasis>. The prefix “allo-” means “other” (recall from allopatric): therefore, an allopolyploid occurs when gametes from two different species combine. <link target-id="fig-ch18_02_08" document=""/> illustrates one possible way an allopolyploid can form. Notice how it takes two generations, or two reproductive acts, before the viable fertile hybrid results.</para>
+<figure id="fig-ch18_02_08" class="ost-tag-lo-apbio-ch18-s02-lo03"><media id="fs-idm105632032" alt="Alloploidy results from viable matings between two species with different numbers of chromosomes. In the example shown, species one has three pairs of chromosomes, and species two has two pairs of chromosomes. When a normal gamete from species one (with three chromosomes) fuses with a polyploidy gamete from species two (with two pairs of chromosomes), a zygote with seven chromosomes results. An offspring from this mating produces a polyploid gamete, with seven chromosomes. If this polyploid gamete fuses with a normal gamete from species one, with three chromosomes, the resulting offspring will have ten viable chromosomes.">
+<image mime-type="image/jpg" src="../../media/Figure_B18_03_05.jpg" width="450"/>
+</media>
+
+<caption>Alloploidy results when two species mate to produce viable offspring. In the example shown, a normal gamete from one species fuses with a polyploidy gamete from another. Two matings are necessary to produce viable offspring.</caption></figure><para id="fs-idm143595856">The cultivated forms of wheat, cotton, and tobacco plants are all allopolyploids. Although polyploidy occurs occasionally in animals, it takes place most commonly in plants. (Animals with any of the types of chromosomal aberrations described here are unlikely to survive and produce normal offspring.) Scientists have discovered more than half of all plant species studied relate back to a species evolved through polyploidy. With such a high rate of polyploidy in plants, some scientists hypothesize that this mechanism takes place more as an adaptation than as an error.</para>
+</section>
+<note id="fs-id1167063868026" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167067018916" class="ost-assignable ost-sciprac-activity ost-tag-lo-apbio-ch18-s02-aplo-1-21">
+<para id="fs-id1167067203784">Create a visual representation such as a diagram with annotation to explain how island chains provide ideal conditions for allopatric speciation and adaptive radiation to occur. Then design a plan for collecting data to support the claim that speciation has occurred.</para>
+</note>
+<note id="fs-id1167061253551" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch18-s02-aplo-1-22 ost-tag-lo-apbio-ch18-s02-aplo-1-23 ost-tag-lo-apbio-ch18-s02-aplo-1-24">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167063518523" class="unnumbered"><label/>
+<problem id="fs-id1167063418959">
+<list id="fs-id1167063735161">
+<item>Two species of fish had recently undergone sympatric speciation. The males of each species had a different coloring through which the females could identify and choose a partner from her own species. After some time, pollution made the lake so cloudy that it was hard for females to distinguish colors. What might take place in this situation?</item>
+<item>In a lake where most fish of a single species exhibit colorful stripes, a few individual animals have muted colors. The local fisherman receives a large order to catch the most colorful fish for a local aquarium store. The fisherman casts wide nets across the lake to catch a large number of the fish. He then keeps the colorful fish for the aquarium and throws back the dull colored fish. How will this single event change the make-up of the fish population?</item>
+</list>
+</problem></exercise>
+</note>
+<note id="fs-id1167066993553" class="os-teacher">
+<label>Teacher Support</label>
+<list id="fs-id1167063610308">
+<item>This activity is an application of AP<sup>®</sup> Learning Objective 1.21 and Science Practice 4.2 because students are designing a plan to support the claim that islands provide the ideal conditions for allopatric speciation and adaptive radiation.</item>
+<item>The first Think About It question is an application of AP<sup>®</sup> Learning Objective 1.22 and Science Practice 6.4 because students are making a prediction based on observations and a model of natural selection. Students also address questions relating to reproductive isolation and speciation (Learning Objective 1.23 and Science Practice 4.1).</item>
+<item>In the case of the first Think About It question, the females will likely attempt to breed with members of both species. However, because the two species can no longer interbreed, only females that mate with males of the same species will have offspring. This may eventually drive the evolution of other distinguishing traits, such as chemical signals, so that females can better identify males of their own species.</item>
+<item>The second Think About It question is an application of AP<sup>®</sup> Learning Objective 1.24 and Science Practice 6.4 because students are making a prediction based on observations and a model of natural selection.</item>
+<item>In the second Think About It question, the gene frequency here will be modified as a consequence of a random event which drastically changes the composition of the population and is an example of genetic drift and the bottle-neck effect. The fish in the lake represent an isolated population on which genetic drift will act rapidly.</item>
+</list>
+</note>
+</note>
+<section id="fs-idp23048320" class="ost-tag-lo-apbio-ch18-s02-lo03 ost-get-exercise">
+<title>Reproductive Isolation</title>
+<para id="fs-idm72065376">Given enough time, the genetic and phenotypic divergence between populations will affect characters that influence reproduction: if individuals of the two populations were to be brought together, mating would be less likely, but if mating occurred, offspring would be non-viable or infertile. Many types of diverging characters may affect the <emphasis>reproductive isolation</emphasis> (the inability to interbreed) of the two populations.</para>
+<para id="fs-idm219191376">Reproductive isolation can take place in a variety of ways. Scientists organize them into two groups: prezygotic barriers and postzygotic barriers. Recall that a zygote is a fertilized egg: the first cell of the development of an organism that reproduces sexually. Therefore, a prezygotic barrier is a mechanism that blocks reproduction from taking place; this includes barriers that prevent fertilization when organisms attempt reproduction. A postzygotic barrier occurs after zygote formation; this includes organisms that don’t survive the embryonic stage and those that are born sterile.</para>
+<para id="fs-idm28981696">Some types of prezygotic barriers prevent reproduction entirely. Many organisms only reproduce at certain times of the year, often just annually. Differences in breeding schedules, called <emphasis>temporal isolation</emphasis>, can act as a form of reproductive isolation. For example, two species of frogs inhabit the same area, but one reproduces from January to March, whereas the other reproduces from March to May (<link target-id="fig-ch18_02_09" document=""/>).</para>
+<figure id="fig-ch18_02_09" class="ost-tag-lo-apbio-ch18-s02-lo03"><media id="fs-idm86744512" alt="Photo a shows Rana aurora, a beige frog with green spots. Photo b shows Rana boylii, a brown frog.">
+<image mime-type="image/jpg" src="../../media/Figure_18_02_09ab.jpg" width="420"/>
+</media>
+
+<caption>These two related frog species exhibit temporal reproductive isolation. (a) <emphasis effect="italics">Rana aurora</emphasis> breeds earlier in the year than (b) <emphasis effect="italics">Rana boylii</emphasis>. (credit a: modification of work by Mark R. Jennings, USFWS; credit b: modification of work by Alessandro Catenazzi)</caption></figure><para id="fs-idm172096544">In some cases, populations of a species move or are moved to a new habitat and take up residence in a place that no longer overlaps with the other populations of the same species. This situation is called <emphasis>habitat isolation</emphasis>. Reproduction with the parent species ceases, and a new group exists that is now reproductively and genetically independent. For example, a cricket population that was divided after a flood could no longer interact with each other. Over time, the forces of natural selection, mutation, and genetic drift will likely result in the divergence of the two groups (<link target-id="fig-ch18_02_10" document=""/>).</para>
+<figure id="fig-ch18_02_10" class="ost-tag-lo-apbio-ch18-s02-lo03"><media id="fs-idp14616080" alt="Illustration A shows the black Gryllus pennsylvanicus cricket on sandy soil, and illustration B shows the beige Gryllus firmus cricket in grass.">
+<image mime-type="image/jpg" src="../../media/Figure_18_02_10ab.jpg" width="400"/>
+</media>
+
+<caption>Speciation can occur when two populations occupy different habitats. The habitats need not be far apart. The cricket (a) <emphasis effect="italics">Gryllus pennsylvanicus</emphasis> prefers sandy soil, and the cricket (b) <emphasis effect="italics">Gryllus firmus</emphasis> prefers loamy soil. The two species can live in close proximity, but because of their different soil preferences, they became genetically isolated.</caption></figure><para id="fs-idm37073552"><emphasis>Behavioral isolation</emphasis> occurs when the presence or absence of a specific behavior prevents reproduction from taking place. For example, male fireflies use specific light patterns to attract females. Various species of fireflies display their lights differently. If a male of one species tried to attract the female of another, she would not recognize the light pattern and would not mate with the male.</para>
+<para id="fs-idm88784624">Other prezygotic barriers work when differences in their gamete cells (eggs and sperm) prevent fertilization from taking place; this is called a <emphasis>gametic barrier</emphasis>. Similarly, in some cases closely related organisms try to mate, but their reproductive structures simply do not fit together. For example, damselfly males and females of different species have differently shaped reproductive organs. If one species tries to mate with another, their body parts simply do not fit together. (<link target-id="fig-ch18_02_11" document=""/>).</para>
+<figure id="fig-ch18_02_11" class="ost-tag-lo-apbio-ch18-s02-lo02"><media id="fs-idm146084912" alt="Illustrations show four different types of damselfly reproductive organs. Each organ has a hook, but the shape and length of the hook varies, as does the shape of the organ itself.">
+<image mime-type="image/jpg" src="../../media/Figure_18_02_11.jpg" width="480"/>
+</media>
+
+<caption>The shape of the male reproductive organ varies among male damselfly species, and is only compatible with the female of the same species. Reproductive organ incompatibility keeps each species reproductively isolated.</caption></figure>
+<para id="fs-idm144913152">In plants, certain structures aimed to attract one type of pollinator simultaneously prevent a different pollinator from accessing the pollen. The tunnel through which an animal must access nectar can vary widely in length and diameter, which prevents the plant from being cross-pollinated with a different species (<link target-id="fig-ch18_02_12" document=""/>).</para>
+<figure id="fig-ch18_02_12" class="ost-tag-lo-apbio-ch18-s02-lo05"><media id="fs-idm56303328" alt="Illustration a shows a bee collecting pollen from a bright purple foxglove flower. The bee’s body fits inside the bell-like flower. Illustration B shows a hummingbird drinking nectar from a long tube-like trumpet creeper flower.">
+<image mime-type="image/jpg" src="../../media/Figure_18_02_12.jpg" width="400"/>
+</media>
+
+<caption>Some flowers have evolved to attract certain pollinators. The (a) wide foxglove flower is adapted for pollination by bees, while the (b) long, tube-shaped trumpet creeper flower is adapted for pollination by hummingbirds.</caption></figure><para id="fs-idm68116672">When fertilization takes place and a zygote forms, postzygotic barriers can prevent reproduction. Hybrid individuals in many cases cannot form normally in the womb and simply do not survive past the embryonic stages. This is called <emphasis>hybrid inviability</emphasis> because the hybrid organisms simply are not viable. In another postzygotic situation, reproduction leads to the birth and growth of a hybrid that is sterile and unable to reproduce offspring of their own; this is called hybrid sterility.</para>
+<section id="fs-idm116251888" class="ost-tag-lo-apbio-ch18-s02-lo05">
+<title>Habitat Influence on Speciation</title>
+<para id="fs-idm120115328">Sympatric speciation may also take place in ways other than polyploidy. For example, consider a species of fish that lives in a lake. As the population grows, competition for food also grows. Under pressure to find food, suppose that a group of these fish had the genetic flexibility to discover and feed off another resource that was unused by the other fish. What if this new food source was found at a different depth of the lake? Over time, those feeding on the second food source would interact more with each other than the other fish; therefore, they would breed together as well. Offspring of these fish would likely behave as their parents: feeding and living in the same area and keeping separate from the original population. If this group of fish continued to remain separate from the first population, eventually sympatric speciation might occur as more genetic differences accumulated between them.</para>
+<para id="fs-idm53402816">This scenario does play out in nature, as do others that lead to reproductive isolation. One such place is Lake Victoria in Africa, famous for its sympatric speciation of cichlid fish. Researchers have found hundreds of sympatric speciation events in these fish, which have not only happened in great number, but also over a short period of time. <link target-id="fig-ch18_02_13" document=""/> shows this type of speciation among a cichlid fish population in Nicaragua. In this locale, two types of cichlids live in the same geographic location but have come to have different morphologies that allow them to eat various food sources.</para>
+<figure id="fig-ch18_02_13" class="ost-tag-lo-apbio-ch18-s02-lo05"><media id="fs-idm64539568" alt="Illustrations show two species of cichlid fish which are similar in appearance except that one has thin lips, and one has thick lips.">
+<image mime-type="image/jpg" src="../../media/Figure_18_02_13n.jpg" width="550"/>
+</media>
+
+<caption>Cichlid fish from Lake Apoyeque, Nicaragua, show evidence of sympatric speciation. Lake Apoyeque, a crater lake, is 1800 years old, but genetic evidence indicates that the lake was populated only 100 years ago by a single population of cichlid fish. Nevertheless, two populations with distinct morphologies and diets now exist in the lake, and scientists believe these populations may be in an early stage of speciation.</caption></figure></section>
+</section>
+<section id="fs-idm166124688" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idm19052624">Speciation occurs along two main pathways: geographic separation (allopatric speciation) and through mechanisms that occur within a shared habitat (sympatric speciation). Both pathways isolate a population reproductively in some form. Mechanisms of reproductive isolation act as barriers between closely related species, enabling them to diverge and exist as genetically independent species. Prezygotic barriers block reproduction prior to formation of a zygote, whereas postzygotic barriers block reproduction after fertilization occurs. For a new species to develop, something must cause a breach in the reproductive barriers. Sympatric speciation can occur through errors in meiosis that form gametes with extra chromosomes (polyploidy). Autopolyploidy occurs within a single species, whereas allopolyploidy occurs between closely related species.</para>
+</section>
+<!--<section id="fs-idp5523904" class="art-exercise">
+<title>Art Connections</title><exercise id="fs-idm138590288">
+<problem id="fs-idm67738384"><para id="fs-idm144561024"><link target-id="fig-ch18_02_06" document=""/> Which is most likely to survive, offspring with 2<emphasis effect="italics">n</emphasis>+1 chromosomes or offspring with 2<emphasis effect="italics">n</emphasis>-1 chromosomes?</para></problem>
+<solution id="fs-idm156177184"><label/><para id="fs-idm120554592"><link target-id="fig-ch18_02_06" document=""/> Loss of genetic material is almost always lethal, so offspring with 2<emphasis effect="italics">n</emphasis>+1 chromosomes are more likely to survive.</para></solution>
+</exercise>
+</section>
+<section id="fs-idm105577360" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm19556240">
+<problem id="fs-idp78809664"><para id="fs-idm70070928">Which situation would most likely lead to allopatric speciation?</para>
+<list id="fs-idp50627312" list-type="enumerated" number-style="lower-alpha">
+<item> flood causes the formation of a new lake.</item>
+<item>A storm causes several large trees to fall down.</item>
+<item>A mutation causes a new trait to develop.</item>
+<item>An injury causes an organism to seek out a new food source.</item>
+</list>
+</problem>
+<solution id="fs-idm213505344">
+<label/>
+<para id="fs-idm2981552">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm147867984">
+<problem id="fs-idm90924096"><para id="fs-idm64108336">What is the main difference between dispersal and vicariance?</para>
+<list id="fs-idm156925712" list-type="enumerated" number-style="lower-alpha">
+<item>One leads to allopatric speciation, whereas the other leads to sympatric speciation.</item>
+<item>One involves the movement of the organism, and the other involves a change in the environment.</item>
+<item>One depends on a genetic mutation occurring, and the other does not.</item>
+<item>One involves closely related organisms, and the other involves only individuals of the same species.</item>
+</list>
+</problem>
+<solution id="fs-idm110057056">
+<label/>
+<para id="fs-idm2961168">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp21033648">
+<problem id="fs-idm142245280"><para id="fs-idp60618624">Which variable increases the likelihood of allopatric speciation taking place more quickly?</para>
+<list id="fs-idm102067472" list-type="enumerated" number-style="lower-alpha">
+<item>lower rate of mutation</item>
+<item>longer distance between divided groups</item>
+<item>increased instances of hybrid formation</item>
+<item>equivalent numbers of individuals in each population</item>
+</list>
+</problem>
+<solution id="fs-idm9493904">
+<label/>
+<para id="fs-idm219554016">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm124500272">
+<problem id="fs-idp68370672"><para id="fs-idm38546640">What is the main difference between autopolyploid and allopolyploid?</para>
+<list id="fs-idm117440976" list-type="enumerated" number-style="lower-alpha">
+<item>the number of chromosomes</item>
+<item>the functionality of the chromosomes</item>
+<item>the source of the extra chromosomes</item>
+<item>the number of mutations in the extra chromosomes</item>
+</list>
+</problem>
+<solution id="fs-idm81050048">
+<label/>
+<para id="fs-idp18168272">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm37813424">
+<problem id="fs-idp13568912"><para id="fs-idm20585216">Which reproductive combination produces hybrids?</para>
+<list id="fs-idm116829968" list-type="enumerated" number-style="lower-alpha">
+<item>when individuals of the same species in different geographical areas reproduce</item>
+<item>when any two individuals sharing the same habitat reproduce</item>
+<item>when members of closely related species reproduce</item>
+<item>when offspring of the same parents reproduce</item>
+</list>
+</problem>
+<solution id="fs-idm104990320">
+<label/>
+<para id="fs-idm74570000">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm23518704">
+<problem id="fs-idm293950048"><para id="fs-idm115939600">Which condition is the basis for a species to be reproductively isolated from other members?</para>
+<list id="fs-idm20476304" list-type="enumerated" number-style="lower-alpha">
+<item>It does not share its habitat with related species.</item>
+<item>It does not exist out of a single habitat.</item>
+<item>It does not exchange genetic information with other species.</item>
+<item>It does not undergo evolutionary changes for a significant period of time.</item>
+</list>
+</problem>
+<solution id="fs-idm104612752">
+<label/>
+<para id="fs-idm162919456">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp102553968">
+<problem id="fs-idm63513936"><para id="fs-idm19197296">Which situation is <emphasis effect="italics">not</emphasis> an example of a prezygotic barrier?</para>
+<list id="fs-idm230848" list-type="enumerated" number-style="lower-alpha">
+<item>Two species of turtles breed at different times of the year.</item>
+<item>Two species of flowers attract different pollinators.</item>
+<item>Two species of birds display different mating dances.</item>
+<item>Two species of insects produce infertile offspring.</item>
+</list>
+</problem>
+<solution id="fs-idm65093024">
+<label/>
+<para id="fs-idm74826864">D</para>
+</solution>
+</exercise>
+</section> -->
+<!--<section id="fs-idm102361104" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm40145904"><problem id="fs-idm64033616"><para id="fs-idm156261456">Why do island chains provide ideal conditions for adaptive radiation to occur?</para></problem>
+<solution id="fs-idm146840016"><label/><para id="fs-idm45715696">Organisms of one species can arrive to an island together and then disperse throughout the chain, each settling into different niches and exploiting different food resources to reduce competition.</para></solution></exercise>
+<exercise id="fs-idm75358256"><problem id="fs-idm161103792"><para id="fs-idm163043744">Two species of fish had recently undergone sympatric speciation. The males of each species had a different coloring through which the females could identify and choose a partner from her own species. After some time, pollution made the lake so cloudy that it was hard for females to distinguish colors. What might take place in this situation?</para></problem>
+<solution id="fs-idm21677184"><label/><para id="fs-idm77888416">It is likely the two species would start to reproduce with each other. Depending on the viability of their offspring, they may fuse back into one species.</para></solution></exercise>
+<exercise id="fs-idm120483648"><problem id="fs-idp4671872"><para id="fs-idm101865088">Why can polyploidy individuals lead to speciation fairly quickly?</para></problem>
+<solution id="fs-idm96376976"><label/><para id="fs-idp13077824">The formation of gametes with new <emphasis effect="italics">n</emphasis> numbers can occur in one generation. After a couple of generations, enough of these new hybrids can form to reproduce together as a new species.</para></solution></exercise>
+</section>-->
+<section id="fs-id1167063852326" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167067222652" class="os-exercise">
+<problem id="fs-id1167066841541">
+<para id="fs-id1167063438551">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex036"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067038960" class="os-exercise">
+<problem id="fs-id1167067075006">
+<para id="fs-id1167066938498">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex037"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063772173" class="os-exercise">
+<problem id="fs-id1167066829159">
+<para id="fs-id1167063807894">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex038"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167061653686" class="os-exercise">
+<problem id="fs-id1167063484229">
+<para id="fs-id1167067049636">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex039"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067197538" class="os-exercise">
+<problem id="fs-id1167067000553">
+<para id="fs-id1167067292369">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex040"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067257766" class="os-exercise">
+<problem id="fs-id1167066829294">
+<para id="fs-id1167061209136">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex041"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066833052" class="os-exercise">
+<problem id="fs-id1167063444647">
+<para id="fs-id1167067190246">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex042"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067208147" class="os-exercise">
+<problem id="fs-id1167063514003">
+<para id="fs-id1167067132331">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex043"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063890223" class="os-exercise">
+<problem id="fs-id1167067044795">
+<para id="fs-id1167067324559">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex044"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063471679" class="os-exercise">
+<problem id="fs-id1167067050174">
+<para id="fs-id1167061688668">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex045"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167067035996" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167066770530" class="os-exercise">
+<problem id="fs-id1167067110881">
+<para id="fs-id1167067044447">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex046"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066834717" class="os-exercise">
+<problem id="fs-id1167061226952">
+<para id="fs-id1167066993454">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex047"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067252866" class="os-exercise">
+<problem id="fs-id1167067252023">
+<para id="fs-id1167063567789">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex048"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166170516529" class="os-exercise">
+<problem id="fs-id1166172598949">
+<para id="fs-id1166172598952">A population of flowers was separated into two subpopulations when a new river cut through the plain in which they were growing. The number of interbreeding events per year for the two subpopulations of flowers is shown in the graph below. Twenty-four years after they were separated, can you conclude that the two subpopulations of flowers have become new species? Why or why not?</para><figure id="fs-id1166174346464">
+<media id="fs-id1166174473270" alt="The figure is a line graph. The x-axis is labelled Years after new waterway and has tick marks for every whole number from 1 to 24. The y-axis is labelled Number of interbreeding events and has tick marks for 0, 20, 40, 60, 80, 100, 120. The lines origin begins at above 100 interbreeding events. The line follows a general downward path with some small peaks. In Years 22 to 24, the value is near 0 percent.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Figure_18_02_06.jpg"/>
+</media>
+<caption/>
+</figure>
+</problem>
+<solution id="fs-id1166174468549">
+<para id="fs-id1166174468551">No; just because interbreeding does not occur does not mean the flowers are incapable of interbreeding.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167063864851" class="os-exercise">
+<problem id="fs-id1167063917662">
+<para id="fs-id1167063556447">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex049"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066821968" class="os-exercise">
+<problem id="fs-id1167063606226">
+<para id="fs-id1167067039503">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex050"/>
+</para>
+</problem>
+</exercise>
+
+</section>
+<section id="fs-id1167067292821" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167063476600" class="os-exercise"><problem id="fs-id1167063568807">
+<para id="fs-id1167067146838">A student placed 20 tobacco seeds of the same species on moist paper towels in each of two petri dishes. Dish A was wrapped completely in an opaque cover to exclude all light. Dish B was not wrapped. The dishes were placed equidistant from a light source set to a cycle of 14 hours of light and 10 hours of dark. All other conditions were the same for both dishes. The dishes were examined after 7 days, and the opaque cover was permanently removed from dish A. Both dishes were returned to the light and examined again at 14 days. The following data were obtained:
+<newline/>
+<figure id="eip-idm457987264"><media id="eip-idm347989328" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_AP_Bio_18_02_TobaccoTbl_img.jpg" height="600"/>
+</media>
+</figure></para><para id="eip-idm1342103424">Which of the following best supports the hypothesis that the difference in leaf color is genetically controlled?
+<list id="eip-idm1342103168" list-type="enumerated" number-style="lower-alpha"><item>the number of yellow-leaved seedlings in dish A on day 7</item>
+<item>the number of germinated seeds in dish A on days 7 and 14</item>
+<item>the death of all the yellow-leaved seedings</item>
+<item>the existence of yellow-leaved seedlings as well as green-leaved ones on day 14 in dish B</item>
+</list></para>
+</problem>
+</exercise><exercise id="fs-id1167067193328" class="os-exercise"><problem id="fs-id1167067192548">
+<para id="fs-id1167063499059">Use the data from <link target-id="eip-idm457987264" document=""/> to answer the question. Which best describes the usefulness of the yellow-leaved phenotype as a variation subject to natural selection?
+<list id="eip-idm346711776" list-type="enumerated" number-style="lower-alpha"><item>the yellow-leaved phenotype can germinate in environments without light</item>
+<item>the germination of the yellow-leaved phenotype is unaffected by light intensity</item>
+<item>the germination of the yellow-leaved phenotype is accelerated as compared to the green-leaved phenotype</item>
+<item>the yellow-leaved phenotype cannot germinate in environments with light</item>
+</list></para></problem>
+</exercise><exercise id="fs-id1167067266022" class="os-exercise"><problem id="fs-id1167067139118">
+<para id="fs-id1167067009166">Use the data from <link target-id="eip-idm457987264" document=""/> to answer the question. Yellow-leaved seedlings are unable to convert light energy to chemical energy. Which observation is most likely to be
+made on day 21?
+<list id="eip-idm331838160" list-type="enumerated" number-style="lower-alpha"><item>a few yellow-leaved seedlings alive in dish A, but none in dish B</item>
+<item>a few yellow-leaved seedlings alive in dish B, but none in dish A</item>
+<item>no yellow-leaved seedlings alive in dish A or dish B</item>
+<item>a few yellow-leaved seedlings alive in dish A and dish B</item>
+</list></para></problem>
+</exercise><exercise id="fs-id1167067293535" class="os-exercise">
+<problem id="fs-id1167067184845">
+<para id="fs-id1167067024428">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex054"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063800565" class="os-exercise">
+<problem id="fs-id1167063622478">
+<para id="fs-id1167063503473">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex055"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066799131" class="os-exercise">
+<problem id="fs-id1167063557678">
+<para id="fs-id1167067193992">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex056"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063526132" class="os-exercise">
+<problem id="fs-id1167067132671">
+<para id="fs-id1167066770671">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex057"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063527912" class="os-exercise">
+<problem id="fs-id1167063422133">
+<para id="fs-id1167067038594">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex058"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066826717" class="os-exercise">
+<problem id="fs-id1167066971130">
+<para id="fs-id1167060069048">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex059"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067024464" class="os-exercise">
+<problem id="fs-id1167067053958">
+<para id="fs-id1167067089015">
+<link class="os-embed" url="#ost/api/ex/apbio-ch18-ex060"/>
+</para>
+</problem>
+</exercise>
+</section><section id="fs-id1164968920604" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164969045930">
+<problem id="fs-id1164968603928">
+<para id="fs-id1164968760746">Selection processes in changing and unchanging environments differ. <emphasis>Connect</emphasis> the effects of negative and positive selection pressures to changes in the environment.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164968680372">
+<problem id="fs-id1164968640231">
+<para id="fs-id1164968561433">In biology, the word race is rarely used.  It could be imagined to be synonymous with a subspecies.  Species is well defined, at least when horizontal gene transfer is not taken into account, by reproductive isolation.  Speciation may arise through geographic isolation.</para>
+<para id="fs-id1164968914982">A. Aside from geographic isolation leading to reproductive isolation, <emphasis>predict</emphasis> <emphasis effect="underline">two</emphasis> other mechanisms of speciation in a population and how these mechanisms can lead to a scientific definition of a subspecies.</para>
+<para id="fs-id1164966580210">The use of the term race with regard to human populations might be a reference to cultural or socioeconomic isolation, and has often been mistaken to have biological significance.  Rosenberg et al. (<emphasis effect="italics">Science</emphasis>, 2002) sampled the genes of 1,056 people from 52 populations.  They compared genetic variations within each population to variations among populations.  They found that differences between individuals in two different populations were, on average, roughly 20 times smaller than differences between two individuals in the same population.</para>
+<para id="fs-id1164968972647">B. Groups of humans have often been geographically isolated for long periods of time until isolation is broken by invasion, enslavement, migration, or another similar event. Invaders have traditionally been male. <emphasis>Predict</emphasis> the effect of invasion on the differential inheritance of genes in X- and autosomal chromosomes.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm105504672"><term>adaptive radiation</term> <meaning id="fs-idm98048736">speciation when one species radiates out to form several other species</meaning></definition>
+<definition id="fs-idm83812656"><term>allopatric speciation</term> <meaning id="fs-idm62451936">speciation that occurs via geographic separation</meaning></definition>
+<definition id="fs-idm75928672"><term>allopolyploid</term> <meaning id="fs-idp12130896">polyploidy formed between two related, but separate species</meaning></definition>
+<definition id="fs-idm27117296"><term>aneuploidy</term> <meaning id="fs-idm19206656">condition of a cell having an extra chromosome or missing a chromosome for its species</meaning></definition>
+<definition id="fs-idp83665504"><term>autopolyploid</term> <meaning id="fs-idm142838384">polyploidy formed within a single species</meaning></definition>
+<definition id="fs-idm61897888"><term>behavioral isolation</term> <meaning id="fs-idp37240304">type of reproductive isolation that occurs when a specific behavior or lack of one prevents reproduction from taking place</meaning></definition>
+<definition id="fs-idm96122736"><term>dispersal</term> <meaning id="fs-idp5484704">allopatric speciation that occurs when a few members of a species move to a new geographical area</meaning></definition>
+<definition id="fs-idm117275024"><term>gametic barrier</term> <meaning id="fs-idp3715984">prezygotic barrier occurring when closely related individuals of different species mate, but differences in their gamete cells (eggs and sperm) prevent fertilization from taking place</meaning></definition>
+<definition id="fs-idm155822416"><term>habitat isolation</term> <meaning id="fs-idm101412656">reproductive isolation resulting when populations of a species move or are moved to a new habitat, taking up residence in a place that no longer overlaps with the other populations of the same species</meaning></definition>
+<definition id="fs-idm141419184"><term>hybrid</term> <meaning id="fs-idm98405936">offspring of two closely related individuals, not of the same species</meaning></definition>
+<definition id="fs-idm154672320"><term>postzygotic barrier</term> <meaning id="fs-idm148138496">reproductive isolation mechanism that occurs after zygote formation</meaning></definition>
+<definition id="fs-idp18823264"><term>prezygotic barrier</term> <meaning id="fs-idm117336640">reproductive isolation mechanism that occurs before zygote formation</meaning></definition>
+<definition id="fs-idm69246416"><term>reproductive isolation</term> <meaning id="fs-idm69229552">situation that occurs when a species is reproductively independent from other species; this may be brought about by behavior, location, or reproductive barriers</meaning></definition>
+<definition id="fs-idm146026064"><term>speciation</term> <meaning id="fs-idm144827584">formation of a new species</meaning></definition>
+<definition id="fs-idp12686048"><term>species</term> <meaning id="fs-idm70840960">group of populations that interbreed and produce fertile offspring</meaning></definition>
+<definition id="fs-idm96360944"><term>sympatric speciation</term> <meaning id="fs-idm163244528">speciation that occurs in the same geographic space</meaning></definition>
+<definition id="fs-idm82122480"><term>temporal isolation</term> <meaning id="fs-idm138907984">differences in breeding schedules that can act as a form of prezygotic barrier leading to reproductive isolation</meaning></definition>
+<definition id="fs-idm96181072"><term>vicariance</term> <meaning id="fs-idm214549968">allopatric speciation that occurs when something in the environment separates organisms of the same species into separate groups</meaning></definition>
+<definition id="fs-id1167067196664"><term>polyploidy</term> <meaning id="fs-id1167063582802">gametes with extra chromosomes</meaning></definition>
+</glossary>
+</document>

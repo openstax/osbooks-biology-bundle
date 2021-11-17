@@ -1,0 +1,221 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Regulation of Gene Expression</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62845</md:content-id>
+  <md:title>Regulation of Gene Expression</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss why every cell does not express all of its genes</item>
+<item>Describe how prokaryotic gene regulation occurs at the transcriptional level</item>
+<item>Discuss how eukaryotic gene regulation occurs at the epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels</item>
+</list></md:abstract>
+  <md:uuid>9fde5bf7-2d47-4f39-bc29-b20a5d1255e1</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167063620595" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067216765">In this section, you will explore the following question:</para>
+<list id="fs-id1167067153468">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch16-s01-lo01">How does prokaryotic gene regulation differ from eukaryotic gene regulation?</item>
+</list>
+</section>
+
+<section id="fs-id1167065896249" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167066029362">Structure and function in biology result from the presence of genetic information and the correct expression of this information. In the chapter on DNA structure and function, we explored how genes are translated into proteins, which in turn determine the nature of the cell. But how does a cell know when to “turn on” its DNA? With few exceptions, each cell in your body contains identical genetic information. If each cell has the same exact DNA make up, how is it that a liver cell differs from a nerve or muscle cell?</para>
+<para id="fs-id1167065947406">As we will discover, although each cell shares the same genome and DNA sequence, each cell does not express exactly the same genes. Many factors determine when and how genes are expressed in a given cell. Even the type of chromosome a gene is located on, like whether it is a sex chromosome or not, can determine its expression pattern, as can mutations or changes in DNA sequence and other external factors. In prokaryotes, gene expression is regulated primarily at the level of transcription, when DNA is copied into RNA. However, eukaryotes have evolved regulatory mechanisms in gene expression at multiple levels. In all cases, regulation of gene expression determines the type and amount of protein produced in the cell. Errors in regulatory processes can result in many human diseases and conditions, including cancer.</para>
+<para id="eip-777">Gene expression regulation occurs at different points in prokaryotes and eukaryotes. Prokaryotic organisms express their entire genome in every cell, but not necessarily all at the same time. In general, a gene is expressed only when its specific protein product is needed. Remember that each cell in an organism carries the same DNA as every other cell. Yet cells of eukaryotic organisms each express a unique subset of DNA depending on cell type. To express a protein, DNA is first transcribed into RNA, which is then translated into proteins. In prokaryotic cells, transcription and translation occur almost simultaneously. In eukaryotic cells, transcription occurs in the nucleus, separate from the translation that occurs in the cytoplasm along ribosomes attached to endoplasmic reticulum. As stated above, gene expression in prokaryotes is regulated at the level of transcription, whereas in eukaryotes, gene expression is regulated at multiple levels, including the epigenetic (DNA), transcriptional, pre- and post-transcriptional, and translational levels.</para><para id="fs-id1167065824686">The science of epigenetics studies heritable changes in the genome that do not affect the underlying DNA gene sequences.</para>
+<para id="fs-id1167065911676" class="ost-reading-discard">The content presented in this section supports the learning objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> learning objectives merge essential knowledge content with one or more of the seven science practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> exam questions.</para><table id="fs-id1167065977886" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.B.1 Gene regulation results in differential gene expression, leading to cell specialization Second left cell reads: Science Practice. Second right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Third left cell reads: Learning Objective. Third right cell reads: 3.18 The student is able to describe the connection between the regulation of gene expression and observed differences between different kinds of organisms." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.B</emphasis></entry>
+<entry class="ost-standards-description">Expression of genetic information involves cellular and molecular mechanisms.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.B.1 </emphasis></span>
+<span class="ost-standards-description">Gene regulation results in differential gene expression, leading to cell specialization</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch16-s01-aplo-3-18">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.18 </emphasis></span>
+<span class="ost-standards-description">The student is able to describe the connection between the regulation of gene expression and observed differences between different kinds of organisms.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+
+<para id="fs-id1367090">For a cell to function properly, necessary proteins must be synthesized at the proper time. All cells control or regulate the synthesis of proteins from information encoded in their DNA. The process of turning on a gene to produce RNA and protein is called <term>gene expression</term>. Whether in a simple unicellular organism or a complex multi-cellular organism, each cell controls when and how its genes are expressed. For this to occur, there must be a mechanism to control when a gene is expressed to make RNA and protein, how much of the protein is made, and when it is time to stop making that protein because it is no longer needed.</para>
+<para id="fs-id1166174644967">Although genetic differences between species and between individuals within a species are often responsible for phenotypic differences, another mechanism that can create phenotypic differences is differences in gene expression. For example, although every cell in an organism contains the same genes, the bone cells in the organism appears different from the fat cells due to differences in which genes are expressed by which cell. Similarly, although mice and humans share approximately 97.5% of their genes, they are very different organisms because different genes are turned on at different times during development and in different cells. Even organisms that share 100% identity in their genomes (a.k.a clones) can eventually appear different if they express their genes differently in response to different environmental conditions, for example. Even among humans, identical twins can possess different birthmarks, wrinkles, or other features that arise during development sometimes due to differential gene expression.</para>
+<para id="fs-id2989558">The regulation of gene expression conserves energy and space. It would require a significant amount of energy for an organism to express every gene at all times, so it is more energy efficient to turn on the genes only when they are required. In addition, only expressing a subset of genes in each cell saves space because DNA must be unwound from its tightly coiled structure to transcribe and translate the DNA. Cells would have to be enormous if every protein were expressed in every cell all the time.</para>
+<para id="fs-id2626522">The control of gene expression is extremely complex. Malfunctions in this process are detrimental to the cell and can lead to the development of many diseases.</para>
+
+<note id="fs-id1167064638984" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065978209">Ask students what genes are present in the DNA in a muscle cell and skin cell. Ask them if the same genome is present in every cell in the body, how do the cells have different properties.  For example, discuss red blood cells, which lose their nucleus during development. <link window="new" url="http://openstax.org/l/32genereg">This video</link> gives an overview of gene regulation in prokaryotes and eukaryotes.</para>
+</note>
+
+<section id="fs-id2300410" class="ost-tag-lo-apbio-ch16-s01-lo01 ost-tag-lo-apbio-ch16-s01-aplo-3-18 ost-get-exercise">
+<title>Prokaryotic versus Eukaryotic Gene Expression</title>
+<para id="fs-id2011802">To understand how gene expression is regulated, we must first understand how a gene codes for a functional protein in a cell. The process occurs in both prokaryotic and eukaryotic cells, just in slightly different manners.</para>
+<para id="fs-id2988639">Prokaryotic organisms are single-celled organisms that lack a cell nucleus, and their DNA therefore floats freely in the cell cytoplasm. To synthesize a protein, the processes of transcription and translation occur almost simultaneously. When the resulting protein is no longer needed, transcription stops. As a result, the primary method to control what type of protein and how much of each protein is expressed in a prokaryotic cell is the regulation of DNA transcription. All of the subsequent steps occur automatically. When more protein is required, more transcription occurs. Therefore, in prokaryotic cells, the control of gene expression is mostly at the transcriptional level.</para>
+<para id="fs-id1446467">Eukaryotic cells, in contrast, have intracellular organelles that add to their complexity. In eukaryotic cells, the DNA is contained inside the cell’s nucleus and there it is transcribed into RNA. The newly synthesized RNA is then transported out of the nucleus into the cytoplasm, where ribosomes translate the RNA into protein. The processes of transcription and translation are physically separated by the nuclear membrane; transcription occurs only within the nucleus, and translation occurs only outside the nucleus in the cytoplasm. The regulation of gene expression can occur at all stages of the process (<link target-id="fig-ch16_01_01" document=""/>). Regulation may occur when the DNA is uncoiled and loosened from nucleosomes to bind transcription factors (<term>epigenetic</term> level), when the RNA is transcribed (transcriptional level), when the RNA is processed and exported to the cytoplasm after it is transcribed (<term>post-transcriptional</term> level), when the RNA is translated into protein (translational level), or after the protein has been made (<term>post-translational</term> level).</para>
+<figure id="fig-ch16_01_01" class="ost-tag-lo-apbio-ch16-s01-lo01 ost-tag-lo-apbio-ch16-s01-aplo-3-18">
+<media id="fs-id1568395" alt="Prokaryotic cells do not have a nucleus, and DNA is located in the cytoplasm. Ribosomes attach to the mRNA as it is being transcribed from DNA. Thus, transcription and translation occur simultaneously. In eukaryotic cells, the DNA is located in the nucleus, and ribosomes are located in the cytoplasm. After being transcribed, pre-mRNA is processed in the nucleus to make the mature mRNA, which is then exported to the cytoplasm where ribosomes become associated with it and translation begins.">
+<image mime-type="image/jpg" src="../../media/Figure_16_01_01.jpg" width="550"/>
+</media>
+<caption>Prokaryotic transcription and translation occur simultaneously in the cytoplasm, and regulation occurs at the transcriptional level. Eukaryotic gene expression is regulated during transcription and RNA processing, which take place in the nucleus, and during protein translation, which takes place in the cytoplasm. Further regulation may occur through post-translational modifications of proteins.</caption></figure>
+<para id="fs-id1444103">The differences in the regulation of gene expression between prokaryotes and eukaryotes are summarized in <link target-id="tab-ch16_01_01" document=""/>. The regulation of gene expression is discussed in detail in subsequent modules.</para>
+    <table id="tab-ch16_01_01" class="ost-tag-lo-apbio-ch16-s01-lo01 ost-tag-lo-apbio-ch16-s01-aplo-3-18 top-titled" summary="This is a two column table listing side by side the differences of gene expressions for prokaryotic and eukaryotic organisms.">
+<tgroup cols="2"><colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+            <thead>
+                <row><entry namest="col1" nameend="col2" align="left">Differences in the Regulation of Gene Expression of Prokaryotic and Eukaryotic Organisms</entry></row>
+<row><entry align="center">Prokaryotic organisms</entry><entry align="center">Eukaryotic organisms</entry></row>
+            </thead>
+            <tbody>
+<row><entry>Lack nucleus</entry><entry>Contain nucleus</entry></row>
+<row><entry>DNA is found in the cytoplasm</entry><entry>DNA is confined to the nuclear compartment</entry></row>
+<row><entry>RNA transcription and protein formation occur almost simultaneously</entry><entry>RNA transcription occurs prior to protein formation, and it takes place in the nucleus. Translation of RNA to protein occurs in the cytoplasm.</entry></row>
+<row><entry>Gene expression is regulated primarily at the transcriptional level</entry><entry>Gene expression is regulated at many levels (epigenetic, transcriptional, nuclear shuttling, post-transcriptional, translational, and post-translational)</entry></row>
+            </tbody>
+
+</tgroup>
+</table><note id="fs-id2853732" class="evolution ost-assessed-feature ost-tag-lo-apbio-ch16-s01-lo01 ost-tag-lo-apbio-ch16-s01-aplo-3-18"><title>Evolution of Gene Regulation</title>
+
+<para id="fs-id1167066790950">Prokaryotic cells can only regulate gene expression by controlling the amount of transcription. As eukaryotic cells evolved, the complexity of the control of gene expression increased. For example, with the evolution of eukaryotic cells came compartmentalization of important cellular components and cellular processes. A nuclear region that contains the DNA was formed. Transcription and translation were physically separated into two different cellular compartments. It therefore became possible to control gene expression by regulating transcription in the nucleus, and also by controlling the RNA levels and protein translation present outside the nucleus.</para>
+<para id="fs-id1435492">Some cellular processes arose from the need of the organism to defend itself. Cellular processes such as gene silencing developed to protect the cell from viral or parasitic infections. If the cell could quickly shut off gene expression for a short period of time, it would be able to survive an infection when other organisms could not. Therefore, the organism evolved a new process that helped it survive, and it was able to pass this new development to offspring.</para>
+<exercise id="fs-id1167066095297" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066054815">
+<para id="fs-id1167065909653">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ex006"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<note id="fs-id1167066037309" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch16-s01-lo01">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065948677" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167065796295" class="ost-tag-lo-apbio-ch16-s01-aplo-3-18 unnumbered">
+<label/>
+<problem id="fs-id1167066028790">
+<para id="fs-id1167062814864">How does controlling gene expression alter the overall protein level in the cell?</para>
+</problem>
+</exercise>
+</note>
+</note>
+<note id="fs-id1167064779396" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065714452">The question is an application of Learning Objective 3.18 and Science Practice 7.1 because students are asked to describe the connection between genes, gene expression (i.e., transcription and translation), and how the production of different proteins can result in cell specialization and differences between organisms.</para>
+<note id="fs-id1167065846121"><title>Answer</title>
+<para id="fs-id1167065854155">The cell controls which proteins are expressed and to what level each protein is expressed in the cell. Prokaryotic cells alter the transcription rate to turn genes on or off. This method will increase or decrease protein levels in response to what is needed by the cell. Eukaryotic cells change the accessibility (through epigenetic mechanisms), transcription, or translation of a gene. This will alter the amount of RNA and the lifespan of the RNA to alter the amount of protein that exists. Eukaryotic organisms are much more complex and can manipulate protein levels by changing many stages in the process.</para>
+</note>
+</note>
+<section id="fs-id1693342" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1899262">While all somatic cells within an organism contain the same DNA, not all cells within that organism express the same proteins. Prokaryotic organisms express the entire DNA they encode in every cell, but not necessarily all at the same time. Proteins are expressed only when they are needed. Eukaryotic organisms express a subset of the DNA that is encoded in any given cell. In each cell type, the type and amount of protein is regulated by controlling gene expression. To express a protein, the DNA is first transcribed into RNA, which is then translated into proteins. In prokaryotic cells, these processes occur almost simultaneously. In eukaryotic cells, transcription occurs in the nucleus and is separate from the translation that occurs in the cytoplasm. Gene expression in prokaryotes is mostly regulated at the transcriptional level, whereas in eukaryotic cells, gene expression is regulated at the epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels.</para></section>
+
+<!--<section>
+<title>Free Response</title>
+<exercise>
+<problem>
+<para>Name two differences between prokaryotic and eukaryotic cells and how these differences benefit multicellular organisms.</para></problem>
+<solution />
+</exercise>
+<exercise>
+<problem>
+<para>Describe how controlling gene expression will alter the overall protein levels in the cell.</para></problem>
+<solution />
+</exercise>
+</section>-->
+<section id="fs-id1167064746458" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167065758456" class="os-exercise">
+<problem id="fs-id1167065938842">
+<para id="fs-id1167065810165">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ex001"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065898436" class="os-exercise">
+<problem id="fs-id1167066112599">
+<para id="fs-id1167065825740">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ex002"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-id1167065839313" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title>
+<exercise id="fs-id1167065886790" class="os-exercise">
+<problem id="fs-id1167065711975">
+<para id="fs-id1167065918734">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ex003"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169283671217" class="os-exercise">
+<problem id="eip-id1169283750482">
+<para id="eip-id1169283822060">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ot003"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166165867982">
+<problem id="fs-id1166170315342">
+<para id="fs-id1166169352338">All the cells of one organisms share the genome. However, during development, some cells develop into skin cells while others develop into muscle cells. How can the same genetic instructions result in two different cell types in the same organism? Thoroughly explain your answer.</para></problem>
+<!--<solution id="fs-id1166174641470"><label/>
+<para id="fs-id1166169317187">Different genetic programs are turned on or off when cells differentiate into different cell types (e.g. skin cells, muscle cells, etc.)  As a result, cells express genes needed for the tissue in which they are located.</para></solution>-->
+</exercise>
+
+</section><section id="fs-id1167065039459" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167066031790" class="os-exercise">
+<problem id="fs-id1167066020703">
+<para id="fs-id1167065851052">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ex004"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064932352" class="os-exercise">
+<problem id="fs-id1167064979370">
+<para id="fs-id1167065711708">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169282496241" class="os-exercise">
+<problem id="eip-id1169282675153">
+<para id="eip-id1169282675155">
+<link class="os-embed" url="#ost/api/ex/apbio-ch16-ot004"/>
+</para>
+</problem>
+</exercise></section>
+
+ </content>
+<glossary>
+<definition id="fs-id2914141"><term>epigenetic</term> <meaning id="fs-id2643047">heritable changes that do not involve changes in the DNA sequence</meaning>
+</definition>
+<definition id="fs-id1582580">
+<term>gene expression</term> <meaning id="fs-id2270009">processes that control the turning on or turning off of a gene</meaning>
+</definition>
+<definition id="fs-id1421748">
+<term>post-transcriptional</term> <meaning id="fs-id1912193">control of gene expression after the RNA molecule has been created but before it is translated into protein</meaning>
+</definition>
+<definition id="fs-id2198170">
+<term>post-translational</term> <meaning id="fs-id1565919">control of gene expression after a protein has been created</meaning>
+</definition>
+</glossary>
+</document>

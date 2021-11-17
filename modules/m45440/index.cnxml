@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Fermentation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45440</md:content-id>
+  <md:title>Fermentation</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the fundamental difference between anaerobic cellular respiration and fermentation</item>
+<item>Describe the type of fermentation that readily occurs in animal cells and the conditions that initiate that fermentation</item>
+</list></md:abstract>
+  <md:uuid>70e55e56-c0af-403b-bcf9-38407e215f54</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2258414">In aerobic respiration, the final electron acceptor is an oxygen molecule, O<sub>2</sub>. If aerobic respiration occurs, then ATP will be produced using the energy of the high-energy electrons carried by NADH or FADH<sub>2</sub> to the electron transport chain. If aerobic respiration does not occur, NADH must be reoxidized to NAD<sup>+</sup> for reuse as an electron carrier for glycolysis to continue. How is this done? In some living systems the electron transport chain (ETC) use an organic molecule as the final electron acceptor. Processes that use an organic molecule to regenerate NAD<sup>+</sup> from NADH are collectively referred to as <term>fermentation</term>. In contrast, some living systems use an inorganic molecule (other than oxygen) as a final electron acceptor to regenerate NAD<sup>+</sup> which is called anaerobic (do not require oxygen) to achieve NAD<sup>+</sup> regeneration. Both processes allow organisms to convert energy for their use in the absence of oxygen.</para><section id="fs-id1831450">
+<title>Lactic Acid Fermentation</title>
+<para id="fs-id1858245">The fermentation method used by animals and some bacteria like those in yogurt is lactic acid fermentation (<link target-id="fig-ch04_04_01" document=""/>). This occurs routinely in mammalian red blood cells and in skeletal muscle that has insufficient oxygen supply to allow aerobic respiration to continue (that is, in muscles used to the point of fatigue). In muscles, lactic acid produced by fermentation must be removed by the blood circulation and brought to the liver for further metabolism. The chemical reaction of lactic acid fermentation is the following:</para>
+<equation class="unnumbered" id="eip-672"><m:math display="block">
+ <m:mrow>
+  <m:mtext>Pyruvic acid </m:mtext><m:mo>+</m:mo><m:mtext>NADH</m:mtext><m:mrow><m:mo>↔</m:mo></m:mrow><m:mtext>lactic acid</m:mtext><m:mo>+</m:mo><m:msup>
+   <m:mrow>
+    <m:mtext>NAD</m:mtext>
+   </m:mrow>
+   <m:mtext>+</m:mtext>
+  </m:msup>
+
+ </m:mrow>
+</m:math>
+</equation><para id="fs-id1983217">The enzyme that catalyzes this reaction is lactate dehydrogenase. The reaction can proceed in either direction, but the left-to-right reaction is inhibited by acidic conditions. This lactic acid build-up causes muscle stiffness and fatigue. Once the lactic acid has been removed from the muscle and is circulated to the liver, it can be converted back to pyruvic acid and further catabolized for energy.</para>
+<note id="fs-id1858158" class="visual-connection non-majors"><label/><title>Visual Connection</title>
+<figure id="fig-ch04_04_01">
+<media id="fs-id2888339" alt="A graphic shows glucose undergoing glycolysis to become two pyruvate molecules, which then undergo fermentation to become two lactate molecules. During glycolysis, two NAD+ are converted into two high-energy NADH molecules, but during fermentation, these two NADH molecules are reoxidized to become two NAD+ again. NAD+ can then be used in glycolysis.">
+<image mime-type="image/png" src="../../media/Figure_04_04_01-feda.png" width="320"/>
+</media>
+<caption>Lactic acid fermentation is common in muscles that have become exhausted by use.
+</caption>
+</figure>
+<para id="fs-id1799094">Tremetol, a metabolic poison found in white snake root plant, prevents the metabolism of lactate. When cows eat this plant, Tremetol is concentrated in the milk. Humans who consume the milk become ill. Symptoms of this disease, which include vomiting, abdominal pain, and tremors, become worse after exercise. Why do you think this is the case?</para>
+<!-- <para>The illness is caused by lactic acid build-up. Lactic acid levels rise after exercise, making the symptoms worse. Milk sickness is rare today, but was common in the Midwestern United States in the early 1800s.</para> -->
+</note></section>
+<section id="fs-id1387744">
+<title>Alcohol Fermentation</title>
+<para id="fs-id1626790">Another familiar fermentation process is alcohol fermentation (<link target-id="fig-ch04_04_02" document=""/>), which produces ethanol, an alcohol. The alcohol fermentation reaction is the following:</para>
+<figure id="fig-ch04_04_02"><media id="fs-id1870741" alt="Graphic showing the alcohol fermentation reaction in an equation.">
+<image mime-type="image/jpg" src="../../media/Figure_04_04_02-3c21.jpg" width="400"/>
+</media>
+<caption>The reaction resulting in alcohol fermentation is shown.</caption></figure><para id="fs-id2078945">In the first reaction, a carboxyl group is removed from pyruvic acid, releasing carbon dioxide as a gas. The loss of carbon dioxide reduces the molecule by one carbon atom, making acetaldehyde. The second reaction removes an electron from NADH, forming NAD<sup>+</sup> and producing ethanol from the acetaldehyde, which accepts the electron. The fermentation of pyruvic acid by yeast produces the ethanol found in alcoholic beverages (<link target-id="fig-ch04_04_03" document=""/>). If the carbon dioxide produced by the reaction is not vented from the fermentation chamber, for example in beer and sparkling wines, it remains dissolved in the medium until the pressure is released. Ethanol above 12 percent is toxic to yeast, so natural levels of alcohol in wine occur at a maximum of 12 percent.</para>
+<figure id="fig-ch04_04_03"><media id="fs-id2649447" alt="This photo shows large, silver-colored, cylindrical fermentation tanks.">
+<image mime-type="image/jpg" src="../../media/Figure_04_04_03-9e84.jpg" width="300"/>
+</media>
+
+<caption>Fermentation of grape juice to make wine produces CO<sub>2</sub> as a byproduct. Fermentation tanks have valves so that pressure inside the tanks can be released.</caption></figure></section>
+
+<section id="fs-id2655228">
+<title>Anaerobic Cellular Respiration</title>
+<para id="fs-id2146402">Certain prokaryotes, including some species of bacteria and Archaea, use anaerobic respiration. For example, the group of Archaea called methanogens reduces carbon dioxide to methane to oxidize NADH. These microorganisms are found in soil and in the digestive tracts of ruminants, such as cows and sheep. Similarly, sulfate-reducing bacteria and Archaea, most of which are anaerobic (<link target-id="fig-ch04_04_04" document=""/>), reduce sulfate to hydrogen sulfide to regenerate NAD<sup>+</sup> from NADH.</para>
+<figure id="fig-ch04_04_04"><media id="fs-id2867968" alt="This photo shows a bloom of green bacteria in water.">
+<image mime-type="image/jpg" src="../../media/Figure_04_04_04-a8bb.jpg" width="450"/>
+</media>
+
+<caption>The green color seen in these coastal waters is from an eruption of hydrogen sulfide. Anaerobic, sulfate-reducing bacteria release hydrogen sulfide gas as they decompose algae in the water. (credit: NASA image courtesy Jeff Schmaltz, MODIS Land Rapid Response Team at NASA GSFC)</caption></figure><note id="fs-id1454174" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-id2590659">Watch this <link window="new" url="http://openstax.org/l/fermentation2">video</link> to see anaerobic cellular respiration in action.</para></note><para id="fs-id1727810">Other fermentation methods occur in bacteria. Many prokaryotes are facultatively anaerobic. This means that they can switch between aerobic respiration and fermentation, depending on the availability of oxygen. Certain prokaryotes, like <emphasis effect="italics">Clostridia</emphasis> bacteria, are obligate anaerobes. Obligate anaerobes live and grow in the absence of molecular oxygen. Oxygen is a poison to these microorganisms and kills them upon exposure. It should be noted that all forms of fermentation, except lactic acid fermentation, produce gas. The production of particular types of gas is used as an indicator of the fermentation of specific carbohydrates, which plays a role in the laboratory identification of the bacteria. The various methods of fermentation are used by different organisms to ensure an adequate supply of NAD<sup>+</sup> for the sixth step in glycolysis. Without these pathways, that step would not occur, and no ATP would be harvested from the breakdown of glucose.</para>
+</section>
+<section id="fs-id838612" class="summary">
+<title>Section Summary</title><para id="fs-id1977496">If NADH cannot be metabolized through aerobic respiration, another electron acceptor is used. Most organisms will use some form of fermentation to accomplish the regeneration of NAD<sup>+</sup>, ensuring the continuation of glycolysis. The regeneration of NAD<sup>+</sup> in fermentation is not accompanied by ATP production; therefore, the potential for NADH to produce ATP using an electron transport chain is not utilized.</para>
+</section>
+<section id="eip-200" class="visual-exercise">
+<title>Art Connections</title>
+<exercise id="eip-idm120428032">
+<problem id="eip-idm94673104">
+<para id="eip-690"><link target-id="fig-ch04_04_01" document=""/> Tremetol, a metabolic poison found in white snake root plant, prevents the metabolism of lactate. When cows eat this plant, Tremetol is concentrated in the milk. Humans who consume the milk become ill. Symptoms of this disease, which include vomiting, abdominal pain, and tremors, become worse after exercise. Why do you think this is the case?
+</para>
+</problem>
+<solution id="eip-idm62469712">
+<label/>
+<para id="eip-605"><link target-id="fig-ch04_04_01" document=""/> The illness is caused by lactic acid build-up. Lactic acid levels rise after exercise, making the symptoms worse. Milk sickness is rare today, but was common in the Midwestern United States in the early 1800s.
+</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1801841" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2865414">
+<problem id="fs-id2873869">
+<para id="fs-id2054994">Which of the following fermentation methods can occur in animal skeletal muscles?</para>
+<list id="fs-id2583494" list-type="enumerated" number-style="lower-alpha">
+<item>lactic acid fermentation</item>
+<item>alcohol fermentation</item>
+<item>mixed acid fermentation</item>
+<item>propionic fermentation</item>
+</list>
+</problem>
+<solution id="fs-id2720567">
+<label/>
+<para id="fs-id2967088">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2726618" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-id1998716">
+<problem id="fs-id2073016">
+<para id="fs-id2021651">When muscle cells run out of oxygen, what happens to the potential for energy extraction from sugars and what pathways do the cell use?</para>
+</problem>
+<solution id="fs-id1827380">
+<label/> <para id="fs-id1305282">Without oxygen, oxidative phosphorylation and the citric acid cycle stop, so ATP is no longer generated through this mechanism, which extracts the greatest amount of energy from a sugar molecule. In addition, NADH accumulates, preventing glycolysis from going forward because of an absence of NAD<sup>+</sup>. Lactic acid fermentation uses the electrons in NADH to generate lactic acid from pyruvate, which allows glycolysis to continue and thus a smaller amount of ATP can be generated by the cell.</para> </solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1827786">
+<term>anaerobic cellular respiration</term> <meaning id="fs-id1406562">the use of an electron acceptor other than oxygen to complete metabolism using electron transport-based chemiosmosis</meaning>
+</definition>
+<definition id="fs-id1237173">
+<term>fermentation</term> <meaning id="fs-id1404300">the steps that follow the partial oxidation of glucose via glycolysis to regenerate NAD<sup>+</sup>;  occurs in the absence of oxygen  and uses an organic compound as the final electron acceptor</meaning>
+</definition>
+</glossary>
+</document>

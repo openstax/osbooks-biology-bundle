@@ -1,0 +1,495 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Proteins</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62733</md:content-id>
+  <md:title>Proteins</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the functions proteins perform in the cell and in tissues</item>
+<item>Discuss the relationship between amino acids and proteins</item>
+<item>Explain the four levels of protein organization</item>
+<item>Describe the ways in which protein shape and function are linked</item>
+</list></md:abstract>
+  <md:uuid>bf17f4df-605c-4388-88c2-25b0f000b0ed</md:uuid>
+</metadata>
+
+<content>
+
+<section id="fs-id1167066864919" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167063535319">In this section, you will investigate the following questions:</para>
+<list id="fs-id1167066847761">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s04-lo01">What are functions of proteins in cells and tissues?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s04-lo02">What is the relationship between amino acids and proteins?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s04-lo03">What are the four levels of protein organization?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch03-s04-lo04">What is the relationship between protein shape and function? </item>
+</list>
+</section>
+
+
+<section id="fs-id1167067053746" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167066822348">Proteins are long chains of different sequences of the 20 amino acids that each contain an amino group (-NH<sub>2</sub>), a carboxyl group (-COOH), and a variable group. (Think of how many protein “words” can be made with 20 amino acid “letters”). Each amino acid is linked to its neighbor by a peptide bond formed by a dehydration reaction. A long chain of amino acids is known as a polypeptide. Proteins serve many functions in cells. They act as enzymes that catalyze chemical reactions, provide structural support, regulate the passage of substances across the cell membrane, protect against disease, and coordinate cell signaling pathways. Protein structure is organized at four levels: primary, secondary, tertiary, and quaternary. The primary structure is the unique sequence of amino acids. A change in just one amino acid can change protein structure and function. For example, sickle cell anemia results from just one amino acid substitution in a hemoglobin molecule consisting of 574 amino acids. The secondary structure consists of the local folding of the polypeptide by hydrogen bond formation; leading to the α helix and β pleated sheet conformations. In the tertiary structure, various interactions, e.g., hydrogen bonds, ionic bonds, disulfide linkages, and hydrophobic interactions between R groups, contribute to the folding of the polypeptide into different three-dimensional configurations. Most enzymes are of tertiary configuration. If a protein is denatured, loses its three-dimensional shape, it may no longer be functional. Environmental conditions such as temperature and pH can denature proteins. Some proteins, such as hemoglobin, are formed from several polypeptides, and the interactions of these subunits form the quaternary structure of proteins.</para>
+<para id="fs-id1167066792550" class="ost-reading-discard">Information presented and the examples highlighted in the section, support concepts and Learning Objectives outlined in Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven science practices.</para>
+
+
+<table id="fs-id1167066806352" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 4.A.1 The subcomponents of biological molecules and their sequence determine the properties of that molecule. Second left cell reads: Science Practice. Second right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Third left cell reads: Learning Objective. Third right cell reads: 4.1 The student is able to explain the connection between the sequence and the subcomponents of a biological polymer and its properties." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.1</emphasis></span>
+<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1</emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s04-aplo-4-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.1</emphasis></span>
+<span class="ost-standards-description">The student is able to explain the connection between the sequence and the subcomponents of a biological polymer and its properties.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.1</emphasis></span>
+<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.3</emphasis></span>
+<span class="ost-standards-description">The student can refine representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s04-aplo-4-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.2</emphasis></span>
+<span class="ost-standards-description">The student is able to refine representations and models to explain how the subcomponents of a biological polymer and their sequence determine the properties of that polymer.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.1</emphasis></span>
+<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.1</emphasis></span>
+<span class="ost-standards-description">The student can justify claims with evidence.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4</emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s04-aplo-4-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.3</emphasis></span>
+<span class="ost-standards-description">The student is able to use models to predict and justify that changes in the subcomponents of a biological polymer affect the functionality of the molecules.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table></section>
+
+<note id="fs-id1167066956655" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167067068752" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167066848372">Twenty amino acids can be formed into a nearly limitless number of different proteins. The sequence of the amino acids ultimately determines the final configuration of the protein chain, giving the molecule its specific function.</para>
+</note>
+</note>
+
+<note id="fs-id1167066841281" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167066962982">Emphasize that proteins have a variety of functions in the body. Table 3.1 contains some examples of these functions. Note that not all enzymes work under the same conditions. Amylase only works in an alkaline medium, such as in saliva, while pepsin works in the acid environment of the stomach. Discuss other materials that can be carried by protein in body fluids in addition to the substances listed for transport in the text.  Proteins also carry insoluble lipids in the body and transport charged ions, such as calcium, magnesium, and zinc. Discuss another important structural protein, collagen, as it is found throughout the body, including in most connective tissues. Emphasize that not all hormones are proteins and that steroid based hormones were discussed in the previous section.</para>
+<note id="fs-id1167067275956" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167067241503">The amino group of an amino acid loses an electron and becomes positively charged. The carboxyl group easily gains an electron, becoming negatively charged. This results in the amphipathic characteristic of amino acids and gives the compounds solubility in water. The presence of both functional groups also allows dehydration synthesis to join the individual amino acids into a peptide chain.</para>
+</note>
+<note id="fs-id1167066821215" class="ost-misconception">
+<label>Misconception Alert</label>
+<para id="fs-id1167067104735">Protein structure is explained as though it occurs in three to four discrete steps. In reality, the structural changes that result in a functional protein occur on a continuum. As the primary structure is formed off the ribosomes, the polypeptide chain goes through changes until the final configuration is achieved. Have the students imagine a strand of spaghetti as it cooks in a clear pot. Initially, the strand is straight (ignore the stiffness for this example). While it cooks, the strand will bend and twist and (again, for this example), fold itself into a loose ball made up of the strand of pasta. The resulting strand has a particular shape. Ask the students what types of chemical bonds or forces might affect protein structure. These shapes are dictated by the position of amino acids along the strand. Other forces will complete the folding and maintain the structure.</para>
+</note>
+</note>
+
+
+<para id="fs-id1166849692222">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 1.14] [APLO 2.12] [APLO 4.1] [APLO 4.3][APLO 4.15][APLO 4.22]</para><section id="fs-id1167067201735" class="ost-tag-lo-apbio-ch03-s04-lo01 ost-get-exercise">
+<title>Types and Functions of Proteins</title>
+<para id="fs-id1266915"><term>Proteins</term> are one of the most abundant organic molecules in living systems and have the most diverse range of functions of all macromolecules. Proteins may be structural, regulatory, contractile, or protective; they may serve in transport, storage, or membranes; or they may be toxins or enzymes. Each cell in a living system may contain thousands of proteins, each with a unique function. Their structures, like their functions, vary greatly. They are all, however, polymers of amino acids, arranged in a linear sequence.</para>
+<para id="fs-id2862975"><term>Enzymes</term>, which are produced by living cells, are catalysts in biochemical reactions (like digestion) and are usually complex or conjugated proteins. Each enzyme is specific for the substrate (a reactant that binds to an enzyme) it acts on. The enzyme may help in breakdown, rearrangement, or synthesis reactions. Enzymes that break down their substrates are called catabolic enzymes, enzymes that build more complex molecules from their substrates are called anabolic enzymes, and enzymes that affect the rate of reaction are called catalytic enzymes. It should be noted that all enzymes increase the rate of reaction and, therefore, are considered to be organic catalysts. An example of an enzyme is salivary amylase, which hydrolyzes its substrate amylose, a component of starch.</para>
+<para id="fs-id2781285"><term>Hormones</term> are chemical-signaling molecules, usually small proteins or steroids, secreted by endocrine cells that act to control or regulate specific physiological processes, including growth, development, metabolism, and reproduction. For example, insulin is a protein hormone that helps to regulate the blood glucose level. The primary types and functions of proteins are listed in <link target-id="tab-ch03-04-01" document=""/>.</para>
+
+<table id="tab-ch03-04-01" class="ost-tag-lo-apbio-ch03-s04-lo01 top-titled" summary="">
+<tgroup cols="1">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col3" align="left">Protein Types and Functions</entry>
+</row>
+<row>
+<entry>Type</entry><entry>Examples</entry><entry>Functions</entry>
+</row>
+</thead>
+<tbody>
+<row><entry>Digestive Enzymes</entry><entry>Amylase, lipase, pepsin, trypsin</entry><entry>Help in digestion of food by catabolizing nutrients into monomeric units</entry></row>
+<row><entry>Transport</entry><entry>Hemoglobin, albumin</entry><entry>Carry substances in the blood or lymph throughout the body</entry></row>
+<row><entry>Structural</entry><entry>Actin, tubulin, keratin</entry><entry>Construct different structures, like the cytoskeleton</entry></row>
+<row><entry>Hormones</entry><entry>Insulin, thyroxine</entry><entry>Coordinate the activity of different body systems</entry></row>
+<row><entry>Defense</entry><entry>Immunoglobulins</entry><entry>Protect the body from foreign pathogens</entry></row>
+<row><entry>Contractile</entry><entry>Actin, myosin</entry><entry>Effect muscle contraction</entry></row>
+<row><entry>Storage</entry><entry>Legume storage proteins, egg white (albumin)</entry><entry>Provide nourishment in early development of the embryo and the seedling</entry></row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id2051317">Proteins have different shapes and molecular weights; some proteins are globular in shape whereas others are fibrous in nature. For example, hemoglobin is a globular protein, but collagen, found in our skin, is a fibrous protein. Protein shape is critical to its function, and this shape is maintained by many different types of chemical bonds. Changes in temperature, pH, and exposure to chemicals may lead to permanent changes in the shape of the protein, leading to loss of function, known as <term>denaturation</term>. All proteins are made up of different arrangements of the most common 20 types of amino acids.</para></section>
+
+<section id="fs-id1167063563269" class="ost-tag-lo-apbio-ch03-s04-lo02 ost-get-exercise">
+<title>Amino Acids</title>
+<para id="fs-id1344438"><term>Amino acids</term> are the monomers that make up proteins. Each amino acid has the same fundamental structure, which consists of a central carbon atom, also known as the alpha (<emphasis effect="italics">α</emphasis>) carbon, bonded to an amino group (NH<sub>2</sub>), a carboxyl group (COOH), and to a hydrogen atom. Every amino acid also has another atom or group of atoms bonded to the central atom known as the R group (<link target-id="fs-id1167066853548" document=""/>).</para><figure id="fs-id1167066853548" class="ost-tag-lo-apbio-ch03-s04-lo02 ost-tag-lo-apbio-ch03-s04-aplo-4-1">
+<media id="fs-id1694813" alt="The molecular structure of an amino acid is given. An amino acid has an alpha carbon to which an amino group, a carboxyl group, a hydrogen, and a side chain are attached. The side chain varies for different amino acids, and is designated with an “R.”">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_01-09b7.jpg" width="320"/>
+</media>
+<caption>Amino acids have a central asymmetric carbon to which an amino group, a carboxyl group, a hydrogen atom, and a side chain (R group) are attached.</caption></figure>
+<para id="fs-id2941991">The name "amino acid" is derived from the fact that they contain both amino group and carboxyl-acid-group in their basic structure. As mentioned, there are 20 common amino acids present in proteins. Nine of these are considered essential amino acids in humans because the human body cannot produce them and they are obtained from the diet. For each amino acid, the R group (or side chain) is different (<link target-id="fs-id1167063806326" document=""/>).</para><note id="fs-id2098380" class="visual-connection ost-assessed-feature"><label>Visual Connections</label><para id="fs-id2051550">
+<figure id="fs-id1167063806326" class="ost-tag-lo-apbio-ch03-s04-lo02"><media id="fs-id1645231" alt="The molecular structures of the twenty amino acids commonly found in proteins are given. These are divided into five categories: nonpolar aliphatic, polar uncharged, positively charged, negatively charged, and aromatic. Nonpolar aliphatic amino acids include glycine, alanine, valine, leucine, methionine, isoleucine, and proline. Polar uncharged amino acids include serine, threonine, cysteine, asparagine, and glutamine. Positively charged amino acids include lysine, arginine, and histidine. Negatively charged amino acids include aspartate and glutamate. Aromatic amino acids include phenylalanine, tyrosine, and tryptophan.  For example, in the amino acid glycine, the R group is a single hydrogen; but in alanine the R group is upper C upper H subscript 3 baseline.">
+<image mime-type="image/png" src="../../media/Figure_03_04_02-fd30.jpg" width="500"/>
+</media>
+<caption>There are typically 20 common amino acids commonly found in proteins, each with a different R group (variant group) that determines its chemical nature.</caption></figure></para>
+
+<exercise id="fs-id1167066992379" class="os-exercise unnumbered ost-tag-lo-apbio-ch03-s04-lo01 ost-tag-lo-apbio-ch03-s04-lo02"><label/>
+<problem id="fs-id1167067088179">
+<para id="fs-id1167066782972">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex051"/>
+</para>
+</problem>
+</exercise>
+
+
+
+</note><para id="fs-id1953709">The chemical nature of the side chain determines the nature of the amino acid (that is, whether it is acidic, basic, polar, or nonpolar). For example, the amino acid glycine has a hydrogen atom as the R group. Amino acids such as valine, methionine, and alanine are nonpolar or hydrophobic in nature, while amino acids such as serine, threonine, and cysteine are polar and have hydrophilic side chains. The side chains of lysine and arginine are positively charged, and therefore these amino acids are also known as basic amino acids. Proline has an R group that is linked to the amino group, forming a ring-like structure. Proline is an exception to the standard structure of an animo acid since its amino group is not separate from the side chain (<link target-id="fs-id1167063806326" document=""/>).</para><para id="fs-id1506615">Amino acids are represented by a single upper case letter or a three-letter abbreviation. For example, valine is known by the letter V or the three-letter symbol val. Just as some fatty acids are essential to a diet, some amino acids are necessary as well. They are known as essential amino acids, and in humans they include isoleucine, leucine, and cysteine. Essential amino acids refer to those necessary for construction of proteins in the body, although not produced by the body; which amino acids are essential varies from organism to organism.</para>
+<para id="fs-id2235262">The sequence and the number of amino acids ultimately determine the protein's shape, size, and function. Each amino acid is attached to another amino acid by a covalent bond, known as a <term>peptide bond</term>, which is formed by a dehydration reaction. The carboxyl group of one amino acid and the amino group of the incoming amino acid combine, releasing a molecule of water. The resulting bond is the peptide bond (<link target-id="fs-id1167067204884" document=""/>).</para><figure id="fs-id1167067204884" class="ost-tag-lo-apbio-ch03-s04-lo02 ost-tag-lo-apbio-ch03-s04-aplo-4-1">
+<media id="fs-id2626112" alt="The formation of a peptide bond between two amino acids is shown. When the peptide bond forms, the carbon from the carbonyl group becomes attached to the nitrogen from the amino group. The OH from the carboxyl group and an H from the amino group form a molecule of water.">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_03.jpg" width="320"/>
+</media>
+<caption>Peptide bond formation is a dehydration synthesis reaction. The carboxyl group of one amino acid is linked to the amino group of the incoming amino acid. In the process, a molecule of water is released.</caption></figure>
+<para id="fs-id1415197">The products formed by such linkages are called peptides. As more amino acids join to this growing chain, the resulting chain is known as a polypeptide. Each polypeptide has a free amino group at one end. This end is called the N terminal, or the amino terminal, and the other end has a free carboxyl group, also known as the C or carboxyl terminal. While the terms polypeptide and protein are sometimes used interchangeably, a polypeptide is technically a polymer of amino acids, whereas the term protein is used for a polypeptide or polypeptides that have combined together, often have bound non-peptide prosthetic groups, have a distinct shape, and have a unique function. After protein synthesis (translation), most proteins are modified. These are known as post-translational modifications. They may undergo cleavage or phosphorylation, or may require the addition of other chemical groups. Only after these modifications is the protein completely functional.</para><note id="fs-id1281011" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch03-s04-lo02"><label>Link to Learning</label>
+<para id="fs-id2115867">Click through the steps of protein synthesis in this <link window="new" url="http://openstax.org/l/protein_synth">interactive tutorial</link>.</para>
+<exercise id="fs-id1167066880173" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066992599">
+<para id="fs-id1167067031963">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex052"/>
+</para>
+</problem>
+</exercise>
+
+</note>
+
+
+<note id="fs-id1432930" class="evolution ost-assessed-feature"><title>The Evolutionary Significance of Cytochrome c</title><para id="fs-id2270232">Cytochrome c is an important component of the electron transport chain, a part of cellular respiration, and it is normally found in the cellular organelle, the mitochondrion. This protein has a heme prosthetic group, and the central ion of the heme gets alternately reduced and oxidized during electron transfer. Because this essential protein’s role in producing cellular energy is crucial, it has changed very little over millions of years. Protein sequencing has shown that there is a considerable amount of cytochrome c amino acid sequence homology among different species; in other words, evolutionary kinship can be assessed by measuring the similarities or differences among various species’ DNA or protein sequences.</para>
+<para id="fs-id2216741">Scientists have determined that human cytochrome c contains 104 amino acids. For each cytochrome c molecule from different organisms that has been sequenced to date, 37 of these amino acids appear in the same position in all samples of cytochrome c. This indicates that there may have been a common ancestor. On comparing the human and chimpanzee protein sequences, no sequence difference was found. When human and rhesus monkey sequences were compared, the single difference found was in one amino acid. In another comparison, human to yeast sequencing shows a difference in the 44th position.</para>
+
+<exercise id="fs-id1167063496584" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066835430">
+<para id="fs-id1167067084796">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex053"/>
+</para>
+</problem>
+</exercise>
+
+</note></section>
+
+
+<section id="fs-id1167067209959" class="ost-tag-lo-apbio-ch03-s04-lo03 ost-get-exercise">
+<title>Protein Structure</title>
+<para id="fs-id2198400">As discussed earlier, the shape of a protein is critical to its function. For example, an enzyme can bind to a specific substrate at a site known as the active site. If this active site is altered because of local changes or changes in overall protein structure, the enzyme may be unable to bind to the substrate. To understand how the protein gets its final shape or conformation, we need to understand the four levels of protein structure: primary, secondary, tertiary, and quaternary.</para>
+<section id="fs-id1423194" class="ost-get-exercise">
+<title>Primary Structure</title>
+<para id="fs-id1277293">The unique sequence of amino acids in a polypeptide chain is its <term>primary structure</term>. For example, the pancreatic hormone insulin has two polypeptide chains, A and B, and they are linked together by disulfide bonds. The N terminal amino acid of the A chain is glycine, whereas the C terminal amino acid is asparagine (<link target-id="fs-id1167066945263" document=""/>). The sequences of amino acids in the A and B chains are unique to insulin.</para><figure id="fs-id1167066945263" class="ost-tag-lo-apbio-ch03-s04-lo03 ost-tag-lo-apbio-ch03-s04-aplo-4-1"><media id="fs-id1778097" alt="The amino acid sequences for the A chain and B chain of bovine insulin are shown. The A chain is 21 amino acids in length, and the B chain is 30 amino acids in length. One disulfide, or SS bond, connects two cysteine residues in the A chain. Two other disulfide linkages connect the A chain to the B chain.">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_04.jpg" width="450"/>
+</media>
+<caption>Bovine serum insulin is a protein hormone made of two peptide chains, A (21 amino acids long) and B (30 amino acids long). In each chain, primary structure is indicated by three-letter abbreviations that represent the names of the amino acids in the order they are present. The amino acid cysteine (cys) has a sulfhydryl (SH) group as a side chain. Two sulfhydryl groups can react in the presence of oxygen to form a disulfide (S-S) bond. Two disulfide bonds connect the A and B chains together, and a third helps the A chain fold into the correct shape. Note that all disulfide bonds are the same length, but are drawn different sizes for clarity.</caption></figure><para id="fs-id1352111">The unique sequence for every protein is ultimately determined by the gene encoding the protein. A change in nucleotide sequence of the gene’s coding region may lead to a different amino acid being added to the growing polypeptide chain, causing a change in protein structure and function. In sickle cell anemia, the hemoglobin <emphasis effect="italics">β</emphasis> chain (a small portion of which is shown in <link target-id="fs-id1167066850186" document=""/>) has a single amino acid substitution, causing a change in protein structure and function. Specifically, the amino acid glutamic acid is substituted by valine in the <emphasis effect="italics">β</emphasis> chain. What is most remarkable to consider is that a hemoglobin molecule is made up of two alpha chains and two beta chains that each consist of about 150 amino acids. The molecule, therefore, has about 600 amino acids. The structural difference between a normal hemoglobin molecule and a sickle cell molecule—which dramatically decreases life expectancy—is a single amino acid of the 600. What is even more remarkable is that those 600 amino acids are encoded by three nucleotides each, and the mutation is caused by a single base change (point mutation), 1 in 1800 bases.</para><figure id="fs-id1167066850186" class="ost-tag-lo-apbio-ch03-s04-lo03 ost-tag-lo-apbio-ch03-s04-aplo-4-2"><media id="fs-id1671790" alt="A portion of the hemoglobin amino acid sequence is shown. The normal hemoglobin beta chain has a glutamate at position six. The sickle cell beta chain has a valine at this position.">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_05.jpg" width="350"/>
+</media>
+<caption>The beta chain of hemoglobin is 147 residues in length, yet a single amino acid substitution leads to sickle cell anemia. In normal hemoglobin, the amino acid at position seven is glutamate. In sickle cell hemoglobin, this glutamate is replaced by a valine.</caption></figure><para id="fs-id1465861">Because of this change of one amino acid in the chain, hemoglobin molecules form long fibers that distort the biconcave, or disc-shaped, red blood cells and cause them to assume a crescent or “sickle” shape, which clogs blood vessels (<link target-id="fs-id1167066793685" document=""/>). This can lead to myriad serious health problems such as breathlessness, dizziness, headaches, and abdominal pain for those affected by this disease.</para><figure id="fs-id1167066793685" class="ost-tag-lo-apbio-ch03-s04-aplo-4-2"><media id="fs-id1235886" alt="This electron micrograph shows red blood cells from a patient with sickle cell anemia. Most of the cells have a normal, disk shape, but about one in five has a sickle shape. A normal blood cell is eight microns across.">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_06.jpg" width="320"/>
+</media>
+<caption>In this blood smear, visualized at 535x magnification using bright field microscopy, sickle cells are crescent shaped, while normal cells are disc-shaped. (credit: modification of work by Ed Uthman; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-id1442926" class="ost-get-exercise">
+<title>Secondary Structure</title>
+<para id="fs-id2154549">The local folding of the polypeptide in some regions gives rise to the <term>secondary structure</term> of the protein. The most common are the <term><emphasis effect="italics">α</emphasis>-helix</term> and <term><emphasis effect="italics">β</emphasis>-pleated sheet</term> structures (<link target-id="fs-id1167067179620" document=""/>). Both structures are held together by hydrogen bonds. In the <emphasis effect="italics">α</emphasis>-helix structure, the hydrogen bonds form between the oxygen atom in the carbonyl group in one amino acid and another amino acid that is four amino acids farther along the chain.</para><figure id="fs-id1167067179620" class="ost-tag-lo-apbio-ch03-s04-lo03 ost-tag-lo-apbio-ch03-s04-aplo-4-1"><media id="fs-id2990796" alt="The illustration shows an alpha helix protein structure, which coils like a spring, and a beta-pleated sheet structure, which forms flat sheets stacked together. In an alpha-helix, hydrogen bonding occurs between the carbonyl group of one amino acid and the amino group of the amino acid that occurs four residues later. In a beta-pleated sheet, hydrogen bonding occurs between two different lengths of peptide that are antiparallel to one another.">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_07.jpg" width="400"/>
+</media>
+<caption>The <emphasis effect="italics">α</emphasis>-helix and <emphasis effect="italics">β</emphasis>-pleated sheet are secondary structures of proteins that form because of hydrogen bonding between carbonyl and amino groups in the peptide backbone. Certain amino acids have a propensity to form an <emphasis effect="italics">α</emphasis>-helix, while others have a propensity to form a <emphasis effect="italics">β</emphasis>-pleated sheet.</caption></figure><para id="fs-id2626332">Every helical turn in an alpha helix has 3.6 amino acid residues. The R groups (the variant groups) of the polypeptide protrude out from the <emphasis effect="italics">α</emphasis>-helix chain. In the <emphasis effect="italics">β</emphasis>-pleated sheet, the “pleats” are formed by hydrogen bonding between atoms on the backbone of the polypeptide chain. The R groups are attached to the carbons and extend above and below the folds of the pleat. The pleated segments align parallel or antiparallel to each other, and hydrogen bonds form between the partially positive hydrogen atom in the amino group and the partially negative oxygen atom in the carbonyl group of the peptide backbone. The <emphasis effect="italics">α</emphasis>-helix and <emphasis effect="italics">β</emphasis>-pleated sheet structures are found in most globular and fibrous proteins and they play an important structural role.</para>
+</section>
+<section id="fs-id1998990" class="ost-get-exercise">
+<title>Tertiary Structure</title>
+<para id="fs-id1785802">The unique three-dimensional structure of a polypeptide is its <term>tertiary structure</term> (<link target-id="fs-id1167067006971" document=""/>). This structure is in part due to chemical interactions at work on the polypeptide chain. Primarily, the interactions among R groups creates the complex three-dimensional tertiary structure of a protein. The nature of the R groups found in the amino acids involved can counteract the formation of the hydrogen bonds described for standard secondary structures. For example, R groups with like charges are repelled by each other and those with unlike charges are attracted to each other (ionic bonds). When protein folding takes place, the hydrophobic R groups of nonpolar amino acids lie in the interior of the protein, whereas the hydrophilic R groups lie on the outside. The former types of interactions are also known as hydrophobic interactions. Interaction between cysteine side chains forms disulfide linkages in the presence of oxygen, the only covalent bond forming during protein folding.</para><figure id="fs-id1167067006971" class="ost-tag-lo-apbio-ch03-s04-lo03 ost-tag-lo-apbio-ch03-s04-aplo-4-1"><media id="fs-id2336596" alt="This illustration shows a polypeptide backbone folded into a three-dimensional structure. Chemical interactions between amino acid side chains maintain its shape. These include an ionic bond between an amino group and a carboxyl group, hydrophobic interactions between two hydrophobic side chains, a hydrogen bond between a hydroxyl group and a carbonyl group, and a disulfide linkage.">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_08.jpg" width="500"/>
+</media>
+<caption>The tertiary structure of proteins is determined by a variety of chemical interactions. These include hydrophobic interactions, ionic bonding, hydrogen bonding and disulfide linkages.</caption></figure><para id="fs-id2075112">All of these interactions, weak and strong, determine the final three-dimensional shape of the protein. When a protein loses its three-dimensional shape, it may no longer be functional.</para>
+</section>
+<section id="fs-id1836952" class="ost-get-exercise">
+<title>Quaternary Structure</title>
+<para id="fs-id2229589">In nature, some proteins are formed from several polypeptides, also known as subunits, and the interaction of these subunits forms the <term>quaternary structure</term>. Weak interactions between the subunits help to stabilize the overall structure. For example, insulin (a globular protein) has a combination of hydrogen bonds and disulfide bonds that cause it to be mostly clumped into a ball shape. Insulin starts out as a single polypeptide and loses some internal sequences in the presence of post-translational modification after the formation of the disulfide linkages that hold the remaining chains together. Silk (a fibrous protein), however, has a <emphasis effect="italics">β</emphasis>-pleated sheet structure that is the result of hydrogen bonding between different chains.</para>
+<para id="fs-id1560822">The four levels of protein structure (primary, secondary, tertiary, and quaternary) are illustrated in <link target-id="fs-id1167066867282" document=""/>.</para><figure id="fs-id1167066867282" class="ost-tag-lo-apbio-ch03-s04-lo03 ost-tag-lo-apbio-ch03-s04-aplo-4-1"><media id="fs-id2054513" alt="Shown are the four levels of protein structure. The primary structure is the amino acid sequence. Secondary structure is a regular folding pattern due to hydrogen bonding. Two types of secondary structure are shown: a beta pleated sheet, which is flat with regular ripples, and an alpha helix, which coils like a spring. Tertiary structure is the three-dimensional folding pattern of the protein due to interactions between amino acid side chains. Quaternary structure is the interaction of two or more polypeptide chains.">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_09.jpg" width="450"/>
+</media>
+<caption>The four levels of protein structure can be observed in these illustrations. (credit: modification of work by National Human Genome Research Institute)</caption></figure></section>
+</section>
+<section id="fs-id1167067199744" class="ost-tag-lo-apbio-ch03-s04-lo04 ost-get-exercise">
+<title>Denaturation and Protein Folding</title>
+<para id="fs-id2216009">Each protein has its own unique sequence and shape that are held together by chemical interactions. If the protein is subject to changes in temperature, changes in pH, or exposure to chemicals, the protein structure may change, losing its shape without losing its primary sequence in what is known as denaturation. Denaturation is often reversible because the primary structure of the polypeptide is conserved in the process if the denaturing agent is removed, allowing the protein to resume its function. Sometimes denaturation is irreversible, leading to loss of function. One example of irreversible protein denaturation is when an egg is fried. The albumin protein in the liquid egg white is denatured when placed in a hot pan. Not all proteins are denatured at high temperatures; for instance, bacteria that survive in hot springs have proteins that function at temperatures close to boiling. The stomach is also very acidic, has a low pH, and denatures proteins as part of the digestion process; however, the digestive enzymes of the stomach retain their activity under these conditions.</para><para id="fs-id1958698">Protein folding is critical to its function. It was originally thought that the proteins themselves were responsible for the folding process. Only recently was it found that often they receive assistance in the folding process from protein helpers known as <term>chaperones</term> (or chaperonins) that associate with the target protein during the folding process. They act by preventing aggregation of polypeptides that make up the complete protein structure, and they disassociate from the protein once the target protein is folded.</para>
+<note id="fs-id2862911" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch03-s04-lo01 ost-tag-lo-apbio-ch03-s04-lo02 ost-tag-lo-apbio-ch03-s04-lo03 ost-tag-lo-apbio-ch03-s04-lo04"><label>Link to Learning</label>
+<para id="fs-id1957585">For an additional perspective on proteins, view <link window="new" url="http://openstax.org/l/proteins">this animation</link> called “Biomolecules: The Proteins.”</para>
+<exercise id="fs-id1167066800290" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067082733">
+<para id="fs-id1167066952750">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex054"/>
+</para>
+</problem>
+</exercise>
+</note>
+</section>
+
+
+<note id="fs-id1167067032106" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch03-s04-aplo-4-1 ost-tag-lo-apbio-ch03-s04-aplo-4-2 ost-tag-lo-apbio-ch03-s04-aplo-4-3">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167066826319" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<list id="fs-id1167066958470">
+<item>Predict what happens if even one amino acid is substituted for another in a polypeptide and provide a specific example.</item>
+<item>What categories of amino acids would you expect to find on the surface of a soluble protein, and which would you expect to find in the interior? What distribution of amino acids would you expect to find in a protein embedded in a lipid bilayer of a plasma cell membrane?</item>
+</list></note>
+
+<note id="fs-id1167066983368" class="ost-assignable ost-sciprac-activity ost-tag-lo-apbio-ch03-s04-aplo-2-12">
+<para id="fs-id1167066874145">Folding is an important property of proteins, especially enzymes. Proteins have a narrow range of conditions in which they fold properly; outside that range, proteins can unfold (denature) and often cannot refold and become functional again. Investigate one disease that results from improper folding of a protein. Describe causes of the unfolding and consequences to the molecular structure of the polypeptide that result in the disease.</para>
+</note>
+
+<note id="fs-id1167066875120" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067147980">The first Think About It  question is an application of Learning Objective 4.3 and Science Practices 6.1 and 6.4 because students are predicting how a change in the subcomponents of a molecule can affect the properties of the molecule.</para>
+<para id="fs-id1167066846842">The second Think About It  question is an application of Learning Objective 4.2 and Science Practice 1.3 because students are using representations of molecules along with a model of the cell membrane to describe how the molecular structure of amino acids determines their location with a protein or other structure such as the phospholipid bilayer.</para>
+<para id="fs-id1167063514661">The activity is an application of Learning Objective 4.1 and Science Practice 7.1, Learning Objective 4.2 and Science Practice 1.3, and Learning Objective 4.3 and Science Practices 6.1 and 6.4 because students are asked to explain how environmental factors can alter the molecular structure of a protein and how this change can result in a change in function, i.e., disease.
+</para>
+</note></note>
+
+<section id="fs-id1428624" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id2335363">Proteins are a class of macromolecules that perform a diverse range of functions for the cell. They help in metabolism by providing structural support and by acting as enzymes, carriers, or hormones. The building blocks of proteins (monomers) are amino acids. Each amino acid has a central carbon that is linked to an amino group, a carboxyl group, a hydrogen atom, and an R group or side chain. There are 20 commonly occurring amino acids, each of which differs in the R group. Each amino acid is linked to its neighbors by a peptide bond. A long chain of amino acids is known as a polypeptide.</para>
+<para id="fs-id2199492">Proteins are organized at four levels: primary, secondary, tertiary, and (optional) quaternary. The primary structure is the unique sequence of amino acids. The local folding of the polypeptide to form structures such as the <emphasis effect="italics">α</emphasis> helix and <emphasis effect="italics">β</emphasis>-pleated sheet constitutes the secondary structure. The overall three-dimensional structure is the tertiary structure. When two or more polypeptides combine to form the complete protein structure, the configuration is known as the quaternary structure of a protein. Protein shape and function are intricately linked; any change in shape caused by changes in temperature or pH may lead to protein denaturation and a loss in function.</para>
+</section>
+
+
+<section id="fs-id1167067077316" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167067066861" class="os-exercise">
+<problem id="fs-id1167066794080">
+<para id="fs-id1167066868785">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex055"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063541115" class="os-exercise">
+<problem id="fs-id1167066830351">
+<para id="fs-id1167067104029">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex056"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166174627487">
+<problem id="fs-id1166174627489">
+<para id="fs-id1166172874345">What type of amino acids would you expect to find on the surface of proteins that must interact closely with water?</para>
+</problem>
+<!--<solution id="fs-id1166174624770">
+<para id="fs-id1166174253575">Amino acids that contain acidic, basic, or polar side groups are most likely to be found on the surface of water-soluble proteins. Proteins with these charged ide groups can interact more readily with water than if the protein had a neutral net charge.</para>
+</solution>-->
+</exercise>
+<exercise id="fs-id1167066858962" class="os-exercise">
+<problem id="fs-id1167066828835">
+<para id="fs-id1167067077951">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex057"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067007973" class="os-exercise">
+<problem id="fs-id1167066994345">
+<para id="fs-id1167067259070">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex058"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067188970" class="os-exercise">
+<problem id="fs-id1167067041218">
+<para id="fs-id1167067154442">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex059"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067070066" class="os-exercise">
+<problem id="fs-id1167067209052">
+<para id="fs-id1167066779972">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex060"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067209943" class="os-exercise">
+<problem id="fs-id1167066767793">
+<para id="fs-id1167066839088">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex061"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067300312" class="os-exercise">
+<problem id="fs-id1167066992435">
+<para id="fs-id1167067247907">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex062"/>
+</para>
+</problem>
+</exercise>
+
+
+
+
+</section><section id="fs-id1167066953285" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167067151130" class="os-exercise">
+<problem id="fs-id1167067147858">
+<para id="fs-id1167066860385">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex063"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066782882" class="os-exercise">
+<problem id="fs-id1167066773805">
+<para id="fs-id1167066766530">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex064"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066885564" class="os-exercise">
+<problem id="fs-id1167067252967">
+<para id="fs-id1167067067743">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex065"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067015207" class="os-exercise">
+<problem id="fs-id1167067252419">
+<para id="fs-id1167067066052">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex066"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+
+<section id="fs-id1167063589747" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167066851567" class="os-exercise">
+<problem id="fs-id1167066847579">
+<para id="fs-id1167066973856">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex084"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066972839" class="os-exercise">
+<problem id="fs-id1167066946742">
+<para id="fs-id1167063790742">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex085"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067193571" class="os-exercise">
+<problem id="fs-id1167063651939">
+<para id="fs-id1167066840514">
+<link class="os-embed" url="#ost/api/ex/apbio-ch03-ex087"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-id1166174341563" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1166170504943">
+<problem id="fs-id1166170504945">
+<para id="fs-id1166174688106">Proteins are polymers whose sub-components are amino acids connected by peptide bonds. The carboxylic acid carbon, O = C  OH, of one amino acid can form a bond with the amine, NH<sub>2</sub>, of another amino acid. In the formation of this peptide bond, the amine replaces the OH to form O = C  NH<sub>2</sub>. The other product of this reaction is water, H<sub>2</sub>O.</para>
+<figure id="fs-id1166174594100">
+<media id="fs-id1166174594102" alt="The figure shows Asparagine and threonine molecules forming a peptide bond to become threonine-asparagine dipepetide and water. Asparagine is made up of four C atoms are arranged in a straight line.  Each C is connected to the next C by a single line.  In addition to these bonds, the first C is connected to H2N by a single line and to an O by a double line. The second C is connected the two H atoms by single lines. The third C is connected an H atom by a single line, and an N that is connected by a single line to two H atoms. The fourth C is connected to an O by double line, and an OH molecule by a single line. Threonine is made up of three C atoms bonded together by single lines. From left to right, the first C is also connected by single lines to CH3, OH, and H. The second C is connected by a single line to H and a single line to NH2. The third C is connected by a single line to OH and a double line to O. There is a circle around one of the H atoms connected to the N in the Asparagine molecule and the OH connected to the third C in the Threonine molecule. A rightward pointing row is labelled Peptide bond formation by hydrolysis. Threonine-asparagine dipeptide shows that the N in Asparagine connected to the third C in Threonine. After the Threonine-asparagine dipeptide molecule, there is a plus sign followed by a water molecule. ">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_03_04_01_01_img.jpg"/>
+</media>
+<caption/>
+</figure>
+<para id="fs-id1166172599824">Amino acids can be synthesized in the laboratory from simpler molecules of ammonia (NH<sub>3</sub>), water (H<sub>2</sub>O), methane (CH<sub>4</sub>), and hydrogen (H<sub>2</sub>) if energy is provided by processes that simulate lightning strikes or volcanic eruptions (Miller, <emphasis effect="italics">Science</emphasis>, 117, 1953; Johnson et al., <emphasis effect="italics">Science</emphasis>, 322, 2008).</para>
+<para id="fs-id1166174772147">A. The synthesis of amino acids in solutions under laboratory conditions consistent with early Earth was a step toward an explanation of how life began. <emphasis>Pose a question</emphasis> that should have been asked but was not until 2014 (Parker et al., <emphasis effect="italics">Angewandte Chemie</emphasis>, 53, 2014), when these solutions that had been stored in a refrigerator were analyzed.</para>
+<para id="fs-id1166174682915">The diversity and complexity of life begins in the variety of sequences of the 20 common amino acids.</para>
+<para id="fs-id1166174627185">B. Apply mathematical reasoning to <emphasis>explain</emphasis> the source of biocomplexity by calculating the possible variations in a polymer composed of just three amino acids.</para>
+<para id="fs-id1166174662060">Polarity in a bond between atoms occurs when electrons are distributed unequally. Polarity in a molecule also is caused by charge asymmetry. Life on Earth has evolved within a framework of water, H<sub>2</sub>O, one of the most polar molecules. The polarities of the amino acids that compose a protein determine the properties of the polymer.</para>
+<para id="fs-id1166174595070">The electric polarity of an amino acid in an aqueous solution depends on the pH of the solution. Here are three forms of the general structure of an amino acid.</para>
+<figure id="fs-id1166170392985">
+<media id="fs-id1166170392987" alt="The figure shows three successive amino acids. The amino acid on the right shows a H atom bound to a C atom bound to an N H 2 compound. The carbon atom is bound to another C atom that is bounded with two lines to an O atom and bounded to an O minus. The amino acid in the center  shows a H atom bound to a C atom bound to an N H 2 compound. The C atom is bound to another C atom that is bounded with two lines to an O atom and bounded to a O H. The amino acid on the right shows a H atom bound to a C atom bound to an N H 3 plus compound. The C atom is bound to another C atom that is bounded with two lines to an O atom and bounded to a O H molecule.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_03_04_01_02_img.jpg"/>
+</media>
+<caption/>
+</figure>
+<para id="fs-id1166174602662">C. Qualitatively <emphasis>predict</emphasis> the relationship between solution pH and the form of the amino acid for three solutions of pH: pH &lt; 7, pH = 7, and pH &gt; 7.</para>
+<figure id="fs-id1166174277154">
+<media id="fs-id1166174277156" alt="The figure shows three molecules. The first molecule is labeled Thre o nine hyphen aspara gine and shows an H O atom  attached with a single line  to 3 successive C atoms. The first C atom is attached to a C H 3 atom and an H atom. The second C atom is attached to another C atom and attached to an H atom and a N H 2 atom. The third C atom is attached an O H 2 N atom with two lines, and an O H O atom with one line.  The O H 2 N atom is attached to a C atom with one line and the O H O atom is attached to the same C with two lines. The C atom is attached to three more successive C atoms with one line. The first C atom is attached to two H atoms with one line. The next C atom is attached to an H atom with one line and a N H 2 atom with one line. The last C atom is attached to an O atom with 2 lines and an O H atom with one line. The second molecule is labeled Serine hyphen aspara gine and the molecular structure is as follows. An H O molecule is attached with single lines to three successive C atoms. The first C atom is attached to two H atoms with single lines, the second C atom is attached to an H atom and a N H 2 atom with single lines. The third C atom is attached to an O H H 2 N atom with single lines and a O O atom with double lines. The O O atom is attached to a C molecule with double lines and the O H H 2 N atom is attached to the same C atom with a single line.  The C atom is attached to three more C atoms with single lines. The first C atom has 2 H molecules attached with single lines, the second C atom has an H atom and a N H 2 atom attached with single lines and the third C atom  is attached to an O atom with 2 lines and an O H atom with one line.  The third molecule is labeled Serine hyphen thre o nine and the molecular structure is as follows.  An H O molecule is attached with single lines to three successive C atoms. The first C atom is attached to two H atoms with single lines, the second C atom is attached to an H atom and a N H 2 atom with single lines. The third C atom is attached to an O H O molecule with two lines and an O H molecule with one line. The O H O molecule is attached to three successive C molecules. The first C molecule is attached to a C H 3 atom and an H atom with single lines, the second C atom is attached to an H atom and a N H 2 molecule with single lines and the last C molecule is attached to an O atom with double lines and an O H molecule with single line.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_03_04_01_03_img.jpg"/>
+</media>
+<caption/>
+</figure>
+<para id="fs-id1166165881124">The properties of proteins are determined by interactions among the amino acids in the peptide-bonded chain. The protein subcomponents, especially amino R (variable) groups, can interact with very strong charge-charge forces, with attractive forces between groups of atoms with opposite polarities and with repulsive forces between groups of atoms with the same or no polarity. Attractive polar forces often arise between molecules through interactions between oxygen and hydrogen atoms or between nitrogen and hydrogen atoms.</para>
+<para id="fs-id1166169382177">D. Consider particular orientations of pairs of three different amino acids. <emphasis>Predict</emphasis> the relative strength of attractive interaction of all pairs; rank them and provide your reasoning.</para>
+<para id="fs-id1166170361751">In an amino acid, the atoms attached to the α carbon are called the R group.</para>
+<figure id="fs-id1166172576780">
+<media id="fs-id1166172576782" alt="A molecule is shown and the structure is as follows. An R atom is bound to a red C atom with a single line. The C atom is bound by a single line to an H atom an N atom bound by 2 single lines to individual H atoms and another C atom. The C atom is attached to an O atom with double lines and an O H atom with a single lines. There is an arrow from the center red C atom to an alpha carbon label. ">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_03_04_01_04_img.jpg"/>
+</media>
+<caption/>
+</figure>
+<para id="fs-id1166166258465">Interactions between R groups of a polypeptide give three-dimensional structure to the one-dimensional, linear sequence of amino acids in a polypeptide.</para>
+<para id="fs-id1166174221610">E. <emphasis>Construct an explanation</emphasis> for the effect of R-group interactions on the properties of a polymer with drawings showing molecular orientations with stronger and weaker polar forces between R groups on asparagine and threonine and between asparagine and alanine.</para>
+<figure id="fs-id1166170606901">
+<media id="fs-id1166172801085" alt="Three molecules are shown. The first molecule is labeled Aspara gine and shows an H 2 N molecule connected to a C atom with a single line and an O atom attached to the same C atom with a double line. The C atom is connected to three successive C atoms. The first C atom is attached to 2 H atoms with single lines, the second C atom is attached to an H atom with single line and an N atom with single line attached to 2 H atoms with single lines. The last C atom is attached to an O atom with double lines and an O H atom with single line. The second molecule is labeled Ala nine and shows a C H 3 molecule bound by a single line to a C molecule. The C molecule is bound to an H molecule with a single line, a C molecule bound with a double line to an O atom and an O H molecule bound by a single line. The first C atom is bound by a single  line to an N atom with single line attached to 2 H atoms with single lines.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_03_04_01_05_img.jpg"/>
+</media>
+<caption/>
+</figure>
+</problem>
+</exercise>
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-id1465106"><term>alpha-helix structure (<emphasis effect="italics">α</emphasis>-helix)</term> <meaning id="fs-id1455216">type of secondary structure of proteins formed by folding of the polypeptide into a helix shape with hydrogen bonds stabilizing the structure</meaning></definition>
+<definition id="fs-id1434153"><term>amino acid</term> <meaning id="fs-id1415722">monomer of a protein; has a central carbon or alpha carbon to which an amino group, a carboxyl group, a hydrogen, and an R group or side chain is attached; the R group is different for the most common 20 amino acids</meaning></definition>
+<definition id="fs-id3010327"><term>beta-pleated sheet (<emphasis effect="italics">β</emphasis>-pleated)</term> <meaning id="fs-id2308468">secondary structure found in proteins in which “pleats” are formed by hydrogen bonding between atoms on the backbone of the polypeptide chain</meaning></definition>
+<definition id="fs-id2317789"><term>chaperone</term> <meaning id="fs-id2750235">(also, chaperonin) protein that helps nascent protein in the folding process</meaning></definition>
+<definition id="fs-id2862923"><term>denaturation</term> <meaning id="fs-id2217094">loss of shape in a protein as a result of changes in temperature, pH, or exposure to chemicals</meaning></definition>
+<definition id="fs-id2681803"><term>enzyme</term> <meaning id="fs-id1506111">catalyst in a biochemical reaction that is usually a complex or conjugated protein</meaning></definition>
+<definition id="fs-id988625"><term>hormone</term> <meaning id="fs-id2655261">chemical signaling molecule, usually protein or steroid, secreted by endocrine cells that act to control or regulate specific physiological processes</meaning></definition>
+<definition id="fs-id1552657"><term>peptide bond</term> <meaning id="fs-id2336899">bond formed between two amino acids by a dehydration reaction</meaning></definition>
+<definition id="fs-id1474143"><term>polypeptide</term> <meaning id="fs-id2008474">long chain of amino acids linked by peptide bonds</meaning></definition>
+<definition id="fs-id2334362"><term>primary structure</term> <meaning id="fs-id2075482">linear sequence of amino acids in a protein</meaning></definition>
+<definition id="fs-id2024278"><term>protein</term> <meaning id="fs-id1015417">biological macromolecule composed of one or more chains of amino acids</meaning></definition>
+<definition id="fs-id782653"><term>quaternary structure</term> <meaning id="fs-id1797681">association of discrete polypeptide subunits in a protein</meaning></definition>
+<definition id="fs-id2025552"><term>secondary structure</term> <meaning id="fs-id2573466">regular structure formed by proteins by intramolecular hydrogen bonding between the oxygen atom of one amino acid residue and the hydrogen attached to the nitrogen atom of another amino acid residue</meaning></definition>
+<definition id="fs-id1300064"><term>tertiary structure</term> <meaning id="fs-id1409004">three-dimensional conformation of a protein, including interactions between secondary structural elements; formed from interactions between amino acid side chains</meaning></definition>
+</glossary>
+</document>

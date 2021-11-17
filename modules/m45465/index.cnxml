@@ -1,0 +1,125 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Sexual Reproduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45465</md:content-id>
+  <md:title>Sexual Reproduction</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain that variation among offspring is a potential evolutionary advantage resulting from sexual reproduction</item>
+<item>Describe the three different life-cycle strategies among sexual multicellular organisms and their commonalities</item>
+</list></md:abstract>
+  <md:uuid>a8e52d1d-7358-4a30-9fc6-093eb1636b94</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp87673904">Sexual reproduction was an early evolutionary innovation after the appearance of eukaryotic cells. The fact that most eukaryotes reproduce sexually is evidence of its evolutionary success. In many animals, it is the only mode of reproduction. And yet, scientists recognize some real disadvantages to sexual reproduction. On the surface, offspring that are genetically identical to the parent may appear to be more advantageous. If the parent organism is successfully occupying a habitat, offspring with the same traits would be similarly successful. There is also the obvious benefit to an organism that can produce offspring by asexual budding, fragmentation, or asexual eggs. These methods of reproduction do not require another organism of the opposite sex. There is no need to expend energy finding or attracting a mate. That energy can be spent on producing more offspring. Indeed, some organisms that lead a solitary lifestyle have retained the ability to reproduce asexually. In addition, asexual populations only have female individuals, so every individual is capable of reproduction. In contrast, the males in sexual populations (half the population) are not producing offspring themselves. Because of this, an asexual population can grow twice as fast as a sexual population in theory. This means that in competition, the asexual population would have the advantage. All of these advantages to asexual reproduction, which are also disadvantages to sexual reproduction, should mean that the number of species with asexual reproduction should be more common.</para>
+<para id="fs-idm57108544">However, multicellular organisms that exclusively depend on asexual reproduction are exceedingly rare. Why is sexual reproduction so common? This is one of the important questions in biology and has been the focus of much research from the latter half of the twentieth century until now. A likely explanation is that the variation that sexual reproduction creates among offspring is very important to the survival and reproduction of those offspring. The only source of variation in asexual organisms is mutation. This is the ultimate source of variation in sexual organisms. In addition, those different mutations are continually reshuffled from one generation to the next when different parents combine their unique genomes, and the genes are mixed into different combinations by the process of <term>meiosis</term>. Meiosis is the division of the contents of the nucleus that divides the chromosomes among gametes. Variation is introduced during meiosis, as well as when the gametes combine in fertilization.</para>
+<note id="fs-idm42813584" class="evolution non-majors"><label/><title>Evolution in Action</title>
+
+<para id="fs-idp13361936"><title>The Red Queen Hypothesis</title>There is no question that sexual reproduction provides evolutionary advantages to organisms that employ this mechanism to produce offspring. The problematic question is why, even in the face of fairly stable conditions, sexual reproduction persists when it is more difficult and produces fewer offspring for individual organisms? Variation is the outcome of sexual reproduction, but why are ongoing variations necessary? Enter the Red Queen hypothesis, first proposed by Leigh Van Valen in 1973.<footnote id="fs-idp43045856">Leigh Van Valen, “A new evolutionary law,” Evolutionary Theory 1 (1973): 1–30.</footnote> The concept was named in reference to the Red Queen's race in Lewis Carroll's book, <emphasis effect="italics">Through the Looking-Glass,</emphasis> in which the Red Queen says one must run at full speed just to stay where one is.</para>
+<para id="fs-idp441040">All species coevolve with other organisms. For example, predators coevolve with their prey, and parasites coevolve with their hosts. A remarkable example of coevolution between predators and their prey is the unique coadaptation of night flying bats and their moth prey. Bats find their prey by emitting high-pitched clicks, but moths have evolved simple ears to hear these clicks so they can avoid the bats. The moths have also adapted behaviors, such as flying away from the bat when they first hear it, or dropping suddenly to the ground when the bat is upon them. Bats have evolved “quiet” clicks in an attempt to evade the moth’s hearing. Some moths have evolved the ability to respond to the bats’ clicks with their own clicks as a strategy to confuse the bats echolocation abilities.</para>
+<para id="fs-idm44928368">Each tiny advantage gained by favorable variation gives a species an edge over close competitors, predators, parasites, or even prey. The only method that will allow a coevolving species to keep its own share of the resources is also to continually improve its ability to survive and produce offspring. As one species gains an advantage, other species must also develop an advantage or they will be outcompeted. No single species progresses too far ahead because genetic variation among progeny of sexual reproduction provides all species with a mechanism to produce adapted individuals. Species whose individuals cannot keep up become extinct. The Red Queen’s catchphrase was, “It takes all the running you can do to stay in the same place.” This is an apt description of coevolution between competing species.</para>
+</note><section id="fs-idp82772960">
+<title>Life Cycles of Sexually Reproducing Organisms</title>
+<para id="fs-idm55323392">Fertilization and meiosis alternate in sexual <term>life cycles</term>. What happens between these two events depends on the organism. The process of meiosis reduces the resulting gamete’s chromosome number by half. Fertilization, the joining of two haploid gametes, restores the diploid condition. There are three main categories of life cycles in multicellular organisms: <term>diploid-dominant</term>, in which the multicellular diploid stage is the most obvious life stage (and there is no multicellular haploid stage), as with most animals including humans; <term>haploid-dominant</term>, in which the multicellular haploid stage is the most obvious life stage (and there is no multicellular diploid stage), as with all fungi and some algae; and <term>alternation of generations</term>, in which the two stages, haploid and diploid, are apparent to one degree or another depending on the group, as with plants and some algae.</para>
+<para id="fs-idm28972592">Nearly all animals employ a diploid-dominant life-cycle strategy in which the only haploid cells produced by the organism are the gametes. The gametes are produced from diploid <term>germ cells</term>, a special cell line that only produces gametes. Once the haploid gametes are formed, they lose the ability to divide again. There is no multicellular haploid life stage. Fertilization occurs with the fusion of two gametes, usually from different individuals, restoring the diploid state (<link target-id="fig-ch07_01_01" document=""/><emphasis effect="bold">a</emphasis>).</para>
+<note id="fs-idp170659056" class="visual-connection non-majors"><label/><title>Visual Connection</title>
+<figure id="fig-ch07_01_01" class="  "><media id="eip-idm25692064" alt="Part a shows the life cycle of animals. Through meiosis, adult males produce haploid (1n) sperm, and adult females produce haploid eggs. Upon fertilization, a diploid (2n) zygote forms, which grows into an adult through mitosis and cell division. Part b shows the life cycle of fungi. In fungi, the diploid (2n) zygospore undergoes meiosis to form haploid (1n) spores. Mitosis of the spores occurs to form hyphae. Hyphae can undergo asexual reproduction to form more spores, or they form plus and minus mating types that undergo nuclear fusion to form a zygospore. Part c shows the life cycle of fern plants. The diploid (2n) zygote undergoes mitosis to produce the sphorophyte, which is the familiar, leafy plant. Sporangia form on the underside of the leaves of the sphorophyte. Sporangia undergo meiosis to form haploid (1n) spores. The spores germinate and undergo mitosis to form a multicellular, leafy gametophyte. The gametophyte produces eggs and sperm. Upon fertilization, the egg and sperm form a diploid zygote.">
+<image mime-type="image/png" src="../../media/Figure_07_01_01abc.png" width="350"/>
+</media>
+
+<caption>(a) In animals, sexually reproducing adults form haploid gametes from diploid germ cells. (b) Fungi, such as black bread mold (<emphasis effect="italics">Rhizopus nigricans</emphasis>), have haploid-dominant life cycles. (c) Plants have a life cycle that alternates between a multicellular haploid organism and a multicellular diploid organism. (credit c “fern”: modification of work by Cory Zanker; credit c “gametophyte”: modification of work by “Vlmastra”/Wikimedia Commons)</caption></figure><para id="eip-idm58328944">If a mutation occurs so that a fungus is no longer able to produce a minus mating type, will it still be able to reproduce?</para></note><para id="fs-idm28789152">Most fungi and algae employ a life-cycle strategy in which the multicellular “body” of the organism is haploid. During sexual reproduction, specialized haploid cells from two individuals join to form a diploid zygote. The zygote immediately undergoes meiosis to form four haploid cells called spores (<link target-id="fig-ch07_01_01" document=""/><emphasis effect="bold">b</emphasis>).</para><para id="fs-idp64711040">The third life-cycle type, employed by some algae and all plants, is called alternation of generations. These species have both haploid and diploid multicellular organisms as part of their life cycle. The haploid multicellular plants are called <term>gametophytes</term> because they produce gametes. Meiosis is not involved in the production of gametes in this case, as the organism that produces gametes is already haploid. Fertilization between the gametes forms a diploid zygote. The zygote will undergo many rounds of mitosis and give rise to a diploid multicellular plant called a <term>sporophyte</term>. Specialized cells of the sporophyte will undergo meiosis and produce haploid spores. The spores will develop into the gametophytes (<link target-id="fig-ch07_01_01" document=""/><emphasis effect="bold">c</emphasis>).</para></section>
+<section id="fs-idm40381664" class="summary">
+<title>Section Summary</title><para id="fs-idm9040912">Nearly all eukaryotes undergo sexual reproduction. The variation introduced into the reproductive cells by meiosis appears to be one of the advantages of sexual reproduction that has made it so successful. Meiosis and fertilization alternate in sexual life cycles. The process of meiosis produces genetically unique reproductive cells called gametes, which have half the number of chromosomes as the parent cell. Fertilization, the fusion of haploid gametes from two individuals, restores the diploid condition. Thus, sexually reproducing organisms alternate between haploid and diploid stages. However, the ways in which reproductive cells are produced and the timing between meiosis and fertilization vary greatly. There are three main categories of life cycles: diploid-dominant, demonstrated by most animals; haploid-dominant, demonstrated by all fungi and some algae; and alternation of generations, demonstrated by plants and some algae.</para>
+</section>
+<section id="fs-idm3989792" class="visual-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm26267456">
+<problem id="fs-idm49993376">
+<para id="fs-idm48282912"><link target-id="fig-ch07_01_01" document=""/> If a mutation occurs so that a fungus is no longer able to produce a minus mating type, will it still be able to reproduce?</para></problem>
+<solution id="fs-idp86230208">
+<para id="fs-idm84045408"><link target-id="fig-ch07_01_01" document=""/> Yes, it will be able to reproduce asexually.</para></solution>
+</exercise>
+</section>
+<section id="fs-idm48463440" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idp54018352">
+<problem id="fs-idm13165504"><para id="fs-idm45306816">What is a likely evolutionary advantage of sexual reproduction over asexual reproduction?</para>
+<list id="fs-idm50382256" list-type="enumerated" number-style="lower-alpha">
+<item>sexual reproduction involves fewer steps</item>
+<item>less chance of using up the resources in a given environment</item>
+<item>sexual reproduction results in greater variation in the offspring</item>
+<item>sexual reproduction is more cost-effective</item>
+</list>
+</problem>
+<solution id="fs-idm18283120">
+<label/>
+<para id="fs-idm40844512">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp483200">
+<problem id="fs-idm14042864">
+<para id="fs-idm54620960">Which type of life cycle has both a haploid and diploid multicellular stage?</para>
+<list id="fs-idm12733232" list-type="enumerated" number-style="lower-alpha">
+<item>an asexual life cycle</item>
+<item>diploid-dominant</item>
+<item>haploid-dominant</item>
+<item>alternation of generations</item>
+</list>
+</problem>
+<solution id="fs-idm19824048">
+<label/>
+<para id="fs-idp91260768">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp101266624">
+<problem id="fs-idp193858368">
+<para id="fs-idp81873808">Which event leads to a diploid cell in a life cycle?</para>
+<list id="fs-idm4691936" list-type="enumerated" number-style="lower-alpha">
+<item>meiosis</item>
+<item>fertilization</item>
+<item>alternation of generations</item>
+<item>mutation</item>
+</list>
+</problem>
+<solution id="fs-idp92810672">
+<label/>
+<para id="fs-idp218652544">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp18652544" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idm61443600">
+<problem id="fs-idp61684448">
+<para id="fs-idm61068816">Explain the advantage that populations of sexually reproducing organisms have over asexually reproducing organisms?</para>
+</problem>
+<solution id="fs-idm68437296">
+<label/>
+<para id="fs-idm12955280">The offspring of sexually reproducing organisms are all genetically unique. Because of this, sexually reproducing organisms may have more successful survival of offspring in environments that change than asexually reproducing organisms, whose offspring are all genetically identical. In addition, the rate of adaptation of sexually reproducing organisms is higher, because of their increased variation. This may allow sexually reproducing organisms to adapt more quickly to competitors and parasites, who are evolving new ways to exploit or outcompete them.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp2922368">
+<problem id="fs-idp28075024">
+<para id="fs-idp33604128">Describe the two events that are common to all sexually reproducing organisms and how they fit into the different life cycles of those organisms.</para>
+</problem>
+<solution id="fs-idp219372352">
+<label/>
+<para id="fs-idp99808592">The two events common to all sexually reproducing organisms are meiosis and fertilization. Meiosis reduces a diploid cell to a haploid state. The haploid cell may divide mitotically to produce an organism, some of whose cells will combine during fertilization, or the haploid cells produced by meiosis may immediately combine in fertilization to produce a diploid cell that divides to produce an organism.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp18252224"><term>alternation of generations</term> <meaning id="fs-idm41024368">a life-cycle type in which the diploid and haploid stages alternate</meaning></definition>
+<definition id="fs-idp42029808"><term>diploid-dominant</term> <meaning id="fs-idm9067536">a life-cycle type in which the multicellular diploid stage is prevalent</meaning></definition>
+<definition id="fs-idp18468944"><term>haploid-dominant</term> <meaning id="fs-idm10538928">a life-cycle type in which the multicellular haploid stage is prevalent</meaning></definition>
+<definition id="fs-idm42149472"><term>gametophyte</term> <meaning id="fs-idp48901392">a multicellular haploid life-cycle stage that produces gametes</meaning></definition>
+<definition id="fs-idm123897040"><term>germ cell</term> <meaning id="fs-idm3094256">a specialized cell that produces gametes, such as eggs or sperm</meaning></definition>
+<definition id="fs-idp16718432"><term>life cycle</term> <meaning id="fs-idm23178944">the sequence of events in the development of an organism and the production of cells that produce offspring</meaning></definition>
+<definition id="fs-idm74464096"><term>meiosis</term> <meaning id="fs-idm123891248">a nuclear division process that results in four haploid cells</meaning></definition>
+<definition id="fs-idm9763568"><term>sporophyte</term> <meaning id="fs-idp49834912">a multicellular diploid life-cycle stage that produces spores</meaning></definition>
+</glossary>
+
+</document>

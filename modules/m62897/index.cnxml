@@ -1,0 +1,356 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Beneficial Prokaryotes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62897</md:content-id>
+  <md:title>Beneficial Prokaryotes</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the need for nitrogen fixation and how it is accomplished</item>
+<item>Identify foods in which prokaryotes are used in the processing</item>
+<item>Describe the use of prokaryotes in bioremediation</item>
+<item>Describe the beneficial effects of bacteria that colonize our skin and digestive tracts</item>
+</list></md:abstract>
+  <md:uuid>6bdfbf66-6118-46d1-a979-6c3bcbc0a4e5</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065820240" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167066146766">In this section, you will explore the following questions:</para>
+<list id="fs-id1167064899658">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch22-s05-lo01">What is the need for nitrogen fixation and how is it accomplished?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch22-s05-lo02">What are examples of foods for which prokaryotes are used in processing?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch22-s05-lo03">What is bioremediation and how do prokaryotes play a role in this process?</item>
+</list>
+</section>
+<section id="fs-id1167062954893" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167065940922">We commonly think of pathogens when we think of prokaryotes, focusing on their relationship with disease. However, most prokaryotes do not cause disease and they play a wide range of other roles in ecosystems. Nitrogen needed to synthesize proteins and nucleic acids is often the most limiting element in ecosystems and bacteria are able to “fix” nitrogen into forms that can be used by eukaryotes. Microbes also are used to remove pollutants from environments, a process called <emphasis>bioremediation</emphasis>. Microbes that call us home are necessary for our survival. They help us digest our food, produce crucial nutrients, protect us from pathogenic microbes, and help train our immune system to function correctly. In addition, without prokaryotes we wouldn’t have cheese, bread, wine, beer, and yogurt.</para>
+<note id="fs-id1167065852861" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167064648396" class="ost-tips-teaching">
+<label>Teaching Tips</label>
+<para id="fs-id1167064951120">Emphasize for students that although the best-known prokaryotes tend to be those that cause illness in humans, these pathogens represent only a small fraction of prokaryotic species. Many others have positive interactions with humans, and some play important roles in agriculture and industry. As students work through the chapter material, invite them to identify at least two ways prokaryotes have affected them in the day. You may wish to invite small groups to research additional roles of prokaryotes in the food industry, bioremediation, and the production of vitamins, antibiotics, hormones, and other products. Create a running list of positive effects and beneficial impacts of prokaryotes on human lives, and post it in the classroom for everyone’s reference.</para>
+</note>
+</note>
+<para id="fs-id1167066141308" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167065891120" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads:4.B.2 Interactions among prokaryotes and between prokaryotes and other organisms lead to increased efficiency and utilization of energy and matter. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Learning Objective. Third right cell reads: 4.18 The student is able to use representations and models to analyze how cooperative interactions within organisms promote efficiency in the use of energy and matter." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.B</emphasis></entry>
+<entry class="ost-standards-description">Competition and cooperation are important aspects of biological systems.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-ost-tag-lo-apbio-4-b-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.B.2 </emphasis></span>
+<span class="ost-standards-description">Interactions among prokaryotes and between prokaryotes and other organisms lead to increased efficiency and utilization of energy and matter.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-18">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.18 </emphasis></span>
+<span class="ost-standards-description">The student is able to use representations and models to analyze how cooperative interactions within organisms promote efficiency in the use of energy and matter.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-id1166849929170">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.6][APLO 2.28][APLO 2.42][APLO 4.9][APLO 4.1]</para></section>
+<para id="fs-idp52463728">Not all prokaryotes are pathogenic. On the contrary, pathogens represent only a very small percentage of the diversity of the microbial world. In fact, our life would not be possible without prokaryotes. Just think about the role of prokaryotes in biogeochemical cycles.</para>
+<section id="fs-idp44612112" class="ost-tag-lo-apbio-ch22-s05-lo01 ost-tag-lo-apbio-ch22-s05-aplo-4-18 ost-get-exercise">
+<title>Cooperation between Bacteria and Eukaryotes: Nitrogen Fixation</title>
+<para id="fs-idp77772624">Nitrogen is a very important element to living things, because it is part of nucleotides and amino acids that are the building blocks of nucleic acids and proteins, respectively. Nitrogen is usually the most limiting element in terrestrial ecosystems, with atmospheric nitrogen, N<sub>2</sub>, providing the largest pool of available nitrogen. However, eukaryotes cannot use atmospheric, gaseous nitrogen to synthesize macromolecules. Fortunately, nitrogen can be “fixed,” meaning it is converted into ammonia (NH<sub>3</sub>) either biologically or abiotically. Abiotic nitrogen fixation occurs as a result of lightning or by industrial processes.</para>
+<para id="fs-idp136134416"><emphasis>Biological nitrogen fixation</emphasis> (BNF) is exclusively carried out by prokaryotes: soil bacteria, cyanobacteria, and <emphasis effect="italics">Frankia</emphasis> spp. (filamentous bacteria interacting with actinorhizal plants such as alder, bayberry, and sweet fern). After photosynthesis, BNF is the second most important biological process on Earth. The equation representing the process is as follows</para>
+<equation id="eip-324">
+<m:math display="block">
+<m:mrow>
+<m:msub>
+<m:mtext>N</m:mtext>
+<m:mn>2</m:mn>
+</m:msub>
+<m:msup>
+<m:mrow>
+<m:mtext> + 16ATP + 8e</m:mtext>
+</m:mrow>
+<m:mo>−</m:mo>
+</m:msup>
+<m:msup>
+<m:mrow>
+<m:mtext> + 8H</m:mtext>
+</m:mrow>
+<m:mo>+</m:mo>
+</m:msup>
+<m:mtext> </m:mtext><m:mo stretchy="false">→</m:mo><m:msub>
+<m:mrow>
+<m:mtext> 2NH</m:mtext>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:msub>
+<m:msub>
+<m:mrow>
+<m:mtext> + 16ADP + 16Pi + H</m:mtext>
+</m:mrow>
+<m:mn>2</m:mn>
+</m:msub>
+
+</m:mrow>
+</m:math></equation><para id="fs-idp28467808">where Pi stands for inorganic phosphate. The total fixed nitrogen through BNF is about 100 to 180 million metric tons per year. Biological processes contribute 65 percent of the nitrogen used in agriculture.</para>
+<para id="fs-idp165163504">Cyanobacteria are the most important nitrogen fixers in aquatic environments. In soil, members of the genus <emphasis effect="italics">Clostridium</emphasis> are examples of free-living, nitrogen-fixing bacteria. Other bacteria live symbiotically with legume plants, providing the most important source of BNF. Symbionts may fix more nitrogen in soils than free-living organisms by a factor of 10. Soil bacteria, collectively called rhizobia, are able to symbiotically interact with legumes to form <emphasis>nodules</emphasis>, specialized structures where nitrogen fixation occurs (<link target-id="fig-ch22_05_01" document=""/>). Nitrogenase, the enzyme that fixes nitrogen, is inactivated by oxygen, so the nodule provides an oxygen-free area for nitrogen fixation to take place. This process provides a natural and inexpensive plant fertilizer, as it reduces atmospheric nitrogen to ammonia, which is easily usable by plants. The use of legumes is an excellent alternative to chemical fertilization and is of special interest to sustainable agriculture, which seeks to minimize the use of chemicals and conserve natural resources. Through symbiotic nitrogen fixation, the plant benefits from using an endless source of nitrogen: the atmosphere. Bacteria benefit from using photosynthates (carbohydrates produced during photosynthesis) from the plant and having a protected niche. Additionally, the soil benefits from being naturally fertilized. Therefore, the use of rhizobia as biofertilizers is a sustainable practice.</para><para id="fs-idm61079952">Why are legumes so important? Some, like soybeans, are key sources of agricultural protein. Some of the most important grain legumes are soybean, peanuts, peas, chickpeas, and beans. Other legumes, such as alfalfa, are used to feed cattle.</para>
+<figure id="fig-ch22_05_01" class="ost-tag-lo-apbio-ch22-s05-lo01 ost-tag-lo-apbio-ch22-s05-aplo-4-18">
+<media id="fs-idp116011328" alt="This photo shows a legume root, which is thin and yellow with nodules sticking out of it.">
+<image mime-type="image/jpg" src="../../media/Figure_22_05_01.jpg" width="320"/>
+</media>
+
+<caption>Soybean (<emphasis effect="italics">Glycine max</emphasis>) is a legume that interacts symbiotically with the soil bacterium <emphasis effect="italics">Bradyrhizobium japonicum</emphasis> to form specialized structures on the roots called nodules where nitrogen fixation occurs. (credit: USDA)</caption></figure></section>
+<section id="fs-idm40592" class="ost-tag-lo-apbio-ch22-s05-lo02 ost-get-exercise">
+<title>Early Biotechnology: Cheese, Bread, and Yogurt</title>
+<para id="fs-idm38795664">According to the United Nations Convention on Biological Diversity, <emphasis>biotechnology</emphasis> is “any technological application that uses biological systems, living organisms, or derivatives thereof, to make or modify products or processes for specific use."<footnote id="fs-idm36724880">http://www.cbd.int/convention/articles/?a=cbd-02, United Nations Convention on Biological Diversity: Article 2: Use of Terms.</footnote> The concept of “specific use” involves some sort of commercial application. Genetic engineering, artificial selection, antibiotic production, and cell culture are current topics of study in biotechnology. However, humans have used prokaryotes before the term biotechnology was even coined. In addition, some of the goods and services are as simple as cheese, bread, and yogurt, which employ both bacteria and other microbes, such as yeast, a fungus.</para>
+<para id="fs-idp122636224">Cheese production began around 4,000–7,000 years ago when humans began to breed animals and process their milk. Fermentation in this case preserves nutrients: Milk will spoil relatively quickly, but when processed as cheese, it is more stable Evidence suggests that cultured milk products, like yogurt, have existed for at least 4,000 years.</para>
+</section>
+<section id="fs-idp44601808" class="ost-tag-lo-apbio-ch22-s05-lo03 ost-get-exercise">
+<title>Using Prokaryotes to Clean up Our Planet: Bioremediation</title>
+<para id="fs-idm36174032">Microbial <emphasis>bioremediation</emphasis> is the use of prokaryotes (or microbial metabolism) to remove pollutants. Bioremediation has been used to remove agricultural chemicals (pesticides, fertilizers) that leach from soil into groundwater and the subsurface. Certain toxic metals and oxides, such as selenium and arsenic compounds, can also be removed from water by bioremediation. The reduction of SeO<sub>4</sub><sup>-2</sup> to SeO<sub>3</sub><sup>-2</sup> and to Se<sup>0</sup> (metallic selenium) is a method used to remove selenium ions from water. Mercury is an example of a toxic metal that can be removed from an environment by bioremediation. As an active ingredient of some pesticides, mercury is used in industry and is also a by-product of certain processes, such as battery production. Methyl mercury is usually present in very low concentrations in natural environments, but it is highly toxic because it accumulates in living tissues. Several species of bacteria can carry out the biotransformation of toxic mercury into nontoxic forms. These bacteria, such as <emphasis effect="italics">Pseudomonas aeruginosa</emphasis>, can convert Hg<sup>+2</sup> into Hg<sup>0</sup>, which is nontoxic to humans.</para>
+<para id="fs-idp21794192">One of the most useful and interesting examples of the use of prokaryotes for bioremediation purposes is the cleanup of oil spills. The importance of prokaryotes to petroleum bioremediation has been demonstrated in several oil spills in recent years, such as the Exxon Valdez spill in Alaska (1989) (<link target-id="fig-ch22_05_03" document=""/>), the Prestige oil spill in Spain (2002), the spill into the Mediterranean from a Lebanon power plant (2006), and more recently, the Deepwater Horizon oil spill in the Gulf of Mexico (2010). To clean up these spills, bioremediation is promoted by the addition of inorganic nutrients that help bacteria to grow. Hydrocarbon-degrading bacteria feed on hydrocarbons in the oil droplet, breaking down the hydrocarbons. Some species, such as <emphasis effect="italics">Alcanivorax borkumensis</emphasis>, produce surfactants that solubilize the oil, whereas other bacteria degrade the oil into carbon dioxide. In the case of oil spills in the ocean, ongoing, natural bioremediation tends to occur, inasmuch as there are oil-consuming bacteria in the ocean prior to the spill. In addition to naturally occurring oil-degrading bacteria, humans select and engineer bacteria that possess the same capability with increased efficacy and spectrum of hydrocarbon compounds that can be processed. Under ideal conditions, it has been reported that up to 80 percent of the nonvolatile components in oil can be degraded within one year of the spill. Other oil fractions containing aromatic and highly branched hydrocarbon chains are more difficult to remove and remain in the environment for longer periods of time.</para>
+<figure id="fig-ch22_05_03" class="ost-tag-lo-apbio-ch22-s05-lo03"><media id="eip-idm153800176" alt="Part a: This photo shows two men in yellow raingear hosing off oil-drenched rocks on a sea-shore. Part b: This photo shows an oil-drenched bird sitting in oily water.">
+<image mime-type="image/jpg" src="../../media/Figure_22_05_03ab.jpg" width="475"/>
+</media>
+
+<caption>(a) Cleaning up oil after the Valdez spill in Alaska, workers hosed oil from beaches and then used a floating boom to corral the oil, which was finally skimmed from the water surface. Some species of bacteria are able to solubilize and degrade the oil. (b) One of the most catastrophic consequences of oil spills is the damage to fauna. (credit a: modification of work by NOAA; credit b: modification of work by GOLUBENKOV, NGO: Saving Taman)</caption></figure>
+<note id="fs-id1167064733944" class="ap-everyday ost-tag-lo-apbio-ch22-s05-lo04 ost-tag-lo-apbio-ch22-s05-aplo-4-18 ost-assessed-feature">
+<label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<para id="fs-id1167066195863">A particularly fascinating example of our normal flora relates to our digestive systems. People who take high doses of antibiotics tend to lose many of their normal gut bacteria, allowing a naturally antibiotic-resistant species called <emphasis effect="italics">Clostridium difficile</emphasis> to overgrow and cause severe gastric problems, especially chronic diarrhea. Obviously, trying to treat this problem with antibiotics only makes it worse. However, it has been successfully treated by giving the patients fecal transplants from healthy donors to reestablish the normal intestinal microbial community. Scientists are also discovering that the absence of certain key microbes from our intestinal tract may set us up for a variety of problems including obesity, insulin resistance, and autoimmune disorders. Pictured here is a scanning electron micrograph of <emphasis effect="italics">Clostridium difficile</emphasis>, a Gram-positive, rod-shaped bacterium that causes severe diarrhea. Infection commonly occurs after the normal gut fauna is eradicated by antibiotics.</para>
+<figure id="fs-id1167062352544"><media id="fs-id1167062509486" alt="Micrograph shows small clusters of white rod-shaped bacteria against a dark background.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_22_05_CDiff.jpg" width="325"/> 
+</media>
+<caption>(credit: modification of work by CDC, HHS; scale-bar data from Matt Russell)</caption>
+</figure>
+<exercise id="fs-id1167065887682" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065079468">
+<para id="fs-id1167064900357">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex015"/>
+</para>
+</problem>
+</exercise>
+</note>
+<note id="fs-id1167065802919" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065735860" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch22-s05-aplo-4-18">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167066103182" class="unnumbered"><label/>
+<problem id="fs-id1167062462680"><para id="fs-id1167065893812">One of your classmates claims that prokaryotes are always detrimental and pathogenic. How would you explain to him that his claim is incorrect?</para></problem></exercise>
+</note>
+<note id="fs-id1167064907722" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065742635">Prokaryotes are involved in many processes advantageous to humans, such as the production of nutrients, the fermentation of cheese and yogurt, and the removal of pollution from the environment. This question is an application of AP<sup>®</sup> Learning Objective 4.18 and Science Practice 1.4 because students are explaining how cooperative interactions between bacteria and other organisms can be beneficial.</para>
+</note>
+</note>
+</section>
+<section id="fs-idm50524608" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp41902176">Pathogens are only a small percentage of all prokaryotes. In fact, our life would not be possible without prokaryotes. Nitrogen is usually the most limiting element in terrestrial ecosystems; atmospheric nitrogen, the largest pool of available nitrogen, is unavailable to eukaryotes. Nitrogen can be “fixed,” or converted into ammonia (NH<sub>3</sub>) either biologically or abiotically. Biological nitrogen fixation (BNF) is exclusively carried out by prokaryotes. After photosynthesis, BNF is the second most important biological process on Earth. The most important source of BNF is the symbiotic interaction between soil bacteria and legume plants.</para><para id="fs-idp77106592">Microbial bioremediation is the use of microbial metabolism to remove pollutants. Bioremediation has been used to remove agricultural chemicals that leach from soil into groundwater and the subsurface. Toxic metals and oxides, such as selenium and arsenic compounds, can also be removed by bioremediation. Probably one of the most useful and interesting examples of the use of prokaryotes for bioremediation purposes is the cleanup of oil spills.</para>
+<para id="fs-idp115930096">Human life is only possible due to the action of microbes, both those in the environment and those species that call us home. Internally, they help us digest our food, produce crucial nutrients for us, protect us from pathogenic microbes, and help train our immune systems to function correctly.</para>
+</section>
+<!--<section id="fs-idp87598080" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm24905408">
+<problem id="fs-idp35059200">
+<para id="fs-idp39021392">Which of these occurs through symbiotic nitrogen fixation?</para>
+<list id="fs-idp121807024" list-type="enumerated" number-style="lower-alpha">
+<item>The plant benefits from using an endless source of nitrogen.</item>
+<item>The soil benefits from being naturally fertilized.</item>
+<item>Bacteria benefit from using photosynthates from the plant.</item>
+<item>All of the above occur.</item>
+</list>
+</problem>
+<solution id="fs-idm81630912">
+<label/>
+<para id="fs-idm47844656">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm103620528">
+<problem id="fs-idp47510960">
+<para id="fs-idp122656416">Synthetic compounds found in an organism but not normally produced or expected to be present in that organism are called _____.</para>
+<list id="fs-idp136264320" list-type="enumerated" number-style="lower-alpha">
+<item>pesticides</item>
+<item>bioremediators</item>
+<item>recalcitrant compounds</item>
+<item>xenobiotics</item>
+</list>
+</problem>
+<solution id="fs-idp170580768">
+<label/>
+<para id="fs-idp37654352">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm36358320">
+<problem id="fs-idm32294736">
+<para id="fs-idp25718224">Bioremediation includes _____.</para>
+<list id="fs-idm37987664" list-type="enumerated" number-style="lower-alpha">
+<item>the use of prokaryotes that can fix nitrogen</item>
+<item>the use of prokaryotes to clean up pollutants</item>
+<item>the use of prokaryotes as natural fertilizers</item>
+<item>All of the above</item>
+</list>
+</problem>
+<solution id="fs-idm34497088">
+<label/>
+<para id="fs-idp71556368">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp34469008" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp102645024">
+<problem id="fs-idm31218384">
+<para id="fs-idp26066144">Your friend believes that prokaryotes are always detrimental and pathogenic. How would you explain to them that they are wrong?</para></problem>
+<solution id="fs-idp8531552">
+<label/>
+<para id="fs-idp37024896">Remind them of the important roles prokaryotes play in decomposition and freeing up nutrients in biogeochemical cycles; remind them of the many prokaryotes that are not human pathogens and that fill very specialized niches. Furthermore, our normal bacterial symbionts are crucial for our digestion and in protecting us from pathogens.</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167065823136" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065044156" class="os-exercise">
+<problem id="fs-id1167065927006">
+<para id="fs-id1167062411131">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex065"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065020995" class="os-exercise">
+<problem id="fs-id1167065795382">
+<para id="fs-id1167062379756">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex066"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066098175" class="os-exercise">
+<problem id="fs-id1167065957117">
+<para id="fs-id1167064583076">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex067"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062299485" class="os-exercise">
+<problem id="fs-id1167064581709">
+<para id="fs-id1167066040902">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex068"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065872835" class="os-exercise">
+<problem id="fs-id1167065704297">
+<para id="fs-id1167066134649">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex069"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066098234" class="os-exercise">
+<problem id="fs-id1167062401653">
+<para id="fs-id1167065030071">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex070"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163775780255" class="os-exercise">
+<problem id="eip-id1163775780259">
+<para id="eip-id1163775831573">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ot043"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167064958756" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167065977823" class="os-exercise">
+<problem id="fs-id1167066137621">
+<para id="fs-id1167064895580">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex073"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064894117" class="os-exercise">
+<problem id="fs-id1167065877156">
+<para id="fs-id1167065850089">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex074"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065851921" class="os-exercise">
+<problem id="fs-id1167066044921">
+<para id="fs-id1167066045027">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex075"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163776030970" class="os-exercise">
+<problem id="eip-id1163775842894">
+<para id="eip-id1163775842896">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ot049"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066169928" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup><sup>®</sup></sup> Courses</title><exercise id="fs-id1167065071813" class="os-exercise  ost-tag-lo-apbio-ch22-s05-aplo-4-18">
+<problem id="fs-id1167065729635">
+<para id="fs-id1167064914608">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex077"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065789578" class="os-exercise">
+<problem id="fs-id1167065913140">
+<para id="fs-id1167064909820">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex078"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163775845382" class="os-exercise">
+<problem id="eip-id1163775882222">
+<para id="eip-id1163775882224">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ot052"/>
+</para>
+</problem>
+</exercise></section>
+<section id="fs-id1164967807809" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164965351659">
+<problem id="fs-id1164965316753">
+<para id="fs-id1164967551493">The human gut provides a habitat for approximately 100 trillion bacteria. Some sources claim that the surface area of the cells lining the small and large intestines is between 150 and 300 square meters and compare this area to that of a tennis court. Recent measurements, however, show that the surface area of the gut is closer to that of a studio apartment (Helander and Fandriks, <emphasis effect="italics">Jour. Gastro</emphasis>, 2014) and is roughly 50 square meters.</para>
+<para id="fs-id1164959753024">A. <term>Calculate</term> the cellular surface area of the 100 trillion (10<sup>14</sup>) microbes in the typical human gut, assuming that the cells are spherical with an average radius of 0.001 mm. Use this calculated surface area to <term>predict</term> the relative rates of procurement of nutrients by both microbes and the host cells lining the large and small intestines.</para>
+<para id="fs-id1164965258587">Humans compete with microbes for nutrients, but the relationship is mutually beneficial. Between 10 and 30% of ingested food remains undigested before reaching the large intestine. Some microbial waste products, particularly H<sub>2</sub> and CH<sub>4</sub>, are not resources for the host. But short-chain fatty acids like acetic, propionic, and butyric acids are resources that microbes extract from the undigested fraction. The large intestine of the adult human has a length of approximately 1.5 meters with a volume between 6 and 7 liters. The total volume of gut microbes is just a few hundred milliliters.</para>
+<para id="fs-id1164965175028">B. <term>Predict</term> the length of a large intestine with equivalent recovery of resources and the same transit times through the bowel if, rather than 100 trillion organisms with a total volume of 1 L, there were 100 billion (10<sup>11</sup>) organisms, each with a volume of 10<sup>-8</sup> mL (the approximate volume of the epithelial cells lining the intestine).</para><para id="fs-id1164965545459">The relationship between gut microbes and their host is more complex than simple resource recovery, as shown in the figure of the microbiome below. PYY is a hormone that works with the enteric nervous system lining the intestinal wall to cause changes in the period of contractions of muscles (motility) that push material through the intestine.</para>
+<para id="fs-id1164965657816">C. Based on the diagram, <term>summarize</term> the regulation of appetite by the microbiome and the elimination of waste by the host in terms of feedback loops and chemical signaling.</para>
+<figure id="fs-id1164965556254"><media id="fs-id1164967814696" alt="A diagram of the large intestines. The top left of the figure shows the large intestine. The top right shows a magnified segment of large intestine. The segment labels the polysaccharides, bacteria and epithelial cells. The bottom right of the figure shows an increased magnification of the segment. Labeled inside the cells are the SCFA positive receptors, PYY, and G receptor cascade. Arrows going outside the cells are labeled Decreased motility, Enteric nervous system, Central nervous system.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_22_05_01_01_img.jpg" width="450"/>
+</media>
+</figure><para id="fs-id1164965448259">The microbial population of the intestine is referred to as the microbiome. Undernutrition and obesity are both symptoms of malnutrition, and populations of the microbiome vary with the type of malnutrition (Brown et al., <emphasis effect="italics">Nutr Clin Pract</emphasis>, 2012). The microbiome of humans can be transplanted into germ-free (GF) mice to observe the effects of diet in a controlled experiment of relatively short duration. The microbiomes of healthy and undernourished 6-month-old children were transplanted into GF mice whose growth is graphed below. Growth in both length and weight were reduced when the source of the microbiome was the undernourished child (after Blanton et al., <emphasis effect="italics">Science</emphasis>, 2016). Both groups of mice were provided with the same nutritional resources.</para>
+<figure id="fs-id1164965557619"><media id="fs-id1164967607710" alt="Graph labeled Growth of Microbiomes from Healthy and Undernourished 6 month old Children After Transplantation into Germ Free Mice. The Y axis is labeled Percent initial weight. The X axis is labeled Number of days after transplant. The key at the bottom labels the blue line as Microbiome from healthy 6 month old child. The red line is labeled as Microbiome from undernourished 6 month old child.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_22_05_01_02_img.jpg" width="400"/>
+</media>
+</figure><para id="fs-id1164965600858">D. <term>Pose</term> two scientific <term>questions</term> that, when investigated, could lead to a solution for the stunting of growth caused by undernourishment in early infancy that affects millions of children.</para>
+<para id="fs-id1164967522616">Human growth hormone stimulates the release of insulin-like growth factor 1 (IGF-1). IGF-1 is a messenger that activates the production of bone cells called osteocytes. The data (after Schwarzer et al., <emphasis effect="italics">Science</emphasis>, 2016) show concentrations of this growth factor in mice with no microbiome (GF), wild-type mice whose microbiome and growth provide a control (WT), and mice whose microbiome population is composed entirely of <emphasis effect="italics">Lactobacillus plantarum</emphasis> (two strains labeled L1 and L2). <emphasis effect="italics">Lactobacillus</emphasis> is one of many hundred genera of microbial inhabitants of a healthy human intestine.</para>
+<figure id="fs-id1164965298095"><media id="fs-id1164965271152" alt="Bar graph labeled Concentration of IGF 1 in Mice with No Microbiome, Wild Type Mice, and Mice Whose Microbiome is Composed Entirely of Lactobacillus plantarum. The Y axis is labeled Concentration of IGF 1. X axis has labels for 28 days and 56 days. The key at the bottom labels the red bars GF for Germ free mice with no microbiome. The purple bars are labeled WT for Wild type mice (control). The dark blue bars are labeled L1. The light blue bars are labeled L2. L1 and L2 represent Mice with Lactobacillus colonization.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_22_05_01_03_img.jpg" width="400"/>
+</media>
+</figure><para id="fs-id1164965353432">E. <term>Analyze</term> these data in terms of the potential for disruption of human bone growth due to loss or reduction in diversity of the microbiome.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp35374208">
+<term>biological nitrogen fixation</term> <meaning id="fs-idp123643952">conversion of atmospheric nitrogen into ammonia exclusively carried out by prokaryotes</meaning>
+</definition>
+<definition id="fs-idp161075168">
+<term>bioremediation</term> <meaning id="fs-idm7095104">use of microbial metabolism to remove pollutants</meaning>
+</definition>
+<definition id="fs-idp9074080">
+<term>biotechnology</term> <meaning id="fs-idp124266128">any technological application that uses living organisms, biological systems, or their derivatives to produce or modify other products</meaning>
+</definition>
+<definition id="fs-idm34673072">
+<term>nodule</term> <meaning id="fs-idm47177232">novel structure on the roots of certain plants (legumes) that results from the symbiotic interaction between the plant and soil bacteria, is the site of nitrogen fixation</meaning>
+</definition>
+</glossary>
+</document>

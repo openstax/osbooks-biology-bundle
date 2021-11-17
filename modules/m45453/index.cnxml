@@ -1,0 +1,201 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>The Calvin Cycle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45453</md:content-id>
+  <md:title>The Calvin Cycle</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the Calvin cycle</item>
+<item>Define carbon fixation</item>
+<item>Explain how photosynthesis works in the energy cycle of all living organisms</item>
+</list></md:abstract>
+  <md:uuid>4d7f8c51-dff0-4d9f-925c-854a4f60d10b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp56950928">After the energy from the sun is converted and packaged into ATP and NADPH, the cell has the fuel needed to build food in the form of carbohydrate molecules. The carbohydrate molecules made will have a backbone of carbon atoms. Where does the carbon come from? The carbon atoms used to build carbohydrate molecules comes from carbon dioxide, the gas that animals exhale with each breath. The <term>Calvin cycle</term> is the term used for the reactions of photosynthesis that use the energy stored by the light-dependent reactions to form glucose and other carbohydrate molecules.</para><section id="fs-idm2565696">
+<title>The Interworkings of the Calvin Cycle</title>
+<para id="fs-idp14107376">In plants, carbon dioxide (CO<sub>2</sub>) enters the chloroplast through the stomata and diffuses into the stroma of the chloroplast—the site of the Calvin cycle reactions where sugar is synthesized. The reactions are named after Melvin Calvin, the scientist who discovered them, and reference the fact that the reactions function as a cycle. Others call it the Calvin-Benson cycle to include the name of another scientist involved in its discovery, Andrew Benson (<link target-id="fig-ch05_03_01" document=""/>).</para>
+<figure id="fig-ch05_03_01"><media id="fs-idp142966096" alt="This illustration shows that ATP and NADPH produced in the light reactions are used in the Calvin cycle to make sugar.">
+<image mime-type="image/jpg" src="../../media/Figure_05_03_01-4582.jpg" width="350"/>
+</media>
+<caption>Light-dependent reactions harness energy from the sun to produce ATP and NADPH. These energy-carrying molecules travel into the stroma where the Calvin cycle reactions take place.</caption></figure><para id="fs-idm76340720">The Calvin cycle reactions (<link target-id="fig-ch05_03_02" document=""/>) can be organized into three basic stages: fixation, reduction, and regeneration. In the stroma, in addition to CO<sub>2</sub>, two other chemicals are present to initiate the Calvin cycle: an enzyme abbreviated RuBisCO, and the molecule ribulose bisphosphate (RuBP). RuBP has five atoms of carbon and a phosphate group on each end.</para><para id="fs-idp81678240">RuBisCO catalyzes a reaction between CO<sub>2</sub> and RuBP, which forms a six-carbon compound that is immediately converted into two three-carbon compounds. This process is called <term>carbon fixation</term>, because CO<sub>2</sub> is “fixed” from its inorganic form into organic molecules.</para>
+<para id="fs-idm31526560">ATP and NADPH use their stored energy to convert the three-carbon compound, 3-PGA, into another three-carbon compound called G3P. This type of reaction is called a reduction reaction, because it involves the gain of electrons. A reduction is the gain of an electron by an atom or molecule. The molecules of ADP and NAD<sup>+</sup>, resulting from the reduction reaction, return to the light-dependent reactions to be re-energized.</para>
+<para id="fs-idm30708480">One of the G3P molecules leaves the Calvin cycle to contribute to the formation of the carbohydrate molecule, which is commonly glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>). Because the carbohydrate molecule has six carbon atoms, it takes six turns of the Calvin cycle to make one carbohydrate molecule (one for each carbon dioxide molecule fixed). The remaining G3P molecules regenerate RuBP, which enables the system to prepare for the carbon-fixation step. ATP is also used in the regeneration of RuBP.</para>
+<figure id="fig-ch05_03_02"><media id="fs-idp14023248" alt="This illustration shows a circular cycle with three stages. Three molecules of carbon dioxide enter the cycle. In the first stage, the enzyme RuBisCO incorporates the carbon dioxide into an organic molecule. Six ATP molecules are converted into six ADP molecules. In the second stage, the organic molecule is reduced. Six NADPH molecules are converted into six NADP+ ions and one hydrogen ion. Sugar is produced. In stage three, RuBP is regenerated, and three ATP molecules are converted into three ADP molecules. RuBP then starts the cycle again.">
+<image mime-type="image/jpg" src="../../media/Figure_05_03_02-4420.jpg" width="450"/>
+</media>
+<caption>The Calvin cycle has three stages. In stage 1, the enzyme RuBisCO incorporates carbon dioxide into an organic molecule. In stage 2, the organic molecule is reduced. In stage 3, RuBP, the molecule that starts the cycle, is regenerated so that the cycle can continue.</caption></figure><para id="fs-idm22286320">In summary, it takes six turns of the Calvin cycle to fix six carbon atoms from CO<sub>2</sub>. These six turns require energy input from 12 ATP molecules and 12 NADPH molecules in the reduction step and 6 ATP molecules in the regeneration step.</para>
+<note id="fs-idp41155216" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idm13102080">The following is a <link window="new" url="http://openstax.org/l/calvin_cycle2">link</link> to an animation of the Calvin cycle. Click Stage 1, Stage 2, and then Stage 3 to see G3P and ATP regenerate to form RuBP.</para>
+</note><note id="fs-idm83480352" class="evolution non-majors"><label/><title>Evolution in Action</title>
+
+<para id="fs-idp45178000"><title>Photosynthesis</title>The shared evolutionary history of all photosynthetic organisms is conspicuous, as the basic process has changed little over eras of time. Even between the giant tropical leaves in the rainforest and tiny cyanobacteria, the process and components of photosynthesis that use water as an electron donor remain largely the same. Photosystems function to absorb light and use electron transport chains to convert energy. The Calvin cycle reactions assemble carbohydrate molecules with this energy.</para>
+<para id="fs-idm63622784">However, as with all biochemical pathways, a variety of conditions leads to varied adaptations that affect the basic pattern. Photosynthesis in dry-climate plants (<link target-id="fig-ch05_03_03" document=""/>)  has evolved with adaptations that conserve water. In the harsh dry heat, every drop of water and precious energy must be used to survive. Two adaptations have evolved in such plants. In one form, a more efficient use of CO<sub>2</sub> allows plants to photosynthesize even when CO<sub>2</sub> is in short supply, as when the stomata are closed on hot days. The other adaptation performs preliminary reactions of the Calvin cycle at night, because opening the stomata at this time conserves water due to cooler temperatures. In addition, this adaptation has allowed plants to carry out low levels of photosynthesis without opening stomata at all, an extreme mechanism to face extremely dry periods.</para>
+<figure id="fig-ch05_03_03"><media id="fs-idm55584320" alt="This photo shows a cactus.">
+<image mime-type="image/jpg" src="../../media/Figure_05_03_03-c84f.jpg" width="200"/>
+</media>
+<caption>Living in the harsh conditions of the desert has led plants like this cactus to evolve variations in reactions outside the Calvin cycle. These variations increase efficiency and help conserve water and energy. (credit: Piotr Wojtkowski)</caption></figure></note></section>
+<section id="fs-idp5846368">
+<title>Photosynthesis in Prokaryotes</title>
+<para id="fs-idp58922400">The two parts of photosynthesis—the light-dependent reactions and the Calvin cycle—have been described, as they take place in chloroplasts. However, prokaryotes, such as cyanobacteria, lack membrane-bound organelles. Prokaryotic photosynthetic autotrophic organisms have infoldings of the plasma membrane for chlorophyll attachment and photosynthesis (<link target-id="fig-ch05_03_04" document=""/>). It is here that organisms like cyanobacteria can carry out photosynthesis.</para>
+<figure id="fig-ch05_03_04"><media id="fs-idm82108048" alt="This illustration shows a green ribbon, representing a folded membrane, with many folds stacked on top of another like a rope or hose. The photo shows an electron micrograph of a cleaved thylakoid membrane with similar folds from a unicellular organism">
+<image mime-type="image/jpg" src="../../media/Figure_05_03_04.jpg" width="350"/>
+</media>
+<caption>A photosynthetic prokaryote has infolded regions of the plasma membrane that function like thylakoids. Although these are not contained in an organelle, such as a chloroplast, all of the necessary components are present to carry out photosynthesis. (credit: scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-idm17348592">
+<title>The Energy Flow</title><para id="fs-idm42658480">Living things access energy by breaking down carbohydrate molecules. However, if plants make carbohydrate molecules, why would they need to break them down? Carbohydrates are storage molecules for energy in all living things. Although energy can be stored in molecules like ATP, carbohydrates are much more stable and efficient reservoirs for chemical energy. Photosynthetic organisms also carry out the reactions of respiration to harvest the energy that they have stored in carbohydrates, for example, plants have mitochondria in addition to chloroplasts.</para>
+<para id="fs-idp72834784">You may have noticed that the overall reaction for photosynthesis:</para>
+<equation id="eip-151" class="unnumbered"><m:math display="block">
+ <m:mrow>
+  <m:mn>6</m:mn><m:msub>
+   <m:mrow>
+    <m:mtext>CO</m:mtext>
+   </m:mrow>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:mo>+</m:mo><m:mn>6</m:mn><m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:mtext>O</m:mtext><m:mrow><m:mo>→</m:mo></m:mrow><m:msub>
+   <m:mtext>C</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mrow>
+    <m:mtext>12</m:mtext>
+   </m:mrow>
+  </m:msub>
+  <m:msub>
+   <m:mtext>O</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:mo>+</m:mo><m:msub>
+   <m:mrow>
+    <m:mtext>6O</m:mtext>
+   </m:mrow>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+
+ </m:mrow>
+</m:math>
+</equation><para id="fs-idm53309696">is the reverse of the overall reaction for cellular respiration:</para>
+<equation id="eip-523" class="unnumbered"><m:math display="block">
+ <m:mrow>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>6O</m:mtext>
+   </m:mrow>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mo>+</m:mo><m:msub>
+   <m:mtext>C</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mrow>
+    <m:mtext>12</m:mtext>
+   </m:mrow>
+  </m:msub>
+  <m:msub>
+   <m:mtext>O</m:mtext>
+   <m:mtext>6</m:mtext>
+  </m:msub>
+  <m:mrow><m:mo>→</m:mo></m:mrow><m:mn>6</m:mn><m:msub>
+   <m:mrow>
+    <m:mtext>CO</m:mtext>
+   </m:mrow>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:mo>+</m:mo><m:mn>6</m:mn><m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:mtext>O</m:mtext>
+ </m:mrow>
+</m:math>
+</equation><para id="fs-idp49329168">Photosynthesis produces oxygen as a byproduct, and respiration produces carbon dioxide as a byproduct.</para>
+<para id="fs-idp75129968">In nature, there is no such thing as waste. Every single atom of matter is conserved, recycling indefinitely. Substances change form or move from one type of molecule to another, but never disappear (<link target-id="fig-ch05_03_05" document=""/>).</para>
+<para id="fs-idm20837088">CO<sub>2</sub> is no more a form of waste produced by respiration than oxygen is a waste product of photosynthesis. Both are byproducts of reactions that move on to other reactions. Photosynthesis absorbs energy to build carbohydrates in chloroplasts, and aerobic cellular respiration releases energy by using oxygen to break down carbohydrates. Both organelles use electron transport chains to generate the energy necessary to drive other reactions. Photosynthesis and cellular respiration function in a biological cycle, allowing organisms to access life-sustaining energy that originates millions of miles away in a star.</para><figure id="fig-ch05_03_05"><media id="fs-idp49309024" alt="This photograph shows a giraffe eating leaves from a tree. Labels indicate that the giraffe consumes oxygen and releases carbon dioxide, whereas the tree consumes carbon dioxide and releases oxygen.">
+<image mime-type="image/jpg" src="../../media/Figure_05_03_05.jpg" width="350"/>
+</media>
+<caption>In the carbon cycle, the reactions of photosynthesis and cellular respiration share reciprocal reactants and products. (credit: modification of work by Stuart Bassil)</caption></figure></section>
+<section id="fs-idm31534240" class="summary">
+<title>Section Summary</title><para id="fs-idm61707824">Using the energy carriers formed in the first stage of photosynthesis, the Calvin cycle reactions fix CO<sub>2</sub> from the environment to build carbohydrate molecules. An enzyme, RuBisCO, catalyzes the fixation reaction, by combining CO<sub>2</sub> with RuBP. The resulting six-carbon compound is broken down into two three-carbon compounds, and the energy in ATP and NADPH is used to convert these molecules into G3P. One of the three-carbon molecules of G3P leaves the cycle to become a part of a carbohydrate molecule. The remaining G3P molecules stay in the cycle to be formed back into RuBP, which is ready to react with more CO<sub>2</sub>. Photosynthesis forms a balanced energy cycle with the process of cellular respiration. Plants are capable of both photosynthesis and cellular respiration, since they contain both chloroplasts and mitochondria.</para></section>
+<section id="fs-idm44423200" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idp62644432">
+<problem id="fs-idp12525312"><para id="fs-idp50540032">Where in plant cells does the Calvin cycle take place?</para><list id="fs-idm66462768" list-type="enumerated" number-style="lower-alpha">
+<item>thylakoid membrane</item>
+<item>thylakoid space</item>
+<item>stroma</item>
+<item>granum</item>
+</list>
+</problem>
+<solution id="fs-idm50522368">
+<label/>
+<para id="fs-idm22336112">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp4079824">
+<problem id="fs-idm44037472">
+<para id="fs-idm43476640">Which statement correctly describes carbon fixation?</para>
+<list id="fs-idm49151376" list-type="enumerated" number-style="lower-alpha"><item>the conversion of CO<sub>2</sub> to an organic compound</item>
+<item>the use of RuBisCO to form 3-PGA</item>
+<item>the production of carbohydrate molecules from G3P</item>
+<item>the formation of RuBP from G3P molecules</item>
+<item>the use of ATP and NADPH to reduce CO<sub>2</sub></item>
+</list></problem>
+<solution id="fs-idm11596544">
+<label/>
+<para id="fs-idp58823488">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm41732176">
+<problem id="fs-idp26408912">
+<para id="fs-idm2741328">What is the molecule that leaves the Calvin cycle to be converted into glucose?</para>
+<list id="fs-idm72749680" list-type="enumerated" number-style="lower-alpha">
+<item>ADP</item>
+<item>G3P</item>
+<item>RuBP</item>
+<item>3-PGA</item>
+</list>
+</problem>
+<solution id="fs-idp93026608">
+<label/>
+<para id="fs-idp45730848">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm82946272" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idm49165024">
+<problem id="fs-idm15486784">
+<para id="fs-idp53692896">Which part of the Calvin cycle would be affected if a cell could not produce the enzyme RuBisCO?</para>
+</problem>
+<solution id="fs-idp78277600">
+<label/>
+<para id="fs-idp56954944">None of the cycle could take place, because RuBisCO is essential in fixing carbon dioxide. Specifically, RuBisCO catalyzes the reaction between carbon dioxide and RuBP at the start of the cycle.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm38344720">
+<problem id="fs-idp68984048">
+<para id="fs-idp51858288">Explain the reciprocal nature of the net chemical reactions for photosynthesis and respiration.</para>
+</problem>
+<solution id="fs-idm31781200">
+<label/>
+<para id="fs-idm77809008">Photosynthesis takes the energy of sunlight and combines water and carbon dioxide to produce sugar and oxygen as a waste product. The reactions of respiration take sugar and consume oxygen to break it down into carbon dioxide and water, releasing energy. Thus, the reactants of photosynthesis are the products of respiration, and vice versa.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm11621504"><term>Calvin cycle</term> <meaning id="fs-idm31337456">the reactions of photosynthesis that use the energy stored by the light-dependent reactions to form glucose and other carbohydrate molecules</meaning></definition>
+<definition id="fs-idm75965488"><term>carbon fixation</term> <meaning id="fs-idp36459632">the process of converting inorganic CO<sub>2</sub> gas into organic compounds</meaning></definition>
+</glossary>
+</document>

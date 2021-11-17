@@ -1,0 +1,525 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Life Histories and Natural Selection</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63029</md:content-id>
+  <md:title>Life Histories and Natural Selection</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how life history patterns are influenced by natural selection</item>
+<item>Explain different life history patterns and how different reproductive strategies affect species’ survival</item>
+</list></md:abstract>
+  <md:uuid>1998e10d-db65-441d-9074-014c1bf13bdb</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065951122" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167062409100">In this section, you will explore the following questions:</para>
+<list id="fs-id1167066035923">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch36-s02-lo01">How are life history patterns influenced by natural selection?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch36-s02-lo02">What are different life history patterns, and how do different reproductive strategies affect species survival?</item>
+</list>
+</section>
+<section id="fs-id1167062560048" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167062358900">All living systems, including populations, require free energy to maintain order, to grow and to reproduce. As we learned in earlier chapters, changes in free energy availability can cause fluctuations in population. All species have an <emphasis>energy budget</emphasis> and must balance energy intake with their use of energy for metabolism, parental care, and energy storage.</para>
+<para id="fs-id1167064901256" class="ost-reading-discard">It’s amazing how much free energy is required for reproduction and the subsequent care of offspring. Fecundity describes how many offspring could be produced if an individual has as many offspring as possible. In animals, fecundity is inversely proportional to the amount of care given to an individual offspring.</para>
+<para id="fs-id1167066156037" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 and Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167066167330" summary="Column 1 Row 1: Essential Knowledge Column 2 Row 1: 1.A.2 Natural selection acts on phenotypic variations in populations. Column 1 Row 2: Science Practice Column 2 Row 2: 2.2 The student can apply mathematical routines to quantities that describe natural phenomena. Column 1 Row 3: Science Practice Column 2 Row 3: 5.3 The student can evaluate the evidence provided by data sets in relation to a particular scientific question. Column 1 Row 4: Learning Objective Column 2 Row 4: 1.2 The student is able to evaluate evidence provided by data to qualitatively and quantitatively investigate the role of natural selection in evolution." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.A</emphasis></entry>
+<entry class="ost-standards-description">Change in the genetic makeup of a population over time is evolution.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.A.2 </emphasis></span>
+<span class="ost-standards-description">Natural selection acts on phenotypic variations in populations.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
+<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s02-aplo-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate evidence provided by data to qualitatively and quantitatively investigate the role of natural selection in evolution.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.1 </emphasis></span>
+<span class="ost-standards-description">All living systems require constant input of free energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s02-aplo-2-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.1 </emphasis></span>
+<span class="ost-standards-description">The student is able to explain how biological systems use free energy based on empirical data that all organisms require constant energy input to maintain organization, to grow and to reproduce.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+<para id="fs-idp87392336">A species’ <emphasis>life history</emphasis> describes the series of events over its lifetime, such as how resources are allocated for growth, maintenance, and reproduction. Life history traits affect the life table of an organism. A species’ life history is genetically determined and shaped by the environment and natural selection.</para>
+<section id="fs-idp89602864">
+<title>Life History Patterns and Energy Budgets</title>
+<para id="fs-idp303301840">Energy is required by all living organisms for their growth, maintenance, and reproduction; at the same time, energy is often a major limiting factor in determining an organism’s survival. Plants, for example, acquire energy from the sun via photosynthesis, but must expend this energy to grow, maintain health, and produce energy-rich seeds to produce the next generation. Animals have the additional burden of using some of their energy reserves to acquire food. Furthermore, some animals must expend energy caring for their offspring. Thus, all species have an energy budget: they must balance energy intake with their use of energy for metabolism, reproduction, parental care, and energy storage (such as bears building up body fat for winter hibernation).</para><section id="fs-idm74935968" class="ost-tag-lo-apbio-ch36-s02-lo01 ost-tag-lo-apbio-ch36-s02-aplo-2-1">
+<title>Parental Care and Fecundity</title>
+<para id="fs-idp218822432"><emphasis>Fecundity</emphasis> is the potential reproductive capacity of an individual within a population. In other words, fecundity describes how many offspring could ideally be produced if an individual has as many offspring as possible, repeating the reproductive cycle as soon as possible after the birth of the offspring. In animals, fecundity is inversely related to the amount of parental care given to an individual offspring. Species, such as many marine invertebrates, that produce many offspring usually provide little if any care for the offspring (they would not have the energy or the ability to do so anyway). Most of their energy budget is used to produce many tiny offspring. Animals with this strategy are often self-sufficient at a very early age. This is because of the energy tradeoff these organisms have made to maximize their evolutionary fitness. Because their energy is used for producing offspring instead of parental care, it makes sense that these offspring have some ability to be able to move within their environment and find food and perhaps shelter. Even with these abilities, their small size makes them extremely vulnerable to predation, so the production of many offspring allows enough of them to survive to maintain the species.</para>
+<para id="fs-idp122750048">Animal species that have few offspring during a reproductive event usually give extensive parental care, devoting much of their energy budget to these activities, sometimes at the expense of their own health. This is the case with many mammals, such as humans, kangaroos, and pandas. The offspring of these species are relatively helpless at birth and need to develop before they achieve self-sufficiency.</para>
+<para id="fs-idm87893872">Plants with low fecundity produce few energy-rich seeds (such as coconuts and chestnuts) with each having a good chance to germinate into a new organism; plants with high fecundity usually have many small, energy-poor seeds (like orchids) that have a relatively poor chance of surviving. Although it may seem that coconuts and chestnuts have a better chance of surviving, the energy tradeoff of the orchid is also very effective. It is a matter of where the energy is used, for large numbers of seeds or for fewer seeds with more energy.</para>
+</section>
+<section id="fs-idm31508576" class="ost-tag-lo-apbio-ch36-s02-lo02">
+<title>Early versus Late Reproduction</title>
+<para id="fs-idp89798640">The timing of reproduction in a life history also affects species survival. Organisms that reproduce at an early age have a greater chance of producing offspring, but this is usually at the expense of their growth and the maintenance of their health. Conversely, organisms that start reproducing later in life often have greater fecundity or are better able to provide parental care, but they risk that they will not survive to reproductive age. Examples of this can be seen in fishes. Small fish like guppies use their energy to reproduce rapidly, but never attain the size that would give them defense against some predators. Larger fish, like the bluegill or shark, use their energy to attain a large size, but do so with the risk that they will die before they can reproduce or at least reproduce to their maximum. These different energy strategies and tradeoffs are key to understanding the evolution of each species as it maximizes its fitness and fills its niche. In terms of energy budgeting, some species “blow it all” and use up most of their energy reserves to reproduce early before they die. Other species delay having reproduction to become stronger, more experienced individuals and to make sure that they are strong enough to provide parental care if necessary.</para>
+</section>
+<section id="fs-idm41476096"><title>Single versus Multiple Reproductive Events</title><para id="fs-idp135433824">Some life history traits, such as fecundity, timing of reproduction, and parental care, can be grouped together into general strategies that are used by multiple species. <emphasis>Semelparity</emphasis> occurs when a species reproduces only once during its lifetime and then dies. Such species use most of their resource budget during a single reproductive event, sacrificing their health to the point that they do not survive. Examples of semelparity are bamboo, which flowers once and then dies, and the Chinook salmon (<link target-id="fig-ch45_02_01" document=""/><emphasis effect="bold">a</emphasis>), which uses most of its energy reserves to migrate from the ocean to its freshwater nesting area, where it reproduces and then dies. Scientists have posited alternate explanations for the evolutionary advantage of the Chinook’s post-reproduction death: a programmed suicide caused by a massive release of corticosteroid hormones, presumably so the parents can become food for the offspring, or simple exhaustion caused by the energy demands of reproduction; these are still being debated.</para>
+<para id="fs-idp150107792"><emphasis>Iteroparity</emphasis> describes species that reproduce repeatedly during their lives. Some animals are able to mate only once per year, but survive multiple mating seasons. The pronghorn antelope is an example of an animal that goes into a seasonal estrus cycle (“heat”): a hormonally induced physiological condition preparing the body for successful mating (<link target-id="fig-ch45_02_01" document=""/><emphasis effect="bold">b</emphasis>). Females of these species mate only during the estrus phase of the cycle. A different pattern is observed in primates, including humans and chimpanzees, which may attempt reproduction at any time during their reproductive years, even though their menstrual cycles make pregnancy likely only a few days per month during ovulation (<link target-id="fig-ch45_02_01" document=""/><emphasis effect="bold">c</emphasis>).</para>
+<figure id="fig-ch45_02_01" orient="horizontal" class="ost-tag-lo-apbio-ch36-s02-lo02"><media id="Figure_45_02_01" alt="Photo (a) shows a salmon swimming. Photo (b) shows pronghorn antelope running on a plain. Photo (c) shows chimpanzees.">
+        <image mime-type="image/jpg" src="../../media/Figure_45_02_01.jpg"/>
+</media>
+<caption>The (a) Chinook salmon mates once and dies. The (b) pronghorn antelope mates during specific times of the year during its reproductive life. Primates, such as humans and (c) chimpanzees, may mate on any day, independent of ovulation. (credit a: modification of work by Roger Tabor, USFWS; credit b: modification of work by Mark Gocke, USDA; credit c: modification of work by “Shiny Things”/Flickr)</caption></figure><note id="fs-idp94745920" class="interactive ost-tag-lo-apbio-ch36-s02-lo02 ost-assessed-feature"><label>Link to Learning</label>
+
+<para id="fs-idp182915872">Play this <link window="new" url="http://openstax.org/l/mating_game">interactive PBS evolution-based mating game</link> to learn more about reproductive strategies.</para>
+<exercise id="fs-id1167062509640" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167065651981">
+<para id="fs-id1167064893964">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex018"/>
+</para>
+</problem>
+</exercise>
+</note><note id="fs-idp23123104" class="evolution ost-tag-lo-apbio-ch36-s02-lo01 ost-tag-lo-apbio-ch36-s02-aplo-1-2 ost-assessed-feature"><title>Energy Budgets, Reproductive Costs, and Sexual Selection in <emphasis effect="italics">Drosophila</emphasis></title>
+
+<para id="eip-idm110202944">
+Research into how animals allocate their energy resources for growth, maintenance, and reproduction has used a variety of experimental animal models. Some of this work has been done using the common fruit fly, <emphasis effect="italics">Drosophila melanogaster</emphasis>. Studies have shown that not only does reproduction have a cost as far as how long male fruit flies live, but also fruit flies that have already mated several times have limited sperm remaining for reproduction. Fruit flies maximize their last chances at reproduction by selecting optimal mates.</para>
+<para id="fs-idp98171712">In a 1981 study, male fruit flies were placed in enclosures with either virgin or inseminated females. The males that mated with virgin females had shorter life spans than those in contact with the same number of inseminated females with which they were unable to mate. This effect occurred regardless of how large (indicative of their age) the males were. Thus, males that did not mate lived longer, allowing them more opportunities to find mates in the future.</para>
+<para id="fs-idp7150064">More recent studies, performed in 2006, show how males select the female with which they will mate and how this is affected by previous matings (<link target-id="fig-ch45_02_02" document=""/>).<footnote id="fs-idp34937024">Adapted from Phillip G. Byrne and William R. Rice, “Evidence for adaptive male mate choice in the fruit fly <emphasis effect="italics">Drosophila melanogaster,</emphasis>” Proc Biol Sci. 273, no. 1589 (2006): 917-922, doi: 10.1098/rspb.2005.3372.    </footnote> Males were allowed to select between smaller and larger females. Findings showed that larger females had greater fecundity, producing twice as many offspring per mating as the smaller females did. Males that had previously mated, and thus had lower supplies of sperm, were termed “resource-depleted,” while males that had not mated were termed “non-resource-depleted.” The study showed that although non-resource-depleted males preferentially mated with larger females, this selection of partners was more pronounced in the resource-depleted males. Thus, males with depleted sperm supplies, which were limited in the number of times that they could mate before they replenished their sperm supply, selected larger, more fecund females, thus maximizing their chances for offspring. This study was one of the first to show that the physiological state of the male affected its mating behavior in a way that clearly maximizes its use of limited reproductive resources.</para>
+<figure id="fig-ch45_02_02" class=" "><media id="fs-idm33055648" alt="Table compares the change in percentage of large versus small females mated for sperm-depleted males versus non-depleted males. Non-depleted males preferred large over small females by 8 percent. Sperm depleted males had a greater preference for large females: 15 percent. Error for both measurements was plus or minus 5 percent.">
+        <image mime-type="image/jpg" src="../../media/Figure_45_02_02.jpg" width="380"/>
+    </media>
+<caption>Male fruit flies that had previously mated (sperm-depleted) picked larger, more fecund females more often than those that had not mated (non-sperm-depleted). This change in behavior causes an increase in the efficiency of a limited reproductive resource: sperm.</caption></figure>
+<para id="eip-693">These studies demonstrate two ways in which the energy budget is a factor in reproduction. First, energy expended on mating may reduce an animal’s lifespan, but by this time they have already reproduced, so in the context of natural selection this early death is not of much evolutionary importance. Second, when resources such as sperm (and the energy needed to replenish it) are low, an organism’s behavior can change to give them the best chance of passing their genes on to the next generation. These changes in behavior, so important to evolution, are studied in a discipline known as behavioral biology, or ethology, at the interface between population biology and psychology.</para>
+<exercise id="fs-id1167064985170" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167064572040">
+<para id="fs-id1167066094601">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex019"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<note id="fs-id1167064909329" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch36-s02-aplo-2-1">
+<label>Science Practices Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167064598135" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167064635286" class="unnumbered"><label/>
+<problem id="fs-id1167065927156"><para id="fs-id1167065927157">Why is long-term parental care not associated with having many offspring during a reproductive episode?</para></problem></exercise>
+</note>
+<note id="fs-id1167065823136" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167066028480">The question is an application of AP® Learning Objective 2.1 and Science Practice 6.2 because the students are explaining strategies organisms use to balance energy budgets; energy is required for reproduction and parental care of offspring, so the more energy involved in parental care, the less can be devoted to reproduction.</para>
+</note>
+</note>
+</section>
+<section id="fs-idp169028144" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp56181088">All species have evolved a pattern of living, called a life history strategy, in which they partition energy for growth, maintenance, and reproduction. These patterns evolve through natural selection; they allow species to adapt to their environment to obtain the resources they need to successfully reproduce. There is an inverse relationship between fecundity and parental care. A species may reproduce early in life to ensure surviving to a reproductive age or reproduce later in life to become larger and healthier and better able to give parental care. A species may reproduce once (semelparity) or many times (iteroparity) in its life.</para>
+</section>
+<!--<section id="fs-idm5693120" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm26065904">
+<problem id="fs-idp76145568"><para id="fs-idp123072016">Which of the following is associated with long-term parental care?</para>
+<list id="fs-idm12393056" list-type="enumerated" number-style="lower-alpha">
+<item>few offspring</item>
+<item>many offspring</item>
+<item>semelparity</item>
+<item>fecundity</item>
+</list>
+</problem>
+<solution id="fs-idp61853872">
+<label/>
+<para id="fs-idm29886896">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm109424304">
+<problem id="fs-idp18793936"><para id="fs-idm143934336">Which of the following is associated with multiple reproductive episodes during a species&#8217; lifetime?</para>
+<list id="fs-idm27616512" list-type="enumerated" number-style="lower-alpha">
+<item>semiparity</item>
+<item>iteroparity</item>
+<item>semelparity</item>
+<item>fecundity</item>
+</list>
+</problem>
+<solution id="fs-idm25777120">
+<label/>
+<para id="fs-idp19355728">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp18708688">
+<problem id="fs-idp18975888"><para id="fs-idm46536848">Which of the following is associated with the reproductive potential of a species?</para>
+<list id="fs-idm33166320" list-type="enumerated" number-style="lower-alpha">
+<item>few offspring</item>
+<item>many offspring</item>
+<item>semelparity</item>
+<item>fecundity</item>
+</list>
+</problem>
+<solution id="fs-idp12740128">
+<label/>
+<para id="fs-idm27821520">D</para></solution>
+</exercise>
+</section>
+<section id="fs-idp2699728" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp55851648">
+<problem id="fs-idp5358224"><para id="fs-idm31785632">Why is long-term parental care not associated with having many offspring during a reproductive episode?</para></problem>
+<solution id="fs-idp81334720"><label/>
+<para id="fs-idm29004448">Parental care is not feasible for organisms having many offspring because they do not have the energy available to take care of offspring. Most of their energy budget is used in the formation of seeds or offspring, so there is little left for parental care. Also, the sheer number of offspring would make individual parental care impossible.</para></solution>
+</exercise>
+</section>-->
+<section id="fs-id1167065948859" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065850250" class="os-exercise">
+<problem id="fs-id1167064697636">
+<para id="fs-id1167064697666">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex020"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066091892" class="os-exercise">
+<problem id="fs-id1167065847580">
+<para id="fs-id1167065868045">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex021"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065949140" class="os-exercise">
+<problem id="fs-id1167064873289">
+<para id="fs-id1167064693342">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex022"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065910913" class="os-exercise">
+<problem id="fs-id1167064950871">
+<para id="fs-id1167066056584">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex023"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163775992370" class="os-exercise">
+<problem id="eip-id1163775680907">
+<para id="eip-id1163775977998">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ot015"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167064906773" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167064892779" class="os-exercise">
+<problem id="fs-id1167066035497">
+<para id="fs-id1167062343119">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex024"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064634984" class="os-exercise">
+<problem id="fs-id1167065681616">
+<para id="fs-id1167066028238">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex025"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163774737639" class="os-exercise">
+<problem id="eip-id1163774663682">
+<para id="eip-id1163774869358">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ot019"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167062320869" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167064684563" class="os-exercise  ost-tag-lo-apbio-ch36-s02-aplo-1-2">
+<problem id="fs-id1167066123630">
+<para id="fs-id1167064903978">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex026"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065802640" class="os-exercise">
+<problem id="fs-id1167066045950">
+<para id="fs-id1167065914823">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex027"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064547355" class="os-exercise  ost-tag-lo-apbio-ch36-s02-aplo-2-1">
+<problem id="fs-id1167065943648">
+<para id="fs-id1167062355450">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex028"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064724141" class="os-exercise">
+<problem id="fs-id1167066033471">
+<para id="fs-id1167066042226">
+<link class="os-embed" url="#ost/api/ex/apbio-ch36-ex029"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1166171496612" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1166173099724">
+<problem id="fs-id1166162677883">
+<para id="fs-id1166168473593">The following problem extends the Hardy-Weinberg model of population dynamics that was covered in Chapter 19. It applies mathematics that would be appropriate after a second course in Algebra. While the concept applied in this problem are within the scope of the Exam the mathematical representations are not and the item is provided to allow students who are able another look at the concepts.</para>
+<para id="fs-id1166171773540">The Hardy-Weinberg model of population dynamics is an algebraic representation of the relationships among genotype frequencies, F, and the probability of the dominant allele A, p, and the recessive allele a, q. The Hardy-Weinberg model of population dynamics is based on several assumptions. One of these assumptions is random mating. If all genes in a population are equally able to reproduce, this means that all genes are equally fit and equally fertile.  Consequently, the population never evolves.</para>
+<para id="fs-id1166173456528">Populations do evolve and the Hardy-Weinberg model can be modified slightly to allow evolution to occur. Suppose that there is an initial population at generation zero and the probability of the dominant allele at that time is p<sub>0</sub>. Later, at population k the probability is different. But if the frequencies of the three different combinations of alleles is known then the probabilities p<sub>k</sub> and q<sub>k</sub> can be calculated at generation k</para>
+<para id="fs-id1166167243174">(1) <m:math display="block">
+ <m:semantics>
+  <m:mrow>
+   <m:msub>
+    <m:mi>p</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mo>=</m:mo><m:msub>
+    <m:mi>F</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mo stretchy="false">(</m:mo><m:mi>A</m:mi><m:mi>A</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>½</m:mn><m:msub>
+    <m:mi>F</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mo stretchy="false">(</m:mo><m:mi>A</m:mi><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mi> </m:mi><m:mspace width="0.25em"/><m:msub>
+    <m:mi>q</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mo>=</m:mo><m:msub>
+    <m:mi>F</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>½</m:mn><m:msub>
+    <m:mi>F</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mo stretchy="false">(</m:mo><m:mi>A</m:mi><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo>
+  </m:mrow>
+ </m:semantics>
+</m:math></para><para id="fs-id1166171952611">And since p and q are probabilities for a case where only two alleles exist, p+q=1. Then also (p+q)<sup>2</sup>=1, leading the Hardy-Weinberg equation</para>
+<equation id="fs-id1166168436358"><m:math display="block">
+ <m:semantics>
+  <m:mrow>
+   <m:msup>
+    <m:mi>p</m:mi>
+    <m:mn>2</m:mn>
+   </m:msup>
+   <m:msub>
+    <m:mrow/>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mo>+</m:mo><m:mn>2</m:mn><m:msub>
+    <m:mi>p</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:msub>
+    <m:mi>q</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mo>+</m:mo><m:msup>
+    <m:mi>q</m:mi>
+    <m:mn>2</m:mn>
+   </m:msup>
+   <m:msub>
+    <m:mrow/>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mo>=</m:mo><m:mn>1</m:mn>
+  </m:mrow>
+ </m:semantics>
+</m:math>
+</equation>
+<para id="fs-id1166173164668">The gene distribution never changes and p<sub>k</sub>=p<sub>k-1</sub>.</para>
+<para id="fs-id1166173359228">The equations of the Hardy-Weinberg model were modified (Haldane, 1924) to create a model in which evolution occurs:</para>
+<para id="fs-id1166168067875">(2) <m:math display="block">
+ <m:semantics>
+  <m:mrow>
+   <m:msub>
+    <m:mi>F</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mo stretchy="false">(</m:mo><m:mi>A</m:mi><m:mi>A</m:mi><m:mo stretchy="false">)</m:mo><m:mi> </m:mi><m:mo>=</m:mo><m:mi> </m:mi><m:msup>
+    <m:mi>p</m:mi>
+    <m:mn>2</m:mn>
+   </m:msup>
+   <m:msub>
+    <m:mrow/>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:msub>
+    <m:mi>w</m:mi>
+    <m:mrow>
+     <m:mi>A</m:mi><m:mi>A</m:mi>
+    </m:mrow>
+   </m:msub>
+   <m:mo>/</m:mo><m:mi>W</m:mi><m:mi> </m:mi><m:mspace width="0.25em"/><m:msub>
+    <m:mi>F</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mo stretchy="false">(</m:mo><m:mi>A</m:mi><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mi> </m:mi><m:mo>=</m:mo><m:mi> </m:mi><m:mn>2</m:mn><m:msub>
+    <m:mi>p</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:msub>
+    <m:mi>q</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:msub>
+    <m:mi>w</m:mi>
+    <m:mrow>
+     <m:mi>A</m:mi><m:mi>a</m:mi>
+    </m:mrow>
+   </m:msub>
+   <m:mo>/</m:mo><m:mi>W</m:mi><m:mi> </m:mi><m:mspace width="0.25em"/><m:msub>
+    <m:mi>F</m:mi>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:mi> </m:mi><m:mo>=</m:mo>
+</m:mrow></m:semantics></m:math><newline/><m:math display="block"><m:semantics><m:mrow>
+<m:mi> </m:mi><m:msup>
+    <m:mi>q</m:mi>
+    <m:mn>2</m:mn>
+   </m:msup>
+   <m:msub>
+    <m:mrow/>
+    <m:mi>k</m:mi>
+   </m:msub>
+   <m:msub>
+    <m:mi>w</m:mi>
+    <m:mrow>
+     <m:mi>a</m:mi><m:mi>a</m:mi>
+    </m:mrow>
+   </m:msub>
+   <m:mo>/</m:mo><m:mi>W</m:mi><m:mi> </m:mi><m:mspace width="0.25em"/><m:mi>W</m:mi><m:mi> </m:mi><m:mo>=</m:mo><m:mi> </m:mi><m:msup>
+    <m:mi>p</m:mi>
+    <m:mn>2</m:mn>
+   </m:msup>
+   <m:msub>
+    <m:mi>w</m:mi>
+    <m:mrow>
+     <m:mi>A</m:mi><m:mi>A</m:mi>
+    </m:mrow>
+   </m:msub>
+   <m:mo>+</m:mo><m:mn>2</m:mn><m:mi>p</m:mi><m:mi>q</m:mi><m:msub>
+    <m:mi>w</m:mi>
+    <m:mrow>
+     <m:mi>A</m:mi><m:mi>a</m:mi>
+    </m:mrow>
+   </m:msub>
+   <m:mo>/</m:mo><m:msup>
+    <m:mi>q</m:mi>
+    <m:mn>2</m:mn>
+   </m:msup>
+   <m:msub>
+    <m:mi>w</m:mi>
+    <m:mrow>
+     <m:mi>a</m:mi><m:mi>a</m:mi>
+    </m:mrow>
+   </m:msub>
+  </m:mrow>
+ </m:semantics>
+</m:math></para><para id="fs-id1166171764543">Haldane divides by the factor W=F<sub>k</sub>(AA)+F<sub>k</sub>(Aa)+F<sub>k</sub>(aa) so that the probabilities that are still calculated with equation (1) to continue to satisfy the condition for p and q to represent probabilities: (p+q)<sup>2</sup>=1.</para>
+<para id="fs-id1166168383748">A. <emphasis>Justify</emphasis> Haldanes model in terms of what the factors w<sub>AA</sub>, w<sub>Aa</sub>, and w<sub>aa</sub> mean.</para>
+<para id="fs-id1166171540879">B. Suppose that w<sub>AA</sub> = w<sub>Aa</sub> = 1, but that w<sub>aa</sub> = 0.8. <emphasis>Predict</emphasis> what will happen to the population over time.</para>
+<para id="fs-id1166168560756">Fitness is determined by the environment.  Moree (<emphasis effect="italics">The American Naturalist</emphasis>, 86, 1952) measured the relative fitness in <emphasis effect="italics">Drosophila melanogaster</emphasis> of a recessive allele that imparts black eye color as population density increases.  A varying number of flies with an equal number of males and females were placed in a pint jar and progeny counted.  In each experiment the population was initially heterozygous.</para>
+<table id="fs-id1166173363392" summary="This table has two columns. The first row has the title of Number of females x Number of males. The second column title is waa . The first row reads from left to right 1 x 1 and 0, the second column reads 10 x 10 and 0.06, the third row reads 50 x 50 and 0.11 the final row reads 150 x 150 and 0.46.">
+<tgroup cols="2">
+<thead>
+<row>
+<entry align="center">Number of females x Number of males</entry>
+<entry align="center">w<sub>aa</sub></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">1 x 1</entry>
+<entry align="center">0</entry>
+</row>
+<row>
+<entry align="center">10 x 10</entry>
+<entry align="center">0.06</entry>
+</row>
+<row>
+<entry align="center">50 x 50</entry>
+<entry align="center">0.11</entry>
+</row>
+<row>
+<entry align="center">150 x 150</entry>
+<entry align="center">0.46</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1166162883858">C. Apply Haldanes approach to <emphasis>calculate</emphasis> the probability p in the first generation after mating 150 female and 150 male flies that are heterozygous using w<sub>AA</sub> = w<sub>Aa</sub> = 1.</para><para id="fs-id1166168117040">Rendel (Evolution, 5, 1951) conducted an investigation of the dependence of fecundity (fertility) on light in ebony-eyed <emphasis effect="italics">D. melanogaster</emphasis>.  A summary of some of the data that he reported is shown in the table below:</para>
+<table id="fs-id1166173138098" summary="This table has three columns. The title of the table is Fraction Females inseminated. The first row reads from left to right Phenotype of males, Light condition, and Dark condition. The second row reads Ebony, 0.215, and 0.607. The last row reads Wild type, 0.494, and 0.466.">
+<tgroup cols="3">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<colspec colname="col3"/>
+<thead>
+<row>
+<entry align="center"/>
+<entry namest="col2" nameend="col3" align="center">Fraction females inseminated</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">Phenotype of male</entry>
+<entry align="center">Light condition</entry>
+<entry align="center">Dark condition</entry>
+</row>
+<row>
+<entry align="center">Ebony</entry>
+<entry align="center">0.215</entry>
+<entry align="center">0.607</entry>
+</row>
+<row>
+<entry align="center">Wild type</entry>
+<entry align="center">0.494</entry>
+<entry align="center">0.466</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1166162771327">D. <emphasis>Pose two scientific questions</emphasis> concerning the behavioral response indicated by the data that can be tested experimentally.</para>
+<para id="fs-id1166168541189">E. Is there a question you can add here to wrap up this set with this LO from the list? In this case light is the single environmental factor, and they two phenotypes are ebony and wild type that result from different genotypes within the population of flies.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp176649712"><term>energy budget</term> <meaning id="fs-idp147648272">allocation of energy resources for body maintenance, reproduction, and parental care</meaning></definition>
+<definition id="fs-idp70359248"><term>fecundity</term> <meaning id="fs-idp44622256">potential reproductive capacity of an individual</meaning></definition>
+<definition id="fs-idm9733952"><term>iteroparity</term> <meaning id="fs-idp49358768">life history strategy characterized by multiple reproductive events during the lifetime of a species</meaning></definition>
+<definition id="fs-idm29204080"><term>life history</term> <meaning id="fs-idm40422224">inherited pattern of resource allocation under the influence of natural selection and other evolutionary forces</meaning></definition>
+<definition id="fs-idm14845536"><term>semelparity</term> <meaning id="fs-idp108163040">life history strategy characterized by a single reproductive event followed by death</meaning></definition>
+</glossary>
+</document>

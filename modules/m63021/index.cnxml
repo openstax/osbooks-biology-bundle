@@ -1,0 +1,400 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Scope of Ecology</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63021</md:content-id>
+  <md:title>The Scope of Ecology</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define ecology and the four levels of ecological research</item>
+<item>Describe examples of the ways in which ecology requires the integration of different scientific disciplines</item>
+<item>Distinguish between abiotic and biotic components of the environment</item>
+<item>Recognize the relationship between abiotic and biotic components of the environment</item>
+</list></md:abstract>
+  <md:uuid>446ad822-bb50-457a-bd12-374abae8e700</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065071779" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167064951908">In this section, you will explore the following questions:</para>
+<list id="fs-id1167065821839">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch35-s01-lo01">What is ecology, and what are the four levels of ecological research?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch35-s01-lo02">What are examples of the ways in which ecology requires the integration of different scientific disciplines?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch35-s01-lo03">What are examples of biotic and abiotic components of the environment?</item>
+</list>
+</section>
+<section id="fs-id1167064875985" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167065943518"><emphasis>Ecology</emphasis> is the study of the interactions among living organisms and with their environment. This includes relationships between organisms of the same species and also between different species. One core goal of ecology is to understand the distribution and abundance of organisms that inhabit the Earth. Ecology integrates multiple scientific disciplines in addition to biology, including molecular biology, physiology, evolution, biodiversity, geology, and climatology. Some ecological research also applies aspects of chemistry and physics, and it frequently uses mathematical models.</para>
+<para id="fs-id1167064892150" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167065811723" summary="Table with three rows and two columns. First Column First Row: Essential Knowledge. Second Column Second Row: 4.A.6 Interactions among living organisms and with their environment results in the movement of matter and energy. First Column Second Row: Science Practice. Second Column Second Row: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. First Column Third Row: Learning Objective. Second Column Third Row 4.15 The student is able to use visual representations to analyze situations or solve problems qualitatively to illustrate how interactions among living systems and with their environment result in the movement of matter and energy." class="unnumbered column-header ost-reading-discard top-titled"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-6">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.6 </emphasis></span>
+<span class="ost-standards-description">Interactions among living organisms and with their environment results in the movement of matter and energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch35-s01-aplo-4-15">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.15 </emphasis></span>
+<span class="ost-standards-description">The student is able to use visual representations to analyze situations or solve problems qualitatively to illustrate how interactions among living systems and with their environment result in the movement of matter and energy.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+<note id="fs-idp144624304" class="interactive ost-tag-lo-apbio-ch35-s01-lo04 ost-tag-lo-apbio-ch35-s01-aplo-4-15 ost-assessed-feature"><label>Link to Learning</label>
+<para id="fs-idp245465824">Climate change can alter where organisms live, which can sometimes directly affect human health. Watch the PBS video <link window="new" url="http://openstax.org/l/climate_health">“Feeling the Effects of Climate Change”</link> in which researchers discover a pathogenic organism living far outside of its normal range.</para>
+<exercise id="fs-id1167065843461" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167066139489">
+<para id="fs-id1167065769868">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex001"/>
+</para>
+</problem>
+</exercise>
+</note><section id="fs-idp328287056" class="ost-tag-lo-apbio-ch35-s01-lo01 ost-tag-lo-apbio-ch35-s01-lo02 ost-get-exercise">
+<title>Levels of Ecological Study</title>
+<para id="fs-idp98015680">When a discipline such as biology is studied, it is often helpful to subdivide it into smaller, related areas. For instance, cell biologists interested in cell signaling need to understand the chemistry of the signal molecules (which are usually proteins) as well as the result of cell signaling. Ecologists interested in the factors that influence the survival of an endangered species might use mathematical models to predict how current conservation efforts affect endangered organisms. To produce a sound set of management options, a conservation biologist needs to collect accurate data, including current population size, factors affecting reproduction (like physiology and behavior), habitat requirements (such as plants and soils), and potential human influences on the endangered population and its habitat (which might be derived through studies in sociology and urban ecology). Within the discipline of ecology, researchers work at four specific levels, sometimes discretely and sometimes with overlap: organism, population, community, and ecosystem (<link target-id="fig-ch44_01_01" document=""/>).</para>
+<figure id="fig-ch44_01_01" class="ost-tag-lo-apbio-ch35-s01-lo01 ost-tag-lo-apbio-ch35-s01-aplo-4-15"><media id="fs-idp171730656" alt="A flow chart of three boxes shows the hierarchy of living organisms. The top box is labeled “Organisms, populations, and communities” and has a photograph of tall trees in a forest. The second box is labeled “ecosystems” and has a photograph of a body of water, behind which is a stand of tall grasses developing into more dense vegetation and trees as distance from the water increases. The third box is labeled “the biosphere” and shows a drawing of planet Earth.">
+<image mime-type="image/jpg" src="../../media/Figure_44_01_01.jpg" width="300"/>
+</media>
+<caption>Ecologists study within several biological levels of organization. (credit “organisms”: modification of work by "Crystl"/Flickr; credit “ecosystems”: modification of work by Tom Carlisle, US Fish and Wildlife Service Headquarters; credit “biosphere”: NASA)</caption></figure></section>
+<section id="fs-idp77553120" class="ost-tag-lo-apbio-ch35-s01-lo01 ost-tag-lo-apbio-ch35-s01-lo02 ost-get-exercise">
+<title>Organismal Ecology</title><para id="fs-idp136109520">Researchers studying ecology at the organismal level are interested in the adaptations that enable individuals to live in specific habitats. These adaptations can be morphological, physiological, and behavioral. For instance, the Karner blue butterfly (<emphasis effect="italics">Lycaeides melissa samuelis</emphasis>) (<link target-id="fig-ch44_01_02" document=""/>) is considered a specialist because the females preferentially oviposit (that is, lay eggs) on wild lupine. This preferential adaptation means that the Karner blue butterfly is highly dependent on the presence of wild lupine plants for its continued survival.</para>
+<figure id="fig-ch44_01_02" class="ost-tag-lo-apbio-ch35-s01-lo03"><media id="fs-idp79973776" alt="Photo depicts a Karner blue butterfly, which has light blue wings with gold ovals and black dots around the edges.">
+<image mime-type="image/jpg" src="../../media/Figure_44_01_02.jpg" width="280"/>
+</media>
+<caption>The Karner blue butterfly (<emphasis effect="italics">Lycaeides melissa samuelis</emphasis>) is a rare butterfly that lives only in open areas with few trees or shrubs, such as pine barrens and oak savannas. It can only lay its eggs on lupine plants. (credit: modification of work by J &amp; K Hollingsworth, USFWS)</caption></figure><para id="fs-idp204742976">After hatching, the larval caterpillars emerge and spend four to six weeks feeding solely on wild lupine (<link target-id="fig-ch44_01_03" document=""/>). The caterpillars pupate (undergo metamorphosis) and emerge as butterflies after about four weeks. The adult butterflies feed on the nectar of flowers of wild lupine and other plant species. A researcher interested in studying Karner blue butterflies at the organismal level might, in addition to asking questions about egg laying, ask questions about the butterflies’ preferred temperature (a physiological question) or the behavior of the caterpillars when they are at different larval stages (a behavioral question).</para>
+<figure id="fig-ch44_01_03" class="span-class ost-tag-lo-apbio-ch35-s01-lo03"><media id="fs-idp307865920" alt="This photo depicts a wild lupine flower, which is long and thin with clam-shaped petals radiating out from the center. The bottom third of the flower is blue, the middle is pink and blue, and the top is green.">
+<image mime-type="image/jpg" src="../../media/Figure_44_01_03.jpg" width="185"/>
+                </media>
+
+            <caption>The wild lupine (<emphasis effect="italics">Lupinus perennis</emphasis>) is the host plant for the Karner blue butterfly.</caption></figure></section>
+<section id="fs-idp94955104" class="ost-tag-lo-apbio-ch35-s01-lo01 ost-tag-lo-apbio-ch35-s01-lo02 ost-get-exercise">
+<title>Population Ecology</title>
+<para id="fs-idp294320048">A population is a group of interbreeding organisms that are members of the same species living in the same area at the same time. (Organisms that are all members of the same species are called <emphasis>conspecifics</emphasis>.) A population is identified, in part, by where it lives, and its area of population may have natural or artificial boundaries: natural boundaries might be rivers, mountains, or deserts, while examples of artificial boundaries include mowed grass, manmade structures, or roads. The study of population ecology focuses on the number of individuals in an area and how and why population size changes over time. Population ecologists are particularly interested in counting the Karner blue butterfly, for example, because it is classified as federally endangered. However, the distribution and density of this species is highly influenced by the distribution and abundance of wild lupine. Researchers might ask questions about the factors leading to the decline of wild lupine and how these affect Karner blue butterflies. For example, ecologists know that wild lupine thrives in open areas where trees and shrubs are largely absent. In natural settings, intermittent wildfires regularly remove trees and shrubs, helping to maintain the open areas that wild lupine requires. Mathematical models can be used to understand how wildfire suppression by humans has led to the decline of this important plant for the Karner blue butterfly.</para>
+</section>
+<note id="fs-id1167064981132" class="os-teacher ost-tag-lo-apbio-ch35-s01-lo02 ost-tag-lo-apbio-ch35-s01-aplo-4-15">
+<label>Teacher Support</label>
+<note id="fs-id1167065967112" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167062410313">As humans continue to rise in population and the infrastructure to handle this population growth continues to expand, so do the boundaries between populations of animals. Animals that were once a single population are divided by structures such as highways. Many places are trying to remedy this ecosystem disruption by creating wildlife overpasses. One such overpass is being constructed in Seattle. For more information, read the <link url="http://openstax.org/l/32wloverpass">Seattle Times article</link>.</para>
+</note>
+</note>
+<section id="fs-idp217491760" class="ost-tag-lo-apbio-ch35-s01-lo01 ost-tag-lo-apbio-ch35-s01-aplo-4-15 ost-get-exercise">
+<title>Community Ecology</title>
+<para id="fs-idp293993984">A biological community consists of the different species within an area, typically a three-dimensional space, and the interactions within and among these species. Community ecologists are interested in the processes driving these interactions and their consequences. Questions about conspecific interactions often focus on competition among members of the same species for a limited resource. Ecologists also study interactions among various species; members of different species are called <emphasis>heterospecifics</emphasis>. Examples of heterospecific interactions include predation, parasitism, herbivory, competition, and pollination. These interactions can have regulating effects on population sizes and can impact ecological and evolutionary processes affecting diversity.</para>
+<para id="fs-idp235566208">For example, Karner blue butterfly larvae form mutualistic relationships with ants. Mutualism is a form of a long-term relationship that has coevolved between two species and from which each species benefits. For mutualism to exist between individual organisms, each species must receive some benefit from the other as a consequence of the relationship. Researchers have shown that there is an increase in the probability of survival when Karner blue butterfly larvae (caterpillars) are tended by ants. This might be because the larvae spend less time in each life stage when tended by ants, which provides an advantage for the larvae. Meanwhile, the Karner blue butterfly larvae secrete a carbohydrate-rich substance that is an important energy source for the ants. Both the Karner blue larvae and the ants benefit from their interaction.</para>
+</section>
+<section id="fs-idp219108176" class="ost-tag-lo-apbio-ch35-s01-lo01 ost-tag-lo-apbio-ch35-s01-lo03 ost-tag-lo-apbio-ch35-s01-lo04 ost-tag-lo-apbio-ch35-s01-aplo-4-15 ost-get-exercise">
+<title>Ecosystem Ecology</title>
+<para id="fs-idp217223040">Ecosystem ecology is an extension of organismal, population, and community ecology. The ecosystem is composed of all the <emphasis>biotic</emphasis> components (living things) in an area along with the <emphasis>abiotic</emphasis> components (non-living things) of that area. Some of the abiotic components include air, water, and soil. Ecosystem biologists ask questions about how nutrients and energy are stored and how they move among organisms and the surrounding atmosphere, soil, and water.</para>
+<para id="fs-idp199797600">The Karner blue butterflies and the wild lupine live in an oak-pine barren habitat. This habitat is characterized by natural disturbance and nutrient-poor soils that are low in nitrogen. The availability of nutrients is an important factor in the distribution of the plants that live in this habitat. Researchers interested in ecosystem ecology could ask questions about the importance of limited resources and the movement of resources, such as nutrients, though the biotic and abiotic portions of the ecosystem.</para>
+<note id="fs-idp253707680" class="career ost-tag-lo-apbio-ch35-s01-lo02 ost-tag-lo-apbio-ch35-s01-aplo-4-15 ost-feature"><title>Ecologist</title>
+<para id="fs-idp56166608">
+A career in ecology contributes to many facets of human society. Understanding ecological issues can help society meet the basic human needs of food, shelter, and health care. Ecologists can conduct their research in the laboratory and outside in natural environments (<link target-id="fig-ch44_01_04" document=""/>). These natural environments can be as close to home as the stream running through your campus or as far away as the hydrothermal vents at the bottom of the Pacific Ocean. Ecologists manage natural resources such as white-tailed deer populations (<emphasis effect="italics">Odocoileus virginianus</emphasis>) for hunting or aspen (<emphasis effect="italics">Populus </emphasis>spp.) timber stands for paper production. Ecologists also work as educators who teach children and adults at various institutions including universities, high schools, museums, and nature centers. Ecologists may also work in advisory positions assisting local, state, and federal policymakers to develop laws that are ecologically sound, or they may develop those policies and legislation themselves. To become an ecologist requires an undergraduate degree, usually in a natural science. The undergraduate degree is often followed by specialized training or an advanced degree, depending on the area of ecology selected. Ecologists should also have a broad background in the physical sciences, as well as a sound foundation in mathematics and statistics.</para>
+<figure id="fig-ch44_01_04" class=" "><media id="fs-idp247898672" alt=" This photo shows a woman looking into a small cage with its door open. The cage sits on short prairie grass, next to a hole with dirt around the rim. In the background sits a second, closed cage.">
+<image mime-type="image/jpg" src="../../media/Figure_44_01_04.jpg" width="280"/>
+</media>
+<caption>This landscape ecologist is releasing a black-footed ferret into its native habitat as part of a study. (credit: USFWS Mountain Prairie Region, NPS)</caption></figure></note><note id="fs-idp159502256" class="interactive ost-tag-lo-apbio-ch35-s01-lo02 ost-assessed-feature"><label>Link to Learning</label>
+<para id="fs-idp224310592">Visit this <link window="new" url="http://openstax.org/l/ecologist_role">site</link> to see Stephen Wing, a marine ecologist from the University of Otago, discuss the role of an ecologist and the types of issues ecologists explore.</para>
+<exercise id="fs-id1167065774452" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167066137821">
+<para id="fs-id1167066029340">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex002"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<section id="fs-idp123140272" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp159113728">Ecology is the study of the interactions of living things with their environment. Ecologists ask questions across four levels of biological organization—organismal, population, community, and ecosystem. At the organismal level, ecologists study individual organisms and how they interact with their environments. At the population and community levels, ecologists explore, respectively, how a population of organisms changes over time and the ways in which that population interacts with other species in the community. Ecologists studying an ecosystem examine the living species (the biotic components) of the ecosystem as well as the nonliving portions (the abiotic components), such as air, water, and soil, of the environment.</para>
+    </section>
+<!--<section id="fs-idp252897232" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp132626720">
+<problem id="fs-idp309281232"><para id="fs-idp202481584">Which of the following is a biotic factor?</para>
+<list id="fs-idp50368" list-type="enumerated" number-style="lower-alpha"><item>wind</item>
+<item>disease-causing microbe</item>
+<item>temperature</item>
+<item>soil particle size</item>
+</list></problem>
+<solution id="fs-idp165463184">
+<label/>
+<para id="fs-idp410719632">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp212979968">
+<problem id="fs-idp327946784"><para id="fs-idp217068256">The study of nutrient cycling though the environment is an example of which of the following?</para>
+<list id="fs-idp159876240" list-type="enumerated" number-style="lower-alpha"><item>organismal ecology</item>
+<item>population ecology</item>
+<item>community ecology</item>
+<item>ecosystem ecology</item>
+</list></problem>
+<solution id="fs-idp309194592">
+<label/>
+<para id="fs-idp313092128">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp256446000" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp233903200">
+<problem id="fs-idp217486736"><para id="fs-idp245898512">Ecologists often collaborate with other researchers interested in ecological questions. Describe the levels of ecology that would be easier for collaboration because of the similarities of questions asked. What levels of ecology might be more difficult for collaboration?</para></problem>
+<solution id="fs-idp206752608"><label/>
+<para id="fs-idp309300496">Ecologists working in organismal or population ecology might ask similar questions about how the biotic and abiotic conditions affect particular organisms and, thus, might find collaboration to be mutually beneficial. Levels of ecology such as community ecology or ecosystem ecology might pose greater challenges for collaboration because these areas are very broad and may include many different environmental components.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp316645872">
+<problem id="fs-idp314239152"><para id="fs-idp271887136">The population is an important unit in ecology as well as other biological sciences. How is a population defined, and what are the strengths and weaknesses of this definition? Are there some species that at certain times or places are not in populations?</para></problem>
+<solution id="fs-idp266661904"><label/>
+<para id="fs-idp254516704">It is beneficial to consider a population to be all of the individuals living in the same area at the same time because it allows the ecologist to identify and study all of the abiotic and biotic factors that may affect the members of the population. However, this definition of a population could be considered a drawback if it prohibits the ecologist from studying a population&#8217;s individuals that may be transitory, but still influential. Some species with members that have a wide geographic range might not be considered to be a population, but could still have many of the qualities of a population.</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167065854264" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065985028" class="os-exercise">
+<problem id="fs-id1167066032049">
+<para id="fs-id1167065881198">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex003"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066030187" class="os-exercise">
+<problem id="fs-id1167065012362">
+<para id="fs-id1167062551629">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex004"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064784288" class="os-exercise">
+<problem id="fs-id1167065028632">
+<para id="fs-id1167065899080">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064549739" class="os-exercise">
+<problem id="fs-id1167065821519">
+<para id="fs-id1167065801399">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065856328" class="os-exercise">
+<problem id="fs-id1167064909607">
+<para id="fs-id1167065938565">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex007"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066141964" class="os-exercise">
+<problem id="fs-id1167066097926">
+<para id="fs-id1167066097086">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163774751110" class="os-exercise">
+<problem id="eip-id1163774756996">
+<para id="eip-id1163774756998">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ot001"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065687636" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167065975965" class="os-exercise">
+<problem id="fs-id1167065785424">
+<para id="fs-id1167065773582">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex009"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065849906" class="os-exercise">
+<problem id="fs-id1167065843960">
+<para id="fs-id1167065913260">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex010"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065949709" class="os-exercise">
+<problem id="fs-id1167065863840">
+<para id="fs-id1167065851120">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex011"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163775881762" class="os-exercise">
+<problem id="eip-id1163775881766">
+<para id="eip-id1163775881768">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ot003"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066121694" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup><sup>®</sup></sup> Courses</title><exercise id="fs-id1167066137378" class="os-exercise  ost-tag-lo-apbio-ch35-s01-aplo-4-15">
+<problem id="fs-id1167066034940">
+<para id="fs-id1167062407838">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex012"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065862771" class="os-exercise">
+<problem id="fs-id1167065086691">
+<para id="fs-id1167065740248">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ex013"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163775952127" class="os-exercise">
+<problem id="eip-id1163775953352">
+<para id="eip-id1163775953354">
+<link class="os-embed" url="#ost/api/ex/apbio-ch35-ot010"/>
+</para>
+</problem>
+</exercise></section>
+<section id="fs-id1166170784919" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1166169316238">
+<problem id="fs-id1166170639391">
+<para id="fs-id1166164886274">Twenty targets for the protection of biodiversity by 2020 were established by the 2010 Convention on Biological Diversity. Midway to the target date it is widely agreed that the goals will not be met.  The <emphasis effect="italics">2016 Living Planet Report</emphasis> from the World Wildlife Federation claims global populations of animals fell by 58 percent between 1970 and 2012 and extrapolates the loss by 2020 to 67%.  E.O. Wilson's estimate of the current extinction rate is three species per hour.  Geologic periods are defined by mass extinctions.  The proposed name for the current geological period is the Anthropocene (Waters et al., <emphasis effect="italics">Science</emphasis>, 2016).</para><para id="fs-id1166174769475">During the current period of mass extinction, human activities are driving loss of habitat and climate change.  Climate change during the last 500,000 years is a direct consequence of rising atmospheric CO<sub>2</sub> levels, as the graph shows.  The relative abundance of O<sup>16</sup> and O<sup>18</sup> isotopes can be used to infer temperature because as temperature increases the lower mass isotope is enriched in the atmosphere (objects with a smaller mass have a higher velocity at equal molecular kinetic energy that is proportional to temperature).</para>
+<figure id="fs-id1166174606680"><media id="fs-id1166174259956" alt="This graph shows carbon dioxide concentration in P P M on the left y-axis, which ranges from 150 to 350. It also shows Temperature difference on the right Y axis, which ranges from negative 10 to negative 6. The X axis is titled years before present and ranges from 450000 to 50000. The blue trend line shows temperature in degrees centrigrade compared with the 1960 to 1990 baseline. The red trend line shows atmospheric carbon dioxide in parts per mission. Both the red and the blue lines cycle up and down four times across the graph with peaks occurring at about equally spaced intervals. The first peak is between 45000 and 400000 and the last peak is right before 0 years before present. The peaks reach into the upper portion of the graph for both carbon dioxide and temperature.The five peaks are separated by troughs where temperature and carbon dioxide both drop to near the bottom of the graph.">
+<image mime-type="image/jpeg" src="../../media/CNX_AP_Bio_35_01a.jpg" width="450"/>
+</media>
+</figure><para id="fs-id1166161435906">The role of humans in the last great extinction, the Holocene Extinction, during which the megafauna such as the wooly mammoth, the wooly rhinoceros and the giant deer disappeared, has long been debated.  Did we hunt these creatures to extinction?  By examining all available DNA evidence, Cooper et al. (<emphasis effect="italics">Science</emphasis>, 349, 2015) have compared time extinction intervals with these oscillations of climate as shown in the table.</para><table id="fs-id1166172849139" summary="The first row contains Bear for Animal, A for Label, Beringia for Location, 24 for Beginning extinction date in thousands of years ago and 21 for Ending extinction event in thousands of years ago. The second row contains Bison for Animal, B for Label, Europe for Location, 35 for Beginning extinction date in thousands of years ago and 32 for Ending extinction event in thousands of years ago. The third row contains Rhinoceros for Animal, C for Label, Britain for Location, 36 for Beginning extinction date in thousands of years ago and 32 for Ending extinction event in thousands of years ago. The fourth row contains Rhinoceros for Animal, D for Label, Russia for Location, 14 for Beginning extinction date in thousands of years ago and 13 for Ending extinction event in thousands of years ago. The fifth row contains horse for Animal, E for Label, North America for Location, 15 for Beginning extinction date in thousands of years ago and 13 for Ending extinction event in thousands of years ago. The sixth row contains horse for Animal, F for Label, Beringia for Location, 43 for Beginning extinction date in thousands of years ago and 38 for Ending extinction event in thousands of years ago. The seventh row contains mastodon for Animal, G for Label, North America for Location, 12 for Beginning extinction date in thousands of years ago and 11 for Ending extinction event in thousands of years ago. The eighth row contains mammoth for Animal, H for Label, Europe for Location, 13 for Beginning extinction date in thousands of years ago and 12 for Ending extinction event in thousands of years ago. The ninth row contains mammoth for Animal, I for Label, Eurasia for Location, 11 for Beginning extinction date in thousands of years ago and 10 for Ending extinction event in thousands of years ago. The tenth row contains musk ox for Animal, J for Label, Eurasia for Location, 48 for Beginning extinction date in thousands of years ago and 44 for Ending extinction event in thousands of years ago. The eleventh row contains deer for Animal, K for Label, Europe for Location, 13 for Beginning extinction date in thousands of years ago and 12 for Ending extinction event in thousands of years ago. The ninth row contains cave lion for Animal, L for Label, Beringia for Location, 14 for Beginning extinction date in thousands of years ago and 12 for Ending extinction event in thousands of years ago. The tenth row contains cave bear for Animal, M for Label, Europe for Location, 29 for Beginning extinction date in thousands of years ago and 27 for Ending extinction event in thousands of years ago.">
+<tgroup cols="5"><thead>
+<row>
+<entry align="center">Animal</entry>
+<entry align="center">Label</entry>
+<entry align="center">Loc-<newline/>ation</entry>
+<entry align="center">Begin<newline/>extinct<newline/>event<newline/>(TYA)</entry>
+<entry align="center">End<newline/>extinct<newline/>event<newline/> (TYA)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">Bear</entry>
+<entry align="center">a</entry>
+<entry align="center">Ber-<newline/>ingia</entry>
+<entry align="center">24</entry>
+<entry align="center">21</entry>
+</row>
+<row>
+<entry align="center">Bison</entry>
+<entry align="center">b</entry>
+<entry align="center">Europe</entry>
+<entry align="center">35</entry>
+<entry align="center">32</entry>
+</row>
+<row>
+<entry align="center">Rhino-<newline/>ceros</entry>
+<entry align="center">c</entry>
+<entry align="center">Britain</entry>
+<entry align="center">36</entry>
+<entry align="center">32</entry>
+</row>
+<row>
+<entry align="center">Rhino-<newline/>ceros</entry>
+<entry align="center">d</entry>
+<entry align="center">Russia</entry>
+<entry align="center">14</entry>
+<entry align="center">13</entry>
+</row>
+<row>
+<entry align="center">Horse</entry>
+<entry align="center">e</entry>
+<entry align="center">North<newline/>America</entry>
+<entry align="center">15</entry>
+<entry align="center">13</entry>
+</row>
+<row>
+<entry align="center">Horse</entry>
+<entry align="center">f</entry>
+<entry align="center">Ber-<newline/>ingia</entry>
+<entry align="center">43</entry>
+<entry align="center">38</entry>
+</row>
+<row>
+<entry align="center">Mast-<newline/>odon </entry>
+<entry align="center">g</entry>
+<entry align="center">North<newline/>America </entry>
+<entry align="center">12 </entry>
+<entry align="center">11 </entry>
+</row>
+<row>
+<entry align="center">Mam-<newline/>moth</entry>
+<entry align="center">h</entry>
+<entry align="center">Europe</entry>
+<entry align="center">13</entry>
+<entry align="center">12</entry>
+</row>
+<row>
+<entry align="center">Mam-<newline/>moth</entry>
+<entry align="center">i</entry>
+<entry align="center">Eurasia</entry>
+<entry align="center">11</entry>
+<entry align="center">10</entry>
+</row>
+<row>
+<entry align="center">Musk<newline/>Ox</entry>
+<entry align="center">j</entry>
+<entry align="center">Eurasia</entry>
+<entry align="center">48</entry>
+<entry align="center">44</entry>
+</row>
+<row>
+<entry align="center">Deer</entry>
+<entry align="center">k</entry>
+<entry align="center">Europe</entry>
+<entry align="center">13</entry>
+<entry align="center">12</entry>
+</row>
+<row>
+<entry align="center">Cave<newline/>Lion</entry>
+<entry align="center">l</entry>
+<entry align="center">Ber-<newline/>ingia</entry>
+<entry align="center">14</entry>
+<entry align="center">12</entry>
+</row>
+<row>
+<entry align="center">Cave<newline/>Bear</entry>
+<entry align="center">m</entry>
+<entry align="center">Europe</entry>
+<entry align="center">29</entry>
+<entry align="center">27</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup><caption>TYA = thousand years ago</caption>
+</table><para id="fs-id1166170565077">Additionally, the data shown in the graph below are obtained from ice cores. The deeper the sample, the older the sample. The percent departure from the current O<sup>18</sup> percentage that is graphed above is a measure of temperature relative to the present temperature. The higher the isotope concentration, the higher the average temperature of the ocean.</para>
+<figure id="fs-id1166170557121"><media id="fs-id1166174454773" alt="This plot shows delta oxygen 18 percent on the Y axis and thousand years ago on the x axis, ranging from 0 to 50. The plot line fluctuates heavily between 1- and 50, with a slight dip in the fluctuations occurring between 25 and 30 thousand years ago. One of the higher peaks is labelled with an A and occurs between 20 and 25 thousand years ago.">
+<image mime-type="image/jpeg" src="../../media/OSX_AP_Bio_Figure_35_01b.jpg" width="500"/>
+</media>
+</figure><para id="fs-id1166174553002">A. <emphasis>Refine</emphasis> the graph by adding the interval of time of extinction with a label drawn from the table as shown by a.</para>
+<para id="fs-id1166172879539">B. <emphasis>Analyze</emphasis> these data in terms of the clustering of extinction events.</para>
+<para id="fs-id1166165162135">C. Based on your analysis, <emphasis>explain</emphasis> how ecosystems have changed during the last 40,000 years, changed and <emphasis>identify</emphasis> the factor that caused these changes.</para>
+<para id="fs-id1166174662261">D. Based on the correlation between Earths temperature and the concentration of CO<sub>2</sub> in the atmosphere, <emphasis>predict</emphasis> what will happen to animal populations in the future.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp241168240"><term>abiotic</term> <meaning id="fs-idp219288976">nonliving components of the environment</meaning></definition>
+<definition id="fs-idp167420576"><term>biotic</term> <meaning id="fs-idp97176032">living components of the environment</meaning></definition>
+<definition id="fs-idp359775280"><term>conspecifics</term> <meaning id="fs-idp137789840">individuals that are members of the same species</meaning></definition>
+<definition id="fs-idp215337104"><term>ecology</term> <meaning id="fs-idp407682048">study of interaction between living things and their environment</meaning></definition>
+<definition id="fs-idp166187056"><term>heterospecifics</term> <meaning id="fs-idp246401872">individuals that are members of different species</meaning></definition>
+</glossary>
+</document>

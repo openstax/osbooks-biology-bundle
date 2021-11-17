@@ -1,0 +1,272 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Glycolysis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62787</md:content-id>
+  <md:title>Glycolysis</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the overall result in terms of molecules produced in the breakdown of glucose by glycolysis</item>
+<item>Compare the output of glycolysis in terms of ATP molecules and NADH molecules produced</item>
+</list></md:abstract>
+  <md:uuid>2d231f13-8996-4207-9a3e-5daba9aa7edc</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065795241" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167065711505">In this section, you will explore the following question:</para><list id="fs-id1167065849206">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch07-s02-lo01">What is the overall result, in terms of molecules produced, in the breakdown of glucose by glycolysis?</item>
+</list>
+</section>
+
+<section id="fs-id1167065845476" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167065939188">All organisms, from simple bacteria and yeast to complex plants and animals, carry out some form of cellular respiration to capture and supply free energy for cellular processes. Although cellular respiration and photosynthesis evolved as independent processes, today they are interdependent. The products of photosynthesis, carbohydrates and oxygen gas, are used during cellular respiration. Likewise, the byproduct of cellular respiration, CO<sub>2</sub> gas, is used during photosynthesis. Glycolysis is the first pathway used in the breakdown of glucose to extract free energy. Used by nearly all organisms on earth today, glycolysis likely evolved as one of the first metabolic pathways. It is important to note that glycolysis occurs in the cytoplasm of both prokaryotic and eukaryotic cells. (Remember that only eukaryotic cells have mitochondria.)</para>
+<para id="fs-id1167065800953">Like all metabolic pathways, glycolysis occurs in steps or stages. In the first stage, the six-carbon ring of glucose is prepared for cleavage (“splitting”) into two three-carbon molecules by investing two molecules of ATP to energize the separation. (Don’t worry; the cell will get the investment of ATP back. It’s like the stock market: You have to invest money to, hopefully, make money!) As glucose is metabolized further, bonds are rearranged through a series of enzyme-catalyzed steps, and free energy is released to form ATP from ADP and free phosphate molecules. The availability of enzymes can affect the rate of glucose metabolism. Two molecules of pyruvate are ultimately produced. High-energy electrons and hydrogen atoms pass to NAD<sup>+</sup>, reducing it to NADH. Although two molecules of ATP were invested to destabilize glucose at the beginning of the process, four molecules of ATP are formed by substrate-level phosphorylation, resulting in a net gain of two ATP and two NADH molecules for the cell.</para>
+<para id="fs-id1167065854867" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 1 and Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167065793044" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Third left cell reads: Learning Objective. Third right cell reads: 1.15 The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
+<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1 </emphasis></span>
+<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s02-aplo-1-15">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.15 </emphasis></span>
+<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
+</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.2 </emphasis></span>
+<span class="ost-standards-description">Organisms capture and store free energy for use in biological processes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s02-aplo-2-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.4 </emphasis></span>
+<span class="ost-standards-description">The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.2 </emphasis></span>
+<span class="ost-standards-description">Organisms capture and store free energy for use in biological processes.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s02-aplo-2-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.5 </emphasis></span>
+<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store, or use free energy.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table></section>
+
+<note id="fs-id1167066142524" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065841082">Discuss with students how glycolysis is considered to be the oldest and most conserved metabolic pathway. Discuss with students how this process is found in all domains of life. Glycolysis is an anaerobic process, and the early atmosphere of Earth had very little oxygen. This means that glycolysis could have taken place in early prokaryotes because it does not require oxygen. Glycolysis takes place in the cell cytosol, and not the mitochondrial membrane. Prokaryotes, which don’t have membrane bound organelles, can carry out glycolysis.</para>
+<para id="fs-id1167065885222">Introduce the process of glycolysis using visuals such as this <link window="new" url="http://openstax.org/l/32glycolysis">video</link>.</para></note>
+
+<para id="fs-id1392597">You have read that nearly all of the energy used by living cells comes to them in the bonds of the sugar, glucose. <term>Glycolysis</term> is the first step in the breakdown of glucose to extract energy for cellular metabolism. Nearly all living organisms carry out glycolysis as part of their metabolism. The process does not use oxygen and is therefore <term>anaerobic</term>. Glycolysis takes place in the cytoplasm of both prokaryotic and eukaryotic cells. Glucose enters heterotrophic cells in two ways. One method is through secondary active transport in which the transport takes place against the glucose concentration gradient. The other mechanism uses a group of integral proteins called GLUT proteins, also known as glucose transporter proteins. These transporters assist in the facilitated diffusion of glucose.</para><para id="fs-id2054513">Glycolysis begins with the six carbon ring-shaped structure of a single glucose molecule and ends with two molecules of a three-carbon sugar called <term>pyruvate</term>. Glycolysis consists of two distinct phases. The first part of the glycolysis pathway traps the glucose molecule in the cell and uses energy to modify it so that the six-carbon sugar molecule can be split evenly into the two three-carbon molecules. The second part of glycolysis extracts energy from the molecules and stores it in the form of ATP and NADH, the reduced form of NAD<sup>+</sup>.</para>
+<section id="fs-id2221367" class="ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15 ost-get-exercise">
+<title>First Half of Glycolysis (Energy-Requiring Steps)</title>
+    <para id="fs-id2883758">Step 1. The first step in glycolysis (<link target-id="fig-ch07_02_01" document=""/>) is catalyzed by hexokinase, an enzyme with broad specificity that catalyzes the phosphorylation of six-carbon sugars. Hexokinase phosphorylates glucose using ATP as the source of the phosphate, producing glucose-6-phosphate, a more reactive form of glucose. This reaction prevents the phosphorylated glucose molecule from continuing to interact with the GLUT proteins, and it can no longer leave the cell because the negatively charged phosphate will not allow it to cross the hydrophobic interior of the plasma membrane.</para>
+<para id="fs-id1595819">Step 2. In the second step of glycolysis, an isomerase converts glucose-6-phosphate into one of its isomers, fructose-6-phosphate. An <term>isomerase</term> is an enzyme that catalyzes the conversion of a molecule into one of its isomers. (This change from phosphoglucose to phosphofructose allows the eventual split of the sugar into two three-carbon molecules.).</para>
+<para id="fs-id2316327">Step 3. The third step is the phosphorylation of fructose-6-phosphate, catalyzed by the enzyme phosphofructokinase. A second ATP molecule donates a high-energy phosphate to fructose-6-phosphate, producing fructose-1,6-<emphasis effect="underline">bi</emphasis>sphosphate. In this pathway, phosphofructokinase is a rate-limiting enzyme. It is active when the concentration of ADP is high; it is less active when ADP levels are low and the concentration of ATP is high. Thus, if there is “sufficient” ATP in the system, the pathway slows down. This is a type of end product inhibition, since ATP is the end product of glucose catabolism.</para>
+<para id="fs-id1720364">Step 4. The newly added high-energy phosphates further destabilize fructose-1,6-bisphosphate. The fourth step in glycolysis employs an enzyme, aldolase, to cleave fructose-1,6-bisphosphate into two three-carbon isomers: dihydroxyacetone-phosphate and glyceraldehyde-3-phosphate.</para><para id="fs-id2258484">Step 5. In the fifth step, an isomerase transforms the dihydroxyacetone-phosphate into its isomer, glyceraldehyde-3-phosphate. Thus, the pathway will continue with two molecules of glyceraldehyde-3-phosphate. At this point in the pathway, there is a net investment of energy from two ATP molecules in the breakdown of one glucose molecule.</para><figure id="fig-ch07_02_01" class="ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15"><media id="fs-id1797657" alt="This illustration shows the steps in the first half of glycolysis. In step one, the enzyme hexokinase uses one ATP molecule in the phosphorylation of glucose. In step two, glucose-6-phosphate is rearranged to form fructose-6-phosphate by phosphoglucose isomerase. In step three, phosphofructokinase uses a second ATP molecule in the phosphorylation of the substrate, forming fructose-1,6-bisphosphate. The enzyme fructose bisphosphate aldose splits the substrate into two, forming glyceraldeyde-3-phosphate and dihydroxyacetone-phosphate. In step 4, triose phosphate isomerase converts the dihydroxyacetone-phosphate into glyceraldehyde-3-phosphate">
+<image mime-type="image/jpg" src="../../media/Figure_07_02_01-0ee2.jpg" width="600"/>
+</media>
+<caption>The first half of glycolysis uses two ATP molecules in the phosphorylation of glucose, which is then split into two three-carbon molecules.</caption></figure></section>
+<section id="fs-id1412882" class="ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15 ost-get-exercise">
+<title>Second Half of Glycolysis (Energy-Releasing Steps)</title>
+<para id="fs-id3053333">So far, glycolysis has cost the cell two ATP molecules and produced two small, three-carbon sugar molecules. Both of these molecules will proceed through the second half of the pathway, and sufficient energy will be extracted to pay back the two ATP molecules used as an initial investment and produce a profit for the cell of two additional ATP molecules and two even higher-energy NADH molecules.</para>
+<para id="fs-id2583910">Step 6. The sixth step in glycolysis (<link target-id="fig-ch07_02_02" document=""/>) oxidizes the sugar (glyceraldehyde-3-phosphate), extracting high-energy electrons, which are picked up by the electron carrier NAD<sup>+</sup>, producing NADH. The sugar is then phosphorylated by the addition of a second phosphate group, producing 1,3-bisphosphoglycerate. Note that the second phosphate group does not require another ATP molecule.</para>
+<figure id="fig-ch07_02_02" class="ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15"><media id="fs-id2862466" alt="This illustration shows the steps in the second half of glycolysis. In step six, the enzyme glyceraldehydes-3-phosphate dehydrogenase produces one NADH molecule and forms 1,3-bisphosphoglycerate. In step seven, the enzyme phosphoglycerate kinase removes a phosphate group from the substrate, forming one ATP molecule and 3-phosphoglycerate. In step eight, the enzyme phosphoglycerate mutase rearranges the substrate to form 2-phosphoglycerate. In step nine, the enzyme enolase rearranges the substrate to form phosphoenolpyruvate. In step ten, a phosphate group is removed from the substrate, forming one ATP molecule and pyruvate.">
+<image mime-type="image/jpg" src="../../media/Figure_07_02_02-2a4f.jpg" width="600"/>
+</media>
+<caption>The second half of glycolysis involves phosphorylation without ATP investment (step 6) and produces two NADH and four ATP molecules per glucose.</caption></figure><para id="fs-id1785709">Here again is a potential limiting factor for this pathway. The continuation of the reaction depends upon the availability of the oxidized form of the electron carrier, NAD<sup>+</sup>. Thus, NADH must be continuously oxidized back into NAD<sup>+</sup> in order to keep this step going. If NAD<sup>+</sup> is not available, the second half of glycolysis slows down or stops. If oxygen is available in the system, the NADH will be oxidized readily, though indirectly, and the high-energy electrons from the hydrogen released in this process will be used to produce ATP. In an environment without oxygen, an alternate pathway (fermentation) can provide the oxidation of NADH to NAD<sup>+</sup>.</para>
+<para id="fs-id3041654">Step 7. In the seventh step, catalyzed by phosphoglycerate kinase (an enzyme named for the reverse reaction), 1,3-bisphosphoglycerate donates a high-energy phosphate to ADP, forming one molecule of ATP. (This is an example of substrate-level phosphorylation.) A carbonyl group on the 1,3-bisphosphoglycerate is oxidized to a carboxyl group, and 3-phosphoglycerate is formed.</para>
+<para id="fs-id1986553">Step 8. In the eighth step, the remaining phosphate group in 3-phosphoglycerate moves from the third carbon to the second carbon, producing 2-phosphoglycerate (an isomer of 3-phosphoglycerate). The enzyme catalyzing this step is a mutase (isomerase).</para>
+<para id="fs-id1451059">Step 9. Enolase catalyzes the ninth step. This enzyme causes 2-phosphoglycerate to lose water from its structure; this is a dehydration reaction, resulting in the formation of a double bond that increases the potential energy in the remaining phosphate bond and produces phosphoenolpyruvate (PEP).</para>
+<para id="fs-id1998100">Step 10. The last step in glycolysis is catalyzed by the enzyme pyruvate kinase (the enzyme in this case is named for the reverse reaction of pyruvate’s conversion into PEP) and results in the production of a second ATP molecule by substrate-level phosphorylation and the compound pyruvic acid (or its salt form, pyruvate). Many enzymes in enzymatic pathways are named for the reverse reactions, since the enzyme can catalyze both forward and reverse reactions (these may have been described initially by the reverse reaction that takes place in vitro, under non-physiological conditions).</para>
+<note id="fs-id1968428" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15"><label>Link to Learning</label>
+<para id="fs-id1410789">Gain a better understanding of the breakdown of glucose by glycolysis by visiting this <link window="new" url="http://openstax.org/l/glycolysis">site</link> to see the process in action.</para>
+<exercise id="fs-id1167065871373" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167062449076">
+<para id="fs-id1167065712987">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex009"/>
+</para>
+</problem>
+</exercise>
+</note>
+</section>
+
+<note id="fs-id1167064881607" class="ap-everyday ost-assessed-feature ost-tag-lo-apbio-ch07-s02-aplo-1-15">
+<label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<para id="fs-id1167065851933">Glycolysis occurs in the cytoplasm of nearly every cell. Organisms, from the small, circular colonies of bacteria pictured here to the human holding the petri dish, perform glycolysis using the same ten enzymes. Because of this, it is thought that glycolysis must have evolved in the very earliest forms of life.</para>
+
+<figure id="fs-id1167065029203"><media id="fs-id1167066030993" alt="A photo shows a gloved hand holding a petri dish with circular bacteria colonies growing in the growth medium.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_Figure_07_02_03.jpg" width="485"/>
+</media>
+<caption/>
+</figure>
+<exercise id="fs-id1167065895666" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167064869822">
+<para id="fs-id1167064929306">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex010"/>
+</para>
+</problem>
+</exercise>
+</note>
+
+<section id="fs-id2988639" class="ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15 ost-get-exercise">
+<title>Outcomes of Glycolysis</title>
+<para id="fs-id2726679">Glycolysis starts with glucose and ends with two pyruvate molecules, a total of four ATP molecules and two molecules of NADH. Two ATP molecules were used in the first half of the pathway to prepare the six-carbon ring for cleavage, so the cell has a net gain of two ATP molecules and 2 NADH molecules for its use. If the cell cannot catabolize the pyruvate molecules further, it will harvest only two ATP molecules from one molecule of glucose. Mature mammalian red blood cells are not capable of <term>aerobic respiration</term>—the process in which organisms convert energy in the presence of oxygen—and glycolysis is their sole source of ATP. If glycolysis is interrupted, these cells lose their ability to maintain their sodium-potassium pumps, and eventually, they die.</para>
+<para id="fs-id1447450">The last step in glycolysis will not occur if pyruvate kinase, the enzyme that catalyzes the formation of pyruvate, is not available in sufficient quantities. In this situation, the entire glycolysis pathway will proceed, but only two ATP molecules will be made in the second half. Thus, pyruvate kinase is a rate-limiting enzyme for glycolysis.	</para>
+</section>
+<note id="fs-id1167065841108" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065894109" class="ost-assignable ost-sciprac-scithink"><label/>
+<title>Think About It</title>
+<exercise id="fs-id1167066197427" class="ost-tag-lo-apbio-ch07-s02-aplo-1-15 unnumbered"><label/>
+<problem id="fs-id1167065066633">
+<list id="fs-id1167065865052">
+<item>Nearly all organisms on Earth carry out some form of glycolysis. How does that fact support or not support the assertion that glycolysis is one of the oldest metabolic pathways? Justify your answer.</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1167065827278" class="ost-tag-lo-apbio-ch07-s02-aplo-2-4 unnumbered"><label/>
+<problem id="fs-id1167065661922">
+<list id="fs-id1167062477275">
+<item>Human red blood cells do not perform aerobic respiration, but they do perform glycolysis. What might happen if glycolysis were blocked in a red blood cell? Could red blood cells tap into other sources of free energy needed for their functions?</item>
+</list>
+</problem>
+</exercise>
+</note>
+</note>
+<note id="fs-id1167065755627" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065711499">The first Think About It question is an application of Learning Objective 1.15 and Science Practice 7.2 because metabolic pathways are examples of conserved core processes shared by all organisms.</para>
+<para id="fs-id1167065824508">The second Think About It question is an application of Learning Objective 2.4 and Science Practices 1.4 and 3.1 because students are addressing questions about how the features of cells can affect the cell’s ability to harvest free energy from different sources.</para>
+<note id="fs-id1167066165960"><title>Possible answers:</title><para id="fs-id1167064929609"/>
+<list id="fs-id1167065875886">
+<item>If glycolysis evolved relatively late, it likely would not be as universal in organisms as it is. It probably evolved in very primitive organisms and persisted, even when additional pathways of carbohydrate metabolism evolved later.</item>
+<item>All cells must consume energy in order to carry out basic functions, such as pumping ions across membranes. A red blood cell would lose its membrane potential if glycolysis was blocked, and it would eventually die. Mature mammalian red blood cells are not capable of aerobic respiration—the process in which organisms convert energy in the presence of oxygen—and glycolysis is their sole source of ATP. If glycolysis is interrupted, these cells lose their ability to maintain their sodium-potassium pumps, and eventually, they die.</item>
+</list></note>
+</note>
+
+<section id="fs-id1700009" class="summary ost-reading-discard">
+    <title>Section Summary</title><para id="fs-id1720067">Glycolysis is the first pathway used in the breakdown of glucose to extract energy. It was probably one of the earliest metabolic pathways to evolve and is used by nearly all of the organisms on earth. Glycolysis consists of two parts: The first part prepares the six-carbon ring of glucose for cleavage into two three-carbon sugars. ATP is invested in the process during this half to energize the separation. The second half of glycolysis extracts ATP and high-energy electrons from hydrogen atoms and attaches them to NAD<sup>+</sup>. Two ATP molecules are invested in the first half and four ATP molecules are formed by substrate phosphorylation during the second half. This produces a net gain of two ATP and two NADH molecules for the cell.</para>
+</section>
+
+
+<section id="fs-id1167062385744" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065061990" class="os-exercise">
+<problem id="fs-id1167064931414">
+<para id="fs-id1167065790197">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex011"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065718335" class="os-exercise">
+<problem id="fs-id1167064799655">
+<para id="fs-id1167066095630">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex012"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166849946868" class="os-exercise">
+<problem id="eip-id1166849788203">
+<para id="eip-id1166849905708">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ot009"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065711686" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167065658788" class="os-exercise">
+<problem id="fs-id1167065850612">
+<para id="fs-id1167064841839">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex013"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166848813040" class="os-exercise">
+<problem id="eip-id1166848665747">
+<para id="eip-id1166848815398">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ot008"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065715124" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167064894116" class="os-exercise">
+<problem id="fs-id1167064981394">
+<para id="fs-id1167065740540">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex014"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064626662" class="os-exercise">
+<problem id="fs-id1167065799652">
+<para id="fs-id1167065827970">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ex015"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166851348089" class="os-exercise">
+<problem id="eip-id1166851181980">
+<para id="eip-id1166851305401">
+<link class="os-embed" url="#ost/api/ex/apbio-ch07-ot007"/>
+</para>
+</problem>
+</exercise></section> </content>
+<glossary>
+<definition id="fs-id1812636"><term>aerobic respiration</term> <meaning id="fs-id1367144">process in which organisms convert energy in the presence of oxygen</meaning></definition>
+<definition id="fs-id1313248"><term>anaerobic</term> <meaning id="fs-id2310493">process that does not use oxygen</meaning></definition>
+<definition id="fs-id3053447"><term>glycolysis</term> <meaning id="fs-id2084869">process of breaking glucose into two three-carbon molecules with the production of ATP and NADH</meaning></definition>
+<definition id="fs-id1415135"><term>isomerase</term> <meaning id="fs-id1463670">enzyme that converts a molecule into its isomer</meaning></definition>
+<definition id="fs-id2926980"><term>pyruvate</term> <meaning id="fs-id1262008">three-carbon sugar that can be decarboxylated and oxidized to make acetyl CoA, which enters the citric acid cycle under aerobic conditions; the end product of glycolysis</meaning></definition>
+</glossary>
+</document>

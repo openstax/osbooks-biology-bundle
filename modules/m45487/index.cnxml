@@ -1,0 +1,214 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Discovering How Populations Change</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45487</md:content-id>
+  <md:title>Discovering How Populations Change</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how Darwin’s theory of evolution differed from the current view at the time</item>
+<item>Describe how the present-day theory of evolution was developed</item>
+<item>Describe how population genetics is used to study the evolution of populations</item>
+</list></md:abstract>
+  <md:uuid>441970d8-cff4-4005-ab0e-3ed154defa9e</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm38215264">The theory of evolution by natural selection describes a mechanism for species change over time. That species change had been suggested and debated well before Darwin. The view that species were static and unchanging was grounded in the writings of Plato, yet there were also ancient Greeks that expressed evolutionary ideas.</para>
+<para id="fs-idm22519648">In the eighteenth century, ideas about the evolution of animals were reintroduced by the naturalist Georges-Louis Leclerc, Comte de Buffon and even by Charles Darwin’s grandfather, Erasmus Darwin. During this time, it was also accepted that there were extinct species. At the same time, James Hutton, the Scottish naturalist, proposed that geological change occurred gradually by the accumulation of small changes from processes (over long periods of time) just like those happening today. This contrasted with the predominant view that the geology of the planet was a consequence of catastrophic events occurring during a relatively brief past. Hutton’s view was later popularized by the geologist Charles Lyell in the nineteenth century. Lyell became a friend to Darwin and his ideas were very influential on Darwin’s thinking. Lyell argued that the greater age of Earth gave more time for gradual change in species, and the process provided an analogy for gradual change in species.</para>
+<para id="fs-idm94599520">In the early nineteenth century, Jean-Baptiste Lamarck published a book that detailed a mechanism for evolutionary change that is now referred to as <term>inheritance of acquired characteristics</term>. In Lamarck’s theory, modifications in an individual caused by its environment, or the use or disuse of a structure during its lifetime, could be inherited by its offspring and, thus, bring about change in a species. While this mechanism for evolutionary change as described by Lamarck was discredited, Lamarck’s ideas were an important influence on evolutionary thought. The inscription on the statue of Lamarck that stands at the gates of the Jardin des Plantes in Paris describes him as the “founder of the doctrine of evolution.”</para>
+<section id="fs-idm109837728">
+<title>Charles Darwin and Natural Selection</title>
+<para id="fs-idp1069280">The actual mechanism for evolution was independently conceived of and described by two naturalists, Charles Darwin and Alfred Russell Wallace, in the mid-nineteenth century. Importantly, each spent time exploring the natural world on expeditions to the tropics. From 1831 to 1836, Darwin traveled around the world on <emphasis effect="italics">H.M.S. Beagle</emphasis>, visiting South America, Australia, and the southern tip of Africa. Wallace traveled to Brazil to collect insects in the Amazon rainforest from 1848 to 1852 and to the Malay Archipelago from 1854 to 1862. Darwin’s journey, like Wallace’s later journeys in the Malay Archipelago, included stops at several island chains, the last being the Galápagos Islands (west of Ecuador). On these islands, Darwin observed species of organisms on different islands that were clearly similar, yet had distinct differences. For example, the ground finches inhabiting the Galápagos Islands comprised several species that each had a unique beak shape (<link target-id="fig-ch11_01_01" document=""/>). He observed both that these finches closely resembled another finch species on the mainland of South America and that the group of species in the Galápagos formed a graded series of beak sizes and shapes, with very small differences between the most similar. Darwin imagined that the island species might be all species modified from one original mainland species. In 1860, he wrote, “Seeing this gradation and diversity of structure in one small, intimately related group of birds, one might really fancy that from an original paucity of birds in this archipelago, one species had been taken and modified for different ends.”<footnote id="fs-idm229180592">Charles Darwin, <emphasis effect="italics">Journal of Researches into the Natural History and Geology of the Countries Visited during the Voyage of H.M.S. Beagle Round the World, under the Command of Capt. Fitz Roy, R.N</emphasis>, 2nd. ed. (London: John Murray, 1860), http://www.archive.org/details/journalofresea00darw.</footnote></para>
+<figure id="fig-ch11_01_01" class=" "><media id="fs-idm78368256" alt="Illustration shows four different species of finch from the Galápagos Islands. Beak shape ranges from broad and thick to narrow and thin.">
+<image mime-type="image/jpeg" src="../../media/Figure_11_01_01-7cc0.jpg" width="320"/>
+</media>
+<caption>Darwin observed that beak shape varies among finch species. He postulated that the beak of an ancestral species had adapted over time to equip the finches to acquire different food sources. This illustration shows the beak shapes for four species of ground finch: 1. <emphasis effect="italics">Geospiza magnirostris</emphasis> (the large ground finch), 2. <emphasis effect="italics">G. fortis</emphasis> (the medium ground finch), 3. <emphasis effect="italics">G. parvula</emphasis> (the small tree finch), and 4. <emphasis effect="italics">Certhidea olivacea</emphasis> (the green-warbler finch).</caption>
+</figure>
+<para id="fs-idm84222368">Wallace and Darwin both observed similar patterns in other organisms and independently conceived a mechanism to explain how and why such changes could take place. Darwin called this mechanism natural selection. <term>Natural selection</term>, Darwin argued, was an inevitable outcome of three principles that operated in nature. First, the characteristics of organisms are inherited, or passed from parent to offspring. Second, more offspring are produced than are able to survive; in other words, resources for survival and reproduction are limited. The capacity for reproduction in all organisms outstrips the availability of resources to support their numbers. Thus, there is a competition for those resources in each generation. Both Darwin and Wallace’s understanding of this principle came from reading an essay by the economist Thomas Malthus, who discussed this principle in relation to human populations. Third, offspring vary among each other in regard to their characteristics and those variations are inherited. Out of these three principles, Darwin and Wallace reasoned that offspring with inherited characteristics that allow them to best compete for limited resources will survive and have more offspring than those individuals with variations that are less able to compete. Because characteristics are inherited, these traits will be better represented in the next generation. This will lead to change in populations over generations in a process that Darwin called “descent with modification.”</para>
+<para id="fs-idm90494608">Papers by Darwin and Wallace (<link target-id="fig-ch11_01_02" document=""/>) presenting the idea of natural selection were read together in 1858 before the Linnaean Society in London. The following year Darwin’s book, <emphasis effect="italics">On the Origin of Species, </emphasis>was published, which outlined in considerable detail his arguments for evolution by natural selection.</para>
+<figure id="fig-ch11_01_02" class="apn-all">
+<media id="fs-idp34679840" alt="Pictures of Charles Darwin and Alfred Wallace are shown.">
+<image mime-type="image/jpeg" src="../../media/Figure_11_01_02ab.jpg" width="420"/>
+</media>
+<caption>(a) Charles Darwin and (b) Alfred Wallace wrote scientific papers on natural selection that were presented together before the Linnean Society in 1858.</caption>
+</figure>
+<para id="fs-idp9393840">Demonstrations of evolution by natural selection can be time consuming. One of the best demonstrations has been in the very birds that helped to inspire the theory, the Galápagos finches. Peter and Rosemary Grant and their colleagues have studied Galápagos finch populations every year since 1976 and have provided important demonstrations of the operation of natural selection. The Grants found changes from one generation to the next in the beak shapes of the medium ground finches on the Galápagos island of Daphne Major. The medium ground finch feeds on seeds. The birds have inherited variation in the bill shape with some individuals having wide, deep bills and others having thinner bills. Large-billed birds feed more efficiently on large, hard seeds, whereas smaller billed birds feed more efficiently on small, soft seeds. During 1977, a drought period altered vegetation on the island. After this period, the number of seeds declined dramatically: the decline in small, soft seeds was greater than the decline in large, hard seeds. The large-billed birds were able to survive better than the small-billed birds the following year. The year following the drought when the Grants measured beak sizes in the much-reduced population, they found that the average bill size was larger (<link target-id="fig-ch11_01_03" document=""/>). This was clear evidence for natural selection (differences in survival) of bill size caused by the availability of seeds. The Grants had studied the inheritance of bill sizes and knew that the surviving large-billed birds would tend to produce offspring with larger bills, so the selection would lead to evolution of bill size. Subsequent studies by the Grants have demonstrated selection on and evolution of bill size in this species in response to changing conditions on the island. The evolution has occurred both to larger bills, as in this case, and to smaller bills when large seeds became rare.</para>
+<figure id="fig-ch11_01_03" class=" ">
+<media id="fs-idm6323488" alt="Two graphs show the number of birds on the y axis and bill depth in millimeter on the x axis. The graph on the left has data for the year 1976 with a total of 751 birds measured. The mean beak depth is about 9.5 millimeters. The graph on the right has data for the year 1978, after a drought caused the death of many birds. The total number of surviving birds measured for this data was 90, and the mean beak depth is about 10 millimeters.">
+<image mime-type="image/jpeg" src="../../media/Figure_11_01_03-1445.jpg" width="575"/>
+</media>
+<caption>A drought on the Galápagos island of Daphne Major in 1977 reduced the number of small seeds available to finches, causing many of the small-beaked finches to die. This caused an increase in the finches’ average beak size between 1976 and 1978.</caption>
+</figure>
+<section id="fs-idp142141344">
+<title>Variation and Adaptation</title>
+<para id="fs-idm183295824">Natural selection can only take place if there is <term>variation</term>, or differences, among individuals in a population. Importantly, these differences must have some genetic basis; otherwise, selection will not lead to change in the next generation. This is critical because variation among individuals can be caused by non-genetic reasons, such as an individual being taller because of better nutrition rather than different genes.</para>
+<para id="fs-idm254231072">Genetic diversity in a population comes from two main sources: mutation and sexual reproduction. Mutation, a change in DNA, is the ultimate source of new alleles or new genetic variation in any population. An individual that has a mutated gene might have a different trait than other individuals in the population. However, this is not always the case. A mutation can have one of three outcomes on the organisms’ appearance (or phenotype):</para>
+<list id="fs-idm140388704" list-type="bulleted">
+<item>A mutation may affect the phenotype of the organism in a way that gives it reduced fitness—lower likelihood of survival, resulting in fewer offspring.</item>
+<item>A mutation may produce a phenotype with a beneficial effect on fitness.</item>
+<item>Many mutations, called neutral mutations, will have no effect on fitness.</item>
+</list>
+<para id="fs-idm185771248">Mutations may also have a whole range of effect sizes on the fitness of the organism that expresses them in their phenotype, from a small effect to a great effect. Sexual reproduction and crossing over in meiosis also lead to genetic diversity: when two parents reproduce, unique combinations of alleles assemble to produce unique genotypes and, thus, phenotypes in each of the offspring.</para>
+<para id="fs-idp1118208">A heritable trait that aids the survival and reproduction of an organism in its present environment is called an <term>adaptation</term>. An adaptation is a “match” of the organism to the environment. Adaptation to an environment comes about when a change in the range of genetic variation occurs over time that increases or maintains the match of the population with its environment. The variations in finch beaks shifted from generation to generation providing adaptation to food availability.</para>
+<para id="fs-idm226260480">Whether or not a trait is favorable depends on the environment at the time. The same traits do not always have the same relative benefit or disadvantage because environmental conditions can change. For example, finches with large bills were benefited in one climate, while small bills were a disadvantage; in a different climate, the relationship reversed.</para>
+</section>
+<section id="fs-idm121891648">
+<title> Patterns of Evolution</title>
+<para id="fs-idm151237776">The evolution of species has resulted in enormous variation in form and function. When two species evolve in different directions from a common point, it is called <term>divergent evolution</term>. Such divergent evolution can be seen in the forms of the reproductive organs of flowering plants, which share the same basic anatomies; however, they can look very different as a result of selection in different physical environments, and adaptation to different kinds of pollinators (<link target-id="fig-ch11_01_04" document=""/>).</para>
+<figure id="fig-ch11_01_04" class=" ">
+<media id="fs-idm324195840" alt="Photo A shows a stalk with several clusters of small purple flowers with long, delicate petals. Photo B shows a daisy-like flower with purple petals and a large central structure with many spikes, resembling a sea urchin.">
+<image mime-type="image/jpeg" src="../../media/Figure_11_01_04ab.jpg" width="520"/>
+</media>
+<caption>Flowering plants evolved from a common ancestor. Notice that the (a) dense blazing star and (b) purple coneflower vary in appearance, yet both share a similar basic morphology. (credit a, b: modification of work by Cory Zanker)</caption>
+</figure>
+<para id="fs-idm49394768">In other cases, similar phenotypes evolve independently in distantly related species. For example, flight has evolved in both bats and insects, and they both have structures we refer to as wings, which are adaptations to flight. The wings of bats and insects, however, evolved from very different original structures. When similar structures arise through evolution independently in different species it is called <term>convergent evolution</term>. The wings of bats and insects are called <term>analogous structures</term>; they are similar in function and appearance, but do not share an origin in a common ancestor. Instead they evolved independently in the two lineages. The wings of a hummingbird and an ostrich are <term>homologous structures</term>, meaning they share similarities (despite their differences resulting from evolutionary divergence). The wings of hummingbirds and ostriches did not evolve independently in the hummingbird lineage and the ostrich lineage—they descended from a common ancestor with wings.</para>
+</section>
+</section>
+<section id="fs-idm100824016">
+<title>The Modern Synthesis</title>
+<para id="fs-idm27079056">The mechanisms of inheritance, genetics, were not understood at the time Darwin and Wallace were developing their idea of natural selection. This lack of understanding was a stumbling block to comprehending many aspects of evolution. In fact, blending inheritance was the predominant (and incorrect) genetic theory of the time, which made it difficult to understand how natural selection might operate. Darwin and Wallace were unaware of the genetics work by Austrian monk Gregor Mendel, which was published in 1866, not long after publication of <emphasis effect="italics">On the Origin of Species</emphasis>. Mendel’s work was rediscovered in the early twentieth century at which time geneticists were rapidly coming to an understanding of the basics of inheritance. Initially, the newly discovered particulate nature of genes made it difficult for biologists to understand how gradual evolution could occur. But over the next few decades genetics and evolution were integrated in what became known as the <term>modern synthesis</term>—the coherent understanding of the relationship between natural selection and genetics that took shape by the 1940s and is generally accepted today. In sum, the modern synthesis describes how evolutionary pressures, such as natural selection, can affect a population’s genetic makeup, and, in turn, how this can result in the gradual evolution of populations and species. The theory also connects this gradual change of a population over time, called <term>microevolution</term>, with the processes that gave rise to new species and higher taxonomic groups with widely divergent characters, called <term>macroevolution</term>.</para>
+</section>
+<section id="fs-idm79645744">
+<title>Population Genetics</title>
+<para id="fs-idm8588688">Recall that a gene for a particular character may have several variants, or alleles, that code for different traits associated with that character. For example, in the ABO blood type system in humans, three alleles determine the particular blood-type carbohydrate on the surface of red blood cells. Each individual in a population of diploid organisms can only carry two alleles for a particular gene, but more than two may be present in the individuals that make up the population. Mendel followed alleles as they were inherited from parent to offspring. In the early twentieth century, biologists began to study what happens to all the alleles in a population in a field of study known as <term>population genetics</term>.</para>
+<para id="fs-idm205908288">Until now, we have defined evolution as a change in the characteristics of a population of organisms, but behind that phenotypic change is genetic change. In population genetic terms, evolution is defined as a change in the frequency of an allele in a population. Using the ABO system as an example, the frequency of one of the alleles, <emphasis effect="italics">I</emphasis><sup>A</sup>, is the number of copies of that allele divided by all the copies of the ABO gene in the population. For example, a study in Jordan found a frequency of <emphasis effect="italics">I</emphasis><sup>A</sup> to be 26.1 percent.<footnote id="fs-idm22087696">Sahar S. Hanania, Dhia S. Hassawi, and Nidal M. Irshaid, “Allele Frequency and Molecular Genotypes of ABO Blood Group System in a Jordanian Population,” <emphasis effect="italics">Journal of Medical Sciences</emphasis> 7 (2007): 51-58, doi:10.3923/jms.2007.51.58</footnote> The <emphasis effect="italics">I</emphasis><sup>B</sup>, <emphasis effect="italics">I</emphasis><sup>0</sup> alleles made up 13.4 percent and 60.5 percent of the alleles respectively, and all of the frequencies add up to 100 percent. A change in this frequency over time would constitute evolution in the population.</para>
+<para id="fs-idm235464096">There are several ways the allele frequencies of a population can change. One of those ways is natural selection. If a given allele confers a phenotype that allows an individual to have more offspring that survive and reproduce, that allele, by virtue of being inherited by those offspring, will be in greater frequency in the next generation. Since allele frequencies always add up to 100 percent, an increase in the frequency of one allele always means a corresponding decrease in one or more of the other alleles. Highly beneficial alleles may, over a very few generations, become “fixed” in this way, meaning that every individual of the population will carry the allele. Similarly, detrimental alleles may be swiftly eliminated from the <term>gene pool</term>, the sum of all the alleles in a population. Part of the study of population genetics is tracking how selective forces change the allele frequencies in a population over time, which can give scientists clues regarding the selective forces that may be operating on a given population. The studies of changes in wing coloration in the peppered moth from mottled white to dark in response to soot-covered tree trunks and then back to mottled white when factories stopped producing so much soot is a classic example of studying evolution in natural populations (<link target-id="fig-ch11_01_05" document=""/>).</para>
+<figure id="fig-ch11_01_05" class=" "><media id="fs-idm151312976" alt="A graph shows two moths, one light and one dark in color. The population line shifts from the light phenotype on the left to the dark one on the right in response to a darker natural environment. The text next to the graph reads: Light-colored peppered moths are better camouflaged against a pristine environment; likewise, dark-colored peppered moths are better camouflaged against a sooty environment. Thus, as the Industrial Revolution progressed in nineteenth-century England, the color of the moth population shifted from light to dark.">
+<image mime-type="image/jpeg" src="../../media/Figure_11_01_05-583d.jpg" width="450"/>
+</media>
+<caption>As the Industrial Revolution caused trees to darken from soot, darker colored peppered moths were better camouflaged than the lighter colored ones, which caused there to be more of the darker colored moths in the population.</caption>
+</figure>
+<para id="fs-idm201944304">In the early twentieth century, English mathematician Godfrey Hardy and German physician Wilhelm Weinberg independently provided an explanation for a somewhat counterintuitive concept. Hardy’s original explanation was in response to a misunderstanding as to why a “dominant” allele, one that masks a recessive allele, should not increase in frequency in a population until it eliminated all the other alleles. The question resulted from a common confusion about what “dominant” means, but it forced Hardy, who was not even a biologist, to point out that if there are no factors that affect an allele frequency those frequencies will remain constant from one generation to the next. This principle is now known as the Hardy-Weinberg equilibrium. The theory states that a population’s allele and genotype frequencies are inherently stable—unless some kind of evolutionary force is acting on the population, the population would carry the same alleles in the same proportions generation after generation. Individuals would, as a whole, look essentially the same and this would be unrelated to whether the alleles were dominant or recessive. The four most important evolutionary forces, which will disrupt the equilibrium, are natural selection, mutation, <term>genetic drift</term>, and <term>migration</term> into or out of a population. A fifth factor, nonrandom mating, will also disrupt the Hardy-Weinberg equilibrium but only by shifting genotype frequencies, not allele frequencies (unless the allele contributes toward increased or decreased reproductive potential). In nonrandom mating, individuals are more likely to mate with individuals with specific phenotypes rather than at random. Since nonrandom mating does not change allele frequencies, it does not cause evolution directly. Natural selection has been described. Mutation creates one allele out of another one and changes an allele’s frequency by a small, but continuous amount each generation. Each allele is generated by a low, constant mutation rate that will slowly increase the allele’s frequency in a population if no other forces act on the allele. If natural selection acts against the allele, it will be removed from the population at a low rate leading to a frequency that results from a balance between selection and mutation. This is one reason that genetic diseases remain in the human population at very low frequencies. If the allele is favored by selection, it will increase in frequency. Genetic drift causes random changes in allele frequencies when populations are small. Genetic drift can often be important in evolution, as discussed in the next section. Finally, if two populations of a species have different allele frequencies, migration of individuals between them will cause frequency changes in both populations. As it happens, there is no population in which one or more of these processes are not operating, so populations are always evolving, and the Hardy-Weinberg equilibrium will never be exactly observed. However, the Hardy-Weinberg principle gives scientists a baseline expectation for allele frequencies in a non-evolving population to which they can compare evolving populations and thereby infer what evolutionary forces might be at play. The population is evolving if the frequencies of alleles or genotypes deviate from the value expected from the Hardy-Weinberg principle.</para><para id="fs-idm295476784">Darwin identified a special case of natural selection that he called sexual selection. Sexual selection affects an individual’s ability to mate and thus produce offspring, and it leads to the evolution of dramatic traits that often appear maladaptive in terms of survival but persist because they give their owners greater reproductive success. Sexual selection occurs in two ways: through intrasexual selection, as male–male or female–female competition for mates, and through intersexual selection, as female or male selection of mates. Male–male competition takes the form of conflicts between males, which are often ritualized, but may also pose significant threats to a male’s survival. Sometimes the competition is for territory, with females more likely to mate with males with higher quality territories. Female choice occurs when females choose a male based on a particular trait, such as feather colors, the performance of a mating dance, or the building of an elaborate structure. In some cases male–male competition and female choice combine in the mating process. In each of these cases, the traits selected for, such as fighting ability or feather color and length, become enhanced in the males. In general, it is thought that sexual selection can proceed to a point at which natural selection against a character’s further enhancement prevents its further evolution because it negatively impacts the male’s ability to survive. For example, colorful feathers or an elaborate display make the male more obvious to predators.</para></section>
+<section id="fs-idm240221664" class="summary">
+<title>Section Summary</title><para id="fs-idm58497504">Evolution by natural selection arises from three conditions: individuals within a species vary, some of those variations are heritable, and organisms have more offspring than resources can support. The consequence is that individuals with relatively advantageous variations will be more likely to survive and have higher reproductive rates than those individuals with different traits. The advantageous traits will be passed on to offspring in greater proportion. Thus, the trait will have higher representation in the next and subsequent generations leading to genetic change in the population.</para>
+<para id="fs-idm115188384">The modern synthesis of evolutionary theory grew out of the reconciliation of Darwin’s, Wallace’s, and Mendel’s thoughts on evolution and heredity. Population genetics is a theoretical framework for describing evolutionary change in populations through the change in allele frequencies. Population genetics defines evolution as a change in allele frequency over generations. In the absence of evolutionary forces allele frequencies will not change in a population; this is known as Hardy-Weinberg equilibrium principle. However, in all populations, mutation, natural selection, genetic drift, and migration act to change allele frequencies.</para>
+</section>
+<section id="fs-idp112677872" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idp29779632">
+<problem id="fs-idm185638432">
+<para id="fs-idm176507824">Which scientific concept did Charles Darwin and Alfred Wallace independently discover?</para>
+<list id="fs-idp989568" list-type="enumerated" number-style="lower-alpha">
+<item>mutation</item>
+<item>natural selection</item>
+<item>overbreeding</item>
+<item>sexual reproduction</item>
+</list>
+</problem>
+<solution id="fs-idm160941680">
+<label/>
+<para id="fs-idm298774976">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm116406288">
+<problem id="fs-idp23791392">
+<para id="fs-idm244737120">Which of the following situations will lead to natural selection?</para>
+<list id="fs-idm227059472" list-type="enumerated" number-style="lower-alpha">
+<item>The seeds of two plants land near each other and one grows larger than the other.</item>
+<item>Two types of fish eat the same kind of food, and one is better able to gather food than the other.</item>
+<item>Male lions compete for the right to mate with females, with only one possible winner.</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idm12579696">
+<label/>
+<para id="fs-idm247515904">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm117962768">
+<problem id="fs-idp41033568">
+<para id="fs-idm65364576">What is the difference between micro- and macroevolution?</para>
+<list id="fs-idm172548928" list-type="enumerated" number-style="lower-alpha">
+<item>Microevolution describes the evolution of small organisms, such as insects, while macroevolution describes the evolution of large organisms, like people and elephants.</item>
+<item>Microevolution describes the evolution of microscopic entities, such as molecules and proteins, while macroevolution describes the evolution of whole organisms.</item>
+<item>Microevolution describes the evolution of populations, while macroevolution describes the emergence of new species over long periods of time.</item>
+<item>Microevolution describes the evolution of organisms over their lifetimes, while macroevolution describes the evolution of organisms over multiple generations.</item>
+</list>
+</problem>
+<solution id="fs-idm159702224">
+<label/>
+<para id="fs-idm161933760">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm206170464">
+<problem id="fs-idm160935360"><para id="fs-idm230635264">Population genetics is the study of ________.</para>
+<list id="fs-idm230773712" list-type="enumerated" number-style="lower-alpha">
+<item>how allele frequencies in a population change over time</item>
+<item>populations of cells in an individual</item>
+<item>the rate of population growth</item>
+<item>how genes affect embryological development</item>
+</list>
+</problem>
+<solution id="fs-idp6651408">
+<label/>
+<para id="fs-idm49408512">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm115710480" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idm71430672">
+<problem id="fs-idp112132800">
+<para id="fs-idm203885792">If a person scatters a handful of plant seeds from one species in an area, how would natural selection work in this situation?</para>
+</problem>
+<solution id="fs-idm189528576"><label/>
+<para id="fs-idm148392384">The plants that can best use the resources of the area, including competing with other individuals for those resources, will produce more seeds themselves and those traits that allowed them to better use the resources will increase in the population of the next generation.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm128387696">
+<problem id="fs-idm229798992"><para id="fs-idm229798864">Explain the Hardy-Weinberg principle of equilibrium.</para></problem>
+<solution id="fs-idm92474880"><label/>
+<para id="fs-idm62066800">The Hardy-Weinberg principle of equilibrium states that a population’s allele frequencies are inherently stable. Unless an evolutionary force is acting upon the population, the population would carry the same genes at the same frequencies generation after generation, and individuals would, as a whole, look essentially the same.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm246727616">
+<term>adaptation</term> <meaning id="fs-idm175212528">a heritable trait or behavior in an organism that aids in its survival in its present environment</meaning>
+</definition>
+<definition id="fs-idm151329856">
+<term>analogous structure</term> <meaning id="fs-idm225600064">a structure that is similar because of evolution in response to similar selection pressures resulting in convergent evolution, not similar because of descent from a common ancestor</meaning>
+</definition>
+<definition id="fs-idm128436768">
+<term>convergent evolution</term> <meaning id="fs-idm158587296">an evolution that results in similar forms on different species</meaning>
+</definition>
+<definition id="fs-idm178653440">
+<term>divergent evolution</term> <meaning id="fs-idp35778528">an evolution that results in different forms in two species with a common ancestor</meaning>
+</definition>
+<definition id="fs-idm203128976">
+<term>gene pool</term> <meaning id="fs-idm125643376">all of the alleles carried by all of the individuals in the population</meaning>
+</definition>
+<definition id="fs-idm309072864">
+<term>genetic drift</term> <meaning id="fs-idm105883840">the effect of chance on a population’s gene pool</meaning>
+</definition>
+<definition id="fs-idm189195824">
+<term>homologous structure</term> <meaning id="fs-idp85683856">a structure that is similar because of descent from a common ancestor</meaning>
+</definition>
+<definition id="fs-idm72291008">
+<term>inheritance of acquired characteristics</term> <meaning id="fs-idp33469120">a phrase that describes the mechanism of evolution proposed by Lamarck in which traits acquired by individuals through use or disuse could be passed on to their offspring thus leading to evolutionary change in the population</meaning>
+</definition>
+<definition id="fs-idm169131376">
+<term>macroevolution</term> <meaning id="fs-idm25910640">a broader scale of evolutionary changes seen over paleontological time</meaning>
+</definition>
+<definition id="fs-idm200418848">
+<term>microevolution</term> <meaning id="fs-idm185362400">the changes in a population’s genetic structure (i.e., allele frequency)</meaning>
+</definition>
+<definition id="fs-idm79639824">
+<term>migration</term> <meaning id="fs-idm188240576">the movement of individuals of a population to a new location; in population genetics it refers to the movement of individuals and their alleles from one population to another, potentially changing allele frequencies in both the old and the new population</meaning>
+</definition>
+<definition id="fs-idp18909296">
+<term>modern synthesis</term> <meaning id="fs-idm227072320">the overarching evolutionary paradigm that took shape by the 1940s and is generally accepted today</meaning>
+</definition>
+<definition id="fs-idm62803808">
+<term>natural selection</term> <meaning id="fs-idm157198640">the greater relative survival and reproduction of individuals in a population that have favorable heritable traits, leading to evolutionary change</meaning>
+</definition>
+<definition id="fs-idm152320768">
+<term>population genetics</term> <meaning id="fs-idm75546064">the study of how selective forces change the allele frequencies in a population over time</meaning>
+</definition>
+<definition id="fs-idm18645920">
+<term>variation</term> <meaning id="fs-idp9418240">the variety of alleles in a population</meaning>
+</definition>
+</glossary>
+</document>

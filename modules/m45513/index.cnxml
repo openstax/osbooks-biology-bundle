@@ -1,0 +1,87 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Eukaryotic Origins</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45513</md:content-id>
+  <md:title>Eukaryotic Origins</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the endosymbiotic theory</item>
+<item>Explain the origin of mitochondria and chloroplasts</item>
+</list></md:abstract>
+  <md:uuid>420d9f1a-a15c-4ee5-b879-52dd4debf8d5</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm98982544">The fossil record and genetic evidence suggest that prokaryotic cells were the first organisms on Earth. These cells originated approximately 3.5 billion years ago, which was about 1 billion years after Earth’s formation, and were the only life forms on the planet until eukaryotic cells emerged approximately 2.1 billion years ago. During the prokaryotic reign, photosynthetic prokaryotes evolved that were capable of applying the energy from sunlight to synthesize organic materials (like carbohydrates) from carbon dioxide and an electron source (such as hydrogen, hydrogen sulfide, or water).</para>
+<para id="fs-idm115018320">Photosynthesis using water as an electron donor consumes carbon dioxide and releases molecular oxygen (O<sub>2</sub>) as a byproduct. The functioning of photosynthetic bacteria over millions of years progressively saturated Earth’s water with oxygen and then oxygenated the atmosphere, which previously contained much greater concentrations of carbon dioxide and much lower concentrations of oxygen. Older anaerobic prokaryotes of the era could not function in their new, aerobic environment. Some species perished, while others survived in the remaining anaerobic environments left on Earth. Still other early prokaryotes evolved mechanisms, such as aerobic respiration, to exploit the oxygenated atmosphere by using oxygen to store energy contained within organic molecules. Aerobic respiration is a more efficient way of obtaining energy from organic molecules, which contributed to the success of these species (as evidenced by the number and diversity of aerobic organisms living on Earth today). The evolution of aerobic prokaryotes was an important step toward the evolution of the first eukaryote, but several other distinguishing features had to evolve as well.</para>
+<section id="fs-idm209010320">
+<title> Endosymbiosis</title>
+<para id="fs-idm239065984">The origin of eukaryotic cells was largely a mystery until a revolutionary hypothesis was comprehensively examined in the 1960s by Lynn Margulis. The <term>endosymbiotic theory</term> states that eukaryotes are a product of one prokaryotic cell engulfing another, one living within another, and evolving together over time until the separate cells were no longer recognizable as such. This once-revolutionary hypothesis had immediate persuasiveness and is now widely accepted, with work progressing on uncovering the steps involved in this evolutionary process as well as the key players. It has become clear that many nuclear eukaryotic genes and the molecular machinery responsible for replicating and expressing those genes appear closely related to the Archaea. On the other hand, the metabolic organelles and the genes responsible for many energy-harvesting processes had their origins in bacteria. Much remains to be clarified about how this relationship occurred; this continues to be an exciting field of discovery in biology. Several endosymbiotic events likely contributed to the origin of the eukaryotic cell.</para>
+<section id="fs-idm112781936">
+<title>Mitochondria</title>
+<para id="fs-idm198080624">Eukaryotic cells may contain anywhere from one to several thousand mitochondria, depending on the cell’s level of energy consumption. Each mitochondrion measures 1 to 10 micrometers in length and exists in the cell as a moving, fusing, and dividing oblong spheroid (<link target-id="fig-ch13_02_01" document=""/>). However, mitochondria cannot survive outside the cell. As the atmosphere was oxygenated by photosynthesis, and as successful aerobic prokaryotes evolved, evidence suggests that an ancestral cell engulfed and kept alive a free-living, aerobic prokaryote. This gave the host cell the ability to use oxygen to release energy stored in nutrients. Several lines of evidence support that mitochondria are derived from this endosymbiotic event. Most mitochondria are shaped like a specific group of bacteria and are surrounded by two membranes. The mitochondrial inner membrane involves substantial infoldings or cristae that resemble the textured outer surface of certain bacteria.</para><figure id="fig-ch13_02_01"><media id="fs-idm238560560" alt="The transmission electron micrograph shows two round, membrane-bound organelles inside a cell. The organelles are about 400 nm across and have membranes running through the middle of them.">
+    <image mime-type="image/jpeg" src="../../media/Figure_13_02_01-9c20.jpg" width="295"/>
+    </media>
+
+<caption>In this transmission electron micrograph of mitochondria in a mammalian lung cell, the cristae, infoldings of the mitochondrial inner membrane, can be seen in cross-section. (credit: modification of work by Louisa Howard; scale-bar data from Matt Russell)</caption></figure><para id="fs-idm212427120">Mitochondria divide on their own by a process that resembles binary fission in prokaryotes. Mitochondria have their own circular DNA chromosome that carries genes similar to those expressed by bacteria. Mitochondria also have special ribosomes and transfer RNAs that resemble these components in prokaryotes. These features all support that mitochondria were once free-living prokaryotes.</para>
+</section>
+<section id="fs-idm24565376">
+<title>Chloroplasts</title>
+<para id="fs-idm128900576">Chloroplasts are one type of <term>plastid</term>, a group of related organelles in plant cells that are involved in the storage of starches, fats, proteins, and pigments. Chloroplasts contain the green pigment chlorophyll and play a role in photosynthesis. Genetic and morphological studies suggest that plastids evolved from the endosymbiosis of an ancestral cell that engulfed a photosynthetic cyanobacterium. Plastids are similar in size and shape to cyanobacteria and are enveloped by two or more membranes, corresponding to the inner and outer membranes of cyanobacteria. Like mitochondria, plastids also contain circular genomes and divide by a process reminiscent of prokaryotic cell division. The chloroplasts of red and green algae exhibit DNA sequences that are closely related to photosynthetic cyanobacteria, suggesting that red and green algae are direct descendants of this endosymbiotic event.</para>
+<para id="fs-idm217908928">Mitochondria likely evolved before plastids because all eukaryotes have either functional mitochondria or mitochondria-like organelles. In contrast, plastids are only found in a subset of eukaryotes, such as terrestrial plants and algae. One hypothesis of the evolutionary steps leading to the first eukaryote is summarized in <link target-id="fig-ch13_02_02" document=""/>.</para>
+<figure id="fig-ch13_02_02"><media id="fs-idm45688688" alt="The illustration shows steps that, according to the endosymbiotic theory, gave rise to eukaryotic organisms. In step 1, infoldings in the plasma membrane of an ancestral prokaryote gave rise to endomembrane components, including a nucleus and endoplasmic reticulum. In step 2, the first endosymbiotic event occurred: The ancestral eukaryote consumed aerobic bacteria that evolved into mitochondria. In a second endosymbiotic event, the early eukaryote consumed photosynthetic bacteria that evolved into chloroplasts.">
+<image mime-type="image/jpeg" src="../../media/Figure_13_02_02.jpg" width="550"/>
+</media>
+<caption>The first eukaryote may have originated from an ancestral prokaryote that had undergone membrane proliferation, compartmentalization of cellular function (into a nucleus, lysosomes, and an endoplasmic reticulum), and the establishment of endosymbiotic relationships with an aerobic prokaryote and, in some cases, a photosynthetic prokaryote to form mitochondria and chloroplasts, respectively.</caption></figure><para id="fs-idm238654464">The exact steps leading to the first eukaryotic cell can only be hypothesized, and some controversy exists regarding which events actually took place and in what order. Spirochete bacteria have been hypothesized to have given rise to microtubules, and a flagellated prokaryote may have contributed the raw materials for eukaryotic flagella and cilia. Other scientists suggest that membrane proliferation and compartmentalization, not endosymbiotic events, led to the development of mitochondria and plastids. However, the vast majority of studies support the endosymbiotic hypothesis of eukaryotic evolution.</para>
+<para id="fs-idm213399600">The early eukaryotes were unicellular like most protists are today, but as eukaryotes became more complex, the evolution of multicellularity allowed cells to remain small while still exhibiting specialized functions. The ancestors of today’s multicellular eukaryotes are thought to have evolved about 1.5 billion years ago.</para>
+</section>
+</section>
+<section id="fs-idm204364144" class="summary">
+<title>Section Summary</title><para id="fs-idp10104064">The first eukaryotes evolved from ancestral prokaryotes by a process that involved membrane proliferation, the loss of a cell wall, the evolution of a cytoskeleton, and the acquisition and evolution of organelles. Nuclear eukaryotic genes appear to have had an origin in the Archaea, whereas the energy machinery of eukaryotic cells appears to be bacterial in origin. The mitochondria and plastids originated from endosymbiotic events when ancestral cells engulfed an aerobic bacterium (in the case of mitochondria) and a photosynthetic bacterium (in the case of chloroplasts). The evolution of mitochondria likely preceded the evolution of chloroplasts. There is evidence of secondary endosymbiotic events in which plastids appear to be the result of endosymbiosis after a previous endosymbiotic event.</para>
+    </section>
+<section id="fs-idm249523120" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm253930960">
+<problem id="fs-idm136991216"><para id="fs-idm152845856">What event is thought to have contributed to the evolution of eukaryotes?</para>
+<list id="fs-idm237408624" list-type="enumerated" number-style="lower-alpha">
+<item>global warming</item>
+<item>glaciation</item>
+<item>volcanic activity</item>
+<item>oxygenation of the atmosphere</item>
+</list>
+</problem>
+<solution id="fs-idm151906592">
+<label/>
+<para id="fs-idm199635344">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm310653584">
+<problem id="fs-idm160100048"><para id="fs-idm183660128">Mitochondria most likely evolved from _____________.</para>
+<list id="fs-idm84383168" list-type="enumerated" number-style="lower-alpha">
+<item>a photosynthetic cyanobacterium</item>
+<item>cytoskeletal elements</item>
+<item>aerobic bacteria</item>
+<item>membrane proliferation</item>
+</list>
+</problem>
+<solution id="fs-idm178301616">
+<label/>
+<para id="fs-idm159813952">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm199422832" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idm219437344">
+<problem id="fs-idm166324592"><para id="fs-idm213132544">Describe the hypothesized steps in the origin of eukaryote cells.</para></problem>
+<solution id="fs-idp3552048"><label/>
+<para id="fs-idm240803552">Eukaryote cells arose through endosymbiotic events that gave rise to energy-producing organelles within the eukaryotic cells, such as mitochondria and plastids. The nuclear genome of eukaryotes is related most closely to the Archaea, so it may have been an early archaean that engulfed a bacterial cell that evolved into a mitochondrion. Mitochondria appear to have originated from an alpha-proteobacterium, whereas chloroplasts originated from a cyanobacterium. There is also evidence of secondary endosymbiotic events. Other cell components may have resulted from endosymbiotic events.</para></solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm244050464"><term>endosymbiosis</term> <meaning id="fs-idm240745408">the engulfment of one cell by another such that the engulfed cell survives and both cells benefit; the process responsible for the evolution of mitochondria and chloroplasts in eukaryotes</meaning></definition>
+<definition id="fs-idm117947872"><term>plastid</term> <meaning id="fs-idm39459600">one of a group of related organelles in plant cells that are involved in the storage of starches, fats, proteins, and pigments</meaning></definition>
+</glossary>
+</document>

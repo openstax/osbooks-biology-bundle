@@ -1,0 +1,490 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Bacterial Diseases in Humans</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62896</md:content-id>
+  <md:title>Bacterial Diseases in Humans</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify bacterial diseases that caused historically important plagues and epidemics</item>
+<item>Describe the link between biofilms and foodborne diseases</item>
+<item>Explain how overuse of antibiotic may be creating “super bugs”</item>
+<item>Explain the importance of MRSA with respect to the problems of antibiotic resistance</item>
+</list></md:abstract>
+  <md:uuid>c67f0883-a194-4c9e-b5b0-8961a5af9ab3</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167065895705" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167064948319">In this section, you will explore the following questions:</para>
+<list id="fs-id1167064826790">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch22-s04-lo01">What are examples of bacterial diseases that caused historically important plagues and epidemics?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch22-s04-lo02">What are links between bacteria, especially in biofilms, and foodborne diseases?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch22-s04-lo03">How can the overuse of antibiotics create “super bugs” such as MRSA?</item>
+</list>
+</section>
+<section id="fs-id1167065811625" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167064826009">Although many bacteria participate in mutualistic relationships with their hosts, others exist in parasitic relationships, causing disease. Many bacteria have evolved resistance to antibiotics, and scientists are developing new antibiotics that are effective against infections caused by emergent diseases. Examples of bacteria-caused infections include pneumonia, plague, typhoid, and Lyme disease. Although some diseases have been eradicated, the emergence of new infections, such as MRSA, provides evidence that evolution is an ongoing process. Epidemiologists study how disease affects a population.</para>
+<para id="fs-id1167066183439" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 and Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167062789046" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.C.3 Scientific evidence supports the idea that evolution in all organisms, including prokaryotes, continues to occur. Second left cell reads: Science Practice. Second right cell reads: 1.2 The student can describe representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Learning Objective. Third right cell reads: 1.25 The student is able to describe a model that represents evolution within a population." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.C</emphasis></entry>
+<entry class="ost-standards-description">Life continues to evolve within a changing environment.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-1-c-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.C.3 </emphasis></span>
+<span class="ost-standards-description">Scientific evidence supports the idea that evolution in all organisms, including prokaryotes, continues to occur.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
+<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-1-25">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.25 </emphasis></span>
+<span class="ost-standards-description">The student is able to describe a model that represents evolution within a population.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-1-c-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.C.3 </emphasis></span>
+<span class="ost-standards-description">Scientific evidence supports the idea that evolution in all organisms, including prokaryotes, continues to occur.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-5-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-1-26">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.26 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate given data sets that illustrate evolution as an ongoing process.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.C</emphasis></entry>
+<entry class="ost-standards-description">Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-c-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.C.1 </emphasis></span>
+<span class="ost-standards-description">Genetic changes that affect phenotypes are subject to selection.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-24">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.24 </emphasis></span>
+<span class="ost-standards-description">The student is able to predict how a change in genotype, when expressed as a phenotype, provides a variation that is subject to natural selection.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table><para id="fs-id1166848722972">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 3.3][APLO 3.27][APLO 2.8][APLO 2.9][APLO 2.24][APLO 4.14][APLO 4.21]</para></section>
+<para id="fs-idm21351104">Devastating pathogen-borne diseases and plagues, both viral and bacterial in nature, have affected humans since the beginning of human history. The true cause of these diseases was not understood at the time, and some people thought that diseases were a spiritual punishment. Over time, people came to realize that staying apart from afflicted persons, and disposing of the corpses and personal belongings of victims of illness, reduced their own chances of getting sick.</para>
+<para id="fs-idm77934608">Epidemiologists study how diseases affect a population. An <emphasis>epidemic</emphasis> is a disease that occurs in an unusually high number of individuals in a population at the same time. A <emphasis>pandemic</emphasis> is a widespread, usually worldwide, epidemic. An <emphasis>endemic disease</emphasis> is a disease that is constantly present, usually at low incidence, in a population.</para>
+<section id="fs-idp86281840" class="ost-tag-lo-apbio-ch22-s04-lo01 ost-get-exercise">
+<title>Long History of Bacterial Disease</title>
+<para id="fs-idm26097072">There are records about infectious diseases as far back as 3000 B.C. A number of significant pandemics caused by bacteria have been documented over several hundred years. Some of the most memorable pandemics led to the decline of cities and nations.</para>
+<para id="fs-idp17984832">In the 21<sup>st</sup> century, infectious diseases remain among the leading causes of death worldwide, despite advances made in medical research and treatments in recent decades. A disease spreads when the pathogen that causes it is passed from one person to another. For a pathogen to cause disease, it must be able to reproduce in the host’s body and damage the host in some way.</para>
+<section id="fs-idp11495984" class="ost-tag-lo-apbio-ch22-s04-lo01">
+<title>The Plague of Athens</title>
+<para id="fs-idp41060352">In 430 B.C., the Plague of Athens killed one-quarter of the Athenian troops that were fighting in the great Peloponnesian War and weakened Athens’ dominance and power. The plague impacted people living in overcrowded Athens as well as troops aboard ships that had to return to Athens. The source of the plague may have been identified recently when researchers from the University of Athens were able to use DNA from teeth recovered from a mass grave. The scientists identified nucleotide sequences from a pathogenic bacterium, <emphasis effect="italics">Salmonella enterica </emphasis>serovar Typhi (<link target-id="fig-ch22_04_01" document=""/>), which causes typhoid fever.<footnote id="fs-idm22859824"><emphasis effect="underline">Papagrigorakis MJ</emphasis>, <emphasis effect="underline">Synodinos PN</emphasis>, and <emphasis effect="underline">Yapijakis C</emphasis>. Ancient typhoid epidemic reveals possible ancestral strain of <emphasis effect="italics">Salmonella enterica</emphasis> serovar Typhi. <emphasis effect="italics"><emphasis effect="underline">Infect Genet Evol</emphasis></emphasis>  7 (2007): 126–7, Epub 2006 Jun.</footnote> This disease is commonly seen in overcrowded areas and has caused epidemics throughout recorded history.</para>
+<figure id="fig-ch22_04_01" class="ost-tag-lo-apbio-ch22-s04-lo01"><media id="fs-idm14825952" alt="Micrograph shows pink rod-shaped bacteria.">
+<image mime-type="image/jpg" src="../../media/Figure_22_04_01.jpg" width="320"/>
+</media>
+
+<caption><emphasis effect="italics">Salmonella enterica </emphasis>serovar Typhi, the causative agent of Typhoid fever, is a Gram-negative, rod-shaped gamma protobacterium. Typhoid fever, which is spread through feces, causes intestinal hemorrhage, high fever, delirium and dehydration. Today, between 16 and 33 million cases of this re-emerging disease occur annually, resulting in over 200,000 deaths. Carriers of the disease can be asymptomatic. In a famous case in the early 1900s, a cook named Mary Mallon unknowingly spread the disease to over fifty people, three of whom died. Other <emphasis effect="italics">Salmonella</emphasis> serotypes cause food poisoning. (credit: modification of work by NCI, CDC)</caption></figure></section>
+<section id="fs-idm4310880" class="ost-tag-lo-apbio-ch22-s04-lo01">
+<title>Bubonic Plagues</title>
+<para id="fs-idm105062992">From 541 to 750, an outbreak of what was likely a bubonic plague (the Plague of Justinian), eliminated one-quarter to one-half of the human population in the eastern Mediterranean region. The population in Europe dropped by 50 percent during this outbreak. Bubonic plague would strike Europe more than once.</para>
+<para id="fs-idm89650768">One of the most devastating pandemics was the <emphasis>Black Death</emphasis> (1346 to 1361) that is believed to have been another outbreak of bubonic plague caused by the bacterium <emphasis effect="italics">Yersinia pestis</emphasis>. It is thought to have originated initially in China and spread along the Silk Road, a network of land and sea trade routes, to the Mediterranean region and Europe, carried by rat fleas living on black rats that were always present on ships. The Black Death reduced the world’s population from an estimated 450 million to about 350 to 375 million. Bubonic plague struck London hard again in the mid-1600s (<link target-id="fig-ch22_04_02" document=""/>). In modern times, approximately 1,000 to 3,000 cases of plague arise globally each year. Although contracting bubonic plague before antibiotics meant almost certain death, the bacterium responds to several types of modern antibiotics, and mortality rates from plague are now very low.</para>
+<figure id="fig-ch22_04_02" class="ost-tag-lo-apbio-ch22-s04-lo01"><media id="fs-idp107640368" alt="Illustration A shows two men loading a dead body onto a cart. Another body lies in the street. Label beneath the illustration says, “Plague in 1665.” Micrograph B shows rod-shaped bacteria. Photo C shows a man with black gangrene on his fingers, arm, nose and lips.">
+<image mime-type="image/jpg" src="../../media/Figure_22_04_02.jpg" width="445"/>
+</media>
+
+<caption>The (a) Great Plague of London killed an estimated 200,000 people, or about twenty percent of the city’s population. The causative agent, the (b) bacterium <emphasis effect="italics">Yersinia pestis</emphasis>, is a Gram-negative, rod-shaped bacterium from the class Gamma Proteobacteria. The disease is transmitted through the bite of an infected flea, which is infected by a rodent. Symptoms include swollen lymph nodes, fever, seizure, vomiting of blood, and (c) gangrene. (credit b: Rocky Mountain Laboratories, NIAID, NIH; scale-bar data from Matt Russell; credit c: Textbook of Military Medicine, Washington, D.C., U.S. Dept. of the Army, Office of the Surgeon General, Borden Institute)</caption></figure>
+<note id="fs-idm64089424" class="interactive ost-tag-lo-apbio-ch22-s04-lo01 ost-assessed-feature"><label>Link to Learning</label>
+<para id="fs-idm14682544">Watch a <link window="new" url="http://openstax.org/l/black_death">video</link> on the modern understanding of the Black Death—bubonic plague in Europe during the 14<sup>th</sup> century.</para>
+<exercise id="fs-id1167066134649" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167065957117">
+<para id="fs-id1167064956296">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex043"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<section id="fs-idp132803744" class="ost-tag-lo-apbio-ch22-s04-lo01 ost-tag-lo-apbio-ch22-s04-aplo-1-25 ost-tag-lo-apbio-ch22-s04-aplo-1-26 ost-tag-lo-apbio-ch22-s04-aplo-3-24">
+<title>Migration of Diseases to New Populations</title>
+<para id="fs-idm41342976">Over the centuries, Europeans tended to develop genetic immunity to endemic infectious diseases, but when European conquerors reached the western hemisphere, they brought with them disease-causing bacteria and viruses, which triggered epidemics that completely devastated populations of Native Americans, who had no natural resistance to many European diseases. It has been estimated that up to 90 percent of Native Americans died from infectious diseases after the arrival of Europeans, making conquest of the New World a foregone conclusion.</para>
+</section>
+</section>
+<section id="fs-idm6702160" class="ost-tag-lo-apbio-ch22-s04-lo01 ost-tag-lo-apbio-ch22-s04-aplo-1-25 ost-tag-lo-apbio-ch22-s04-aplo-1-26 ost-tag-lo-apbio-ch22-s04-aplo-3-24 ost-get-exercise">
+<title>Emerging and Re-emerging Diseases</title>
+<para id="fs-idp10525040">The distribution of a particular disease is dynamic. Therefore, changes in the environment, the pathogen, or the host population can dramatically impact the spread of a disease. According to the World Health Organization (WHO) an <emphasis>emerging disease</emphasis> (<link target-id="fig-ch22_04_03" document=""/>) is one that has appeared in a population for the first time, or that may have existed previously but is rapidly increasing in incidence or geographic range. This definition also includes re-emerging diseases that were previously under control. Approximately 75 percent of recently emerging infectious diseases affecting humans are zoonotic diseases, <emphasis>zoonoses</emphasis>, diseases that primarily infect animals and are transmitted to humans; some are of viral origin and some are of bacterial origin. Brucellosis is an example of a prokaryotic zoonosis that is re-emerging in some regions, and necrotizing fasciitis (commonly known as flesh-eating bacteria) has been increasing in virulence for the last 80 years for unknown reasons.</para>
+<figure id="fig-ch22_04_03" class="ost-tag-lo-apbio-ch22-s04-aplo-1-25 ost-tag-lo-apbio-ch22-s04-aplo-1-26 ost-tag-lo-apbio-ch22-s04-aplo-3-24"><media id="fs-idm95747216" alt="Emerging or re-emerging bacterial diseases are shown on a world map. Multidrug-resistant tuberculosis is emerging in North America, Europe, and Asia. Vancomycin-resistant Staphylococcus aureus and E. coli O157:H7 are emerging in North America and East Asia. Lyme disease is spreading in North America. Cholera is emerging in Africa and South America. Diptheria and typhoid fever are re-emerging in Asia.">
+<image mime-type="image/jpg" src="../../media/Figure_22_04_03.jpg" width="420"/>
+</media>
+
+<caption>The map shows regions where bacterial diseases are emerging or reemerging. (credit: modification of work by NIH)</caption></figure><para id="fs-idp19069488">Some of the present emerging diseases are not actually new, but are diseases that were catastrophic in the past (<link target-id="fig-ch22_04_04" document=""/>). They devastated populations and became dormant for a while, just to come back, sometimes more virulent than before, as was the case with bubonic plague. Other diseases, like tuberculosis, were never eradicated but were under control in some regions of the world until coming back, mostly in urban centers with high concentrations of immunocompromised people. The WHO has identified certain diseases whose worldwide re-emergence should be monitored. Among these are two viral diseases (dengue fever and yellow fever), and three bacterial diseases (diphtheria, cholera, and bubonic plague). The war against infectious diseases has no foreseeable end.</para>
+<figure id="fig-ch22_04_04" class="ost-tag-lo-apbio-ch22-s04-aplo-1-25 ost-tag-lo-apbio-ch22-s04-aplo-1-26 ost-tag-lo-apbio-ch22-s04-aplo-3-24"><media id="fs-idm81635040" alt="Part A shows the red, bullseye-shaped rash of a person infected with Borrelia. Part B shows a micrograph of Borrelia, which look like tiny corkscrews. Part C shows the life cycle of the bacteria, which begins when Borrelia infect a tick egg. The egg hatches into larva, which feeds on a mouse, then into a nymph, which also feeds on a mouse. The nymph feeds again, this time on a deer, or sometimes a human.">
+<image mime-type="image/jpg" src="../../media/Figure_22_04_04.jpg" width="450"/>
+</media>
+
+<caption>Lyme disease often, but not always, results in (a) a characteristic bullseye rash. The disease is caused by a (b) Gram-negative spirochete bacterium of the genus <emphasis effect="italics">Borrelia</emphasis>. The bacteria (c) infect ticks, which in turns infect mice. Deer are the preferred secondary host, but the ticks also may feed on humans. Untreated, the disease causes chronic disorders in the nervous system, eyes, joints, and heart. The disease is named after Lyme, Connecticut, where an outbreak occurred in 1995 and has subsequently spread. The disease is not new, however. Genetic evidence suggests that Ötzi the Iceman, a 5,300-year-old mummy found in the Alps, was infected with <emphasis effect="italics">Borrelia</emphasis>. (credit a: James Gathany, CDC; credit b: CDC; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-idp43029088" class="ost-tag-lo-apbio-ch22-s04-lo02 ost-tag-lo-apbio-ch22-s04-aplo-1-25 ost-tag-lo-apbio-ch22-s04-aplo-1-26 ost-tag-lo-apbio-ch22-s04-aplo-3-24 ost-get-exercise">
+<title>Biofilms and Disease</title>
+<para id="fs-idp4842544">Recall that biofilms are microbial communities that are very difficult to destroy. They are responsible for diseases such as infections in patients with cystic fibrosis, Legionnaires’ disease, and otitis media. They produce dental plaque and colonize catheters, prostheses, transcutaneous and orthopedic devices, contact lenses, and internal devices such as pacemakers. They also form in open wounds and burned tissue. In healthcare environments, biofilms grow on hemodialysis machines, mechanical ventilators, shunts, and other medical equipment. In fact, 65 percent of all infections acquired in the hospital (nosocomial infections) are attributed to biofilms. Biofilms are also related to diseases contracted from food because they colonize the surfaces of vegetable leaves and meat, as well as food-processing equipment that isn’t adequately cleaned.</para>
+<para id="fs-idm36087152">Biofilm infections develop gradually; sometimes, they do not cause symptoms immediately. They are rarely resolved by host defense mechanisms. Once an infection by a biofilm is established, it is very difficult to eradicate, because biofilms tend to be resistant to most of the methods used to control microbial growth, including antibiotics. Biofilms respond poorly or only temporarily to antibiotics; it has been said that they can resist up to 1,000 times the antibiotic concentrations used to kill the same bacteria when they are free-living or planktonic. An antibiotic dose that large would harm the patient; therefore, scientists are working on new ways to get rid of biofilms.</para>
+</section>
+<section id="fs-idp62296096" class="ost-tag-lo-apbio-ch22-s04-lo03 ost-tag-lo-apbio-ch22-s04-aplo-1-25 ost-tag-lo-apbio-ch22-s04-aplo-1-26 ost-tag-lo-apbio-ch22-s04-aplo-3-24 ost-get-exercise">
+<title>Antibiotics: Are We Facing a Crisis?</title>
+<para id="fs-idm19854032">The word <emphasis effect="italics">antibiotic</emphasis> comes from the Greek <emphasis effect="italics">anti</emphasis> meaning “against” and <emphasis effect="italics">bios</emphasis> meaning “life.” An <emphasis>antibiotic</emphasis> is a chemical, produced either by microbes or synthetically, that is hostile to the growth of other organisms. Today’s news and media often address concerns about an antibiotic crisis. Are the antibiotics that easily treated bacterial infections in the past becoming obsolete? Are there new “superbugs”—bacteria that have evolved to become more resistant to our arsenal of antibiotics? Is this the beginning of the end of antibiotics? All these questions challenge the healthcare community.</para>
+<para id="fs-idm32470064">One of the main causes of resistant bacteria is the abuse of antibiotics. The imprudent and excessive use of antibiotics has resulted in the natural selection of resistant forms of bacteria. The antibiotic kills most of the infecting bacteria, and therefore only the resistant forms remain. These resistant forms reproduce, resulting in an increase in the proportion of resistant forms over non-resistant ones. Another major misuse of antibiotics is in patients with colds or the flu, for which antibiotics are useless. Another problem is the excessive use of antibiotics in livestock. The routine use of antibiotics in animal feed promotes bacterial resistance as well. In the United States, 70 percent of the antibiotics produced are fed to animals. These antibiotics are given to livestock in low doses, which maximize the probability of resistance developing, and these resistant bacteria are readily transferred to humans.</para>
+<note id="fs-idm63307296" class="interactive ost-tag-lo-apbio-ch22-s04-lo03 ost-tag-lo-apbio-ch22-s04-aplo-1-25 ost-tag-lo-apbio-ch22-s04-aplo-1-26 ost-tag-lo-apbio-ch22-s04-aplo-3-24 ost-assessed-feature"><label>Link to Learning</label>
+<para id="fs-idp93648816">Visit  <link window="new" url="http://openstax.org/l/antibiotics">this site</link> to learn more about the problem of routine antibiotic administration to livestock and antibiotic-resistant bacteria.</para><exercise id="fs-id1167065943032" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167064952982">
+<para id="fs-id1167063105353">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex044"/>
+</para>
+</problem>
+</exercise>
+</note><section id="fs-idm19669824" class="ost-tag-lo-apbio-ch22-s04-lo03 ost-tag-lo-apbio-ch22-s04-lo04 ost-tag-lo-apbio-ch22-s04-aplo-1-25 ost-tag-lo-apbio-ch22-s04-aplo-1-26 ost-tag-lo-apbio-ch22-s04-aplo-3-24">
+<title>One of the Superbugs: MRSA</title>
+<para id="fs-idm83625488">The imprudent use of antibiotics has paved the way for bacteria to expand populations of resistant forms. For example, <emphasis effect="italics">Staphylococcus aureu</emphasis>s, often called “staph,” is a common bacterium that can live in the human body and is usually easily treated with antibiotics. A very dangerous strain, however, <emphasis>methicillin-resistant <emphasis effect="italics">Staphylococcus aureus </emphasis>(MRSA)</emphasis> has made the news over the past few years (<link target-id="fig-ch22_04_05" document=""/>). This strain is resistant to many commonly used antibiotics, including methicillin, amoxicillin, penicillin, and oxacillin. MRSA can cause infections of the skin, but it can also infect the bloodstream, lungs, urinary tract, or sites of injury. While MRSA infections are common among people in healthcare facilities, they have also appeared in healthy people who haven’t been hospitalized but who live or work in tight populations (like military personnel and prisoners). Researchers have expressed concern about the way this latter source of MRSA targets a much younger population than those residing in care facilities. <emphasis effect="italics">The Journal of the American Medical Association </emphasis>reported that, among MRSA-afflicted persons in healthcare facilities, the average age is 68, whereas people with “community-associated MRSA” (<emphasis>CA-MRSA</emphasis>) have an average age of 23.<footnote id="fs-idp27887392">Naimi, TS, LeDell, KH, Como-Sabetti, K, et al. Comparison of community- and health care-associated methicillin-resistant <emphasis effect="italics">Staphylococcus aureus</emphasis> infection. <emphasis effect="italics">JAMA</emphasis> 290 (2003): 2976–84, <emphasis effect="underline">doi: 10.1001/jama.290.22.2976</emphasis>.</footnote></para>
+<figure id="fig-ch22_04_05" class="ost-tag-lo-apbio-ch22-s04-lo04"><media id="fs-idm46000" alt="The micrograph shows clusters of round bacteria clinging to a surface. Each bacterium is about 0.4 microns across.">
+<image mime-type="image/jpg" src="../../media/Figure_22_04_05.jpg" width="295"/>
+</media>
+
+<caption>This scanning electron micrograph shows methicillin-resistant <emphasis effect="italics">Staphylococcus aureus</emphasis> bacteria, commonly known as MRSA. <emphasis effect="italics">S. aureus</emphasis> is not always pathogenic, but can cause diseases such as food poisoning and skin and respiratory infections. (credit: modification of work by Janice Haney Carr; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp37780304">In summary, the medical community is facing an antibiotic crisis. Some scientists believe that after years of being protected from bacterial infections by antibiotics, we may be returning to a time in which a simple bacterial infection could again devastate the human population. Researchers are developing new antibiotics, but it takes many years to of research and clinical trials, plus financial investments in the millions of dollars, to generate an effective and approved drug.</para>
+</section>
+</section>
+<section id="fs-idp37285968" class="ost-tag-lo-apbio-ch22-s04-aplo-1-25 ost-tag-lo-apbio-ch22-s04-aplo-1-26 ost-tag-lo-apbio-ch22-s04-aplo-3-24 ost-get-exercise">
+<title>Foodborne Diseases</title>
+<para id="fs-idm72670768">Prokaryotes are everywhere: They readily colonize the surface of any type of material, and food is not an exception. Most of the time, prokaryotes colonize food and food-processing equipment in the form of a biofilm. Outbreaks of bacterial infection related to food consumption are common. A <emphasis>foodborne disease</emphasis> (colloquially called “food poisoning”) is an illness resulting from the consumption the pathogenic bacteria, viruses, or other parasites that contaminate food. Although the United States has one of the safest food supplies in the world, the U.S. Centers for Disease Control and Prevention (CDC) has reported that “76 million people get sick, more than 300,000 are hospitalized, and 5,000 Americans die each year from foodborne illness.”</para><para id="fs-idm66628528">The characteristics of foodborne illnesses have changed over time. In the past, it was relatively common to hear about sporadic cases of <emphasis>botulism</emphasis>, the potentially fatal disease produced by a toxin from the anaerobic bacterium <emphasis effect="italics">Clostridium botulinum</emphasis>. Some of the most common sources for this bacterium were non-acidic canned foods, homemade pickles, and processed meat and sausages. The can, jar, or package created a suitable anaerobic environment where <emphasis effect="italics">Clostridium</emphasis> could grow. Proper sterilization and canning procedures have reduced the incidence of this disease.</para>
+<para id="fs-idp150212848">While people may tend to think of foodborne illnesses as associated with animal-based foods, most cases are now linked to produce. There have been serious, produce-related outbreaks associated with raw spinach in the United States and with vegetable sprouts in Germany, and these types of outbreaks have become more common. The raw spinach outbreak in 2006 was produced by the bacterium <emphasis effect="italics">E. coli</emphasis> serotype O157:H7. A <emphasis>serotype</emphasis> is a strain of bacteria that carries a set of similar antigens on its cell surface, and there are often many different serotypes of a bacterial species. Most <emphasis effect="italics">E. coli</emphasis> are not particularly dangerous to humans, but serotype O157:H7 can cause bloody diarrhea and is potentially fatal.</para>
+<para id="fs-idm22636624">All types of food can potentially be contaminated with bacteria. Recent outbreaks of <emphasis effect="italics">Salmonella</emphasis> reported by the CDC occurred in foods as diverse as peanut butter, alfalfa sprouts, and eggs. A deadly outbreak in Germany in 2010 was caused by <emphasis effect="italics">E. coli</emphasis> contamination of vegetable sprouts (<link target-id="fig-ch22_04_06" document=""/>). The strain that caused the outbreak was found to be a new serotype not previously involved in other outbreaks, which indicates that <emphasis effect="italics">E. coli</emphasis> is continuously evolving.</para>
+<figure id="fig-ch22_04_06" class=" "><media id="fs-idp95005568" alt=" Photo A shows round green seeds with stems sprouting from them. Sketch B shows normal, disk-shaped red blood cells on the left. On the right, many of the red blood cells are sickle-shaped.">
+<image mime-type="image/jpg" src="../../media/Figure_22_04_06f.jpg" width="475"/>
+</media>
+
+<caption>(a) Vegetable sprouts grown at an organic farm were the cause of an (b) <emphasis effect="italics">E. coli</emphasis> outbreak that killed 32 people and sickened 3,800 in Germany in 2011. The strain responsible, <emphasis effect="italics">E. coli</emphasis> O104:H4, produces Shiga toxin, a substance that inhibits protein synthesis in the host cell. The toxin (c) destroys red blood cells resulting in bloody diarrhea. Deformed red blood cells clog the capillaries of the kidney, which can lead to kidney failure, as happened to 845 patients in the 2011 outbreak. Kidney failure is usually reversible, but some patients experience kidney problems years later. (credit c: NIDDK, NIH)</caption></figure>
+<note id="fs-idp93091904" class="career ost-feature"><title>Epidemiologist</title>
+<para id="fs-idp6528272">Epidemiology is the study of the occurrence, distribution, and determinants of health and disease in a population. It is, therefore, part of public health. An epidemiologist studies the frequency and distribution of diseases within human populations and environments.</para>
+<para id="fs-idm43091248">Epidemiologists collect data about a particular disease and track its spread to identify the original mode of transmission. They sometimes work in close collaboration with historians to try to understand the way a disease evolved geographically and over time, tracking the natural history of pathogens. They gather information from clinical records, patient interviews, surveillance, and any other available means. That information is used to develop strategies, such as vaccinations (<link target-id="fig-ch22_04_07" document=""/>), and design public health policies to reduce the incidence of a disease or to prevent its spread. Epidemiologists also conduct rapid investigations in case of an outbreak to recommend immediate measures to control it.</para>
+<para id="fs-idm73263888">An epidemiologist has a bachelor’s degree, plus a master’s degree in public health (MPH). Many epidemiologists are also physicians (and have an M.D.), or they have a Ph.D. in an associated field, such as biology or microbiology.</para>
+<figure id="fig-ch22_04_07"><media id="fs-idp59275664" alt="This photo shows syringes, adhesive bandages, and alcohol swabs.">
+<image mime-type="image/jpg" src="../../media/Figure_22_04_07.jpg" width="330"/>
+</media>
+
+<caption>Vaccinations can slow the spread of communicable diseases. (credit: modification of work by Daniel Paquet)</caption></figure>
+</note></section>
+<note id="fs-id1167064900187" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065718389" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167065052701" class="unnumbered"><label/>
+<problem id="fs-id1167066014841"><para id="fs-id1167066014842">How can a strain of bacteria that was previously sensitive to an antibiotic become resistant to the same antibiotic? Why has this become a major global problem?</para></problem></exercise>
+</note>
+<note id="fs-id1167065951150" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167062487909">Antibiotic resistance develops as a selective pressure (antibiotics in the environment) is placed on a population, driving evolution of the population. This question is an application of AP<sup>®</sup> Learning Objective 1.25 and Science Practice 1.2 and Learning Objective 3.24 and Science Practices 6.4 and 7.2 because based on a model you are making a prediction about how a genetic change can result in a change in phenotype (i.e., antibiotic resistance) that is subject to natural selection, providing evidence that evolution continues to occur.</para>
+</note>
+</note>
+<section id="fs-idm76656560" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp74078928">Devastating diseases and plagues have been among us since early times. There are records about microbial diseases as far back as 3000 B.C. Infectious diseases remain among the leading causes of death worldwide. Emerging diseases are those rapidly increasing in incidence or geographic range. They can be new or re-emerging diseases (previously under control). Many emerging diseases affecting humans, such as brucellosis, are zoonoses. The WHO has identified a group of diseases whose re-emergence should be monitored: Those caused by bacteria include bubonic plague, diphtheria, and cholera.</para>
+<para id="fs-idm64578208">Biofilms are considered responsible for diseases such as bacterial infections in patients with cystic fibrosis, Legionnaires’ disease, and otitis media. They produce dental plaque; colonize catheters, prostheses, transcutaneous, and orthopedic devices; and infect contact lenses, open wounds, and burned tissue. Biofilms also produce foodborne diseases because they colonize the surfaces of food and food-processing equipment. Biofilms are resistant to most of the methods used to control microbial growth. The excessive use of antibiotics has resulted in a major global problem, since resistant forms of bacteria have been selected over time. A very dangerous strain, methicillin-resistant <emphasis effect="italics">Staphylococcus aureus </emphasis>(MRSA), has wreaked havoc recently. Foodborne diseases result from the consumption of contaminated food, pathogenic bacteria, viruses, or parasites that contaminate food.</para>
+</section>
+<!--<section id="fs-idp117964112" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp166702752">
+<problem id="fs-idm37522048">
+<para id="fs-idm21945616">A disease that is constantly present in a population is called _____.</para>
+<list id="fs-idm35901024" list-type="enumerated" number-style="lower-alpha">
+<item>pandemic</item>
+<item>epidemic</item>
+<item>endemic</item>
+<item>re-emerging</item>
+</list>
+</problem>
+<solution id="fs-idp41599216">
+<label/>
+<para id="fs-idm28448368">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp17951280">
+<problem id="fs-idp57355952">
+<para id="fs-idp10212256">Which of the statements about biofilms is incorrect?</para>
+<list id="fs-idm37502640" list-type="enumerated" number-style="lower-alpha">
+<item>Biofilms are considered responsible for diseases such as cystic fibrosis.</item>
+<item>Biofilms produce dental plaque, and colonize catheters and prostheses.</item>
+<item>Biofilms colonize open wounds and burned tissue.</item>
+<item>All statements are correct.</item>
+</list>
+</problem>
+<solution id="fs-idm20314112">
+<label/>
+<para id="fs-idp60956016">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idp100756832">
+<problem id="fs-idm23890192">
+<para id="fs-idp15263296">Which of these statements is true?</para>
+<list id="fs-idm28233360" list-type="enumerated" number-style="lower-alpha">
+<item>An antibiotic is any substance produced by a organism that is antagonistic to the growth of prokaryotes.</item>
+<item>An antibiotic is any substance produced by a prokaryote that is antagonistic to the growth of other viruses.</item>
+<item>An antibiotic is any substance produced by a prokaryote that is antagonistic to the growth of eukaryotic cells.</item>
+<item>An antibiotic is any substance produced by a prokaryote that prevents growth of the same prokaryote.</item>
+</list>
+</problem>
+<solution id="fs-idm169110672">
+<label/>
+<para id="fs-idm21100784">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm24204016" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idm24024624">
+<problem id="fs-idp25798256">
+<para id="fs-idp64733536">Explain the reason why the imprudent and excessive use of antibiotics has resulted in a major global problem.</para>
+</problem>
+<solution id="fs-idp40969120">
+<label/>
+<para id="fs-idp11035472">Antibiotics kill bacteria that are sensitive to them; thus, only the resistant ones will survive. These resistant bacteria will reproduce, and therefore, after a while, there will be only resistant bacteria.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp48620288">
+<problem id="fs-idm111624560">
+<para id="fs-idp81416160">Researchers have discovered that washing spinach with water several times does not prevent foodborne diseases due to <emphasis effect="italics">E. coli</emphasis>. How can you explain this fact?</para>
+</problem>
+<solution id="fs-idp27948384">
+<label/>
+<para id="fs-idm28348160"><emphasis effect="italics">E. coli</emphasis> colonizes the surface of the leaf, forming a biofilm that is more difficult to remove than free (planktonic) cells. Additionally, bacteria can be taken up in the water that plants are grown in, thereby entering the plant tissues rather than simply residing on the leaf surface.</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167064931970" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065771332" class="os-exercise">
+<problem id="fs-id1167065943024">
+<para id="fs-id1167062349889">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex046"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065999548" class="os-exercise">
+<problem id="fs-id1167066028512">
+<para id="fs-id1167066040379">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex047"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065957555" class="os-exercise">
+<problem id="fs-id1167064922806">
+<para id="fs-id1167065891904">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex048"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064533405" class="os-exercise">
+<problem id="fs-id1167065974197">
+<para id="fs-id1167065913140">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex049"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066155597" class="os-exercise">
+<problem id="fs-id1167065941115">
+<para id="fs-id1167065728782">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex050"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062541053" class="os-exercise">
+<problem id="fs-id1167064825689">
+<para id="fs-id1167064905459">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex051"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163774875814" class="os-exercise">
+<problem id="eip-id1163774875819">
+<para id="eip-id1163774875821">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ot031"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066118270" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167064581395" class="os-exercise">
+<problem id="fs-id1167064907888">
+<para id="fs-id1167064736261">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex054"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064931406" class="os-exercise">
+<problem id="fs-id1167065972586">
+<para id="fs-id1167065776149">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex055"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062488062" class="os-exercise">
+<problem id="fs-id1167062371855">
+<para id="fs-id1167065789123">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex056"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163774664036" class="os-exercise">
+<problem id="eip-id1163774664040">
+<para id="eip-id1163774664042">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ot037"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167064909494" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup><sup>®</sup></sup> Courses</title>
+<exercise id="fs-id1167064869436" class="os-exercise  ost-tag-lo-apbio-ch22-s04-aplo-1-25">
+<problem id="fs-id1167065841296">
+<para id="fs-id1167066097086">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex058"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064981440" class="os-exercise">
+<problem id="fs-id1167064914369">
+<para id="fs-id1167066025210">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex059"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064536060" class="os-exercise  ost-tag-lo-apbio-ch22-s04-aplo-1-26">
+<problem id="fs-id1167066072858">
+<para id="fs-id1167065911083">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex060"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064928650" class="os-exercise">
+<problem id="fs-id1167066014918">
+<para id="fs-id1167065868379">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex061"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065849086" class="os-exercise  ost-tag-lo-apbio-ch22-s04-aplo-3-24">
+<problem id="fs-id1167066089382">
+<para id="fs-id1167064930134">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex062"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062408969" class="os-exercise">
+<problem id="fs-id1167065948335">
+<para id="fs-id1167062329399">
+<link class="os-embed" url="#ost/api/ex/apbio-ch22-ex063"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164964246194" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164967714717">
+<problem id="fs-id1164965209333">
+<para id="fs-id1164967806909"><emphasis effect="italics">Escherichia coli</emphasis> Strain A is able to grow in a minimal medium only when supplemented with methionine and biotin.  Strain B is able to grow in a minimal medium only when supplemented with threonine, leucine, and thiamine.  The two strains are incubated together in a medium containing each supplement.  They are then transferred to a minimal medium with no supplements, and each strain is able to grow under these conditions.</para>
+<para id="fs-id1164967730699">A. <term>Describe</term> the evidence that supports information exchange between Strain A and Strain B, and the mechanisms that can account for this behavior demonstrated by Lederberg and Tatum (<emphasis effect="italics">Nature</emphasis>, 1946).</para>
+<para id="fs-id1164965484815">Colistin is regarded as a last-resort antibiotic in the treatment of multi-drug-resistant, gram-negative bacteria.  The MCR-1 gene that confers colistin resistance was recently detected in a plasmid found in <emphasis effect="italics">E. coli</emphasis> from the intestines of human patients (Liu et al, <emphasis effect="italics">Lancet Infect. Dis</emphasis>., 2016).  Colistin is cheap to produce, is often used as a feed supplement for domesticated animals (12,000 metric tons per year in 2015), and its use is increasing.  Colistin is also unstable in water (Healan et al., <emphasis effect="italics">Antimicrob. Agents Chemother</emphasis>, 2012).</para>
+<para id="fs-id1164965534853">B. <term>Describe</term> the possible biological consequences of an immediate ban on the use of colistin in agriculture.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164965219984">
+<problem id="fs-id1164965303779">
+<para id="fs-id1164967554977">Life on Earth is sustained by four processes that are unique to prokaryotes: 1) methanogens reduce hydrogen or carbon atoms to produce methane; 2) methanotrophs combine methane with oxygen to form formaldehyde; 3) nitrogen fixation converts N<sub>2</sub> into ammonia; and 4) nitrification converts ammonia into nitrates. These processes recycle matter, maintaining the carbon (1 and 2) and nitrogen (3 and 4) cycles.</para>
+<para id="fs-id1164965290547">Methanogens are strictly anaerobic. Estimates of global fluxes of methane from major sources (Kirschke, <emphasis effect="italics">Nature Geoscience</emphasis>, 2013, in units of 10<sup>12</sup> g C/year) are shown in the figure below. Agricultural sources are predominately the microbiomes of ruminants (cows, goats, etc.) and rice cultivated in shallow ponds where anoxic compost and crop residues promote methanogen growth on roots. Other major human activities that contribute to atmospheric methane levels are landfills and natural gas drilling.</para>
+<figure id="fs-id1164965252721"><media id="fs-id1164965543165" alt="A figure labeled Major Fluxes of Methane (C H 4). Five arrows pointing to the right towards a larger arrow that is also pointing right. The first arrow is labeled Methanotrophs (30 x 10^12 g C/year). The second arrow is labeled Agriculture (219 x 10^12 g C/year). The third arrow is labeled Wetlands (175 x 10^12 g C/year). The fourth arrow is Other human sources (125 x 10^12 g C/year). The fifth arrow is labeled Other natural sources (45 x 10^12 g C/year). The large arrow is labeled O H capture (525 x 10^12 g C/year).">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_22_04_02_01_img.jpg" width="450"/>
+</media>
+</figure><para id="fs-id1164961180787">The fate of this methane is also shown. Most reacts with OH in the lower atmosphere to make formic acid, which then decomposes into carbon dioxide and water. Methanotrophs consume the remaining methane.</para>
+<para id="fs-id1164960823257">Methane is a component of the carbon cycle, but it is much less significant than carbon dioxide, whose major fluxes are shown in units of 10<sup>15</sup> g C/year (<emphasis effect="italics">NASA</emphasis>, 2015). Oceanic uptake and loss of CO<sub>2</sub> are primarily abiotic. Prokaryotic marine organisms account for approximately 50% of the biotic exchanges.</para><figure id="fs-id1164965194618"><media id="fs-id1164967570535" alt="A figure labeled Major Fluxes of Carbon Dioxide (C O 2). There are four arrows pointing left and two arrows pointing right. The first arrow pointing left is labeled Carbon fuel (7 x 10^15 g C/year). The second arrow pointing left is labeled Respiration (118 x 10^15 g C/year). The third arrow pointing left is labeled Ocean loss (97 x 10^15 g C/year)/ The fourth arrow pointing left is labeled O H capture (0.5 x 10^15 g C/year). The first arrow pointing right is labeled Photosynthesis (120 x 10^15 g C/year). The second arrow pointing left is labeled Ocean uptake (100 x 10^15 g C/year).">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_22_04_02_02_img.jpg" width="450"/>
+</media>
+</figure><para id="fs-id1164967453594">A. <term>Compare</term> quantitatively the rates of carbon cycling as methane between the biosphere and atmosphere. <term>Calculate</term> the percentage of methane production that is anthropocentric (due to human actions).</para>
+<para id="fs-id1164967925789">B. Assuming that the rates of carbon dioxide exchange shown in the diagram are accurate, <term>analyze</term> these data to <term>identify</term> a missing contribution to the carbon budget.</para>
+<para id="fs-id1164965595255">Recently, it was discovered that ruminants fed nitrooxypropanoic acid reduced their methane release from digestion by approximately 50% and increased the rate of meat production by as much as 80% (E. Duin et al., <emphasis effect="italics">Proc. Natl. Acad. Sci</emphasis>, 2016).</para>
+<para id="fs-id1164965268203">C. Since methane is a greenhouse gas, its release into the atmosphere further increases global temperatures. It has been claimed that a feed supplement program will reduce the effects of climate change. <term>Predict</term> the consequences of such a program and provide reasoning for your prediction.</para>
+<para id="fs-id1164960921221">A vertical profile of methane and oxygen below the surface of a rice paddy are shown in the graph below (Lee et al., <emphasis effect="italics">Front. Microbiol</emphasis>, 25, 2015). Also shown are estimates of the relative abundance of all genera of methanotrophs (red line) and methanogens (blue line) as a function of depth. Rice paddies are the largest contributor to agricultural methane production. The estimates were based on extraction and analysis of ribosomal RNA from the soil.</para>
+<figure id="fs-id1164967855149"><media id="fs-id1164965533811" alt="A figure of two graphs labeled Shallow and Deep Concentration Profiles in a Rice Field. The graph on the left, labeled Shallow concentration profile A, is showing the relationship between depth, relative methane concentration and relative oxygen concentration. The Y Axis is labeled Depth. The bottom X axis is labeled Relative methane concentration. The top X axis is labeled Relative oxygen concentration. The right graph, labeled Deep concentration profile B, is showing the relationship between depth and relative methane concentration. The Y axis is labeled Depth. The X axis is labeled Relative methane concentration. A key at the bottom labels the red line as Methanotrophs. The blue line labeled Methanogens. The triangle is labeled C H 4 and the circle is labeled O 2.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_22_04_02_03_img.jpg" width="450"/>
+</media>
+</figure><para id="fs-id1164965281631">D. <term>Justify</term> the <term>selection</term> of these measurements of the concentrations of two types of microbes and the gases that are consumed or produced to the development of a quantitative understanding of the habitat range of both groups and the control of methane release from rice fields.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm77247200">
+<term>antibiotic</term> <meaning id="fs-idp9555536">biological substance that, in low concentration, is antagonistic to the growth of prokaryotes</meaning>
+</definition>
+<definition id="fs-idm23234512">
+<term>Black Death</term> <meaning id="fs-idm20417232">devastating pandemic that is believed to have been an outbreak of bubonic plague caused by the bacterium <emphasis effect="italics">Yersinia pestis</emphasis></meaning>
+</definition>
+<definition id="fs-idm3694736">
+<term>botulism</term> <meaning id="fs-idp104496176">disease produce by the toxin of the anaerobic bacterium <emphasis effect="italics">Clostridium botulinum</emphasis></meaning>
+</definition>
+<definition id="fs-idm3676656">
+<term>CA-MRSA</term> <meaning id="fs-idm57070176">MRSA acquired in the community rather than in a hospital setting</meaning>
+</definition>
+<definition id="fs-idm84739200">
+<term>emerging disease</term> <meaning id="fs-idm57202448">disease making an initial appearance in a population or that is increasing in incidence or geographic range</meaning>
+</definition>
+<definition id="fs-idp53582288">
+<term>endemic disease</term> <meaning id="fs-idm38891296">disease that is constantly present, usually at low incidence, in a population</meaning>
+</definition>
+<definition id="fs-idm66690640">
+<term>epidemic</term> <meaning id="fs-idp64618288">disease that occurs in an unusually high number of individuals in a population at the same time</meaning>
+</definition>
+<definition id="fs-idm90498080">
+<term>foodborne disease</term> <meaning id="fs-idm9515248">any illness resulting from the consumption of contaminated food, or of the pathogenic bacteria, viruses, or other parasites that contaminate food</meaning>
+</definition>
+<definition id="fs-idm61564352">
+<term>MRSA</term> <meaning id="fs-idm72661280">(methicillin-resistant <emphasis effect="italics">Staphylococcus aureus</emphasis>) very dangerous <emphasis effect="italics">Staphylococcus</emphasis> <emphasis effect="italics">aureus</emphasis> strain resistant to multiple antibiotics</meaning>
+</definition>
+<definition id="fs-idp9382480">
+<term>pandemic</term> <meaning id="fs-idm79655936">widespread, usually worldwide, epidemic disease</meaning>
+</definition>
+<definition id="fs-idm59699408">
+<term>serotype</term> <meaning id="fs-idp6599664">strain of bacteria that carries a set of similar antigens on its cell surface, often many in a bacterial species</meaning>
+</definition>
+<definition id="fs-idp87625104">
+<term>zoonosis</term> <meaning id="fs-idm76293760">disease that primarily infects animals that is transmitted to humans</meaning>
+</definition>
+</glossary>
+</document>

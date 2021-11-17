@@ -1,0 +1,122 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Biotechnology in Medicine and Agriculture</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45483</md:content-id>
+  <md:title>Biotechnology in Medicine and Agriculture</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe uses of biotechnology in medicine</item>
+<item>Describe uses of biotechnology in agriculture</item>
+</list></md:abstract>
+  <md:uuid>af2b71fa-70de-48ec-8d8e-786ee43366b6</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm155617248">It is easy to see how biotechnology can be used for medicinal purposes. Knowledge of the genetic makeup of our species, the genetic basis of heritable diseases, and the invention of technology to manipulate and fix mutant genes provides methods to treat diseases. Biotechnology in agriculture can enhance resistance to disease, pests, and environmental stress to improve both crop yield and quality.</para>
+<section id="fs-idm34513120">
+<title>Genetic Diagnosis and Gene Therapy</title>
+<para id="fs-idm68466640">The process of testing for suspected genetic defects before administering treatment is called genetic diagnosis by genetic testing. In some cases in which a genetic disease is present in an individual’s family, family members may be advised to undergo genetic testing. For example, mutations in the <emphasis effect="italics">BRCA</emphasis> genes may increase the likelihood of developing breast, ovarian, and some other cancers. A person with breast cancer can be screened for these mutations. If one of the high-risk mutations is found, relatives may also wish to be screened for that particular mutation, or simply be more vigilant for the occurrence of cancers. Genetic testing is also offered for fetuses (or embryos with in vitro fertilization) to determine the presence or absence of disease-causing genes in families with specific debilitating diseases.</para>
+<note id="fs-idm67698000" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idm169317952">See how <link window="new" url="http://openstax.org/l/DNA_extraction">human DNA is extracted</link> for uses such as genetic testing.</para></note><para id="fs-idm64822736"><term>Gene therapy</term> is a genetic engineering technique that may one day be used to cure certain genetic diseases. In its simplest form, it involves the introduction of a non-mutated gene at a random location in the genome to cure a disease by replacing a protein that may be absent in these individuals because of a genetic mutation. The non-mutated gene is usually introduced into diseased cells as part of a vector transmitted by a virus, such as an adenovirus, that can infect the host cell and deliver the foreign DNA into the genome of the targeted cell (<link target-id="fig-ch10_02_01" document=""/>). To date, gene therapies have been primarily experimental procedures in humans. A few of these experimental treatments have been successful, but the methods may be important in the future as the factors limiting its success are resolved.</para>
+<figure id="fig-ch10_02_01"><media id="fs-idm16491152" alt="An illustration showing a virus containing viral DNA combined with a healthy non-mutated gene. The virus enters the targeted call and injects the non-mutated gene into the target cell nucleus.">
+<image mime-type="image/jpg" src="../../media/Figure_10_02_01-a1ce.jpg" width="450"/>
+</media>
+
+<caption>This diagram shows the steps involved in curing disease with gene therapy using an adenovirus vector. (credit: modification of work by NIH)</caption></figure></section>
+<section id="fs-idm126243072">
+<title>Production of Vaccines, Antibiotics, and Hormones</title>
+<para id="fs-idm188874592">Traditional vaccination strategies use weakened or inactive forms of microorganisms or viruses to stimulate the immune system. Modern techniques use specific genes of microorganisms cloned into vectors and mass-produced in bacteria to make large quantities of specific substances to stimulate the immune system. The substance is then used as a vaccine. In some cases, such as the H1N1 flu vaccine, genes cloned from the virus have been used to combat the constantly changing strains of this virus.</para>
+<para id="fs-idm35715568">Antibiotics kill bacteria and are naturally produced by microorganisms such as fungi; penicillin is perhaps the most well-known example. Antibiotics are produced on a large scale by cultivating and manipulating fungal cells. The fungal cells have typically been genetically modified to improve the yields of the antibiotic compound.</para>
+<para id="fs-idm192349888">Recombinant DNA technology was used to produce large-scale quantities of the human hormone insulin in <emphasis effect="italics">E. coli</emphasis> as early as 1978. Previously, it was only possible to treat diabetes with pig insulin, which caused allergic reactions in many humans because of differences in the insulin molecule. In addition, human growth hormone (HGH) is used to treat growth disorders in children. The HGH gene was cloned from a cDNA (complementary DNA) library and inserted into <emphasis effect="italics">E. coli</emphasis> cells by cloning it into a bacterial vector.</para>
+</section>
+<section id="fs-idm167648800">
+<title>Transgenic Animals</title>
+<para id="fs-idm139547792">Although several recombinant proteins used in medicine are successfully produced in bacteria, some proteins need a eukaryotic animal host for proper processing. For this reason, genes have been cloned and expressed in animals such as sheep, goats, chickens, and mice. Animals that have been modified to express recombinant DNA are called transgenic animals (<link target-id="fig-ch10_02_02" document=""/>).</para>
+<figure id="fig-ch10_02_02"><media id="fs-idm114039584" alt="A photo shows 3 mice under ultraviolet light. All three have white fur that looks purple in the UV light. The middle mouse is non-transgenic and is non-fluorescing. The mice on the left and right are transgenic, and their eyes, ears, nose, and tail fluoresce green under the UV light.">
+<image mime-type="image/jpg" src="../../media/Figure_10_02_02.jpg" width="300"/>
+</media>
+
+<caption>It can be seen that two of these mice are transgenic because they have a gene that causes them to fluoresce under a UV light. The non-transgenic mouse does not have the gene that causes fluorescence. (credit: Ingrid Moen et al.)</caption></figure><para id="fs-idm94492480">Several human proteins are expressed in the milk of transgenic sheep and goats. In one commercial example, the FDA has approved a blood anticoagulant protein that is produced in the milk of transgenic goats for use in humans. Mice have been used extensively for expressing and studying the effects of recombinant genes and mutations.</para>
+</section>
+<section id="fs-idm165826176">
+<title>Transgenic Plants</title>
+<para id="fs-idm96297536">Manipulating the DNA of plants (creating genetically modified organisms, or GMOs) has helped to create desirable traits such as disease resistance, herbicide, and pest resistance, better nutritional value, and better shelf life (<link target-id="fig-ch10_02_03" document=""/>). Plants are the most important source of food for the human population. Farmers developed ways to select for plant varieties with desirable traits long before modern-day biotechnology practices were established.</para>
+<figure id="fig-ch10_02_03"><media id="fs-idm54756656" alt="A photo of cobs of corn with kernels of varying shape and color.">
+<image mime-type="image/jpg" src="../../media/Figure_10_02_03-dae1.jpg" width="250"/>
+</media>
+
+<caption>Corn, a major agricultural crop used to create products for a variety of industries, is often modified through plant biotechnology. (credit: Keith Weller, USDA)</caption></figure><para id="fs-idm133898336"><term>Transgenic</term> plants have received DNA from other species. Because they contain unique combinations of genes and are not restricted to the laboratory, transgenic plants and other GMOs are closely monitored by government agencies to ensure that they are fit for human consumption and do not endanger other plant and animal life. Because foreign genes can spread to other species in the environment, particularly in the pollen and seeds of plants, extensive testing is required to ensure ecological stability. Staples like corn, potatoes, and tomatoes were the first crop plants to be genetically engineered.</para>
+<section id="fs-idm42656896">
+<title>Transformation of Plants Using <emphasis effect="italics">Agrobacterium tumefaciens</emphasis></title>
+<para id="fs-idm168996656">In plants, tumors caused by the bacterium <emphasis effect="italics">Agrobacterium tumefaciens</emphasis> occur by transfer of DNA from the bacterium to the plant. The artificial introduction of DNA into plant cells is more challenging than in animal cells because of the thick plant cell wall. Researchers used the natural transfer of DNA from <emphasis effect="italics">Agrobacterium</emphasis> to a plant host to introduce DNA fragments of their choice into plant hosts. In nature, the disease-causing <emphasis effect="italics">A. tumefaciens</emphasis> have a set of plasmids that contain genes that integrate into the infected plant cell’s genome. Researchers manipulate the plasmids to carry the desired DNA fragment and insert it into the plant genome.</para>
+</section>
+<section id="fs-idm125301680">
+<title>The Organic Insecticide <emphasis effect="italics">Bacillus thuringiensis</emphasis></title>
+<para id="fs-idm60030208"><emphasis effect="italics">Bacillus thuringiensis</emphasis> (Bt) is a bacterium that produces protein crystals that are toxic to many insect species that feed on plants. Insects that have eaten Bt toxin stop feeding on the plants within a few hours. After the toxin is activated in the intestines of the insects, death occurs within a couple of days. The crystal toxin genes have been cloned from the bacterium and introduced into plants, therefore allowing plants to produce their own crystal Bt toxin that acts against insects. Bt toxin is safe for the environment and non-toxic to mammals (including humans).  As a result, it has been approved for use by organic farmers as a natural insecticide. There is some concern, however, that insects may evolve resistance to the Bt toxin in the same way that bacteria evolve resistance to antibiotics.</para>
+</section>
+<section id="fs-idm101321168">
+<title>FlavrSavr Tomato</title>
+<para id="fs-idm39040912">The first GM crop to be introduced into the market was the FlavrSavr Tomato produced in 1994. Molecular genetic technology was used to slow down the process of softening and rotting caused by fungal infections, which led to increased shelf life of the GM tomatoes. Additional genetic modification improved the flavor of this tomato. The FlavrSavr tomato did not successfully stay in the market because of problems maintaining and shipping the crop.</para>
+</section>
+</section>
+<section id="fs-idm170088368" class="summary">
+<title>Section Summary</title><para id="fs-idm72143424">Genetic testing is performed to identify disease-causing genes, and can be used to benefit affected individuals and their relatives who have not developed disease symptoms yet. Gene therapy—by which functioning genes are incorporated into the genomes of individuals with a non-functioning mutant gene—has the potential to cure heritable diseases. Transgenic organisms possess DNA from a different species, usually generated by molecular cloning techniques. Vaccines, antibiotics, and hormones are examples of products obtained by recombinant DNA technology. Transgenic animals have been created for experimental purposes and some are used to produce some human proteins.</para>
+<para id="fs-idm158656624">Genes are inserted into plants, using plasmids in the bacterium <emphasis effect="italics">Agrobacterium tumefaciens</emphasis>, which infects plants. Transgenic plants have been created to improve the characteristics of crop plants—for example, by giving them insect resistance by inserting a gene for a bacterial toxin.</para>
+</section>
+<section id="fs-idm98258736" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm71258992">
+<problem id="fs-idm109813680">
+<para id="fs-idm153098688">What is a genetically modified organism (GMO)?</para>
+<list id="fs-idm166524896" list-type="enumerated" number-style="lower-alpha">
+<item>a plant with certain genes removed</item>
+<item>an organism with an artificially altered genome</item>
+<item>a hybrid organism</item>
+<item>any agricultural organism produced by breeding or biotechnology</item>
+</list>
+</problem>
+<solution id="fs-idm95561072">
+<label/>
+<para id="fs-idm34553648">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm72474688">
+<problem id="fs-idm154309184">
+<para id="fs-idm165116528">What is the role of <emphasis effect="italics">Agrobacterium tumefaciens</emphasis> in the production of transgenic plants?</para>
+<list id="fs-idm159627408" list-type="enumerated" number-style="lower-alpha">
+<item>Genes from <emphasis effect="italics">A. tumefaciens</emphasis> are inserted into plant DNA to give the plant different traits.</item>
+<item>Transgenic plants have been given resistance to the pest <emphasis effect="italics">A. tumefaciens</emphasis>.</item>
+<item><emphasis effect="italics">A. tumefaciens</emphasis> is used as a vector to move genes into plant cells.</item>
+<item>Plant genes are incorporated into the genome of <emphasis effect="italics">Agrobacterium tumefaciens</emphasis>.</item>
+</list>
+</problem>
+<solution id="fs-idm68149904">
+<label/>
+<para id="fs-idm112722880">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm23586960" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idm106999040">
+<problem id="fs-idm34525744">
+<para id="fs-idm157199408">Today, it is possible for a diabetic patient to purchase human insulin from a pharmacist. What technology makes this possible and why is it a benefit over how things used to be?</para>
+</problem>
+<solution id="fs-idm118320544">
+<label/>
+<para id="fs-idm112942048">The human insulin comes from the gene that produces insulin in humans, which has been spliced into a bacterial genome using recombinant DNA technology. The bacterium produces the insulin, which is then purified for human use. Before there was genetically engineered human insulin, diabetics were given insulin extracted from pig pancreases, which was similar to, but not exactly like, human insulin. Because it was not exactly like human insulin, the pig insulin caused complications in some diabetic patients.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm135170896">
+<term>gene therapy</term> <meaning id="fs-idm56345840">the technique used to cure heritable diseases by replacing mutant genes with good genes</meaning>
+</definition>
+<definition id="fs-idm64855264">
+<term>genetic testing</term> <meaning id="fs-idm74221392">identifying gene variants in an individual that may lead to a genetic disease in that individual</meaning>
+</definition>
+</glossary>
+</document>

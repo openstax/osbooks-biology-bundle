@@ -1,0 +1,628 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Transport of Water and Solutes in Plants</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62969</md:content-id>
+  <md:title>Transport of Water and Solutes in Plants</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define water potential and explain how it is influenced by solutes, pressure, gravity, and the matric potential</item>
+<item>Describe how water potential, evapotranspiration, and stomatal regulation influence how water is transported in plants</item>
+<item>Explain how photosynthates are transported in plants</item>
+</list></md:abstract>
+  <md:uuid>f7bcd22d-1a98-4ff1-ad5c-39f8a59a79d1</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167064597983" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167064848484">In this section, you will explore the following questions:</para>
+<list id="fs-id1167066098022">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch23-s05-lo01">What is water potential, and how is it influenced by solutes, pressures, gravity, and the matric potential?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch23-s05-lo02">How do water potential, evapotranspiration, and stomatal regulation influence how water is transported in plants?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch23-s05-lo03">How are photosynthates transported in plants?</item>
+</list>
+</section>
+<section id="fs-id1167062347988" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167064697088">Information in this section applies to concepts we explored in previous chapters by connecting them to the transport of water and solutes through a plant, showing ways that plants take up and transport materials. These concepts include the processes of photosynthesis and cellular respiration, the chemical and physical properties of water, and the coevolution of plants with mutualistic bacteria and fungi. The vascular system of terrestrial plants allows the efficient absorption and delivery of water through the cells that comprise xylem, whereas phloem delivers sugars produced in photosynthesis to all parts of the plant, including the roots for storage. The physical separation of xylem and phloem permits plants to move different nutrients simultaneously from roots to shoots and vice versa. Nearly all plants use related mechanisms of osmoregulation, and we will focus on the transport of water and other nutrients.</para>
+<para id="fs-id1167064896895" class="ost-reading-discard">You likely remember the concept of <emphasis>water potential</emphasis> (Ψ) from our exploration of diffusion and osmosis in the chapter where we discuss the structure and function of plasma membranes. Water potential is a measure of the differences in potential energy between a water sample with solutes and pure water. Water moves via osmosis from an area of higher water potential (more water molecules, less solute) to an area of lower water potential (less water, more solutes). The water potential in plant solutions is influenced by solute concentration, pressure, gravity, and other factors (matrix effects). Water potential and transpiration influence how water is transported through the xylem.</para>
+<para id="fs-id1167065959731" class="ost-reading-discard">Carbohydrates synthesized in photosynthesis, primarily sucrose, move from sources to sinks through the plant’s phloem. Sucrose produced in the Calvin cycle is loaded into the sieve-tube elements of the phloem, and the increased solute concentration causes water to move by osmosis from the xylem into the phloem.</para>
+<para id="fs-id1167064700382" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 and Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167065854784" summary="Table with two columns and seven rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.3 Molecules and atoms from the environment are necessary to build new molecules; the movement of water in a plant depends on the properties of water. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Learning Objective. 2.8 The student is able to justify the selection of data regarding the types of molecules that an animal, plant or bacterium will take up as necessary building blocks and excrete as waste products." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-a-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.3 </emphasis></span>
+<span class="ost-standards-description">Molecules and atoms from the environment are necessary to build new molecules; the movement of water in a plant depends on the properties of water.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-4-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.1: </emphasis></span>
+<span class="ost-standards-description">The student can justify the selection of the kind of data needed to answer a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-8">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.8 </emphasis></span>
+<span class="ost-standards-description">The student is able to justify the selection of data regarding the types of molecules that an animal, plant or bacterium will take up as necessary building blocks and excrete as waste products.</span>
+</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-a-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.3 </emphasis></span>
+<span class="ost-standards-description">Molecules and atoms from the environment are necessary to build new molecules; the movement of water in a plant depends on the properties of water.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.1: </emphasis></span>
+<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4: </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-9">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.9 </emphasis></span>
+<span class="ost-standards-description">The student is able to represent graphically or model quantitatively (or qualitatively) the exchange of molecules between an organism and its environment, and the subsequent use of these molecules to building new molecules that facilitate dynamic homeostasis, growth and reproduction.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.4 </emphasis></span>
+<span class="ost-standards-description">Interactions and coordination between organs and organ systems provide essential biological activities.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-3-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.3: </emphasis></span>
+<span class="ost-standards-description">The student can evaluate scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-8">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.8 </emphasis></span>
+<span class="ost-standards-description">The student is able to evaluate scientific questions concerning organisms that exhibit complex properties due to the interaction of their constituent parts.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.4 </emphasis></span>
+<span class="ost-standards-description">Interactions and coordination between organs and organ systems provide essential biological activities.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-3-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.3: </emphasis></span>
+<span class="ost-standards-description">The student can evaluate scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-9">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.9 </emphasis></span>
+<span class="ost-standards-description">The student is able to predict the effects of a change in the component(s) of a biological system on the functionality of an organism(s).</span>
+</entry>
+</row>
+<row><entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.4 </emphasis></span>
+<span class="ost-standards-description">Interactions and coordination between organs and organ systems provide essential biological activities.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.3: </emphasis></span>
+<span class="ost-standards-description">The student can refine representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4: </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-10">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.10 </emphasis></span>
+<span class="ost-standards-description">The student is able to refine representations and models to illustrate biocomplexity due to interactions of the constituent parts.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+
+
+
+</tgroup>
+</table><para id="fs-id1166850206087">The Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.40][APLO 4.12][APLO 2.1][APLO 2.8][APLO 2.9][APLO 2.41][APLO 1.2][APLO 1.22][APLO 1.25][APLO 2.19][APLO 2.32]</para></section>
+<para id="fs-idm41521616">The structure of plant roots, stems, and leaves facilitates the transport of water, nutrients, and photosynthates throughout the plant. The phloem and xylem are the main tissues responsible for this movement. Water potential, evapotranspiration, and stomatal regulation influence how water and nutrients are transported in plants. To understand how these processes work, we must first understand the energetics of water potential.</para>
+<section id="fs-idm147024512" class="ost-tag-lo-apbio-ch23-s05-lo01 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10 ost-get-exercise">
+<title>Water Potential</title>
+<para id="fs-idm99656496">Plants are phenomenal hydraulic engineers. Using only the basic laws of physics and the simple manipulation of potential energy, plants can move water to the top of a 116-meter-tall tree (<link target-id="fig-ch30_05_01" document=""/><emphasis effect="bold">a</emphasis>). Plants can also use hydraulics to generate enough force to split rocks and buckle sidewalks (<link target-id="fig-ch30_05_01" document=""/><emphasis effect="bold">b</emphasis>). Plants achieve this because of water potential.</para><figure id="fig-ch30_05_01"><media id="fs-idm17151216" alt=" Photo (a) shows the brown trunk of a tall sequoia tree in a forest. Photo (b) shows a grey tree trunk growing between a road and a sidewalk. The roots have started to lift up and crack the concrete slabs of the sidewalk.">
+<image mime-type="image/jpg" src="../../media/Figure_30_05_01.jpg" width="450"/>
+</media>
+
+<caption>With heights nearing 116 meters, (a) coastal redwoods (<emphasis effect="italics">Sequoia sempervirens</emphasis>) are the tallest trees in the world. Plant roots can easily generate enough force to (b) buckle and break concrete sidewalks, much to the dismay of homeowners and city maintenance departments. (credit a: modification of work by Bernt Rostad; credit b: modification of work by Pedestrians Educating Drivers on Safety, Inc.)</caption></figure>
+<para id="fs-idm67889584">Water potential is a measure of the potential energy in water. Plant physiologists are not interested in the energy in any one particular aqueous system, but are very interested in water movement between two systems. In practical terms, therefore, water potential is the difference in potential energy between a given water sample and pure water (at atmospheric pressure and ambient temperature). Water potential is denoted by the Greek letter Ψ (<emphasis effect="italics">psi</emphasis>) and is expressed in units of pressure (pressure is a form of energy) called <emphasis>megapascals</emphasis> (MPa). The potential of pure water (Ψ<sub>w</sub><sup>pure H2O</sup>) is, by convenience of definition, designated a value of zero (even though pure water contains plenty of potential energy, that energy is ignored). Water potential values for the water in a plant root, stem, or leaf are therefore expressed relative to Ψ<sub>w</sub><sup>pure H2O</sup>.</para><para id="fs-idp22356384">The water potential in plant solutions is influenced by solute concentration, pressure, gravity, and factors called matrix effects. Water potential can be broken down into its individual components using the following equation:</para>
+<equation id="eip-837"><m:math display="block">
+ <m:mrow>
+  <m:msub>
+   <m:mo>Ψ</m:mo>
+   <m:mrow>
+    <m:mtext>system</m:mtext>
+   </m:mrow>
+  </m:msub>
+  <m:mo>=</m:mo><m:msub>
+   <m:mo>Ψ</m:mo>
+   <m:mrow>
+    <m:mtext>total</m:mtext>
+   </m:mrow>
+  </m:msub>
+  <m:mo>=</m:mo><m:msub>
+   <m:mo>Ψ</m:mo>
+   <m:mtext>s</m:mtext>
+  </m:msub>
+  <m:mo>+</m:mo><m:msub>
+   <m:mo>Ψ</m:mo>
+   <m:mtext>p</m:mtext>
+  </m:msub>
+  <m:mo>+</m:mo><m:msub>
+   <m:mo>Ψ</m:mo>
+   <m:mtext>g</m:mtext>
+  </m:msub>
+  <m:mo>+</m:mo><m:msub>
+   <m:mo>Ψ</m:mo>
+   <m:mtext>m</m:mtext>
+  </m:msub>
+
+ </m:mrow>
+</m:math></equation><para id="fs-idp104228640">where Ψ<sub>s</sub>, Ψ<sub>p</sub>, Ψ<sub>g</sub>, and Ψ<sub>m</sub> refer to the solute, pressure, gravity, and matric potentials, respectively. “System” can refer to the water potential of the soil water (Ψ<sup>soil</sup>), root water (Ψ<sup>root</sup>), stem water (Ψ<sup>stem</sup>), leaf water (Ψ<sup>leaf</sup>) or the water in the atmosphere (Ψ<sup>atmosphere</sup>): whichever aqueous system is under consideration. As the individual components change, they raise or lower the total water potential of a system. When this happens, water moves to equilibrate, moving from the system or compartment with a higher water potential to the system or compartment with a lower water potential. This brings the difference in water potential between the two systems (ΔΨ) back to zero (ΔΨ = 0). Therefore, for water to move through the plant from the soil to the air (a process called transpiration), Ψ<sup>soil</sup> must be &gt; Ψ<sup>root</sup> &gt; Ψ<sup>stem</sup> &gt; Ψ<sup>leaf</sup> &gt; Ψ<sup>atmosphere</sup>.</para>
+<para id="fs-idm8277728">Water only moves in response to ΔΨ, not in response to the individual components. However, because the individual components influence the total Ψ<sub>system</sub>, by manipulating the individual components (especially Ψ<sub>s</sub>), a plant can control water movement.</para>
+<section id="fs-idm72209952" class="ost-tag-lo-apbio-ch23-s05-lo01 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10">
+<title>Solute Potential</title>
+<para id="fs-idm141122384">Solute potential (Ψ<sub>s</sub>), also called osmotic potential, is related to the solute concentration (in molarity). That relationship is given by the van 't Hoff equation: Ψ<sub>s</sub> = –M<emphasis effect="italics">i</emphasis>RT; where M is the molar concentration of the solute, <emphasis effect="italics">i</emphasis> is the van 't Hoff factor (the ratio of the amount of particles in the solution to amount of formula units dissolved), R is the ideal gas constant, and T is temperature in Kelvin degrees. The solute potential is negative in a plant cell and zero in distilled water. Typical values for cell cytoplasm are –0.5 to –1.0 MPa. Solutes reduce water potential (resulting in a negative Ψ<sub>w</sub>) by consuming some of the potential energy available in the water. Solute molecules can dissolve in water because water molecules can bind to them via hydrogen bonds; a hydrophobic molecule like oil, which cannot bind to water, cannot go into solution. The energy in the hydrogen bonds between solute molecules and water is no longer available to do work in the system because it is tied up in the bond. In other words, the amount of available potential energy is reduced when solutes are added to an aqueous system. Thus, Ψ<sub>s</sub> decreases with increasing solute concentration. Because Ψ<sub>s</sub> is one of the four components of Ψ<sub>system</sub> or Ψ<sub>total</sub>, a decrease in Ψ<sub>s</sub> will cause a decrease in Ψ<sub>total</sub>. The internal water potential of a plant cell is more negative than pure water because of the cytoplasm’s high solute content (<link target-id="fig-ch30_05_02" document=""/>). Because of this difference in water potential water will move from the soil into a plant’s root cells via the process of osmosis. This is why solute potential is sometimes called osmotic potential.</para><para id="fs-idm125860048">Plant cells can metabolically manipulate Ψ<sub>s</sub> (and by extension, Ψ<sub>total</sub>) by adding or removing solute molecules. Therefore, plants have control over Ψ<sub>total</sub> via their ability to exert metabolic control over Ψ<sub>s</sub>.</para>
+<note id="fs-idp39200944" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
+<para id="fs-idm38131952">
+<figure id="fig-ch30_05_02" class="ost-tag-lo-apbio-ch23-s05-lo01 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10"><media id="fs-idm19720576" alt=" Illustration shows a U-shaped tube holding pure water. A semipermeable membrane, which allows water but not solutes to pass, separates the two sides of the tube. The water level on each side of the tube is the same. Beneath this tube are three more tubes, also divided by semipermeable membranes. In the first tube, solute has been added to the right side. Adding solute to the right side lowers psi-s, causing water to move to the right side of the tube. As a result, the water level is higher on the right side. The second tube has pure water on both sides of the membrane. Positive pressure is applied to the left side. Applying positive pressure to the left side causes psi-p to increase. As a results, water moves to the right so that the water level is higher on the right than on the left. The third tube also has pure water, but this time negative pressure is applied to the left side. Applying negative pressure lowers psi-p, causing water to move to the left side of the tube. As a result, the water level is higher on the left.">
+<image mime-type="image/jpg" src="../../media/Figure_30_05_02.png" width="400"/>
+</media>
+
+<caption>In this example with a semipermeable membrane between two aqueous systems, water will move from a region of higher to lower water potential until equilibrium is reached. Solutes (Ψ<sub>s</sub>), pressure (Ψ<sub>p</sub>), and gravity (Ψ<sub>g</sub>) influence total water potential for each side of the tube (Ψ<sub>total</sub> <sup>right or left</sup>), and therefore, the difference between Ψ<sub>total</sub> on each side (ΔΨ). (Ψ<sub>m</sub> , the potential due to interaction of water with solid substrates, is ignored in this example because glass is not especially hydrophilic). Water moves in response to the difference in water potential between two systems (the left and right sides of the tube).</caption></figure></para>
+<!--<para id="fs-idm97341424">Positive water potential is placed on the left side of the tube by increasing &#936;<sub>p</sub> such that the water level rises on the right side. Could you equalize the water level on each side of the tube by adding solute, and if so, how?</para>-->
+<!--<para><link target-id="fig-ch30_05_02" document=""/> Yes, you can equalize the water level by adding the solute to the left side of the tube such that water moves toward the left until the water levels are equal.</para>-->
+<exercise id="fs-id1167065880283" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167065937519">
+<para id="fs-id1167065912585">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex061"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<section id="fs-idm81808400" class="ost-tag-lo-apbio-ch23-s05-lo01 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10">
+<title>Pressure Potential</title>
+<para id="fs-idm113764608">Pressure potential (Ψ<sub>p</sub>), also called turgor potential, may be positive or negative (<link target-id="fig-ch30_05_02" document=""/>). Because pressure is an expression of energy, the higher the pressure, the more potential energy in a system, and vice versa. Therefore, a positive Ψ<sub>p</sub> (compression) increases Ψ<sub>total</sub>, and a negative Ψ<sub>p</sub> (tension) decreases Ψ<sub>total</sub>. Positive pressure inside cells is contained by the cell wall, producing turgor pressure. Pressure potentials are typically around 0.6–0.8 MPa, but can reach as high as 1.5 MPa in a well-watered plant. A Ψ<sub>p</sub> of 1.5 MPa equates to 210 pounds per square inch (1.5 MPa x 140 lb in<sup>-2</sup> MPa<sup>-1</sup> = 210 lb/in<sup>-2</sup>). As a comparison, most automobile tires are kept at a pressure of 30–34 psi. An example of the effect of turgor pressure is the wilting of leaves and their restoration after the plant has been watered (<link target-id="fig-ch30_05_03" document=""/>). Water is lost from the leaves via transpiration (approaching Ψ<sub>p</sub> = 0 MPa at the wilting point) and restored by uptake via the roots.</para><para id="fs-idm130915168">A plant can manipulate Ψ<sub>p</sub> via its ability to manipulate Ψ<sub>s</sub> and by the process of osmosis. If a plant cell increases the cytoplasmic solute concentration, Ψ<sub>s</sub> will decline, Ψ<sub>total</sub> will decline, the ΔΨ between the cell and the surrounding tissue will decline, water will move into the cell by osmosis, and Ψ<sub>p</sub> will increase. Ψ<sub>p</sub> is also under indirect plant control via the opening and closing of stomata. Stomatal openings allow water to evaporate from the leaf, reducing Ψ<sub>p</sub> and Ψ<sub>total</sub> of the leaf and increasing ΔΨ between the water in the leaf and the petiole, thereby allowing water to flow from the petiole into the leaf.</para>
+<figure id="fig-ch30_05_03" class="ost-tag-lo-apbio-ch23-s05-lo01 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10"><media id="fs-idm26553776" alt=" Left photo shows a wilted plant with wilted leaves. Right photo shows a healthy plant.">
+<image mime-type="image/jpg" src="../../media/Figure_30_05_03.jpg" width="400"/>
+</media>
+<caption>When (a) total water potential (Ψ<sub>total</sub>) is lower outside the cells than inside, water moves out of the cells and the plant wilts. When (b) the total water potential is higher outside the plant cells than inside, water moves into the cells, resulting in turgor pressure (Ψ<sub>p</sub>) and keeping the plant erect. (credit: modification of work by Victor M. Vicente Selvas)</caption></figure></section>
+<section id="fs-idm71223120" class="ost-tag-lo-apbio-ch23-s05-lo01 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10">
+<title>Gravity Potential</title>
+<para id="fs-idm89093776">Gravity potential (Ψ<sub>g</sub>) is always negative to zero in a plant with no height. It always removes or consumes potential energy from the system. The force of gravity pulls water downwards to the soil, reducing the total amount of potential energy in the water in the plant (Ψ<sub>total</sub>). The taller the plant, the taller the water column, and the more influential Ψ<sub>g</sub> becomes. On a cellular scale and in short plants, this effect is negligible and easily ignored. However, over the height of a tall tree like a giant coastal redwood, the gravitational pull of –0.1 MPa m<sup>-1</sup> is equivalent to an extra 1 MPa of resistance that must be overcome for water to reach the leaves of the tallest trees. Plants are unable to manipulate Ψ<sub>g</sub>.</para>
+</section>
+<section id="fs-idm94966144" class="ost-tag-lo-apbio-ch23-s05-lo01 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10"><title>Matric Potential</title><para id="fs-idm12735808">Matric potential (Ψ<sub>m</sub>) is always negative to zero. In a dry system, it can be as low as –2 MPa in a dry seed, and it is zero in a water-saturated system. The binding of water to a matrix always removes or consumes potential energy from the system. Ψ<sub>m</sub> is similar to solute potential because it involves tying up the energy in an aqueous system by forming hydrogen bonds between the water and some other component. However, in solute potential, the other components are soluble, hydrophilic solute molecules, whereas in Ψ<sub>m</sub>, the other components are insoluble, hydrophilic molecules of the plant cell wall. Every plant cell has a cellulosic cell wall and the cellulose in the cell walls is hydrophilic, producing a matrix for adhesion of water: hence the name matric potential. Ψ<sub>m</sub> is very large (negative) in dry tissues such as seeds or drought-affected soils. However, it quickly goes to zero as the seed takes up water or the soil hydrates. Ψ<sub>m</sub> cannot be manipulated by the plant and is typically ignored in well-watered roots, stems, and leaves.</para></section></section>
+<section id="fs-idm105624176" class="ost-tag-lo-apbio-ch23-s05-lo02 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10">
+<title>Movement of Water and Minerals in the Xylem</title>
+<para id="fs-idm125847472">Solutes, pressure, gravity, and matric potential are all important for the transport of water in plants. Water moves from an area of higher total water potential (higher Gibbs free energy) to an area of lower total water potential. Gibbs free energy is the energy associated with a chemical reaction that can be used to do work. This is expressed as ΔΨ.</para>
+<para id="fs-idm84424128"><emphasis>Transpiration</emphasis> is the loss of water from the plant through evaporation at the leaf surface. It is the main driver of water movement in the xylem. Transpiration is caused by the evaporation of water at the leaf–atmosphere interface; it creates negative pressure (tension) equivalent to –2 MPa at the leaf surface. This value varies greatly depending on the vapor pressure deficit, which can be negligible at high relative humidity (RH) and substantial at low RH. Water from the roots is pulled up by this tension. At night, when stomata shut and transpiration stops, the water is held in the stem and leaf by the adhesion of water to the cell walls of the xylem vessels and tracheids, and the cohesion of water molecules to each other. This is called the cohesion–tension theory of sap ascent.</para>
+<para id="fs-idp41419776">Inside the leaf at the cellular level, water on the surface of mesophyll cells saturates the cellulose microfibrils of the primary cell wall. The leaf contains many large intercellular air spaces for the exchange of oxygen for carbon dioxide, which is required for photosynthesis. The wet cell wall is exposed to this leaf internal air space, and the water on the surface of the cells evaporates into the air spaces, decreasing the thin film on the surface of the mesophyll cells. This decrease creates a greater tension on the water in the mesophyll cells (<link target-id="fig-ch30_05_04" document=""/>), thereby increasing the pull on the water in the xylem vessels. The xylem vessels and tracheids are structurally adapted to cope with large changes in pressure. Rings in the vessels maintain their tubular shape, much like the rings on a vacuum cleaner hose keep the hose open while it is under pressure. Small perforations between vessel elements reduce the number and size of gas bubbles that can form via a process called cavitation. The formation of gas bubbles in xylem interrupts the continuous stream of water from the base to the top of the plant, causing a break termed an embolism in the flow of xylem sap. The taller the tree, the greater the tension forces needed to pull water, and the more cavitation events. In larger trees, the resulting embolisms can plug xylem vessels, making them non-functional.</para>
+<note id="fs-idp58394128" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
+<figure id="fig-ch30_05_04" class="ost-tag-lo-apbio-ch23-s05-lo02 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10">
+<media id="fs-idm30386896" alt=" Illustration shows a pine tree. A blowup of the root indicates that negative water potential draws water from the soil into the root hairs, then into the root xylem. A blowup of the trunk indicates that cohesion and adhesion draws water up the xylem. A blowup of a leaf shows that transpiration draws water from the leaf through the stoma. Next to the tree is an arrow showing water potential, which is low at the roots and high in the leaves. The water potential varies from ~–0.2 MPA in the root cells to ~–0.6 MPa in the stem and from ~–1.5 MPa in the highest leaves, to ~–100 MPa in the atmosphere.">
+<image mime-type="image/jpg" src="../../media/Figure_30_05_04.png" width="370"/>
+</media>
+
+<caption>The cohesion–tension theory of sap ascent is shown. Evaporation from the mesophyll cells produces a negative water potential gradient that causes water to move upwards from the roots through the xylem.</caption></figure>
+<!--<para id="fs-idp26749184">Which of the following statements is false?</para>
+<list id="fs-idm68312160" list-type="enumerated" number-style="lower-alpha"><item>Negative water potential draws water into the root hairs. Cohesion and adhesion draw water up the xylem. Transpiration draws water from the leaf.</item>
+<item>Negative water potential draws water into the root hairs. Cohesion and adhesion draw water up the phloem. Transpiration draws water from the leaf.</item>
+<item>Water potential decreases from the roots to the top of the plant.</item>
+<item>Water enters the plants through root hairs and exits through stoma.</item>
+</list>--><!--<para><link target-id="fig-ch30_05_04" document=""/>B.</para>-->
+<exercise id="fs-id1167066096582" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167066041253">
+<para id="fs-id1167062853856">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex062"/>
+</para>
+</problem>
+</exercise>
+</note><para id="fs-idm75436800"><emphasis>Transpiration</emphasis>—the loss of water vapor to the atmosphere through stomata—is a passive process, meaning that metabolic energy in the form of ATP is not required for water movement. The energy driving transpiration is the difference in energy between the water in the soil and the water in the atmosphere. However, transpiration is tightly controlled.</para>
+<section id="fs-idm75555856" class="ost-tag-lo-apbio-ch23-s05-lo02 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10">
+<title>Control of Transpiration</title>
+<para id="fs-idm76245280">The atmosphere to which the leaf is exposed drives transpiration, but also causes massive water loss from the plant. Up to 90 percent of the water taken up by roots may be lost through transpiration.</para>
+<para id="fs-idm218304560">Leaves are covered by a waxy <emphasis>cuticle</emphasis> on the outer surface that prevents the loss of water. Regulation of transpiration, therefore, is achieved primarily through the opening and closing of stomata on the leaf surface. Stomata are surrounded by two specialized cells called guard cells, which open and close in response to environmental cues such as light intensity and quality, leaf water status, and carbon dioxide concentrations. Stomata must open to allow air containing carbon dioxide and oxygen to diffuse into the leaf for photosynthesis and respiration. When stomata are open, however, water vapor is lost to the external environment, increasing the rate of transpiration. Therefore, plants must maintain a balance between efficient photosynthesis and water loss.</para>
+<para id="fs-idm163208688">Plants have evolved over time to adapt to their local environment and reduce transpiration(<link target-id="fig-ch30_05_05" document=""/>). Desert plants (xerophytes) and plants that grow on other plants (epiphytes) have limited access to water. Such plants usually have a much thicker waxy cuticle than those growing in more moderate, well-watered environments (mesophytes). Aquatic plants (hydrophytes) also have their own set of anatomical and morphological leaf adaptations.</para>
+<figure id="fig-ch30_05_05" class=" "><media id="fs-idp35383280" alt="Photo (a) shows a cactus with flat, oval, prickly leaves and a red cylindrical fruit on top; (b) is an orchid with a purple and white flower and glossy leaves; (c) shows a field of plants with long stems, many leaves and a bushy head of small golden flowers; (d) is a water lily in a pond. The water lily has round, flat leaves and a pink and white flower.">
+<image mime-type="image/jpg" src="../../media/Figure_30_05_05.jpg" width="400"/>
+</media>
+
+<caption>Plants are suited to their local environment. (a) Xerophytes, like this prickly pear cactus (<emphasis effect="italics">Opuntia sp.</emphasis>) and (b) epiphytes such as this tropical <emphasis effect="italics">Aeschynanthus perrottetii</emphasis> have adapted to very limited water resources. The leaves of a prickly pear are modified into spines, which lowers the surface-to-volume ratio and reduces water loss. Photosynthesis takes place in the stem, which also stores water. (b) <emphasis effect="italics">A. perottetii</emphasis> leaves have a waxy cuticle that prevents water loss. (c) Goldenrod (<emphasis effect="italics">Solidago sp.</emphasis>) is a mesophyte, well suited for moderate environments. (d) Hydrophytes, like this fragrant water lily (<emphasis effect="italics">Nymphaea odorata</emphasis>), are adapted to thrive in aquatic environments. (credit a: modification of work by Jon Sullivan; credit b: modification of work by L. Shyamal/Wikimedia Commons; credit c: modification of work by Huw Williams; credit d: modification of work by Jason Hollinger)</caption></figure><para id="fs-idm19329296">Xerophytes and epiphytes often have a thick covering of trichomes or of stomata that are sunken below the leaf’s surface. Trichomes are specialized hair-like epidermal cells that secrete oils and substances. These adaptations impede air flow across the stomatal pore and reduce transpiration. Multiple epidermal layers are also commonly found in these types of plants.</para>
+</section>
+</section>
+<section id="fs-idm19354272" class="ost-tag-lo-apbio-ch23-s05-lo03 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10 ost-get-exercise">
+<title>Transportation of Photosynthates in the Phloem</title>
+<para id="fs-idm1157104">Plants need an energy source to grow. In seeds and bulbs, food is stored in polymers (such as starch) that are converted by metabolic processes into sucrose for newly developing plants. Once green shoots and leaves are growing, plants are able to produce their own food by photosynthesizing. The products of photosynthesis are called photosynthates, which are usually in the form of simple sugars such as sucrose.</para>
+<para id="fs-idp31697792">Structures that produce photosynthates for the growing plant are referred to as <emphasis>sources</emphasis>. Sugars produced in sources, such as leaves, need to be delivered to growing parts of the plant via the phloem in a process called <emphasis>translocation</emphasis>. The points of sugar delivery, such as roots, young shoots, and developing seeds, are called <emphasis>sinks</emphasis>. Seeds, tubers, and bulbs can be either a source or a sink, depending on the plant’s stage of development and the season.</para>
+<para id="fs-idp2880992">The products from the source are usually translocated to the nearest sink through the phloem. For example, the highest leaves will send photosynthates upward to the growing shoot tip, whereas lower leaves will direct photosynthates downward to the roots. Intermediate leaves will send products in both directions, unlike the flow in the xylem, which is always unidirectional (soil to leaf to atmosphere). The pattern of photosynthate flow changes as the plant grows and develops. Photosynthates are directed primarily to the roots early on, to shoots and leaves during vegetative growth, and to seeds and fruits during reproductive development. They are also directed to tubers for storage.</para>
+<section id="fs-idp117936912" class="ost-tag-lo-apbio-ch23-s05-lo03 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10">
+<title>Translocation: Transport from Source to Sink</title>
+<para id="fs-idm95744672">Photosynthates, such as sucrose, are produced in the mesophyll cells of photosynthesizing leaves. From there they are translocated through the phloem to where they are used or stored. Mesophyll cells are connected by cytoplasmic channels called plasmodesmata. Photosynthates move through these channels to reach phloem sieve-tube elements (STEs) in the vascular bundles. From the mesophyll cells, the photosynthates are loaded into the phloem STEs. The sucrose is actively transported against its concentration gradient (a process requiring ATP) into the phloem cells using the electrochemical potential of the proton gradient. This is coupled to the uptake of sucrose with a carrier protein called the sucrose-H<sup>+</sup> symporter.</para><para id="fs-idm79174800">Phloem STEs have reduced cytoplasmic contents, and are connected by a sieve plate with pores that allow for pressure-driven bulk flow, or translocation, of phloem sap. Companion cells are associated with STEs. They assist with metabolic activities and produce energy for the STEs (<link target-id="fig-ch30_05_06" document=""/>).</para>
+<figure id="fig-ch30_05_06" class="ost-tag-lo-apbio-ch23-s05-lo03"><media id="fs-idm11981168" alt="Illustration shows phloem, a column-like structure that is composed of stacks of cylindrical cells called sieve-tube elements. Each cell is separated by a sieve-tube plate. The sieve-tube plate has holes in it, like a slice of Swiss cheese. Lateral sieve areas on the side of the column allow different phloem tubes to interact.">
+<image mime-type="image/jpg" src="../../media/Figure_30_05_06.jpg" width="225"/>
+</media>
+<caption>Phloem is comprised of cells called sieve-tube elements. Phloem sap travels through perforations called sieve tube plates. Neighboring companion cells carry out metabolic functions for the sieve-tube elements and provide them with energy. Lateral sieve areas connect the sieve-tube elements to the companion cells.</caption></figure><para id="fs-idm79203024">Once in the phloem, the photosynthates are translocated to the closest sink. Phloem sap is an aqueous solution that contains up to 30 percent sugar, minerals, amino acids, and plant growth regulators. The high percentage of sugar decreases Ψ<sub>s,</sub> which decreases the total water potential and causes water to move by osmosis from the adjacent xylem into the phloem tubes, thereby increasing pressure. This increase in total water potential causes the bulk flow of phloem from source to sink (<link target-id="fig-ch30_05_07" document=""/>). Sucrose concentration in the sink cells is lower than in the phloem STEs because the sink sucrose has been metabolized for growth, or converted to starch for storage or other polymers, such as cellulose, for structural integrity. Unloading at the sink end of the phloem tube occurs by either diffusion or active transport of sucrose molecules from an area of high concentration to one of low concentration. Water diffuses from the phloem by osmosis and is then transpired or recycled via the xylem back into the phloem sap.</para>
+<figure id="fig-ch30_05_07" class="ost-tag-lo-apbio-ch23-s05-lo03"><media id="fs-idm2302400" alt=" Illustration shows the transpiration of water up the tubes of the xylem from a root sink cell. At the same time, sucrose is translocated down the phloem to the root sink cell from a leaf source cell. The sucrose concentration is high in the  source cell, and gradually decreases from the source to the root.">
+<image mime-type="image/jpg" src="../../media/Figure_30_05_07.jpg" width="240"/>
+</media>
+
+<caption>Sucrose is actively transported from source cells into companion cells and then into the sieve-tube elements. This reduces the water potential, which causes water to enter the phloem from the xylem. The resulting positive pressure forces the sucrose-water mixture down toward the roots, where sucrose is unloaded. Transpiration causes water to return to the leaves through the xylem vessels.</caption></figure>
+<note id="fs-id1167064948251" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167062371896" class="ost-assignable ost-sciprac-activity ost-tag-lo-apbio-ch23-s05-aplo-2-9">
+<para id="fs-id1167064541362">Based on water’s molecular properties, create a visual diagram/model to illustrate how water travels up a 300-foot California redwood tree through xylem.</para>
+</note>
+<note id="fs-id1167062452826" class="ost-assignable ost-sciprac-lab ost-tag-lo-apbio-ch23-s05-aplo-2-8 ost-tag-lo-apbio-ch23-s05-aplo-2-9">
+<label/><title>Lab Investigation</title>
+<para id="fs-id1167066054432"><emphasis effect="italics">AP<sup>®</sup> Biology Investigative Labs: Inquiry-Based, Investigation 11: Transpiration</emphasis>. Design and conduct a series of experiments to investigate the effects of environmental variables on transpiration rates.</para>
+</note>
+<note id="fs-id1167065714789" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch23-s05-aplo-4-8">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167065893529" class="unnumbered"><label/>
+<problem id="fs-id1167062939622"><para id="fs-id1167065807730">Desert travelers claim that cactus juice tastes sweeter during the day than at night. Based on your understanding of photosynthesis, transpiration, and the regulation of stomata by guard cells in response to environmental conditions, is there any validity to this claim?</para></problem></exercise>
+</note>
+<note id="fs-id1167065910628" class="os-teacher">
+<label>Teacher Support</label>
+<list id="fs-id1167062347801">
+<item>The activity is an application of AP<sup>®</sup> Learning Objective 2.9 and Science Practices 1.1 and 1.4 because students are creating a representation to model how the cohesive and adhesive properties of water help move water from the environment to the leaves of a tree where water is necessary for photosynthesis.</item>
+<item>The lab investigation is an application of AP<sup>®</sup> Learning Objective 2.8 and Science Practice 4.1 and Learning Objective 2.9 and Science Practices 1.1 and 1.4 because students will collect data to determine the effect(s) of environmental variables on the uptake of water and nutrients necessary for photosynthesis via transpiration.</item>
+<item>Think About It: Cactus juice would taste sweeter during the day than at night because photosynthesis is only partially completed at night, ending with the storing of sour-tasting malic acid in vacuoles. During the day, the malic acid is recovered and converted into CO2 and pyruvate, which enters the Calvin cycle, allowing the completion of photosynthesis and the production of sugars. These sugars would allow cactus juice to taste sweeter during the day than at night.</item>
+<item>The Think About It is an application of AP<sup>®</sup> Learning Objective 4.8 and Science Practice 3.3 because students are evaluating a question about environmental variables and transpiration rates.</item>
+</list>
+</note>
+</note>
+</section>
+</section>
+<section id="fs-idm89326464" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idm94981856">Water potential (Ψ) is a measure of the difference in potential energy between a water sample and pure water. The water potential in plant solutions is influenced by solute concentration, pressure, gravity, and matric potential. Water potential and transpiration influence how water is transported through the xylem in plants. These processes are regulated by stomatal opening and closing. Photosynthates (mainly sucrose) move from sources to sinks through the plant’s phloem. Sucrose is actively loaded into the sieve-tube elements of the phloem. The increased solute concentration causes water to move by osmosis from the xylem into the phloem. The positive pressure that is produced pushes water and solutes down the pressure gradient. The sucrose is unloaded into the sink, and the water returns to the xylem vessels.</para></section>
+<!--<section id="fs-idp55101104" class="art-exercise"><title>Art Connections</title><exercise id="fs-idm99218128">
+<problem id="fs-idm126748048">
+<para id="fs-idm39061680"><link target-id="fig-ch30_05_02" document=""/> Positive water potential is placed on the left side of the tube by increasing &#936;<sub>p</sub> such that the water level rises on the right side. Could you equalize the water level on each side of the tube by adding solute, and if so, how?</para>
+</problem>
+<solution id="fs-idp2844080">
+<label/>
+<para id="fs-idm146401200"><link target-id="fig-ch30_05_02" document=""/> Yes, you can equalize the water level by adding the solute to the left side of the tube such that water moves toward the left until the water levels are equal.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm89229488"><problem id="fs-idm35856448">
+<para id="fs-idm104783456"><link target-id="fig-ch30_05_04" document=""/> Which of the following statements is false?</para>
+<list id="fs-idm95057520" list-type="enumerated" number-style="lower-alpha">
+<item>Negative water potential draws water into the root hairs. Cohesion and adhesion draw water up the xylem. Transpiration draws water from the leaf.</item>
+<item>Negative water potential draws water into the root hairs. Cohesion and adhesion draw water up the phloem. Transpiration draws water from the leaf.</item>
+<item>Water potential decreases from the roots to the top of the plant.</item>
+<item>Water enters the plants through root hairs and exits through stoma.</item>
+</list>
+</problem>
+<solution id="fs-idm94537360">
+<label/>
+<para id="fs-idm91700496"><link target-id="fig-ch30_05_04" document=""/> B.</para>
+</solution>
+</exercise></section><section id="fs-idm31350000" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm129887328">
+<problem id="fs-idm126238080">
+<para id="fs-idm3585600">When stomata open, what occurs?</para>
+<list id="fs-idm161014080" list-type="enumerated" number-style="lower-alpha">
+<item>Water vapor is lost to the external environment, increasing the rate of transpiration.</item>
+<item>Water vapor is lost to the external environment, decreasing the rate of transpiration.</item>
+<item>Water vapor enters the spaces in the mesophyll, increasing the rate of transpiration.</item>
+<item>Water vapor enters the spaces in the mesophyll, increasing the rate of transpiration.</item>
+</list>
+</problem>
+<solution id="fs-idm2286384">
+<label/>
+<para id="fs-idm84069728">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm12618624">
+<problem id="fs-idm45432352">
+<para id="fs-idp35413584">Which cells are responsible for the movement of photosynthates through a plant?</para>
+<list id="fs-idm62442528" list-type="enumerated" number-style="lower-alpha">
+<item>tracheids, vessel elements</item>
+<item>tracheids, companion cells</item>
+<item>vessel elements, companion cells</item>
+<item>sieve-tube elements, companion cells</item>
+</list>
+</problem>
+<solution id="fs-idm32450480">
+<label/>
+<para id="fs-idp613520">D</para>
+</solution>
+</exercise>
+</section>  -->
+<section id="fs-id1167066039715" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167066040544" class="os-exercise">
+<problem id="fs-id1167065863369">
+<para id="fs-id1167064892628">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex063"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064919448" class="os-exercise">
+<problem id="fs-id1167066171793">
+<para id="fs-id1167065865234">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex064"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065762050" class="os-exercise">
+<problem id="fs-id1167066154345">
+<para id="fs-id1167065787918">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex065"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062355268" class="os-exercise">
+<problem id="fs-id1167066163358">
+<para id="fs-id1167064619968">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex066"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062410746" class="os-exercise">
+<problem id="fs-id1167066042301">
+<para id="fs-id1167065687590">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex067"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062361832" class="os-exercise">
+<problem id="fs-id1167062410678">
+<para id="fs-id1167066188641">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex068"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163774778066" class="os-exercise">
+<problem id="eip-id1163774786306">
+<para id="eip-id1163774786308">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ot055"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065913782" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title>
+<exercise id="fs-id1167064534878" class="os-exercise">
+<problem id="fs-id1167062577308">
+<para id="fs-id1167064780715">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex069"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166173489861">
+<problem id="fs-id1166171893812">
+<para id="fs-id1166173476800">What organs in humans are similar in function to the vascular tissues of vascular plants?</para></problem>
+<!--<solution id="fs-id1166173376469"><label/>
+<para id="fs-id1166173489287">Arteries, veins, and capillaries transport water and other nutrients throughout the bodies of humans, similar to the function of xylem and phloem in vascular plants.</para>
+</solution>-->
+</exercise>
+<exercise id="fs-id1166168148578">
+<problem id="fs-id1166173361267">
+<para id="fs-id1166173346462">Apoptosis, or programmed cell death, is an important step in the development of xylem. How does apoptosis contribute to xylem development?</para></problem>
+<!--<solution id="fs-id1166171953327"><label/>
+<para id="fs-id1166167113032">Xylem cells are thin and elongated during development. When these cells undergo apoptosis, the cells die and the cells cytoplasm in organelles eventually degrade. This leaves the cell walls, which form hollow tubes that are ideal for transporting water.</para>
+</solution>-->
+</exercise>
+<exercise id="fs-id1167065774371" class="os-exercise">
+<problem id="fs-id1167065880158">
+<para id="fs-id1167064914438">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex070"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065843475" class="os-exercise">
+<problem id="fs-id1167064669243">
+<para id="fs-id1167066103942">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex071"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163773665602" class="os-exercise">
+<problem id="eip-id1163773665606">
+<para id="eip-id1163773665608">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ot061"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1163773665620" class="os-exercise">
+<problem id="eip-id1163773665624">
+<para id="eip-id1163773665626">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ot062"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167065893108" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167066142881" class="os-exercise">
+<problem id="fs-id1167064911793">
+<para id="fs-id1167065984130">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex073"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064930640" class="os-exercise  ost-tag-lo-apbio-ch23-s05-aplo-4-10">
+<problem id="fs-id1167065807975">
+<para id="fs-id1167064930106">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex074"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065881841" class="os-exercise">
+<problem id="fs-id1167064899564">
+<para id="fs-id1167064951136">
+<link class="os-embed" url="#ost/api/ex/apbio-ch23-ex075"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164967771089" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164967777722">
+<problem id="fs-id1164965426570">
+<para id="fs-id1164965538575">A disruption of dynamic homeostasis in the relationship between vascular plants and insects is occurring as global climate changes.  The reduction in the yield of soybeans is plotted against leaf area removed by two insects, beetles and aphids.  Soybean blooms begin to develop in the week of 13 July.  Prior to that time, there is no effect of leaf removal on yield, even with complete loss of leaves.  In the week of 18 August, plants are beginning to form seeds, and loss of leaves can be devastating.</para>
+<figure id="fs-id1164965448212"><media id="fs-id1164967879861" alt="Chart is called “Reduction in Yield of Soybeans Plotted against Leaf Area Removed by Two Insects”. The vertical axis of the chart is labeled “Percent reduction in seed yield” and ranges from 0 to 80 in increments of 10. The horizontal axis is labeled “Percent leaf area removed”. Six sets of date lines cross the graph. 9 July-12 July runs from 10 percent leaf area removed and 0 percent reduction in seed yield to 100 percent leaf area removed while staying at 0 percent reduction in seed yield. 13 July- 17 July runs from 10 leaf area, 0 seed yield to 100 leaf area, 10 seed yield. 18 July-29 July runs from 10 leaf area, 0 seed yield to 100 leaf area, 25 seed yield. 30 July – 12 August runs from 10 leaf area, 0 seed yield to 100 leaf area, 35 seed yield. 13 August-17 August runs from 10 leaf area, 0 seed yield to 100 leaf area 60 seed yield. 18 August – 8 September runs from 10 leaf area, 0 seed yield to 100 leaf area, 80 seed yield. A bar labeled beetle runs from between 60-70% leaf area removed and from between 5-35% reduction in seed yield with the window of peak population density lying between 20-30%. A bar labeled aphid runs from between 80-90% leaf area removed and from between 15-60% reduction in seed yield with the window of peak population density lying between 35-50%.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_23_05_01_01_img.jpg" width="400"/>
+</media>
+</figure><para id="fs-id1164967439456">A. One observed effect of climate change is the shift toward earlier development in many insects. Quantitatively <term>describe</term> the worst possible consequences for yield, assuming plant developmental timing is not altered by warming temperatures, if the peak abundance of Japanese beetles is shifted from 18 July to 13 July, and 80% of leaf area is lost.</para>
+<para id="fs-id1164965538051">The expression of genes involved in seed development is temperature dependent, unlike the scenario suggested in part A.  More than 90% of soybean seeds planted in 2015 in the soybean-corn ecosystem of the central United States are the herbicide-resistant, genetically modified Roundup Ready variety.  The seed has a patented genome.  It produces seeds that are sterile and must be purchased each spring from the patent holder.</para><para id="fs-id1164959938738">B. <term>Predict</term> how the use of Roundup Ready seeds affects the selection of expression regulated in response to increasing temperature.</para>
+<para id="fs-id1164960788424">Roundup is an herbicide whose active chemical component is glyphosphate.  This molecule disrupts the synthesis of phenylalanine, tyrosine, and tryptophan.  By inserting a gene from <emphasis effect="italics">Agrobacteria</emphasis>, a Roundup Ready seed can synthesize these amino acids in the presence of the herbicide.</para>
+<para id="fs-id1164965610136">C. <term>Pose</term> two <term>scientific questions</term> that must be considered to estimate the long-term effectiveness of this strategy for weed management.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164967783145">
+<problem id="fs-id1164967588105">
+<para id="fs-id1164967550704">By increasing the photosynthetic surface area, a plant increases the rate of capture of free energy. For every carbon atom fixed into carbohydrates, between 200 and 400 water molecules are released through stomata to the atmosphere.  A simple geometric model can be used to estimate the minimum number of leaves on a tree, as shown.</para>
+<figure id="fs-id1164965583023"><media id="fs-id1164965160488" alt="The figure shows a leaf on the left and a tree on the right. On the top of the left, there is a horizontal arrow labelled 2L and a vertical arrow labelled 2W. There is an equation that reads area of leaf, tilde sign, 1/8 (2L) times (2W). he tree has the follow equations: Area leaves greater than 4 pi (D/2) squared and Number leaves greater than 2 pi D squared over LW.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_23_05_02_01_img.jpg" width="350"/>
+</media>
+</figure><para id="fs-id1164960705311">A. <term>Identify and justify the data</term> needed to describe the relationship between the free energy captured and the water transpired by a tree with dimensions D, L, and W.  Use these data to <term>construct a mathematical model</term> of the relationship between transpiration rate and the rate of free energy captured when a single carbon atom is fixed.</para>
+<para id="fs-id1164967819860">The diversity of vascular plants decreases with increasing latitude.  Equatorial ecosystems have greater plant diversity than do ecosystems further south or north.  One of several explanations offered to account for this observation is the energy-equivalence modelas free energy increases, population size increases.  As population size increases, mutations increase.  One bit of evidence for the energy-equivalence model is the correlation of family-level diversity with actual evapotranspiration, the sum of water transferred by both transpiration and evaporation of surface water.  This property is reported in mm of water per square meter of surface area.</para>
+<para id="fs-id1164965431575">B. <term>Explain</term> the relationship between free energy exchange and latitude that is the basis of the energy-equivalence model.</para>
+<para id="fs-id1164967841278">Shared ancestry is indicated by taxonomic classification in which a family of organisms contains many genera, and within each genus there are many species.  A survey of tree flora (Latham and Ricklefs, <emphasis effect="italics">Oikos</emphasis>, 67, 1993) at comparable latitudes in a temperate eastern Asia forest ecosystem (729 species in 177 genera and 67 families) and an eastern North America forest ecosystem (253 species in 90 genera and 46 families) had no species in common, but there were 20 common genera and 40 common families.  Actual evapotranspiration for the two ecosystems are 850 ± 200 mm (eastern North America) and 730 ± 160 mm (eastern Asia).</para>
+<para id="fs-id1164965185610">C. <term>Analyze</term> these data to test the validity of the energy-equivalence model.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164967828276">
+<problem id="fs-id1164967592763">
+<para id="fs-id1164965342515">The evolution of vascular plants followed the colonization of terrestrial habitats by ancestors of <emphasis effect="italics">Chlorophyta</emphasis>, green algae, during the Devonian period (which began about 400 million years ago). The three most significant structural innovations in that process are responses to selection through the availability of water resources: 1) the cuticle, a waxy covering of the epidermis that retains water; 2) stomata, openings that penetrate the cuticle through which water and carbon dioxide are transported; and 3) a vascular system, plant tissues through which water moves.</para>
+<para id="fs-id1164967613655">Measurements of gases trapped in ice cores provide atmospheric concentrations of the distant, as well as the recent, past.  Life must adapt to changes in the environment.  Woodward examined samples from the Cambridge herbarium of several trees (<emphasis effect="italics">Nature</emphasis>, 327, 1987) to determine the stomatal index (percentage of epidermal cells that contain a stoma).  In 1720, when the herbarium samples were collected, the carbon dioxide concentration in Earths atmosphere was 225 ppm.  In the year of the study, 1987, it was 340 ppm (it is 370 ppm in 2016).  The following table presents some of Woodwards reported results.</para>
+<table id="fs-id1164965532615" summary="This table has three columns. The columns read from top to bottom. The first column: Tree Genus, Acer, blank space, Quercus, blank space, Rumex, blank space. Column two: CO2 (ppm) , 225, 340, 225, 340, 225, 340. Column 3: Stomatal Index (%) , 14.9 ± 0.8 , 6.7 ± 1.1 , 17.4 ± 1.1 , 9.6 ± 1 , 15.5 ± 0.7 , 11.8 ± 0.9">
+<tgroup cols="3"><thead>
+<row>
+<entry align="center">Tree Genus</entry>
+<entry align="center">CO<sub>2</sub> (ppm)</entry>
+<entry align="center">Stomatal Index (%)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center"><emphasis effect="italics">Acer</emphasis></entry>
+<entry align="center">225</entry>
+<entry align="center">14.9 ± 0.8</entry>
+</row>
+<row>
+<entry align="center"/>
+<entry align="center">340</entry>
+<entry align="center">6.7 ± 1.1</entry>
+</row>
+<row>
+<entry align="center"><emphasis effect="italics">Quercus</emphasis></entry>
+<entry align="center">225</entry>
+<entry align="center">17.4 ± 1.1</entry>
+</row>
+<row>
+<entry align="center"/>
+<entry align="center">340</entry>
+<entry align="center">9.6 ± 1</entry>
+</row>
+<row>
+<entry align="center"><emphasis effect="italics">Rumex</emphasis></entry>
+<entry align="center">225</entry>
+<entry align="center">15.5 ± 0.7</entry>
+</row>
+<row>
+<entry align="center"/>
+<entry align="center">340</entry>
+<entry align="center">11.8 ± 0.9</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table><para id="fs-id1164967730127">Teng and co-workers (PLoS ONE, 2009) followed the dependence of <emphasis effect="italics">Arabidopsis</emphasis>, a member of the <emphasis effect="italics">Brassica</emphasis> family of vascular plants, grown under a range of elevated CO<sub>2</sub> concentrations for 15 generations.  They found elevated stomatal densities for each generation that were not heritable.</para>
+<para id="fs-id1164964511338">Engineer and co-workers (<emphasis effect="italics">Nature</emphasis>, 513, 2014) discovered a mutant <emphasis effect="italics">Arabidopsis</emphasis> in which stomatal density increases as CO<sub>2</sub> concentration increases.  Measurements of a component of the set of mRNA molecules for epidermal patterning factor 2 (EPF2), responsible for stomatal density, are shown for plants grown in low and high CO<sub>2</sub> concentrations.</para>
+<figure id="fs-id1164959887424"><media id="fs-id1164965664737" alt="The bar graph is labelled Measurements of E P F 2 for Plants grown in low and High C O 2 concentrations. The Y axis is labelled E P F 2 M R N A level. The x axis contains a blue and a gray bar for wild-type plants, and a blue and a gray bar in mutant plants. A key is labelled C O 2 level and contains the following values: gray equals 150 p p m, blue equals 500 p p m. For the wild type plants, the blue bar is significantly taller than the gray bar. For the mutant plants, the gray bar is significantly taller than the blue bar, but smaller than the blue bar of the wild type plants.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_23_05_03_01_img.jpg" width="350"/>
+</media>
+</figure><para id="fs-id1164965275406">A. <term>Analyze</term> these data in terms of the likelihood that the effect of carbon dioxide concentration on stomatal density involves negative feedback at the level of i) translation, ii) post-transcription, or iii) changes in genotype.</para>
+<para id="fs-id1164967471489">B. Changes in precipitation patterns are expected to accompany an increase in atmospheric carbon dioxide. <term>Predict</term> the effect on a forest where trees that have matured over decades are suddenly under drought stress. <term>Justify</term> your prediction in terms of positive or negative feedback where stomatal density is high and a drought occurs.</para>
+<para id="fs-id1164965226969">In a favorable environment, trees continue to accumulate biomass and increase in height until the flow rate of water through the xylem (plant vascular tissue that transports water and minerals from roots to shoots) is no longer sufficient to support the negative water potential at the interface between root and soil.  Fluid dynamic models predict that increasing the diameter, d, of the xylem greatly increases the rate of flow of water, leading to greater productivity when water is abundant.  Under conditions of drought stress, the water potential is reduced, and an air bubble can disrupt the flow of water in that vessel entirely.  A larger stem diameter permits a larger number of small vessels.</para>
+<para id="fs-id1164967586612">C. <term>Describe a model</term> of the evolution of xylem in trees in terms of selection under conditions of unlimited and limited water resources.</para>
+<para id="fs-id1164967462585">Olson and Rosell (<emphasis effect="italics">New Phytologist</emphasis>, 197, 2013) investigated the question of whether xylem diameter was determined by water availability or by plant height and, consequently, stem diameter.  A summary of their data is shown with lines of best fit through data with the corresponding color.</para><figure id="fs-id1164967827872"><media id="fs-id1164967537672" alt="Chart is titled “Xylem Diameter in Relation to Stem Diameter”. The vertical axis is titled log xylem diameter (mu m) measured from 1.0 to 2.5 in increments of .25. The horizontal axis is labeled log stem diameter (cm) measured from -.5 to 2.5 in increments of .25. Dry savannah (1513 mm), represented by a green triangle, has data spread throughout the graph, with its mean line running from -.5 log stem diameter, 1.35 log xylem diameter to 2.5 log stem diameter, 2.5 log xylem diameter. Tropical rain forest (3454 mm) represented by a blue square has data spread throughout the graph, with its mean line running from -.5 log stem diameter, 1.25 log xylem diameter to 2.5 log stem diameter, 2.35 log xylem diameter. Tropical dry forest (794 mm), represented by a red diamond, has data scattered throughout the graph, with its mean line running from -.5 log stem diameter, 1.25 log xylem diameter to 2.5 log stem diameter, 2.35 log xylem diameter. Tropical rain forest (2091 mm), represented by a purple circle, has data scattered throughout the graph, with its mean line running from -.5 log stem diameter, 1.24 log xylem diameter to 2.5 log stem diameter to 2.34 log xylem diameter. Temperate forest (807 mm), represented by a blue star, has data scattered throughout, with its mean line running from -.5 log stem diameter, 1.22 log xylem diameter to 2.5 log stem diameter, 2.32 log xylem diameter.">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_23_05_03_02_img.jpg" width="350"/>
+</media>
+</figure><para id="fs-id1164967545324">D. <term>Analyze</term> these data and summarize the pattern that addresses their question.  Note: As x increases, log(x) increases.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm82022576">
+<term>cuticle</term> <meaning id="fs-idm2481264">waxy covering on the outside of the leaf and stem that prevents the loss of water</meaning>
+</definition>
+<definition id="fs-idm92452256">
+<term>megapascal (MPa)</term> <meaning id="fs-idm139625216">pressure units that measure water potential</meaning>
+</definition>
+<definition id="fs-idp182536976">
+<term>sink</term> <meaning id="fs-idm135489168">growing parts of a plant, such as roots and young leaves, which require photosynthate</meaning>
+</definition>
+<definition id="fs-idm43841264">
+<term>source</term> <meaning id="fs-idm28928816">organ that produces photosynthate for a plant</meaning>
+</definition>
+<definition id="fs-idm62287216">
+<term>translocation</term> <meaning id="fs-idp60498080">mass transport of photosynthates from source to sink in vascular plants</meaning>
+</definition>
+<definition id="fs-idm44435120">
+<term>transpiration</term> <meaning id="fs-idm93831792">loss of water vapor to the atmosphere through stomata</meaning>
+</definition>
+<definition id="fs-idm105751408">
+<term>water potential (Ψ<sub>w</sub>)</term> <meaning id="fs-idm140418144">the potential energy of a water solution per unit volume in relation to pure water at atmospheric pressure and ambient temperature</meaning>
+</definition>
+</glossary>
+</document>

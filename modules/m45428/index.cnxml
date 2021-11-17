@@ -1,0 +1,128 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>How Cells Are Studied</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45428</md:content-id>
+  <md:title>How Cells Are Studied</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the roles of cells in organisms</item>
+<item>Compare and contrast light microscopy and electron microscopy</item>
+<item>Summarize the cell theory</item>
+</list></md:abstract>
+  <md:uuid>85a40dc5-7e4d-466f-835b-bc6bf4f47ab5</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp121187792">A cell is the smallest unit of a living thing. A living thing, like you, is called an organism. Thus, cells are the basic building blocks of all organisms.</para>
+<para id="fs-idp93782784">In multicellular organisms, several cells of one particular kind interconnect with each other and perform shared functions to form tissues  (for example, muscle tissue, connective tissue, and nervous tissue), several tissues combine to form an organ (for example, stomach, heart, or brain), and several organs make up an organ system (such as the digestive system, circulatory system, or nervous system). Several systems functioning together form an organism (such as an elephant, for example).</para><para id="fs-idp113134400">There are many types of cells, and all are grouped into one of two broad categories: prokaryotic and eukaryotic. Animal cells, plant cells, fungal cells, and protist cells are classified as eukaryotic, whereas bacteria and archaea cells are classified as prokaryotic. Before discussing the criteria for determining whether a cell is prokaryotic or eukaryotic, let us first examine how biologists study cells.</para>
+<section id="fs-idp18125392">
+<title>Microscopy</title>
+<para id="fs-idp18948384">Cells vary in size. With few exceptions, individual cells are too small to be seen with the naked eye, so scientists use microscopes to study them. A <term>microscope</term> is an instrument that magnifies an object. Most images of cells are taken with a microscope and are called micrographs.</para>
+<section id="fs-idm16637120">
+<title>Light Microscopes</title>
+<para id="fs-idp7201152">To give you a sense of the size of a cell, a typical human red blood cell is about eight millionths of a meter or eight micrometers (abbreviated as µm) in diameter; the head of a pin is about two thousandths of a meter (millimeters, or mm) in diameter. That means that approximately 250 red blood cells could fit on the head of a pin.</para>
+<para id="fs-idp36203632">The optics of the lenses of a light microscope changes the orientation of the image. A specimen that is right-side up and facing right on the microscope slide will appear upside-down and facing left when viewed through a microscope, and vice versa. Similarly, if the slide is moved left while looking through the microscope, it will appear to move right, and if moved down, it will seem to move up. This occurs because microscopes use two sets of lenses to magnify the image. Due to the manner in which light travels through the lenses, this system of lenses produces an inverted image (binoculars and a dissecting microscope work in a similar manner, but include an additional magnification system that makes the final image appear to be upright).</para>
+<para id="fs-idp22247296">Most student microscopes are classified as light microscopes (<link target-id="fig-ch03_01_01ab" document=""/><emphasis effect="bold">a</emphasis>). Visible light both passes through and is bent by the lens system to enable the user to see the specimen. Light microscopes are advantageous for viewing living organisms, but since individual cells are generally transparent, their components are not distinguishable unless they are colored with special stains. Staining, however, usually kills the cells.</para>
+<para id="fs-idp108612400">Light microscopes commonly used in the undergraduate college laboratory magnify up to approximately 400 times. Two parameters that are important in microscopy are magnification and resolving power. Magnification is the degree of enlargement of an object. Resolving power is the ability of a microscope to allow the eye to distinguish two adjacent structures as separate; the higher the resolution, the closer those two objects can be, and the better the clarity and detail of the image. When oil immersion lenses are used, magnification is usually increased to 1,000 times for the study of smaller cells, like most prokaryotic cells. Because light entering a specimen from below is focused onto the eye of an observer, the specimen can be viewed using light microscopy. For this reason, for light to pass through a specimen, the sample must be thin or translucent.</para>
+<note id="fs-idp118198192" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idm15412240">For another perspective on cell size, try the <link window="new" url="http://openstax.org/l/cell_sizes2">HowBig</link> interactive.</para>
+</note><para id="fs-idp263638992">A second type of microscope used in laboratories is the dissecting microscope (<link target-id="fig-ch03_01_01ab" document=""/><emphasis effect="bold">b</emphasis>). These microscopes have a lower magnification (20 to 80 times the object size) than light microscopes and can provide a three-dimensional view of the specimen. Thick objects can be examined with many components in focus at the same time. These microscopes are designed to give a magnified and clear view of tissue structure as well as the anatomy of the whole organism. Like light microscopes, most modern dissecting microscopes are also binocular, meaning that they have two separate lens systems, one for each eye. The lens systems are separated by a certain distance, and therefore provide a sense of depth in the view of their subject to make manipulations by hand easier. Dissecting microscopes also have optics that correct the image so that it appears as if being seen by the naked eye and not as an inverted image. The light illuminating a sample under a dissecting microscope typically comes from above the sample, but may also be directed from below.</para>
+<figure id="fig-ch03_01_01ab">
+<media id="fs-idp53987872" alt="Part a: This light microscope has binocular lenses and three objective lenses. The sample stage is directly beneath the objective lens. The light microscope sits on a tabletop. Part b: The dissecting microscope has binocular eyepieces, one objective lens, and light sources from both above and below the sample stage. There is room on the stage for a three-dimensional specimen.">
+<image mime-type="image/jpg" src="../../media/Figure_03_01_01ab.jpg" width="550"/>
+</media>
+<caption>(a) Most light microscopes used in a college biology lab can magnify cells up to approximately 400 times. (b) Dissecting microscopes have a lower magnification than light microscopes and are used to examine larger objects, such as tissues.</caption>
+</figure>
+</section>
+<section id="fs-idp18287472">
+<title>Electron Microscopes</title>
+<para id="fs-idm26675952">In contrast to light microscopes, electron microscopes use a beam of electrons instead of a beam of light. Not only does this allow for higher magnification and, thus, more detail (<link target-id="fig-ch03_01_02ab" document=""/>), it also provides higher resolving power. Preparation of a specimen for viewing under an electron microscope will kill it; therefore, live cells cannot be viewed using this type of microscopy. In addition, the electron beam moves best in a vacuum, making it impossible to view living materials.</para>
+<para id="fs-idp18126736">In a scanning electron microscope, a beam of electrons moves back and forth across a cell’s surface, rendering the details of cell surface characteristics by reflection. Cells and other structures are usually coated with a metal like gold. In a transmission electron microscope, the electron beam is transmitted through the cell and provides details of a cell’s internal structures. As you might imagine, electron microscopes are significantly more bulky and expensive than are light microscopes.</para>
+<figure id="fig-ch03_01_02ab" class="  " orient="horizontal"><subfigure id="fs-idm49906496">
+<media id="fs-idp166737280" alt="Part a: Salmonella viewed through a light microscope appear as tiny purple dots.">
+<image mime-type="image/jpg" src="../../media/Figure_03_01_02a_new.jpg" width="270"/>
+</media>
+</subfigure>
+<subfigure id="fs-idp202042336">
+<media id="fs-idp28536640" alt="Part b: In this scanning electron micrograph, the bacteria appear as three-dimensional red ovals. The human cells are much larger with a complex, folded appearance. Some of the bacteria lie on the surfaces of the human cells, and some are squeezed between them.">
+<image mime-type="image/jpg" src="../../media/Figure_03_01_02b_new.jpg" width="270"/>
+</media>
+</subfigure>
+
+<caption>(a) <emphasis effect="italics">Salmonella</emphasis> bacteria are viewed with a light microscope. (b) This scanning electron micrograph shows <emphasis effect="italics">Salmonella</emphasis> bacteria (in red) invading human cells. (credit a: modification of work by CDC, Armed Forces Institute of Pathology, Charles N. Farmer; credit b: modification of work by Rocky Mountain Laboratories, NIAID, NIH; scale-bar data from Matt Russell)</caption></figure><note id="fs-idp136818976" class="career non-majors"><label/><title>Careers in Action</title>
+
+<para id="fs-idm11883968"><title>Cytotechnologist</title>Have you ever heard of a medical test called a Pap smear (<link target-id="fig-ch03_01_03" document=""/>)? In this test, a doctor takes a small sample of cells from the uterine cervix of a patient and sends it to a medical lab where a cytotechnologist stains the cells and examines them for any changes that could indicate cervical cancer or a microbial infection.</para>
+<para id="fs-idp5464016">Cytotechnologists (<emphasis effect="italics">cyto</emphasis>- = cell) are professionals who study cells through microscopic examinations and other laboratory tests. They are trained to determine which cellular changes are within normal limits or are abnormal. Their focus is not limited to cervical cells; they study cellular specimens that come from all organs. When they notice abnormalities, they consult a pathologist, who is a medical doctor who can make a clinical diagnosis.</para>
+<para id="fs-idm17870864">Cytotechnologists play vital roles in saving people’s lives. When abnormalities are discovered early, a patient’s treatment can begin sooner, which usually increases the chances of successful treatment.</para>
+<figure id="fig-ch03_01_03"><media id="fs-idm11420272" alt="Both normal cells and cells infected with HPV have an irregular, round shape and a well-defined nucleus. The infected cells, however, are two to three times as large as uninfected cells, and some have two nuclei.">
+<image mime-type="image/jpg" src="../../media/Figure_03_01_03_new.jpg" width="350"/>
+</media>
+
+<caption>These uterine cervix cells, viewed through a light microscope, were obtained from a Pap smear. Normal cells are on the left. The cells on the right are infected with human papillomavirus. (credit: modification of work by Ed Uthman; scale-bar data from Matt Russell)</caption></figure></note></section>
+</section>
+<section id="fs-idp14699904">
+<title>Cell Theory</title>
+<para id="fs-idp37105392">The microscopes we use today are far more complex than those used in the 1600s by Antony van Leeuwenhoek, a Dutch shopkeeper who had great skill in crafting lenses. Despite the limitations of his now-ancient lenses, van Leeuwenhoek observed the movements of protists (a type of single-celled organism) and sperm, which he collectively termed “animalcules.”</para>
+<para id="fs-idm27163376">In a 1665 publication called <emphasis effect="italics">Micrographia</emphasis>, experimental scientist Robert Hooke coined the term “cell” (from the Latin <emphasis effect="italics">cella</emphasis>, meaning “small room”) for the box-like structures he observed when viewing cork tissue through a lens. In the 1670s, van Leeuwenhoek discovered bacteria and protozoa. Later advances in lenses and microscope construction enabled other scientists to see different components inside cells.</para>
+<para id="fs-idp76155936">By the late 1830s, botanist Matthias Schleiden and zoologist Theodor Schwann were studying tissues and proposed the <term>unified cell theory</term>, which states that all living things are composed of one or more cells, that the cell is the basic unit of life, and that all new cells arise from existing cells. These principles still stand today.</para>
+</section>
+<section id="fs-idp80477168" class="summary">
+<title>Section Summary</title><para id="fs-idp1012432">A cell is the smallest unit of life. Most cells are so small that they cannot be viewed with the naked eye. Therefore, scientists must use microscopes to study cells. Electron microscopes provide higher magnification, higher resolution, and more detail than light microscopes. The unified cell theory states that all organisms are composed of one or more cells, the cell is the basic unit of life, and new cells arise from existing cells.</para>
+</section>
+<section id="fs-idp110334880" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idp70769856">
+<problem id="fs-idp112308176">
+<para id="fs-idp28784272">When viewing a specimen through a light microscope, scientists use _________ to distinguish the individual components of cells.</para>
+<list id="fs-idp59547664" list-type="enumerated" number-style="lower-alpha">
+<item>a beam of electrons</item>
+<item>radioactive isotopes</item>
+<item>special stains</item>
+<item>high temperatures</item>
+</list>
+</problem>
+<solution id="fs-idp58346304">
+<label/>
+<para id="fs-idm32248048">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp22097264">
+<problem id="fs-idp95370512">
+<para id="fs-idp70706912">The ___________ is the basic unit of life.</para>
+<list id="fs-idm6840880" list-type="enumerated" number-style="lower-alpha">
+<item>organism</item>
+<item>cell</item>
+<item>tissue</item>
+<item>organ</item>
+</list>
+</problem>
+<solution id="fs-idp20761184">
+<label/>
+<para id="fs-idm11325632">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp111489392" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idp154607440">
+<problem id="fs-idp174308032">
+<para id="fs-idp28573248">What are the advantages and disadvantages of light, transmission, and scanning electron microscopes?</para>
+</problem>
+<solution id="fs-idp48165136">
+<label/>
+<para id="fs-idp47015504">The advantages of light microscopes are that they are easily obtained, and the light beam does not kill the cells. However, typical light microscopes are somewhat limited in the amount of detail that they can reveal. Electron microscopes are ideal because you can view intricate details, but they are bulky and costly, and preparation for the microscopic examination kills the specimen. Transmission electron microscopes are designed to examine the internal structures of a cell, whereas a scanning electron microscope only allows visualization of the surface of a structure.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp152323984">
+<term>microscope</term> <meaning id="fs-idp5308080">the instrument that magnifies an object</meaning>
+</definition>
+<definition id="fs-idp44706240">
+<term>unified cell theory</term> <meaning id="fs-idm15293648">the biological concept that states that all organisms are composed of one or more cells, the cell is the basic unit of life, and new cells arise from existing cells</meaning>
+</definition>
+</glossary>
+</document>

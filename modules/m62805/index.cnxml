@@ -1,0 +1,265 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Control of the Cell Cycle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62805</md:content-id>
+  <md:title>Control of the Cell Cycle</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand how the cell cycle is controlled by mechanisms both internal and external to the cell</item>
+<item>Explain how the three internal control checkpoints occur at the end of G1, at the G2/M transition, and during metaphase</item>
+<item>Describe the molecules that control the cell cycle through positive and negative regulation</item>
+</list></md:abstract>
+  <md:uuid>508746c7-ba20-436d-8965-41f8879f98f9</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167063459081" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067023091">In this section, you will explore the following questions:</para>
+<list id="fs-id1167063887810">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch10-s03-lo01">What are examples of internal and external mechanisms that control the cell cycle?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch10-s03-lo02">What molecules are involved in controlling the cell cycle through positive and negative regulation?</item>
+</list>
+</section>
+<section id="fs-id1167063527092" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066821770">Each step of the cell cycle is closely monitored by external signals and internal controls called checkpoints. There are three major checkpoints in the cell cycle: one near the end of G<sub>1</sub>, a second at the G<sub>2</sub>/M transition, and the third during metaphase. Growth factor proteins arriving at the dividing cell’s plasma membrane can trigger the cell to begin dividing. Cyclins and cyclin-dependent kinases (Cdks) are internal molecular signals that regulate cell transitions through the various checkpoints. Passage through the G<sub>1</sub> checkpoint makes sure that the cell is ready for DNA replication in the S stage of interphase; passage through the G<sub>2</sub> checkpoint triggers the separation of chromatids during mitosis. Positive regulator molecules like the cyclins and Cdks allow the cell cycle to advance to the next stage; negative regulator molecules, such as tumor suppressor proteins, monitor cellular conditions and can halt the cycle until specific requirements are met. Errors in the regulation of the cell cycle can cause cancer, which is characterized by uncontrolled cell division.</para>
+<para id="fs-id1167067049578" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the tables. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167066957424" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.2 In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization. Second left cell reads: Science Practice. Second right cell reads: 6.4 The student can make claims and predictions about natural phenomena based on scientific theories and models. Third left cell reads: Learning Objective. Third right cell reads: 3.7 The student can make predictions about natural phenomena occurring during the cell cycle." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
+<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.2 </emphasis></span>
+<span class="ost-standards-description">In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
+<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch10-s03-aplo-3-7">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.7 </emphasis></span>
+<span class="ost-standards-description">The student can make predictions about natural phenomena occurring during the cell cycle.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.2 </emphasis></span>
+<span class="ost-standards-description">In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
+<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch10-s03-aplo-3-8">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.8 </emphasis></span>
+<span class="ost-standards-description">The student can describe the events that occur in the cell cycle.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+
+<note id="fs-id1167063505272" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167066841053">Introduce the topic of control of the cell cycle using visuals such as <link window="new" url="http://openstax.org/l/32cycle">this video</link>.</para>
+</note>
+
+<para id="fs-id1766306">The length of the cell cycle is highly variable, even within the cells of a single organism. In humans, the frequency of cell turnover ranges from a few hours in early embryonic development, to an average of two to five days for epithelial cells, and to an entire human lifetime spent in G<sub>0</sub> by specialized cells, such as cortical neurons or cardiac muscle cells. There is also variation in the time that a cell spends in each phase of the cell cycle. When fast-dividing mammalian cells are grown in culture (outside the body under optimal growing conditions), the length of the cycle is about 24 hours. In rapidly dividing human cells with a 24-hour cell cycle, the G<sub>1</sub> phase lasts approximately nine hours, the S phase lasts 10 hours, the G<sub>2</sub> phase lasts about four and one-half hours, and the M phase lasts approximately one-half hour. In early embryos of fruit flies, the cell cycle is completed in about eight minutes. The timing of events in the cell cycle is controlled by mechanisms that are both internal and external to the cell.</para>
+<section id="fs-id1408061" class="ost-tag-lo-apbio-ch10-s03-lo01 ost-tag-lo-apbio-ch10-s03-aplo-3-7 ost-tag-lo-apbio-ch10-s03-aplo-3-8 ost-get-exercise">
+<title>Regulation of the Cell Cycle by External Events</title>
+<para id="fs-id2468588">Both the initiation and inhibition of cell division are triggered by events external to the cell when it is about to begin the replication process. An event may be as simple as the death of a nearby cell or as sweeping as the release of growth-promoting hormones, such as human growth hormone (HGH). A lack of HGH can inhibit cell division, resulting in dwarfism, whereas too much HGH can result in gigantism. Crowding of cells can also inhibit cell division. Another factor that can initiate cell division is the size of the cell; as a cell grows, it becomes inefficient due to its decreasing surface-to-volume ratio. The solution to this problem is to divide.</para><para id="fs-id2118380">Whatever the source of the message, the cell receives the signal, and a series of events within the cell allows it to proceed into interphase. Moving forward from this initiation point, every parameter required during each cell cycle phase must be met or the cycle cannot progress.</para>
+</section>
+<section id="fs-id1731275" class="ost-tag-lo-apbio-ch10-s03-lo01 ost-tag-lo-apbio-ch10-s03-aplo-3-7 ost-tag-lo-apbio-ch10-s03-aplo-3-8 ost-get-exercise">
+<title>Regulation at Internal Checkpoints</title>
+<para id="fs-id1484996">It is essential that the daughter cells produced be exact duplicates of the parent cell. Mistakes in the duplication or distribution of the chromosomes lead to mutations that may be passed forward to every new cell produced from an abnormal cell. To prevent a compromised cell from continuing to divide, there are internal control mechanisms that operate at three main <term>cell cycle checkpoints</term>. A checkpoint is one of several points in the eukaryotic cell cycle at which the progression of a cell to the next stage in the cycle can be halted until conditions are favorable. These checkpoints occur near the end of G<sub>1</sub>, at the G<sub>2</sub>/M transition, and during metaphase (<link target-id="fig-ch10_03_01" document=""/>).</para>
+<figure id="fig-ch10_03_01" class="ost-tag-lo-apbio-ch10-s03-lo01 ost-tag-lo-apbio-ch10-s03-aplo-3-7 ost-tag-lo-apbio-ch10-s03-aplo-3-8"><media id="fs-id2164409" alt="This illustration shows the three major checkpoints of the cell cycle: G_{1}, G_{2}, and M.">
+<image mime-type="image/png" src="../../media/Figure_10_03_01-7556.jpg" width="550"/>
+</media>
+<caption>The cell cycle is controlled at three checkpoints. The integrity of the DNA is assessed at the G<sub>1</sub> checkpoint. Proper chromosome duplication is assessed at the G<sub>2</sub> checkpoint. Attachment of each kinetochore to a spindle fiber is assessed at the M checkpoint.</caption></figure>
+<section id="fs-id1270040" class="ost-get-exercise">
+<title>The G<sub>1</sub> Checkpoint</title>
+<para id="fs-id2205570">The G<sub>1</sub> checkpoint determines whether all conditions are favorable for cell division to proceed. The G<sub>1</sub> checkpoint, also called the restriction point (in yeast), is a point at which the cell commits to the cell division process. External influences, such as growth factors, play a large role in carrying the cell past the G<sub>1</sub> checkpoint. In addition to adequate reserves and cell size, there is a check for genomic DNA damage at the G<sub>1</sub> checkpoint. A cell that does not meet all the requirements will not be allowed to progress into the S phase. The cell can halt the cycle and attempt to remedy the problematic condition, or the cell can advance into G<sub>0</sub> and await further signals when conditions improve.</para></section>
+<section id="fs-id2155647" class="ost-get-exercise">
+<title>The G<sub>2</sub> Checkpoint</title>
+<para id="fs-id1847006">The G<sub>2</sub> checkpoint bars entry into the mitotic phase if certain conditions are not met. As at the G<sub>1</sub> checkpoint, cell size and protein reserves are assessed. However, the most important role of the G<sub>2</sub> checkpoint is to ensure that all of the chromosomes have been replicated and that the replicated DNA is not damaged. If the checkpoint mechanisms detect problems with the DNA, the cell cycle is halted, and the cell attempts to either complete DNA replication or repair the damaged DNA.</para>
+</section>
+<section id="fs-id2074463" class="ost-get-exercise">
+<title>The M Checkpoint</title>
+<para id="fs-id2747604">The M checkpoint occurs near the end of the metaphase stage of karyokinesis. The M checkpoint is also known as the spindle checkpoint, because it determines whether all the sister chromatids are correctly attached to the spindle microtubules. Because the separation of the sister chromatids during anaphase is an irreversible step, the cycle will not proceed until the kinetochores of each pair of sister chromatids are firmly anchored to at least two spindle fibers arising from opposite poles of the cell.</para>
+<note id="fs-id1396394" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch10-s03-lo01 ost-tag-lo-apbio-ch10-s03-aplo-3-7 ost-tag-lo-apbio-ch10-s03-aplo-3-8"><label>Link to Learning</label>
+<para id="fs-id1473369">Watch what occurs at the G<sub>1</sub>, G<sub>2</sub>, and M checkpoints by visiting this <link window="new" url="http://openstax.org/l/cell_checkpnts">website</link> to see an animation of the cell cycle.</para>
+<exercise id="fs-id1167066810182" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067039433">
+<para id="fs-id1167067050860"><link class="os-embed" url="#ost/api/ex/apbio-ch10-ex023"/>
+</para></problem>
+</exercise>
+</note></section>
+</section>
+<section id="fs-id2926691" class="ost-tag-lo-apbio-ch10-s03-lo02 ost-tag-lo-apbio-ch10-s03-aplo-3-7 ost-tag-lo-apbio-ch10-s03-aplo-3-8 ost-get-exercise">
+<title>Regulator Molecules of the Cell Cycle</title>
+<para id="fs-id1964822">In addition to the internally controlled checkpoints, there are two groups of intracellular molecules that regulate the cell cycle. These regulatory molecules either promote progress of the cell to the next phase (positive regulation) or halt the cycle (negative regulation). Regulator molecules may act individually, or they can influence the activity or production of other regulatory proteins. Therefore, the failure of a single regulator may have almost no effect on the cell cycle, especially if more than one mechanism controls the same event. Conversely, the effect of a deficient or non-functioning regulator can be wide-ranging and possibly fatal to the cell if multiple processes are affected.</para>
+<section id="fs-id2571351" class="ost-get-exercise">
+<title>Positive Regulation of the Cell Cycle</title>
+<para id="fs-id2338602">Two groups of proteins, called <term>cyclins</term> and <term>cyclin-dependent kinases</term> (Cdks), are responsible for the progress of the cell through the various checkpoints. The levels of the four cyclin proteins fluctuate throughout the cell cycle in a predictable pattern (<link target-id="fig-ch10_03_02" document=""/>). Increases in the concentration of cyclin proteins are triggered by both external and internal signals. After the cell moves to the next stage of the cell cycle, the cyclins that were active in the previous stage are degraded.</para>
+<figure id="fig-ch10_03_02" class="ost-tag-lo-apbio-ch10-s03-lo02 ost-tag-lo-apbio-ch10-s03-aplo-3-7 ost-tag-lo-apbio-ch10-s03-aplo-3-7"><media id="fs-id1472126" alt="This graph shows the concentrations of different cyclin proteins during various phases of the cell cycle. Cyclin D concentrations increase in G_{1} and decrease at the end of mitosis. Cyclin E levels rise during G_{1} and fall during S phase. Cyclin A levels rise during S phase and fall during mitosis. Cyclin B levels rise in S phase and fall during mitosis.">
+<image mime-type="image/jpg" src="../../media/Figure_10_03_02-820d.jpg" width="400"/>
+</media>
+<caption>The concentrations of cyclin proteins change throughout the cell cycle. There is a direct correlation between cyclin accumulation and the three major cell cycle checkpoints. Also note the sharp decline of cyclin levels following each checkpoint (the transition between phases of the cell cycle), as cyclin is degraded by cytoplasmic enzymes. (credit: modification of work by "WikiMiMa"/Wikimedia Commons)</caption></figure><para id="fs-id1242469">Cyclins regulate the cell cycle only when they are tightly bound to Cdks. To be fully active, the Cdk/cyclin complex must also be phosphorylated in specific locations. Like all kinases, Cdks are enzymes (kinases) that phosphorylate other proteins. Phosphorylation activates the protein by changing its shape. The proteins phosphorylated by Cdks are involved in advancing the cell to the next phase. (<link target-id="fig-ch10_03_03" document=""/>). The levels of Cdk proteins are relatively stable throughout the cell cycle; however, the concentrations of cyclin fluctuate and determine when Cdk/cyclin complexes form. The different cyclins and Cdks bind at specific points in the cell cycle and thus regulate different checkpoints.</para><figure id="fig-ch10_03_03"><media id="fs-id2106304" alt="This illustration shows a cyclin protein binding to a Cdk. The cyclin/Cdk complex is activated when a kinase phosphorylates it. The cyclin/Cdk complex, in turn, phosphorylates other proteins, thus advancing the cell cycle.">
+<image mime-type="image/jpg" src="../../media/Figure_10_03_03_prev.jpg" width="350"/>
+</media>
+<caption>Cyclin-dependent kinases (Cdks) are protein kinases that, when fully activated, can phosphorylate and thus activate other proteins that advance the cell cycle past a checkpoint. To become fully activated, a Cdk must bind to a cyclin protein and then be phosphorylated by another kinase.</caption></figure><para id="fs-id1794075">Since the cyclic fluctuations of cyclin levels are based on the timing of the cell cycle and not on specific events, regulation of the cell cycle usually occurs by either the Cdk molecules alone or the Cdk/cyclin complexes. Without a specific concentration of fully activated cyclin/Cdk complexes, the cell cycle cannot proceed through the checkpoints.</para>
+<para id="fs-id1417449">Although the cyclins are the main regulatory molecules that determine the forward momentum of the cell cycle, there are several other mechanisms that fine-tune the progress of the cycle with negative, rather than positive, effects. These mechanisms essentially block the progression of the cell cycle until problematic conditions are resolved. Molecules that prevent the full activation of Cdks are called Cdk inhibitors. Many of these inhibitor molecules directly or indirectly monitor a particular cell cycle event. The block placed on Cdks by inhibitor molecules will not be removed until the specific event that the inhibitor monitors is completed.</para>
+</section>
+<section id="fs-id1627195" class="ost-get-exercise">
+<title>Negative Regulation of the Cell Cycle</title>
+<para id="fs-id2072379">The second group of cell cycle regulatory molecules are negative regulators. Negative regulators halt the cell cycle. Remember that in positive regulation, active molecules cause the cycle to progress.</para>
+<para id="fs-id2025461">The best understood negative regulatory molecules are <term>retinoblastoma protein (Rb)</term>, <term>p53</term>, and <term>p21</term>. Retinoblastoma proteins are a  group of tumor-suppressor proteins common in many cells. The 53 and 21 designations refer to the functional molecular masses of the proteins (p) in kilodaltons. Much of what is known about cell cycle regulation comes from research conducted with cells that have lost regulatory control. All three of these regulatory proteins were discovered to be damaged or non-functional in cells that had begun to replicate uncontrollably (became cancerous). In each case, the main cause of the unchecked progress through the cell cycle was a faulty copy of the regulatory protein.</para><para id="fs-id2918994">Rb, p53, and p21 act primarily at the G<sub>1</sub> checkpoint. p53 is a multi-functional protein that has a major impact on the commitment of a cell to division because it acts when there is damaged DNA in cells that are undergoing the preparatory processes during G<sub>1</sub>. If damaged DNA is detected, p53 halts the cell cycle and recruits enzymes to repair the DNA. If the DNA cannot be repaired, p53 can trigger apoptosis, or cell death, to prevent the duplication of damaged chromosomes. As p53 levels rise, the production of p21 is triggered. p21 enforces the halt in the cycle dictated by p53 by binding to and inhibiting the activity of the Cdk/cyclin complexes. As a cell is exposed to more stress, higher levels of p53 and p21 accumulate, making it less likely that the cell will move into the S phase.</para>
+<para id="fs-id2048187">Rb exerts its regulatory influence on other positive regulator proteins. Chiefly, Rb monitors cell size. In the active, dephosphorylated state, Rb binds to proteins called transcription factors, most commonly, E2F (<link target-id="fig-ch10_03_04" document=""/>). Transcription factors “turn on” specific genes, allowing the production of proteins encoded by that gene. When Rb is bound to E2F, production of proteins necessary for the G<sub>1</sub>/S transition is blocked. As the cell increases in size, Rb is slowly phosphorylated until it becomes inactivated. Rb releases E2F, which can now turn on the gene that produces the transition protein, and this particular block is removed. For the cell to move past each of the checkpoints, all positive regulators must be “turned on,” and all negative regulators must be “turned off.”</para>
+<note id="fs-id2883280" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch10-s03-lo02 ost-tag-lo-apbio-ch10-s03-aplo-3-7 ost-tag-lo-apbio-ch10-s03-aplo-3-8"><label>Visual Connection</label>
+<para id="fs-id2739621"><figure id="fig-ch10_03_04" class="  "><media id="fs-id2682756" alt="This illustration shows the regulation of the cell cycle by the Rb protein. Unphosphorylated Rb binds the transcription factor E2F. E2F cannot bind the DNA, and transcription is blocked. Cell growth triggers the phosphorylation of Rb. Phosphorylated Rb releases E2F, which binds the DNA and turns on gene expression, thus advancing the cell cycle.">
+<image mime-type="image/png" src="../../media/Figure_10_03_04.png" width="500"/>
+</media>
+<caption>Rb halts the cell cycle and releases its hold in response to cell growth.</caption></figure></para>
+<exercise id="fs-id1167067199123" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067067048">
+<para id="fs-id1167063595148"><link class="os-embed" url="#ost/api/ex/apbio-ch10-ex024"/>
+</para></problem>
+</exercise>
+</note>
+</section>
+</section>
+
+<note id="fs-id1167067145583" class="ap-science-practices ost-reading-discard"><label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167067068674" class="ost-assignable ost-sciprac-scithink">
+<label>Think About It</label>
+<exercise id="fs-id1167066851314" class="unnumbered ost-tag-lo-apbio-ch10-s03-aplo-3-7"><label/>
+<problem id="fs-id1167067115031"><list id="fs-id1167067115032">
+<item>Rb is a negative regulator that blocks the cell cycle at the G<sub>1</sub> checkpoint until the cell achieves a requisite size. What is the most likely mechanism that Rb employs to halt the cell cycle?</item>
+</list></problem>
+</exercise>
+<exercise id="fs-id1167067042802" class="unnumbered ost-tag-lo-apbio-ch10-s03-aplo-3-8"><label/>
+<problem id="fs-id1167067160013">
+<list id="fs-id1167066878268">
+<item>A cell has a mutation that results in the production of an abnormal cyclin-dependent kinase at the G<sub>2</sub>/M checkpoint. What is a likely consequence of the mutation on the cell cycle?</item>
+</list>
+</problem>
+</exercise>
+</note>
+</note><note id="fs-id1167067108364" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067069771">The Think About It questions are applications of Learning Objective 3.7 and Science Practice 6.4 and Learning Objective 3.8 and Science Practice 1.2 because the students are making predictions based on their understanding of the events occurring during the cell cycle.</para>
+<para id="fs-id1167067015387"><emphasis effect="bold">Answers</emphasis></para><list id="fs-id1167066958896">
+<item>Rb is active when it is dephosphorylated. In this state, Rb binds to E2F, which is a transcription factor required for the transcription and eventual translation of molecules required for the G<sub>1</sub>/S transition. E2F cannot transcribe certain genes when it is bound to Rb. As the cell increases in size, Rb becomes phosphorylated, inactivated, and releases E2F. E2F can then promote the transcription of the genes it controls, and the transition proteins will be produced.</item>
+<item>Cyclins and cyclin-dependent kinases (Cdks), are responsible for the progress of the cell through the various checkpoints including the G<sub>2</sub>/M checkpoint. Without a specific concentration of fully activated cyclin/Cdk complexes, or if an abnormal cdk is produced, the cell cycle cannot proceed through the checkpoint and will arrest at the G<sub>2</sub>/M checkpoint.</item>
+</list>
+</note>
+
+<section id="fs-id1975395" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id2013345">Each step of the cell cycle is monitored by internal controls called checkpoints. There are three major checkpoints in the cell cycle: one near the end of G<sub>1</sub>, a second at the G<sub>2</sub>/M transition, and the third during metaphase. Positive regulator molecules allow the cell cycle to advance to the next stage. Negative regulator molecules monitor cellular conditions and can halt the cycle until specific requirements are met.</para>
+</section>
+
+<section id="fs-id1167066778163" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167067260875" class="os-exercise">
+<problem id="fs-id1167067031340">
+<para id="fs-id1167066850875">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex019"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066948093" class="os-exercise">
+<problem id="fs-id1167067121837">
+<para id="fs-id1167063454537">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex020"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063526035" class="os-exercise">
+<problem id="fs-id1167067271589">
+<para id="fs-id1167067104615">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex021"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067095716" class="os-exercise">
+<problem id="fs-id1167063509582">
+<para id="fs-id1167067023704">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex022"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166849923169" class="os-exercise">
+<problem id="eip-id1166849867749">
+<para id="eip-id1166849960164">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ot013"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066861238" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167066953348" class="os-exercise">
+<problem id="fs-id1167063723568">
+<para id="fs-id1167067189501">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex025"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066858655" class="os-exercise">
+<problem id="fs-id1167063525279">
+<para id="fs-id1167067041926">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ex026"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166851337577" class="os-exercise">
+<problem id="eip-id1166851334562">
+<para id="eip-id1166851323976">
+<link class="os-embed" url="#ost/api/ex/apbio-ch10-ot017"/>
+</para>
+</problem>
+</exercise>
+</section><section id="fs-id1167066810903" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167066784127" class="os-exercise">
+<problem id="fs-id1167067154442">
+<para id="fs-id1167066861100">
+<link class="os-embed ost-tag-lo-apbio-ch10-s03-aplo-3-7" url="#ost/api/ex/apbio-ch10-ex027"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067006427" class="os-exercise">
+<problem id="fs-id1167063522589">
+<para id="fs-id1167066853069">
+<link class="os-embed ost-tag-lo-apbio-ch10-s03-aplo-3-8" url="#ost/api/ex/apbio-ch10-ex028"/>
+</para>
+</problem>
+</exercise>
+<!--<exercise id="fs-id1167067009585" class="os-exercise">
+<problem id="fs-id1167063496270">
+<para id="fs-id1167066871542">
+<link class="os-embed ost-tag-lo-apbio-ch10-s03-aplo-3-8" url="#ost/api/ex/apbio-ch10-ex029"/>
+</para>
+</problem>
+</exercise>-->
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-id1418108"><term>cell cycle checkpoint</term> <meaning id="fs-id2629926">mechanism that monitors the preparedness of a eukaryotic cell to advance through the various cell cycle stages</meaning></definition>
+<definition id="fs-id2227932"><term>cyclin</term> <meaning id="fs-id1778542">one of a group of proteins that act in conjunction with cyclin-dependent kinases to help regulate the cell cycle by phosphorylating key proteins; the concentrations of cyclins fluctuate throughout the cell cycle</meaning></definition>
+<definition id="fs-id1480601"><term>cyclin-dependent kinase</term> <meaning id="fs-id2433534">one of a group of protein kinases that helps to regulate the cell cycle when bound to cyclin; it functions to phosphorylate other proteins that are either activated or inactivated by phosphorylation</meaning></definition>
+<definition id="fs-id1340807"><term>p21</term> <meaning id="fs-id1424907">cell cycle regulatory protein that inhibits the cell cycle; its levels are controlled by p53</meaning></definition>
+<definition id="fs-id1236707"><term>p53</term> <meaning id="fs-id1565777">cell cycle regulatory protein that regulates cell growth and monitors DNA damage; it halts the progression of the cell cycle in cases of DNA damage and may induce apoptosis</meaning></definition>
+<definition id="fs-id1235723"><term>retinoblastoma protein (Rb)</term> <meaning id="fs-id1988804">regulatory molecule that exhibits negative effects on the cell cycle by interacting with a transcription factor (E2F)</meaning></definition>
+</glossary>
+
+</document>

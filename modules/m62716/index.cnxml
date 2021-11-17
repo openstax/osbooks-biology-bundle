@@ -1,0 +1,28 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62716</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>256944b5-2f73-495b-a673-d1af06217789</md:uuid>
+</metadata>
+
+<content>
+<figure id="fig-ch01_00_00" class="splash"><media id="fs-id1600276" alt="Photo depicts Earth from space.">
+<image mime-type="image/jpg" src="../../media/Figure_01_00_00.jpg" width="700"/>
+</media>
+<caption>This NASA image is a composite of several satellite-based views of Earth. To make the whole-Earth image, NASA scientists combine observations of different parts of the planet. (credit: NASA/GSFC/NOAA/USGS)</caption>
+</figure>
+
+<para id="fs-id1167065801289">Viewed from space, Earth offers no clues about the diversity of life it harbors. The first forms of life on Earth are thought be microorganisms that existed for billions of years in the ocean before plants and animals appeared. The mammals, birds, and flowers that we see in modern times are mostly “recent” species, originating 130 to 200 million years ago. In fact, only in the last 300,000 years have humans started looking like we do today.</para><para id="fs-id1167066095971">Organisms evolve in response to each other. One of the best examples is disease causing organisms, which have to adapt to overcome the defenses of the organisms they infect. One such organism that has evolved to specialize in infection in humans is <emphasis effect="italics">Plasmodium</emphasis>, the organism that causes malaria. Biologists use the process of science to learn about the world and the organisms living in it. For example, people have suspected for quite some time that people with blood type O are less likely to die from severe malaria. Now, a team of scientists have been able to explain why. By examining data from several experiments, and by using both inductive and deductive reasoning, the scientists concluded that A and B type blood reacts with a protein excreted by <emphasis effect="italics">Plasmodium</emphasis>. This reaction causes severe illness. However, type O blood does not react with the protein. You can <link url="http://openstax.org/l/32plasmodium">read more</link> about the response of type A and B blood groups to infection by <emphasis effect="italics">Plasmodium</emphasis>.
+
+</para><note id="fs-id1167065722529" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167065977234">Introduce the concept of unity and diversity of life. There are so many varieties of organisms and, yet, the cell is the basic unit of life. The fundamental structures and life processes of cells are similar; but, how these cells are utilized in different organisms is hugely varied and reflects adaptation of the organism to its environment. The many differences between species accumulated over long periods of time. Students are often unfamiliar with geological time scales.</para>
+<para id="fs-id1167066145469">The malaria example was chosen because malaria has been one of the most pervasive and widespread human disease. Therefore, through much of human history, malaria has been a strong force of natural selection on humans. Human genetics has evolved in response to this selection pressure, as with the example of resistance among O-type blood groups described in the introduction. Further examples can also be found <link window="new" url="http://openstax.org/l/32coevmalaria">here</link>.</para>
+</note>
+
+ </content>
+
+</document>

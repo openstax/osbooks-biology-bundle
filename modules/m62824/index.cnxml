@@ -1,0 +1,364 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Historical Basis of Modern Understanding</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62824</md:content-id>
+  <md:title>Historical Basis of Modern Understanding</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain transformation of DNA</item>
+<item>Describe the key experiments that helped identify that DNA is the genetic material</item>
+<item>State and explain Chargaff’s rules</item>
+</list></md:abstract>
+  <md:uuid>44bf14c6-0210-424d-9583-af663ce9f269</md:uuid>
+</metadata>
+
+<content><section id="fs-id1167066868202" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067099279">In this section, you will explore the following questions:</para>
+<list id="fs-id1167063580076">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch14-s01-lo01">What is transformation of DNA? How do Griffith’s experiments in 1928 relate to our modern understanding of DNA and how it works?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch14-s01-lo02">What are key historic experiments that helped identify DNA as the genetic material?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch14-s01-lo03">What are Chargaff’s rules of nitrogenous base pairing?</item>
+</list>
+</section>
+
+<section id="fs-id1167067200937" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066803741">Today the three letters “DNA” have become synonymous with crime solving, paternity testing, human identification, and genetic testing. All of these procedures are possible because of the discovery, in the middle of the twentieth century, that DNA is the genetic material. The results of several classic experiments set the stage for an explosion of our knowledge about DNA and how it stores and transmits genetic information. DNA was first isolated from white blood cells by Miescher in the 1860s.  Over fifty years later, Griffith’s work transforming strains of the bacterium <emphasis effect="italics">Streptococcus pneumoniae</emphasis> provided the first clue that DNA and not protein (as others argued) is the universal molecule of heredity. Griffith’s conclusions were later supported by Avery, MacLeod, and McCarty.</para>
+<para id="fs-id1167063563219">Subsequent experiments by Hershey and Chase using the bacteriophage T2 proved decisively that DNA is the genetic material. Shortly thereafter, Chargaff determined the ratios of adenine, thymine, cytosine, and guanine in DNA, suggesting paired relationships (A = T and C = G). He also found that the percentages of A, T, C, and G are different for different species. All of these historically important experiments shaped our current understanding of DNA.</para>
+<para id="fs-id1167066832902" class="ost-reading-discard">The content presented in this section supports the learning objectives outlined in Big Ideas 3 and 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> learning objectives merge essential knowledge content with one or more of the seven science practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> exam questions.</para>
+
+<table id="fs-id1167061253518" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 6.5 The student can evaluate alternative scientific explanations. Third left cell reads: Learning Objective. Third right cell reads: 3.1 The student is able to construct scientific explanations that use the structures and mechanisms of DNA to support the claim that DNA is the primary source of heritable information." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
+<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.1 </emphasis></span>
+<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-5">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.5 </emphasis></span>
+<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s01-aplo-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
+<span class="ost-standards-description">The student is able to construct scientific explanations that use the structures and mechanisms of DNA to support the claim that DNA is the primary source of heritable information.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.1 </emphasis></span>
+<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-4-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.1 </emphasis></span>
+<span class="ost-standards-description">The student can justify the selection of the kind of data needed to answer a particular scientific question.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s01-aplo-3-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.2 </emphasis></span>
+<span class="ost-standards-description">The student is able to justify the selection of data from historical investigations that support the claim that DNA is the source of heritable information.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
+<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.A.1 </emphasis></span>
+<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s01-aplo-4-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>4.1 </emphasis></span>
+<span class="ost-standards-description">The student is able to explain the connection between the sequence and the subcomponents of a biological polymer and its properties.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table><para id="fs-id1166851229765">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 3.2][APLO 3.28][APLO 1.11][APLO 1.16][APLO 3.1][APLO 4.1]</para></section>
+
+<note id="fs-id1167067040474" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167066973962" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167067311315">Stress to students that while DNA was discovered in the 1860s, the understanding that DNA is the genetic material came only in the middle of the 20<sup>th</sup> century. Prior to that time, most scientists thought that genetic information was transmitted by proteins. There were good reasons for this belief. Scientists had observed that there were many more proteins in cells than there were DNA molecules. They also observed that the chromosomes in eukaryotic cells were packed with large protein complexes. Today scientists call those chromosomal protein complexes histones. Histones play no role in transmitting genetic information. Instead, they help package and order the chromosomes in a cell’s nucleus.</para>
+<para id="fs-id1167067192478">Explain the experiments demonstrating DNA’s structure and function and focus on the logic behind the findings. Ask students if they can think of alternative methods to illustrate the same findings based on what they know today.</para>
+</note>
+</note>
+
+
+    <para id="fs-id1511467">Modern understandings of DNA have evolved from the discovery of nucleic acid to the development of the double-helix model. In the 1860s, Friedrich Miescher (<link target-id="fig-ch14_01_01" document=""/>), a physician by profession, was the first person to isolate phosphate-rich chemicals from white blood cells or leukocytes. He named these chemicals (which would eventually be known as RNA and DNA) nuclein because they were isolated from the nuclei of the cells.</para>
+<figure id="fig-ch14_01_01"><media id="fs-id2081310" alt="Photo of Friedrich Miescher.">
+<image mime-type="image/jpg" src="../../media/Figure_14_01_01-1dae.jpg" width="150"/>
+</media>
+<caption>Friedrich Miescher (1844–1895) discovered nucleic acids.</caption></figure>
+<note id="fs-id1964835" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch14-s01-aplo-3-2"><label>Link to Learning</label>
+<para id="fs-id2009505">To see Miescher conduct an experiment step-by-step, click through <link window="new" url="http://openstax.org/l/miescher_levene">this review</link> of how he discovered the key role of DNA and proteins in the nucleus.</para>
+<exercise id="fs-id1167067308220" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167066823699">
+<para id="fs-id1167063900356">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex001"/>
+</para>
+</problem>
+</exercise>
+</note>
+<para id="fs-id1430986">A half century later, British bacteriologist Frederick Griffith was perhaps the first person to show that hereditary information could be transferred from one cell to another “horizontally,” rather than by descent. In 1928, he reported the first demonstration of bacterial <term>transformation</term>, a process in which external DNA is taken up by a cell, thereby changing morphology and physiology. He was working with <emphasis effect="italics">Streptococcus pneumoniae,</emphasis> the bacterium that causes pneumonia. Griffith worked with two strains, rough (R) and smooth (S). The R strain is non-pathogenic (does not cause disease) and is called rough because its outer surface is a cell wall and lacks a capsule; as a result, the cell surface appears uneven under the microscope. The S strain is pathogenic (disease-causing) and has a capsule outside its cell wall. As a result, it has a smooth appearance under the microscope. Griffith injected the live R strain into mice and they survived. In another experiment, when he injected mice with the heat-killed S strain, they also survived. In a third set of experiments, a mixture of live R strain and heat-killed S strain were injected into mice, and—to his surprise—the mice died. Upon isolating the live bacteria from the dead mouse, only the S strain of bacteria was recovered. When this isolated S strain was injected into fresh mice, the mice died. Griffith concluded that something had passed from the heat-killed S strain into the live R strain and transformed it into the pathogenic S strain, and he called this the transforming principle (<link target-id="fig-ch14_01_02" document=""/>). These experiments are now famously known as Griffith's transformation experiments.</para>
+<figure id="fig-ch14_01_02" class="ost-tag-lo-apbio-ch14-s01-lo01 ost-tag-lo-apbio-ch14-s01-aplo-3-1 ost-tag-lo-apbio-ch14-s01-aplo-3-2"><media id="fs-id1631652" alt="On the left is a photo of a live mouse, representing a mouse injected with heat-killed, virulent S strain. On the right is a photo of a dead mouse, representing a mouse injected with heat-killed, virulent S strain and live, non-virulent R strain.">
+    <image mime-type="image/jpg" src="../../media/Figure_14_01_02-8075.jpg" width="525"/>
+</media>
+<caption>Two strains of <emphasis effect="italics">S. pneumoniae</emphasis> were used in Griffith’s transformation experiments. The R strain is non-pathogenic. The S strain is pathogenic and causes death. When Griffith injected a mouse with the heat-killed S strain and a live R strain, the mouse died. The S strain was recovered from the dead mouse. Thus, Griffith concluded that something had passed from the heat-killed S strain to the R strain, transforming the R strain into S strain in the process. (credit "living mouse": modification of work by NIH; credit "dead mouse": modification of work by Sarah Marriage)</caption></figure><para id="fs-id2890946">Scientists Oswald Avery, Colin MacLeod, and Maclyn McCarty (1944) were interested in exploring this transforming principle further. They isolated the S strain from the dead mice and isolated the proteins and nucleic acids, namely RNA and DNA, as these were possible candidates for the molecule of heredity. They conducted a systematic elimination study. They used enzymes that specifically degraded each component and then used each mixture separately to transform the R strain. They found that when DNA was degraded, the resulting mixture was no longer able to transform the bacteria, whereas all of the other combinations were able to transform the bacteria. This led them to conclude that DNA was the transforming principle.</para>
+
+<note id="fs-id1772414" class="career ost-feature ost-tag-lo-apbio-ch14-s01-aplo-3-1"><title>Forensic Scientists and DNA Analysis</title>
+
+<para id="fs-id2115765">DNA evidence was used for the first time to solve an immigration case. The story started with a teenage boy returning to London from Ghana to be with his mother. Immigration authorities at the airport were suspicious of him, thinking that he was traveling on a forged passport. After much persuasion, he was allowed to go live with his mother, but the immigration authorities did not drop the case against him. All types of evidence, including photographs, were provided to the authorities, but deportation proceedings were started nevertheless. Around the same time, Dr. Alec Jeffreys of Leicester University in the United Kingdom had invented a technique known as DNA fingerprinting. The immigration authorities approached Dr. Jeffreys for help. He took DNA samples from the mother and three of her children, plus an unrelated mother, and compared the samples with the boy’s DNA. Because the biological father was not in the picture, DNA from the three children was compared with the boy’s DNA. He found a match in the boy’s DNA for both the mother and his three siblings. He concluded that the boy was indeed the mother’s son.</para>
+<para id="fs-id1227579">Forensic scientists analyze many items, including documents, handwriting, firearms, and biological samples. They analyze the DNA content of hair, semen, saliva, and blood, and compare it with a database of DNA profiles of known criminals. Analysis includes DNA isolation, sequencing, and sequence analysis; most forensic DNA analysis involves polymerase chain reaction (PCR) amplification of short tandem repeat (STR) loci and electrophoresis to determine the length of the PCR-amplified fragment. Also, mitochondrial DNA is sequenced for forensics. Forensic scientists are expected to appear at court hearings to present their findings. They are usually employed in crime labs of city and state government agencies. Geneticists experimenting with DNA techniques also work for scientific and research organizations, pharmaceutical industries, and college and university labs. Students wishing to pursue a career as a forensic scientist should have at least a bachelor's degree in chemistry, biology, or physics, and preferably some experience working in a laboratory.</para></note>
+
+<note id="fs-id1167063892064" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch14-s01-aplo-3-1 ost-tag-lo-apbio-ch14-s01-aplo-3-2 ost-tag-lo-apbio-ch14-s01-aplo-4-1">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167061644732" class="ost-assignable ost-sciprac-activity ost-tag-lo-apbio-ch14-s01-aplo-4-1"><label/>
+<title>Activity <emphasis effect="italics">DNA Necklace.</emphasis></title>
+<para id="fs-id1167067040017">1) Using a molecular modeling kit (or an online virtual kit such as jmol), create a model of each of the 4 nucleotides in DNA, based on structural diagrams found in this chapter or elsewhere online.</para>
+<para id="fs-id1167063876777">2) Identify where each nucleotide hydrogen-bonds with its complementary base. Add these bonds to secure the two pairs of nucleotides together. How does the hydrogen bonding differ between the two pairs of complementary bases?</para>
+<para id="fs-id1167066806607">3) Now look at a structural diagram of a complete DNA molecule. Based on the diagram, connect your two pairs of nucleotides together along your DNA’s sugar-phosphate backbone (depending on your model kit, you may have to first disconnect the hydrogen bonds between the complementary bases). Which  atoms and molecules did you have to remove and add to create the sugar-phosphate backbone?</para>
+</note>
+<note id="fs-id1167066950048" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch14-s01-aplo-3-1 ost-tag-lo-apbio-ch14-s01-aplo-3-2">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167063503450" class="unnumbered">
+<label/>
+<problem id="fs-id1167063852348">
+<para id="fs-id1167066829833">Explain why radioactive sulfur and phosphorus were used to label T2 bacteriophages in the Hershey-Chase experiments. How did the results of these experiments contribute to the identification of DNA as the genetic material?</para>
+</problem>
+</exercise>
+</note>
+</note>
+
+<note id="fs-id1167067038941" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167063425369">The activity is an application of Learning Objective 4.1 and Science Practice 7.1 because students are examining the spatial relationships among the components of a DNA strand and explaining the connections between the sequence and subcomponents of the nucleotides.</para>
+
+<para id="fs-id1167065812368">An expanded lab investigation for DNA, involving restriction enzyme analysis, is available from the College Board's® <emphasis effect="italics">AP Biology Investigative Labs: An Inquiry-Based Approach</emphasis> in <link window="new" url="http://openstax.org/l/32BioLab9">Investigation 9</link>.</para>
+
+<para id="fs-id1167066859686">1) Group size is dependent on the availability of molecular model kits. Please note that extra carbon and hydrogen bonds are likely needed for students to make all 4 nucleotides. Groups could also be assigned to make one of the two pairs of nucleotides, after which the groups can combine the molecules into DNA in step 3. Jmol is available for download <link window="new" url="http://openstax.org/l/32Jmol">here</link>.</para>
+<para id="fs-id1167066972337">2) Note: some molecular model kits have special bonds to use for hydrogen bonds. If these bonds are not used, the students may not be able to connect the nucleotides together. Sample answer: One notable difference is that thymine and adenine bond with two hydrogen bonds while cytosine and guanine bond using three hydrogen bonds.</para>
+<para id="fs-id1167067026776">3) To bond two nucleotides along the sugar-phosphate backbone of DNA, we removed one H from carbon 3 of deoxyribose. We then bonded carbon 3 to one of the single-bonded O atoms on the phosphate ion. Next, we removed the OH group from the CH<sub>2</sub> group on the deoxyribose. The carbon on this CH<sub>2</sub> group was then bonded to the other single-bonded O on the phosphate ion.</para>
+<para id="fs-id1167067167134">The Think About It question is an application of Learning Objective 3.2 and Science Practice 4.1 because students are asked to justify that the Hershey-Chase experiments supported the identification of DNA as the carrier of genetic information. It is also an application of Learning Objective 3.1 and Science Practice 6.5 because students will evaluate researchers’ claims that DNA is found in cells and is the primary source of heritable information.</para>
+<note id="fs-id1167066029974"><title>Answer:</title>Hershey and Chase used radioactive sulfur because sulfur is not found in DNA but is present in T2’s protein coat. They used radioactive phosphorus because phosphorus is not found in protein but is present in DNA. When they observed the infected bacterial cells they found them to contain radioactive phosphorus but no radioactive sulfur. Therefore, Hershey and Chase knew that the DNA was the infectious agent and, thus, the transmitter of genetic information.</note>
+</note>
+
+
+<para id="fs-id2025461">Experiments conducted by Martha Chase and Alfred Hershey in 1952 provided confirmatory evidence that DNA was the genetic material and not proteins. Chase and Hershey were studying a bacteriophage, which is a virus that infects bacteria. Viruses typically have a simple structure: a protein coat, called the capsid, and a nucleic acid core that contains the genetic material, either DNA or RNA. The bacteriophage infects the host bacterial cell by attaching to its surface, and then it injects its nucleic acids inside the cell. The phage DNA makes multiple copies of itself using the host machinery, and eventually the host cell bursts, releasing a large number of bacteriophages. Hershey and Chase labeled one batch of phage with radioactive sulfur, <sup>35</sup>S, to label the protein coat. Another batch of phage were labeled with radioactive phosphorus, <sup>32</sup>P. Because phosphorous is found in DNA, but not protein, the DNA and not the protein would be tagged with radioactive phosphorus.</para>
+    <para id="fs-id1352111">Each batch of phage was allowed to infect the cells separately. After infection, the phage bacterial suspension was put in a blender, which caused the phage coat to be detached from the host cell. The phage and bacterial suspension was spun down in a centrifuge. The heavier bacterial cells settled down and formed a pellet, whereas the lighter phage particles stayed in the supernatant. In the tube that contained phage labeled with<sup> 35</sup>S, the supernatant contained the radioactively labeled phage, whereas no radioactivity was detected in the pellet. In the tube that contained the phage labeled with <sup>32</sup>P, the radioactivity was detected in the pellet that contained the heavier bacterial cells, and no radioactivity was detected in the supernatant.  Hershey and Chase concluded that it was the phage DNA that was injected
+into the cell and carried information to produce more phage particles, thus providing evidence that DNA was the genetic material and not proteins (<link target-id="fig-ch14_01_03" document=""/>).</para><figure id="fig-ch14_01_03" class="ost-tag-lo-apbio-ch14-s01-lo02 ost-tag-lo-apbio-ch14-s01-aplo-3-1 ost-tag-lo-apbio-ch14-s01-aplo-3-2"><media id="fs-id1879663" alt="Illustration shows bacteria being infected by phage labeled with ^{35}S, which is incorporated into the protein coat, or ^{32}P, which is incorporated into the DNA. Infected bacteria were separated from phage by centrifugation and cultured. The bacteria that had been infected with phage containing ^{32}P-labeled DNA made radioactive phage. The bacteria that had been infected with ^{35}S-labeled phage produced unlabeled phage. The results support the hypothesis that DNA, and not protein, is the genetic material.">
+    <image mime-type="image/jpg" src="../../media/Figure_14_01_03-eb69.jpg" width="400"/>
+</media>
+<caption>In Hershey and Chase's experiments, bacteria were infected with phage radiolabeled with either <sup>35</sup>S, which labels protein, or <sup>32</sup>P, which labels DNA. Only <sup>32</sup>P entered the bacterial cells, indicating that DNA is the genetic material.</caption></figure><para id="fs-id1430603" class="ost-tag-lo-apbio-ch14-s01-aplo-4-1">Around this same time, Austrian biochemist Erwin Chargaff examined the content of DNA in different species and found that the amounts of adenine, thymine, guanine, and cytosine were not found in equal quantities, and that it varied from species to species, but not between individuals of the same species. He found that the amount of adenine equals the amount of thymine, and the amount of cytosine equals the amount of guanine, or A = T and G = C. This is also known as Chargaff’s rules. This finding proved immensely useful when Watson and Crick were getting ready to propose their DNA double helix model.</para>
+<section id="fs-id2060998" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id2984818">DNA was first isolated from white blood cells by Friedrich Miescher, who called it nuclein because it was isolated from nuclei. Frederick Griffith's experiments with strains of <emphasis effect="italics">Streptococcus pneumoniae</emphasis> provided the first hint that DNA may be the transforming principle. Avery, MacLeod, and McCarty proved that DNA is required for the transformation of bacteria. Later experiments by Hershey and Chase using bacteriophage T2 proved that DNA is the genetic material. Chargaff found that the ratio of A = T and C = G, and that the percentage content of A, T, G, and C is different for different species.</para>
+</section>
+<!--<section>
+<title>Free Response</title>
+<exercise>
+<problem>
+<para>Explain Griffith's transformation experiments. What did he conclude from them?</para>
+</problem>
+<solution/>
+</exercise>
+<exercise>
+<problem>
+<para>Why were radioactive sulfur and phosphorous used to label bacteriophage in Hershey and Chase's experiments?</para>
+</problem>
+<solution/>
+</exercise>
+</section>-->
+<section id="fs-id1167066855490" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167066855637" class="os-exercise">
+<problem id="fs-id1167066944849">
+<para id="fs-id1167066865246">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex002"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066833211" class="os-exercise">
+<problem id="fs-id1167066877234">
+<para id="fs-id1167067152074">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex003"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067028513" class="os-exercise">
+<problem id="fs-id1167063688453">
+<para id="fs-id1167067276753">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex004"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063424670" class="os-exercise">
+<problem id="fs-id1167067133171">
+<para id="fs-id1167063882532">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067189562" class="os-exercise">
+<problem id="fs-id1167063726072">
+<para id="fs-id1167067105146">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066852756" class="os-exercise">
+<problem id="fs-id1167067158082">
+<para id="fs-id1167066967726">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex007"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167067194600" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167066835722" class="os-exercise">
+<problem id="fs-id1167067106040">
+<para id="fs-id1167066805242">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066870525" class="os-exercise">
+<problem id="fs-id1167066804594">
+<para id="fs-id1167063524935">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex009"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067197835" class="os-exercise">
+<problem id="fs-id1167066822031">
+<para id="fs-id1167067184223">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex010"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166172555693">
+<problem id="fs-id1166174371759">
+<para id="fs-id1166172879408">In the Avery, Macleod, and McCarty experiments, what conclusion would the scientists have drawn if the use of proteases prevented the transformation of R strain bacteria?</para>
+</problem>
+<!--<solution id="fs-id1166174249740">
+<label/>
+<para id="fs-id1166170743778">The conclusion would be that proteins are the heritable material in cells instead of nucleic acids.</para>
+</solution>-->
+</exercise>
+
+
+</section>
+
+<section id="fs-id1167063901425" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167066844122" class="os-exercise">
+<problem id="fs-id1167067144710">
+<para id="fs-id1167067045736">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex011"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067049811" class="os-exercise">
+<problem id="fs-id1167067185897">
+<para id="fs-id1167066947421">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex012"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067238779" class="os-exercise">
+<problem id="fs-id1167066824865">
+<para id="fs-id1167066793007">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex014"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167061243075" class="os-exercise">
+<problem id="fs-id1167063497631">
+<para id="fs-id1167067216225">
+<link class="os-embed" url="#ost/api/ex/apbio-ch14-ex015"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164966535081" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164966612626">
+<problem id="fs-id1164968876503">
+<para id="fs-id1164966584824">The proof that DNA, not protein, is the carrier of genetic information involved a number of historical experiments, including transformation or horizontal gene transfer (HGT), which is the uptake and expression of extracellular DNA.</para>
+<para id="fs-id1164968588582">A. As described in Figure 14.3, transformation or HGT was first reported by Griffith in 1928 in an experiment in which the following occurred:</para>
+<list id="fs-id1164961815624" list-type="enumerated" number-style="arabic" mark-suffix=")">
+<item>heat-treated, pathogenic bacteria recovered their pathogenicity when incubated with nonpathogenic bacteria</item>
+<item>plasmids were transferred to nonpathogenic bacteria from pathogenic bacteria through conjugation</item>
+<item>nonpathogenic bacteria acquired pathogenicity when incubated in a broth containing heat-treated, pathogenic bacteria</item>
+<item>polysaccharide cell capsules from pathogenic bacteria were transferred to nonpathogenic bacteria</item>
+</list>
+<para id="fs-id1164968598335">B. Griffiths experiment, however, left undetermined the identity of the cellular component that encoded genetic information.  The identity of DNA as the carrier of genetic information was resolved through the experiments by Martha Chase and Alfred Hershey because they observed the following:</para>
+<list id="fs-id1164968587558" list-type="enumerated" number-style="arabic" mark-suffix=")">
+<item>injections with a serum containing chemically isolated polysaccharides and nonpathogenic bacteria were not lethal</item>
+<item>pathogenic bacterial DNA that was radioactively labeled using a phosphorus isotope was not present in mice that died</item>
+<item>bacteriophages from a bacterial culture grown in a nutrient-containing medium and radioactively labeled using a sulfur isotope transferred the label to bacteria incubated in an unlabeled nutrient-containing medium </item>
+<item>bacteriophages from a bacterial culture grown in a nutrient-containing medium and radioactively labeled using a sulfur isotope did not transfer the label to bacteria incubated in an unlabeled nutrient-containing medium </item>
+</list>
+<para id="fs-id1164966543240">C. Transformation and transduction increase variation within populations of bacteria and archaebacteria by the following:</para>
+<list id="fs-id1164966282226" list-type="enumerated" number-style="lower-alpha">
+<item>transferring DNA among different species</item>
+<item>transferring free DNA across the cell membrane without energy expenditure</item>
+<item>transferring DNA between different strains of the same species of bacteria </item>
+<item>phagocytosis of bacteriophages</item>
+</list>
+<para id="fs-id1164966503323">The evolution of antibiotic resistance via HGT poses a challenge to medical technology.  On the other hand, transformation is often assayed by incorporating an antibiotic-resistance gene in the plasmid to be transferred into the host organism.  In natural environments, bacterial and archaebacterial cells become competent (able to transport DNA through the cytoplasmic membrane) in response to stress such as UV radiation, high population density, or heat shock.  Such conditions are often difficult to model in the laboratory, where competence can be induced by high concentrations of divalent cations, Ca<sup>+2</sup> or Mg<sup>+2</sup>, or electrical shock.  In either setting, extracellular DNA can be transported into the cell, and (to a good approximation) uptake is proportional to the concentration of extracellular DNA.</para>
+<para id="fs-id1164961826900">D. <emphasis>Identify</emphasis> a factor that might affect transformation or HGT.  Then, <emphasis>design a plan</emphasis> to evaluate the dependence of transformational efficiency (defined as the number of transformations per gram of extracellular DNA) of plasmids that transfer antibiotic resistance to a particular strain of <emphasis effect="italics">Escherichia coli</emphasis> that is not resistant on that factor.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164968988589">
+<problem id="fs-id1164966277928">
+<para id="fs-id1164966267809">Prior to the work of Hershey and Chase, scientists thought that inheritance involved nucleoproteins.  The amount of information to be transmitted between generations did not seem consistent with the chemical simplicity of the few nucleotides found in polymers of deoxyribonucleic acids in comparison to the diversity of protein polymers. Briefly <emphasis>explain</emphasis>:</para>
+<list id="fs-id1164968554698">
+<item>the relationship between the structure of polymeric DNA and the information stored</item>
+<item>the relationship between the interactions between base pairs on complementary strands of the double helix and Chargaffs observation on the relative abundance of nucleotides in DNA</item>
+<item>the meaning of the statement from the <emphasis effect="italics">Nature</emphasis> publication on the structure of DNA by Watson and Crick: It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material.</item>
+</list>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2962812"><term>transformation</term> <meaning id="fs-id1794075">process in which external DNA is taken up by a cell</meaning></definition>
+</glossary>
+
+</document>

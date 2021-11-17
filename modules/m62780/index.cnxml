@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62780</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>16ad85a1-e1cb-41c5-9042-2d53f9b67199</md:uuid>
+</metadata>
+
+<content>
+<figure id="fig-ch05_00_00" class="splash"><media id="fs-id2026471" alt="This photo shows the hustle and bustle of Grand Central Station.">
+<image mime-type="image/jpg" src="../../media/Figure_05_00_00.jpg" width="600"/>
+</media>
+
+<caption>Despite its seeming hustle and bustle, Grand Central Station functions with a high level of organization: People and objects move from one location to another, they cross or are contained within certain boundaries, and they provide a constant flow as part of larger activity. Analogously, a plasma membrane’s functions involve movement within the cell and across boundaries in the process of intracellular and intercellular activities. (credit: modification of work by Randy Le’Moine)</caption></figure>
+
+<para id="fs-id1167063878524">The plasma membrane, which is also called the cell membrane, has many functions; but, the most basic one is to define the borders and act as gatekeeper for the cell. The plasma membrane is selectively permeable, meaning some molecules can freely enter or leave the cell. Others require help from specialized structures, other molecules, or require energy in order to cross. One example of a molecule that assists other molecules across the plasma membrane is a protein called NPC1. This protein is involved in moving cholesterol and other types of fats across the plasma membrane. Some people have a genetic condition resulting in improperly functioning NPC1. As a result, excessive cholesterol accumulates within cells causing a condition called NPC Disease.</para>
+<para id="fs-id1167067032796">Scientists from the Albert Einstein College of Medicine, Harvard Medical School, and the Whitehead Institute for Biomedical Research discovered that the Ebola virus also uses NPC1 to hitch a ride into cells and replicate. The scientists used mice that lacked the NPC1 protein to test this hypothesis. When the scientists tried to infect these mice with Ebola, none of the mice got sick. Then they tried to infect mice with partially functioning NPC1 and found that they got sick, but did not die. In other words, without properly functioning NPC1, the Ebola virus cannot infect a mouse. If this pattern also exists in humans, it means that anyone with NPC Disease and its subsequent problem with high cholesterol may also be protected from Ebola.</para>
+<para id="fs-id1167066877986">The complete research report can be found <link url="http://openstax.org/l/32ebolaentry">here</link>.</para>
+
+<note id="fs-id1167065765048" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067311072">Show students a wilted plant and ask them why the plant has wilted. What is happening on a cellular level regarding movement of molecules? Can the wilting can be reversed?</para>
+<para id="fs-id1167067139129">Plants have cell walls that surround the plasma membrane and prevent cell lysis in a hypotonic solution. The plasma membrane can only expand to the limit of the cell wall, so the cell will not lyse. In fact, the cytoplasm in plants is always slightly hypertonic to the cellular environment and water will always enter a cell if water is available. This inflow of water produces turgor pressure, which stiffens the cell walls of the plant. In non-woody plants, turgor pressure supports the plant. Conversely, if the plant is not watered, the extracellular fluid will become hypertonic, causing water to leave the cell. In this condition, the cell does not shrink because the cell wall is not flexible. However, the cell membrane detaches from the wall and constricts the cytoplasm. This is called plasmolysis. Plants in this condition lose turgor pressure and wilt.</para>
+<note id="fs-id1167066971369" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167066958905">Before students begin this chapter, it is useful to review these concepts: Plasma membranes are the membrane boundary of all cells. Eukaryotic cells have a plasma membrane and intracellular membranes: including: a nuclear membrane and membrane-bound organelles (such as mitochondria).  In contrast, prokaryotic cells only have a plasma membrane.</para>
+<para id="fs-id1167067072872">Also, review definitions: intracellular, extracellular, cytosol, and extracellular fluid; cell surface to area rations and rates of diffusion.</para>
+</note>
+</note>
+ </content>
+</document>

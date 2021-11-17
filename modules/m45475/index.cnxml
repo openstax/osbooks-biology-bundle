@@ -1,0 +1,228 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>DNA Replication</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45475</md:content-id>
+  <md:title>DNA Replication</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the process of DNA replication</item>
+<item>Explain the importance of telomerase to DNA replication</item>
+<item>Describe mechanisms of DNA repair</item>
+</list></md:abstract>
+  <md:uuid>da8bac11-27f4-48be-83de-ba984891c89e</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm81565536">When a cell divides, it is important that each daughter cell receives an identical copy of the DNA. This is accomplished by the process of DNA replication. The replication of DNA occurs during the synthesis phase, or S phase, of the cell cycle, before the cell enters mitosis or meiosis.</para>
+<para id="fs-idm124532128">The elucidation of the structure of the double helix provided a hint as to how DNA is copied. Recall that adenine nucleotides pair with thymine nucleotides, and cytosine with guanine. This means that the two strands are complementary to each other. For example, a strand of DNA with a nucleotide sequence of AGTCATGA will have a complementary strand with the sequence TCAGTACT (<link target-id="fig-ch09_02_01" document=""/>).</para>
+<figure id="fig-ch09_02_01">
+<media id="fs-idm181394672" alt="Figure shows the ladder-like structure of DNA, with complementary bases making up the rungs of the ladder.">
+<image mime-type="image/jpg" src="../../media/Figure_09_02_01-f76d.jpg" width="400"/>
+</media>
+<caption>The two strands of DNA are complementary, meaning the sequence of bases in one strand can be used to create the correct sequence of bases in the other strand.</caption>
+</figure>
+<para id="fs-idm28115040">Because of the complementarity of the two strands, having one strand means that it is possible to recreate the other strand. This model for replication suggests that the two strands of the double helix separate during replication, and each strand serves as a template from which the new complementary strand is copied (<link target-id="fig-ch09_02_02" document=""/>).</para>
+<figure id="fig-ch09_02_02"><media id="fs-idm133527008" alt="Illustration shows the semiconservative model of DNA synthesis. In the semi-conservative model, each newly synthesized strand pairs with a parent strand.">
+<image mime-type="image/jpg" src="../../media/Figure_09_02_02-ec23.jpg" width="320"/>
+</media>
+
+<caption>The semiconservative model of DNA replication is shown. Gray indicates the original DNA strands, and blue indicates newly synthesized DNA.</caption></figure><para id="fs-idm184243792">During DNA replication, each of the two strands that make up the double helix serves as a template from which new strands are copied. The new strand will be complementary to the parental or “old” strand. Each new double strand consists of one parental strand and one new daughter strand. This is known as <term>semiconservative replication</term>. When two DNA copies are formed, they have an identical sequence of nucleotide bases and are divided equally into two daughter cells.</para>
+<section id="fs-idm136789792">
+<title>DNA Replication in Eukaryotes</title>
+<para id="fs-idm84511984">Because eukaryotic genomes are very complex, DNA replication is a very complicated process that involves several enzymes and other proteins. It occurs in three main stages: initiation, elongation, and termination.</para>
+<para id="fs-idm148333296">Recall that eukaryotic DNA is bound to proteins known as histones to form structures called nucleosomes. During initiation, the DNA is made accessible to the proteins and enzymes involved in the replication process. How does the replication machinery know where on the DNA double helix to begin? It turns out that there are specific nucleotide sequences called origins of replication at which replication begins. Certain proteins bind to the origin of replication while an enzyme called <term>helicase</term> unwinds and opens up the DNA helix. As the DNA opens up, Y-shaped structures called <term>replication forks</term> are formed (<link target-id="fig-ch09_02_03" document=""/>). Two replication forks are formed at the origin of replication, and these get extended in both directions as replication proceeds. There are multiple origins of replication on the eukaryotic chromosome, such that replication can occur simultaneously from several places in the genome.</para>
+<para id="fs-idm98257952">During elongation, an enzyme called <term>DNA polymerase</term> adds DNA nucleotides to the 3' end of the template. Because DNA polymerase can only add new nucleotides at the end of a backbone, a <term>primer</term> sequence, which provides this starting point, is added with complementary RNA nucleotides. This primer is removed later, and the nucleotides are replaced with DNA nucleotides. One strand, which is complementary to the parental DNA strand, is synthesized continuously toward the replication fork so the polymerase can add nucleotides in this direction. This continuously synthesized strand is known as the <term>leading strand</term>. Because DNA polymerase can only synthesize DNA in a 5' to 3' direction, the other new strand is put together in short pieces called <term>Okazaki fragments</term>. The Okazaki fragments each require a primer made of RNA to start the synthesis. The strand with the Okazaki fragments is known as the <term>lagging strand</term>. As synthesis proceeds, an enzyme removes the RNA primer, which is then replaced with DNA nucleotides, and the gaps between fragments are sealed by an enzyme called <term>DNA ligase</term>.</para>
+<para id="fs-idm152388640">The process of DNA replication can be summarized as follows:</para>
+<list id="eip-983" list-type="enumerated" number-style="arabic">
+<item>DNA unwinds at the origin of replication.</item>
+<item>New bases are added to the complementary parental strands. One new strand is made continuously, while the other strand is made in pieces.</item>
+<item>Primers are removed, new DNA nucleotides are put in place of the primers and the backbone is sealed by DNA ligase.</item>
+</list>
+<note id="fs-idm74656272" class="visual-connection"><label/><title>Visual Connection</title>
+<figure id="fig-ch09_02_03" class=" "><media id="fs-idm57725840" alt="Illustration shows a replication bubble. Helicase unwinds the helix. An RNA primer starts the synthesis, and DNA polymerase extends the DNA strand from the RNA primer. DNA synthesis occurs only in the 5' to 3' direction. On the leading strand, DNA synthesis occurs continuously. On the lagging strand, DNA synthesis restarts many times as the helix unwinds, resulting in many short fragments called Okazaki fragments.">
+<image mime-type="image/png" src="../../media/Figure_09_02_03-1319.jpg" width="450"/>
+</media>
+
+<caption>A replication fork is formed by the opening of the origin of replication, and helicase separates the DNA strands. An RNA primer is synthesized, and is elongated by the DNA polymerase. On the leading strand, DNA is synthesized continuously, whereas on the lagging strand, DNA is synthesized in short stretches. The DNA fragments are joined by DNA ligase (not shown).</caption></figure><para id="fs-idm117132800">You isolate a cell strain in which the joining together of Okazaki fragments is impaired and suspect that a mutation has occurred in an enzyme found at the replication fork. Which enzyme is most likely to be mutated?</para>
+</note><section id="fs-idm139570416">
+<title>Telomere Replication</title><para id="fs-idm48040576">Because eukaryotic chromosomes are linear, DNA replication comes to the end of a line in eukaryotic chromosomes. As you have learned, the DNA polymerase enzyme can add nucleotides in only one direction. In the leading strand, synthesis continues until the end of the chromosome is reached; however, on the lagging strand there is no place for a primer to be made for the DNA fragment to be copied at the end of the chromosome. This presents a problem for the cell because the ends remain unpaired, and over time these ends get progressively shorter as cells continue to divide. The ends of the linear chromosomes are known as <term>telomeres</term>, which have repetitive sequences that do not code for a particular gene. As a consequence, it is telomeres that are shortened with each round of DNA replication instead of genes. For example, in humans, a six base-pair sequence, TTAGGG, is repeated 100 to 1000 times. The discovery of the enzyme <term>telomerase</term> (<link target-id="fig-ch09_02_04" document=""/>) helped in the understanding of how chromosome ends are maintained. The telomerase attaches to the end of the chromosome, and complementary bases to the RNA template are added on the end of the DNA strand. Once the lagging strand template is sufficiently elongated, DNA polymerase can now add nucleotides that are complementary to the ends of the chromosomes. Thus, the ends of the chromosomes are replicated.</para>
+<figure id="fig-ch09_02_04">
+<media id="fs-idm55431120" alt="Telomerase has an associated RNA that complements the 5' overhang at the end of the chromosome. The RNA template is used to synthesize the complementary strand. Telomerase then shifts, and the process is repeated. Next, primase and DNA polymerase synthesize the rest of the complementary strand.">
+<image mime-type="image/jpg" src="../../media/Figure_09_02_04-d093.jpg" width="350"/>
+</media>
+<caption>The ends of linear chromosomes are maintained by the action of the telomerase enzyme.</caption>
+</figure>
+<para id="fs-idm130628592">Telomerase is typically found to be active in germ cells, adult stem cells, and some cancer cells. For her discovery of telomerase and its action, Elizabeth Blackburn (<link target-id="fig-ch09_02_05" document=""/>) received the Nobel Prize for Medicine and Physiology in 2009. Later research using HeLa cells (obtained from Henrietta Lacks) confirmed that telomerase is present in human cells. And in 2001, researchers including Diane L. Wright found that telomerase is necessary for cells in human embryos to rapidly proliferate.</para>
+<figure id="fig-ch09_02_05">
+<media id="fs-idm205766000" alt="Photo shows Elizabeth Blackburn.">
+<image mime-type="image/jpg" src="../../media/Figure_09_02_05.jpg" width="350"/>
+</media>
+<caption>Elizabeth Blackburn, 2009 Nobel Laureate, was the scientist who discovered how telomerase works. (credit: U.S. Embassy, Stockholm, Sweden)</caption>
+</figure>
+<para id="fs-idm156236304">Telomerase is not active in adult somatic cells. Adult somatic cells that undergo cell division continue to have their telomeres shortened. This essentially means that telomere shortening is associated with aging. In 2010, scientists found that telomerase can reverse some age-related conditions in mice, and this may have potential in regenerative medicine.<footnote id="fs-idm66805904">Mariella Jaskelioff, et al., “Telomerase reactivation reverses tissue degeneration in aged telomerase-deficient mice,” <emphasis effect="italics">Nature</emphasis>, 469 (2011):102–7.</footnote>  Telomerase-deficient mice were used in these studies; these mice have tissue atrophy, stem-cell depletion, organ system failure, and impaired tissue injury responses. Telomerase reactivation in these mice caused extension of telomeres, reduced DNA damage, reversed neurodegeneration, and improved functioning of the testes, spleen, and intestines. Thus, telomere reactivation may have potential for treating age-related diseases in humans.</para></section>
+<section id="fs-idm81785584">
+<title>DNA Replication in Prokaryotes</title>
+<para id="fs-idm142371648">Recall that the prokaryotic chromosome is a circular molecule with a less extensive coiling structure than eukaryotic chromosomes. The eukaryotic chromosome is linear and highly coiled around proteins. While there are many similarities in the DNA replication process, these structural differences necessitate some differences in the DNA replication process in these two life forms.</para>
+<para id="fs-idm85098560">DNA replication has been extremely well-studied in prokaryotes, primarily because of the small size of the genome and large number of variants available. <emphasis effect="italics">Escherichia coli </emphasis>has 4.6 million base pairs in a single circular chromosome, and all of it gets replicated in approximately 42 minutes, starting from a single origin of replication and proceeding around the chromosome in both directions. This means that approximately 1000 nucleotides are added per second. The process is much more rapid than in eukaryotes. <link target-id="fs-idm142174400" document=""/> summarizes the differences between prokaryotic and eukaryotic replications.</para>
+<table id="fs-idm142174400" summary="x.x" class="top-titled">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="left">Differences between Prokaryotic and Eukaryotic Replications</entry>
+</row>
+<row>
+<entry>Property</entry>
+<entry>Prokaryotes</entry>
+<entry>Eukaryotes</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Origin of replication</entry>
+<entry>Single</entry>
+<entry>Multiple</entry>
+</row>
+<row>
+<entry>Rate of replication</entry>
+<entry>1000 nucleotides/s</entry>
+<entry>50 to 100 nucleotides/s</entry>
+</row>
+<row>
+<entry>Chromosome structure</entry>
+<entry>circular</entry>
+<entry>linear</entry>
+</row>
+<row>
+<entry>Telomerase</entry>
+<entry>Not present</entry>
+<entry>Present</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><note id="fs-idm80198624" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idm181434560">Click through a <link window="new" url="http://openstax.org/l/DNA_replicatio2">tutorial</link> on DNA replication.</para>
+</note></section>
+</section>
+<section id="fs-idm125255600">
+<title>DNA Repair</title>
+<para id="fs-idm115318592">DNA polymerase can make mistakes while adding nucleotides. It edits the DNA by proofreading every newly added base. Incorrect bases are removed and replaced by the correct base, and then polymerization continues (<link target-id="fig-ch09_02_06abc" document=""/><emphasis effect="bold">a</emphasis>). Most mistakes are corrected during replication, although when this does not happen, the <term>mismatch repair</term> mechanism is employed. Mismatch repair enzymes recognize the wrongly incorporated base and excise it from the DNA, replacing it with the correct base (<link target-id="fig-ch09_02_06abc" document=""/><emphasis effect="bold">b</emphasis>). In yet another type of repair, <term>nucleotide excision repair</term>, the DNA double strand is unwound and separated, the incorrect bases are removed along with a few bases on the 5' and 3' end, and these are replaced by copying the template with the help of DNA polymerase (<link target-id="fig-ch09_02_06abc" document=""/><emphasis effect="bold">c</emphasis>). Nucleotide excision repair is particularly important in correcting thymine dimers, which are primarily caused by ultraviolet light. In a thymine dimer, two thymine nucleotides adjacent to each other on one strand are covalently bonded to each other rather than their complementary bases. If the dimer is not removed and repaired it will lead to a mutation. Individuals with flaws in their nucleotide excision repair genes show extreme sensitivity to sunlight and develop skin cancers early in life.</para>
+<figure id="fig-ch09_02_06abc">
+<media id="fs-idm72624736" alt=" Part a shows DNA polymerase replicating a strand of DNA. The enzyme has accidentally inserted G opposite A, resulting in a bulge. The enzyme backs up to fix the error. In part b, the top illustration shows a replicated DNA strand with a G–T base mismatch. The bottom illustration shows the repaired DNA, which has the correct G–C base pairing. Part c shows  a DNA strand in which a thymine dimer has formed. An excision repair enzyme cuts out the section of DNA that contains the dimer so that it can be replaced with a normal base pair.">
+<image mime-type="image/jpg" src="../../media/Figure_09_02_06abc.jpg" width="320"/>
+</media>
+<caption>Proofreading by DNA polymerase (a) corrects errors during replication. In mismatch repair (b), the incorrectly added base is detected after replication. The mismatch repair proteins detect this base and remove it from the newly synthesized strand by nuclease action. The gap is now filled with the correctly paired base. Nucleotide excision (c) repairs thymine dimers. When exposed to UV, thymines lying adjacent to each other can form thymine dimers. In normal cells, they are excised and replaced.</caption>
+</figure>
+<para id="fs-idm54578384">Most mistakes are corrected; if they are not, they may result in a <term>mutation</term>—defined as a permanent change in the DNA sequence. Mutations in repair genes may lead to serious consequences like cancer.</para>
+</section>
+<section id="fs-idm64474656" class="summary">
+<title>Section Summary</title><para id="fs-idm79832192">DNA replicates by a semi-conservative method in which each of the two parental DNA strands act as a template for new DNA to be synthesized. After replication, each DNA has one parental or “old” strand, and one daughter or “new” strand.</para>
+<para id="fs-idm131836400">Replication in eukaryotes starts at multiple origins of replication, while replication in prokaryotes starts from a single origin of replication. The DNA is opened with enzymes, resulting in the formation of the replication fork. Primase synthesizes an RNA primer to initiate synthesis by DNA polymerase, which can add nucleotides in only one direction. One strand is synthesized continuously in the direction of the replication fork; this is called the leading strand. The other strand is synthesized in a direction away from the replication fork, in short stretches of DNA known as Okazaki fragments. This strand is known as the lagging strand. Once replication is completed, the RNA primers are replaced by DNA nucleotides and the DNA is sealed with DNA ligase.</para>
+<para id="fs-idm127048080">The ends of eukaryotic chromosomes pose a problem, as polymerase is unable to extend them without a primer. Telomerase, an enzyme with an inbuilt RNA template, extends the ends by copying the RNA template and extending one end of the chromosome. DNA polymerase can then extend the DNA using the primer. In this way, the ends of the chromosomes are protected. Cells have mechanisms for repairing DNA when it becomes damaged or errors are made in replication. These mechanisms include mismatch repair to replace nucleotides that are paired with a non-complementary base and nucleotide excision repair, which removes bases that are damaged such as thymine dimers.</para>
+</section>
+<section id="fs-idm133048000" class="visual-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm125934944">
+<problem id="fs-idm138909152">
+<para id="fs-idm219714048"><link target-id="fig-ch09_02_03" document=""/> You isolate a cell strain in which the joining together of Okazaki fragments is impaired and suspect that a mutation has occurred in an enzyme found at the replication fork. Which enzyme is most likely to be mutated?</para>
+</problem>
+<solution id="fs-idm92094704">
+<label/>
+<para id="fs-idm151930416"><link target-id="fig-ch09_02_03" document=""/> Ligase, as this enzyme joins together Okazaki fragments.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm162429088" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm68393408">
+<problem id="fs-idm127452848">
+<para id="fs-idm128217392">DNA replicates by which of the following models?</para>
+<list id="fs-idm95816720" list-type="enumerated" number-style="lower-alpha">
+<item>conservative</item>
+<item>semiconservative</item>
+<item>dispersive</item>
+<item>none of the above</item>
+</list>
+</problem>
+<solution id="fs-idm131620144">
+<label/>
+<para id="fs-idm194713680">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm139461808">
+<problem id="fs-idp6252416">
+<para id="fs-idm180185648">The initial mechanism for repairing nucleotide errors in DNA is ________.</para>
+<list id="fs-idm118497376" list-type="enumerated" number-style="lower-alpha">
+<item>mismatch repair</item>
+<item>DNA polymerase proofreading</item>
+<item>nucleotide excision repair</item>
+<item>thymine dimers</item>
+</list>
+</problem>
+<solution id="fs-idm180292560">
+<label/>
+<para id="fs-idm74590864">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm113177872" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idm181728096">
+<problem id="fs-idm61612704">
+<para id="fs-idm149846512">How do the linear chromosomes in eukaryotes ensure that its ends are replicated completely?</para></problem>
+<solution id="fs-idm77822304">
+<label/>
+<para id="fs-idm57195104">Telomerase has an inbuilt RNA template that extends the 3' end, so a primer is synthesized and extended. Thus, the ends are protected.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm266969216">
+<term>DNA ligase</term> <meaning id="fs-idm50627952">the enzyme that catalyzes the joining of DNA fragments together</meaning>
+</definition>
+<definition id="fs-idp3567504">
+<term>DNA polymerase</term> <meaning id="fs-idm47104848">an enzyme that synthesizes a new strand of DNA complementary to a template strand</meaning>
+</definition>
+<definition id="fs-idm159212016">
+<term>helicase</term> <meaning id="fs-idm147278032">an enzyme that helps to open up the DNA helix during DNA replication by breaking the hydrogen bonds</meaning>
+</definition>
+<definition id="fs-idm154651616">
+<term>lagging strand</term> <meaning id="fs-idm187665136">during replication of the 3' to 5' strand, the strand that is replicated in short fragments and away from the replication fork</meaning>
+</definition>
+<definition id="fs-idm160755120">
+<term>leading strand</term> <meaning id="fs-idm18123344">the strand that is synthesized continuously in the 5' to 3' direction that is synthesized in the direction of the replication fork</meaning>
+</definition>
+<definition id="fs-idm136900640">
+<term>mismatch repair</term> <meaning id="fs-idm154685232">a form of DNA repair in which non-complementary nucleotides are recognized, excised, and replaced with correct nucleotides</meaning>
+</definition>
+<definition id="fs-idm83834608">
+<term>mutation</term> <meaning id="fs-idm41925504">a permanent variation in the nucleotide sequence of a genome</meaning>
+</definition>
+<definition id="fs-idm43571408">
+<term>nucleotide excision repair</term> <meaning id="fs-idm194731568">a form of DNA repair in which the DNA molecule is unwound and separated in the region of the nucleotide damage, the damaged nucleotides are removed and replaced with new nucleotides using the complementary strand, and the DNA strand is resealed and allowed to rejoin its complement</meaning>
+</definition>
+<definition id="fs-idm44176912">
+<term>Okazaki fragments</term> <meaning id="fs-idm159640992">the DNA fragments that are synthesized in short stretches on the lagging strand</meaning>
+</definition>
+<definition id="fs-idm134495184">
+<term>primer</term> <meaning id="fs-idm29467360">a short stretch of RNA nucleotides that is required to initiate replication and allow DNA polymerase to bind and begin replication</meaning>
+</definition>
+<definition id="fs-idm86154192">
+<term>replication fork</term> <meaning id="fs-idm164563024">the Y-shaped structure formed during the initiation of replication</meaning>
+</definition>
+<definition id="fs-idm73129504">
+<term>semiconservative replication</term> <meaning id="fs-idm60036880">the method used to replicate DNA in which the double-stranded molecule is separated and each strand acts as a template for a new strand to be synthesized, so the resulting DNA molecules are composed of one new strand of nucleotides and one old strand of nucleotides</meaning>
+</definition>
+<definition id="fs-idm72942592">
+<term>telomerase</term> <meaning id="fs-idm187408992">an enzyme that contains a catalytic part and an inbuilt RNA template; it functions to maintain telomeres at chromosome ends</meaning>
+</definition>
+<definition id="fs-idm90314720">
+<term>telomere</term> <meaning id="fs-idm13421200">the DNA at the end of linear chromosomes</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,252 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Disruptions in the Immune System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63009</md:content-id>
+  <md:title>Disruptions in the Immune System</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe hypersensitivity</item>
+<item>Define autoimmunity</item>
+</list></md:abstract>
+  <md:uuid>4916cbb7-d1b6-4773-9332-218a049e7538</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167067324408" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067139794">In this section, you will explore the following questions:</para>
+<list id="fs-id1167066868641">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch33-s04-lo01">What is hypersensitivity?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch33-s04-lo02">What is autoimmunity, and what is an example of an autoimmune disease?</item>
+</list>
+</section>
+<section id="fs-id1167067231697" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167067045101">Much of the information in this section is not within the scope for AP<sup>®</sup>. Immune systems can, at times, be defeated by pathogens. For example, some bacteria, including <emphasis effect="italics">Streptococcus pneumoniae</emphasis>, surround themselves with a capsule that inhibits phagocytes from engulfing them and displaying antigens to the adaptive immune system. Human immunodeficiency virus (HIV), the virus that causes AIDS, infects helper T-cells via their CD4 surface molecules, gradually depleting the number of T<sub>H</sub> cells in the body; this inhibits the adaptive immune system’s capacity to sufficiently respond to infection or tumors that persons with healthy immune systems can defend against. Allergies to pollen or pet dander occur when the immune system attacks the body’s own cells or tissues. Other example of autoimmune diseases include type I diabetes and ALS. In the rejection of transplanted organs, the immune system is responding to unmatched MHC proteins on the cells of the donated (“non-self”) organ. However, the immune system usually responds as it should, defending you against infection and getting you back to your AP<sup>®</sup> Biology class as soon as possible.</para><para id="fs-id1167063497086" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167067033528" summary="Table with two columns and three rows. First left cell reads: Essential Knowledge. First right cell reads: 2.D.3 Biological systems are affected by disruptions to their dynamic homeostasis. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Learning Objective. Third right cell reads: 2.28 The student is able to use representations or models to analyze quantitatively and qualitatively the effects of disruptions to dynamic homeostasis in biological systems." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.D</emphasis></entry>
+<entry class="ost-standards-description">Growth and dynamic homeostasis of a biological system are influenced by changes in the system’s environment.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.3 </emphasis></span>
+<span class="ost-standards-description">Biological systems are affected by disruptions to their dynamic homeostasis.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-4">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
+<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-28">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.28 </emphasis></span>
+<span class="ost-standards-description">The student is able to use representations or models to analyze quantitatively and qualitatively the effects of disruptions to dynamic homeostasis in biological systems.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+<section id="fs-idp102177584">
+<title>Immunodeficiency</title>
+<para id="fs-idp96686640">Failures, insufficiencies, or delays at any level of the immune response can allow pathogens or tumor cells to gain a foothold and replicate or proliferate to high enough levels that the immune system becomes overwhelmed. <emphasis>Immunodeficiency</emphasis> is the failure, insufficiency, or delay in the response of the immune system, which may be acquired or inherited. Immunodeficiency can be acquired as a result of infection with certain pathogens (such as HIV), chemical exposure (including certain medical treatments), malnutrition, or possibly by extreme stress. For instance, radiation exposure can destroy populations of lymphocytes and elevate an individual’s susceptibility to infections and cancer. Dozens of genetic disorders result in immunodeficiencies, including Severe Combined Immunodeficiency (SCID), Bare lymphocyte syndrome, and MHC II deficiencies. Rarely, primary immunodeficiencies that are present from birth may occur. Neutropenia is one form in which the immune system produces a below-average number of neutrophils, the body’s most abundant phagocytes. As a result, bacterial infections may go unrestricted in the blood, causing serious complications.</para>
+</section>
+<note id="fs-id1167067007452" class="ap-everyday ost-assessed-feature"><label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<para id="fs-id1167067275379">This is a white severe combined immunodeficiency (SCID) mouse. SCID mice are used to study the immune system.</para>
+<figure id="fs-id1167063723578"><media id="fs-id1167063723579" alt="A close-up photo of a white severe combined immunodeficiency (SCID) mouse held by a human hand. SCID mice are routinely used as model organisms for research into the basic biology of the immune system, cell transplantation strategies, and the effects of disease on mammalian systems.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_42_04_SCIDmouse.jpg" width="325"/>
+</media>
+</figure>
+<!--<exercise id="fs-id1167063573990" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067024112">
+<para id="fs-id1167063734521">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ex063"/>
+</para>
+</problem>
+</exercise>-->
+</note><section id="fs-idp9634496" class="ost-tag-lo-apbio-ch33-s04-lo01 ost-get-exercise">
+<title>Hypersensitivities</title>
+<para id="fs-idp114134032">Maladaptive immune responses toward harmless foreign substances or self antigens that occur after tissue sensitization are termed <emphasis>hypersensitivities</emphasis>. The types of hypersensitivities include immediate, delayed, and autoimmunity. A large proportion of the population is affected by one or more types of hypersensitivity.</para>
+<section id="fs-idp223765568">
+<title>Allergies</title>
+<para id="fs-idp209444384">The immune reaction that results from immediate hypersensitivities in which an antibody-mediated immune response occurs within minutes of exposure to a harmless antigen is called an <emphasis>allergy</emphasis>. In the United States, 20 percent of the population exhibits symptoms of allergy or asthma, whereas 55 percent test positive against one or more allergens. Upon initial exposure to a potential allergen, an allergic individual synthesizes antibodies of the IgE class via the typical process of APCs presenting processed antigen to T<sub>H</sub> cells that stimulate B cells to produce IgE. This class of antibodies also mediates the immune response to parasitic worms. The constant domain of the IgE molecules interact with mast cells embedded in connective tissues. This process primes, or sensitizes, the tissue. Upon subsequent exposure to the same allergen, IgE molecules on mast cells bind the antigen via their variable domains and stimulate the mast cell to release the modified amino acids histamine and serotonin; these chemical mediators then recruit eosinophils which mediate allergic responses. <link target-id="fig-ch42_04_01" document=""/> shows an example of an allergic response to ragweed pollen. The effects of an allergic reaction range from mild symptoms like sneezing and itchy, watery eyes to more severe or even life-threatening reactions involving intensely itchy welts or hives, airway contraction with severe respiratory distress, and plummeting blood pressure. This extreme reaction is known as anaphylactic shock. If not treated with epinephrine to counter the blood pressure and breathing effects, this condition can be fatal.</para>
+<figure id="fig-ch42_04_01" class="ost-tag-lo-apbio-ch33-s04-lo01"><media id="fs-idp96341408" alt="Illustration shows ragweed pollen attached to the surface of a B cell. The B cell is activated, producing plasma cells that release IgE. The IgE is presented on the surface of a mast cell. Upon a second exposure, binding of the antigen to the IgE-primed mast cells causes the release of chemical mediators that elicit an allergic reaction.">
+<image mime-type="image/jpg" src="../../media/CNX_AP_Bio_42_04_02.jpg" width="320"/>
+</media>
+<caption>On first exposure to an allergen, an IgE antibody is synthesized by plasma cells in response to a harmless antigen. The IgE molecules bind to mast cells, and on secondary exposure, the mast cells release histamines and other modulators that affect the symptoms of allergy. (credit: modification of work by NIH)</caption></figure><para id="fs-idp113443888">Delayed hypersensitivity is a cell-mediated immune response that takes approximately one to two days after secondary exposure for a maximal reaction to be observed. This type of hypersensitivity involves the T<sub>H</sub>1 cytokine-mediated inflammatory response and may manifest as local tissue lesions or contact dermatitis (rash or skin irritation). Delayed hypersensitivity occurs in some individuals in response to contact with certain types of jewelry or cosmetics. Delayed hypersensitivity facilitates the immune response to poison ivy and is also the reason why the skin test for tuberculosis results in a small region of inflammation on individuals who were previously exposed to <emphasis effect="italics">Mycobacterium tuberculosis</emphasis>. That is also why cortisone is used to treat such responses: it will inhibit cytokine production.</para>
+</section>
+<section id="fs-idp170396736" class="ost-tag-lo-apbio-ch33-s04-lo02">
+<title>Autoimmunity</title>
+<para id="fs-idp204853072"><emphasis>Autoimmunity</emphasis> is a type of hypersensitivity to self antigens that affects approximately five percent of the population. Most types of autoimmunity involve the humoral immune response. Antibodies that inappropriately mark self components as foreign are termed <emphasis>autoantibodies</emphasis>. In patients with the autoimmune disease myasthenia gravis, muscle cell receptors that induce contraction in response to acetylcholine are targeted by antibodies. The result is muscle weakness that may include marked difficultly with fine and/or gross motor functions. In systemic lupus erythematosus, a diffuse autoantibody response to the individual’s own DNA and proteins results in various systemic diseases. As illustrated in <link target-id="fig-ch42_04_02" document=""/>, systemic lupus erythematosus may affect the heart, joints, lungs, skin, kidneys, central nervous system, or other tissues, causing tissue damage via antibody binding, complement recruitment, lysis, and inflammation.</para>
+<figure id="fig-ch42_04_02" class="ost-tag-lo-apbio-ch33-s04-lo02"><media id="fs-idm25268176" alt="Illustration shows the symptoms of lupus, which include a face rash, ulcers in the mouth and nose, inflammation of the pericardium and poor circulation in the fingers and toes.">
+<image mime-type="image/jpg" src="../../media/Figure_42_04_02.jpg" width="320"/>
+</media>
+<caption>Systemic lupus erythematosus is characterized by autoimmunity to the individual’s own DNA and/or proteins, which leads to varied dysfunction of the organs. (credit: modification of work by Mikael Häggström)</caption></figure>
+<para id="fs-idp223133136">Autoimmunity can develop with time, and its causes may be rooted in molecular mimicry. Antibodies and TCRs may bind self antigens that are structurally similar to pathogen antigens, which the immune receptors first raised. As an example, infection with <emphasis effect="italics">Streptococcus pyogenes </emphasis>(bacterium that causes strep throat) may generate antibodies or T cells that react with heart muscle, which has a similar structure to the surface of <emphasis effect="italics">S. pyogenes</emphasis>. These antibodies can damage heart muscle with autoimmune attacks, leading to rheumatic fever. Insulin-dependent (Type 1) diabetes mellitus arises from a destructive inflammatory T<sub>H</sub>1 response against insulin-producing cells of the pancreas. Patients with this autoimmunity must be injected with insulin that originates from other sources.</para>
+</section>
+</section>
+<section id="fs-idp9654480" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp63413328">Immune disruptions may involve insufficient immune responses or inappropriate immune targets. Immunodeficiency increases an individual's susceptibility to infections and cancers. Hypersensitivities are misdirected responses either to harmless foreign particles, as in the case of allergies, or to host factors, as in the case of autoimmunity. Reactions to self components may be the result of molecular mimicry.</para>
+    </section>
+<!--<section id="fs-idp137798352" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp17268592">
+<problem id="fs-idp44487104"><para id="fs-idp155740128">Allergy to pollen is classified as:</para>
+<list id="fs-idp134173632" list-type="enumerated" number-style="lower-alpha">
+<item>an autoimmune reaction</item>
+<item>immunodeficiency</item>
+<item>delayed hypersensitivity</item>
+<item>immediate hypersensitivity</item>
+</list>
+</problem>
+<solution id="fs-idp410368">
+<label/>
+<para id="fs-idp6118384">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm27916016">
+<problem id="fs-idp102078144"><para id="fs-idp196907632">A potential cause of acquired autoimmunity is ________.</para>
+<list id="fs-idp17842880" list-type="enumerated" number-style="lower-alpha">
+<item>tissue hypersensitivity</item>
+<item>molecular mimicry</item>
+<item>histamine release</item>
+<item>radiation exposure</item>
+</list>
+</problem>
+<solution id="fs-idp95241696">
+<label/>
+<para id="fs-idp132404432">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp170922736">
+<problem id="fs-idp216321584"><para id="fs-idp81152768">Autoantibodies are probably involved in:</para>
+<list id="fs-idp102163920" list-type="enumerated" number-style="lower-alpha">
+<item>reactions to poison ivy</item>
+<item>pollen allergies</item>
+<item>systemic lupus erythematosus</item>
+<item>HIV/AIDS</item>
+</list>
+</problem>
+<solution id="fs-idp223768976">
+<label/>
+<para id="fs-idp3090608">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idp236033616">
+<problem id="fs-idp86020560"><para id="fs-idp41661888">Which of the following diseases is not due to autoimmunity?</para>
+<list id="fs-idp187931824" list-type="enumerated" number-style="lower-alpha">
+<item>rheumatic fever</item>
+<item>systemic lupus erythematosus</item>
+<item>diabetes mellitus</item>
+<item>HIV/AIDS</item>
+</list>
+</problem>
+<solution id="fs-idp50507920">
+<label/>
+<para id="fs-idp205892048">D</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167063747513" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167067045455" class="os-exercise">
+<problem id="fs-id1167063852816">
+<para id="fs-id1167063450470">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ex055"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063528653" class="os-exercise">
+<problem id="fs-id1167063486641">
+<para id="fs-id1167063588617">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ex056"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167061217504" class="os-exercise">
+<problem id="fs-id1167066793431">
+<para id="fs-id1167063876701">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ex057"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066851967" class="os-exercise">
+<problem id="fs-id1167067028403">
+<para id="fs-id1167066832488">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ex058"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169282502212" class="os-exercise">
+<problem id="eip-id1169282616202">
+<para id="eip-id1169282601688">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ot039"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169282611444" class="os-exercise">
+<problem id="eip-id1169282522502">
+<para id="eip-id1169282616620">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ot041"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167067195058" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167063729891" class="os-exercise">
+<problem id="fs-id1167066957339">
+<para id="fs-id1167067232106">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ex059"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066869107" class="os-exercise">
+<problem id="fs-id1167063431741">
+<para id="fs-id1167067183619">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ex060"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169283743623" class="os-exercise">
+<problem id="eip-id1169283743626">
+<para id="eip-id1169283743628">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ot043"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167063419874" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167067015168" class="os-exercise">
+<problem id="fs-id1167067206215">
+<para id="fs-id1167067079949">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ex061"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066826601" class="os-exercise">
+<problem id="fs-id1167067102450">
+<para id="fs-id1167067139427">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ex062"/>
+</para>
+</problem>
+</exercise>
+<!--<exercise id="fs-id1167067010459" class="os-exercise">
+<problem id="fs-id1167063810913">
+<para id="fs-id1167063491437">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ex063"/>
+</para>
+</problem>
+</exercise>-->
+<exercise id="eip-id1169281433041" class="os-exercise">
+<problem id="eip-id1169283752043">
+<para id="eip-id1169283752045">
+<link class="os-embed" url="#ost/api/ex/apbio-ch33-ot045"/>
+</para>
+</problem>
+</exercise></section> </content>
+<glossary>
+<definition id="fs-idp44876384"><term>allergy</term> <meaning id="fs-idp262644928">immune reaction that results from immediate hypersensitivities in which an antibody-mediated immune response occurs within minutes of exposure to a harmless antigen</meaning></definition>
+<definition id="fs-idp47053648"><term>autoantibody</term> <meaning id="fs-idm10441792">antibody that incorrectly marks “self” components as foreign and stimulates the immune response</meaning></definition>
+<definition id="fs-idp15107232"><term>autoimmunity</term> <meaning id="fs-idp94357200">type of hypersensitivity to self antigens</meaning></definition>
+<definition id="fs-idp26357376"><term>hypersensitivities</term> <meaning id="fs-idp28727424">spectrum of maladaptive immune responses toward harmless foreign particles or self antigens; occurs after tissue sensitization and includes immediate-type (allergy), delayed-type, and autoimmunity</meaning></definition>
+<definition id="fs-idp102077696"><term>immunodeficiency</term> <meaning id="fs-idp114344944">failure, insufficiency, or delay at any level of the immune system, which may be acquired or inherited</meaning></definition>
+</glossary>
+</document>

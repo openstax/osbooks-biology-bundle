@@ -1,0 +1,221 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Genomics and Proteomics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45485</md:content-id>
+  <md:title>Genomics and Proteomics</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define genomics and proteomics</item>
+<item>Define whole genome sequencing</item>
+<item>Explain different applications of genomics and proteomics</item>
+</list></md:abstract>
+  <md:uuid>4c4d678e-06d8-4c8a-b99c-ad84fc9a56db</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp62277312">The study of nucleic acids began with the discovery of DNA, progressed to the study of genes and small fragments, and has now exploded to the field of <term>genomics</term>. Genomics is the study of entire genomes, including the complete set of genes, their nucleotide sequence and organization, and their interactions within a species and with other species. The advances in genomics have been made possible by DNA sequencing technology. Just as information technology has led to Google Maps that enable us to get detailed information about locations around the globe, genomic information is used to create similar maps of the DNA of different organisms.</para>
+<section id="fs-idm25293792">
+<title> Mapping Genomes</title>
+<para id="fs-idp60211744">Genome mapping is the process of finding the location of genes on each chromosome.  The maps that are created are comparable to the maps that we use to navigate streets. A <term>genetic map</term> is an illustration that lists genes and their location on a chromosome. Genetic maps provide the big picture (similar to a map of interstate highways) and use genetic markers (similar to landmarks). A genetic marker is a gene or sequence on a chromosome that shows genetic linkage with a trait of interest. The genetic marker tends to be inherited with the gene of interest, and one measure of distance between them is the recombination frequency during meiosis. Early geneticists called this linkage analysis.</para>
+<para id="fs-idp192808912"><term>Physical maps</term> get into the intimate details of smaller regions of the chromosomes (similar to a detailed road map) (<link target-id="fig-ch10_03_01" document=""/>). A physical map is a representation of the physical distance, in nucleotides, between genes or genetic markers. Both genetic linkage maps and physical maps are required to build a complete picture of the genome. Having a complete map of the genome makes it easier for researchers to study individual genes. Human genome maps help researchers in their efforts to identify human disease-causing genes related to illnesses such as cancer, heart disease, and cystic fibrosis, to name a few. In addition, genome mapping can be used to help identify organisms with beneficial traits, such as microbes with the ability to clean up pollutants or even prevent pollution. Research involving plant genome mapping may lead to methods that produce higher crop yields or to the development of plants that adapt better to climate change.</para>
+<figure id="fig-ch10_03_01"><media id="fs-idp65674256" alt=" A diagram showing a human chromosome with bands revealed with a Giemsa stain. The bands are labeled with Xp and a number on the short arm and Xq and a number on the long arm. Certain genes are found within some of the bands. These genes are labeled on the right: Fanconi anemia B, Wiskott-Aldrich syndrome, Pelizaeus-Merzbacher disease, Fragile X syndrome, and G6PD deficiency[0].">
+<image mime-type="image/jpg" src="../../media/Figure_10_03_01-128e.jpg" width="250"/>
+</media>
+
+<caption>This is a physical map of the human X chromosome. (credit: modification of work by NCBI, NIH)</caption></figure><para id="fs-idp77253200">Genetic maps provide the outline, and physical maps provide the details. It is easy to understand why both types of genome-mapping techniques are important to show the big picture. Information obtained from each technique is used in combination to study the genome. Genomic mapping is used with different model organisms that are used for research. Genome mapping is still an ongoing process, and as more advanced techniques are developed, more advances are expected. Genome mapping is similar to completing a complicated puzzle using every piece of available data. Mapping information generated in laboratories all over the world is entered into central databases, such as the National Center for Biotechnology Information (NCBI). Efforts are made to make the information more easily accessible to researchers and the general public. Just as we use global positioning systems instead of paper maps to navigate through roadways, NCBI allows us to use a genome viewer tool to simplify the data mining process.</para>
+<note id="fs-idp111279216" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idp68739344"><link window="new" url="http://openstax.org/l/OMIM2">Online Mendelian Inheritance in Man (OMIM)</link> is a searchable online catalog of human genes and genetic disorders. This website shows genome mapping, and also details the history and research of each trait and disorder. Click the link to search for traits (such as handedness) and genetic disorders (such as diabetes).</para>
+</note></section>
+<section id="fs-idm7862432">
+<title>Whole Genome Sequencing</title>
+<para id="fs-idp125896320">Although there have been significant advances in the medical sciences in recent years, doctors are still confounded by many diseases and researchers are using whole genome sequencing to get to the bottom of the problem. <term>Whole genome sequencing</term> is a process that determines the DNA sequence of an entire genome. Whole genome sequencing is a brute-force approach to problem solving when there is a genetic basis at the core of a disease. Several laboratories now provide services to sequence, analyze, and interpret entire genomes.</para>
+<para id="fs-idp11636832">In 2010, whole genome sequencing was used to save a young boy whose intestines had multiple mysterious abscesses. The child had several colon operations with no relief. Finally, a whole genome sequence revealed a defect in a pathway that controls apoptosis (programmed cell death). A bone marrow transplant was used to overcome this genetic disorder, leading to a cure for the boy. He was the first person to be successfully diagnosed using whole genome sequencing.</para>
+<para id="fs-idp145835872">The first genomes to be sequenced, such as those belonging to viruses, bacteria, and yeast, were smaller in terms of the number of nucleotides than the genomes of multicellular organisms. The genomes of other model organisms, such as the mouse (<emphasis effect="italics">Mus musculus</emphasis>), the fruit fly (<emphasis effect="italics">Drosophila melanogaster</emphasis>), and the nematode (<emphasis effect="italics">Caenorhabditis elegans</emphasis>) are now known. A great deal of basic research is performed in <term>model organisms</term> because the information can be applied to other organisms. A model organism is a species that is studied as a model to understand the biological processes in other species that can be represented by the model organism. For example, fruit flies are able to metabolize alcohol like humans, so the genes affecting sensitivity to alcohol have been studied in fruit flies in an effort to understand the variation in sensitivity to alcohol in humans. Having entire genomes sequenced helps with the research efforts in these model organisms (<link target-id="fig-ch10_03_02" document=""/>).</para>
+<figure id="fig-ch10_03_02" class=" "><media id="fs-idp103238912" alt="Five photos are of the mouse, Mus musculus; the fruit fly, Drosophila melanogaster; the nematode Caenorhabditis elegans, viewed through a scanning electron microscope; the yeast Saccharomyces cerevisiae, seen in a differential interference contrast light micrograph; and a small white flower, Arabidopsis thaliana">
+<image mime-type="image/jpg" src="../../media/Figure_10_03_02-3cd4.jpg" width="450"/>
+</media>
+
+<caption>Much basic research is done with model organisms, such as the mouse, <emphasis effect="italics">Mus musculus</emphasis>; the fruit fly, <emphasis effect="italics">Drosophila melanogaster</emphasis>; the nematode <emphasis effect="italics">Caenorhabditis elegans</emphasis>; the yeast <emphasis effect="italics">Saccharomyces cerevisiae</emphasis>; and the common weed, <emphasis effect="italics">Arabidopsis thaliana</emphasis>. (credit "mouse": modification of work by Florean Fortescue; credit "nematodes": modification of work by "snickclunk"/Flickr; credit "common weed": modification of work by Peggy Greb, USDA; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp257188352">The first human genome sequence was published in 2003. The number of whole genomes that have been sequenced steadily increases and now includes hundreds of species and thousands of individual human genomes.</para>
+</section>
+<section id="fs-idp193376080">
+<title>Applying Genomics</title>
+<para id="fs-idp111003504">The introduction of DNA sequencing and whole genome sequencing projects, particularly the Human Genome Project, has expanded the applicability of DNA sequence information. Genomics is now being used in a wide variety of fields, such as metagenomics, pharmacogenomics, and mitochondrial genomics. The most commonly known application of genomics is to understand and find cures for diseases.</para>
+<section id="fs-idp27018528">
+<title>Predicting Disease Risk at the Individual Level</title>
+<para id="fs-idp68756672">Predicting the risk of disease involves screening and identifying currently healthy individuals by genome analysis at the individual level. Intervention with lifestyle changes and drugs can be recommended before disease onset. However, this approach is most applicable when the problem arises from a single gene mutation. Such defects only account for about 5 percent of diseases found in developed countries. Most of the common diseases, such as heart disease, are multifactorial or polygenic, which refers to a phenotypic characteristic that is determined by two or more genes, and also environmental factors such as diet. In April 2010, scientists at Stanford University published the genome analysis of a healthy individual (Stephen Quake, a scientist at Stanford University, who had his genome sequenced); the analysis predicted his propensity to acquire various diseases. A risk assessment was done to analyze Quake’s percentage of risk for 55 different medical conditions. A rare genetic mutation was found that showed him to be at risk for sudden heart attack. He was also predicted to have a 23 percent risk of developing prostate cancer and a 1.4 percent risk of developing Alzheimer’s disease. The scientists used databases and several publications to analyze the genomic data. Even though genomic sequencing is becoming more affordable and analytical tools are becoming more reliable, ethical issues surrounding genomic analysis at a population level remain to be addressed. For example, could such data be legitimately used to charge more or less for insurance or to affect credit ratings?</para>
+</section>
+<section id="newdeis"><title>Gene Editing</title>
+<para id="newparadeis">For thousands of years, humans have engaged in some level of control over genes and heredity regarding the plants and animals we rely on. The technology now exists to exert that control more directly by precisely altering the DNA of organisms. The technique is usually referred to as CRISPR, for the portions of DNA it targets: "Clustered Regularly Interspaced Short Palindromic Repeats." In essence, DNA contains repetitive sequences with "spacers" between them. CRISPR-associated nucleases (known as "Cas") are enzymes that can identify, attach to, and cut the strand at precise locations. In 2012, Jennifer Doudna and Emmanuelle Charpentier developed a method to combine the Cas nuclease with a synthetically produced "guide RNA" that leads the nuclease to selected locations on the DNA strand. The discovery revolutionized gene editing. Researchers around the world have used CRISPR to manipulate the actual DNA of plants, animals, laboratory cell lines, and (in trials) human patients. Doudna and Charpentier were awarded the Nobel Prize for their work.</para>
+<para id="newparadeis2">Gene editing is so promising because it can be used experimentally to understand disease or organismal limitations, then be applied to overcome those issues. For example, in a human trial, cancerous cells were removed from a person, edited to remove their cancerous properties at the DNA level, and reintroduced into the patient so that those now edited cells could multiply and replace the cancerous ones. Using the person's own cells increases the likelihood of acceptance and success. </para>
+<para id="newparadeis3">Like other applications of genomics, the prospect of directly editing genes brings up a number of ethical issues. Both Doudna and Chapentier, as well as many other genetic engineers, support only certain CRISPR applications. And many governments and other entities place strict guidelines on the uses of the powerful technology.  </para></section>
+<section id="fs-idp55747840">
+<title> Genome-wide Association Studies</title>
+<para id="fs-idp51593280">Since 2005, it has been possible to conduct a type of study called a genome-wide association study, or GWAS. A GWAS is a method that identifies differences between individuals in single nucleotide polymorphisms (SNPs) that may be involved in causing diseases. The method is particularly suited to diseases that may be affected by one or many genetic changes throughout the genome. It is very difficult to identify the genes involved in such a disease using family history information. The GWAS method relies on a genetic database that has been in development since 2002 called the International HapMap Project. The HapMap Project sequenced the genomes of several hundred individuals from around the world and identified groups of SNPs. The groups include SNPs that are located near to each other on chromosomes so they tend to stay together through recombination. The fact that the group stays together means that identifying one marker SNP is all that is needed to identify all the SNPs in the group. There are several million SNPs identified, but identifying them in other individuals who have not had their complete genome sequenced is much easier because only the marker SNPs need to be identified.</para>
+<para id="fs-idp109647168">In a common design for a GWAS, two groups of individuals are chosen; one group has the disease, and the other group does not. The individuals in each group are matched in other characteristics to reduce the effect of confounding variables causing differences between the two groups. For example, the genotypes may differ because the two groups are mostly taken from different parts of the world. Once the individuals are chosen, and typically their numbers are a thousand or more for the study to work, samples of their DNA are obtained. The DNA is analyzed using automated systems to identify large differences in the percentage of particular SNPs between the two groups. Often the study examines a million or more SNPs in the DNA. The results of GWAS can be used in two ways: the genetic differences may be used as markers for susceptibility to the disease in undiagnosed individuals, and the particular genes identified can be targets for research into the molecular pathway of the disease and potential therapies. An offshoot of the discovery of gene associations with disease has been the formation of companies that provide so-called “personal genomics” that will identify risk levels for various diseases based on an individual’s SNP complement. The science behind these services is controversial.</para>
+<para id="fs-idp72094064">Because GWAS looks for associations between genes and disease, these studies provide data for other research into causes, rather than answering specific questions themselves. An association between a gene difference and a disease does not necessarily mean there is a cause-and-effect relationship. However, some studies have provided useful information about the genetic causes of diseases. For example, three different studies in 2005 identified a gene for a protein involved in regulating inflammation in the body that is associated with a disease-causing blindness called age-related macular degeneration. This opened up new possibilities for research into the cause of this disease. A large number of genes have been identified to be associated with Crohn’s disease using GWAS, and some of these have suggested new hypothetical mechanisms for the cause of the disease.</para>
+</section>
+<section id="fs-idp12009408">
+<title>Pharmacogenomics</title>
+<para id="fs-idp60684016"><term>Pharmacogenomics</term> involves evaluating the effectiveness and safety of drugs on the basis of information from an individual's genomic sequence. Personal genome sequence information can be used to prescribe medications that will be most effective and least toxic on the basis of the individual patient’s genotype. Studying changes in gene expression could provide information about the gene transcription profile in the presence of the drug, which can be used as an early indicator of the potential for toxic effects. For example, genes involved in cellular growth and controlled cell death, when disturbed, could lead to the growth of cancerous cells. Genome-wide studies can also help to find new genes involved in drug toxicity. The gene signatures may not be completely accurate, but can be tested further before pathologic symptoms arise.</para>
+</section>
+<section id="fs-idp138057680">
+<title>Metagenomics</title>
+<para id="fs-idp198173536">Traditionally, microbiology has been taught with the view that microorganisms are best studied under pure culture conditions, which involves isolating a single type of cell and culturing it in the laboratory. Because microorganisms can go through several generations in a matter of hours, their gene expression profiles adapt to the new laboratory environment very quickly. On the other hand, many species resist being cultured in isolation. Most microorganisms do not live as isolated entities, but in microbial communities known as biofilms. For all of these reasons, pure culture is not always the best way to study microorganisms. <term>Metagenomics</term> is the study of the collective genomes of multiple species that grow and interact in an environmental niche. Metagenomics can be used to identify new species more rapidly and to analyze the effect of pollutants on the environment (<link target-id="fig-ch10_03_03" document=""/>). Metagenomics techniques can now also be applied to communities of higher eukaryotes, such as fish.</para>
+<figure id="fig-ch10_03_03">
+<media id="fs-idp65486608" alt="The diagram shows 3 individual rings representing DNA, with a small portion of each in a contrasting color. The small portions represent DNA from a different species.  The 3 rings have the caption “All of the genomic DNA from a particular environment is cut into fragments and ligated into a cloning vector. The fragments are sequenced, and regions of overlap are used to determine the genomic sequences.” Below the rings are many pieces of the contrasting color portions only, with an arrow pointing to solid longer lines of the 3 colors.">
+<image mime-type="image/jpg" src="../../media/Figure_10_03_03.jpg" width="320"/>
+</media>
+<caption>Metagenomics involves isolating DNA from multiple species within an environmental niche. The DNA is cut up and sequenced, allowing entire genome sequences of multiple species to be reconstructed from the sequences of overlapping pieces.</caption>
+</figure>
+</section>
+<section id="fs-idp12134720">
+<title>Creation of New Biofuels</title>
+<para id="fs-idp74442112">Knowledge of the genomics of microorganisms is being used to find better ways to harness biofuels from algae and cyanobacteria. The primary sources of fuel today are coal, oil, wood, and other plant products such as ethanol. Although plants are renewable resources, there is still a need to find more alternative renewable sources of energy to meet our population’s energy demands. The microbial world is one of the largest resources for genes that encode new enzymes and produce new organic compounds, and it remains largely untapped. This vast genetic resource holds the potential to provide new sources of biofuels (<link target-id="fig-ch10_03_04" document=""/>).</para>
+<figure id="fig-ch10_03_04"><media id="fs-idp99799152" alt="A photo of a large container of green fluid, with a display in the background with the heading “From Field to Fleet”.">
+<image mime-type="image/jpg" src="../../media/Figure_10_03_04f.jpg" width="250"/>
+</media>
+
+<caption>Renewable fuels were tested in Navy ships and aircraft at the first Naval Energy Forum. (credit: modification of work by John F. Williams, US Navy)</caption></figure></section>
+<section id="fs-idp12661792">
+<title>Mitochondrial Genomics</title>
+<para id="fs-idp12208352">Mitochondria are intracellular organelles that contain their own DNA. Mitochondrial DNA mutates at a rapid rate and is often used to study evolutionary relationships. Another feature that makes studying the mitochondrial genome interesting is that in most multicellular organisms, the mitochondrial DNA is passed on from the mother during the process of fertilization. For this reason, mitochondrial genomics is often used to trace genealogy.</para>
+</section>
+<section id="fs-idp78636176">
+<title>Genomics in Forensic Analysis</title>
+<para id="fs-idp101994160">Information and clues obtained from DNA samples found at crime scenes have been used as evidence in court cases, and genetic markers have been used in forensic analysis. Genomic analysis has also become useful in this field. In 2001, the first use of genomics in forensics was published. It was a collaborative effort between academic research institutions and the FBI to solve the mysterious cases of anthrax (<link target-id="fig-ch10_03_05" document=""/>) that was transported by the US Postal Service. Anthrax bacteria were made into an infectious powder and mailed to news media and two U.S. Senators. The powder infected the administrative staff and postal workers who opened or handled the letters. Five people died, and 17 were sickened from the bacteria. Using microbial genomics, researchers determined that a specific strain of anthrax was used in all the mailings; eventually, the source was traced to a scientist at a national biodefense laboratory in Maryland.</para>
+<figure id="fig-ch10_03_05"><media id="fs-idp211457776" alt="A light microscope photo of the long rods of anthrax bacterium. Several lines of red spore dots can be seen as well.">
+<image mime-type="image/jpg" src="../../media/Figure_10_03_05.jpg" width="280"/>
+</media>
+
+<caption><emphasis effect="italics">Bacillus anthracis</emphasis> is the organism that causes anthrax. (credit: modification of work by CDC; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-idp34841344">
+<title>Genomics in Agriculture</title>
+<para id="fs-idp58601632">Genomics can reduce the trials and failures involved in scientific research to a certain extent, which could improve the quality and quantity of crop yields in agriculture (<link target-id="fig-ch10_03_06" document=""/>). Linking traits to genes or gene signatures helps to improve crop breeding to generate hybrids with the most desirable qualities. Scientists use genomic data to identify desirable traits, and then transfer those traits to a different organism to create a new genetically modified organism, as described in the previous module. Scientists are discovering how genomics can improve the quality and quantity of agricultural production. For example, scientists could use desirable traits to create a useful product or enhance an existing product, such as making a drought-sensitive crop more tolerant of the dry season.</para>
+<figure id="fig-ch10_03_06"><media id="fs-idp6936048" alt="A photo of several purple plums and the leaves of the plum tree. One plum has been cut in half to expose the yellow flesh and small brown pit.">
+<image mime-type="image/jpg" src="../../media/Figure_10_03_06.jpg" width="320"/>
+</media>
+
+<caption>Transgenic agricultural plants can be made to resist disease. These transgenic plums are resistant to the plum pox virus. (credit: Scott Bauer, USDA ARS)</caption></figure></section>
+<section id="fs-idp10164464">
+<title> Proteomics</title>
+<para id="fs-idp5009056">Proteins are the final products of genes that perform the function encoded by the gene. Proteins are composed of amino acids and play important roles in the cell. All enzymes (except ribozymes) are proteins and act as catalysts that affect the rate of reactions. Proteins are also regulatory molecules, and some are hormones. Transport proteins, such as hemoglobin, help transport oxygen to various organs. Antibodies that defend against foreign particles are also proteins. In the diseased state, protein function can be impaired because of changes at the genetic level or because of direct impact on a specific protein.</para>
+<para id="fs-idp28157664">A proteome is the entire set of proteins produced by a cell type. Proteomes can be studied using the knowledge of genomes because genes code for mRNAs, and the mRNAs encode proteins. The study of the function of proteomes is called <term>proteomics</term>. Proteomics complements genomics and is useful when scientists want to test their hypotheses that were based on genes. Even though all cells in a multicellular organism have the same set of genes, the set of proteins produced in different tissues is different and dependent on gene expression. Thus, the genome is constant, but the proteome varies and is dynamic within an organism. In addition, RNAs can be alternatively spliced (cut and pasted to create novel combinations and novel proteins), and many proteins are modified after translation. Although the genome provides a blueprint, the final architecture depends on several factors that can change the progression of events that generate the proteome.</para>
+<para id="fs-idp111091104">Genomes and proteomes of patients suffering from specific diseases are being studied to understand the genetic basis of the disease. The most prominent disease being studied with proteomic approaches is cancer (<link target-id="fig-ch10_03_07" document=""/>). Proteomic approaches are being used to improve the screening and early detection of cancer; this is achieved by identifying proteins whose expression is affected by the disease process. An individual protein is called a <term>biomarker</term>, whereas a set of proteins with altered expression levels is called a <term>protein signature</term>. For a biomarker or protein signature to be useful as a candidate for early screening and detection of a cancer, it must be secreted in body fluids such as sweat, blood, or urine, so that large-scale screenings can be performed in a noninvasive fashion. The current problem with using biomarkers for the early detection of cancer is the high rate of false-negative results. A false-negative result is a negative test result that should have been positive. In other words, many cases of cancer go undetected, which makes biomarkers unreliable. Some examples of protein biomarkers used in cancer detection are CA-125 for ovarian cancer and PSA for prostate cancer. Protein signatures may be more reliable than biomarkers to detect cancer cells. Proteomics is also being used to develop individualized treatment plans, which involves the prediction of whether or not an individual will respond to specific drugs and the side effects that the individual may have. Proteomics is also being used to predict the possibility of disease recurrence.</para>
+<figure id="fig-ch10_03_07"><media id="fs-idp32200688" alt="Photo shows a protein pattern analyzer. It is a large piece of equipment on a desktop with pipettes at the end of long steel tubes.">
+<image mime-type="image/jpg" src="../../media/Figure_10_03_07.jpg" width="320"/>
+</media>
+
+<caption>This machine is preparing to do a proteomic pattern analysis to identify specific cancers so that an accurate cancer prognosis can be made. (credit: Dorie Hightower, NCI, NIH)</caption></figure><para id="fs-idp58292336">The National Cancer Institute has developed programs to improve the detection and treatment of cancer. The Clinical Proteomic Technologies for Cancer and the Early Detection Research Network are efforts to identify protein signatures specific to different types of cancers. The Biomedical Proteomics Program is designed to identify protein signatures and design effective therapies for cancer patients.</para>
+</section>
+</section>
+<section id="fs-idp132799648" class="summary">
+<title>Section Summary</title><para id="fs-idp111415312">Genome mapping is similar to solving a big, complicated puzzle with pieces of information coming from laboratories all over the world. Genetic maps provide an outline for the location of genes within a genome, and they estimate the distance between genes and genetic markers on the basis of the recombination frequency during meiosis. Physical maps provide detailed information about the physical distance between the genes. The most detailed information is available through sequence mapping. Information from all mapping and sequencing sources is combined to study an entire genome.</para>
+<para id="fs-idp10920096">Whole genome sequencing is the latest available resource to treat genetic diseases. Some doctors are using whole genome sequencing to save lives. Genomics has many industrial applications, including biofuel development, agriculture, pharmaceuticals, and pollution control.</para>
+<para id="fs-idp147508720">Imagination is the only barrier to the applicability of genomics. Genomics is being applied to most fields of biology; it can be used for personalized medicine, prediction of disease risks at an individual level, the study of drug interactions before the conduction of clinical trials, and the study of microorganisms in the environment as opposed to the laboratory. It is also being applied to the generation of new biofuels, genealogical assessment using mitochondria, advances in forensic science, and improvements in agriculture.</para>
+<para id="fs-idp242365584">Proteomics is the study of the entire set of proteins expressed by a given type of cell under certain environmental conditions. In a multicellular organism, different cell types will have different proteomes, and these will vary with changes in the environment. Unlike a genome, a proteome is dynamic and under constant flux, which makes it more complicated and more useful than the knowledge of genomes alone.</para>
+</section>
+<section id="fs-idp4948128" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idp222121840">
+<problem id="fs-idp136958832">
+<para id="fs-idp39089568">What is the most challenging issue facing genome sequencing?</para>
+<list id="fs-idp67392160" list-type="enumerated" number-style="lower-alpha">
+<item>the inability to develop fast and accurate sequencing techniques</item>
+<item>the ethics of using information from genomes at the individual level</item>
+<item>the availability and stability of DNA</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idp68631664">
+<label/>
+<para id="fs-idp62565488">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp45824032">
+<problem id="fs-idm14079216">
+<para id="fs-idp135578528">Genomics can be used in agriculture to:</para>
+<list id="fs-idp59702176" list-type="enumerated" number-style="lower-alpha">
+<item>generate new hybrid strains</item>
+<item>improve disease resistance</item>
+<item>improve yield</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-idp70028816">
+<label/>
+<para id="fs-idp119782976">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm67665664">
+<problem id="fs-idm24720384">
+<para id="fs-idp57630624">What kind of diseases are studied using genome-wide association studies?</para>
+<list id="fs-idm83060592" list-type="enumerated" number-style="lower-alpha">
+<item>viral diseases</item>
+<item>single-gene inherited diseases</item>
+<item>diseases caused by multiple genes</item>
+<item>diseases caused by environmental factors</item>
+</list>
+</problem>
+<solution id="fs-idm141998160">
+<label/>
+<para id="fs-idm69247856">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp146334016" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idp179936528">
+<problem id="fs-idp105033920">
+<para id="fs-idp119798736">Describe two of the applications for genome mapping.</para>
+</problem>
+<solution id="fs-idp256738160">
+<label/>
+<para id="fs-idp74911984">Genome mapping helps researchers to study disease-causing genes in humans. It also helps to identify traits of organisms that can be used in applications such as cleaning up pollution.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp148492992">
+<problem id="fs-idm32932848">
+<para id="fs-idm94777568">Identify a possible advantage and a possible disadvantage of a genetic test that would identify genes in individuals that increase their probability of having Alzheimer's disease later in life.</para>
+</problem>
+<solution id="fs-idm25535552">
+<label/>
+<para id="fs-idp59747520">The benefit of such a test is that the individual can make preparations for having the disease including taking treatments that slow the disease. The disadvantage of the test is that it might be used by insurance companies to deny coverage to the person.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp93870240">
+<term>biomarker</term> <meaning id="fs-idp118135616">an individual protein that is uniquely produced in a diseased state</meaning>
+</definition>
+<definition id="fs-idp93574848">
+<term>genetic map</term> <meaning id="fs-idp78660304">an outline of genes and their location on a chromosome that is based on recombination frequencies between markers</meaning>
+</definition>
+<definition id="fs-idp168059680">
+<term>genomics</term> <meaning id="fs-idp92325184">the study of entire genomes, including the complete set of genes, their nucleotide sequence and organization, and their interactions within a species and with other species</meaning>
+</definition>
+<definition id="fs-idp24513584">
+<term>metagenomics</term> <meaning id="fs-idm16592">the study of the collective genomes of multiple species that grow and interact in an environmental niche</meaning>
+</definition>
+<definition id="fs-idp137483744">
+<term>model organism</term> <meaning id="fs-idp55992416">a species that is studied and used as a model to understand the biological processes in other species represented by the model organism</meaning>
+</definition>
+<definition id="fs-idp12297456">
+<term>pharmacogenomics</term> <meaning id="fs-idp70042464">the study of drug interactions with the genome or proteome; also called toxicogenomics</meaning>
+</definition>
+<definition id="fs-idp195180640">
+<term>physical map</term> <meaning id="fs-idp150672240">a representation of the physical distance between genes or genetic markers</meaning>
+</definition>
+<definition id="fs-idp41960656">
+<term>protein signature</term> <meaning id="fs-idp164562752">a set of over- or under-expressed proteins characteristic of cells in a particular diseased tissue</meaning>
+</definition>
+<definition id="fs-idp227672240">
+<term>proteomics</term> <meaning id="fs-idp145546384">study of the function of proteomes</meaning>
+</definition>
+<definition id="fs-idp25403872">
+<term>whole genome sequencing</term> <meaning id="fs-idp33387152">a process that determines the nucleotide sequence of an entire genome</meaning>
+</definition>
+</glossary>
+</document>

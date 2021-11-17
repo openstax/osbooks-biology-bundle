@@ -1,0 +1,222 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Cell Cycle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45461</md:content-id>
+  <md:title>The Cell Cycle</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the three stages of interphase</item>
+<item>Discuss the behavior of chromosomes during mitosis and how the cytoplasmic content divides during cytokinesis</item>
+<item>Define the quiescent G<sub>0</sub> phase</item>
+<item>Explain how the three internal control checkpoints occur at the end of G<sub>1</sub>, at the G<sub>2</sub>–M transition, and during metaphase</item>
+</list></md:abstract>
+  <md:uuid>55b8bdda-51c1-40f3-93ca-9adc81bb56d1</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2017945">The <term>cell cycle</term> is an ordered series of events involving cell growth and cell division that produces two new daughter cells. Cells on the path to cell division proceed through a series of precisely timed and carefully regulated stages of growth, DNA replication, and division that produce two genetically identical cells. The cell cycle has two major phases: interphase and the mitotic phase (<link target-id="fig-ch06_02_01" document=""/>). During <term>interphase</term>, the cell grows and DNA is replicated. During the <term>mitotic</term> <term>phase</term>, the replicated DNA and cytoplasmic contents are separated and the cell divides.
+
+Watch this video about the cell cycle: <link url="http://openstaxcollege.org/l/biocellcyc">http://openstax.org/l/biocellcyc</link></para><figure id="fig-ch06_02_01"><media id="fs-id2066349" alt="This illustration shows the cell cycle, which consists of interphase and the mitotic phase. Interphase is subdivided into G1, S, and G2 phases. Cell growth occurs during G1 and G2, and DNA synthesis occurs during S. The mitotic phase consists of mitosis, in which the nuclear chromatin is divided, and cytokinesis, in which the cytoplasm is divided resulting in two daughter cells.">
+<image mime-type="image/jpg" src="../../media/Figure_06_02_01-1a2f.jpg" width="500"/>
+</media>
+
+<caption>A cell moves through a series of phases in an orderly manner. During interphase, G<sub>1</sub> involves cell growth and protein synthesis, the S phase involves DNA replication and the replication of the centrosome, and G<sub>2</sub> involves further growth and protein synthesis. The mitotic phase follows interphase. Mitosis is nuclear division during which duplicated chromosomes are segregated and distributed into daughter nuclei. Usually the cell will divide after mitosis in a process called cytokinesis in which the cytoplasm is divided and two daughter cells are formed.</caption></figure><section id="fs-id1889794">
+<title>Interphase</title>
+<para id="fs-id2890845">During interphase, the cell undergoes normal processes while also preparing for cell division. For a cell to move from interphase to the mitotic phase, many internal and external conditions must be met. The three stages of interphase are called G<sub>1</sub>, S, and G<sub>2</sub>.</para>
+
+<section id="fs-id2025386">
+<title>G<sub>1</sub> Phase</title>
+<para id="fs-id2746045">The first stage of interphase is called the <term>G<sub>1</sub> phase</term>, or first gap, because little change is visible. However, during the G<sub>1</sub> stage, the cell is quite active at the biochemical level. The cell is accumulating the building blocks of chromosomal DNA and the associated proteins, as well as accumulating enough energy reserves to complete the task of replicating each chromosome in the nucleus.</para>
+</section>
+
+<section id="fs-id2937997">
+<title>S Phase</title>
+<para id="fs-id1867112">Throughout interphase, nuclear DNA remains in a semi-condensed chromatin configuration. In the <term>S phase</term> (synthesis phase), DNA replication results in the formation of two identical copies of each chromosome—sister chromatids—that are firmly attached at the centromere region. At this stage, each chromosome is made of two sister chromatids and is a duplicated chromosome. The centrosome is duplicated during the S phase. The two centrosomes will give rise to the <term>mitotic</term> <term>spindle</term>, the apparatus that orchestrates the movement of chromosomes during mitosis. The centrosome consists of a pair of rod-like <term>centrioles</term> at right angles to each other. Centrioles help organize cell division. Centrioles are not present in the centrosomes of many eukaryotic species, such as plants and most fungi.</para>
+</section>
+
+<section id="fs-id2065180">
+<title>G<sub>2</sub> Phase</title>
+<para id="fs-id1851098">In the <term>G<sub>2</sub> phase</term>, or second gap, the cell replenishes its energy stores and synthesizes the proteins necessary for chromosome manipulation. Some cell organelles are duplicated, and the cytoskeleton is dismantled to provide resources for the mitotic spindle. There may be additional cell growth during G<sub>2</sub>. The final preparations for the mitotic phase must be completed before the cell is able to enter the first stage of mitosis.</para>
+</section>
+</section>
+
+<section id="fs-id3138185">
+<title>The Mitotic Phase</title>
+<para id="fs-id2310725">To make two daughter cells, the contents of the nucleus and the cytoplasm must be divided. The mitotic phase is a multistep process during which the duplicated chromosomes are aligned, separated, and moved to opposite poles of the cell, and then the cell is divided into two new identical daughter cells. The first portion of the mitotic phase, <term>mitosis</term>, is composed of five stages, which accomplish nuclear division. The second portion of the mitotic phase, called cytokinesis, is the physical separation of the cytoplasmic components into two daughter cells.</para>
+
+<section id="fs-id2084632"><title>Mitosis</title><para id="fs-id2169221">Mitosis is divided into a series of phases—prophase, prometaphase, metaphase, anaphase, and telophase—that result in the division of the cell nucleus (<link target-id="fig-ch06_02_02" document=""/>).</para>
+
+<note id="fs-id2649628" class="visual-connection non-majors"><label/><title>Visual Connection</title>
+<figure id="fig-ch06_02_02"><media id="fs-id2387906" alt="This diagram shows the five phases of mitosis, and cytokinesis. During prophase, the chromosomes condense and become visible, spindle fibers emerge from the centrosomes, the centrosomes move toward opposite poles, and the nuclear envelope breaks down. During prometaphase, the chromosomes continue to condense and kinetochores appear at the centromeres. Mitotic spindle microtubules attach to the kinetochores. During metaphase, the centrosomes are at opposite poles of the cell. Chromosomes line up at the metaphase plate and each sister chromatid is attached to spindle fibers originating from the opposite poles. During anaphase, the centromeres split in two. The sister chromatids, which are now called chromosomes, move toward opposite poles of the cell. Certain spindle fibers lengthen, elongating the cell. During telophase, the chromosomes arrive at the opposite poles and begin to decondense. The nuclear envelope re-forms. During cytokinesis in animals, a cleavage furrow separates the two daughter cells. In plants, a cell plate—the precursor to a new cell wall—separates the two daughter cells.">
+<image mime-type="image/png" src="../../media/Figure_06_02_02.png" width="550"/>
+</media>
+
+<caption>Animal cell mitosis is divided into five stages—prophase, prometaphase, metaphase, anaphase, and telophase—visualized here by light microscopy with fluorescence. Mitosis is usually accompanied by cytokinesis, shown here by a transmission electron microscope. (credit "diagrams": modification of work by Mariana Ruiz Villareal; credit "mitosis micrographs": modification of work by Roy van Heesbeen; credit "cytokinesis micrograph": modification of work by the Wadsworth Center, NY State Department of Health; donated to the Wikimedia foundation; scale-bar data from Matt Russell)</caption></figure><para id="fs-id1997977">Which of the following is the correct order of events in mitosis?</para>
+<list id="eip-118" list-type="enumerated" number-style="lower-alpha"><item>Sister chromatids line up at the metaphase plate. The kinetochore becomes attached to the mitotic spindle. The nucleus re-forms and the cell divides. The sister chromatids separate.</item>
+<item>The kinetochore becomes attached to the mitotic spindle. The sister chromatids separate. Sister chromatids line up at the metaphase plate. The nucleus re-forms and the cell divides.</item>
+<item>The kinetochore becomes attached to metaphase plate. Sister chromatids line up at the metaphase plate. The kinetochore breaks down and the sister chromatids separate. The nucleus re-forms and the cell divides.</item>
+<item>The kinetochore becomes attached to the mitotic spindle. Sister chromatids line up at the metaphase plate. The kinetochore breaks apart and the sister chromatids separate. The nucleus re-forms and the cell divides.</item></list>
+
+
+
+</note><para id="fs-id2333055">During <term>prophase</term>, the “first phase,” several events must occur to provide access to the chromosomes in the nucleus. The nuclear envelope starts to break into small vesicles, and the Golgi apparatus and endoplasmic reticulum fragment and disperse to the periphery of the cell. The nucleolus disappears. The centrosomes begin to move to opposite poles of the cell. The microtubules that form the basis of the mitotic spindle extend between the centrosomes, pushing them farther apart as the microtubule fibers lengthen. The sister chromatids begin to coil more tightly and become visible under a light microscope.</para>
+<para id="fs-id2720579">During <term>prometaphase</term>, many processes that were begun in prophase continue to advance and culminate in the formation of a connection between the chromosomes and cytoskeleton. The remnants of the nuclear envelope disappear. The mitotic spindle continues to develop as more microtubules assemble and stretch across the length of the former nuclear area. Chromosomes become more condensed and visually discrete. Each sister chromatid attaches to spindle microtubules at the centromere via a protein complex called the <term>kinetochore</term>.</para>
+<para id="fs-id2229627">During <term>metaphase</term>, all of the chromosomes are aligned in a plane called the <term>metaphase plate</term>, or the equatorial plane, midway between the two poles of the cell. The sister chromatids are still tightly attached to each other. At this time, the chromosomes are maximally condensed.</para>
+<para id="fs-id2585970">During <term>anaphase</term>, the sister chromatids at the equatorial plane are split apart at the centromere. Each chromatid, now called a chromosome, is pulled rapidly toward the centrosome to which its microtubule was attached. The cell becomes visibly elongated as the non-kinetochore microtubules slide against each other at the metaphase plate where they overlap.</para>
+<para id="fs-id2629830">During <term>telophase</term>, all of the events that set up the duplicated chromosomes for mitosis during the first three phases are reversed. The chromosomes reach the opposite poles and begin to decondense (unravel). The mitotic spindles are broken down into monomers that will be used to assemble cytoskeleton components for each daughter cell. Nuclear envelopes form around chromosomes.</para>
+
+<note id="fs-id3016368" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-id2936705"><link window="new" url="http://openstax.org/l/divisn_newtcell">This page of movies</link> illustrates different aspects of mitosis. Watch the movie entitled “DIC microscopy of cell division in a newt lung cell” and identify the phases of mitosis.</para>
+</note></section><section id="fs-id2326271">
+<title>Cytokinesis</title>
+<para id="fs-id2114336"><term>Cytokinesis</term> is the second part of the mitotic phase during which cell division is completed by the physical separation of the cytoplasmic components into two daughter cells. Although the stages of mitosis are similar for most eukaryotes, the process of cytokinesis is quite different for eukaryotes that have cell walls, such as plant cells.</para>
+<para id="fs-id3241385">In cells such as animal cells that lack cell walls, cytokinesis begins following the onset of anaphase. A contractile ring composed of actin filaments forms just inside the plasma membrane at the former metaphase plate. The actin filaments pull the equator of the cell inward, forming a fissure. This fissure, or “crack,” is called the <term>cleavage furrow</term>. The furrow deepens as the actin ring contracts, and eventually the membrane and cell are cleaved in two (<link target-id="fig-ch06_02_03" document=""/>).</para>
+<para id="fs-id2000713">In plant cells, a cleavage furrow is not possible because of the rigid cell walls surrounding the plasma membrane. A new cell wall must form between the daughter cells. During interphase, the Golgi apparatus accumulates enzymes, structural proteins, and glucose molecules prior to breaking up into vesicles and dispersing throughout the dividing cell. During telophase, these Golgi vesicles move on microtubules to collect at the metaphase plate. There, the vesicles fuse from the center toward the cell walls; this structure is called a <term>cell plate</term>. As more vesicles fuse, the cell plate enlarges until it merges with the cell wall at the periphery of the cell. Enzymes use the glucose that has accumulated between the membrane layers to build a new cell wall of cellulose. The Golgi membranes become the plasma membrane on either side of the new cell wall (<link target-id="fig-ch06_02_03" document=""/>).</para>
+
+<figure id="fig-ch06_02_03"><media id="fs-id2134723" alt="This illustration shows cytokinesis in a typical animal cell and a typical plant cell. In an animal cell, a contractile ring of actin filaments forms a cleavage furrow that divides the cell in two. In a plant cell, Golgi vesicles coalesce at the metaphase plate. A cell plate grows from the center outward, and the vesicles form a plasma membrane that divides the cytoplasm.">
+<image mime-type="image/jpg" src="../../media/Figure_06_02_03.jpg" width="350"/>
+</media>
+
+<caption>In part (a), a cleavage furrow forms at the former metaphase plate in the animal cell. The plasma membrane is drawn in by a ring of actin fibers contracting just inside the membrane. The cleavage furrow deepens until the cells are pinched in two. In part (b), Golgi vesicles coalesce at the former metaphase plate in a plant cell. The vesicles fuse and form the cell plate. The cell plate grows from the center toward the cell walls. New cell walls are made from the vesicle contents.</caption></figure></section>
+</section>
+
+<section id="fs-id2168870">
+<title>G<sub>0</sub> Phase</title><para id="fs-id2581841">Not all cells adhere to the classic cell-cycle pattern in which a newly formed daughter cell immediately enters interphase, closely followed by the mitotic phase. Cells in the <term>G<sub>0</sub> phase</term> are not actively preparing to divide. The cell is in a quiescent (inactive) stage, having exited the cell cycle. Some cells enter G<sub>0</sub> temporarily until an external signal triggers the onset of G<sub>1</sub>. Other cells that never or rarely divide, such as mature cardiac muscle and nerve cells, remain in G<sub>0</sub> permanently (<link target-id="fig-ch06_02_04" document=""/>).</para>
+
+<figure id="fig-ch06_02_04"><media id="fs-id2712169" alt="The cell cycle is shown in a circular graphic, with four stages. The S stage accounts for about 40 percent of the cycle. The G2 stage accounts for about 19 percent. Mitosis accounts for 2 percent, and G1 accounts for 39 percent. An arrow is shown exiting the G1 stage that points to the G0 stage outside the circle, in which cells are not actively dividing. Another arrow points from the G0 stage back into the G1 stage, where cells may re-enter the cycle.">
+<image mime-type="image/jpg" src="../../media/Figure_06_02_04.jpg" width="320"/>
+</media>
+
+<caption>Cells that are not actively preparing to divide enter an alternate phase called G<sub>0</sub>. In some cases, this is a temporary condition until triggered to enter G<sub>1</sub>. In other cases, the cell will remain in G<sub>0</sub> permanently.</caption></figure><section id="fs-id2106145">
+<title> Control of the Cell Cycle</title>
+<para id="fs-id1950986">The length of the cell cycle is highly variable even within the cells of an individual organism. In humans, the frequency of cell turnover ranges from a few hours in early embryonic development to an average of two to five days for epithelial cells, or to an entire human lifetime spent in G<sub>0</sub> by specialized cells such as cortical neurons or cardiac muscle cells. There is also variation in the time that a cell spends in each phase of the cell cycle. When fast-dividing mammalian cells are grown in culture (outside the body under optimal growing conditions), the length of the cycle is approximately 24 hours. In rapidly dividing human cells with a 24-hour cell cycle, the G<sub>1</sub> phase lasts approximately 11 hours. The timing of events in the cell cycle is controlled by mechanisms that are both internal and external to the cell.</para>
+</section>
+</section>
+
+<section id="fs-id2285810">
+<title>Regulation at Internal Checkpoints</title>
+<para id="fs-id1828449">It is essential that daughter cells be exact duplicates of the parent cell. Mistakes in the duplication or distribution of the chromosomes lead to mutations that may be passed forward to every new cell produced from the abnormal cell. To prevent a compromised cell from continuing to divide, there are internal control mechanisms that operate at three main <term>cell cycle checkpoints</term> at which the cell cycle can be stopped until conditions are favorable. These checkpoints occur near the end of G<sub>1</sub>, at the G<sub>2</sub>–M transition, and during metaphase (<link target-id="fig-ch6_02_05" document=""/>).</para><figure id="fig-ch6_02_05"><media id="fs-id1130356" alt="This illustration shows the three major check points of the cell cycle, which occur in G1, G2, and mitosis.">
+<image mime-type="image/jpg" src="../../media/Figure_06_02_05.jpg" width="450"/>
+</media>
+
+<caption>The cell cycle is controlled at three checkpoints. Integrity of the DNA is assessed at the G<sub>1</sub> checkpoint. Proper chromosome duplication is assessed at the G<sub>2</sub> checkpoint. Attachment of each kinetochore to a spindle fiber is assessed at the M checkpoint.</caption></figure><section id="fs-id1908239">
+<title>The G<sub>1</sub> Checkpoint</title>
+<para id="fs-id2581780">The G<sub>1</sub> checkpoint determines whether all conditions are favorable for cell division to proceed. The G<sub>1</sub> checkpoint, also called the restriction point, is the point at which the cell irreversibly commits to the cell-division process. In addition to adequate reserves and cell size, there is a check for damage to the genomic DNA at the G<sub>1</sub> checkpoint. A cell that does not meet all the requirements will not be released into the S phase.</para>
+</section>
+<section id="fs-id2641894">
+<title>The G<sub>2</sub> Checkpoint</title>
+<para id="fs-id2199704">The G<sub>2</sub> checkpoint bars the entry to the mitotic phase if certain conditions are not met. As in the G<sub>1</sub> checkpoint, cell size and protein reserves are assessed. However, the most important role of the G<sub>2</sub> checkpoint is to ensure that all of the chromosomes have been replicated and that the replicated DNA is not damaged.</para>
+</section>
+
+<section id="fs-id2228830">
+<title>The M Checkpoint</title>
+<para id="fs-id2304579">The M checkpoint occurs near the end of the metaphase stage of mitosis. The M checkpoint is also known as the spindle checkpoint because it determines if all the sister chromatids are correctly attached to the spindle microtubules. Because the separation of the sister chromatids during anaphase is an irreversible step, the cycle will not proceed until the kinetochores of each pair of sister chromatids are firmly anchored to spindle fibers arising from opposite poles of the cell.</para>
+
+<note id="fs-id2254885" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-id3070624">Watch what occurs at the G<sub>1</sub>, G<sub>2</sub>, and M checkpoints by visiting <link window="new" url="https://www.youtube.com/watch?v=f-ldPgEfAHI">this animation</link> of the cell cycle.</para>
+</note></section>
+
+</section>
+<section id="fs-id1966620" class="summary"> <title>Section Summary</title><para id="fs-id2216071">The cell cycle is an orderly sequence of events. Cells on the path to cell division proceed through a series of precisely timed and carefully regulated stages. In eukaryotes, the cell cycle consists of a long preparatory period, called interphase. Interphase is divided into G<sub>1</sub>, S, and G<sub>2</sub> phases. Mitosis consists of five stages: prophase, prometaphase, metaphase, anaphase, and telophase. Mitosis is usually accompanied by cytokinesis, during which the cytoplasmic components of the daughter cells are separated either by an actin ring (animal cells) or by cell plate formation (plant cells).</para>
+<para id="fs-id2200945">Each step of the cell cycle is monitored by internal controls called checkpoints. There are three major checkpoints in the cell cycle: one near the end of G<sub>1</sub>, a second at the G<sub>2</sub>–M transition, and the third during metaphase.</para>
+</section>
+<section id="fs-idm26543408" class="visual-exercise"><title>Art Connections</title><exercise id="fs-idp46666960">
+<problem id="fs-idm5062272">
+<para id="fs-id1986270"><link target-id="fig-ch06_02_02" document=""/> Which of the following is the correct order of events in mitosis?</para>
+<list id="eip-58" list-type="enumerated" number-style="lower-alpha"><item>Sister chromatids line up at the metaphase plate. The kinetochore becomes attached to the mitotic spindle. The nucleus re-forms and the cell divides. The sister chromatids separate.</item>
+<item>The kinetochore becomes attached to the mitotic spindle. The sister chromatids separate. Sister chromatids line up at the metaphase plate. The nucleus re-forms and the cell divides.</item>
+<item>The kinetochore becomes attached to metaphase plate. Sister chromatids line up at the metaphase plate. The kinetochore breaks down and the sister chromatids separate. The nucleus re-forms and the cell divides.</item>
+<item>The kinetochore becomes attached to the mitotic spindle. Sister chromatids line up at the metaphase plate. The kinetochore breaks apart and the sister chromatids separate. The nucleus re-forms and the cell divides.</item>
+</list>
+</problem>
+<solution id="fs-idm33019360">
+<label/>
+<para id="fs-id1958374"><link target-id="fig-ch06_02_02" document=""/> D. The kinetochore becomes attached to the mitotic spindle. Sister chromatids line up at the metaphase plate. The kinetochore breaks apart and the sister chromatids separate. The nucleus reforms and the cell divides.</para>
+</solution>
+</exercise>
+</section><section id="fs-id3037849" class="multiple-choice"> <title>Multiple Choice</title>
+<exercise id="fs-id1972954">
+<problem id="fs-id3000215"><para id="fs-id1597287">Chromosomes are duplicated during what portion of the cell cycle?</para>
+<list id="fs-id2883531" list-type="enumerated" number-style="lower-alpha">
+<item>G<sub>1</sub> phase</item>
+<item>S phase</item>
+<item>prophase</item>
+<item>prometaphase</item>
+</list>
+</problem>
+<solution id="fs-id1470110"> <label/> <para id="fs-id2017994">B</para> </solution>
+</exercise>
+<exercise id="fs-id1293245">
+<problem id="fs-id1627689"><para id="fs-id1627690">Separation of the sister chromatids is a characteristic of which stage of mitosis?</para>
+<list id="fs-id1965923" list-type="enumerated" number-style="lower-alpha">
+<item>prometaphase</item>
+<item>metaphase</item>
+<item>anaphase</item>
+<item>telophase</item>
+</list>
+</problem>
+<solution id="fs-id2079725"> <label/> <para id="fs-id1425813">C</para> </solution>
+</exercise>
+<exercise id="fs-id2763444">
+<problem id="fs-id2299514"><para id="fs-id2299515">The individual chromosomes become visible with a light microscope during which stage of mitosis?</para>
+<list id="fs-id2747389" list-type="enumerated" number-style="lower-alpha">
+<item>prophase</item>
+<item>prometaphase</item>
+<item>metaphase</item>
+<item>anaphase</item>
+</list>
+</problem>
+<solution id="fs-id1806428"> <label/> <para id="fs-id1958367">A</para> </solution>
+</exercise>
+<exercise id="fs-id2120992">
+<problem id="fs-id2120994"><para id="fs-id1964771">What is necessary for a cell to pass the G<sub>2</sub> checkpoint?</para>
+<list id="fs-id3096146" list-type="enumerated" number-style="lower-alpha">
+<item>cell has reached a sufficient size</item>
+<item>an adequate stockpile of nucleotides</item>
+<item>accurate and complete DNA replication</item>
+<item>proper attachment of mitotic spindle fibers to kinetochores</item>
+</list>
+</problem>
+<solution id="fs-id2010702"> <label/> <para id="fs-id2300290">C</para> </solution>
+</exercise>
+</section>
+
+<section id="fs-id1415171" class="critical-thinking"><title>Free Response</title><exercise id="fs-id2955829">
+<problem id="fs-id2076380">
+<para id="fs-id2076381">Describe the similarities and differences between the cytokinesis mechanisms found in animal cells versus those in plant cells.</para>
+</problem>
+<solution id="fs-id3193812">
+<label/>
+<para id="fs-id1703530">There are very few similarities between animal cell and plant cell cytokinesis. In animal cells, a ring of actin fibers is formed around the periphery of the cell at the former metaphase plate. The actin ring contracts inward, pulling the plasma membrane toward the center of the cell until the cell is pinched in two. In plant cells, a new cell wall must be formed between the daughter cells. Because of the rigid cell walls of the parent cell, contraction of the middle of the cell is not possible. Instead, a cell plate is formed in the center of the cell at the former metaphase plate. The cell plate is formed from Golgi vesicles that contain enzymes, proteins, and glucose. The vesicles fuse and the enzymes build a new cell wall from the proteins and glucose. The cell plate grows toward, and eventually fuses with, the cell wall of the parent cell.</para> </solution>
+</exercise>
+</section> </content>
+
+<glossary>
+<definition id="fs-id2939051"><term>anaphase</term> <meaning id="fs-id2078111">the stage of mitosis during which sister chromatids are separated from each other</meaning></definition>
+<definition id="fs-id3274533"><term>cell cycle</term> <meaning id="fs-id1705382">the ordered sequence of events that a cell passes through between one cell division and the next</meaning></definition>
+<definition id="fs-id842561"><term>cell cycle checkpoints</term> <meaning id="fs-id2248536">mechanisms that monitor the preparedness of a eukaryotic cell to advance through the various cell cycle stages</meaning></definition>
+<definition id="fs-id2592163"><term>cell plate</term> <meaning id="fs-id2072729">a structure formed during plant-cell cytokinesis by Golgi vesicles fusing at the metaphase plate; will ultimately lead to formation of a cell wall to separate the two daughter cells</meaning></definition>
+<definition id="fs-id2078270"><term>centriole</term> <meaning id="fs-id2046143">a paired rod-like structure constructed of microtubules at the center of each animal cell centrosome</meaning></definition>
+<definition id="fs-id2046146"><term>cleavage furrow</term> <meaning id="fs-id3299535">a constriction formed by the actin ring during animal-cell cytokinesis that leads to cytoplasmic division</meaning></definition>
+<definition id="fs-id2274964"><term>cytokinesis</term> <meaning id="fs-id2121183">the division of the cytoplasm following mitosis to form two daughter cells</meaning></definition>
+<definition id="fs-id3191407"><term>G<sub>0 </sub>phase</term> <meaning id="fs-id3319189">a cell-cycle phase distinct from the G<sub>1</sub> phase of interphase; a cell in G<sub>0</sub> is not preparing to divide</meaning></definition>
+<definition id="fs-id1703129"><term>G<sub>1</sub> phase</term> <meaning id="fs-id1909346">(also, first gap) a cell-cycle phase; first phase of interphase centered on cell growth during mitosis</meaning></definition>
+<definition id="fs-id3193871"><term>G<sub>2</sub> phase</term> <meaning id="fs-id2316144">(also, second gap) a cell-cycle phase; third phase of interphase where the cell undergoes the final preparations for mitosis</meaning></definition>
+<definition id="fs-id1518897"><term>interphase</term> <meaning id="fs-id2198506">the period of the cell cycle leading up to mitosis; includes G<sub>1</sub>, S, and G<sub>2</sub> phases; the interim between two consecutive cell divisions</meaning></definition>
+<definition id="fs-id2333094"><term>kinetochore</term> <meaning id="fs-id2333099">a protein structure in the centromere of each sister chromatid that attracts and binds spindle microtubules during prometaphase</meaning></definition>
+<definition id="fs-id2574913"><term>metaphase plate</term> <meaning id="fs-id1766240">the equatorial plane midway between two poles of a cell where the chromosomes align during metaphase</meaning></definition>
+<definition id="fs-id1851025"><term>metaphase</term> <meaning id="fs-id3019605">the stage of mitosis during which chromosomes are lined up at the metaphase plate</meaning></definition>
+<definition id="fs-id3019608"><term>mitosis</term> <meaning id="fs-id2227894">the period of the cell cycle at which the duplicated chromosomes are separated into identical nuclei; includes prophase, prometaphase, metaphase, anaphase, and telophase</meaning></definition>
+<definition id="fs-id2021368"><term>mitotic phase</term> <meaning id="fs-id2309555">the period of the cell cycle when duplicated chromosomes are distributed into two nuclei and the cytoplasmic contents are divided; includes mitosis and cytokinesis</meaning></definition>
+<definition id="fs-id2655461"><term>mitotic spindle</term> <meaning id="fs-id2425621">the microtubule apparatus that orchestrates the movement of chromosomes during mitosis</meaning></definition>
+<definition id="fs-id2425624"><term>prometaphase</term> <meaning id="fs-id2255052">the stage of mitosis during which mitotic spindle fibers attach to kinetochores</meaning></definition>
+<definition id="fs-id2937746"><term>prophase</term> <meaning id="fs-id2937751">the stage of mitosis during which chromosomes condense and the mitotic spindle begins to form</meaning></definition>
+<definition id="fs-id2169031"><term>quiescent</term> <meaning id="fs-id1985982">describes a cell that is performing normal cell functions and has not initiated preparations for cell division</meaning></definition>
+<definition id="fs-id1985987"><term>S phase</term> <meaning id="fs-id2910977">the second, or synthesis phase, of interphase during which DNA replication occurs</meaning></definition>
+<definition id="fs-id1626985"><term>telophase</term> <meaning id="fs-id1626989">the stage of mitosis during which chromosomes arrive at opposite poles, decondense, and are surrounded by new nuclear envelopes</meaning></definition>
+</glossary>
+
+</document>

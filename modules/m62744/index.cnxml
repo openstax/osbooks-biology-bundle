@@ -1,0 +1,364 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Cytoskeleton</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62744</md:content-id>
+  <md:title>Cytoskeleton</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the cytoskeleton</item>
+<item>Compare the roles of microfilaments, intermediate filaments, and microtubules</item>
+<item>Compare and contrast cilia and flagella</item>
+<item>Summarize the differences among the components of prokaryotic cells, animal cells, and plant cells</item>
+</list></md:abstract>
+  <md:uuid>ec98776d-0416-4fff-b4c2-2392750091f6</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167067011015" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167067041942">In this section, you will explore the following questions:</para>
+<list id="fs-id1167067145595">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch04-s05-lo01">How do the various components of the cytoskeleton perform their functions?</item>
+</list>
+</section>
+
+<section id="fs-id1167063631930" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066958502">All cells, from simple bacteria to complex eukaryotes, possess a cytoskeleton composed of different types of protein elements, including microfilaments, intermediate filaments, and microtubules. The cytoskeleton serves a variety of purposes: provides rigidity and shape to the cell, facilitates cellular movement, anchors the nucleus and other organelles in place, moves vesicles through the cell, and pulls replicated chromosomes to the poles of a dividing cell. These protein elements are also integral to the movement of centrioles, flagella, and cilia.</para>
+<para id="fs-id1167067190079" class="ost-reading-discard">The information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 1 of the AP Biology Curriculum Framework, as shown in the table below.</para>
+<para id="fs-id1167066946846" class="ost-reading-discard">The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167063536849" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Third left cell reads: Learning Objective. Third right cell reads: 1.15 The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life and how these shared, conserved core processes and features support the concept of common ancestry for all organisms" class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
+<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-B-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1</emphasis></span>
+<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2</emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch04-s05-aplo-1-15">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>1.15</emphasis></span>
+<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section><note id="fs-id1167066953512" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067088897">Describe the cytoskeleton both as a “skeleton” because it provides the cell with shape and as “muscles” because it allows cells to move. The subunits of the cytoskeleton assemble and disassemble constantly, which is hard to imagine. Stress the concept of “dynamic equilibrium.” A vivid animation may illustrate the point better. Another way to demonstrate this is to have a few students stand in a line and then have a “pool” of students stand nearby. Then, on by one, ask students from the pool to exchange places with a student standing in the line. The line itself can grow and shrink by adding or taking away students in the line, respectively.</para>
+<para id="fs-id1167067147847">Both prokaryotic and eukaryotic cells possess cytoskeletons involved in cell division and shape maintenance. Although the molecular structures of cytoskeleton proteins are similar between two types of cells, the actual amino acid sequences of these proteins show very low levels of homology between the cytoskeleton proteins in prokaryotes and eukaryotes.</para>
+<para id="fs-id1167067079033">The two systems are not closely related.</para>
+<note id="fs-id1167066994342" class="ost-misconception">
+<label>Misconception Alert</label>
+<para id="fs-id1167067034690">Although the cytoskeleton of prokaryotes was discovered in the mid 90’s, the misconception that prokaryotes do not have a cytoskeleton is still widespread.</para>
+</note>
+</note>
+
+<section id="fs-id1228137" class="ost-tag-lo-apbio-ch04-s05-lo01 ost-tag-lo-apbio-ch04-s05-aplo-1-15 ost-get-exercise">
+<title>Microfilaments</title>
+
+<para id="fs-id1322516">If you were to remove all the organelles from a cell, would the plasma membrane and the cytoplasm be the only components left? No. Within the cytoplasm, there would still be ions and organic molecules, plus a network of protein fibers that help maintain the shape of the cell, secure some organelles in specific positions, allow cytoplasm and vesicles to move within the cell, and enable cells within multicellular organisms to move. Collectively, this network of protein fibers is known as the <term>cytoskeleton</term>. There are three types of fibers within the cytoskeleton: microfilaments, intermediate filaments, and microtubules (<link target-id="fig-ch04-05-01" document=""/>). Here, we will examine each.</para>
+<figure id="fig-ch04-05-01" class="ost-tag-lo-apbio-ch04-s05-lo01 ost-tag-lo-apbio-ch04-s05-aplo-1-15"><media id="fs-id2076540" alt="Microfilaments line the inside of the plasma membrane, whereas microfilaments radiate out from the center of the cell. Intermediate filaments form a network throughout the cell that holds organelles in place.">
+<image mime-type="image/jpg" src="../../media/Figure_04_05_01-8d5a.jpg" width="275"/>
+</media>
+
+<caption>Microfilaments thicken the cortex around the inner edge of a cell; like rubber bands, they resist tension. Microtubules are found in the interior of the cell where they maintain cell shape by resisting compressive forces. Intermediate filaments are found throughout the cell and hold organelles in place.</caption></figure>
+
+<para id="fs-id1662602">Of the three types of protein fibers in the cytoskeleton, <term>microfilaments</term> are the narrowest. They function in cellular movement, have a diameter of about 7 nm, and are made of two intertwined strands of a globular protein called actin (<link target-id="fig-ch04-05-02" document=""/>). For this reason, microfilaments are also known as actin filaments.</para>
+<figure id="fig-ch04-05-02" class="ost-tag-lo-apbio-ch04-s05-lo01 ost-tag-lo-apbio-ch04-s05-aplo-1-15"><media id="fs-id1857136" alt="This illustration shows two actin filaments wound together. Each actin filament is composed of many actin subunits connected together to form a chain.">
+<image mime-type="image/jpg" src="../../media/Figure_04_05_02.jpg" width="275"/>
+</media>
+
+<caption>Microfilaments are made of two intertwined strands of actin.</caption></figure><para id="fs-id1773165">Actin is powered by ATP to assemble its filamentous form, which serves as a track for the movement of a motor protein called myosin. This enables actin to engage in cellular events requiring motion, such as cell division in eukaryotic cells and cytoplasmic streaming, which is the circular movement of the cell cytoplasm in plant cells. Actin and myosin are plentiful in muscle cells. When your actin and myosin filaments slide past each other, your muscles contract.</para><para id="fs-id1973921">Microfilaments also provide some rigidity and shape to the cell. They can depolymerize (disassemble) and reform quickly, thus enabling a cell to change its shape and move. White blood cells (your body’s infection-fighting cells) make good use of this ability. They can move to the site of an infection and phagocytize the pathogen.</para>
+<note id="fs-id1685480" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch04-s05-lo01"><label>Link to Learning</label>
+<para id="fs-id1364358">To see an example of a white blood cell in action, click <link window="new" url="http://openstax.org/l/chasing_bcteria">here</link> and watch a short time-lapse video of the cell capturing two bacteria. It engulfs one and then moves on to the other.</para>
+<exercise id="fs-id1167067149886" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067076022">
+<para id="fs-id1167066792497">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex053"/>
+</para>
+</problem>
+</exercise>
+
+
+</note></section>
+<section id="fs-id1361987" class="ost-tag-lo-apbio-ch04-s05-lo01 ost-tag-lo-apbio-ch04-s05-aplo-1-15 ost-get-exercise">
+<title>Intermediate Filaments</title>
+<para id="fs-id1358496">Intermediate filaments are made of several strands of fibrous proteins that are wound together (<link target-id="fig-ch04-05-03" document=""/>). These elements of the cytoskeleton get their name from the fact that their diameter, 8 to 10 nm, is between those of microfilaments and microtubules.</para>
+<figure id="fig-ch04-05-03"><media id="fs-id1743523" alt="This illustration shows 10 intermediate filament fibers bundled together.">
+<image mime-type="image/jpg" src="../../media/Figure_04_05_03.jpg" width="350"/>
+</media>
+
+<caption>Intermediate filaments consist of several intertwined strands of fibrous proteins.</caption></figure><para id="fs-id1561464"><term>Intermediate filaments</term> have no role in cell movement. Their function is purely structural. They bear tension, thus maintaining the shape of the cell, and anchor the nucleus and other organelles in place. <link target-id="fig-ch04-05-01" document=""/> shows how intermediate filaments create a supportive scaffolding inside the cell.</para><para id="fs-id1232860">The intermediate filaments are the most diverse group of cytoskeletal elements. Several types of fibrous proteins are found in the intermediate filaments. You are probably most familiar with keratin, the fibrous protein that strengthens your hair, nails, and the epidermis of the skin.</para>
+</section>
+<section id="fs-id2378542" class="ost-tag-lo-apbio-ch04-s05-lo01 ost-tag-lo-apbio-ch04-s05-aplo-1-15 ost-get-exercise">
+<title>Microtubules</title>
+<para id="fs-id1430610">As their name implies, microtubules are small hollow tubes. The walls of the microtubule are made of polymerized dimers of α-tubulin and β-tubulin, two globular proteins (<link target-id="fig-ch04-05-04" document=""/>). With a diameter of about 25 nm, <term>microtubules</term> are the widest components of the cytoskeleton. They help the cell resist compression, provide a track along which vesicles move through the cell, and pull replicated chromosomes to opposite ends of a dividing cell. Like microfilaments, microtubules can disassemble and reform quickly.</para><figure id="fig-ch04-05-04" class="ost-tag-lo-apbio-ch04-s05-lo01 ost-tag-lo-apbio-ch04-s05-aplo-1-15"><media id="fs-id983244" alt="The left part of this figure is a molecular model of 13 polymerized dimers of alpha- and beta-tubulin joined together to form a hollow tube. The right part of this image shows the tubulin structure as a ring of spheres connected together.">
+<image mime-type="image/jpg" src="../../media/Figure_04_05_04ab.jpg" width="500"/>
+</media>
+
+<caption>Microtubules are hollow. Their walls consist of 13 polymerized dimers of α-tubulin and β-tubulin (right image). The left image shows the molecular structure of the tube.</caption></figure><para id="fs-id1773065">Microtubules are also the structural elements of flagella, cilia, and centrioles (the latter are the two perpendicular bodies of the centrosome). In fact, in animal cells, the centrosome is the microtubule-organizing center. In eukaryotic cells, flagella and cilia are quite different structurally from their counterparts in prokaryotes, as discussed below.</para>
+<section id="fs-id1454036" class="ost-tag-lo-apbio-ch04-s05-lo01 ost-tag-lo-apbio-ch04-s05-aplo-1-15 ost-get-exercise">
+<title>Flagella and Cilia</title>
+<para id="fs-id1953693">To refresh your memory, <term>flagella</term> (singular = flagellum) are long, hair-like structures that extend from the plasma membrane and are used to move an entire cell (for example, sperm, <emphasis effect="italics">Euglena</emphasis>). When present, the cell has just one flagellum or a few flagella. When <term>cilia</term> (singular = cilium) are present, however, many of them extend along the entire surface of the plasma membrane. They are short, hair-like structures that are used to move entire cells (such as paramecia) or substances along the outer surface of the cell (for example, the cilia of cells lining the Fallopian tubes that move the ovum toward the uterus, or cilia lining the cells of the respiratory tract that trap particulate matter and move it toward your nostrils.)</para>
+<para id="fs-id1886246">Despite their differences in length and number, flagella and cilia share a common structural arrangement of microtubules called a “9 + 2 array.” This is an appropriate name because a single flagellum or cilium is made of a ring of nine microtubule doublets, surrounding a single microtubule doublet in the center (<link target-id="fig-ch04-05-05" document=""/>).</para>
+<figure id="fig-ch04-05-05" class="ost-tag-lo-apbio-ch04-s05-lo01 ost-tag-lo-apbio-ch04-s05-aplo-1-15"><media id="fs-id1886153" alt="This transmission electron micrograph shows a cross section of nine microtubule doublets that form a hollow tube. Another microtubule doublet sits in the center of the tube.">
+<image mime-type="image/jpg" src="../../media/Figure_04_05_05.jpg" width="275"/>
+</media>
+
+<caption>This transmission electron micrograph of two flagella shows the 9 + 2 array of microtubules: nine microtubule doublets surround a single microtubule doublet. (credit: modification of work by Dartmouth Electron Microscope Facility, Dartmouth College; scale-bar data from Matt Russell)</caption></figure>
+
+<note id="fs-id1167067080181" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch04-s05-aplo-1-15">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167063779271" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch04-s05-aplo-1-15"><label/>
+<title>Think About It</title>
+<exercise id="fs-id1167067191118" class="unnumbered"><label/>
+<problem id="fs-id1167066984765">
+<para id="fs-id1167067104869">The ribosomes in bacterial cells and in human cells are made up of proteins and ribosomal RNA, suggesting that both kinds of cells share a common ancestor cell type. What are examples of other features of cells that provide evidence for common ancestry?</para>
+</problem></exercise>
+</note>
+</note>
+
+<note id="fs-id1167066948152" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167066861539">This question is an application of Learning Objectives 1.15 and Science Practice 7.2 because shared conserved core biological processes and features support the concept of common ancestry for all organisms on Earth.</para>
+<note id="fs-id1167063770346"><label>Possible answer:</label>
+<para id="fs-id1167066784094">In both prokaryotes and eukaryotes, DNA is the hereditary material and has the same structure.</para>
+<para id="fs-id1167063459144">The cytosol is made of an aqueous gel. The membrane is a fluid bilayer in which proteins are embedded. Do not use the flagellum as an example. It is convergent evolution.</para></note>
+</note>
+
+
+
+<para id="fs-id1953479">You have now completed a broad survey of the components of prokaryotic and eukaryotic cells. For a summary of cellular components in prokaryotic and eukaryotic cells, see  <link target-id="tab-ch04-05-01" document=""/>.</para>
+
+        <table id="tab-ch04-05-01" class="ost-tag-lo-apbio-ch04-s05-lo01 ost-tag-lo-apbio-ch04-s05-aplo-1-15 top-titled" summary="This table compares the features of prokaryotic and eukaryotic cells, highlighting their different levels of functioning."><tgroup cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5" align="left">Components of Prokaryotic and Eukaryotic Cells</entry>
+</row>
+<row>
+<entry>Cell Component</entry>
+<entry>Function</entry>
+<entry>Present in Prokaryotes?</entry>
+<entry>Present in Animal Cells?</entry>
+<entry>Present in Plant Cells?</entry>
+</row>
+</thead>
+
+<tbody>
+<row>
+<entry>Plasma membrane</entry>
+<entry>Separates cell from external environment; controls passage of organic molecules, ions, water, oxygen, and wastes into and out of cell</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Cytoplasm</entry>
+<entry>Provides turgor pressure to plant cells as fluid inside the central vacuole; site of many metabolic reactions; medium in which organelles are found</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Nucleolus</entry>
+<entry> Darkened area within the nucleus where ribosomal subunits are synthesized.</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Nucleus</entry>
+<entry>Cell organelle that houses DNA and directs synthesis of ribosomes and proteins</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Ribosomes</entry>
+<entry>Protein synthesis</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Mitochondria</entry>
+<entry>ATP production/cellular respiration</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Peroxisomes</entry>
+<entry>Oxidizes and thus breaks down fatty acids and amino acids, and detoxifies poisons</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Vesicles and vacuoles</entry>
+<entry>Storage and transport; digestive function in plant cells</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Centrosome</entry>
+<entry>Unspecified role in cell division in animal cells; source of microtubules in animal cells</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry>Lysosomes</entry>
+<entry>Digestion of macromolecules; recycling of worn-out organelles</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry>Cell wall</entry>
+<entry>Protection, structural support and maintenance of cell shape</entry>
+<entry>Yes, primarily peptidoglycan</entry>
+<entry>No</entry>
+<entry>Yes, primarily cellulose</entry>
+</row>
+<row>
+<entry>Chloroplasts</entry>
+<entry>Photosynthesis</entry>
+<entry>No</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Endoplasmic reticulum</entry>
+<entry>Modifies proteins and synthesizes lipids</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Golgi apparatus</entry>
+<entry>Modifies, sorts, tags, packages, and distributes lipids and proteins</entry>
+<entry>No</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Cytoskeleton</entry>
+<entry>Maintains cell’s shape, secures organelles in specific positions, allows cytoplasm and vesicles to move within cell, and enables unicellular organisms to move independently</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Flagella</entry>
+<entry>Cellular locomotion</entry>
+<entry>Some</entry>
+<entry>Some</entry>
+<entry>No, except for some plant sperm cells.</entry>
+</row>
+<row>
+<entry>Cilia</entry>
+<entry>Cellular locomotion, movement of particles along extracellular surface of plasma membrane, and filtration</entry>
+<entry>Some</entry>
+<entry>Some</entry>
+<entry>No</entry>
+</row>
+</tbody>
+    </tgroup>
+    </table></section>
+</section>
+
+<section id="fs-id1758798" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id2005174">The cytoskeleton has three different types of protein elements. From narrowest to widest, they are the microfilaments (actin filaments), intermediate filaments, and microtubules. Microfilaments are often associated with myosin. They provide rigidity and shape to the cell and facilitate cellular movements. Intermediate filaments bear tension and anchor the nucleus and other organelles in place. Microtubules help the cell resist compression, serve as tracks for motor proteins that move vesicles through the cell, and pull replicated chromosomes to opposite ends of a dividing cell. They are also the structural element of centrioles, flagella, and cilia.</para>
+</section>
+
+
+<section id="fs-id1167066999521" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167066830117" class="os-exercise">
+<problem id="fs-id1167067210190">
+<para id="fs-id1167066993041">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex054"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067275482" class="os-exercise">
+<problem id="fs-id1167067137787">
+<para id="fs-id1167066994216">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex055"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166850012051" class="os-exercise">
+<problem id="eip-id1166849409356">
+<para id="eip-id1166849296292">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ot036"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066854737" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167067037383" class="os-exercise">
+<problem id="fs-id1167063837572">
+<para id="fs-id1167066966476">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex056"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067070684" class="os-exercise">
+<problem id="fs-id1167066879364">
+<para id="fs-id1167066838890">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex057"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166849351106" class="os-exercise">
+<problem id="eip-id1166849840626">
+<para id="eip-id1166849663371">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ot038"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167067232690" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167063518992" class="os-exercise">
+<problem id="fs-id1167066858820">
+<para id="fs-id1167067145411">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex058"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066811426" class="os-exercise">
+<problem id="fs-id1167066966478">
+<para id="fs-id1167067066771">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex059"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+ </content>
+<glossary>
+<definition id="fs-id2472145"><term>cilium</term> <meaning id="fs-id1704493">(plural = cilia) short, hair-like structure that extends from the plasma membrane in large numbers and is used to move an entire cell or move substances along the outer surface of the cell</meaning></definition>
+<definition id="fs-id1526841"><term>cytoskeleton</term> <meaning id="fs-id1774415">network of protein fibers that collectively maintain the shape of the cell, secure some organelles in specific positions, allow cytoplasm and vesicles to move within the cell, and enable unicellular organisms to move independently</meaning></definition>
+<definition id="fs-id1448192"><term>flagellum</term> <meaning id="fs-id1973989">(plural = flagella) long, hair-like structure that extends from the plasma membrane and is used to move the cell</meaning></definition>
+<definition id="fs-id1904619"><term>intermediate filament</term> <meaning id="fs-id1883769">cytoskeletal component, composed of several intertwined strands of fibrous protein, that bears tension, supports cell-cell junctions, and anchors cells to extracellular structures</meaning></definition>
+<definition id="fs-id1805178"><term>microfilament</term> <meaning id="fs-id1968369">narrowest element of the cytoskeleton system; it provides rigidity and shape to the cell and enables cellular movements</meaning></definition>
+<definition id="fs-id2005388"><term>microtubule</term> <meaning id="fs-id1699781">widest element of the cytoskeleton system; it helps the cell resist compression, provides a track along which vesicles move through the cell, pulls replicated chromosomes to opposite ends of a dividing cell, and is the structural element of centrioles, flagella, and cilia</meaning></definition>
+</glossary>
+</document>

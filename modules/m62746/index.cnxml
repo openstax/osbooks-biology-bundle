@@ -1,0 +1,220 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Connections between Cells and Cellular Activities</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62746</md:content-id>
+  <md:title>Connections between Cells and Cellular Activities</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the extracellular matrix</item>
+<item>List examples of the ways that plant cells and animal cells communicate with adjacent cells</item>
+<item>Summarize the roles of tight junctions, desmosomes, gap junctions, and plasmodesmata</item>
+</list></md:abstract>
+  <md:uuid>12e4f256-5ebd-42f9-a6cc-926edb9d4ae4</md:uuid>
+</metadata>
+
+<content>
+
+<section id="fs-id1167065034803" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167066142424">In this section, you will explore the following questions:</para>
+<list id="fs-id1167065856707">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch04-s06-lo01">What are the components of the extracellular matrix?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch04-s06-lo02">What are the roles of tight junctions, gap junctions, and plasmodesmata in allowing cells to exchange materials with the environment and communicate with other cells?</item>
+</list>
+</section>
+
+<section id="fs-id1167065850073" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167065888573">With the exception of gap junctions between animal cells and plasmodesmata between plant cells that facilitate the exchange of substances, the information presented in Section 4.6| Connections between Cells and Cellular Activities is not required for AP<sup>®</sup>. Concepts about cell communication and signaling processes that are required for AP<sup>®</sup>, including the features of cells that make communication possible, are covered in Chapter 9.</para></section>
+
+<note id="fs-id1167066039900" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167066170175">Review the role of the extracellular matrix by comparing it to a scaffold outside of a building that buttresses and supports the main structure. It is an extension of the cell in animal tissues and provides essential functions in mechanical support, cell-cell communication, wound healing, and organism development.</para>
+<para id="fs-id1167064914616">Cell junctions can be compared to the piecing together of fabric. Pieces of fabric are tightly joined by a seam. Tight junctions similarly “glue” cells together. Rivets and snaps bind fabric tightly in specific spots as desmosomes form close associations in specific areas. Gap junctions are almost like pins and allow trafficking between the cytoplasm of adjacent cells.</para>
+<note id="fs-id1167064981395" class="ost-misconception">
+<label>Misconception Alert</label>
+<para id="fs-id1167065881513">Cells in tissues are usually inadequately visualized as puzzle pieces that interlock but that are functionally independent. Dispel this notion by stressing the importance of cell junctions. In multicellular organisms, cells interact with their neighboring cells.</para>
+</note>
+</note>
+
+
+
+<para id="fs-id865940">You already know that a group of similar cells working together is called a tissue. As you might expect, if cells are to work together, they must communicate with each other, just as you need to communicate with others if you work on a group project. Let’s take a look at how cells communicate with each other.</para>
+<para id="fs-id1166851039386">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 4.5][APLO 3.32][APLO 1.16][APLO 3.33][APLO 1.14][APLO 2.7][APLO 4.4]</para><section id="fs-id1358496" class="ost-tag-lo-apbio-ch04-s06-lo01 ost-get-exercise">
+<title>Extracellular Matrix of Animal Cells</title>
+<para id="fs-id1322851">Most animal cells release materials into the extracellular space. The primary components of these materials are proteins, and the most abundant protein is collagen. Collagen fibers are interwoven with carbohydrate-containing protein molecules called proteoglycans. Collectively, these materials are called the <term>extracellular matrix</term> (<link target-id="fig-ch04-06-01" document=""/>). Not only does the extracellular matrix hold the cells together to form a tissue, but it also allows the cells within the tissue to communicate with each other. How can this happen?</para>
+<figure id="fig-ch04-06-01" class="ost-tag-lo-apbio-ch04-s06-lo01"><media id="fs-id1488943" alt="This illustration shows the plasma membrane. Embedded in the plasma membrane are integral membrane proteins called integrins. On the exterior of the cell is a vast network of collagen fibers. The fibers are attached to the integrins via a protein called fibronectin. Proteoglycan complexes also extend from the plasma membrane to the extracellular matrix. A close-up view shows that each proteoglycan complex is composed of a polysaccharide core. Proteins branch from this core, and carbohydrates branch from the proteins. The inside of the cytoplasmic membrane is lined with microfilaments of the cytoskeleton.">
+<image mime-type="image/jpg" src="../../media/Figure_04_06_01.jpg" width="300"/>
+</media>
+
+<caption>The extracellular matrix consists of a network of proteins and carbohydrates.</caption></figure><para id="fs-id1491867">Cells have protein receptors on the extracellular surfaces of their plasma membranes. When a molecule within the matrix binds to the receptor, it changes the molecular structure of the receptor. The receptor, in turn, changes the conformation of the microfilaments positioned just inside the plasma membrane. These conformational changes induce chemical signals inside the cell that reach the nucleus and turn “on” or “off” the transcription of specific sections of DNA, which affects the production of associated proteins, thus changing the activities within the cell.</para>
+<para id="fs-id1671786">Blood clotting provides an example of the role of the extracellular matrix in cell communication. When the cells lining a blood vessel are damaged, they display a protein receptor called tissue factor. When tissue factor binds with another factor in the extracellular matrix, it causes platelets to adhere to the wall of the damaged blood vessel, stimulates the adjacent smooth muscle cells in the blood vessel to contract (thus constricting the blood vessel), and initiates a series of steps that stimulate the platelets to produce clotting factors.</para>
+</section>
+<section id="fs-id1741467" class="ost-tag-lo-apbio-ch04-s06-lo02 ost-get-exercise">
+<title>Intercellular Junctions</title>
+<para id="fs-id1209067">Cells can also communicate with each other via direct contact, referred to as intercellular junctions. There are some differences in the ways that plant and animal cells do this. Plasmodesmata are junctions between plant cells, whereas animal cell contacts include tight junctions, gap junctions, and desmosomes.</para>
+<section id="fs-id1227229" class="ost-tag-lo-apbio-ch04-s06-lo02 ost-get-exercise">
+<title>Plasmodesmata</title>
+    <para id="fs-id1753183">In general, long stretches of the plasma membranes of neighboring plant cells cannot touch one another because they are separated by the cell wall that surrounds each cell (<link target-id="fig-ch04-03-01" document="m62742" class="has-default-text"/><emphasis effect="bold">b</emphasis>). How then, can a plant transfer water and other soil nutrients from its roots, through its stems, and to its leaves? Such transport uses the vascular tissues (xylem and phloem) primarily. There also exist structural modifications called <term>plasmodesmata</term> (singular = plasmodesma), numerous channels that pass between cell walls of adjacent plant cells, connect their cytoplasm, and enable materials to be transported from cell to cell, and thus throughout the plant (<link target-id="fig-ch04-06-02" document=""/>).</para><figure id="fig-ch04-06-02" class="ost-tag-lo-apbio-ch04-s06-lo02"><media id="fs-id1704487" alt="This illustration shows two plant cells side-by-side. A gap in the cell wall, a plasmodesma, allows fluid and small molecules to pass from the cytoplasm of one cell to the cytoplasm of the other.">
+<image mime-type="image/jpg" src="../../media/Figure_04_06_02.jpg" width="300"/>
+</media>
+
+<caption>A plasmodesma is a channel between the cell walls of two adjacent plant cells. Plasmodesmata allow materials to pass from the cytoplasm of one plant cell to the cytoplasm of an adjacent cell.</caption></figure></section>
+<section id="fs-id1744740" class="ost-tag-lo-apbio-ch04-s06-lo02 ost-get-exercise">
+<title>Tight Junctions</title>
+<para id="fs-id1754058">A <term>tight junction</term> is a watertight seal between two adjacent animal cells (<link target-id="fig-ch04-06-03" document=""/>). The cells are held tightly against each other by proteins (predominantly two proteins called claudins and occludins).</para><figure id="fig-ch04-06-03" class="ost-tag-lo-apbio-ch04-s06-lo02"><media id="fs-id1672751" alt="This illustration shows two cell membranes joined together by a matrix of tight junctions.">
+<image mime-type="image/jpg" src="../../media/Figure_04_06_03.jpg" width="300"/>
+</media>
+
+<caption>Tight junctions form watertight connections between adjacent animal cells. Proteins create tight junction adherence. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id1616827">This tight adherence prevents materials from leaking between the cells; tight junctions are typically found in epithelial tissues that line internal organs and cavities, and comprise most of the skin. For example, the tight junctions of the epithelial cells lining your urinary bladder prevent urine from leaking out into the extracellular space.</para>
+</section>
+<section id="fs-id1443008" class="ost-tag-lo-apbio-ch04-s06-lo02 ost-get-exercise">
+<title>Desmosomes</title>
+<para id="fs-id1209961">Also found only in animal cells are <term>desmosomes</term>, which act like spot welds between adjacent epithelial cells (<link target-id="fig-ch04-06-04" document=""/>). Short proteins called cadherins in the plasma membrane connect to intermediate filaments to create desmosomes. The cadherins join two adjacent cells together and maintain the cells in a sheet-like formation in organs and tissues that stretch, like the skin, heart, and muscles.</para>
+<figure id="fig-ch04-06-04" class="ost-tag-lo-apbio-ch04-s06-lo02"><media id="fs-id1662170" alt="This illustration shows two cells fused together by a desmosome. Cadherins extend from each cell and join the two cells together. Intermediate filaments connect to cadherins on the inside of the cell.">
+<image mime-type="image/jpg" src="../../media/Figure_04_06_04.jpg" width="300"/>
+</media>
+
+<caption>A desmosome forms a very strong spot weld between cells. It is created by the linkage of cadherins and intermediate filaments. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure></section>
+<section id="fs-id1676239" class="ost-get-exercise">
+<title>Gap Junctions</title>
+<para id="fs-id1688936"><term>Gap junctions</term> in animal cells are like plasmodesmata in plant cells in that they are channels between adjacent cells that allow for the transport of ions, nutrients, and other substances that enable cells to communicate (<link target-id="fig-ch04-06-05" document=""/>). Structurally, however, gap junctions and plasmodesmata differ.</para>
+<figure id="fig-ch04-06-05" class="ost-tag-lo-apbio-ch04-s06-lo02"><media id="fs-id1603907" alt="This illustration shows two cells joined together with protein pores called gap junctions that allow water and small molecules to pass through.">
+<image mime-type="image/jpg" src="../../media/Figure_04_06_05.jpg" width="300"/>
+</media>
+
+<caption>A gap junction is a protein-lined pore that allows water and small molecules to pass between adjacent animal cells. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id801287">Gap junctions develop when a set of six proteins (called connexins) in the plasma membrane arrange themselves in an elongated donut-like configuration called a connexon. When the pores (“doughnut holes”) of connexons in adjacent animal cells align, a channel between the two cells forms. Gap junctions are particularly important in cardiac muscle: The electrical signal for the muscle to contract is passed efficiently through gap junctions, allowing the heart muscle cells to contract in tandem.</para>
+<note id="fs-id1870043" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch04-s06-lo02">
+
+<para id="fs-id1961754">To conduct a virtual microscopy lab and review the parts of a cell, work through the steps of this <link window="new" url="http://openstax.org/l/microscopy_lab">interactive assignment</link>.</para>
+<exercise id="fs-id1167065842598" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167064907871">
+<para id="fs-id1167065739658">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex060"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+</section>
+
+<section id="fs-id1886153" class="summary">
+<title>Section Summary</title><para id="fs-id1429783">Animal cells communicate via their extracellular matrices and are connected to each other via tight junctions, desmosomes, and gap junctions. Plant cells are connected and communicate with each other via plasmodesmata.</para>
+<para id="fs-id1969992">When protein receptors on the surface of the plasma membrane of an animal cell bind to a substance in the extracellular matrix, a chain of reactions begins that changes activities taking place within the cell. Plasmodesmata are channels between adjacent plant cells, while gap junctions are channels between adjacent animal cells. However, their structures are quite different. A tight junction is a watertight seal between two adjacent cells, while a desmosome acts like a spot weld.</para>
+</section>
+
+
+<section id="fs-id1167065801387" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167064881605" class="os-exercise">
+<problem id="fs-id1167066014859">
+<para id="fs-id1167065725280">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex061"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065961612" class="os-exercise">
+<problem id="fs-id1167065919252">
+<para id="fs-id1167065877369">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex062"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064904546" class="os-exercise">
+<problem id="fs-id1167065938651">
+<para id="fs-id1167065791210">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex063"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066189113" class="os-exercise">
+<problem id="fs-id1167065875943">
+<para id="fs-id1167065058513">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex064"/>
+</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-id1167064769450" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167064691984" class="os-exercise">
+<problem id="fs-id1167065855829">
+<para id="fs-id1167065898830">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex065"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065920087" class="os-exercise">
+<problem id="fs-id1167065810530">
+<para id="fs-id1167065828686">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ex066"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166849308047" class="os-exercise">
+<problem id="eip-id1166849879491">
+<para id="eip-id1166849803620">
+<link class="os-embed" url="#ost/api/ex/apbio-ch04-ot043"/>
+</para>
+</problem>
+</exercise></section>
+<section id="fs-id1164565517765" class="ost-chapter-review ost-reading-discard science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164565441662">
+<problem id="fs-id1164566965226">
+<para id="fs-id1164567167657">Louis Sullivan described architectural design as “form follows function.” For example, a window is designed to add light to a space without heat transport. A door is designed to allow access to a space. Windows and doors have different functions and so take different forms. Biological systems are not designed, but selected from random trials by interaction with the environment. Apply Sullivan’s principle to <emphasis effect="bold">explain</emphasis> the relationship of function and form for each pair of cellular structures below.</para><list id="fs-id1164567559766" list-type="enumerated" number-style="lower-alpha"><item>Plasma membrane and endoplasmic reticulum</item>
+<item>Mitochondrion and chloroplast</item>
+<item>Rough endoplasmic reticulum and smooth endoplasmic reticulum</item>
+<item>Flagella and cilia</item>
+<item>Muscle cells and secretory cells</item>
+</list></problem>
+</exercise>
+<exercise id="fs-id1164565419326">
+<problem id="fs-id1164566999470">
+<para id="fs-id1164564440073">Complex multicellular organisms share nutrients and resources, and their cells communicate with each other. A society may encourage cooperation among individuals while discouraging selfish behavior to increase the overall success of the social system, sometimes at the expense of the individual. Scientific questions are testable and often attempt to reveal a mechanism responsible for a phenomenon. <emphasis effect="bold">Pose</emphasis> three <emphasis effect="bold">questions</emphasis> that can be used to examine the ways in which a social system regulates itself. Be prepared to share these in small group discussions with your classmates about the similarities between these regulatory strategies and the analogous roles of plasmodesmata and gap junctions in cell communication.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164565547386">
+<problem id="fs-id1164567867847">
+<para id="fs-id1164567611768">Plasmodesmata in vascular plants and gap junctions in animals are examples of specialized features of cells. Mechanisms by which transport occurs between cells evolved independently within several eukaryotic clades. <emphasis effect="bold">Explain</emphasis>, in terms of cellular cooperation, the selective advantages provided by such structures.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164567918934">
+<problem id="fs-id1164565534877">
+<para id="fs-id1164567191062">Mammalian red blood cells have no nuclei, must originate in other tissue systems, are relatively long-lived, are small with shapes that actively respond to their environment, and are metabolic anaerobes. Other vertebrates have red blood cells that are usually nucleated and are often relatively large, aerobic, self-replicating, and short-lived.</para>
+<para id="fs-id1164565469992">To connect these facts to biology, questions need to be asked. The questions that you pose will depend on the path your class is taking through the curriculum. Begin by summarizing what you know:</para>
+<list id="fs-id1164565362462">
+<item>What are the functions of a eukaryotic cell nucleus?</item>
+<item>What is the approximate average size of a human red blood cell?</item>
+<item>What is the range of blood vessel diameters in adult humans?</item>
+<item>What is the range of red blood cell size in vertebrates?</item>
+<item>What is the average lifetime of a human red blood cell?</item>
+<item>How can you show how cell production is stimulated using examples from particular systems?</item>
+<item>How is cell death controlled?</item>
+<item>What biochemical cycles are associated with anaerobic and aerobic respiration, and what are the important differences between these?</item>
+<item>What process is involved in the transport of oxygen and carbon dioxide into and out of red blood cells?</item>
+<item>What behaviors and dynamic homeostatic processes might be associated with the properties of red blood cells in mammalian and nonmammalian organisms?</item>
+<item>What do you know about the evolutionary divergences among vertebrates?</item>
+</list>
+<para id="fs-id1164567238844">Your summary has revealed some similarities and differences among vertebrate erythrocyte and circulatory system structures. Scientific questions are testable. They can be addressed by making observations and measurements and analyzing the resulting data.</para>
+<list id="fs-id1164567182779" list-type="enumerated" number-style="upper-alpha"><item><emphasis effect="bold">Pose</emphasis> three scientific <emphasis effect="bold">questions</emphasis> that arise from your summaries of what you know about erythrocytes and capillary size. </item>
+<item>For each question you pose, <emphasis effect="bold">predict</emphasis> what you believe would be the answer and <emphasis effect="bold">provide reasoning</emphasis> for your prediction.</item>
+<item><emphasis effect="bold">Describe</emphasis> an approach you think can be used to obtain data to test your prediction.</item>
+<item>In the production of mammalian red blood cells, erythrocytes that have not yet matured and are still synthesizing heme proteins are surrounded by a macrophage. Predict the role of the macrophage in the maturation of a red blood cell.</item>
+</list></problem>
+</exercise>
+<exercise id="fs-id1164567615697">
+<problem id="fs-id1164567606475">
+<para id="fs-id1164567285287">Mitochondria have DNA that encode proteins related to the structures and functions of the organelles. The replication appears to occur continuously,  however, many questions about control of replication rate and segregation during mitosis are yet unanswered. Many diseases are caused by mitochondrial dysfunction. Mitophagy, as the name suggests, leads to the destruction of mitochondria. <emphasis effect="bold">Predict</emphasis> whether or not cellular control mechanisms involving the regulation of mitochondrial DNA by the nucleus exist. Make use of what you know about selection and homeostasis as they apply to both the organism and to the organelle.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1699690"><term>desmosome</term> <meaning id="fs-id1769608">linkage between adjacent epithelial cells that forms when cadherins in the plasma membrane attach to intermediate filaments</meaning></definition>
+<definition id="fs-id1994591"><term>extracellular matrix</term> <meaning id="fs-id1967794">material (primarily collagen, glycoproteins, and proteoglycans) secreted from animal cells that provides mechanical protection and anchoring for the cells in the tissue</meaning></definition>
+<definition id="fs-id1615594"><term>gap junction</term> <meaning id="fs-id1857226">channel between two adjacent animal cells that allows ions, nutrients, and low molecular weight substances to pass between cells, enabling the cells to communicate</meaning></definition>
+<definition id="fs-id1758285"><term>plasmodesma</term> <meaning id="fs-id1652201">(plural = plasmodesmata) channel that passes between the cell walls of adjacent plant cells, connects their cytoplasm, and allows materials to be transported from cell to cell</meaning></definition>
+<definition id="fs-id1709557"><term>tight junction</term> <meaning id="fs-id2219685">firm seal between two adjacent animal cells created by protein adherence</meaning></definition>
+</glossary>
+</document>

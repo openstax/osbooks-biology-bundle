@@ -1,0 +1,310 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Nitrogenous Wastes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63003</md:content-id>
+  <md:title>Nitrogenous Wastes</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Compare and contrast the way in which aquatic animals and terrestrial animals can eliminate toxic ammonia from their systems</item>
+<item>Compare the major byproduct of ammonia metabolism in vertebrate animals to that of birds, insects, and reptiles</item>
+</list></md:abstract>
+  <md:uuid>e5402bc1-d713-47b5-b1ce-b07b7d166f3b</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167062939788" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167064581278">In this section, you will explore the following questions:</para>
+<list id="fs-id1167064818413">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch32-s04-lo01">What are the differences in the ways aquatic animals and terrestrial animals can eliminate toxic ammonia from their systems?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch32-s04-lo02">What are the major byproducts of ammonia metabolism in mammals compared to fish, reptiles, birds, and insects?</item>
+</list>
+</section>
+<section id="fs-id1167064686246" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167062468539">Much information in this section is outside the scope for AP<sup>®</sup>. However, the concepts provide an opportunity to apply concepts explored in previous chapters, including chemistry. Of the four macromolecules in biological systems, both proteins and nucleic acids contain nitrogen. During the breakdown (catabolism) of nitrogen-containing macromolecules, carbon, hydrogen, and oxygen are extracted and stored in the form of carbohydrates and fats. However, excess nitrogen must be excreted from the body because nitrogenous wastes tend to form toxic <emphasis>ammonia</emphasis>, which raises the pH of body fluids and disrupts homeostasis. The formation of toxic ammonia requires energy in the form of ATP and large quantities of water to dilute it out of a biological system. Aquatic animals, such as fishes, can release ammonia directly into the environment. Animals that excrete ammonia are said to be <emphasis>ammonotelic</emphasis>. Terrestrial animals, including mammals, must detoxify ammonia by converting it into relatively nontoxic forms such as uric acid or urea. Animals that secrete urea as the primary nitrogenous waste material are called <emphasis>ureotelic</emphasis> animals. Birds and reptiles excrete uric acid, a water-insoluble form of nitrogenous waste, thus reducing water loss. From an evolutionary standpoint, life likely started in an aquatic environment, so it not surprising that biochemical pathways like the conversion of ammonia to urea typical in mammals evolved to adapt to terrestrial conditions; more arid conditions probably led to the evolution of the uric acid pathway as a means of conserving water.</para>
+<para id="fs-id1167064908051" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167064927186" summary="Table with two columns and three rows. First left cell reads: Essential Knowledge. First right cell reads: 2.D.2 Homeostatic mechanisms reflect both common ancestry and divergence due to adaptation in different environments. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 2.25 The student can construct explanations based on scientific evidence that homeostatic mechanisms reflect continuity due to common ancestry and/or divergence due to adaptation in different environments." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.D</emphasis></entry>
+<entry class="ost-standards-description">Growth and dynamic homeostasis of a biological system are influenced by changes in the system’s environment.</entry></row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.2 </emphasis></span>
+<span class="ost-standards-description">Homeostatic mechanisms reflect both common ancestry and divergence due to adaptation in different environments.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch32-s04-aplo-2-25">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.25 </emphasis></span>
+<span class="ost-standards-description">The student can construct explanations based on scientific evidence that homeostatic mechanisms reflect continuity due to common ancestry and/or divergence due to adaptation in different environments.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.2 </emphasis></span>
+<span class="ost-standards-description">Homeostatic mechanisms reflect both common ancestry and divergence due to adaptation in different environments.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.1 </emphasis></span>
+<span class="ost-standards-description">The student can analyze data to identify patterns or relationships.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch32-s04-aplo-2-26">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.26 </emphasis></span>
+<span class="ost-standards-description">The student is able to analyze data to identify phylogenetic patterns or relationships showing that homeostatic mechanisms reflect both continuity due to common ancestry and change due to evolution in different environments.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.D.2 </emphasis></span>
+<span class="ost-standards-description">Homeostatic mechanisms reflect both common ancestry and divergence due to adaptation in different environments.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
+<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch32-s04-aplo-2-27">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>2.27 </emphasis></span>
+<span class="ost-standards-description">The student is able to connect differences in the environment with the evolution of homeostatic mechanisms.</span>
+</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table></section>
+<section id="fs-idp85160304">
+<title>Nitrogenous Waste in Terrestrial Animals: The Urea Cycle</title>
+<para id="fs-idp71399856">The <emphasis>urea cycle</emphasis> is the primary mechanism by which mammals convert ammonia to urea. Urea is made in the liver and excreted in urine. The overall chemical reaction by which ammonia is converted to urea is 2 NH<sub>3</sub> (ammonia) + CO<sub>2</sub> + 3 ATP + H<sub>2</sub>O → H<sub>2</sub>N-CO-NH<sub>2</sub> (urea) + 2 ADP + 4 P<sub>i</sub> + AMP.
+</para><para id="fs-idp160881968">The urea cycle utilizes five intermediate steps, catalyzed by five different enzymes, to convert ammonia to urea, as shown in <link target-id="fig-ch41_04_01" document=""/>. The amino acid L-ornithine gets converted into different intermediates before being regenerated at the end of the urea cycle. Hence, the urea cycle is also referred to as the ornithine cycle. The enzyme ornithine transcarbamylase catalyzes a key step in the urea cycle and its deficiency can lead to accumulation of toxic levels of ammonia in the body. The first two reactions occur in the mitochondria and the last three reactions occur in the cytosol. Urea concentration in the blood, called <emphasis>blood urea nitrogen</emphasis> or BUN, is used as an indicator of kidney function.</para>
+<figure id="fig-ch41_04_01" class="ost-tag-lo-apbio-ch32-s04-lo01"><media id="fs-idp154768224" alt=" The urea cycle begins in the mitochondrion, where bicarbonate (HCO3) is combined with ammonia (NH3) to make carbamoyl phosphate. Two ATP are used in the process. Ornithine transcarbamylase adds the carbamoyl phosphate to a five-carbon amino acid called ornithine to make L-citrulline. L-citrulline leaves the mitochondrion, and an enzyme called arginosuccinate synthetase adds a four-carbon amino acid called L-aspartate to it to make arginosuccinate. In the process, one ATP is converted to AMP and PPi. Arginosuccinate lyase removes a four-carbon fumarate molecule from the arginosuccinate, forming the six-carbon amino acid L-arginine. Arginase-1 removes a urea molecule from the L-arginine, forming ornithine in the process. Urea has a single carbon double-bonded to an oxygen and single-bonded to two ammonia groups. Ornithine enters the mitochondrion, completing the cycle.">
+<image mime-type="image/jpg" src="../../media/Figure_41_04_01.jpg" width="550"/>
+</media>
+<caption>The urea cycle converts ammonia to urea.</caption></figure>
+<note id="fs-idp132461808" class="evolution ost-tag-lo-apbio-ch32-s04-lo01 ost-assessed-feature"><title>Excretion of Nitrogenous Waste</title>
+
+<para id="fs-idp232770464">The theory of evolution proposes that life started in an aquatic environment. It is not surprising to see that biochemical pathways like the urea cycle evolved to adapt to a changing environment when terrestrial life forms evolved. Arid conditions probably led to the evolution of the uric acid pathway as a means of conserving water.</para>
+<exercise id="fs-id1167065920055" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167064872452">
+<para id="fs-id1167065845866">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex042"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<section id="fs-idp206279600">
+<title>Nitrogenous Waste in Birds and Reptiles: Uric Acid</title>
+<para id="fs-idp105475568">Birds, reptiles, and most terrestrial arthropods convert toxic ammonia to <emphasis>uric acid</emphasis> or the closely related compound guanine (guano) instead of urea. Mammals also form some uric acid during breakdown of nucleic acids. Uric acid is a compound similar to purines found in nucleic acids. It is water insoluble and tends to form a white paste or powder; it is excreted by birds, insects, and reptiles. Conversion of ammonia to uric acid requires more energy and is much more complex than conversion of ammonia to urea <link target-id="fig-ch41_04_02" document=""/>.</para>
+<figure id="fig-ch41_04_02" class="ost-tag-lo-apbio-ch32-s04-lo02"><media id="fs-idp104933088" alt="Part A shows a photo of a freshwater fish and states that many invertebrates and aquatic species excrete ammonia. The chemical structure of ammonia is NH3. Part B shows a photo of a wood rat and states that mammals, many adult amphibians, and some marine species excrete urea. The chemical structure of urea is shown. Urea has two NH2 groups attached to a central carbon. An oxygen is also double-bonded to this central carbon. Part C shows a photo of a pigeon and states that insects, land snails, birds, and many reptiles excrete uric acid. The chemical structure of uric acid is shown. Uric acid has a six-membered carbon ring attached to a five-membered ring. Each ring has two NH groups embedded in it. An oxygen is double-bonded to each ring.">
+<image mime-type="image/jpg" src="../../media/Figure_41_04_02abc.jpg" width="575"/>
+</media>
+<caption>Nitrogenous waste is excreted in different forms by different species. These include (a) ammonia, (b) urea, and (c) uric acid. (credit a: modification of work by Eric Engbretson, USFWS; credit b: modification of work by B. "Moose" Peterson, USFWS; credit c: modification of work by Dave Menke, USFWS)</caption></figure>
+<note id="fs-idp161007280" class="everyday ost-assessed-feature"><title>Gout</title>
+<para id="fs-idp722544">Mammals use uric acid crystals as an <emphasis>antioxidant</emphasis> in their cells. However, too much uric acid tends to form kidney stones and may also cause a painful condition called gout, where uric acid crystals accumulate in the joints, as illustrated in <link target-id="fig-ch41_04_03" document=""/>. Food choices that reduce the amount of nitrogenous bases in the diet help reduce the risk of gout. For example, tea, coffee, and chocolate have purine-like compounds, called xanthines, and should be avoided by people with gout and kidney stones.</para>
+<figure id="fig-ch41_04_03" class="ost-tag-lo-apbio-ch32-s04-lo01"><media id="fs-idp301273984" alt="Photo shows a toe that is swollen and red.">
+<image mime-type="image/jpg" src="../../media/Figure_41_04_03.jpg" width="350"/>
+</media>
+<caption>Gout causes the inflammation visible in this person’s left big toe joint. (credit: "Gonzosft"/Wikimedia Commons)</caption></figure>
+<exercise id="fs-id1167065871166" class="os-exercise unnumbered">
+<label/>
+<problem id="fs-id1167065747044">
+<para id="fs-id1167065838743">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex043"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<note id="fs-id1167065754966" class="ap-science-practices ost-reading-discard">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065893300" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167062367506" class="unnumbered"><label/>
+<problem id="fs-id1167066040913"><para id="fs-id1167062509489">In terms of evolution, why is the urea cycle advantageous in terrestrial organisms? Why is it reasonable to conclude that the uric acid cycle of reptiles was an adaptation to arid environments?</para></problem></exercise>
+</note>
+<note id="fs-id1167062367492" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167062325818">The questions are applications of AP<sup>®</sup> Learning Objectives 2.25 and 2.27 and Science Practices 6.2 and 7.1 because the evolution of mechanisms to eliminate nitrogenous waste product reflect both common ancestry and diverge due to adaptation to different environments.</para>
+</note>
+</note>
+<section id="fs-idp14685840" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-idp79964960">Ammonia is the waste produced by metabolism of nitrogen-containing compounds like proteins and nucleic acids. While aquatic animals can easily excrete ammonia into their watery surroundings, terrestrial animals have evolved special mechanisms to eliminate the toxic ammonia from their systems. Urea is the major byproduct of ammonia metabolism in vertebrate animals. Uric acid is the major byproduct of ammonia metabolism in birds, terrestrial arthropods, and reptiles.</para>
+    </section>
+<!--<section id="fs-idp176335792" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp143558720">
+<problem id="fs-idp111827488">
+    <para id="fs-idp116236352">BUN is ________.</para>
+<list id="fs-idp53759312" list-type="enumerated" number-style="lower-alpha">
+<item>blood urea nitrogen</item>
+<item>blood uric acid nitrogen</item>
+<item>an indicator of blood volume</item>
+<item>an indicator of blood pressure</item>
+</list>
+</problem>
+<solution id="fs-idp223796272">
+<label/>
+<para id="fs-idp6721920">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp57677728">
+<problem id="fs-idp104831296"><para id="fs-idp243554800">Human beings accumulate ________ before excreting nitrogenous waste.</para>
+ <list id="fs-idp103761232" list-type="enumerated" number-style="lower-alpha">
+     <item>nitrogen</item>
+<item>ammonia</item>
+<item>urea</item>
+<item>uric acid</item>
+ </list>
+</problem>
+    <solution id="fs-idp43720320">
+    <label/>
+        <para id="fs-idp145426304">C</para>
+    </solution>
+    </exercise>
+</section>
+<section id="fs-idm16233120" class="free-response">
+<title>Free Response</title>
+<exercise id="fs-idp207067392">
+<problem id="fs-idp86409632"><para id="fs-idp14654448">In terms of evolution, why might the urea cycle have evolved in organisms?</para></problem>
+<solution id="fs-idp41307024"><label/>
+<para id="fs-idp228432768">It is believed that the urea cycle evolved to adapt to a changing environment when terrestrial life forms evolved. Arid conditions probably led to the evolution of the uric acid pathway as a means of conserving water.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm18879616">
+<problem id="fs-idp160002032"><para id="fs-idp235312608">Compare and contrast the formation of urea and uric acid.</para></problem>
+<solution id="fs-idp26505088"><label/>
+<para id="fs-idp74294320">The urea cycle is the primary mechanism by which mammals convert ammonia to urea. Urea is made in the liver and excreted in urine. The urea cycle utilizes five intermediate steps, catalyzed by five different enzymes, to convert ammonia to urea. Birds, reptiles, and insects, on the other hand, convert toxic ammonia to uric acid instead of urea. Conversion of ammonia to uric acid requires more energy and is much more complex than conversion of ammonia to urea.</para>
+</solution>
+</exercise>
+</section>-->
+<section id="fs-id1167066102837" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065728261" class="os-exercise">
+<problem id="fs-id1167065877566">
+<para id="fs-id1167065953870">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex044"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065859960" class="os-exercise">
+<problem id="fs-id1167065023918">
+<para id="fs-id1167062555608">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex045"/>
+</para>
+</problem>
+</exercise>
+<!--<exercise id="fs-id1167065030412" class="os-exercise">
+<problem id="fs-id1167064907977">
+<para id="fs-id1167064993482">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex046"/>
+</para>
+</problem>
+</exercise>-->
+<exercise id="fs-id1167062401654" class="os-exercise">
+<problem id="fs-id1167065848228">
+<para id="fs-id1167065882644">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex047"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169282486406" class="os-exercise">
+<problem id="eip-id1169282882299">
+<para id="eip-id1169282882301">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ot031"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066096444" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167066139413" class="os-exercise">
+<problem id="fs-id1167065812186">
+<para id="fs-id1167066142600">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex048"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062571511" class="os-exercise">
+<problem id="fs-id1167066014919">
+<para id="fs-id1167065826450">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex049"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1169281370665" class="os-exercise">
+<problem id="eip-id1169283736316">
+<para id="eip-id1169284038904">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ot035"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066170751" class="ost-chapter-review ost-reading-discard ap-test-prep">
+<title>Test Prep for AP<sup>®</sup> Courses</title>
+<exercise id="fs-id1167065734330" class="os-exercise">
+<problem id="fs-id1167066038465">
+<para id="fs-id1167065792877">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex050"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065062020" class="os-exercise">
+<problem id="fs-id1167066120861">
+<para id="fs-id1167065721391">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex051"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065885995" class="os-exercise">
+<problem id="fs-id1167065941215">
+<para id="fs-id1167064930578">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex052"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065915339" class="os-exercise">
+<problem id="fs-id1167064928746">
+<para id="fs-id1167065974917">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex053"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064932052" class="os-exercise">
+<problem id="fs-id1167062373233">
+<para id="fs-id1167065770305">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex054"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167062969131" class="os-exercise">
+<problem id="fs-id1167064734012">
+<para id="fs-id1167064927687">
+<link class="os-embed" url="#ost/api/ex/apbio-ch32-ex055"/>
+</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm6655776"><term>ammonia</term> <meaning id="fs-idp162273760">compound made of one nitrogen atom and three hydrogen atoms</meaning></definition>
+<definition id="fs-idp4163232"><term>ammonotelic</term> <meaning id="fs-idp152897488">describes an animal that excretes ammonia as the primary waste material</meaning></definition>
+<definition id="fs-idp44526608"><term>antioxidant</term> <meaning id="fs-idp122338240">agent that prevents cell destruction by reactive oxygen species</meaning></definition>
+<definition id="fs-idp184719360"><term>blood urea nitrogen (BUN)</term> <meaning id="fs-idp375634032">estimate of urea in the blood and an indicator of kidney function</meaning></definition>
+<definition id="fs-idp43420256"><term>urea cycle</term> <meaning id="fs-idp155152144">pathway by which ammonia is converted to urea</meaning></definition>
+<definition id="fs-idp136284272"><term>ureotelic</term> <meaning id="fs-idp183473504">describes animals that secrete urea as the primary nitrogenous waste material</meaning></definition>
+<definition id="fs-idp163282400"><term>uric acid</term> <meaning id="fs-idp71101040">byproduct of ammonia metabolism in birds, insects, and reptiles</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,390 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Chromosomal Theory and Genetic Linkages</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62821</md:content-id>
+  <md:title>Chromosomal Theory and Genetic Linkages</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss Sutton’s Chromosomal Theory of Inheritance</item>
+<item>Describe genetic linkage</item>
+<item>Explain the process of homologous recombination, or crossing over</item>
+<item>Describe how chromosome maps are created</item>
+<item>Calculate the distances between three genes on a chromosome using a three-point test cross</item>
+</list></md:abstract>
+  <md:uuid>ee174cbd-fda4-45c7-b586-a90a41865aef</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167063527022" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167063521369">In this section, you will explore the following question:</para>
+<list id="fs-id1167067051132">
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch13-s01-lo01">What is the relationship among genetic linkage, crossing over, and genetic variation?</item>
+</list>
+</section>
+
+<section id="fs-id1167063466225" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167067031058">Proposed independently by Sutton and Boveri in the early 1900s, the Chromosomal Theory of Inheritance states that chromosomes are vehicles of genetic heredity. As we have discovered, patterns of inheritance are more complex than Mendel could have imagined. Mendel was investigating the behavior of genes. He was fortunate in choosing traits coded by genes that happened to be on different chromosomes or far apart on the same chromosome. When genes are linked or near each other on the same chromosome, patterns of segregation and independent assortment change. In 1913, Sturtevant devised a method to assess recombination frequency and infer the relative positions and distances of linked genes on a chromosome based on the average number of crossovers between them during meiosis.</para>
+<para id="fs-id1167067232323">The content presented in this section supports the Learning Objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives merge essential knowledge content with one or more of the seven Science Practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> exam questions.</para><table id="fs-id1167067133344" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.2 In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization. Second left cell reads: Science Practice. Second right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Third left cell reads: Learning Objective. Third right cell reads: 3.10 The student is able to represent the connection between meiosis and increased genetic diversity necessary for evolution." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
+<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
+<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
+<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.2 </emphasis></span>
+<span class="ost-standards-description"> In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice </emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
+<span class="ost-standards-description"> The student can connect phenomena and models across spatial and temporal scales.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch13-s01-aplo-3-10">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.10 </emphasis></span>
+<span class="ost-standards-description"> The student is able to represent the connection between meiosis and increased genetic diversity necessary for evolution.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span class="ost-standards-name">
+<emphasis>3.A.3 </emphasis></span>
+<span class="ost-standards-description"> The chromosomal basis of inheritance provides an understanding of the pattern of passage (transmission) of genes from parent to offspring.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
+<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
+<span class="ost-standards-description"> The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch13-s01-aplo-3-12">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.12 </emphasis></span>
+<span class="ost-standards-description"> The student is able to construct a representation that connects the process of meiosis to the passage of traits from parent to offspring.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table></section>
+<note id="fs-id1167066835423" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167063547348">Introduce genetic linkage using visuals such as this <link window="new" url="http://openstax.org/l/32geneticlink">video</link>.</para>
+<para id="fs-id1167066861839">Students can read about linked genes and Mendel’s work in this <link window="new" url="http://openstax.org/l/32linkedgenes">article</link>.</para>
+<para id="fs-id1167063786114">Have students work through inheritance scenarios where genes are linked and where they are on different chromosomes using the following <link window="new" url="http://openstax.org/l/32dragon">activity sheet</link>.</para><para id="fs-id1167066863322">Teacher preparation notes for this activity are available <link window="new" url="http://openstax.org/l/32dragontp">here</link>.</para>
+</note>
+<para id="fs-id1166848773369">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 3.2][APLO 3.11][APLO 3.14][APLO 3.15][APLO 3.28][APLO 3.26][APLO 3.17][APLO 4.22]</para><para id="fs-id2021443">Long before chromosomes were visualized under a microscope, the father of modern genetics, Gregor Mendel, began studying heredity in 1843. With the improvement of microscopic techniques during the late 1800s, cell biologists could stain and visualize subcellular structures with dyes and observe their actions during cell division and meiosis. With each mitotic division, chromosomes replicated, condensed from an amorphous (no constant shape) nuclear mass into distinct X-shaped bodies (pairs of identical sister chromatids), and migrated to separate cellular poles.</para>
+<section id="fs-id2904526" class="ost-tag-lo-apbio-ch13-s01-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-12 ost-get-exercise">
+<title>Chromosomal Theory of Inheritance</title>
+<para id="fs-id1406190">The speculation that chromosomes might be the key to understanding heredity led several scientists to examine Mendel’s publications and re-evaluate his model in terms of the behavior of chromosomes during mitosis and meiosis. In 1902, Theodor Boveri observed that proper embryonic development of sea urchins does not occur unless chromosomes are present. That same year, Walter Sutton observed the separation of chromosomes into daughter cells during meiosis (<link target-id="fig-ch13_01_01" document=""/>). Together, these observations led to the development of the <term>Chromosomal Theory of Inheritance</term>, which identified chromosomes as the genetic material responsible for Mendelian inheritance.</para>
+<figure id="fig-ch13_01_01"><media id="fs-id2011864" alt="Part a is a photo of Walter Sutton. Part b is a photo of Theodor Boveri.">
+<image mime-type="image/jpg" src="../../media/Figure_13_01_01-90a3.jpg" width="275"/>
+</media>
+<caption>(a) Walter Sutton and (b) Theodor Boveri are credited with developing the Chromosomal Theory of Inheritance, which states that chromosomes carry the unit of heredity (genes).</caption></figure><para id="fs-id1236139">The Chromosomal Theory of Inheritance was consistent with Mendel’s laws and was supported by the following observations:</para>
+<list id="fs-id1770608">
+<item>During meiosis, homologous chromosome pairs migrate as discrete structures that are independent of other chromosome pairs.</item>
+<item>The sorting of chromosomes from each homologous pair into pre-gametes appears to be random.</item>
+<item>Each parent synthesizes gametes that contain only half of their chromosomal complement.</item>
+<item>Even though male and female gametes (sperm and egg) differ in size and morphology, they have the same number of chromosomes, suggesting equal genetic contributions from each parent.</item>
+<item>The gametic chromosomes combine during fertilization to produce offspring with the same chromosome number as their parents.</item>
+</list>
+<para id="fs-id2335848">Despite compelling correlations between the behavior of chromosomes during meiosis and Mendel’s abstract laws, the Chromosomal Theory of Inheritance was proposed long before there was any direct evidence that traits were carried on chromosomes. Critics pointed out that individuals had far more independently segregating traits than they had chromosomes. It was only after several years of carrying out crosses with the fruit fly, <emphasis effect="italics">Drosophila melanogaster</emphasis>, that Thomas Hunt Morgan provided experimental evidence to support the Chromosomal Theory of Inheritance.</para>
+</section>
+<section id="fs-id1396027" class="ost-tag-lo-apbio-ch13-s01-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-12 ost-get-exercise">
+<title>Genetic Linkage and Distances</title>
+<para id="fs-id1780491">Mendel’s work suggested that traits are inherited independently of each other. Morgan identified a 1:1 correspondence between a segregating trait and the X chromosome, suggesting that the random segregation of chromosomes was the physical basis of Mendel’s model. This also demonstrated that linked genes disrupt Mendel’s predicted outcomes. The fact that each chromosome can carry many linked genes explains how individuals can have many more traits than they have chromosomes. However, observations by researchers in Morgan’s laboratory suggested that alleles positioned on the same chromosome were not always inherited together. During meiosis, linked genes somehow became unlinked.</para>
+<section id="fs-id2571351" class="ost-get-exercise">
+<title>Homologous Recombination</title>
+<para id="fs-id2047023">In 1909, Frans Janssen observed chiasmata—the point at which chromatids are in contact with each other and may exchange segments—prior to the first division of meiosis. He suggested that alleles become unlinked and chromosomes physically exchange segments. As chromosomes condensed and paired with their homologs, they appeared to interact at distinct points. Janssen suggested that these points corresponded to regions in which chromosome segments were exchanged. It is now known that the pairing and interaction between homologous chromosomes, known as synapsis, does more than simply organize the homologs for migration to separate daughter cells. When synapsed, homologous chromosomes undergo reciprocal physical exchanges at their arms in a process called <term>homologous recombination</term>, or more simply, “crossing over.”</para>
+<para id="fs-id1468864">To better understand the type of experimental results that researchers were obtaining at this time, consider a heterozygous individual that inherited dominant maternal alleles for two genes on the same chromosome (such as<emphasis effect="italics"> AB</emphasis>) and two recessive paternal alleles for those same genes (such as <emphasis effect="italics">ab</emphasis>). If the genes are linked, one would expect this individual to produce gametes that are either <emphasis effect="italics">AB</emphasis> or <emphasis effect="italics">ab</emphasis> with a 1:1 ratio. If the genes are unlinked, the individual should produce <emphasis effect="italics">AB</emphasis>, <emphasis effect="italics">Ab</emphasis>, <emphasis effect="italics">aB</emphasis>, and <emphasis effect="italics">ab</emphasis> gametes with equal frequencies, according to the Mendelian concept of independent assortment. Because they correspond to new allele combinations, the genotypes Ab and aB are <term>nonparental types</term> that result from homologous recombination during meiosis. <term>Parental types</term> are progeny that exhibit the same allelic combination as their parents. Morgan and his colleagues, however, found that when such heterozygous individuals were test crossed to a homozygous recessive parent (<emphasis effect="italics">AaBb</emphasis> × <emphasis effect="italics">aabb</emphasis>), both parental and nonparental cases occurred. For example, 950 offspring might be recovered that were either <emphasis effect="italics">AaBb</emphasis> or <emphasis effect="italics">aabb</emphasis>, but 50 offspring would also be obtained that were either <emphasis effect="italics">Aabb</emphasis> or <emphasis effect="italics">aaBb</emphasis>. These results suggested that linkage occurred most often, but a significant minority of offspring were the products of recombination.</para>
+<note id="fs-id1595360" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch13-s01-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-12"><label>Visual Connection</label>
+<para id="fs-id1612804"><figure id="fig-ch13_02_01"><media id="fs-id1262550" alt="The illustration shows the possible inheritance patterns of linked and unlinked genes. The example used includes fruit fly body color and wing length. Fruit flies may have a dominant gray color (G) or a recessive black color (g). They may have dominant long wings (L) or recessive short wings (l). Three hypothetical inheritance patterns for a test cross between a heterozygous and a recessive fruit fly are shown, based on gene placement. The actual experimental results published by Thomas Hunt Morgan in 1912 are also shown. In the first hypothetical inheritance pattern in part a, the genes for the two characteristics are on different chromosomes. Independent assortment occurs so that the ratio of genotypes in the offspring  is 1 GgLl:1 ggll:1 Ggll:1 ggLl, and 50% of the offspring are nonparental types. In the second hypothetical inheritance pattern in part b, the genes are close together on the same chromosome so that no crossover occurs between them.  The ratio of genotypes is 1 GgLl:1 ggll, and none of the offspring are recombinant. In the third hypothetical inheritance pattern in part c, the genes are far apart on the same chromosome so that crossing over occurs 100% of the time. The ratio of genotypes is the same as for genes on two different chromosomes, and 50% of the offspring are recombinant, nonparental types. Part d shows that the number of offspring that Thomas Hunt Morgan actually observed was 965: 944: 206:185 (GgLl:ggll:Ggll:ggLl). Seventeen percent of the offspring were recombinant, indicating that the genes are on the same chromosome and crossing over occurs between them some of the time.">
+<image mime-type="image/jpg" src="../../media/Figure_13_02_01-7be2.jpg" width="370"/>
+</media>
+<caption>Inheritance patterns of unlinked and linked genes are shown. In (a), two genes are located on different chromosomes so independent assortment occurs during meiosis. The offspring have an equal chance of being the parental type (inheriting the same combination of traits as the parents) or a nonparental type (inheriting a different combination of traits than the parents). In (b), two genes are very close together on the same chromosome so that no crossing over occurs between them. The genes are therefore always inherited together and all of the offspring are the parental type. In (c), two genes are far apart on the chromosome such that crossing over occurs during every meiotic event. The recombination frequency will be the same as if the genes were on separate chromosomes. (d) The actual recombination frequency of fruit fly wing length and body color that Thomas Morgan observed in 1912 was 17 percent. A crossover frequency between 0 percent and 50 percent indicates that the genes are on the same chromosome and crossover occurs some of the time.</caption></figure></para> <!--<solution id="comment-out">
+<para><link window="new"  target-id="fig-ch13_01_02" document=""/> No. The predicted frequency of recombinant offspring ranges from 0% (for linked traits) to 50% (for unlinked traits).</para>
+</solution>-->
+<exercise id="fs-id1167067144710" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067308248">
+<para id="fs-id1167063517308">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ex001"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+
+<note id="fs-id1167063579763" class="ap-science-practices ost-reading-discard ost-tag-lo-apbio-ch13-s01-lo01">
+<label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167063895476" class="ost-assignable ost-sciprac-scithink ost-tag-lo-apbio-ch13-s01-aplo-3-12 ost-tag-lo-apbio-ch13-s01-aplo-3-10"><label/>
+<title>Think About It</title>
+<exercise id="fs-id1167067102090" class="unnumbered"><label/>
+<problem id="fs-id1167067216929"><para id="fs-id1167067216930">A test cross involving F<sub>1</sub> dihybrid flies produces more parental-type offspring than recombinant-type offspring. How can you explain these observed results?</para></problem>
+</exercise>
+</note>
+</note>
+<note id="fs-id1167067316765" class="os-teacher"><label>Teacher Support</label>
+<para id="fs-id1167067194051">The question is an application of Learning Objective 3.12 and Science Practices 1.1 and 7.2, and Learning Objective 3.10 and Science Practice 7.1 because students are explaining how meiosis can result in gametes with genetic variation; in turn, these gametes can introduce variation in offspring.</para>
+<note id="eip-id1167062401892"><title>Answer</title>
+<para id="fs-id1167063497630">More parental type offspring are produced because the genes that are being examined in the dihybrid cross are linked. Genes whose loci are nearer to each other are less likely to be separated onto different chromatids during meiosis as a result of chromosomal crossover. Therefore, there will be more offspring with the parental phenotype than the recombinant phenotype.</para>
+<para id="fs-id1167067009580">More information about linked genes can be found at the following resources:</para>
+<para id="fs-id1167067083297">Linked genes: <link window="new" url="http://openstax.org/l/32linkedvid">Youtube video</link></para><para id="fs-id1167067014039">Chromosomal inheritance: <link window="new" url="http://openstax.org/l/32chromosomal">Youtube video</link></para></note></note><note id="fs-id1167067005576" class="ap-everyday ost-assessed-feature ost-tag-lo-apbio-ch13-s01-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-12"><label>Everyday Connection for AP<sup>®</sup> Courses</label>
+<para id="eip-id1167067252099"><title>Genetic Markers for Cancers</title></para>
+<para id="fs-id1167063563319">Scientists have used genetic linkage to discover the location in the human genome of many genes that cause disease. They locate disease genes by tracking inheritance of traits through generations of families and creating linkage maps that measure recombination among groups of genetic “markers.” The two BRCA genes, mutations which can lead to breast and ovarian cancers, were some of the first genes discovered by genetic mapping. Women who have family histories of these cancers can now be screened to determine if one or both of these genes carry a mutation. If so, they can opt to have their breasts and ovaries surgically removed. This decreases their chances of getting cancer later in life. The actress Angelia Jolie brought this to the public’s attention when she opted for surgery in 2014 and again in 2015 after doctors found she carried a mutated BRCA1 gene.</para>
+<exercise id="fs-id1167067044271" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167063716436">
+<para id="fs-id1167067107547">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ex002"/>
+</para>
+</problem>
+</exercise>
+</note><section id="fs-id1627133" class="ost-get-exercise">
+<title>Genetic Maps</title>
+<para id="fs-id1645084">Janssen did not have the technology to demonstrate crossing over so it remained an abstract idea that was not widely accepted. Scientists thought chiasmata were a variation on synapsis and could not understand how chromosomes could break and rejoin. Yet, the data were clear that linkage did not always occur. Ultimately, it took a young undergraduate student and an “all-nighter” to mathematically elucidate the problem of linkage and recombination.</para>
+<para id="fs-id1684950">In 1913, Alfred Sturtevant, a student in Morgan’s laboratory, gathered results from researchers in the laboratory, and took them home one night to mull them over. By the next morning, he had created the first “chromosome map,” a linear representation of gene order and relative distance on a chromosome (<link target-id="fig-ch13_01_03" document=""/>).</para>
+<note id="fs-id1941826" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch13-s01-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-12"><label>Visual Connections</label>
+<para id="fs-id2186799"><figure id="fig-ch13_01_03"><media id="fs-id1464025" alt="The illustration shows a Drosophila genetic map. The gene for aristae length occurs at 0 centimorgans, or cM. The gene for body color occurs at 48.5 cM. The gene for red versus cinnabar eye color occurs at 57.5 cM. The gene for wing length occurs at 65.5 cM, and the gene for red versus brown eye color occurs at 104.5 cM. One cM is equivalent to a recombination frequency of 0.01.">
+<image mime-type="image/jpg" src="../../media/Figure_13_01_03.jpg" width="200"/>
+</media>
+<caption>This genetic map orders <emphasis effect="italics">Drosophila</emphasis> genes on the basis of recombination frequency.</caption></figure></para>
+
+<exercise id="fs-id1167067067701" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167067026788">
+<para id="fs-id1167067011552">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ex003"/>
+</para>
+</problem>
+</exercise>
+</note><para id="fs-id2137494">As shown in <link target-id="fig-ch13_01_03" document=""/>, by using recombination frequency to predict genetic distance, the relative order of genes on chromosome 2 could be inferred. The values shown represent map distances in centimorgans (cM), which correspond to recombination frequencies (in percent). Therefore, the genes for body color and wing size were 65.5 − 48.5 = 17 cM apart, indicating that the maternal and paternal alleles for these genes recombine in 17 percent of offspring, on average.</para><para id="fs-id1951192">To construct a chromosome map, Sturtevant assumed that genes were ordered serially on threadlike chromosomes. He also assumed that the incidence of recombination between two homologous chromosomes could occur with equal likelihood anywhere along the length of the chromosome. Operating under these assumptions, Sturtevant postulated that alleles that were far apart on a chromosome were more likely to dissociate during meiosis simply because there was a larger region over which recombination could occur. Conversely, alleles that were close to each other on the chromosome were likely to be inherited together. The average number of crossovers between two alleles—that is, their <term>recombination frequency</term>—correlated with their genetic distance from each other, relative to the locations of other genes on that chromosome. Considering the example cross between <emphasis effect="italics">AaBb</emphasis> and <emphasis effect="italics">aabb</emphasis> above, the frequency of recombination could be calculated as 50/1000 = 0.05. That is, the likelihood of a crossover between genes <emphasis effect="italics">A/a</emphasis> and <emphasis effect="italics">B/b</emphasis> was 0.05, or 5 percent. Such a result would indicate that the genes were definitively linked, but that they were far enough apart for crossovers to occasionally occur. Sturtevant divided his genetic map into map units, or <term>centimorgans (cM)</term>, in which a recombination frequency of 0.01 corresponds to 1 cM.</para><para id="fs-id2100648">By representing alleles in a linear map, Sturtevant suggested that genes can range from being perfectly linked (recombination frequency = 0) to being perfectly unlinked (recombination frequency = 0.5) when genes are on different chromosomes or genes are separated very far apart on the same chromosome. Perfectly unlinked genes correspond to the frequencies predicted by Mendel to assort independently in a dihybrid cross. A recombination frequency of 0.5 indicates that 50 percent of offspring are recombinants and the other 50 percent are parental types. That is, every type of allele combination is represented with equal frequency. This representation allowed Sturtevant to additively calculate distances between several genes on the same chromosome. However, as the genetic distances approached 0.50, his predictions became less accurate because it was not clear whether the genes were very far apart on the same chromosome or on different chromosomes.</para><para id="fs-id1341900">In 1931, Barbara McClintock and Harriet Creighton demonstrated the crossover of homologous chromosomes in corn plants. Weeks later, homologous recombination in <emphasis effect="italics">Drosophila </emphasis>was demonstrated microscopically by Curt Stern. Stern observed several X-linked phenotypes that were associated with a structurally unusual and dissimilar X chromosome pair in which one X was missing a small terminal segment, and the other X was fused to a piece of the Y chromosome. By crossing flies, observing their offspring, and then visualizing the offspring’s chromosomes, Stern demonstrated that every time the offspring allele combination deviated from either of the parental combinations, there was a corresponding exchange of an X chromosome segment. Using mutant flies with structurally distinct X chromosomes was the key to observing the products of recombination because DNA sequencing and other molecular tools were not yet available. It is now known that homologous chromosomes regularly exchange segments in meiosis by reciprocally breaking and rejoining their DNA at precise locations.</para>
+
+<note id="fs-id2060998" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch13-s01-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-12"><label>Link to Learning</label>
+<para id="fs-id2570945">Review Sturtevant’s process to create a genetic map on the basis of recombination frequencies <link window="new" url="http://openstax.org/l/gene_crossover">here</link>.</para>
+<exercise id="fs-id1167067075106" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066830379">
+<para id="fs-id1167063757931">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ex004"/>
+</para>
+</problem>
+</exercise>
+</note></section>
+<section id="fs-id1961794" class="ost-get-exercise">
+<title>Mendel’s Mapped Traits</title>
+<para id="fs-id1802180">Homologous recombination is a common genetic process, yet Mendel never observed it. Had he investigated both linked and unlinked genes, it would have been much more difficult for him to create a unified model of his data on the basis of probabilistic calculations. Researchers who have since mapped the seven traits investigated by Mendel onto the seven chromosomes of the pea plant genome have confirmed that all of the genes he examined are either on separate chromosomes or are sufficiently far apart as to be statistically unlinked. Some have suggested that Mendel was enormously lucky to select only unlinked genes, whereas others question whether Mendel discarded any data suggesting linkage. In any case, Mendel consistently observed independent assortment because he examined genes that were effectively unlinked.</para>
+</section>
+</section>
+
+<section id="fs-id2336690" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1506798">The Chromosomal Theory of inheritance, proposed by Sutton and Boveri, states that chromosomes are the vehicles of genetic heredity. Neither Mendelian genetics nor gene linkage is perfectly accurate; instead, chromosome behavior involves segregation, independent assortment, and occasionally, linkage. Sturtevant devised a method to assess recombination frequency and infer the relative positions and distances of linked genes on a chromosome on the basis of the average number of crossovers in the intervening region between the genes. Sturtevant correctly presumed that genes are arranged in serial order on chromosomes and that recombination between homologs can occur anywhere on a chromosome with equal likelihood. Whereas linkage causes alleles on the same chromosome to be inherited together, homologous recombination biases alleles toward an inheritance pattern of independent assortment.</para>
+</section>
+
+
+<section id="fs-id1167067261932" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167063601374" class="os-exercise">
+<problem id="fs-id1167061377239">
+<para id="fs-id1167063817530">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066807696" class="os-exercise">
+<problem id="fs-id1167063430017">
+<para id="fs-id1167063888028">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166851323002" class="os-exercise">
+<problem id="eip-id1166848756312">
+<para id="eip-id1166848800603">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ot001"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166848665204" class="os-exercise">
+<problem id="eip-id1166851275113">
+<para id="eip-id1166851222780">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ot002"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167063464536" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167063471500" class="os-exercise">
+<problem id="fs-id1167063730462">
+<para id="fs-id1167067175365">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ex007"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166849863904" class="os-exercise">
+<problem id="eip-id1166850273906">
+<para id="eip-id1166850014864">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ot003"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167067101117" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167066787449" class="os-exercise">
+<problem id="fs-id1167067061086">
+<para id="fs-id1167067061089">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063720109" class="os-exercise">
+<problem id="fs-id1167063517667">
+<para id="fs-id1167067039220">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ex009"/>
+</para>
+</problem>
+</exercise>
+<exercise id="eip-id1166850290037" class="os-exercise">
+<problem id="eip-id1166849943779">
+<para id="eip-id1166850094529">
+<link class="os-embed" url="#ost/api/ex/apbio-ch13-ot004"/>
+</para>
+</problem>
+</exercise></section>
+<section id="fs-id1164965518225" class="ost-reading-discard ost-chapter-review science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164965505232">
+<problem id="fs-id1164964216995">
+<para id="fs-id1164967796858"><emphasis effect="italics">Drosophila</emphasis> that are true breeding for the traits straight wings (S) and red eyes (R) are crossed with flies that are true breeding for curved wings (s) and brown eyes (r).  A test cross is then made between the offspring and the true-breeding ssrr flies.</para>
+<list id="fs-id1164965338472" list-type="enumerated" number-style="upper-alpha">
+<item>Use the symbols S, s, R, and r to <emphasis>construct a representation</emphasis> of the parental genotypes in the test cross.</item>
+<item>If these genes are located on different chromosomes, use a Punnett square to <emphasis>construct a representation</emphasis> of the offspring of the test cross.</item>
+<item><emphasis>Predict</emphasis> the distribution of genotypes and phenotypes resulting from the test cross.</item>
+<item>As it happens, these genes are both on chromosome II as shown below. Use the symbols S, s, R, and r to <emphasis>construct a representation</emphasis> of the parental and recombinant genotypes in the test cross.</item>
+<item>Suppose that 500 flies are produced in the test cross. <emphasis>Apply mathematical methods</emphasis> to calculate the expected number of recombinant offspring using the linear map units (LMU) shown in the diagram below. </item>
+</list>
+<figure id="fs-id1164965205796"><media id="fs-id1164965326095" alt="The figure is labelled Genetic Map of D. melanogaster Chromosome 2. There is a left column labelled mutant type, a center column with numerical values, and a right column labelled Wild Type. From left to right, the first row contains: short antennae, 0, long antennae. Second row:  dumpy wings, 13, long wings. Third row: short legs, 31, long legs. Fourth row: contains black body, 48.5, gray body. Fifth row: vestigial wings, 67, long wings. Sixth row: curved wings, 75.5, straight wings. Seventh row: brown eyes, 104.5, red eyed. Text on the bottom reads “Values in linear map units L M U”">
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_13_01_01_01_img.jpg"/>
+</media>
+
+</figure></problem>
+</exercise>
+<exercise id="fs-id1164964286766">
+<problem id="fs-id1164965427694">
+<para id="fs-id1164965173990">Studies like the one described in question AP12.1 were carried out by Morgan and Sturtevant beginning in 1911.  The discovery of linkage was made by Bateson and Punnett in 1900.  They crossed a true-breeding purple (P) plant with long seeds (L) with a true-breeding red (r) plant with round seeds (l).  They then performed a self-cross between the F<sub>1</sub> generations.  They obtained the F<sub>2</sub> data shown below.</para>
+<table id="fs-id1164965445242" summary="This table has four columns. The first column reads from top to bottom: Phenotype, (purple, long), (purple, round), (red, long), (red, round), and total. The second column has a title of Genotype(s) and the whole column is blank. The third column reads: Observed, 4831, 390, 393, 1338, 6952, and the last column reads from top to bottom: Expected, and the rest of the column is blank.">
+<tgroup cols="4"><thead>
+<row>
+<entry align="center">Pheno-<newline/>type</entry>
+<entry align="center">Geno-<newline/>type(s)</entry>
+<entry align="center">Ob-<newline/>served</entry>
+<entry align="center">Ex-<newline/>pected</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">purple,<newline/>long  </entry>
+<entry align="center"> </entry>
+<entry align="left">4831</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry align="center">purple,<newline/>round  </entry>
+<entry align="center"> </entry>
+<entry align="left">390</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry align="center">red,<newline/>long  </entry>
+<entry align="center"> </entry>
+<entry align="left">393</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry align="center">red,<newline/>round  </entry>
+<entry align="center"> </entry>
+<entry align="left">1338</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry align="center">total</entry>
+<entry align="center"> </entry>
+<entry align="left">6952</entry>
+<entry align="center"/>
+</row>
+</tbody>
+
+
+</tgroup>
+</table><para id="fs-id1164967402755">A. Use the symbols P, p, L, and l to <emphasis>construct a representation</emphasis> of the F<sub>2</sub> genotypes and complete the second column in the table.</para>
+<para id="fs-id1164967455625">B. Complete the fourth column of the table above by recording the values of the <emphasis>predicted</emphasis> numbers of plants with each genotype.</para>
+<para id="fs-id1164967857627">C. Apply a c<sup>2</sup> test at the 95% confidence level to <emphasis>evaluate the claim</emphasis> that these data confirm linkage.  The definition of the statistic
+<m:math display="block">
+ <m:semantics>
+  <m:mrow>
+   <m:msup>
+    <m:mi>χ</m:mi>
+    <m:mn>2</m:mn>
+   </m:msup>
+   <m:mo>=</m:mo><m:mstyle displaystyle="true">
+    <m:mo>∑</m:mo> <m:mrow>
+     <m:mfrac>
+      <m:mrow>
+       <m:msup>
+        <m:mrow>
+         <m:mo stretchy="false">(</m:mo><m:mi>o</m:mi><m:mo>−</m:mo><m:mi>e</m:mi><m:mo stretchy="false">)</m:mo>
+        </m:mrow>
+        <m:mn>2</m:mn>
+       </m:msup>
+
+      </m:mrow>
+      <m:mi>e</m:mi>
+     </m:mfrac>
+
+    </m:mrow>
+   </m:mstyle>
+  </m:mrow>
+ </m:semantics>
+</m:math>
+and this table are provided in the AP Biology Exam.</para>
+<para id="fs-id1164965175873">D. At first, Bateson and Punnett did not see that these genes are located on the same chromosome and proceeded to measure the linkage distance between them, taking the first step toward creating a gene map. <emphasis>Justify</emphasis> the selection of data and the procedure from which data could be collected that would have provided the necessary evidence to confirm linkage and recombination.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-id1164965593971">
+<problem id="fs-id1164965309399">
+<para id="fs-id1164965441600">Review the observations that provided researchers with evidence in support of the Chromosomal Theory of Inheritance.</para>
+<para id="fs-id1164964511755">A. <emphasis>Evaluate</emphasis> the dependence of these observations on improvements in a critical technology during the period from 1850 to 1940. <emphasis>Identify</emphasis> this technology and <emphasis>describe</emphasis> how this technology allowed scientists to make the connection between chromosomes and genes.  (As a hint, the name chromosome is taken from the Greek word <emphasis effect="italics">chroma</emphasis>, which means colored or stained.)</para>
+<para id="fs-id1164965169163">B. Mendels laws of inheritance are explained by the chromosomal theory.  Use these observations to <emphasis>justify</emphasis>:</para>
+<list id="fs-id1164965221334">
+<item>the law of segregation</item>
+<item>the law of independent assortment</item>
+</list>
+</problem>
+</exercise>
+
+<exercise id="fs-id1164967720763">
+<problem id="fs-id1164967865582">
+<para id="fs-id1164967685994">Errors in the transmission of genetic information to future generations are essential.  Otherwise, organisms could not evolve over time.  Some errors in the synthesis of new DNA during S phase in either meiosis or mitosis are not repaired.  These errors usually involve single nucleotides.  Errors that occur during prophase I of meiosis that are not corrected can involve the exchange of sequences between homologous chromosomes (duplications) or even nonhomologous chromosomes (translocations).  Duplications are usually retained, and the organism remains viable without a change in phenotype.  Translocations are usually lethal or significantly alter phenotype.  In eukaryotes, duplications and the shuffling of parental genes through recombination are important sources of variation.</para>
+<para id="fs-id1164965537360"><emphasis>Construct an explanation</emphasis> of the role of duplication as a source of raw material for future mutations and selection and contrast this type of variation with recombination.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-id1164967686262">
+<problem id="fs-id1164965261120">
+<para id="fs-id1164964095305">Bacteria and Archaea reproduce asexually, and genetic material is in a closed loop.  In both domains, genetic material is transferred horizontally, and polyploidy is common.  Polypoidy is common in plants and occurs in invertebrate animals but is less common in vertebrates.  In all domains, multiple copies of genes (gene duplication) are common.</para>
+<para id="fs-id1164967548387">Based on this information, <emphasis>compare and contrast</emphasis> the mechanisms that provide genetic variation in the three domains: Bacteria, Archaea, and Eukarya.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2200120"><term>centimorgan (cM)</term> <meaning id="fs-id1797882">(also, map unit) relative distance that corresponds to a recombination frequency of 0.01</meaning></definition>
+<definition id="fs-id1310227"><term>Chromosomal Theory of Inheritance</term> <meaning id="fs-id1467930">theory proposing that chromosomes are the vehicles of genes and that their behavior during meiosis is the physical basis of the inheritance patterns that Mendel observed</meaning></definition>
+<definition id="fs-id2248874"><term>homologous recombination</term> <meaning id="fs-id1957277">process by which homologous chromosomes undergo reciprocal physical exchanges at their arms, also known as crossing over</meaning></definition>
+<definition id="fs-id3241178"><term>nonparental (recombinant) type</term> <meaning id="fs-id2013517">progeny resulting from homologous recombination that exhibits a different allele combination compared with its parents</meaning></definition>
+<definition id="fs-id2891394"><term>parental types</term> <meaning id="fs-id1986668">progeny that exhibits the same allelic combination as its parents</meaning></definition>
+<definition id="fs-id2595875"><term>recombination frequency</term> <meaning id="fs-id2026021">average number of crossovers between two alleles; observed as the number of nonparental types in a population of progeny</meaning></definition>
+</glossary>
+
+</document>

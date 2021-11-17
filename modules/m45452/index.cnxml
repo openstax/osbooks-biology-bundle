@@ -1,0 +1,158 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Light-Dependent Reactions of Photosynthesis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45452</md:content-id>
+  <md:title>The Light-Dependent Reactions of Photosynthesis</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how plants absorb energy from sunlight</item>
+<item>Describe how the wavelength of light affects its energy and color</item>
+<item>Describe how and where photosynthesis takes place within a plant</item>
+</list></md:abstract>
+  <md:uuid>6b633e1f-6a5a-488d-80be-237281454aa5</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm31286080">How can light be used to make food? It is easy to think of light as something that exists and allows living organisms, such as humans, to see, but light is a form of energy. Like all energy, light can travel, change form, and be harnessed to do work. In the case of photosynthesis, light energy is transformed into chemical energy, which autotrophs use to build carbohydrate molecules. However, autotrophs only use a specific component of sunlight (<link target-id="fig-ch05_02_01" document=""/>).</para>
+<figure id="fig-ch05_02_01"><media id="fs-idm35160272" alt="A photo shows the silhouette of a grassy plant against the sun at sunset.">
+<image mime-type="image/jpg" src="../../media/Figure_05_02_01-002f.jpg" width="250"/>
+</media>
+<caption>Autotrophs can capture light energy from the sun, converting it into chemical energy used to build food molecules. (credit: modification of work by Gerry Atwell, U.S. Fish and Wildlife Service)</caption></figure><note id="fs-idm2744720" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idm11888096">Watch the <link window="new" url="http://openstax.org/l/light_reaction2">process of photosynthesis</link> within a leaf in this video.</para></note><section id="fs-idp59903008">
+<title>What Is Light Energy?</title>
+<para id="fs-idm1526752">The sun emits an enormous amount of electromagnetic radiation (solar energy). Humans can see only a fraction of this energy, which is referred to as “visible light.”  The manner in which solar energy travels can be described and measured as waves. Scientists can determine the amount of energy of a wave by measuring its <term>wavelength</term>, the distance between two consecutive, similar points in a series of waves, such as from crest to crest or trough to trough (<link target-id="fig-ch05_02_02" document=""/>).</para>
+<figure id="fig-ch05_02_02"><media id="fs-idm32914896" alt="This illustration shows two waves. The distance between the crests (shown as the uppermost part, in contrast to the trough at the bottom) is the wavelength.">
+<image mime-type="image/jpg" src="../../media/Figure_05_02_02-4607.jpg" width="350"/>
+</media>
+<caption>The wavelength of a single wave is the distance between two consecutive points along the wave.</caption></figure><para id="fs-idp78156272">Visible light constitutes only one of many types of electromagnetic radiation emitted from the sun. The <term>electromagnetic spectrum</term> is the range of all possible wavelengths of radiation (<link target-id="fig-ch05_02_03" document=""/>). Each wavelength corresponds to a different amount of energy carried.</para>
+<figure id="fig-ch05_02_03" class="  "><media id="fs-idp35392256" alt="This illustration lists the types of electromagnetic radiation in order of decreasing wavelength. These are gamma rays, X-rays, ultraviolet, visible, infrared, and radio">
+<image mime-type="image/jpg" src="../../media/Figure_05_02_03.jpg" width="500"/>
+</media>
+<caption>The sun emits energy in the form of electromagnetic radiation. This radiation exists in different wavelengths, each of which has its own characteristic energy. Visible light is one type of energy emitted from the sun.</caption></figure><para id="fs-idp16630192">Each type of electromagnetic radiation has a characteristic range of wavelengths. The longer the wavelength (or the more stretched out it appears), the less energy is carried. Short, tight waves carry the most energy. This may seem illogical, but think of it in terms of a piece of moving rope. It takes little effort by a person to move a rope in long, wide waves. To make a rope move in short, tight waves, a person would need to apply significantly more energy.</para>
+<para id="fs-idm16734304">The sun emits (<link target-id="fig-ch05_02_03" document=""/>) a broad range of electromagnetic radiation, including X-rays and ultraviolet (UV) rays. The higher-energy waves are dangerous to living things; for example, X-rays and UV rays can be harmful to humans.</para>
+</section>
+<section id="fs-idm27210384">
+<title>Absorption of Light</title>
+<para id="fs-idm47531584">Light energy enters the process of photosynthesis when pigments absorb the light. In plants, pigment molecules absorb only visible light for photosynthesis. The visible light seen by humans as white light actually exists in a rainbow of colors. Certain objects, such as a prism or a drop of water, disperse white light to reveal these colors to the human eye. The visible light portion of the electromagnetic spectrum is perceived by the human eye as a rainbow of colors, with violet and blue having shorter wavelengths and, therefore, higher energy. At the other end of the spectrum toward red, the wavelengths are longer and have lower energy.</para>
+</section>
+<section id="fs-idm1205728">
+<title>Understanding Pigments</title>
+<para id="fs-idp10105328">Different kinds of pigments exist, and each absorbs only certain wavelengths (colors) of visible light. Pigments reflect the color of the wavelengths that they cannot absorb.</para>
+<para id="fs-idp66921136">All photosynthetic organisms contain a pigment called <term>chlorophyll <emphasis effect="italics">a</emphasis></term>, which humans see as the common green color associated with plants. Chlorophyll <emphasis effect="italics">a</emphasis> absorbs wavelengths from either end of the visible spectrum (blue and red), but not from green. Because green is reflected, chlorophyll appears green.</para>
+<para id="fs-idm30507344">Other pigment types include <term>chlorophyll <emphasis effect="italics">b</emphasis></term> (which absorbs blue and red-orange light) and the carotenoids. Each type of pigment can be identified by the specific pattern of wavelengths it absorbs from visible light, which is its <term>absorption spectrum</term>.</para>
+<para id="fs-idm31931920">Many photosynthetic organisms have a mixture of pigments; between them, the organism can absorb energy from a wider range of visible-light wavelengths. Not all photosynthetic organisms have full access to sunlight. Some organisms grow underwater where light intensity decreases with depth, and certain wavelengths are absorbed by the water. Other organisms grow in competition for light. Plants on the rainforest floor must be able to absorb any bit of light that comes through, because the taller trees block most of the sunlight (<link target-id="fig-ch05_02_04" document=""/>).</para>
+<figure id="fig-ch05_02_04"><media id="fs-idm1427776" alt="This photo shows undergrowth in a forest.">
+<image mime-type="image/jpg" src="../../media/Figure_05_02_04-5193.jpg" width="350"/>
+</media>
+<caption>Plants that commonly grow in the shade benefit from having a variety of light-absorbing pigments. Each pigment can absorb different wavelengths of light, which allows the plant to absorb any light that passes through the taller trees. (credit: Jason Hollinger)</caption></figure></section>
+<section id="fs-idm60085072">
+<title>How Light-Dependent Reactions Work</title>
+<para id="fs-idp154399280">The overall purpose of the light-dependent reactions is to convert light energy into chemical energy. This chemical energy will be used by the Calvin cycle to fuel the assembly of sugar molecules.</para>
+<para id="fs-idm42211360">The light-dependent reactions begin in a grouping of pigment molecules and proteins called a <term>photosystem</term>. Photosystems exist in the membranes of thylakoids. A pigment molecule in the photosystem absorbs one <term>photon</term>, a quantity or “packet” of light energy, at a time.</para>
+<para id="fs-idp59226688">A photon of light energy travels until it reaches a molecule of chlorophyll. The photon causes an electron in the chlorophyll to become “excited.” The energy given to the electron allows it to break free from an atom of the chlorophyll molecule. Chlorophyll is therefore said to “donate” an electron (<link target-id="fig-ch05_02_05" document=""/>).</para>
+<para id="fs-idm36678480">To replace the electron in the chlorophyll, a molecule of water is split. This splitting releases an electron and results in the formation of oxygen (O<sub>2</sub>) and hydrogen ions (H<sup>+</sup>) in the thylakoid space. Technically, each breaking of a water molecule releases a pair of electrons, and therefore can replace two donated electrons.</para>
+<figure id="fig-ch05_02_05"><media id="fs-idp11852960" alt="This illustration shows photosystem II, which has a light-harvesting complex surrounding the reaction center. Chlorophyll molecules are found in the light-harvesting complex. In the reaction center, an excited electron is passed to the primary electron acceptor. A molecule of water is split, releasing one oxygen, two protons, and an electron. The electron replaces the one donated to the primary electron acceptor.">
+<image mime-type="image/jpg" src="../../media/Figure_05_02_05-bd0f.jpg" width="400"/>
+</media>
+<caption>Light energy is absorbed by a chlorophyll molecule and is passed along a pathway to other chlorophyll molecules. The energy culminates in a molecule of chlorophyll found in the reaction center. The energy “excites” one of its electrons enough to leave the molecule and be transferred to a nearby primary electron acceptor. A molecule of water splits to release an electron, which is needed to replace the one donated. Oxygen and hydrogen ions are also formed from the splitting of water.</caption></figure><para id="fs-idm9743296">The replacing of the electron enables chlorophyll to respond to another photon. The oxygen molecules produced as byproducts find their way to the surrounding environment. The hydrogen ions play critical roles in the remainder of the light-dependent reactions.</para>
+<para id="fs-idm38854752">Keep in mind that the purpose of the light-dependent reactions is to convert solar energy into chemical carriers that will be used in the Calvin cycle. In eukaryotes and some prokaryotes, two photosystems exist. The first is called photosystem II, which was named for the order of its discovery rather than for the order of the function.</para><para id="fs-idm30097296">After the photon hits, photosystem II transfers the free electron to the first in a series of proteins inside the thylakoid membrane called the electron transport chain. As the electron passes along these proteins, energy from the electron fuels membrane pumps that actively move hydrogen ions against their concentration gradient from the stroma into the thylakoid space.  This is quite analogous to the process that occurs in the mitochondrion in which an electron transport chain pumps hydrogen ions from the mitochondrial stroma across the inner membrane and into the intermembrane space, creating an electrochemical gradient. After the energy is used, the electron is accepted by a pigment molecule in the next photosystem, which is called photosystem I (<link target-id="fig-ch05_02_06" document=""/>).</para>
+<figure id="fig-ch05_02_06"><media id="fs-idm103995296" alt="This illustration shows the components involved in the light reactions. Photosystem II uses light to excite an electron, which is passed on to the chloroplast electron transport chain. The electron is then passed on to photosystem I and to NADP+ reductase, which makes NADPH. This process forms an electrochemical gradient that is used by ATP synthase enzyme to make ATP.">
+<image mime-type="image/jpg" src="../../media/Figure_05_02_06-ce34.jpg" width="450"/>
+</media>
+<caption>From photosystem II, the electron travels along a series of proteins. This electron transport system uses the energy from the electron to pump hydrogen ions into the interior of the thylakoid. A pigment molecule in photosystem I accepts the electron.</caption></figure></section>
+<section id="fs-idm43960464">
+<title>Generating an Energy Carrier: ATP</title>
+<para id="fs-idp55289216">In the light-dependent reactions, energy absorbed by sunlight is stored by two types of energy-carrier molecules: ATP and NADPH. The energy that these molecules carry is stored in a bond that holds a single atom to the molecule. For ATP, it is a phosphate atom, and for NADPH, it is a hydrogen atom. Recall that NADH was a similar molecule that carried energy in the mitochondrion from the citric acid cycle to the electron transport chain. When these molecules release energy into the Calvin cycle, they each lose atoms to become the lower-energy molecules ADP and NADP<sup>+</sup>.</para>
+<para id="fs-idp12010704">The buildup of hydrogen ions in the thylakoid space forms an electrochemical gradient because of the difference in the concentration of protons (H<sup>+</sup>) and the difference in the charge across the membrane that they create. This potential energy is harvested and stored as chemical energy in ATP through chemiosmosis, the movement of hydrogen ions down their electrochemical gradient through the transmembrane enzyme ATP synthase, just as in the mitochondrion.</para>
+<para id="fs-idp64631264">The hydrogen ions are allowed to pass through the thylakoid membrane through an embedded protein complex called ATP synthase. This same protein generated ATP from ADP in the mitochondrion. The energy generated by the hydrogen ion stream allows ATP synthase to attach a third phosphate to ADP, which forms a molecule of ATP in a process called photophosphorylation. The flow of hydrogen ions through ATP synthase is called chemiosmosis, because the ions move from an area of high to low concentration through a semi-permeable structure.</para>
+</section>
+<section id="fs-idp95725104">
+<title>Generating Another Energy Carrier: NADPH</title>
+<para id="fs-idm43104512">The remaining function of the light-dependent reaction is to generate the other energy-carrier molecule, NADPH. As the electron from the electron transport chain arrives at photosystem I, it is re-energized with another photon captured by chlorophyll. The energy from this electron drives the formation of NADPH from NADP<sup>+</sup> and a hydrogen ion (H<sup>+</sup>). Now that the solar energy is stored in energy carriers, it can be used to make a sugar molecule.</para>
+</section>
+<section id="fs-idp7118704" class="summary">
+<title>Section Summary</title><para id="fs-idm47626352">In the first part of photosynthesis, the light-dependent reaction, pigment molecules absorb energy from sunlight. The most common and abundant pigment is chlorophyll <emphasis effect="italics">a</emphasis>. A photon strikes photosystem II to initiate photosynthesis. Energy travels through the electron transport chain, which pumps hydrogen ions into the thylakoid space. This forms an electrochemical gradient. The ions flow through ATP synthase from the thylakoid space into the stroma in a process called chemiosmosis to form molecules of ATP, which are used for the formation of sugar molecules in the second stage of photosynthesis. Photosystem I absorbs a second photon, which results in the formation of an NADPH molecule, another energy carrier for the Calvin cycle reactions.</para>
+</section>
+<section id="fs-idp786832" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idp36679904">
+<problem id="fs-idm52381296"><para id="fs-idp26660880">What is the energy of a photon first used to do in photosynthesis?</para>
+<list id="fs-idp26606784" list-type="enumerated" number-style="lower-alpha">
+<item>split a water molecule</item>
+<item>energize an electron</item>
+<item>produce ATP</item>
+<item>synthesize glucose</item>
+</list>
+</problem>
+<solution id="fs-idm5901168">
+<label/>
+<para id="fs-idp95552736">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp61331232">
+<problem id="fs-idp98045872"><para id="fs-idm35069904">Which molecule absorbs the energy of a photon in photosynthesis?</para>
+<list id="fs-idm11651440" list-type="enumerated" number-style="lower-alpha">
+<item>ATP</item>
+<item>glucose</item>
+<item>chlorophyll</item>
+<item>water</item>
+</list>
+</problem>
+<solution id="fs-idm28577008">
+<label/>
+<para id="fs-idp29744400">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm38662272">
+<problem id="fs-idp71036416"><para id="fs-idp150466624">Plants produce oxygen when they photosynthesize. Where does the oxygen come from?</para>
+<list id="fs-idp93459392" list-type="enumerated" number-style="lower-alpha">
+<item>splitting water molecules</item>
+<item>ATP synthesis</item>
+<item>the electron transport chain</item>
+<item>chlorophyll</item>
+</list>
+</problem>
+<solution id="fs-idp150995168">
+<label/>
+<para id="fs-idm8296544">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp26954752">
+<problem id="fs-idm29652752">
+<para id="fs-idp63261056">Which color(s) of light does chlorophyll <emphasis effect="italics">a</emphasis> reflect?</para>
+<list id="fs-idp26938576" list-type="enumerated" number-style="lower-alpha">
+<item>red and blue</item>
+<item>green</item>
+<item>red</item>
+<item>blue</item>
+</list>
+</problem>
+<solution id="fs-idp18093984">
+<label/>
+<para id="fs-idm29572416">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp72584112" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idm32376896">
+<problem id="fs-idm54159216"><para id="fs-idm111434496">Describe the pathway of energy in light-dependent reactions.</para></problem>
+<solution id="fs-idp19136912"><label/>
+<para id="fs-idp2459968">The energy is present initially as light. A photon of light hits chlorophyll, causing an electron to be energized. The free electron travels through the electron transport chain, and the energy of the electron is used to pump hydrogen ions into the thylakoid space, transferring the energy into the electrochemical gradient. The energy of the electrochemical gradient is used to power ATP synthase, and the energy is transferred into a bond in the ATP molecule. In addition, energy from another photon can be used to create a high-energy bond in the molecule NADPH.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm40121664"><term>absorption spectrum</term> <meaning id="fs-idp63543840">the specific pattern of absorption for a substance that absorbs electromagnetic radiation</meaning></definition>
+<definition id="fs-idp106659824"><term>chlorophyll <emphasis effect="italics">a</emphasis></term> <meaning id="fs-idm38519744">the form of chlorophyll that absorbs violet-blue and red light</meaning></definition>
+<definition id="fs-idp18904944"><term>chlorophyll <emphasis effect="italics">b</emphasis></term> <meaning id="fs-idm35344944">the form of chlorophyll that absorbs blue and red-orange light</meaning></definition>
+<definition id="fs-idm4052080"><term>electromagnetic spectrum</term> <meaning id="fs-idp49225088">the range of all possible frequencies of radiation</meaning></definition>
+<definition id="fs-idp30951920"><term>photon</term> <meaning id="fs-idp50074576">a distinct quantity or “packet” of light energy</meaning></definition>
+<definition id="fs-idm32748160"><term>photosystem</term> <meaning id="fs-idm49456800">a group of proteins, chlorophyll, and other pigments that are used in the light-dependent reactions of photosynthesis to absorb light energy and convert it into chemical energy</meaning></definition>
+<definition id="fs-idm68044832"><term>wavelength</term> <meaning id="fs-idm35849200">the distance between consecutive points of a wave</meaning></definition>
+</glossary>
+
+</document>

@@ -1,0 +1,153 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Overview of Photosynthesis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45448</md:content-id>
+  <md:title>Overview of Photosynthesis</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Summarize the process of photosynthesis</item>
+<item>Explain the relevance of photosynthesis to other living things</item>
+<item>Identify the reactants and products of photosynthesis</item>
+<item>Describe the main structures involved in photosynthesis</item>
+</list></md:abstract>
+  <md:uuid>7089d1f9-3ae0-49d9-998f-148255829aa7</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp73982160">All living organisms on earth consist of one or more cells. Each cell runs on the chemical energy found mainly in carbohydrate molecules (food), and the majority of these molecules are produced by one process: photosynthesis. Through photosynthesis, certain organisms convert solar energy (sunlight) into chemical energy, which is then used to build carbohydrate molecules. The energy used to hold these molecules together is released when an organism breaks down food. Cells then use this energy to perform work, such as cellular respiration.</para>
+<para id="fs-idm76667680">The energy that is harnessed from photosynthesis enters the ecosystems of our planet continuously and is transferred from one organism to another. Therefore, directly or indirectly, the process of photosynthesis provides most of the energy required by living things on earth.</para>
+<para id="fs-idp39490304">Photosynthesis also results in the release of oxygen into the atmosphere. In short, to eat and breathe, humans depend almost entirely on the organisms that carry out photosynthesis.</para>
+<note id="fs-idp3620096" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idp7961872">Click the following <link window="new" url="http://openstax.org/l/photosynthesis2">link</link> to learn more about photosynthesis.</para>
+</note><section id="fs-idp47451184">
+<title>Solar Dependence and Food Production</title>
+<para id="fs-idp53433888">Some organisms can carry out photosynthesis, whereas others cannot. An <term>autotroph</term> is an organism that can produce its own food. The Greek roots of the word <emphasis effect="italics">autotroph</emphasis> mean “self” (<emphasis effect="italics">auto</emphasis>) “feeder” (<emphasis effect="italics">troph</emphasis>). Plants are the best-known autotrophs, but others exist, including certain types of bacteria and algae (<link target-id="fig-ch05_01_01" document=""/>). Oceanic algae contribute enormous quantities of food and oxygen to global food chains. Plants are also <term>photoautotrophs</term>, a type of autotroph that uses sunlight and carbon from carbon dioxide to synthesize chemical energy in the form of carbohydrates. All organisms carrying out photosynthesis require sunlight.</para>
+<figure id="fig-ch05_01_01" class="  "><media id="fs-idm65802272" alt="Photo a shows a green fern leaf. Photo b shows a pier protruding into a large body of still water; the water near the pier is colored green with visible algae. Photo c is a micrograph of cyanobacteria.">
+<image mime-type="image/jpg" src="../../media/Figure_05_01_01abc.jpg" width="650"/>
+</media>
+<caption>(a) Plants, (b) algae, and (c) certain bacteria, called cyanobacteria, are photoautotrophs that can carry out photosynthesis. Algae can grow over enormous areas in water, at times completely covering the surface. (credit a: Steve Hillebrand, U.S. Fish and Wildlife Service; credit b: "eutrophication&amp;hypoxia"/Flickr; credit c: NASA; scale-bar data from Matt Russell)</caption></figure><para id="fs-idm12573056"><term>Heterotrophs</term> are organisms incapable of photosynthesis that must therefore obtain energy and carbon from food by consuming other organisms. The Greek roots of the word <emphasis effect="italics">heterotroph</emphasis> mean “other” (<emphasis effect="italics">hetero</emphasis>) “feeder” (<emphasis effect="italics">troph</emphasis>), meaning that their food comes from other organisms. Even if the food organism is another animal, this food traces its origins back to autotrophs and the process of photosynthesis. Humans are heterotrophs, as are all animals. Heterotrophs depend on autotrophs, either directly or indirectly. Deer and wolves are heterotrophs. A deer obtains energy by eating plants. A wolf eating a deer obtains energy that originally came from the plants eaten by that deer. The energy in the plant came from photosynthesis, and therefore it is the only autotroph in this example (<link target-id="fig-ch05_01_02" document=""/>). Using this reasoning, all food eaten by humans also links back to autotrophs that carry out photosynthesis.</para>
+<figure id="fig-ch05_01_02"><media id="fs-idm66456048" alt="This photo shows deer running through tall grass at the edge of a forest.">
+<image mime-type="image/jpg" src="../../media/Figure_05_01_02-e304.jpg" width="350"/>
+</media>
+<caption>The energy stored in carbohydrate molecules from photosynthesis passes through the food chain. The predator that eats these deer is getting energy that originated in the photosynthetic vegetation that the deer consumed. (credit: Steve VanRiper, U.S. Fish and Wildlife Service)</caption></figure><note id="fs-idm16899904" class="everyday non-majors"><label/><title>Biology in Action</title>
+<para id="eip-id1170943510846"><title>Photosynthesis at the Grocery Store</title></para>
+<figure id="fig-ch05_01_03"><media id="fs-idp46130816" alt="This photo shows people shopping in a grocery store">
+<image mime-type="image/jpg" src="../../media/Figure_05_01_03-37e7.jpg" width="350"/>
+</media>
+<caption>Photosynthesis is the origin of the products that comprise the main elements of the human diet. (credit: Associação Brasileira de Supermercados)</caption></figure><para id="fs-idp35788896">Major grocery stores in the United States are organized into departments, such as dairy, meats, produce, bread, cereals, and so forth. Each aisle contains hundreds, if not thousands, of different products for customers to buy and consume (<link target-id="fig-ch05_01_03" document=""/>).</para>
+<para id="fs-idp80703920">Although there is a large variety, each item links back to photosynthesis. Meats and dairy products link to photosynthesis because the animals were fed plant-based foods. The breads, cereals, and pastas come largely from grains, which are the seeds of photosynthetic plants. What about desserts and drinks? All of these products contain sugar—the basic carbohydrate molecule produced directly from photosynthesis. The photosynthesis connection applies to every meal and every food a person consumes.</para>
+</note></section>
+<section id="fs-idp74080912">
+<title>Main Structures and Summary of Photosynthesis</title>
+<para id="fs-idm49004592">Photosynthesis requires sunlight, carbon dioxide, and water as starting reactants (<link target-id="fig-ch05_01_04" document=""/>). After the process is complete, photosynthesis releases oxygen and produces carbohydrate molecules, most commonly glucose. These sugar molecules contain the energy that living things need to survive.</para>
+<figure id="fig-ch05_01_04"><media id="fs-idm14045168" alt="This photo shows a tree. Arrows indicate that the tree uses carbon dioxide, water, and sunlight to make sugars and release oxygen.">
+<image mime-type="image/jpg" src="../../media/Figure_05_01_04-97d8.jpg" width="350"/>
+</media>
+<caption>Photosynthesis uses solar energy, carbon dioxide, and water to release oxygen and to produce energy-storing sugar molecules.</caption></figure><para id="fs-idp58317920">The complex reactions of photosynthesis can be summarized by the chemical equation shown in <link target-id="fig-ch05_01_05" document=""/>.</para>
+<figure id="fig-ch05_01_05"><media id="fs-idp75301136" alt="The photosynthesis equation is shown. According to this equation, six carbon dioxide molecules and six water molecules produce one sugar molecule and one oxygen molecule. The sugar molecule is made of 6 carbons, 12 hydrogens, and 6 oxygens. Sunlight is used as an energy source.">
+<image mime-type="image/jpg" src="../../media/Figure_05_01_05-d4fb.jpg" width="400"/>
+</media>
+<caption>The process of photosynthesis can be represented by an equation, wherein carbon dioxide and water produce sugar and oxygen using energy from sunlight.</caption></figure><para id="fs-idm23337024">Although the equation looks simple, the many steps that take place during photosynthesis are actually quite complex, as in the way that the reaction summarizing cellular respiration represented many individual reactions. Before learning the details of how photoautotrophs turn sunlight into food, it is important to become familiar with the physical structures involved.</para>
+<para id="fs-idp32943776">In plants, photosynthesis takes place primarily in leaves, which consist of many layers of cells and have differentiated top and bottom sides. The process of photosynthesis occurs not on the surface layers of the leaf, but rather in a middle layer called the <term>mesophyll</term> (<link target-id="fig-ch05_01_06" document=""/>). The gas exchange of carbon dioxide and oxygen occurs through small, regulated openings called <term>stomata</term>.</para>
+<para id="fs-idm81350816">In all autotrophic eukaryotes, photosynthesis takes place inside an organelle called a <term>chloroplast</term>. In plants, chloroplast-containing cells exist in the mesophyll. Chloroplasts have a double (inner and outer) membrane. Within the chloroplast is a third membrane that forms stacked, disc-shaped structures called <term>thylakoids</term>. Embedded in the thylakoid membrane are molecules of <term>chlorophyll</term>, a <term>pigment</term> (a molecule that absorbs light) through which the entire process of photosynthesis begins. Chlorophyll is responsible for the green color of plants. The thylakoid membrane encloses an internal space called the thylakoid space. Other types of pigments are also involved in photosynthesis, but chlorophyll is by far the most important. As shown in <link target-id="fig-ch05_01_06" document=""/>, a stack of thylakoids is called a <term>granum</term>, and the space surrounding the granum is called <term>stroma</term> (not to be confused with stomata, the openings on the leaves).</para><note id="fs-idm32738896" class="visual-connection non-majors"><label/><title>Visual Connection</title>
+<para id="eip-idm69329920"><figure id="fig-ch05_01_06"><media id="fs-idp116613952" alt="The upper part of this illustration shows a leaf cross-section. In the cross-section, the mesophyll is sandwiched between an upper epidermis and a lower epidermis. The mesophyll has an upper part with rectangular cells aligned in a row, and a lower part with oval-shaped cells. An opening called a stomata exists in the lower epidermis. The middle part of this illustration shows a plant cell with a prominent central vacuole, a nucleus, ribosomes, mitochondria, and chloroplasts. The lower part of this illustration shows the chloroplast, which has pancake-like stacks of membranes inside.">
+<image mime-type="image/png" src="../../media/Figure_05_01_06.png" width="350"/>
+</media>
+<caption>Not all cells of a leaf carry out photosynthesis. Cells within the middle layer of a leaf have chloroplasts, which contain the photosynthetic apparatus. (credit "leaf": modification of work by Cory Zanker)</caption></figure></para>
+<para id="eip-idm38718032">On a hot, dry day, plants close their stomata to conserve water. What impact will this have on photosynthesis?</para>
+</note></section>
+<section id="fs-idm22733920">
+<title>The Two Parts of Photosynthesis</title>
+<para id="fs-idm76164192">Photosynthesis takes place in two stages: the light-dependent reactions and the Calvin cycle. In the <term>light-dependent reactions</term>, which take place at the thylakoid membrane, chlorophyll absorbs energy from sunlight and then converts it into chemical energy with the use of water. The light-dependent reactions release oxygen from the hydrolysis of water as a byproduct. In the Calvin cycle, which takes place in the stroma, the chemical energy derived from the light-dependent reactions drives both the capture of carbon in carbon dioxide molecules and the subsequent assembly of sugar molecules. The two reactions use carrier molecules to transport the energy from one to the other. The carriers that move energy from the light-dependent reactions to the Calvin cycle reactions can be thought of as “full” because they bring energy. After the energy is released, the “empty” energy carriers return to the light-dependent reactions to obtain more energy. The two-stage, two-location photosynthesis process was discovered by Joan Mary Anderson, whose continuing work over the subsequent decades provided much of our understanding of the process, the membranes, and the chemicals involved.</para>
+</section>
+<section id="fs-idm12782656" class="summary">
+<title>Section Summary</title><para id="fs-idm26313904">The process of photosynthesis transformed life on earth. By harnessing energy from the sun, photosynthesis allowed living things to access enormous amounts of energy. Because of photosynthesis, living things gained access to sufficient energy, allowing them to evolve new structures and achieve the biodiversity that is evident today.</para>
+<para id="fs-idm25424272">Only certain organisms, called autotrophs, can perform photosynthesis; they require the presence of chlorophyll, a specialized pigment that can absorb light and convert light energy into chemical energy. Photosynthesis uses carbon dioxide and water to assemble carbohydrate molecules (usually glucose) and releases oxygen into the air. Eukaryotic autotrophs, such as plants and algae, have organelles called chloroplasts in which photosynthesis takes place.</para>
+</section>
+<section id="fs-idm36201104" class="visual-exercise">
+<title>Art Connections</title>
+<exercise id="fs-idm75360288"><problem id="fs-idp86358784">
+<para id="fs-idp57259104"><link target-id="fig-ch05_01_06" document=""/> On a hot, dry day, plants close their stomata to conserve water. What impact will this have on photosynthesis?</para>
+</problem>
+<solution id="eip-idm138455696"><label/>
+<para id="fs-idm88865680"><link target-id="fig-ch05_01_06" document=""/> Levels of carbon dioxide (a reactant) will fall, and levels of oxygen (a product) will rise. As a result, the rate of photosynthesis will slow down.</para>
+</solution>
+</exercise></section>
+<section id="fs-idm59588464" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idm46617712">
+<problem id="fs-idm49974144"><para id="fs-idm51595584">What two products result from photosynthesis?</para>
+<list id="fs-idp32124272" list-type="enumerated" number-style="lower-alpha">
+<item>water and carbon dioxide</item>
+<item>water and oxygen</item>
+<item>glucose and oxygen</item>
+<item>glucose and carbon dioxide</item>
+</list>
+</problem>
+<solution id="fs-idp8821680">
+<label/>
+<para id="fs-idp3669152">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm63332400">
+<problem id="fs-idm58244304"><para id="fs-idp14131648">Which statement about thylakoids in eukaryotes is <emphasis effect="italics">not</emphasis> correct?</para><list id="fs-idm34375824" list-type="enumerated" number-style="lower-alpha">
+<item>Thylakoids are assembled into stacks.</item>
+<item>Thylakoids exist as a maze of folded membranes.</item>
+<item>The space surrounding thylakoids is called stroma.</item>
+<item>Thylakoids contain chlorophyll.</item>
+</list>
+</problem>
+<solution id="fs-idm56050560">
+<label/>
+<para id="fs-idm131830544">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm66714128">
+<problem id="fs-idp86058480">
+<para id="fs-idp128539488">From where does a heterotroph directly obtain its energy?</para>
+<list id="fs-idp80518176" list-type="enumerated" number-style="lower-alpha">
+<item>the sun</item>
+<item>the sun and eating other organisms</item>
+<item>eating other organisms</item>
+<item>simple chemicals in the environment</item>
+</list>
+</problem>
+<solution id="fs-idp101276192">
+<label/>
+<para id="fs-idp62504320">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm48511936" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idp46761456">
+<problem id="fs-idp83309936"><para id="fs-idm14098240">What is the overall purpose of the light reactions in photosynthesis?</para></problem>
+<solution id="fs-idm48937424"><label/>
+<para id="fs-idm75132896">To convert solar energy into chemical energy that cells can use to do work.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp7361088">
+<problem id="fs-idm51097168"><para id="fs-idm5540944">Why are carnivores, such as lions, dependent on photosynthesis to survive?</para></problem>
+<solution id="fs-idp49844256"><label/>
+<para id="fs-idm51354432">Because lions eat animals that eat plants.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm53200128"><term>autotroph</term> <meaning id="fs-idm34274544">an organism capable of producing its own food</meaning></definition>
+<definition id="fs-idm56287280"><term>chlorophyll</term> <meaning id="fs-idp34032896">the green pigment that captures the light energy that drives the reactions of photosynthesis</meaning></definition>
+<definition id="fs-idm11867904"><term>chloroplast</term> <meaning id="fs-idm52585504">the organelle where photosynthesis takes place</meaning></definition>
+<definition id="fs-idm48921600"><term>granum</term> <meaning id="fs-idp3724304">a stack of thylakoids located inside a chloroplast</meaning></definition>
+<definition id="fs-idm56222208"><term>heterotroph</term> <meaning id="fs-idm48180080">an organism that consumes other organisms for food</meaning></definition>
+<definition id="fs-idp73992592"><term>light-dependent reaction</term> <meaning id="fs-idm125261360">the first stage of photosynthesis where visible light is absorbed to form two energy-carrying molecules (ATP and NADPH)</meaning></definition>
+<definition id="fs-idm48783808"><term>mesophyll</term> <meaning id="fs-idp51515872">the middle layer of cells in a leaf</meaning></definition>
+<definition id="fs-idp49489456"><term>photoautotroph</term> <meaning id="fs-idm16896960">an organism capable of synthesizing its own food molecules (storing energy), using the energy of light</meaning></definition>
+<definition id="fs-idm77245808"><term>pigment</term> <meaning id="fs-idp41778784">a molecule that is capable of absorbing light energy</meaning></definition>
+<definition id="fs-idp37341392"><term>stoma</term> <meaning id="fs-idp80520816">the opening that regulates gas exchange and water regulation between leaves and the environment; plural: stomata</meaning></definition>
+<definition id="fs-idm63427264"><term>stroma</term> <meaning id="fs-idm53492048">the fluid-filled space surrounding the grana inside a chloroplast where the Calvin cycle reactions of photosynthesis take place</meaning></definition>
+<definition id="fs-idm15679456"><term>thylakoid</term> <meaning id="fs-idm36722784">a disc-shaped membranous structure inside a chloroplast where the light-dependent reactions of photosynthesis take place using chlorophyll embedded in the membranes</meaning></definition>
+</glossary>
+</document>

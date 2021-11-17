@@ -1,0 +1,338 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Enzymes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62778</md:content-id>
+  <md:title>Enzymes</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the role of enzymes in metabolic pathways</item>
+<item>Explain how enzymes function as molecular catalysts</item>
+<item>Discuss enzyme regulation by various factors</item>
+</list></md:abstract>
+  <md:uuid>99b98703-3f88-4b35-88f9-9f53c7cc614d</md:uuid>
+</metadata>
+
+<content>
+
+<section id="fs-id1167065896788" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167065788605">In this section, you will explore the following questions:</para>
+<list id="fs-id1167065916252"><item class="ost-learning-objective-def ost-tag-lo-apbio-ch06-s05-lo01">What is the role of enzymes in metabolic pathways?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch06-s05-lo02">How do enzymes function as molecular catalysts?</item>
+</list></section>
+
+
+<section id="fs-id1167065878357" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167066046193">Many chemical reactions in cells occur spontaneously, but happen too slowly to meet the needs of a cell. For example, a teaspoon of sucrose (table sugar), a disaccharide, in a glass of iced tea will take time to break down into two monosaccharides, glucose and fructose; however, if you add a small amount of the enzyme sucrase to the tea, sucrose breaks down almost immediately. Sucrase is an example of an enzyme, a type of biological catalyst. Enzymes are macromoleculesmost often proteinsthat speed up chemical reactions by lowering activation energy barriers. Enzymes are very specific for the reactions they catalyze; because they are polypeptides, enzymes can have a variety of shapes attributed to interactions among amino acid R-groups. One part of the enzyme, the active site, interacts with the substrate via the induced fit model of interaction. Substrate binding alters the shape of the enzyme to facilitate the chemical reaction in several different ways, including bringing substrates together in an optimal orientation. After the reaction finishes, the product(s) are released, and the active site returns to its original shape.</para>
+<para id="fs-id1167065893925" class="ost-reading-discard">Enzyme activity, and thus the rate of an enzyme-catalyzed reaction, is regulated by environmental conditions, including the amount of substrate, temperature, pH, and the presence of coenzymes, cofactors, activators, and inhibitors. Inhibitors, coenzymes, and cofactors can act competitively by binding to the enzymes active site, or noncompetitively by binding to the enzymes allosteric site. An allosteric site is an alternate part of the enzyme that can bind to nonsubstrate molecules. Enzymes work most efficiently under optimal conditions that are specific to the enzyme. For example, trypsin, an enzyme in the human small intestine, works most efficiently at pH 8, whereas pepsin in the stomach works best under acidic conditions. Sometimes environmental factors, especially low pH and high temperatures, alter the shape of the active site; if the shape cannot be restored, the enzyme denatures. The most common method of enzyme regulation in metabolic pathways is via feedback inhibition. </para>
+<para id="fs-id1167066020780" class="ost-reading-discard">How can various factors, such as feedback inhibition, regulate enzyme activity?</para>
+<para id="fs-id1167066039336" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The learning objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven science practices.</para>
+<table id="fs-id1167066112588" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 4.B.1 Interactions between molecules affect their structure and function. Second left cell reads: Science Practice. Second right cell reads: 5.1 The student can analyze data to identify patterns or relationships. Third left cell reads: Learning Objective. Third right cell reads: 4.17 The student is able to analyze data to identify how molecular interactions affect structure and function." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2">
+<colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
+<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
+<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.B</emphasis></entry>
+<entry class="ost-standards-description">Competition and cooperation are important aspects of biological systems.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>4.B.1</emphasis></span>
+<span class="ost-standards-description">Interactions between molecules affect their structure and function.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5.1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>5.1</emphasis></span>
+<span class="ost-standards-description">The student can analyze data to identify patterns or relationships.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s05-aplo-4-17">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>4.17</emphasis></span>
+<span class="ost-standards-description">The student is able to analyze data to identify how molecular interactions affect structure and function.</span>
+</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+
+
+<note id="fs-id1167065847564" class="os-teacher">
+<label>Teacher Support</label>
+<note id="fs-id1167065812330" class="ost-misconception">
+<label>Misconception Alert</label>
+<para id="fs-id1167065891394">The idea that enzymes help chemical reactions to occur, but do not take part in the chemical reaction and are not changed by it can be confusing. Stress that an enzyme and substrate do not covalently bind to each other and the association is temporary. <link target-id="fig-ch06_05_02"/> is useful in illustrating enzyme function. If two compounds are to be joined into one during the reaction, and they would anyway if left alone long enough, the enzyme molecule brings them close enough for the reaction to occur faster. If a large molecule is to be split into smaller units, the enzyme stresses the molecule and makes it easier for the covalent bonds holding the molecule to break. In both cases, the enzyme molecule subtlety changes its shape after attaching to the substrate (s). This creates an intermediate phase of the reaction and an enzyme-substrate complex. When the reaction is complete and the product(s) disassociate, the enzyme returns to its original shape.</para></note></note>
+<para id="fs-id1166848902512">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.15][APLO 4.8][APLO 2.16]</para><para id="fs-id1910884">A substance that helps a chemical reaction to occur is a catalyst, and the special molecules that catalyze biochemical reactions are called enzymes. Almost all enzymes are proteins, made up of chains of amino acids, and they perform the critical task of lowering the activation energies of chemical reactions inside the cell.  Enzymes do this by binding to the reactant molecules, and holding them in such a way as to make the chemical bond-breaking and bond-forming processes take place more readily. It is important to remember that enzymes don’t change the ∆G  of a reaction. In other words, they don’t change whether a reaction is exergonic (spontaneous) or endergonic. This is because they don’t change the free energy of the reactants or products. They only reduce the activation energy required to reach the transition state (<link target-id="fs-id1167064994148" document=""/>).</para><figure id="fs-id1167064994148" class="ost-tag-lo-apbio-ch06-s05-lo02 ost-tag-lo-apbio-ch06-s05-aplo-4-17">
+<media id="fs-id2016604" alt="This plot shows that a catalyst decreases the activation energy for a reaction but does not change the Gibbs free energy.">
+<image mime-type="image/jpg" src="../../media/Figure_06_05_01.jpg" width="300"/>
+</media>
+<caption>Enzymes lower the activation energy of the reaction but do not change the free energy of the reaction.</caption></figure>
+<section id="fs-id2596668" class="ost-tag-lo-apbio-ch06-s05-lo01 ost-tag-lo-apbio-ch06-s05-aplo-4-17 ost-get-exercise">
+<title>Enzyme Active Site and Substrate Specificity</title>
+<para id="fs-id2322412">The chemical reactants to which an enzyme binds are the enzyme’s <term>substrates</term>. There may be one or more substrates, depending on the particular chemical reaction. In some reactions, a single-reactant substrate is broken down into multiple products. In others, two substrates may come together to create one larger molecule. Two reactants might also enter a reaction, both become modified, and leave the reaction as two products. The location within the enzyme where the substrate binds is called the enzyme’s <term>active site</term>. The active site is where the “action” happens, so to speak. Since enzymes are proteins, there is a unique combination of amino acid residues (also called side chains, or R groups) within the active site. Each residue is characterized by different properties. Residues can be large or small, weakly acidic or basic, hydrophilic or hydrophobic, positively or negatively charged, or neutral. The unique combination of amino acid residues, their positions, sequences, structures, and properties, creates a very specific chemical environment within the active site. This specific environment is suited to bind, albeit briefly, to a specific chemical substrate (or substrates). Due to this jigsaw puzzle-like match between an enzyme and its substrates (which adapts to find the best fit between the transition state and the active site), enzymes are known for their specificity. The “best fit” results from the shape and the amino acid functional group’s attraction to the substrate. There is a specifically matched enzyme for each substrate and, thus, for each chemical reaction; however, there is flexibility as well.</para>
+<para id="fs-id1344546">The fact that active sites are so perfectly suited to provide specific environmental conditions also means that they are subject to influences by the local environment. It is true that increasing the environmental temperature generally increases reaction rates, enzyme-catalyzed or otherwise. However, increasing or decreasing the temperature outside of an optimal range can affect chemical bonds within the active site in such a way that they are less well suited to bind substrates. High temperatures will eventually cause enzymes, like other biological molecules, to <term>denature</term>, a process that changes the natural properties of a substance. Likewise, the pH of the local environment can also affect enzyme function. Active site amino acid residues have their own acidic or basic properties that are optimal for catalysis. These residues are sensitive to changes in pH that can impair the way substrate molecules bind. Enzymes are suited to function best within a certain pH range, and, as with temperature, extreme pH values (acidic or basic) of the environment can cause enzymes to denature.</para>
+<section id="fs-id1167065764493" class="ost-tag-lo-apbio-ch06-s05-lo02 ost-tag-lo-apbio-ch06-s05-aplo-4-17 ost-get-exercise">
+<title>Induced Fit and Enzyme Function</title>
+<para id="fs-id2781386">For many years, scientists thought that enzyme-substrate binding took place in a simple “lock-and-key” fashion. This model asserted that the enzyme and substrate fit together perfectly in one instantaneous step. However, current research supports a more refined view called <term>induced fit</term> (<link target-id="fig-ch06_05_02" document=""/>). The induced-fit model expands upon the lock-and-key model by describing a more dynamic interaction between enzyme and substrate. As the enzyme and substrate come together, their interaction causes a mild shift in the enzyme’s structure that confirms an ideal binding arrangement between the enzyme and the transition state of the substrate. This ideal binding maximizes the enzyme’s ability to catalyze its reaction.</para>
+<note id="fs-id1986955" class="interactive ost-tag-lo-apbio-ch06-s05-aplo-4-17 ost-tag-lo-apbio-ch06-s05-lo02 ost-assessed-feature"><label>Link to Learning</label>
+<para id="fs-id2065566">View an animation of induced fit at <link window="new" url="http://openstax.org/l/hexokinase">this website</link>.
+</para><exercise id="fs-id1167065915220" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065877437">
+<para id="fs-id1167064909612"><link class="os-embed" url="#ost/api/ex/apbio-ch06-ex056"/>
+</para></problem>
+</exercise></note>
+
+
+
+<para id="fs-id2008559">When an enzyme binds its substrate, an enzyme-substrate complex is formed. This complex lowers the activation energy of the reaction and promotes its rapid progression in one of many ways. On a basic level, enzymes promote chemical reactions that involve more than one substrate by bringing the substrates together in an optimal orientation. The appropriate region (atoms and bonds) of one molecule is juxtaposed to the appropriate region of the other molecule with which it must react. Another way in which enzymes promote the reaction of their substrates is by creating an optimal environment within the active site for the reaction to occur. Certain chemical reactions might proceed best in a slightly acidic or non-polar environment. The chemical properties that emerge from the particular arrangement of amino acid residues within an active site create the perfect environment for an enzyme’s specific substrates to react.</para>
+<para id="fs-id2865494">You’ve learned that the activation energy required for many reactions includes the energy involved in manipulating or slightly contorting chemical bonds so that they can easily break and allow others to reform. Enzymatic action can aid this process. The enzyme-substrate complex can lower the activation energy by contorting substrate molecules in such a way as to facilitate bond-breaking, helping to reach the transition state. Finally, enzymes can also lower activation energies by taking part in the chemical reaction itself. The amino acid residues can provide certain ions or chemical groups that actually form covalent bonds with substrate molecules as a necessary step of the reaction process. In these cases, it is important to remember that the enzyme will always return to its original state at the completion of the reaction. One of the hallmark properties of enzymes is that they remain ultimately unchanged by the reactions they catalyze. After an enzyme is done catalyzing a reaction, it releases its product(s).</para>
+<figure id="fig-ch06_05_02" class="ost-tag-lo-apbio-ch06-s05-lo02 ost-tag-lo-apbio-ch06-s05-aplo-4-17"><media id="fs-id2308932" alt="In this diagram, a substrate binds the active site of an enzyme and, in the process, both the shape of the enzyme and the shape of the substrate change. The substrate is converted to products that then leave the enzyme’s active site.">
+<image mime-type="image/jpg" src="../../media/Figure_06_05_03.jpg" width="500"/>
+</media>
+<caption>According to the induced-fit model, both enzyme and substrate undergo dynamic conformational changes upon binding. The enzyme contorts the substrate into its transition state, thereby increasing the rate of the reaction.</caption></figure></section>
+</section>
+
+<note id="fs-id1167065772677" class="ap-science-practices ost-reading-discard"><label>Science Practice Connection for AP<sup>®</sup> Courses</label>
+<note id="fs-id1167065951372" class="ost-assignable ost-sciprac-scithink">
+
+<exercise id="fs-id1167065895971" class="ost-tag-lo-apbio-ch06-s05-aplo-2-12 unnumbered"><label/>
+<problem id="fs-id1167065765989"><para id="fs-id1167066103781">AP Biology Investigation 13: Enzyme Activity. This investigation allows you to design and conduct experiments to explore the effects of environmental variables, such as temperature and pH, on the rates of enzymatic reactions.</para></problem></exercise>
+</note></note><note id="fs-id1167065887171" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167066095772">This lab investigation is an application of LO 4.17 and Science Practice 5.1 because you will analyze experimental data to determine how various environment conditions affect enzyme structure and function and, thus, the rate of enzyme-catalyzed reactions.</para>
+<para id="fs-id1167065742868">An expanded lab investigation for enzymes, involving determining the effect of pH on the action of turnip peroxidase, is available from the College Board’s ® <emphasis effect="italics">AP Biology Investigative Labs: An Inquiry-Based Approach</emphasis>, <link window="new" url="http://openstax.org/l/32BioLab13">Investigation 13</link>.</para>
+</note>
+
+<section id="fs-id1167066037354" class="ost-tag-lo-apbio-ch06-s05-lo02 ost-get-exercise">
+<title>Control of Metabolism Through Enzyme Regulation</title>
+<para id="fs-id2115354">It would seem ideal to have a scenario in which all of the enzymes encoded in an organism’s genome existed in abundant supply and functioned optimally under all cellular conditions, in all cells, at all times. In reality, this is far from the case. A variety of mechanisms ensure that this does not happen. Cellular needs and conditions vary from cell to cell, and change within individual cells over time. The required enzymes and energetic demands of stomach cells are different from those of fat storage cells, skin cells, blood cells, and nerve cells. Furthermore, a digestive cell works much harder to process and break down nutrients during the time that closely follows a meal compared with many hours after a meal. As these cellular demands and conditions vary, so do the amounts and functionality of different enzymes.</para>
+<para id="fs-id1422858">Since the rates of biochemical reactions are controlled by activation energy, and enzymes lower and determine activation energies for chemical reactions, the relative amounts and functioning of the variety of enzymes within a cell ultimately determine which reactions will proceed and at which rates. This determination is tightly controlled. In certain cellular environments, enzyme activity is partly controlled by environmental factors, like pH and temperature. There are other mechanisms through which cells control the activity of enzymes and determine the rates at which various biochemical reactions will occur.</para>
+<section id="fs-id1759834" class="ost-get-exercise"><title>Regulation of Enzymes by Molecules</title><para id="fs-id1465037">Enzymes can be regulated in ways that either promote or reduce their activity. There are many different kinds of molecules that inhibit or promote enzyme function, and various mechanisms exist for doing so. In some cases of enzyme inhibition, for example, an inhibitor molecule is similar enough to a substrate that it can bind to the active site and simply block the substrate from binding. When this happens, the enzyme is inhibited through <term>competitive inhibition</term>, because an inhibitor molecule competes with the substrate for active site binding (<link target-id="fs-id1167065897726" document=""/>). On the other hand, in <term>noncompetitive inhibition</term>, an inhibitor molecule binds to the enzyme in a location other than the active site, called an allosteric site, but still manages to prevent substrate binding to the active site. Some inhibitor molecules bind to enzymes in a location where their binding induces a conformational change that reduces the enzyme activity as it no longer effectively catalyzes the conversion of the substrate to product.</para><figure id="fs-id1167065897726" class="ost-tag-lo-apbio-ch06-s05-lo02 ost-tag-lo-apbio-ch06-s05-aplo-4-17">
+<media id="fs-id2116339" alt="This plot shows rate of reaction versus substrate concentration for an enzyme in the absence of inhibitor, and for enzyme in the presence of competitive and noncompetitive inhibitors. Both competitive and noncompetitive inhibitors slow the rate of reaction, but competitive inhibitors can be overcome by high concentrations of substrate, whereas noncompetitive inhibitors cannot.">
+<image mime-type="image/jpg" src="../../media/Figure_06_05_04.jpg" width="300"/>
+</media>
+<caption>Competitive and noncompetitive inhibition affect the rate of reaction differently. Competitive inhibitors affect the initial rate but do not affect the maximal rate, whereas noncompetitive inhibitors affect the maximal rate.</caption></figure>
+<para id="fs-id1167065851161" class="ost-tag-lo-apbio-ch06-s05-lo02 ost-tag-lo-apbio-ch06-s05-aplo-4-17">Some inhibitor molecules bind to enzymes in a location where their binding induces a conformational change that reduces the affinity of the enzyme for its substrate. This type of inhibition is called <term>allosteric inhibition</term> (<link target-id="fig-ch06_05_04" document=""/>). Most allosterically regulated enzymes are made up of more than one polypeptide, meaning that they have more than one protein subunit. When an allosteric inhibitor binds to an enzyme, all active sites on the protein subunits are changed slightly such that they bind their substrates with less efficiency. There are allosteric activators as well as inhibitors. Allosteric activators bind to locations on an enzyme away from the active site, inducing a conformational change that increases the affinity of the enzyme’s active site(s) for its substrate(s).</para>
+<figure id="fig-ch06_05_04" class="  "><media id="fs-id1695581" alt="The left part of this diagram shows allosteric inhibition. The allosteric inhibitor binds to the enzyme at a site other than the active site. The shape of the active site is altered so that the enzyme can no longer bind to its substrate. The right part of this diagram shows allosteric activation. The allosteric activator binds to the enzyme at a site other than the active site. The shape of the active site is changed, allowing substrate to bind at a higher affinity.">
+<image mime-type="image/jpg" src="../../media/Figure_06_05_05.jpg" width="400"/>
+</media>
+<caption>Allosteric inhibitors modify the active site of the enzyme so that substrate binding is reduced or prevented. In contrast, allosteric activators modify the active site of the enzyme so that the affinity for the substrate increases.</caption></figure>
+<note id="fs-id1975059" class="everyday ost-feature"><title>Drug Discovery by Looking for Inhibitors of Key Enzymes in Specific Pathways</title>
+
+<figure id="fig-ch06_05_05"><media id="fs-id1443107" alt="This photo shows several red capsule pills.">
+<image mime-type="image/jpg" src="../../media/Figure_06_05_08.jpg" width="300"/>
+</media>
+<caption>Have you ever wondered how pharmaceutical drugs are developed? (credit: Deborah Austin)</caption></figure>
+<para id="fs-id2583817">Enzymes are key components of metabolic pathways. Understanding how enzymes work and how they can be regulated is a key principle behind the development of many of the pharmaceutical drugs (<link target-id="fig-ch06_05_05" document=""/>) on the market today. Biologists working in this field collaborate with other scientists, usually chemists, to design drugs.</para>
+<para id="fs-id1341136">Consider statins for example—which is the name given to the class of drugs that reduces cholesterol levels. These compounds are essentially inhibitors of the enzyme HMG-CoA reductase. HMG-CoA reductase is the enzyme that synthesizes cholesterol from lipids in the body. By inhibiting this enzyme, the levels of cholesterol synthesized in the body can be reduced. Similarly, acetaminophen is an inhibitor
+of the enzyme cyclooxygenase. While it is effective in providing relief from fever and inflammation (pain), its mechanism of action is still not completely understood.</para>
+<para id="fs-id2018996">How are drugs developed? One of the first challenges in drug development is identifying the specific molecule that the drug is intended to target. In the case of statins, HMG-CoA reductase is the drug target. Drug targets are identified through painstaking research in the laboratory. Identifying the target alone is not sufficient; scientists also need to know how the target acts inside the cell and which reactions go awry in the case of disease. Once the target and the pathway are identified, then the actual process of drug design begins. During this stage, chemists and biologists work together to design and synthesize molecules that can either block or activate a particular reaction. However, this is only the beginning: both if and when a drug prototype is successful in performing its function, then it must undergo many tests from <emphasis effect="italics">in vitro</emphasis> experiments to clinical trials before it can get FDA approval to be on the market.</para><exercise id="fs-id1167065865711" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167065827487">
+<para id="fs-id1167066094839"><link class="os-embed" url="#ost/api/ex/apbio-ch06-ex057"/>
+</para></problem>
+</exercise></note><para id="fs-id1167065825541" class="ost-tag-lo-apbio-ch06-s05-lo02">Many enzymes don’t work optimally, or even at all, unless bound to other specific non-protein helper molecules, either temporarily through ionic or hydrogen bonds or permanently through stronger covalent bonds. Two types of helper molecules are <term>cofactors</term> and <term>coenzymes</term>. Binding to these molecules promotes optimal conformation and function for their respective enzymes. Cofactors are inorganic ions such as iron (Fe++) and magnesium (Mg++). One example of an enzyme that requires a metal ion as a cofactor is the enzyme that builds DNA molecules, DNA polymerase, which requires a bound zinc ion (Zn++) to function. Coenzymes are organic helper molecules, with a basic atomic structure made up of carbon and hydrogen, which are required for enzyme action. The most common sources of coenzymes are dietary vitamins (<link target-id="fig-ch06_05_06" document=""/>). Some vitamins are precursors to coenzymes and others act directly as coenzymes. Vitamin C is a coenzyme for multiple enzymes that take part in building the important connective tissue component, collagen. An important step in the breakdown of glucose to yield energy is catalysis by a multi-enzyme complex called pyruvate dehydrogenase. Pyruvate dehydrogenase is a complex of several enzymes that actually requires one cofactor (a magnesium ion) and five different organic coenzymes to catalyze its specific chemical reaction. Therefore, enzyme function is, in part, regulated by an abundance of various cofactors and coenzymes, which are supplied primarily by the diets of most organisms.</para><figure id="fig-ch06_05_06" class="  "><media id="fs-id2918854" alt="Shown are the molecular structures for Vitamin A, folic acid, Vitamin B1, Vitamin C, Vitamin B2, Vitamin D2, Vitamin B6, and Vitamin E.">
+<image mime-type="image/jpg" src="../../media/Figure_06_05_06.jpg" width="400"/>
+</media>
+<caption>Vitamins are important coenzymes or precursors of coenzymes, and are required for enzymes to function properly. Multivitamin capsules usually contain mixtures of all the vitamins at different percentages.</caption></figure></section><section id="fs-id1167066155690" class="ost-tag-lo-apbio-ch06-s05-lo02 ost-get-exercise">
+<title>Enzyme Compartmentalization</title>
+<para id="fs-id1524656">In eukaryotic cells, molecules such as enzymes are usually compartmentalized into different organelles. This allows for yet another level of regulation of enzyme activity. Enzymes required only for certain cellular processes can be housed separately along with their substrates, allowing for more efficient chemical reactions. Examples of this sort of enzyme regulation based on location and proximity include the enzymes involved in the latter stages of cellular respiration, which take place exclusively in the mitochondria, and the enzymes involved in the digestion of cellular debris and foreign materials, located within lysosomes.</para>
+</section>
+<section id="fs-id1167065656047" class="ost-tag-lo-apbio-ch06-s05-lo02 ost-get-exercise">
+<title>Feedback Inhibition in Metabolic Pathways</title>
+<para id="fs-id1596004">Molecules can regulate enzyme function in many ways. A major question remains, however: What are these molecules and where do they come from? Some are cofactors and coenzymes, ions, and organic molecules, as you’ve learned. What other molecules in the cell provide enzymatic regulation, such as allosteric modulation, and competitive and noncompetitive inhibition? The answer is that a wide variety of molecules can perform these roles. Some of these molecules include pharmaceutical and non-pharmaceutical drugs, toxins, and poisons from the environment. Perhaps the most relevant sources of enzyme regulatory molecules, with respect to cellular metabolism, are the products of the cellular metabolic reactions themselves. In a most efficient and elegant way, cells have evolved to use the products of their own reactions for feedback inhibition of enzyme activity. <term>Feedback inhibition</term> involves the use of a reaction product to regulate its own further production (<link target-id="fig-ch06_05_07" document=""/>). The cell responds to the abundance of specific products by slowing down production during anabolic or catabolic reactions. Such reaction products may inhibit the enzymes that catalyzed their production through the mechanisms described above.</para>
+<figure id="fig-ch06_05_07" class="ost-tag-lo-apbio-ch06-s05-lo02 ost-tag-lo-apbio-ch06-s05-aplo-4-17"><media id="fs-id1507066" alt="This diagram shows a metabolic pathway in which three enzymes convert a substrate, in three steps, into a final product. The final product inhibits the first enzyme in the pathway.">
+<image mime-type="image/jpg" src="../../media/Figure_06_05_07.jpg" width="500"/>
+</media>
+<caption>Metabolic pathways are a series of reactions catalyzed by multiple enzymes. Feedback inhibition, where the end product of the pathway inhibits an upstream step, is an important regulatory mechanism in cells.</caption></figure><para id="fs-id2115837">The production of both amino acids and nucleotides is controlled through feedback inhibition. Additionally, ATP is an allosteric regulator of some of the enzymes involved in the catabolic breakdown of sugar, the process that produces ATP. In this way, when ATP is abundant, the cell can prevent its further production. Remember that ATP is an unstable molecule that can spontaneously dissociate into ADP. If too much ATP were present in a cell, much of it would go to waste. On the other hand, ADP serves as a positive allosteric regulator (an allosteric activator) for some of the same enzymes that are inhibited by ATP. Thus, when relative levels of ADP are high compared to ATP, the cell is triggered to produce more ATP through the catabolism of sugar.</para>
+</section>
+</section>
+
+<note id="fs-id1167065848138" class="os-teacher"><label>Teacher Support</label>
+<para id="fs-id1167065872630">Ask students which inhibition is more effective at slowing or limiting the reaction? Relate this to the examples available and discuss why these would be used in specific instances.</para><para id="fs-id1167065700592">Have the class research antimicrobial treatments that are based on enzyme inhibition, not on the administration of traditional antibiotics.</para>
+<note id="fs-id1167065843048" class="ost-background-info">
+<label>Background Information</label>
+<para id="fs-id1167065715412">Enzymes are not changed by the chemicals they facilitate; therefore, they can be used repeatedly. Yet, how do you keep them from catalyzing reactions when you do not need or want them to react anymore? If enzymes could not be controlled, the reactions would continue until the substrates were depleted, which is not a good situation for a living organism. Competitive and noncompetitive inhibition explains the control of enzyme activity. Research several examples of both in living organisms and explain why they are necessary. Amino acid production is one useful example. Amino acids are required for protein production, but too high a level of any amino acid is toxic, so the pathways must be controlled. Use the feedback inhibition of several pathways as examples.</para>
+</note>
+</note><section id="fs-id2348636" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id2927047">Enzymes are chemical catalysts that accelerate chemical reactions at physiological temperatures by lowering their activation energy. Enzymes are usually proteins consisting of one or more polypeptide chains. Enzymes have an active site that provides a unique chemical environment, made up of certain amino acid R groups (residues). This unique environment is perfectly suited to convert particular chemical reactants for that enzyme, called substrates, into unstable intermediates called transition states. Enzymes and substrates are thought to bind with an induced fit, which means that enzymes undergo slight conformational adjustments upon substrate contact, leading to full, optimal binding. Enzymes bind to substrates and catalyze reactions in four different ways: bringing substrates together in an optimal orientation, compromising the bond structures of substrates so that bonds can be more easily broken, providing optimal environmental conditions for a reaction to occur, or participating directly in their chemical reaction by forming transient covalent bonds with the substrates.</para>
+<para id="fs-id2155353">Enzyme action must be regulated so that in a given cell at a given time, the desired reactions are being catalyzed and the undesired reactions are not. Enzymes are regulated by cellular conditions, such as temperature and pH. They are also regulated through their location within a cell, sometimes being compartmentalized so that they can only catalyze reactions under certain circumstances. Inhibition and activation of enzymes via other molecules are other important ways that enzymes are regulated. Inhibitors can act competitively, noncompetitively, or allosterically; noncompetitive inhibitors are usually allosteric. Activators can also enhance the function of enzymes allosterically. The most common method by which cells regulate the enzymes in metabolic pathways is through feedback inhibition. During feedback inhibition, the products of a metabolic pathway serve as inhibitors (usually allosteric) of one or more of the enzymes (usually the first committed enzyme of the pathway) involved in the pathway that produces them.</para>
+</section>
+<section id="fs-id1167065769732" class="ost-reading-discard ost-chapter-review review"><title>Review Questions</title><exercise id="fs-id1167065662827" class="os-exercise">
+<problem id="fs-id1167065814821">
+<para id="fs-id1167065838137">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex058"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066137287" class="os-exercise">
+<problem id="fs-id1167065844074">
+<para id="fs-id1167065728621">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex059"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167064915278" class="os-exercise">
+<problem id="fs-id1167066097827">
+<para id="fs-id1167065800127">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex060"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066055186" class="os-exercise">
+<problem id="fs-id1167064894831">
+<para id="fs-id1167066097212">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex061"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166851119265" class="os-exercise">
+<problem id="eip-id1166851238864">
+<para id="eip-id1166848859940">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ot036"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066055467" class="ost-reading-discard ost-chapter-review critical-thinking"><title>Critical Thinking Questions</title><exercise id="fs-id1167066113551" class="os-exercise">
+<problem id="fs-id1167066038451">
+<para id="fs-id1167066098678">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex062"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167065769426" class="os-exercise">
+<problem id="fs-id1167065826348">
+<para id="fs-id1167065857581">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex063"/>
+</para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1166851214659" class="os-exercise">
+<problem id="eip-id1166848723688">
+<para id="eip-id1166851124497">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ot038"/>
+</para>
+</problem>
+</exercise></section><section id="fs-id1167066137833" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167065977936" class="os-exercise">
+<problem id="fs-id1167064941488">
+<para id="fs-id1167065800953">
+<link class="os-embed ost-tag-lo-apbio-ch06-s05-aplo-4-17" url="#ost/api/ex/apbio-ch06-ex064"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066020823" class="os-exercise">
+<problem id="fs-id1167065867801">
+<para id="fs-id1167064825093">
+<link class="os-embed ost-tag-lo-apbio-ch06-s05-aplo-4-17" url="#ost/api/ex/apbio-ch06-ex065"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164565250819" class="ost-chapter-review ost-reading-discard science-practice">
+<title>Science Practice Challenge Questions</title>
+<exercise id="fs-id1164564925429">
+<problem id="fs-id1164566934280">
+<para id="fs-id1164563196417">Vitamin B<sub>12</sub> is a co-enzyme involved in a wide variety of cellular processes. Synthesis of vitamin B<sub>12</sub> occurs only in bacteria; in animals, these bacteria populate anaerobic environments in the gut. Consequently, vegan diets in developing nations and diets common to developing nations provide no source of B<sub>12</sub>. Researchers (Ghosh et al. http://dx.doi.org/10.3389/fnut.2016.00001]) found that rats whose diets contained limited (L) and no (N) B<sub>12</sub> displayed symptoms that were not observed in the control group (C) whose diet included B<sub>12</sub> and was otherwise identical. Chemical analysis of adipocytokines in the plasma after feeding periods of 4 and 12 weeks are shown in the following table.</para>
+<table id="fs-id1164562177904" summary="This table contains 5 columns. From left to right, the columns are labeled, 1, Adipocytokines Tissue of origin, 2, Feeding duration in weeks, 3, capital C, 4, capital L, and 5, capital N. The first row, which describes the Adipocytokines Tissue of origin for Leptin (pg per L), had a feeding duration of 4 weeks, a C of 5.7 plus or minus 0.21, and L of 5.8 plus or minus 0.25, and an N of 6.1 plus or minus 0.25. The second row, which describes the Adipocytokines Tissue of origin for Adipose, had a feeding duration of 12 weeks, a C of 5.8 plus or minus 0.39, and L of 6.5 plus or minus 0.36, and an N of 9.9 plus or minus 0.68. The third row, which describes the Adipocytokines Tissue of origin for M C P 1 (mg per L), had a feeding duration of 4 weeks, a C of 43.0 plus or minus 1.18, and L of 44.4 plus or minus 1.95, and an N of 46.9 plus or minus 2.08. The fourth row, which describes the Adipocytokines Tissue of origin for Monocytes, had a feeding duration of 12 weeks, a C of 43.2 plus or minus 2.47, and L of 45.3 plus or minus 3.02, and an N of 49.5 plus or minus 1.27. The fifth row, which describes the Adipocytokines Tissue of origin for I L 6 (mg per L), had a feeding duration of 4 weeks, a C of 150 plus or minus 3.2, and L of 154 plus or minus 4.5, and an N of 184 plus or minus 8.0. The sixth row, which describes the Adipocytokines Tissue of origin for Monocytes, had a feeding duration of 12 weeks, a C of 151 plus or minus 6.7, and L of 176 plus or minus 11.0, and an N of 185 plus or minus 8.2."><label/>
+<tgroup cols="5"><colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry>Adi-<newline/>pocytokines<newline/> Tissue<newline/> of origin</entry>
+<entry>Feeding<newline/>duration<newline/>(weeks)</entry>
+<entry>C</entry>
+<entry>L</entry>
+<entry>N</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">Leptin<newline/>(pg/L)</entry>
+<entry align="center">4</entry>
+<entry align="center">5.7±<newline/>0.21</entry>
+<entry align="center">5.8±<newline/>0.25</entry>
+<entry align="center">6.1±<newline/>0.25</entry>
+</row>
+<row>
+<entry align="center">Adipose</entry>
+<entry align="center">12</entry>
+<entry align="center">5.8±<newline/>0.39</entry>
+<entry align="center">6.5±<newline/>0.36</entry>
+<entry align="center">9.9±<newline/>0.68</entry>
+</row>
+<row>
+<entry align="center">MCP-1<newline/>(mg/L)</entry>
+<entry align="center">4</entry>
+<entry align="center">43.0±<newline/>1.18</entry>
+<entry align="center">44.4±<newline/>1.95</entry>
+<entry align="center">46.9±<newline/>2.08</entry>
+</row>
+<row>
+<entry align="center">Mono-<newline/>cytes</entry>
+<entry align="center">12</entry>
+<entry align="center">43.2±<newline/>2.47</entry>
+<entry align="center">45.3±<newline/>3.02</entry>
+<entry align="center">49.5±<newline/>1.27</entry>
+</row>
+<row>
+<entry align="center">IL-6<newline/>(mg/L)</entry>
+<entry align="center">4</entry>
+<entry align="center">150±<newline/>3.2</entry>
+<entry align="center">154±<newline/>4.5</entry>
+<entry align="center">184±<newline/>8.0</entry>
+</row>
+<row>
+<entry align="center">Mono-<newline/>cytes</entry>
+<entry align="center">12</entry>
+<entry align="center">151±<newline/>6.7</entry>
+<entry align="center">176±<newline/>11.0</entry>
+<entry align="center">185±<newline/>8.2</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-id1164563452953">The sample size for these data are small: n = 6, within each group. Also shown in the table are cells in which these cytokine messages originate. Adipose cells store fats. Monocytes are white blood cells of the immune system. Over the 12 weeks of feeding, the weights of all three groups were equivalent, while the percent of body fat increased relative to the control for the rats fed a diet of limited and no B<sub>12</sub>: 40% (N) and 20% (L), respectively.</para>
+<list id="fs-id1164566824349" list-type="enumerated" number-style="lower-alpha"><item><emphasis effect="bold">Identify</emphasis> which adipocytokines show significant increases, relative to the control group, after only 4 weeks of treatment. <emphasis effect="bold">Justify</emphasis> your identification.</item>
+<item><emphasis effect="bold">Identify</emphasis> which adipocytokines show only significant increases, relative to the control group, after 12 weeks of treatment. <emphasis effect="bold">Justify</emphasis> your identification.</item>
+<item><emphasis effect="bold">Identify</emphasis> which adipocytokines show significant increases, relative to the control group, after 4 weeks of treatment but no further increase after 12 weeks. <emphasis effect="bold">Justify</emphasis> your identification.</item>
+</list>
+<para id="fs-id1164563517781">Adipocytokines are chemical messengers that regulate metabolism and blood vessel production and dilation. High concentrations of adipocytokines are commonly found among individuals with abnormal autoimmune response. Monocyte chemoattractant protein 1 (MCP-1) is involved in the trafficking or guiding of monocytes to damaged tissue, as in a wound. In mice, leptin receptors of cells in the hypothalamus suppress hunger. Interleukin (IL-6) is released to initiate and then regulate inflammation in response to an infection. The mice in this study were not infected or wounded.</para>
+<list id="fs-id1164566925026" start-value="4" list-type="enumerated" number-style="lower-alpha">
+<item><emphasis effect="bold">Construct an explanation</emphasis>, with reasoning based on the evidence provided by these data, for the observed variations in adipocytokines.</item>
+</list>
+<para id="fs-id1164562477613">Many noncommunicable diseases are associated with abnormal autoimmune responses, and the number of diseases that involve abnormal autoimmune response is increasing. Many autoimmune diseases, such as diabetes and heart disease, occur in developed nations at a much higher frequency than in developing nations.</para>
+<list id="fs-id1164566502853" start-value="5" list-type="enumerated" number-style="lower-alpha">
+<item><emphasis effect="bold">Evaluate</emphasis>, based on these data concerning the effect of restrictions on the availability of B<sub>12</sub>, the following question: Does the increased lack of exposure to pathogens in developed nations lead to reduced or abnormal immune response?</item>
+</list></problem>
+</exercise>
+<exercise id="fs-id1164566482329">
+<problem id="fs-id1164565277414">
+<para id="fs-id1164565090209">Using an example, <emphasis effect="bold">explain</emphasis> how enzyme feedback inhibition regulation regulates a cellular process.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1396184"><term>active site</term> <meaning id="fs-id1693867">specific region of the enzyme to which the substrate binds</meaning></definition>
+<definition id="fs-id1912260"><term>allosteric inhibition</term> <meaning id="fs-id1853356">inhibition by a binding event at a site different from the active site, which induces a conformational change and reduces the affinity of the enzyme for its substrate</meaning></definition>
+<definition id="fs-id2573998"><term>coenzyme</term> <meaning id="fs-id1510995">small organic molecule, such as a vitamin or its derivative, which is required to enhance the activity of an enzyme</meaning></definition>
+<definition id="fs-id1760012"><term>cofactor</term> <meaning id="fs-id2198035">inorganic ion, such as iron and magnesium ions, required for optimal regulation of enzyme activity</meaning></definition>
+<definition id="fs-id1778350"><term>competitive inhibition</term> <meaning id="fs-id2199913">type of inhibition in which the inhibitor competes with the substrate molecule by binding to the active site of the enzyme</meaning></definition>
+<definition id="fs-id2118276"><term>denature</term> <meaning id="fs-id1731587">process that changes the natural properties of a substance</meaning></definition>
+<definition id="fs-id1569524"><term>feedback inhibition</term> <meaning id="fs-id1808392">effect of a product of a reaction sequence to decrease its further production by inhibiting the activity of the first enzyme in the pathway that produces it</meaning></definition>
+<definition id="fs-id1424163"><term>induced fit</term> <meaning id="fs-id1454994">dynamic fit between the enzyme and its substrate, in which both components modify their structures to allow for ideal binding</meaning></definition>
+<definition id="fs-id1443302"><term>substrate</term> <meaning id="fs-id1785669">molecule on which the enzyme acts</meaning></definition>
+</glossary>
+
+</document>

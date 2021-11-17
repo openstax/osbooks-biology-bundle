@@ -1,0 +1,494 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Energy and Metabolism</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62763</md:content-id>
+  <md:title>Energy and Metabolism</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain what metabolic pathways are and describe the two major types of metabolic pathways</item>
+<item>Discuss how chemical reactions play a role in energy transfer</item>
+</list></md:abstract>
+  <md:uuid>758c2f6d-ac58-47ca-b4e0-634c2e3d82d2</md:uuid>
+</metadata>
+
+<content>
+
+<section id="fs-id1167067200563" class="learning-objectives"><title>Learning Objectives</title>
+<para id="fs-id1167066999422">In this section, you will explore the following questions:</para>
+<list id="fs-id1167066868617" list-type="bulleted" bullet-style="bullet"><item class="ost-learning-objective-def ost-tag-lo-apbio-ch06-s01-lo01">What are metabolic pathways?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch06-s01-lo02">What are the differences between anabolic and catabolic pathways?</item>
+<item class="ost-learning-objective-def ost-tag-lo-apbio-ch06-s01-lo03">How do chemical reactions play a role in energy transfer?</item>
+</list></section>
+
+
+<section id="fs-id1167067006753" class="ap-connection">
+<title>Connection for AP<sup>®</sup> Courses</title>
+<para id="fs-id1167067107188">All living systems, from simple cells to complex ecosystems, require free energy to conduct cell processes such as growth and reproduction.</para>
+<para id="fs-id1167067006666" class="ost-reading-discard">Organisms have evolved various strategies to capture, store, transform, and transfer free energy. A cells metabolism refers to the chemical reactions that occur within it. Some metabolic reactions involve the breaking down of complex molecules into simpler ones with a release of energy (catabolism), whereas other metabolic reactions require energy to build complex molecules (anabolism). A central example of these pathways is the synthesis and breakdown of glucose.</para>
+<para id="fs-id1167067209971" class="ost-reading-discard">The content presented in this section supports the Learning Objectives outlined in Big Idea 1 and Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework listed below. The AP<sup>®</sup> Learning Objectives merge Essential Knowledge content with one or more of the seven Science Practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> exam questions.</para><table id="fs-id1167063526912" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Learning Objective. Third right cell reads: 1.14 The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insight into the history of life on Earth." class="unnumbered column-header ost-reading-discard"><label/>
+<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
+<tbody>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
+<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
+<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
+<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1 </emphasis></span>
+<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
+<span class="ost-standards-description">The student can pose scientific questions.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s01-aplo-1-14">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>1.14</emphasis></span>
+<span class="ost-standards-description">The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insight into the history of life on Earth.</span>
+</entry>
+</row>
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1 </emphasis></span>
+<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>7.2</emphasis></span>
+<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s01-aplo-1-15">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>1.15</emphasis></span>
+<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
+</entry>
+</row>
+
+
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>1.B.1 </emphasis></span>
+<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.1</emphasis></span>
+<span class="ost-standards-description">The student can justify claims with evidence.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s01-aplo-1-16">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>1.16</emphasis></span>
+<span class="ost-standards-description">The student is able to justify the scientific claim that organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+</entry>
+</row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
+<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
+<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+</row>
+
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
+<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry><span class="ost-standards-name">
+<emphasis>2.A.1 </emphasis></span>
+<span class="ost-standards-description">All living systems require a constant input of free energy.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
+<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
+<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
+<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+</entry></row>
+<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s01-aplo-2-1">
+<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry><span class="ost-standards-name"><emphasis>2.1</emphasis></span>
+<span class="ost-standards-description">The student is able to explain how biological systems use free energy based on empirical data that all organisms require constant energy input to maintain organization, to grow and to reproduce.</span>
+</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table><para id="fs-id1166849079597">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
+[APLO 2.1][APLO 2.3][APLO 4.3][APLO 4.15][APLO 4.17][APLO 2.21]</para></section>
+
+<note id="fs-id1167067108238" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167066838545">Starting with the definition of metabolism as the total chemical activity of an organism, ask students for examples of processes that fit. Tally the examples on a board or screen and expand on them as appropriate.</para>
+<para id="fs-id1167066841746">The concepts of anabolism and catabolism may be difficult to keep straight. Use the example of anabolic steroids as a way (inappropriate and dangerous) to build up the body, therefore, any anabolic process builds macromolecules and the opposite, catabolic, breaks them down.</para>
+</note>
+
+<para id="fs-id1167066869511" class="ost-tag-lo-apbio-ch06-s01-lo03 ost-tag-lo-apbio-ch06-s01-aplo-1-14">Scientists use the term <term>bioenergetics</term> to discuss the concept of energy flow (<link target-id="fig-ch06_01_01" document=""/>) through living systems, such as cells. Cellular processes such as the building and breaking down of complex molecules occur through stepwise chemical reactions. Some of these chemical reactions are spontaneous and release energy, whereas others require energy to proceed. Just as living things must continually consume food to replenish what has been used, cells must continually produce more energy to replenish that used by the many energy-requiring chemical reactions that constantly take place. All of the chemical reactions that take place inside cells, including those that use energy and those that release energy, are the cell’s <term>metabolism</term>.</para>
+<figure id="fig-ch06_01_01" class="ost-tag-lo-apbio-ch06-s01-lo03 ost-tag-lo-apbio-ch06-s01-aplo-1-14"><media id="fs-id1600276" alt="This diagram shows energy from the sun being transferred to producers, such as plants, as well as releasing heat. The producers in turn transfer the energy to consumers and decomposers, which release heat. Animals also transfer energy to decomposers.">
+<image mime-type="image/jpg" src="../../media/Figure_06_01_01-6abf.jpg" width="350"/>
+</media>
+<caption>Most life forms on earth get their energy from the sun. Plants use photosynthesis to capture sunlight, and herbivores eat those plants to obtain energy. Carnivores eat the herbivores, and decomposers digest plant and animal matter.</caption></figure>
+<section id="fs-id1380783" class="ost-get-exercise">
+<title>Metabolism of Carbohydrates</title>
+<para id="fs-id2308681">The metabolism of sugar (a simple carbohydrate) is a classic example of the many cellular processes that use and produce energy. Living things consume sugar as a major energy source, because sugar molecules have a great deal of energy stored within their bonds. The breakdown of glucose, a simple sugar, is described by the equation:</para>
+<equation id="eip-942"><m:math display="block">
+<m:semantics>
+        <m:mrow>
+            <m:msub>
+                <m:mtext>C</m:mtext>
+                <m:mtext>6</m:mtext>
+            </m:msub>
+            <m:msub>
+                <m:mtext>H</m:mtext>
+                <m:mrow>
+                    <m:mtext>12</m:mtext>
+                </m:mrow>
+            </m:msub>
+            <m:msub>
+                <m:mtext>O</m:mtext>
+                <m:mtext>6</m:mtext>
+            </m:msub>
+            <m:mo>+</m:mo><m:msub>
+                <m:mrow>
+                    <m:mtext>6O</m:mtext>
+                </m:mrow>
+                <m:mtext>2</m:mtext>
+            </m:msub>
+            <m:mo stretchy="false">→</m:mo><m:mn>6</m:mn><m:msub>
+                <m:mrow>
+                    <m:mtext>CO</m:mtext>
+                </m:mrow>
+                <m:mtext>2</m:mtext>
+            </m:msub>
+            <m:mo>+</m:mo><m:msub>
+                <m:mrow>
+                    <m:mtext>6H</m:mtext>
+                </m:mrow>
+                <m:mtext>2</m:mtext>
+            </m:msub>
+            <m:mtext>O</m:mtext><m:mo>+</m:mo><m:mtext>energy</m:mtext>
+        </m:mrow>
+<m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{6} } H rSub { size 8{12} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>
+</equation><para id="fs-id1422858">Carbohydrates that are consumed have their origins in photosynthesizing organisms like plants (<link target-id="fig-ch06_01_02" document=""/>). During photosynthesis, plants use the energy of sunlight to convert carbon dioxide gas (CO<sub>2</sub>) into sugar molecules, like glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>). Because this process involves synthesizing a larger, energy-storing molecule, it requires an input of energy to proceed. The synthesis of glucose is described by this equation (notice that it is the reverse of the previous equation):</para>
+<equation id="eip-188"><m:math display="block">
+<m:semantics>
+        <m:mrow>
+            <m:msub>
+                <m:mrow>
+                    <m:mtext>6CO</m:mtext>
+                </m:mrow>
+                <m:mtext>2</m:mtext>
+            </m:msub>
+            <m:mo>+</m:mo><m:msub>
+                <m:mrow>
+                    <m:mtext>6H</m:mtext>
+                </m:mrow>
+                <m:mtext>2</m:mtext>
+            </m:msub>
+            <m:mtext>O</m:mtext><m:mo>+</m:mo><m:mtext>energy</m:mtext><m:mo stretchy="false">→</m:mo><m:msub>
+                <m:mtext>C</m:mtext>
+                <m:mtext>6</m:mtext>
+            </m:msub>
+            <m:msub>
+                <m:mtext>H</m:mtext>
+                <m:mrow>
+                    <m:mtext>12</m:mtext>
+                </m:mrow>
+            </m:msub>
+            <m:msub>
+                <m:mtext>O</m:mtext>
+                <m:mtext>6</m:mtext>
+            </m:msub>
+            <m:mo>+</m:mo><m:msub>
+                <m:mrow>
+                    <m:mtext>6O</m:mtext>
+                </m:mrow>
+                <m:mtext>2</m:mtext>
+            </m:msub>
+        </m:mrow>
+<m:annotation encoding="StarMath 5.0"> size 12{C rSub { size 8{6} } H rSub { size 8{12} } O rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math></equation><para id="fs-id1369040">During the chemical reactions of photosynthesis, energy is provided in the form of a very high-energy molecule called ATP, or adenosine triphosphate, which is the primary energy currency of all cells. Just as the dollar is used as currency to buy goods, cells use molecules of ATP as energy currency to perform immediate work. The sugar (glucose) is stored as starch or glycogen. Energy-storing polymers like these are broken down into glucose to supply molecules of ATP.</para>
+<para id="fs-id1804577">Solar energy is required to synthesize a molecule of glucose during the reactions of photosynthesis. In photosynthesis, light energy from the sun is initially transformed into chemical energy that is temporally stored in the energy carrier molecules ATP and NADPH (nicotinamide adenine dinucleotide phosphate). The stored energy in ATP and NADPH is then used later in photosynthesis to build one molecule of glucose from six molecules of CO<sub>2</sub>. This process is analogous to eating breakfast in the morning to acquire energy for your body that can be used later in the day. Under ideal conditions, energy from 18 molecules of ATP is required to synthesize one molecule of glucose during the reactions of photosynthesis. Glucose molecules can also be combined with and converted into other types of sugars. When sugars are consumed, molecules of glucose eventually make their way into each living cell of the organism. Inside the cell, each sugar molecule is broken down through a complex series of chemical reactions. The goal of these reactions is to harvest the energy stored inside the sugar molecules. The harvested energy is used to make high-energy ATP molecules, which can be used to perform work, powering many chemical reactions in the cell. The amount of energy needed to make one molecule of glucose from six molecules of carbon dioxide is 18 molecules of ATP and 12 molecules of NADPH (each one of which is energetically equivalent to three molecules of ATP), or a total of 54 ATP molecule equivalents required for the synthesis of one molecule of glucose. This process is a fundamental and efficient way for cells to generate the molecular energy that they require.</para>
+<figure id="fig-ch06_01_02" class="ost-tag-lo-apbio-ch06-s01-lo03 ost-tag-lo-apbio-ch06-s01-aplo-1-15"><media id="fs-id1921353" alt="The photo on the left shows acorns growing on an oak tree. The photo on the right shows a squirrel eating.">
+<image mime-type="image/jpg" src="../../media/Figure_06_01_02.jpg" width="500"/>
+</media>
+<caption>Plants, like this oak tree, use energy from sunlight to make sugar and other organic molecules. Both plants and animals, like this squirrel, use cellular respiration to derive energy from the organic molecules originally produced by plants.</caption></figure></section>
+
+<note id="fs-id1167066800768" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067082791">Ask the students where the energy used for metabolism comes from. Have them trace the energy back to the plants and light energy that the plants convert to sugars. Begin to introduce the interactions between carbohydrate metabolism, lipids, and proteins. Ask them what the ultimate end of the energy is (heat).</para>
+</note>
+
+<section id="fs-id1167067232510" class="ost-tag-lo-apbio-ch06-s01-lo01 ost-get-exercise"><title>Metabolic Pathways</title><para id="fs-id1167067154374">The processes of making and breaking down sugar molecules illustrate two types of metabolic pathways. A metabolic pathway is a series of interconnected biochemical reactions that convert a substrate molecule or molecules, step-by-step, through a series of metabolic intermediates, eventually yielding a final product or products. In the case of sugar metabolism, the first metabolic pathway synthesized sugar from smaller molecules, and the other pathway broke sugar down into smaller molecules. These two opposite processes—the first requiring energy and the second producing energy—are referred to as anabolic (building) and catabolic (breaking down) pathways, respectively. Consequently, metabolism is composed of building (anabolism) and degradation (catabolism).</para>
+
+<note id="fs-id1167066869004" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167066985225">Discuss the evolution of metabolic pathways as they probably developed on Earth. Using the Miller–Urey experiment discussed in Chapter 3, ask why there was no free oxygen in an early atmosphere. What pathways could develop under these conditions? How did this limit the development of organisms? What pathway created free oxygen as a waste that could permeate the atmosphere? Is this really a good idea for the organisms that existed? Why?</para>
+</note>
+
+
+<note id="fs-id2024491" class="evolution ost-assessed-feature"><title>Evolution of Metabolic Pathways</title>
+<para id="fs-id1167064914784">
+<figure id="fig-ch06_01_03" class="  "><media id="fs-id2162858" alt="At the base of the evolutionary tree is the prokaryotic ancestor. This ancestor gave rise to archaebacteria, eubacteria, and Protista, which in turn gave rise to plants, fungi, and animals.">
+<image mime-type="image/jpg" src="../../media/Figure_06_01_04.jpg" width="450"/>
+</media>
+<caption>This tree shows the evolution of the various branches of life. The vertical dimension is time. Early life forms, in blue, used anaerobic metabolism to obtain energy from their surroundings.</caption></figure></para>
+<para id="fs-id1416306">There is more to the complexity of metabolism than understanding the metabolic pathways alone. Metabolic complexity varies from organism to organism. Photosynthesis is the primary pathway in which photosynthetic organisms like plants (the majority of global photosynthesis is done by planktonic algae) harvest the sun’s energy and convert it into carbohydrates. The by-product of photosynthesis is oxygen, required by some cells to carry out cellular respiration. During cellular respiration, oxygen aids in the catabolic breakdown of carbon compounds, like carbohydrates. Among the products of this catabolism are CO<sub>2</sub> and ATP. In addition, some eukaryotes perform catabolic processes without oxygen (fermentation); that is, they perform or use anaerobic metabolism.</para><para id="fs-id1242559">Organisms probably evolved anaerobic metabolism to survive (living organisms came into existence about 3.8 billion years ago, when the atmosphere lacked oxygen). Despite the differences between organisms and the complexity of metabolism, researchers have found that all branches of life share some of the same metabolic pathways, suggesting that all organisms evolved from the same ancient common ancestor (<link target-id="fig-ch06_01_03" document=""/>). Evidence indicates that over time, the pathways diverged, adding specialized enzymes to allow organisms to better adapt to their environment, thus increasing their chance to survive. However, the underlying principle remains that all organisms must harvest energy from their environment and convert it to ATP to carry out cellular functions.</para>
+<exercise id="fs-id1167067050678" class="os-exercise unnumbered"><label/>
+<problem id="fs-id1167066806386">
+<para id="fs-id1167067006878">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex001"/>
+</para>
+</problem>
+</exercise>
+</note>
+
+
+<section id="fs-id1167067088745" class="ost-tag-lo-apbio-ch06-s01-lo02 ost-tag-lo-apbio-ch06-s01-aplo-2-1 ost-get-exercise">
+<title>Anabolic and Catabolic Pathways</title>
+<para id="fs-id1167067072843"><term>Anabolic</term> pathways require an input of energy to synthesize complex molecules from simpler ones. Synthesizing sugar from CO<sub>2</sub> is one example. Other examples are the synthesis of large proteins from amino acid building blocks, and the synthesis of new DNA strands from nucleic acid building blocks. These biosynthetic processes are critical to the life of the cell, take place constantly, and demand energy provided by ATP and other high-energy molecules like NADH (nicotinamide adenine dinucleotide) and NADPH (<link target-id="fig-ch06_01_04" document=""/>).</para>
+<para id="fs-id2315426">ATP is an important molecule for cells to have in sufficient supply at all times. The breakdown of sugars illustrates how a single molecule of glucose can store enough energy to make a great deal of ATP, 36 to 38 molecules. This is a <term>catabolic</term> pathway. Catabolic pathways involve the degradation (or breakdown) of complex molecules into simpler ones. Molecular energy stored in the bonds of complex molecules is released in catabolic pathways and harvested in such a way that it can be used to produce ATP. Other energy-storing molecules, such as fats, are also broken down through similar catabolic reactions to release energy and make ATP (<link target-id="fig-ch06_01_04" document=""/>).</para>
+<para id="fs-id1235966">It is important to know that the chemical reactions of metabolic pathways don’t take place spontaneously. Each reaction step is facilitated, or catalyzed, by a protein called an enzyme. Enzymes are important for catalyzing all types of biological reactions—those that require energy as well as those that release energy.</para>
+<figure id="fig-ch06_01_04" class="ost-tag-lo-apbio-ch06-s01-lo02 ost-tag-lo-apbio-ch06-s01-aplo-2-1">
+<media id="fs-id1772383" alt="Anabolic and catabolic pathways are shown. In the anabolic pathway (top), four small molecules have energy added to them to make one large molecule. In the catabolic pathway (bottom), one large molecule is broken down into two components: four small molecules plus energy.">
+<image mime-type="image/jpg" src="../../media/Figure_06_01_03.jpg" width="450"/>
+</media>
+<caption>Anabolic pathways are those that require energy to synthesize larger molecules. Catabolic pathways are those that generate energy by breaking down larger molecules. Both types of pathways are required for maintaining the cell’s energy balance.</caption></figure></section>
+</section><note id="fs-id1167066804939" class="ap-science-practices ost-reading-discard"><label>Science Practice Connections for AP<sup>®</sup> courses</label>
+<note id="fs-id1167066807541" class="ost-assignable ost-sciprac-scithink">
+<label/><title>Think About It</title>
+<exercise id="fs-id1167066999335" class="ost-tag-lo-apbio-ch06-s01-aplo-2-12 unnumbered"><label/>
+<problem id="fs-id1167067147088"><para id="fs-id1167066806627">Describe two different cellular functions in different organisms that require energy that parallel human energy-requiring functions such as physical exercise.
+</para></problem></exercise></note>
+</note><note id="fs-id1167067077748" class="os-teacher">
+<label>Teacher Support</label>
+<para id="fs-id1167067005480">This question is an application of Learning Objectives1.15 and Science Practice 7.2 because the student is describing how similar energy pathways among different organisms reflect common ancestry.</para>
+<note id="fs-id1167067234788"><title>Possible answer:</title><para id="fs-id1167065978676"> Muscles contain the contractile proteins actin and myosin. When these proteins shorten, movement occurs. The same proteins are found in unicellular amoebas that cause the movement of the organism.</para>
+<para id="fs-id1167067293655">The active transport of sodium and potassium across cell membranes occurs in all multi-celled organisms, including all of the precursors to humans on the evolutionary ladder.</para></note>
+</note>
+<section id="fs-id1467070" class="summary ost-reading-discard">
+<title>Section Summary</title><para id="fs-id1696367">Cells perform the functions of life through various chemical reactions. A cell’s metabolism refers to the chemical reactions that take place within it. There are metabolic reactions that involve the breaking down of complex chemicals into simpler ones, such as the breakdown of large macromolecules. This process is referred to as catabolism, and such reactions are associated with a release of energy. On the other end of the spectrum, anabolism refers to metabolic processes that build complex molecules out of simpler ones, such as the synthesis of macromolecules. Anabolic processes require energy. Glucose synthesis and glucose breakdown are examples of anabolic and catabolic pathways, respectively.</para>
+</section>
+<section id="fs-id1167066839213" class="ost-reading-discard ost-chapter-review review">
+<title>Review Questions</title>
+<exercise id="fs-id1167066853548" class="os-exercise">
+<problem id="fs-id1167067203486">
+<para id="fs-id1167067042568">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex002"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066822151" class="os-exercise">
+<problem id="fs-id1167066880846">
+<para id="fs-id1167067050712">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex003"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066859193" class="os-exercise">
+<problem id="fs-id1167067020626">
+<para id="fs-id1167067107032">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex004"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067041620" class="os-exercise">
+<problem id="fs-id1167066833824">
+<para id="fs-id1167066868201">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex005"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067189939" class="os-exercise">
+<problem id="fs-id1167066792740">
+<para id="fs-id1167066874701">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex006"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067000042" class="os-exercise">
+<problem id="fs-id1167066966019">
+<para id="fs-id1167063513628">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex007"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167067236458" class="ost-reading-discard ost-chapter-review critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1167067087618" class="os-exercise">
+<problem id="fs-id1167063519004">
+<para id="fs-id1167066847706">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex008"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067239906" class="os-exercise">
+<problem id="fs-id1167066868923">
+<para id="fs-id1167066847962">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex009"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066847501" class="os-exercise">
+<problem id="fs-id1167066865120">
+<para id="fs-id1167066855878">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex010"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167063515714" class="ost-chapter-review ost-reading-discard ap-test-prep"><title>Test Prep for AP<sup>®</sup> Courses</title><exercise id="fs-id1167067127740" class="os-exercise">
+<problem id="fs-id1167066773895">
+<para id="fs-id1167067197109">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex011"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066805877" class="os-exercise">
+<problem id="fs-id1167066774672">
+<para id="fs-id1167066972108">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex012"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066827995" class="os-exercise">
+<problem id="fs-id1167066831306">
+<para id="fs-id1167066879725">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex013"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167067101160" class="os-exercise">
+<problem id="fs-id1167066804645">
+<para id="fs-id1167067031952">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex014"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066962567" class="os-exercise">
+<problem id="fs-id1167066808399">
+<para id="fs-id1167067179590">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex015"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167066822155" class="os-exercise">
+<problem id="fs-id1167066972616">
+<para id="fs-id1167063514522">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex016"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063496941" class="os-exercise">
+<problem id="fs-id1167066809587">
+<para id="fs-id1167067175246">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex017"/>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167063624655" class="os-exercise">
+<problem id="fs-id1167066869608">
+<para id="fs-id1167067217009">
+<link class="os-embed" url="#ost/api/ex/apbio-ch06-ex018"/>
+</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1164564839569" class="ost-chapter-review ost-reading-discard science-practice"><title>Science Practice Challenge Questions</title><exercise id="fs-id1164565126288"><problem id="fs-id1164564751336">
+<para id="fs-id1164565143477">Activation energy is required for a reaction to proceed, and it is lower if the reaction is catalyzed. Sucrose (table sugar) is a disaccharide. When we eat sucrose it is converted to carbon dioxide and water, as with other carbohydrates.</para>
+<list id="fs-id1164565178204" list-type="enumerated" number-style="arabic"><item><emphasis effect="bold">Identify</emphasis> if the breakdown of sucrose is endergonic or exergonic. <emphasis effect="bold">Explain</emphasis> the reasoning for your identification.</item>
+<item>Based on your identification, <emphasis effect="bold">explain</emphasis> if cubes of sugar can be stored in a sugar bowl by creating a diagram similar to <link target-id="fig-ch06_02_05" document="m62764"/>.</item>
+<item>If table sugar is placed in a spoon held over a high flame, the sugar is charred and becomes a blackened mixture composed primarily of carbon. <emphasis effect="bold">Create a visual representation</emphasis> that includes a chemical equation to <emphasis effect="bold">explain</emphasis> the role of the flame in this process.</item>
+<item>In terms of your answers to questions 1-3, <emphasis effect="bold">predict</emphasis> if sugar cubes in a bowl placed in a dish of water can be stored on a table, and <emphasis effect="bold">justify</emphasis> your prediction.</item>
+<item><emphasis effect="bold">[Extension]</emphasis> The energy of activation of a chemical reaction can be determined by measurement of the effect of temperature on reaction rate. The natural logarithm of the reaction rate constant is a linear function of the inverse of the temperature in Kelvin degrees. The negative of the slope of that graph is the energy of activation divided by the universal ideal gas constant, R = 8.314 J/Kmol. Using the following data (R. Wolfenden and Yang Yean, <emphasis effect="italics">Journal of the American Chemical Society</emphasis>, 2008 Jun 18; 130(24): 7,5487,549) evaluate the energy of activation of the following reaction.</item>
+</list><para id="eip-idm227893040"><m:math> <m:mtext> sucrose → fructose + glucose</m:mtext></m:math></para><table id="fs-id1164566860395" summary="A two-column table shows Temperature, in K, in the left column and LN (rate) in the right column. At a temperature of 440, the rate is negative 3.8. At a temperature of 423, the rate is negative 4.5. At a temperature of 403, the rate is negative 5. At a temperature of 388, the rate is negative 6.">
+<label/>
+<tgroup cols="2">
+<thead>
+<row>
+<entry>Temperature (K)</entry>
+<entry>ln(rate)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center">440</entry>
+<entry align="center">-3.8</entry>
+</row>
+<row>
+<entry align="center">423</entry>
+<entry align="center">-4.5</entry>
+</row>
+
+<row>
+<entry align="center">403</entry>
+<entry align="center">-5</entry>
+</row>
+
+<row>
+<entry align="center">388</entry>
+<entry align="center">-6</entry>
+</row>
+
+</tbody>
+</tgroup>
+
+</table>
+
+
+<para id="fs-id1164563521048">(a) <emphasis effect="bold">Construct a graph</emphasis> of ln(rate) versus 1/T(K) and determine the energy of activation for the uncatalyzed reaction.</para>
+<para id="fs-id1164564780493">(b) Based on the data, <emphasis effect="bold">explain</emphasis> the importance of enzymes for time scales characteristic of living systems on Earththat is to say, life as we know it.</para>
+<para id="fs-id1164564733662">The time scale required for half of the molecules of initial sucrose to remain can be estimated. The relationship between the half-life and the activation energy is:</para>
+<equation id="fs-id1164566251614"><m:math display="block">
+ <m:semantics>
+  <m:mrow>
+   <m:msub>
+    <m:mi>t</m:mi>
+    <m:mrow>
+     <m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn>
+    </m:mrow>
+   </m:msub>
+   <m:mo>=</m:mo><m:mn>0.69</m:mn><m:mo>×</m:mo><m:msup>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:msub>
+      <m:mi>E</m:mi>
+      <m:mi>A</m:mi>
+     </m:msub>
+     <m:mo>/</m:mo><m:mn>2.3</m:mn><m:mi>R</m:mi><m:mi>T</m:mi>
+    </m:mrow>
+   </m:msup>
+
+  </m:mrow>
+ </m:semantics>
+</m:math>
+</equation>
+<para id="fs-id1164566867078">At a temperature of 300K, approximately room temperature, RT is equal to 2,494 J/mole.</para>
+
+</problem>
+</exercise><exercise id="fs-id1164564880067">
+<problem id="fs-id1164562311785">
+<para id="fs-id1164563433582">Physical exercise involves both anabolic and catabolic processes. For each process, <emphasis effect="bold">explain</emphasis> an expected outcome and <emphasis effect="bold">describe</emphasis> an example of a specific exercise that can lead to the expected outcome.</para></problem>
+</exercise>
+</section> </content>
+<glossary>
+<definition id="fs-id2187720"><term>anabolic</term> <meaning id="fs-id1999359">(also, anabolism) pathways that require an input of energy to synthesize complex molecules from simpler ones</meaning></definition>
+<definition id="fs-id1455544"><term>bioenergetics</term> <meaning id="fs-id1760853">study of energy flowing through living systems</meaning></definition>
+<definition id="fs-id1812887"><term>catabolic</term> <meaning id="fs-id2078581">(also, catabolism) pathways in which complex molecules are broken down into simpler ones</meaning></definition>
+<definition id="fs-id1756358"><term>metabolism</term> <meaning id="fs-id1445158">all the chemical reactions that take place inside cells, including anabolism and catabolism</meaning></definition>
+</glossary>
+</document>

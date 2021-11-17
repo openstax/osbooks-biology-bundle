@@ -1,0 +1,106 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Common Misconceptions about Evolution</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45505</md:content-id>
+  <md:title>Common Misconceptions about Evolution</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify common misconceptions about evolution</item>
+<item>Identify common criticisms of evolution</item>
+</list></md:abstract>
+  <md:uuid>3ccd2159-1bac-4953-a362-47b03641f2ef</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm40516640">Although the theory of evolution initially generated some controversy, by 20 years after the publication of <emphasis effect="italics">On the</emphasis> <emphasis effect="italics">Origin of Species</emphasis> it was almost universally accepted by biologists, particularly younger biologists. Nevertheless, the theory of evolution is a difficult concept and misconceptions about how it works abound. In addition, there are those that reject it as an explanation for the diversity of life.</para>
+<note id="fs-idp90991664" class="interactive non-majors"><label/><title>Concept in Action</title>
+
+<para id="fs-idp136844256">This <link window="new" url="http://openstax.org/l/misconception2">website</link> addresses some of the main misconceptions associated with the theory of evolution.</para>
+</note><section id="fs-idp220824768">
+<title> Evolution Is Just a Theory</title>
+<para id="fs-idm42675136">Critics of the theory of evolution dismiss its importance by purposefully confounding the everyday usage of the word “theory” with the way scientists use the word. In science, a “theory” is understood to be a concept that has been extensively tested and supported over time. We have a theory of the atom, a theory of gravity, and the theory of relativity, each of which describes what scientists understand to be facts about the world. In the same way, the theory of evolution describes facts about the living world. As such, a theory in science has survived significant efforts to discredit it by scientists, who are naturally skeptical. While theories can sometimes be overturned or revised, this does not lessen their weight but simply reflects the constantly evolving state of scientific knowledge. In contrast, a “theory” in common vernacular means a guess or suggested explanation for something. This meaning is more akin to the concept of a “hypothesis” used by scientists, which is a tentative explanation for something that is proposed to either be supported or disproved. When critics of evolution say evolution is “just a theory,” they are implying that there is little evidence supporting it and that it is still in the process of being rigorously tested. This is a mischaracterization. If this were the case, geneticist Theodosius Dobzhansky would not have said that “nothing in biology makes sense, except in the light of evolution.”<footnote id="fs-idm20326864">Theodosius Dobzhansky. “Biology, Molecular and Organismic.” <emphasis effect="italics">American Zoologist</emphasis> 4, no. 4 (1964): 449.</footnote></para>
+</section>
+<section id="fs-idp50363616">
+<title> Individuals Evolve</title>
+<para id="fs-idp41600000">An individual is born with the genes it has—these do not change as the individual ages. Therefore, an individual cannot evolve or adapt through natural selection. Evolution is the change in genetic composition of a population over time, specifically over generations, resulting from differential reproduction of individuals with certain alleles. Individuals do change over their lifetime, but this is called development; it involves changes programmed by the set of genes the individual acquired at birth in coordination with the individual’s environment. When thinking about the evolution of a characteristic, it is probably best to think about the change of the average value of the characteristic in the population over time. For example, when natural selection leads to bill-size change in medium ground finches in the Galápagos, this does not mean that individual bills on the finches are changing. If one measures the average bill size among all individuals in the population at one time, and then measures the average bill size in the population several years later after there has been a strong selective pressure, this average value may be different as a result of evolution. Although some individuals may survive from the first time to the second, those individuals will still have the same bill size. However, there may be enough new individuals with different bill sizes to change the average bill size.</para>
+</section>
+<section id="fs-idp7310608">
+<title> Evolution Explains the Origin of Life</title>
+<para id="fs-idm38628656">It is a common misunderstanding that evolution includes an explanation of life’s origins. Conversely, some of the theory’s critics complain that it cannot explain the origin of life. The theory does not try to explain the origin of life. The theory of evolution explains how populations change over time and how life diversifies—the origin of species. It does not shed light on the beginnings of life including the origins of the first cells, which is how life is defined. The mechanisms of the origin of life on Earth are a particularly difficult problem because it occurred a very long time ago, over a very long time, and presumably just occurred once. Importantly, biologists believe that the presence of life on Earth precludes the possibility that the events that led to life on Earth can be repeated because the intermediate stages would immediately become food for existing living things. The early stages of life included the formation of organic molecules such as carbohydrates, amino acids, or nucleotides. If these were formed from inorganic precursors today, they would simply be broken down by living things. The early stages of life also probably included more complex aggregations of molecules into enclosed structures with an internal environment, a boundary layer of some form, and the external environment. Such structures, if they were formed now, would be quickly consumed or broken down by living organisms.</para>
+<para id="fs-idm89800288">However, once a mechanism of inheritance was in place in the form of a molecule like DNA or RNA, either within a cell or within a pre-cell, these entities would be subject to the principle of natural selection. More effective reproducers would increase in frequency at the expense of inefficient reproducers. So while evolution does not explain the origin of life, it may have something to say about some of the processes operating once pre-living entities acquired certain properties.</para>
+</section>
+<section id="fs-idp65593264">
+<title> Organisms Evolve on Purpose</title>
+<para id="fs-idp20929008">Statements such as “organisms evolve in response to a change in an environment,” are quite common. There are two easy misunderstandings possible with such a statement. First of all, the statement must not be understood to mean that individual organisms evolve, as was discussed above. The statement is shorthand for “a population evolves in response to a changing environment.” However, a second misunderstanding may arise by interpreting the statement to mean that the evolution is somehow intentional. A changed environment results in some individuals in the population, those with particular phenotypes, benefiting and, therefore, producing proportionately more offspring than other phenotypes. This results in change in the population if the characters are genetically determined.</para>
+<para id="fs-idp183709216">It is also important to understand that the variation that natural selection works on is already in a population and does not arise in response to an environmental change. For example, applying antibiotics to a population of bacteria will, over time, select for a population of bacteria that are resistant to antibiotics. The resistance, which is caused by a gene, did not arise by mutation because of the application of the antibiotic. The gene for resistance was already present in the gene pool of the bacteria, likely at a low frequency. The antibiotic, which kills the bacterial cells without the resistance gene, strongly selects for individuals that are resistant, since these would be the only ones that survived and divided. Experiments have demonstrated that mutations for antibiotic resistance do not arise as a result of antibiotic application.</para>
+<para id="fs-idp5658432">In a larger sense, evolution is also not goal directed. Species do not become “better” over time; they simply track their changing environment with adaptations that maximize their reproduction in a particular environment at a particular time. Evolution has no goal of making faster, bigger, more complex, or even smarter species. This kind of language is common in popular literature. Certain organisms, ourselves included, are described as the “pinnacle” of evolution, or “perfected” by evolution. What characteristics evolve in a species are a function of the variation present and the environment, both of which are constantly changing in a non-directional way. What trait is fit in one environment at one time may well be fatal at some point in the future. This holds equally well for a species of insect as it does the human species.</para>
+</section>
+<section id="fs-idm3048224">
+<title> Evolution Is Controversial among Scientists</title>
+<para id="fs-idp28700240">The theory of evolution was controversial when it was first proposed in 1859, yet within 20 years virtually every working biologist had accepted evolution as the explanation for the diversity of life. The rate of acceptance was extraordinarily rapid, partly because Darwin had amassed an impressive body of evidence. The early controversies involved both scientific arguments against the theory and the arguments of religious leaders. It was the arguments of the biologists that were resolved after a short time, while the arguments of religious leaders have persisted to this day.</para>
+<para id="fs-idp306191456">The theory of evolution replaced the predominant theory at the time that species had all been specially created within relatively recent history. Despite the prevalence of this theory, it was becoming increasingly clear to naturalists during the nineteenth century that it could no longer explain many observations of geology and the living world. The persuasiveness of the theory of evolution to these naturalists lay in its ability to explain these phenomena, and it continues to hold extraordinary explanatory power to this day. Its continued rejection by some religious leaders results from its replacement of special creation, a tenet of their religious belief. These leaders cannot accept the replacement of special creation by a mechanistic process that excludes the actions of a deity as an explanation for the diversity of life including the origins of the human species. It should be noted, however, that most of the major denominations in the United States have statements supporting the acceptance of evidence for evolution as compatible with their theologies.</para>
+<para id="fs-idp185543312">The nature of the arguments against evolution by religious leaders has evolved over time. One current argument is that the theory is still controversial among biologists. This claim is simply not true. The number of working scientists who reject the theory of evolution, or question its validity and say so, is small. A Pew Research poll in 2009 found that 97 percent of the 2500 scientists polled believe species evolve.<footnote id="fs-idp40585904">Pew Research Center for the People &amp; the Press, <emphasis effect="italics">Public Praises Science; Scientists Fault Public, Media</emphasis> (Washington, DC, 2009), 37.</footnote> The support for the theory is reflected in signed statements from many scientific societies such as the American Association for the Advancement of Science, which includes working scientists as members. Many of the scientists that reject or question the theory of evolution are non-biologists, such as engineers, physicians, and chemists. There are no experimental results or research programs that contradict the theory. There are no papers published in peer-reviewed scientific journals that appear to refute the theory. The latter observation might be considered a consequence of suppression of dissent, but it must be remembered that scientists are skeptics and that there is a long history of published reports that challenged scientific orthodoxy in unpopular ways. Examples include the endosymbiotic theory of eukaryotic origins, the theory of group selection, the microbial cause of stomach ulcers, the asteroid-impact theory of the Cretaceous extinction, and the theory of plate tectonics. Research with evidence and ideas with scientific merit are considered by the scientific community. Research that does not meet these standards is rejected.</para>
+</section>
+<section id="fs-idp160360544">
+<title> Other Theories Should Be Taught</title>
+<para id="fs-idp118548224">A common argument from some people is that alternative theories to evolution should be taught in public schools. Critics of evolution use this strategy to create uncertainty about the validity of the theory without offering actual evidence. In fact, there are no viable alternative scientific theories to evolution. The last such theory, proposed by Lamarck in the nineteenth century, was replaced by the theory of natural selection. A single exception was a research program in the Soviet Union based on Lamarck’s theory during the early twentieth century that set that country’s agricultural research back decades. Special creation is not a viable alternative scientific theory because it is not a scientific theory, since it relies on an untestable explanation. Intelligent design, despite the claims of its proponents, is also not a scientific explanation. This is because intelligent design posits the existence of an unknown designer of living organisms and their systems. Whether the designer is unknown or supernatural, it is a cause that cannot be measured; therefore, it is not a scientific explanation. There are two reasons not to teach nonscientific theories. First, these explanations for the diversity of life lack scientific usefulness because they do not, and cannot, give rise to research programs that promote our understanding of the natural world. Experiments cannot test non-material explanations for natural phenomena. For this reason, teaching these explanations as science in public schools is not in the public interest. Second, in the United States, it is illegal to teach them as science because the U.S. Supreme Court and lower courts have ruled that the teaching of religious belief, such as special creation or intelligent design, violates the establishment clause of the First Amendment of the U.S. Constitution, which prohibits government sponsorship of a particular religion.</para>
+<para id="fs-idm55715744">The theory of evolution and science in general is, by definition, silent on the existence or non-existence of the spiritual world. Science is only able to study and know the material world. Individual biologists have sometimes been vocal atheists, but it is equally true that there are many deeply religious biologists. Nothing in biology precludes the existence of a god or other supreme beings, indeed biology as a science has nothing to say about it. Individual biologists are free to reconcile their personal and scientific knowledge as they see fit. The Voices for Evolution project (http://ncse.com/voices), developed through the National Center for Science Education, works to gather the diversity of perspectives on evolution to advocate it being taught in public schools.</para>
+</section>
+<section id="fs-idm9853024" class="summary">
+<title>Section Summary</title><para id="fs-idp307897824">The theory of evolution is a difficult concept and misconceptions abound. The factual nature of evolution is often challenged by wrongly associating the scientific meaning of a theory with the vernacular meaning. Evolution is sometimes mistakenly interpreted to mean that individuals evolve, when in fact only populations can evolve as their gene frequencies change over time. Evolution is often assumed to explain the origin of life, which it does not speak to. It is often spoken in goal-directed terms by which organisms change through intention, and selection operates on mutations present in a population that have not arisen in response to a particular environmental stress. Evolution is often characterized as being controversial among scientists; however, it is accepted by the vast majority of working scientists. Critics of evolution often argue that alternative theories to evolution should be taught in public schools; however, there are no viable alternative scientific theories to evolution. The alternative religious beliefs should not be taught as science because it cannot be proven, and in the United States it is unconstitutional. Science is silent on the question of the existence of a god while scientists are able to reconcile religious belief and scientific knowledge.</para>
+</section>
+<section id="fs-idp37556176" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-idp165602080">
+<problem id="fs-idp205549248"><para id="fs-idp6144528">The word “theory” in theory of evolution is best replaced by ________.</para>
+<list id="fs-idp170835520" list-type="enumerated" number-style="lower-alpha">
+<item>fact</item>
+<item>hypothesis</item>
+<item>idea</item>
+<item>alternate explanation</item>
+</list>
+</problem>
+<solution id="fs-idp120607824">
+<label/>
+<para id="fs-idp217184304">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idp197191136">
+<problem id="fs-idp176742048"><para id="fs-idp69329824">Why are alternative scientific theories to evolution not taught in public school?</para>
+<list id="fs-idp128178176" list-type="enumerated" number-style="lower-alpha">
+<item>more theories would confuse students</item>
+<item>there are no viable scientific alternatives</item>
+<item>it is against the law</item>
+<item>alternative scientific theories are suppressed by the science establishment</item>
+</list>
+</problem>
+<solution id="fs-idp79434256">
+<label/>
+<para id="fs-idp87613424">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp69553920" class="critical-thinking">
+<title>Free Response</title>
+<exercise id="fs-idp92981184">
+<problem id="fs-idm36424896">
+<para id="fs-idp317271024">How does the scientific meaning of “theory” differ from the common, everyday meaning of the word?</para>
+</problem>
+<solution id="fs-idp7398320">
+<label/>
+<para id="fs-idp48621488">In science, a theory is a thoroughly tested and verified set of explanations for a body of observations of nature. It is the strongest form of knowledge in science. In contrast, a theory in common usage can mean a guess or speculation about something, meaning that the knowledge implied by the theory may be very weak.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp5113984">
+<problem id="fs-idm33620864">
+<para id="fs-idm35111696">Explain why the statement that a monkey is more evolved than a mouse is incorrect.</para>
+</problem>
+<solution id="fs-idp102167216">
+<label/>
+<para id="fs-idp115575216">The statement implies that there is a goal to evolution and that the monkey represents greater progress to that goal than the mouse. Both species are likely to be well adapted to their particular environment, which is the outcome of natural selection.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+</document>
