@@ -40,16 +40,10 @@
 <title>Electron Microscopes</title>
 <para id="fs-idm26675952">In contrast to light microscopes, electron microscopes use a beam of electrons instead of a beam of light. Not only does this allow for higher magnification and, thus, more detail (<link target-id="fig-ch03_01_02ab" document=""/>), it also provides higher resolving power. Preparation of a specimen for viewing under an electron microscope will kill it; therefore, live cells cannot be viewed using this type of microscopy. In addition, the electron beam moves best in a vacuum, making it impossible to view living materials.</para>
 <para id="fs-idp18126736">In a scanning electron microscope, a beam of electrons moves back and forth across a cell’s surface, rendering the details of cell surface characteristics by reflection. Cells and other structures are usually coated with a metal like gold. In a transmission electron microscope, the electron beam is transmitted through the cell and provides details of a cell’s internal structures. As you might imagine, electron microscopes are significantly more bulky and expensive than are light microscopes.</para>
-<figure id="fig-ch03_01_02ab" class="  " orient="horizontal"><subfigure id="fs-idm49906496">
-<media id="fs-idp166737280" alt="Part a: Salmonella viewed through a light microscope appear as tiny purple dots.">
-<image mime-type="image/jpg" src="../../media/Figure_03_01_02a_new.jpg" width="270"/>
+<figure id="fig-ch03_01_02ab">
+<media id="fs-idp166737280" alt="Part a: Salmonella viewed through a light microscope appear as tiny purple dots. Part b: In this scanning electron micrograph, the bacteria appear as three-dimensional red ovals. The human cells are much larger with a complex, folded appearance. Some of the bacteria lie on the surfaces of the human cells, and some are squeezed between them.">
+<image mime-type="image/jpg" src="../../media/Figure_03_01_02ab.jpg" width="550"/>
 </media>
-</subfigure>
-<subfigure id="fs-idp202042336">
-<media id="fs-idp28536640" alt="Part b: In this scanning electron micrograph, the bacteria appear as three-dimensional red ovals. The human cells are much larger with a complex, folded appearance. Some of the bacteria lie on the surfaces of the human cells, and some are squeezed between them.">
-<image mime-type="image/jpg" src="../../media/Figure_03_01_02b_new.jpg" width="270"/>
-</media>
-</subfigure>
 
 <caption>(a) <emphasis effect="italics">Salmonella</emphasis> bacteria are viewed with a light microscope. (b) This scanning electron micrograph shows <emphasis effect="italics">Salmonella</emphasis> bacteria (in red) invading human cells. (credit a: modification of work by CDC, Armed Forces Institute of Pathology, Charles N. Farmer; credit b: modification of work by Rocky Mountain Laboratories, NIAID, NIH; scale-bar data from Matt Russell)</caption></figure><note id="fs-idp136818976" class="career non-majors"><label/><title>Careers in Action</title>
 
