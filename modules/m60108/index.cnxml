@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+
+<title>Measurements and the Metric System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m60108</md:content-id>
+  <md:title>Measurements and the Metric System</md:title>
+  <md:abstract/>
+  <md:uuid>fa9fa6f3-941c-45b2-927b-4a0ae10b0e07</md:uuid>
+</metadata>
+
+<content class="appendix">
+
+    <table id="tab-app01_01_01" summary="Measurements and the Metric System"><tgroup cols="5">
+            <colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+            <colspec colnum="3" colname="col3"/>
+            <colspec colnum="4" colname="col4"/>
+            <colspec colnum="5" colname="col5"/>
+            <thead>
+<row><entry namest="col1" nameend="col5">Measurements and the Metric System</entry></row>
+                <row>
+                    <entry align="center">Measurement</entry>
+                    <entry align="center">Unit</entry>
+                    <entry align="center">Abbreviation</entry>
+                    <entry align="center">Metric Equivalent</entry>
+                    <entry align="center">Approximate Standard Equivalent</entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry morerows="5">Length</entry>
+                    <entry>nanometer</entry>
+                    <entry>nm</entry>
+                    <entry>1 nm = 10<sup>−9</sup> m</entry>
+                    <entry morerows="5">
+                        <list id="fs-idp137115008" list-type="bulleted" bullet-style=""><item>1 mm = 0.039 inch</item>
+                            <item>1 cm = 0.394 inch</item>
+                            <item>1 m = 39.37 inches</item>
+                            <item>1 m = 3.28 feet</item>
+                            <item>1 m = 1.093 yards</item>
+                            <item>1 km = 0.621 miles</item>
+                        </list></entry>
+                </row>        
+                
+                <row>
+                    <entry>micrometer</entry>
+                    <entry>µm</entry>
+                    <entry>1 µm = 10<sup>−6</sup> m</entry>
+                </row>
+                
+                <row>
+                    <entry>millimeter</entry>
+                    <entry>mm</entry>
+                    <entry>1 mm = 0.001 m</entry>
+                </row>
+                
+                <row>
+                    <entry>centimeter</entry>
+                    <entry>cm</entry>
+                    <entry>1 cm = 0.01 m</entry>
+                </row>
+                
+                <row>
+                    <entry>meter</entry>
+                    <entry>m</entry>
+                    <entry>
+                        <list id="fs-idp89410064" list-type="bulleted" bullet-style=""><item>1 m = 100 cm</item>
+                            <item>1 m = 1000 mm</item>
+                        </list></entry>
+                </row>
+                <row>
+                    <entry>kilometer</entry>
+                    <entry>km</entry>
+                    <entry>1 km = 1000 m</entry>
+                </row>
+              
+                <row>
+                    <entry morerows="3">Mass</entry>
+                    <entry>microgram</entry>
+                    <entry>µg</entry>
+                    <entry>1 µg = 10<sup>−6</sup> g</entry>
+                    <entry morerows="3">
+                        <list id="fs-idp58408928" list-type="bulleted" bullet-style=""><item>1 g = 0.035 ounce</item>
+                            <item>1 kg = 2.205 pounds</item>
+                        </list></entry>
+                </row>
+                <row>
+                    <entry>milligram</entry>
+                    <entry>mg</entry>
+                    <entry>1 mg = 10<sup>−3</sup> g</entry>
+                </row>
+                <row>
+                    <entry>gram</entry>
+                    <entry>g</entry>
+                    <entry>1 g = 1000 mg</entry>
+                </row>
+                <row>
+                    <entry>kilogram</entry>
+                    <entry>kg</entry>
+                    <entry>1 kg = 1000 g</entry>
+                </row>                
+                
+
+                <row>
+                    <entry morerows="3">Volume</entry>
+                    <entry>microliter</entry>
+                    <entry>µl</entry>
+                    <entry>1 µl = 10<sup>−6</sup> l</entry>
+                    <entry morerows="3">
+                        <list id="fs-idm37171696" list-type="bulleted" bullet-style=""><item>1 ml = 0.034 fluid ounce</item>
+                            <item>1 l = 1.057 quarts</item>
+                            <item>1 kl = 264.172 gallons</item>
+                        </list></entry>
+                </row>
+                <row>
+                    <entry>milliliter</entry>
+                    <entry>ml</entry>
+                    <entry>1 ml = 10<sup>−3</sup> l</entry>
+                </row>
+                <row>
+                    <entry>liter</entry>
+                    <entry>l</entry>
+                    <entry>1 l = 1000 ml</entry>
+                </row>
+                <row>
+                    <entry>kiloliter</entry>
+                    <entry>kl</entry>
+                    <entry>1 kl = 1000 l</entry>
+                </row>
+                
+                
+                <row>
+                    <entry morerows="2">Area</entry>
+                    <entry>square centimeter</entry>
+                    <entry>cm<sup>2</sup></entry>
+                    <entry>1 cm<sup>2</sup> = 100 mm<sup>2</sup></entry>
+                    <entry morerows="2">
+                        <list id="fs-idm81716704" list-type="bulleted" bullet-style=""><item>1 cm<sup>2</sup> = 0.155 square inch</item>                            
+                            <item>1 m<sup>2</sup> = 10.764 square feet</item>
+                            <item>1 m<sup>2</sup> = 1.196 square yards</item>
+                            <item>1 ha = 2.471 acres</item>
+                        </list></entry>
+                </row>
+                <row>
+                    <entry>square meter</entry>
+                    <entry>m<sup>2</sup></entry>
+                    <entry>1 m<sup>2</sup> = 10,000 cm<sup>2</sup></entry>
+                </row>
+                <row>
+                    <entry>hectare</entry>
+                    <entry>ha</entry>
+                    <entry>1 ha = 10,000 m<sup>2</sup></entry>
+                </row>                
+
+                <row>
+                    <entry>Temperature</entry>
+                    <entry>Celsius</entry>
+                    <entry>°C</entry>
+                    <entry>—</entry>
+                    <entry>1 °C = 5/9 × (°F − 32)</entry>
+                </row>
+                
+            </tbody>
+        </tgroup>
+    </table></content>
+
+</document>

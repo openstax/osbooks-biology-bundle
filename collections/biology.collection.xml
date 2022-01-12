@@ -1,0 +1,2074 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11448</md:content-id>
+  <md:title>Biology</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  <md:uuid>185cbf87-c72e-48f5-b51e-f14f21b5eabd</md:uuid>
+<md:slug>biology</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m46078"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 1. The Chemistry of Life</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Study of Life</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44386"/>
+        
+      
+    
+    
+      <col:module document="m44387"/>
+        
+      
+    
+    
+      <col:module document="m44388"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Chemical Foundation of Life</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44389"/>
+        
+      
+    
+    
+      <col:module document="m44390"/>
+        
+      
+    
+    
+      <col:module document="m44392"/>
+        
+      
+    
+    
+      <col:module document="m44393"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Biological Macromolecules</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44395"/>
+        
+      
+    
+    
+      <col:module document="m44397"/>
+        
+      
+    
+    
+      <col:module document="m44400"/>
+        
+      
+    
+    
+      <col:module document="m44401"/>
+        
+      
+    
+    
+      <col:module document="m44402"/>
+        
+      
+    
+    
+      <col:module document="m44403"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 2. The Cell</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>Cell Structure</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44404"/>
+        
+      
+    
+    
+      <col:module document="m44405"/>
+        
+      
+    
+    
+      <col:module document="m44406"/>
+        
+      
+    
+    
+      <col:module document="m44407"/>
+        
+      
+    
+    
+      <col:module document="m44435"/>
+        
+      
+    
+    
+      <col:module document="m44412"/>
+        
+      
+    
+    
+      <col:module document="m44413"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Structure and Function of Plasma Membranes</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44415"/>
+        
+      
+    
+    
+      <col:module document="m44416"/>
+        
+      
+    
+    
+      <col:module document="m44417"/>
+        
+      
+    
+    
+      <col:module document="m44418"/>
+        
+      
+    
+    
+      <col:module document="m44419"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Metabolism</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44421"/>
+        
+      
+    
+    
+      <col:module document="m44422"/>
+        
+      
+    
+    
+      <col:module document="m44425"/>
+        
+      
+    
+    
+      <col:module document="m44424"/>
+        
+      
+    
+    
+      <col:module document="m44427"/>
+        
+      
+    
+    
+      <col:module document="m44429"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Cellular Respiration</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44430"/>
+        
+      
+    
+    
+      <col:module document="m44431"/>
+        
+      
+    
+    
+      <col:module document="m44432"/>
+        
+      
+    
+    
+      <col:module document="m44433"/>
+        
+      
+    
+    
+      <col:module document="m44437"/>
+        
+      
+    
+    
+      <col:module document="m44444"/>
+        
+      
+    
+    
+      <col:module document="m44441"/>
+        
+      
+    
+    
+      <col:module document="m44442"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Photosynthesis</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44446"/>
+        
+      
+    
+    
+      <col:module document="m44447"/>
+        
+      
+    
+    
+      <col:module document="m44448"/>
+        
+      
+    
+    
+      <col:module document="m44449"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Cell Communication</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44450"/>
+        
+      
+    
+    
+      <col:module document="m44451"/>
+        
+      
+    
+    
+      <col:module document="m44452"/>
+        
+      
+    
+    
+      <col:module document="m44453"/>
+        
+      
+    
+    
+      <col:module document="m44454"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Cell Reproduction</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44457"/>
+        
+      
+    
+    
+      <col:module document="m44459"/>
+        
+      
+    
+    
+      <col:module document="m44460"/>
+        
+      
+    
+    
+      <col:module document="m44466"/>
+        
+      
+    
+    
+      <col:module document="m44463"/>
+        
+      
+    
+    
+      <col:module document="m44467"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 3. Genetics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>Meiosis and Sexual Reproduction</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44468"/>
+        
+      
+    
+    
+      <col:module document="m44469"/>
+        
+      
+    
+    
+      <col:module document="m44470"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Mendel's Experiments and Heredity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44474"/>
+        
+      
+    
+    
+      <col:module document="m44476"/>
+        
+      
+    
+    
+      <col:module document="m44478"/>
+        
+      
+    
+    
+      <col:module document="m44479"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Modern Understandings of Inheritance</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44480"/>
+        
+      
+    
+    
+      <col:module document="m44481"/>
+        
+      
+    
+    
+      <col:module document="m44483"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>DNA Structure and Function</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44484"/>
+        
+      
+    
+    
+      <col:module document="m44485"/>
+        
+      
+    
+    
+      <col:module document="m44486"/>
+        
+      
+    
+    
+      <col:module document="m44487"/>
+        
+      
+    
+    
+      <col:module document="m44488"/>
+        
+      
+    
+    
+      <col:module document="m44517"/>
+        
+      
+    
+    
+      <col:module document="m44513"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Genes and Proteins</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44518"/>
+        
+      
+    
+    
+      <col:module document="m44522"/>
+        
+      
+    
+    
+      <col:module document="m44523"/>
+        
+      
+    
+    
+      <col:module document="m44524"/>
+        
+      
+    
+    
+      <col:module document="m44532"/>
+        
+      
+    
+    
+      <col:module document="m44529"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Gene Expression</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44533"/>
+        
+      
+    
+    
+      <col:module document="m44534"/>
+        
+      
+    
+    
+      <col:module document="m44535"/>
+        
+      
+    
+    
+      <col:module document="m44536"/>
+        
+      
+    
+    
+      <col:module document="m44538"/>
+        
+      
+    
+    
+      <col:module document="m44539"/>
+        
+      
+    
+    
+      <col:module document="m44542"/>
+        
+      
+    
+    
+      <col:module document="m44548"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Biotechnology and Genomics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44551"/>
+        
+      
+    
+    
+      <col:module document="m44552"/>
+        
+      
+    
+    
+      <col:module document="m44554"/>
+        
+      
+    
+    
+      <col:module document="m44555"/>
+        
+      
+    
+    
+      <col:module document="m44560"/>
+        
+      
+    
+    
+      <col:module document="m44558"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 4. Evolutionary Processes</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>Evolution and the Origin of Species</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44561"/>
+        
+      
+    
+    
+      <col:module document="m44568"/>
+        
+      
+    
+    
+      <col:module document="m44574"/>
+        
+      
+    
+    
+      <col:module document="m44573"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Evolution of Populations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44575"/>
+        
+      
+    
+    
+      <col:module document="m44582"/>
+        
+      
+    
+    
+      <col:module document="m44584"/>
+        
+      
+    
+    
+      <col:module document="m44586"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Phylogenies and the History of Life</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44587"/>
+        
+      
+    
+    
+      <col:module document="m44588"/>
+        
+      
+    
+    
+      <col:module document="m44591"/>
+        
+      
+    
+    
+      <col:module document="m44593"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 5. Biological Diversity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>Viruses</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44594"/>
+        
+      
+    
+    
+      <col:module document="m44595"/>
+        
+      
+    
+    
+      <col:module document="m44597"/>
+        
+      
+    
+    
+      <col:module document="m44599"/>
+        
+      
+    
+    
+      <col:module document="m44601"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Prokaryotes: Bacteria and Archaea</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44602"/>
+        
+      
+    
+    
+      <col:module document="m44603"/>
+        
+      
+    
+    
+      <col:module document="m44605"/>
+        
+      
+    
+    
+      <col:module document="m44606"/>
+        
+      
+    
+    
+      <col:module document="m44607"/>
+        
+      
+    
+    
+      <col:module document="m44609"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Protists</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44612"/>
+        
+      
+    
+    
+      <col:module document="m44614"/>
+        
+      
+    
+    
+      <col:module document="m44616"/>
+        
+      
+    
+    
+      <col:module document="m44617"/>
+        
+      
+    
+    
+      <col:module document="m44619"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Fungi</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44620"/>
+        
+      
+    
+    
+      <col:module document="m44622"/>
+        
+      
+    
+    
+      <col:module document="m44625"/>
+        
+      
+    
+    
+      <col:module document="m44632"/>
+        
+      
+    
+    
+      <col:module document="m44628"/>
+        
+      
+    
+    
+      <col:module document="m44629"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Seedless Plants</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44633"/>
+        
+      
+    
+    
+      <col:module document="m44635"/>
+        
+      
+    
+    
+      <col:module document="m44637"/>
+        
+      
+    
+    
+      <col:module document="m44638"/>
+        
+      
+    
+    
+      <col:module document="m44640"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Seed Plants</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44643"/>
+        
+      
+    
+    
+      <col:module document="m44653"/>
+        
+      
+    
+    
+      <col:module document="m44648"/>
+        
+      
+    
+    
+      <col:module document="m44650"/>
+        
+      
+    
+    
+      <col:module document="m44652"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Introduction to Animal Diversity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44654"/>
+        
+      
+    
+    
+      <col:module document="m44655"/>
+        
+      
+    
+    
+      <col:module document="m44656"/>
+        
+      
+    
+    
+      <col:module document="m44658"/>
+        
+      
+    
+    
+      <col:module document="m44660"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Invertebrates</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44661"/>
+        
+      
+    
+    
+      <col:module document="m44663"/>
+        
+      
+    
+    
+      <col:module document="m44664"/>
+        
+      
+    
+    
+      <col:module document="m44665"/>
+        
+      
+    
+    
+      <col:module document="m44667"/>
+        
+      
+    
+    
+      <col:module document="m44681"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Vertebrates</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44684"/>
+        
+      
+    
+    
+      <col:module document="m44685"/>
+        
+      
+    
+    
+      <col:module document="m44687"/>
+        
+      
+    
+    
+      <col:module document="m44688"/>
+        
+      
+    
+    
+      <col:module document="m44689"/>
+        
+      
+    
+    
+      <col:module document="m44694"/>
+        
+      
+    
+    
+      <col:module document="m44692"/>
+        
+      
+    
+    
+      <col:module document="m44696"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 6. Plant Structure and Function</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>Plant Form and Physiology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44698"/>
+        
+      
+    
+    
+      <col:module document="m44700"/>
+        
+      
+    
+    
+      <col:module document="m44702"/>
+        
+      
+    
+    
+      <col:module document="m44704"/>
+        
+      
+    
+    
+      <col:module document="m44706"/>
+        
+      
+    
+    
+      <col:module document="m44708"/>
+        
+      
+    
+    
+      <col:module document="m44711"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Soil and Plant Nutrition</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44712"/>
+        
+      
+    
+    
+      <col:module document="m44714"/>
+        
+      
+    
+    
+      <col:module document="m44715"/>
+        
+      
+    
+    
+      <col:module document="m44718"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Plant Reproduction</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44720"/>
+        
+      
+    
+    
+      <col:module document="m44722"/>
+        
+      
+    
+    
+      <col:module document="m44723"/>
+        
+      
+    
+    
+      <col:module document="m44725"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 7. Animal Structure and Function</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Animal Body: Basic Form and Function</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44728"/>
+        
+      
+    
+    
+      <col:module document="m44730"/>
+        
+      
+    
+    
+      <col:module document="m44731"/>
+        
+      
+    
+    
+      <col:module document="m44733"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Animal Nutrition and the Digestive System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44734"/>
+        
+      
+    
+    
+      <col:module document="m44736"/>
+        
+      
+    
+    
+      <col:module document="m44740"/>
+        
+      
+    
+    
+      <col:module document="m44742"/>
+        
+      
+    
+    
+      <col:module document="m44744"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Nervous System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44745"/>
+        
+      
+    
+    
+      <col:module document="m44747"/>
+        
+      
+    
+    
+      <col:module document="m44748"/>
+        
+      
+    
+    
+      <col:module document="m44749"/>
+        
+      
+    
+    
+      <col:module document="m44751"/>
+        
+      
+    
+    
+      <col:module document="m44752"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Sensory Systems</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44753"/>
+        
+      
+    
+    
+      <col:module document="m44754"/>
+        
+      
+    
+    
+      <col:module document="m44757"/>
+        
+      
+    
+    
+      <col:module document="m44764"/>
+        
+      
+    
+    
+      <col:module document="m44760"/>
+        
+      
+    
+    
+      <col:module document="m44761"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Endocrine System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44765"/>
+        
+      
+    
+    
+      <col:module document="m44766"/>
+        
+      
+    
+    
+      <col:module document="m44768"/>
+        
+      
+    
+    
+      <col:module document="m44777"/>
+        
+      
+    
+    
+      <col:module document="m44771"/>
+        
+      
+    
+    
+      <col:module document="m44775"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Musculoskeletal System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44783"/>
+        
+      
+    
+    
+      <col:module document="m44781"/>
+        
+      
+    
+    
+      <col:module document="m44789"/>
+        
+      
+    
+    
+      <col:module document="m44786"/>
+        
+      
+    
+    
+      <col:module document="m44788"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Respiratory System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44790"/>
+        
+      
+    
+    
+      <col:module document="m44792"/>
+        
+      
+    
+    
+      <col:module document="m44795"/>
+        
+      
+    
+    
+      <col:module document="m44797"/>
+        
+      
+    
+    
+      <col:module document="m44799"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Circulatory System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44800"/>
+        
+      
+    
+    
+      <col:module document="m44801"/>
+        
+      
+    
+    
+      <col:module document="m44804"/>
+        
+      
+    
+    
+      <col:module document="m44805"/>
+        
+      
+    
+    
+      <col:module document="m44806"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Osmotic Regulation and Excretion</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44807"/>
+        
+      
+    
+    
+      <col:module document="m44808"/>
+        
+      
+    
+    
+      <col:module document="m44809"/>
+        
+      
+    
+    
+      <col:module document="m44810"/>
+        
+      
+    
+    
+      <col:module document="m44811"/>
+        
+      
+    
+    
+      <col:module document="m44828"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Immune System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44817"/>
+        
+      
+    
+    
+      <col:module document="m44820"/>
+        
+      
+    
+    
+      <col:module document="m44821"/>
+        
+      
+    
+    
+      <col:module document="m44823"/>
+        
+      
+    
+    
+      <col:module document="m44831"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Animal Reproduction and Development</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44851"/>
+        
+      
+    
+    
+      <col:module document="m44836"/>
+        
+      
+    
+    
+      <col:module document="m44838"/>
+        
+      
+    
+    
+      <col:module document="m44839"/>
+        
+      
+    
+    
+      <col:module document="m44841"/>
+        
+      
+    
+    
+      <col:module document="m44848"/>
+        
+      
+    
+    
+      <col:module document="m44846"/>
+        
+      
+    
+    
+      <col:module document="m44850"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unit 8. Ecology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>Ecology and the Biosphere</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44853"/>
+        
+      
+    
+    
+      <col:module document="m44856"/>
+        
+      
+    
+    
+      <col:module document="m44857"/>
+        
+      
+    
+    
+      <col:module document="m44858"/>
+        
+      
+    
+    
+      <col:module document="m44859"/>
+        
+      
+    
+    
+      <col:module document="m44861"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Population and Community Ecology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44863"/>
+        
+      
+    
+    
+      <col:module document="m44864"/>
+        
+      
+    
+    
+      <col:module document="m44881"/>
+        
+      
+    
+    
+      <col:module document="m44872"/>
+        
+      
+    
+    
+      <col:module document="m44882"/>
+        
+      
+    
+    
+      <col:module document="m44875"/>
+        
+      
+    
+    
+      <col:module document="m44878"/>
+        
+      
+    
+    
+      <col:module document="m44879"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Ecosystems</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44883"/>
+        
+      
+    
+    
+      <col:module document="m44885"/>
+        
+      
+    
+    
+      <col:module document="m44887"/>
+        
+      
+    
+    
+      <col:module document="m44889"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Conservation Biology and Biodiversity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m44890"/>
+        
+      
+    
+    
+      <col:module document="m44892"/>
+        
+      
+    
+    
+      <col:module document="m44894"/>
+        
+      
+    
+    
+      <col:module document="m44896"/>
+        
+      
+    
+    
+      <col:module document="m44898"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m45849"/>
+        
+      
+    
+    
+      <col:module document="m60107"/>
+        
+      
+    
+    
+      <col:module document="m60108"/>
+        
+      
+    
+  </col:content>
+</col:collection>

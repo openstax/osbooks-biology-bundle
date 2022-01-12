@@ -1,0 +1,19 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44551</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>644feff4-c255-4063-811a-5104a2b430de</md:uuid>
+</metadata>
+
+<content>
+    <figure id="fs-id1612804" class="splash"><media id="fs-id1770002" alt="The left part of this image is an illustration of a gene chip. The chip is a grid comprising nine columns and 21 rows. Most cells in the grid are blue, but some are green, yellow, or red. The green, yellow, or red color shows that DNA has hybridized with the chip, indicating the presence of a particular gene. The right part of the image is a satellite image of Spain, with a small region outlined in a square. This image is meant to reinforce the concept that, like regions of the world, DNA can be mapped.">
+        <image mime-type="image/jpg" src="../../media/Figure_B17_00_01.jpg" width="600"/>
+    </media>
+    <caption>In genomics, the DNA of different organisms is compared, enabling scientists to create maps with which to navigate the DNA of different organisms. (credit "map": modification of photo by NASA)</caption></figure><para id="fs-id1760576">
+The study of nucleic acids began with the discovery of DNA, progressed to the study of genes and small fragments, and has now exploded to the field of genomics. Genomics is the study of entire genomes, including the complete set of genes, their nucleotide sequence and organization, and their interactions within a species and with other species. The advances in genomics have been made possible by DNA sequencing technology. Just as information technology has led to Google maps that enable people to get detailed information about locations around the globe, genomic information is used to create similar maps of the DNA of different organisms. These findings have helped anthropologists to better understand human migration and have aided the field of medicine through the mapping of human genetic diseases. The ways in which genomic information can contribute to scientific understanding are varied and quickly growing.</para>
+</content>
+
+</document>
