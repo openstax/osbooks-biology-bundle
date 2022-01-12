@@ -5,7 +5,7 @@
   <md:content-id>m63031</md:content-id>
   <md:title>Population Dynamics and Regulation</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list>
+<list id="list-00001">
 <item>Give examples of how the carrying capacity of a habitat may change</item>
 <item>Compare and contrast density-dependent growth regulation and density-independent growth regulation, giving examples</item>
 <item>Give examples of exponential and logistic growth in wild animal populations</item>

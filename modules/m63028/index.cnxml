@@ -5,7 +5,7 @@
   <md:content-id>m63028</md:content-id>
   <md:title>Population Demography</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list>
+<list id="list-00001">
 <item>Describe how ecologists measure population size and density</item>
 <item>Describe three different patterns of population distribution</item>
 <item>Use life tables to calculate mortality rates</item>

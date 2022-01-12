@@ -5,7 +5,7 @@
   <md:content-id>m45428</md:content-id>
   <md:title>How Cells Are Studied</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list>
+<list id="list-00001">
 <item>Describe the roles of cells in organisms</item>
 <item>Compare and contrast light microscopy and electron microscopy</item>
 <item>Summarize the cell theory</item>
@@ -18,7 +18,7 @@
 <para id="fs-idp93782784">In multicellular organisms, several cells of one particular kind interconnect with each other and perform shared functions to form tissues  (for example, muscle tissue, connective tissue, and nervous tissue), several tissues combine to form an organ (for example, stomach, heart, or brain), and several organs make up an organ system (such as the digestive system, circulatory system, or nervous system). Several systems functioning together form an organism (such as an elephant, for example).</para><para id="fs-idp113134400">There are many types of cells, and all are grouped into one of two broad categories: prokaryotic and eukaryotic. Animal cells, plant cells, fungal cells, and protist cells are classified as eukaryotic, whereas bacteria and archaea cells are classified as prokaryotic. Before discussing the criteria for determining whether a cell is prokaryotic or eukaryotic, let us first examine how biologists study cells.</para>
 <section id="fs-idp18125392">
 <title>Microscopy</title>
-<para id="fs-idp18948384">Cells vary in size. With few exceptions, individual cells are too small to be seen with the naked eye, so scientists use microscopes to study them. A <term>microscope</term> is an instrument that magnifies an object. Most images of cells are taken with a microscope and are called micrographs.</para>
+<para id="fs-idp18948384">Cells vary in size. With few exceptions, individual cells are too small to be seen with the naked eye, so scientists use microscopes to study them. A <term id="term-00001">microscope</term> is an instrument that magnifies an object. Most images of cells are taken with a microscope and are called micrographs.</para>
 <section id="fs-idm16637120">
 <title>Light Microscopes</title>
 <para id="fs-idp7201152">To give you a sense of the size of a cell, a typical human red blood cell is about eight millionths of a meter or eight micrometers (abbreviated as µm) in diameter; the head of a pin is about two thousandths of a meter (millimeters, or mm) in diameter. That means that approximately 250 red blood cells could fit on the head of a pin.</para>
@@ -66,7 +66,7 @@
 <title>Cell Theory</title>
 <para id="fs-idp37105392">The microscopes we use today are far more complex than those used in the 1600s by Antony van Leeuwenhoek, a Dutch shopkeeper who had great skill in crafting lenses. Despite the limitations of his now-ancient lenses, van Leeuwenhoek observed the movements of protists (a type of single-celled organism) and sperm, which he collectively termed “animalcules.”</para>
 <para id="fs-idm27163376">In a 1665 publication called <emphasis effect="italics">Micrographia</emphasis>, experimental scientist Robert Hooke coined the term “cell” (from the Latin <emphasis effect="italics">cella</emphasis>, meaning “small room”) for the box-like structures he observed when viewing cork tissue through a lens. In the 1670s, van Leeuwenhoek discovered bacteria and protozoa. Later advances in lenses and microscope construction enabled other scientists to see different components inside cells.</para>
-<para id="fs-idp76155936">By the late 1830s, botanist Matthias Schleiden and zoologist Theodor Schwann were studying tissues and proposed the <term>unified cell theory</term>, which states that all living things are composed of one or more cells, that the cell is the basic unit of life, and that all new cells arise from existing cells. These principles still stand today.</para>
+<para id="fs-idp76155936">By the late 1830s, botanist Matthias Schleiden and zoologist Theodor Schwann were studying tissues and proposed the <term id="term-00002">unified cell theory</term>, which states that all living things are composed of one or more cells, that the cell is the basic unit of life, and that all new cells arise from existing cells. These principles still stand today.</para>
 </section>
 <section id="fs-idp80477168" class="summary">
 <title>Section Summary</title><para id="fs-idp1012432">A cell is the smallest unit of life. Most cells are so small that they cannot be viewed with the naked eye. Therefore, scientists must use microscopes to study cells. Electron microscopes provide higher magnification, higher resolution, and more detail than light microscopes. The unified cell theory states that all organisms are composed of one or more cells, the cell is the basic unit of life, and new cells arise from existing cells.</para>

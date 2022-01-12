@@ -5,7 +5,7 @@
   <md:content-id>m62870</md:content-id>
   <md:title>Population Genetics</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list>
+<list id="list-00001">
 <item>Describe the different types of variation in a population</item>
 <item>Explain why only heritable variation can be acted upon by natural selection</item>
 <item>Describe genetic drift and the bottleneck effect</item>
@@ -738,9 +738,9 @@ prevailing wind direction, as shown in the diagram. How will the two populations
 </row>
 </tbody>
 </tgroup>
-</table><para id="fs-id1164968917220">C. Based on these data, <term>predict</term>, with justification, changes over time in the aminopeptidase enzyme for these populations.</para>
-<para id="fs-id1164962997352">D. The B form of this aminopeptidase is slightly more efficient at extracting nutritional leucine from a protein than the A and C forms but slightly less efficient at extracting valine and serine. <term>Describe</term> an investigation of the two habitats that could suggest a causal relationship between changes in allele frequency and characteristics of the environment.</para>
-<para id="fs-id1164966576240">E. Single-nucleotide mutations are neutral when they encode changes in proteins that result in no significant differential selection. If differences in environmental factors between sites 1 and 2 are not observed, <term>predict</term> what other factors could result in departures from Hardy-Weinberg equilibrium for aminopeptidase.</para></problem></exercise>
+</table><para id="fs-id1164968917220">C. Based on these data, <term id="term-00001">predict</term>, with justification, changes over time in the aminopeptidase enzyme for these populations.</para>
+<para id="fs-id1164962997352">D. The B form of this aminopeptidase is slightly more efficient at extracting nutritional leucine from a protein than the A and C forms but slightly less efficient at extracting valine and serine. <term id="term-00002">Describe</term> an investigation of the two habitats that could suggest a causal relationship between changes in allele frequency and characteristics of the environment.</para>
+<para id="fs-id1164966576240">E. Single-nucleotide mutations are neutral when they encode changes in proteins that result in no significant differential selection. If differences in environmental factors between sites 1 and 2 are not observed, <term id="term-00003">predict</term> what other factors could result in departures from Hardy-Weinberg equilibrium for aminopeptidase.</para></problem></exercise>
 
 <exercise id="fs-id1164966287316">
 <problem id="fs-id1164966301522">
@@ -748,7 +748,7 @@ prevailing wind direction, as shown in the diagram. How will the two populations
 <figure id="fs-id1164966406931"><media id="fs-id1164968584607" alt="The right side of the table shows the comparison between species that are Luminous and their sister lineages that lack luminosity. The key for this being a: Bolitaenin octopus. B: Sylid polychaete. C: Gazzin ponyfish. D. etmopterus shark. E: cypridinid ostracod f: pyrophorin click beetle g: Rhagophthalmid railroad beetle, h: myctophid lanterfish i: stomiid dragonfish j: firefly. The verticle axis of the graph is labeled Number of species (natural log) it is labeled from 0 to 7. The x axis is labeled on the right side non-luminous sister lineage and the left side luminous lineage. The first diagonal red line goes from 0 to 1 and is labeled a. The second line goes from 0 up to 2.5 and is labeled c. the third line is from a and is labeled b. the next line goes up from 1.5 and is labeled d. The next line is from 1.7 and is labeled e. Two lines go diagonally up from 2 and are labeled with h and I. and finally the last line that goes up from 5 is labeled ">
 <image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_19_02_02_01_img.jpg" height="400"/>
 </media>
-</figure><para id="fs-id1164968696124">Based on the data shown in the graphs, <term>describe</term> a model that can account for the increased speciation of bioluminescent lineages, including the mechanism of speciation.</para>
+</figure><para id="fs-id1164968696124">Based on the data shown in the graphs, <term id="term-00004">describe</term> a model that can account for the increased speciation of bioluminescent lineages, including the mechanism of speciation.</para>
 </problem>
 </exercise>
 
@@ -758,10 +758,10 @@ prevailing wind direction, as shown in the diagram. How will the two populations
 <image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_19_02_03_01_img.jpg" width="400"/>
 </media>
 </figure><para id="fs-id1164966425273">A biologist is using a simulation to model populations of African hornbills (<emphasis effect="italics">Bycanistes</emphasis> spp. and <emphasis effect="italics">Ceratogymna</emphasis> spp.), a keystone species of the savanna.  Populations of the birds are declining due to habitat loss.  The hornbills diet consists primarily of termites and fruit.  A critical component of termite digestion is chitin deacetylase, an enzyme whose mutation rate is a model parameter.  The other model parameter is population size, N.  In the results of the simulation study shown above, there is no selection, and the mutation rate is fixed.  Although both population size and mutation rate are fixed, randomness results in the five different outcomes shown in each graph above.</para>
-<para id="fs-id1164969001579">A. <term>Select</term> the graph displaying the results that are closer to Hardy-Weinberg equilibrium.  Justify the selection of the graph.</para>
-<para id="fs-id1164966277456">B. Based on these simulations, <term>predict</term> the future heterozygosity, 2pq, of the smaller populations, as shown in graph A.</para>
-<para id="fs-id1164968940444">C. <term>Justify</term> the use of a simulation study with no selection under environmental conditions in which the availability of both termites and fruit is high.</para>
-<para id="fs-id1164968673294">D. If a change in the environment occurs suddenly, such as an increase in average temperature, where fruit production declines, <term>analyze</term> the effect of the change on allele frequency in the large and small populations.</para>
+<para id="fs-id1164969001579">A. <term id="term-00005">Select</term> the graph displaying the results that are closer to Hardy-Weinberg equilibrium.  Justify the selection of the graph.</para>
+<para id="fs-id1164966277456">B. Based on these simulations, <term id="term-00006">predict</term> the future heterozygosity, 2pq, of the smaller populations, as shown in graph A.</para>
+<para id="fs-id1164968940444">C. <term id="term-00007">Justify</term> the use of a simulation study with no selection under environmental conditions in which the availability of both termites and fruit is high.</para>
+<para id="fs-id1164968673294">D. If a change in the environment occurs suddenly, such as an increase in average temperature, where fruit production declines, <term id="term-00008">analyze</term> the effect of the change on allele frequency in the large and small populations.</para>
 </problem>
 </exercise>
 </section>

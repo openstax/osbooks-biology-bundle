@@ -5,7 +5,7 @@
   <md:content-id>m62874</md:content-id>
   <md:title>Organizing Life on Earth</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list>
+<list id="list-00001">
 <item>Discuss the need for a comprehensive classification system</item>
 <item>List the different levels of the taxonomic classification system</item>
 <item>Describe how systematics and taxonomy relate to phylogeny</item>
@@ -461,14 +461,14 @@ What evolutionary question is better addressed by the fig-shaped evolutionary tr
 <image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_20_01_01_01_img.jpg" width="400"/>
 </media>
 <para id="fs-id1164968598905">The figure shows a plot of the fraction, as a percentage, of families of marine organisms, living at a particular point in time that became extinct (vanished from the fossil record) in the next geological moment. These mass extinctions mark the ends of geologic periods. For example, the Triassic period ended around 213 million years ago (Mya).</para>
-<para id="fs-id1164967791474">A. The fact that evolution is an ongoing process is illustrated by these data.  Whether the process displays a pattern involving regular intervals is a question that has been raised.  Of those who believe periodicity is present, a period of 26 million years is favored.  A wave with this periodicity is drawn on the figure.  <term>Evaluate</term> the evidence provided in terms of agreement and disagreement with the marine extinction record.</para>
+<para id="fs-id1164967791474">A. The fact that evolution is an ongoing process is illustrated by these data.  Whether the process displays a pattern involving regular intervals is a question that has been raised.  Of those who believe periodicity is present, a period of 26 million years is favored.  A wave with this periodicity is drawn on the figure.  <term id="term-00001">Evaluate</term> the evidence provided in terms of agreement and disagreement with the marine extinction record.</para>
 <para id="fs-id1164967800972">The Cretaceous and Jurassic were periods of warm landmasses covered by a shallow sea.  The ends of these periods are known to be due to asteroids that left a sedimentary trace.  At the end of the Triassic, there is no evidence of an asteroid impact.  Instead, there was massive volcanism associated with the opening of the Atlantic Ocean, a four-fold increase in carbon dioxide, and a 36 °C temperature rise (A. Marzoli et al., <emphasis effect="italics">Science</emphasis>, 1999).  Macrofossil, spore, and pollen data show that marine animal species declined much more than marine plant species (L. Mander et al., <emphasis effect="italics">Proc Natl Acad Sci</emphasis>, 2010).  The cause of the end of the Permian period is less uncertain, but an 8-°C temperature rise has been established (McElwain and Punyasena, <emphasis effect="italics">Trends in Ecology and Evolution</emphasis>, 2007).  Both terrestrial and marine taxa were affected.</para>
 <para id="fs-id1164967521106">The graph estimates the number of distinct families, including both marine and terrestrial, as a function of time before the present.  Note that the time scale for this graph is much longer than that of the previous graph.</para>
 <figure id="fs-id1164967747032"><media id="fs-id1164965241582" alt="The graph estimates the number of distinct families, including both marine and terrestrial, as a function of time from zero to 600 million years ago.">
 <image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_20_01_01_02_img.jpg" width="400"/>
 </media>
 
-</figure><para id="fs-id1164960921221">B. <term>Analyze</term> this graph by:</para>
+</figure><para id="fs-id1164960921221">B. <term id="term-00002">Analyze</term> this graph by:</para>
 <list id="fs-id1164964478440"><item>identifying times of mass extinctions</item>
 <item>posing a question regarding any difference between the graph of extinctions of marine life and the graph of family-level diversity</item>
 <item>explaining the slope of the graph of family diversity following a mass extinction event</item></list>
