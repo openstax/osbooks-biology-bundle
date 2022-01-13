@@ -5,7 +5,7 @@
   <md:content-id>m62903</md:content-id>
   <md:title>Determining Evolutionary Relationships</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
+<list>
 <item>Compare homologous and analogous traits</item>
 <item>Discuss the purpose of cladistics</item>
 <item>Describe maximum parsimony</item>
@@ -269,7 +269,7 @@
 <para id="fs-id1166849933756">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
 [APLO 1.15][APLO 1.16][APLO 1.18][APLO 1.17][APLO 1.19][APLO 1.26]</para><section id="fs-idp96162000" class="ost-tag-lo-apbio-ch20-s02-lo01 ost-tag-lo-apbio-ch20-s02-aplo-1-9 ost-get-exercise">
 <title>Two Options for Similarities</title>
-<para id="fs-idp56426176">In general, organisms that share similar physical features and genomes tend to be more closely related than those that do not. Such features that overlap both morphologically (in form) and genetically are referred to as homologous structures; they stem from developmental similarities that are based on evolution. For example, the bones in the wings of bats and birds have homologous structures. This is an example of morphological <term id="term-00001">homology</term> (<link target-id="fig-ch20_02_01" document=""/>).</para><figure id="fig-ch20_02_01" class="ost-tag-lo-apbio-ch20-s02-lo01"><media id="fs-idp86426144" alt=" Photo a shows a bird in flight with a corresponding drawing of a bird wing. Photo b is a bat in flight with a corresponding drawing of a bat wing. Both the bird wing and the bat wing share common bones, analogous to the bones in the arms and fingers of humans. However, in the bat wing, the finger bones are long and separate and form a scaffolding on which the wing’s membrane is stretched. In the bird wing, the finger bones are short and fused together at the front of the wing.">
+<para id="fs-idp56426176">In general, organisms that share similar physical features and genomes tend to be more closely related than those that do not. Such features that overlap both morphologically (in form) and genetically are referred to as homologous structures; they stem from developmental similarities that are based on evolution. For example, the bones in the wings of bats and birds have homologous structures. This is an example of morphological <term>homology</term> (<link target-id="fig-ch20_02_01" document=""/>).</para><figure id="fig-ch20_02_01" class="ost-tag-lo-apbio-ch20-s02-lo01"><media id="fs-idp86426144" alt=" Photo a shows a bird in flight with a corresponding drawing of a bird wing. Photo b is a bat in flight with a corresponding drawing of a bat wing. Both the bird wing and the bat wing share common bones, analogous to the bones in the arms and fingers of humans. However, in the bat wing, the finger bones are long and separate and form a scaffolding on which the wing’s membrane is stretched. In the bird wing, the finger bones are short and fused together at the front of the wing.">
 <image mime-type="image/jpg" src="../../media/Figure_20_02_01-5b8b.jpg" width="440"/>
 </media>
 
@@ -367,8 +367,7 @@
 <item>New variations continue to arise: some are adaptive and persist, leading to new traits.</item>
 <item>With new traits, a new branch point is determined (go back to step 1 and repeat).</item>
 </list>
-<para id="fs-idp34154656">If a characteristic is found in the ancestor of a group, it is considered a <emphasis>shared ancestral character</emphasis> because all of the organisms in the taxon or clade have that trait. The vertebrate in <link target-id="fig-ch20_02_04" document=""/> is a shared ancestral character. Now consider the amniotic egg characteristic in the same figure. Only some of the organisms in <link target-id="fig-ch20_02_04" document=""/> have this trait, and to those that do, it is called a <emphasis>shared derived character</emphasis> because this trait derived at some point but does not include all of the ancestors in the tree.</para><para id="fs-idm6671824">The tricky aspect to shared ancestral and shared derived characters is the fact that these terms are relative. The same trait can be considered one or the other depending on the particular diagram being used. Returning to <link target-id="fig-ch20_02_04" document=""/>, note that the amniotic egg is a shared ancestral character for the Amniota clade, while having hair is a shared derived character for some organisms in this group. These terms help scientists distinguish between clades in the building of phylogenetic trees.</para>
-<section id="fs-idp120153744" class="ost-tag-lo-apbio-ch20-s02-lo03 ost-tag-lo-apbio-ch20-s02-aplo-1-13 ost-tag-lo-apbio-ch20-s02-aplo-1-19">
+<para id="fs-idp34154656">If a characteristic is found in the ancestor of a group, it is considered a <emphasis>shared ancestral character</emphasis> because all of the organisms in the taxon or clade have that trait. The vertebrate in <link target-id="fig-ch20_02_04" document=""/> is a shared ancestral character. Now consider the amniotic egg characteristic in the same figure. Only some of the organisms in <link target-id="fig-ch20_02_04" document=""/> have this trait, and to those that do, it is called a <emphasis>shared derived character</emphasis> because this trait derived at some point but does not include all of the ancestors in the tree.</para><para id="fs-idm6671824">The tricky aspect to shared ancestral and shared derived characters is the fact that these terms are relative. The same trait can be considered one or the other depending on the particular diagram being used. Returning to <link target-id="fig-ch20_02_04" document=""/>, note that the amniotic egg is a shared ancestral character for lizards, rabbits, and humans, while having hair is a shared derived character only for humans and rabbits. For the Amniotes as a group, however, the amniotic egg is a shared derived character that is not seen in fish. These terms help scientists distinguish between clades in the building of phylogenetic trees.</para><section id="fs-idp120153744" class="ost-tag-lo-apbio-ch20-s02-lo03 ost-tag-lo-apbio-ch20-s02-aplo-1-13 ost-tag-lo-apbio-ch20-s02-aplo-1-19">
 <title>Choosing the Right Relationships</title>
 <para id="fs-idm2067904">Imagine being the person responsible for organizing all of the items in a department store properly—an overwhelming task. Organizing the evolutionary relationships of all life on Earth proves much more difficult: scientists must span enormous blocks of time and work with information from long-extinct organisms. Trying to decipher the proper connections, especially given the presence of homologies and analogies, makes the task of building an accurate tree of life extraordinarily difficult. Add to that the advancement of DNA technology, which now provides large quantities of genetic sequences to be used and analyzed. Taxonomy is a subjective discipline: many organisms have more than one connection to each other, so each taxonomist will decide the order of connections.</para>
 <para id="fs-idp136027872">To aid in the tremendous task of describing phylogenies accurately, scientists often use a concept called maximum parsimony, which means that events occurred in the simplest, most obvious way. For example, if a group of people entered a forest preserve to go hiking, based on the principle of maximum parsimony, one could predict that most of the people would hike on established trails rather than forge new ones.</para>
@@ -788,13 +787,13 @@
 <image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_20_02_01_01_img.jpg" width="400"/>
 </media>
 <para id="fs-id1164966269213">Lactate dehydrogenase, an enzyme involved in glycolysis, from several species are compared using a Southern blot technique in the figure on the left: (A) yeast; (B) snail; (C) mouse; (D) rat; and (E) human (after K. Webster, <emphasis effect="italics">Journal of Experimental Biology</emphasis> 2003).</para>
-<para id="fs-id1164968965046">A. <term id="term-00002">Justify</term> the claim that these data provide evidence that supports glycolysis as a conserved core property.</para>
+<para id="fs-id1164968965046">A. <term>Justify</term> the claim that these data provide evidence that supports glycolysis as a conserved core property.</para>
 <figure id="fs-id1164968927200"><media id="fs-id1164961952703" alt="The cladogram on the right displays a proposed relatedness of variations in L D H's over many species.">
 <image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_20_02_01_02_img.jpg" width="400"/>
 </media>
 </figure><para id="fs-id1164968899772">There are three forms of lactate dehydrogenase whose roles vary within an organism: LDH-A, -B, and -C.  The question arises as to the origins of each.  The cladogram on the right (after S. Tsuji et al., <emphasis effect="italics">Proc Natl Acad Sci</emphasis> 1994) displays a proposed relatedness of variations in LDHs over many species.</para>
-<para id="fs-id1164958675649">B. Based on these data, <term id="term-00003">describe</term> the differences between the likely evolutionary sequences of LDH-A, -B, and -C in the African frog and in humans.</para>
-<para id="fs-id1164966466560">C. <term id="term-00004">Evaluate</term> the claim that in both species (African frog and human), LDH-C is the most recently evolved form of the enzyme.</para>
+<para id="fs-id1164958675649">B. Based on these data, <term>describe</term> the differences between the likely evolutionary sequences of LDH-A, -B, and -C in the African frog and in humans.</para>
+<para id="fs-id1164966466560">C. <term>Evaluate</term> the claim that in both species (African frog and human), LDH-C is the most recently evolved form of the enzyme.</para>
 </problem>
 </exercise><exercise id="fs-id1164958771265">
 <problem id="fs-id1164968671347">
@@ -828,14 +827,14 @@
 </tbody>
 
 </tgroup>
-</table><para id="fs-id1164969041440">A. <term id="term-00005">Pose three questions</term> that can be used to infer the evolution of these five species.</para>
-<para id="fs-id1164968579053">B. Draw lines between nearest relatives <term id="term-00006">to construct a cladogram</term> that displays the relationships inferred by answers to your questions.</para>
+</table><para id="fs-id1164969041440">A. <term>Pose three questions</term> that can be used to infer the evolution of these five species.</para>
+<para id="fs-id1164968579053">B. Draw lines between nearest relatives <term>to construct a cladogram</term> that displays the relationships inferred by answers to your questions.</para>
 <figure id="fs-id1164963252482"><media id="fs-id1164966318369" alt="This figure acts as a blank surface for the reader to map and construct a cladogram for six species.">
 <image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_20_02_02_01_img.jpg" width="400"/>
 </media>
 </figure><para id="fs-id1164966504527">Carson (<emphasis effect="italics">Drosophila Genetics</emphasis> 1983) used inversions in intron-repeat sequences of the fruit fly to infer evolution among the Hawaiian <emphasis effect="italics">Drosophila</emphasis>.  He further assigned the chronological sequence of islands on which the flies appeared by assuming (parsimoniously) that the geologically oldest of the volcanic islands was home to the oldest fly ancestor.  When a fly or flies arrived on a newer island, speciation occurred, which, after a time, stabilized until another island hop occurred.</para>
-<para id="fs-id1164966298565">C. <term id="term-00007">Evaluate</term> Carsons reasoning for speciation and ongoing evolution.</para>
-<para id="fs-id1164968900960">D. <term id="term-00008">Pose two questions</term> whose pursuit could provide additional evidence of Carsons hypothesized evolutionary sequence.</para></problem>
+<para id="fs-id1164966298565">C. <term>Evaluate</term> Carsons reasoning for speciation and ongoing evolution.</para>
+<para id="fs-id1164968900960">D. <term>Pose two questions</term> whose pursuit could provide additional evidence of Carsons hypothesized evolutionary sequence.</para></problem>
 </exercise>
 </section>
  </content>

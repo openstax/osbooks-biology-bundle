@@ -5,7 +5,7 @@
   <md:content-id>m45438</md:content-id>
   <md:title>Glycolysis</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
+<list>
 <item>Explain how ATP is used by the cell as an energy source</item>
 <item>Describe the overall result in terms of molecules produced of the breakdown of glucose by glycolysis</item>
 </list></md:abstract>
@@ -13,7 +13,7 @@
 </metadata>
 
 <content>
-<para id="fs-id1206683">Even exergonic, energy-releasing reactions require a small amount of activation energy to proceed. However, consider endergonic reactions, which require much more energy input because their products have more free energy than their reactants. Within the cell, where does energy to power such reactions come from? The answer lies with an energy-supplying molecule called adenosine triphosphate, or <term id="term-00001">ATP</term>. ATP is a small, relatively simple molecule, but within its bonds contains the potential for a quick burst of energy that can be harnessed to perform cellular work. This molecule can be thought of as the primary energy currency of cells in the same way that money is the currency that people exchange for things they need. ATP is used to power the majority of energy-requiring cellular reactions.</para>
+<para id="fs-id1206683">Even exergonic, energy-releasing reactions require a small amount of activation energy to proceed. However, consider endergonic reactions, which require much more energy input because their products have more free energy than their reactants. Within the cell, where does energy to power such reactions come from? The answer lies with an energy-supplying molecule called adenosine triphosphate, or <term>ATP</term>. ATP is a small, relatively simple molecule, but within its bonds contains the potential for a quick burst of energy that can be harnessed to perform cellular work. This molecule can be thought of as the primary energy currency of cells in the same way that money is the currency that people exchange for things they need. ATP is used to power the majority of energy-requiring cellular reactions.</para>
 <section id="fs-id2148251">
 <title>ATP in Living Systems</title>
 <para id="fs-id1270560">A living cell cannot store significant amounts of free energy. Excess free energy would result in an increase of heat in the cell, which would denature enzymes and other proteins, and thus destroy the cell. Rather, a cell must be able to store energy safely and release it for use only as needed. Living cells accomplish this using ATP, which can be used to fill any energy need of the cell. How? It functions as a rechargeable battery.</para>
@@ -29,7 +29,7 @@
 </section>
 <section id="fs-id2360325">
 <title>Glycolysis</title>
-<para id="fs-id882029">You have read that nearly all of the energy used by living things comes to them in the bonds of the sugar, glucose. <term id="term-00002">Glycolysis</term> is the first step in the breakdown of glucose to extract energy for cell metabolism. Many living organisms carry out glycolysis as part of their metabolism. Glycolysis takes place in the cytoplasm of most prokaryotic and all eukaryotic cells.</para>
+<para id="fs-id882029">You have read that nearly all of the energy used by living things comes to them in the bonds of the sugar, glucose. <term>Glycolysis</term> is the first step in the breakdown of glucose to extract energy for cell metabolism. Many living organisms carry out glycolysis as part of their metabolism. Glycolysis takes place in the cytoplasm of most prokaryotic and all eukaryotic cells.</para>
 <para id="fs-id1871054">Glycolysis begins with the six-carbon, ring-shaped structure of a single glucose molecule and ends with two molecules of a three-carbon sugar called pyruvate. Glycolysis consists of two distinct phases. In the first part of the glycolysis pathway, energy is used to make adjustments so that the six-carbon sugar molecule can be split evenly into two three-carbon pyruvate molecules. In the second part of glycolysis, ATP and nicotinamide-adenine dinucleotide (NADH) are produced (<link target-id="fig-ch04_02_02" document=""/>).</para>
 <para id="fs-id2144283">If the cell cannot catabolize the pyruvate molecules further, it will harvest only two ATP molecules from one molecule of glucose. For example, mature mammalian red blood cells are only capable of glycolysis, which is their sole source of ATP. If glycolysis is interrupted, these cells would eventually die.</para>
 <figure id="fig-ch04_02_02"><media id="fs-id2228557" alt="A graphic shows glucose at the top with an arrow pointing down to fructose diphosphate, which then splits into two glyceraldehyde 3-phosphate molecules. Each of these forms one NADH and two ATP molecules in the process of each becoming a pyruvate molecule.">

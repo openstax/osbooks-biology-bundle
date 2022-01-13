@@ -5,7 +5,7 @@
   <md:content-id>m62891</md:content-id>
   <md:title>Prokaryotic Diversity</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
+<list>
 <item>Describe the evolutionary history of prokaryotes</item>
 <item>Discuss the distinguishing features of extremophiles</item>
 <item>Explain why it is difficult to culture prokaryotes</item>
@@ -496,8 +496,8 @@
 <figure id="fs-id1164967801956"><media id="fs-id1164965573818" alt="A graph showing the relationship between the number cells and cell size. The Y axis is labeled Number of cells. The X axis is labeled Cell size. The two bell shaped distribution curves are t 1 and t 2. T 1 is red and within T 2 which is purple.">
 <image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_22_01_01_01_img.jpg" width="400"/>
 </media>
-</figure><para id="fs-id1164965552314">A. <term id="term-00001">Justify the claim</term> of the third model by i) rejecting the two alternative claims, using the fact that growth rate depends on the availability of resources and considering that regulation of expression at a critical volume would require measurement of total volume by the cell, and ii) arguing that adding a constant volume before each cell division would narrow the cell size distribution.</para>
-<para id="fs-id1164965484642">B. <term id="term-00002">Design a plan</term> to test both the most recent model and the timer model.</para>
+</figure><para id="fs-id1164965552314">A. <term>Justify the claim</term> of the third model by i) rejecting the two alternative claims, using the fact that growth rate depends on the availability of resources and considering that regulation of expression at a critical volume would require measurement of total volume by the cell, and ii) arguing that adding a constant volume before each cell division would narrow the cell size distribution.</para>
+<para id="fs-id1164965484642">B. <term>Design a plan</term> to test both the most recent model and the timer model.</para>
 </problem>
 </exercise>
 </section>

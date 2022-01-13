@@ -5,7 +5,7 @@
   <md:content-id>m62930</md:content-id>
   <md:title>Plant Sensory Systems and Responses</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
+<list>
 <item>Describe how red and blue light affect plant growth and metabolic activities</item>
 <item>Discuss gravitropism</item>
 <item>Understand how hormones affect plant growth and development</item>
@@ -752,9 +752,9 @@
 <exercise id="fs-id1164965561406">
 <problem id="fs-id1164965418563">
 <para id="fs-id1164967768864">Like the animal intestine, the organ system principally responsible for nutrient and water uptake, the plant root system, is home to a microbiome upon which the host depends.  One important role for the root microbiome is innate immunity.  Wheat take-all is a disease caused by the fungus <emphasis effect="italics">Gaeumannomyces graminis</emphasis> that attacks plant roots and blocks root water channels.  When a major outbreak occurs in a wheat field, susceptibility remains high in the following year.  But after four to six continued crops of wheat in the same field, susceptibility to the disease declines.  This resistance can be transferred with the soil.  Burning the soil surface or rotation with another crop returns susceptibility to the next wheat crop.  The <emphasis effect="italics">Fusarium</emphasis> (a fungus) wilt disease of strawberries and potato scab caused by <emphasis effect="italics">Streptomyces scabies</emphasis> (a bacteria) show a similar disease progression and transferability of resistance (Weller, <emphasis effect="italics">Ann. Rev. Plant Phytopath</emphasis>, 26, 1988).</para>
-<para id="fs-id1164965223276">A. Plants, like animals, have immune defenses that may involve cooperative interactions between organisms.  <term id="term-00001">Describe</term> a <term id="term-00002">model</term> of immune response that accounts for these behaviors.</para>
+<para id="fs-id1164965223276">A. Plants, like animals, have immune defenses that may involve cooperative interactions between organisms.  <term>Describe</term> a <term>model</term> of immune response that accounts for these behaviors.</para>
 <para id="fs-id1164965252295">In plants, the first line of defense is the cell wall.  Animal cells lack this protective barrier.  Adaptive immunity of vertebrates to pathogens uses specific defenses that are transportable within the organism, such as T-cells, and retains information about earlier infections, such as T-cell receptors.  Unlike adaptive immunity, the innate responses of plants are much less effective in defending against necrotrophic (colonizing dead tissue) than against biotrophic (infecting living tissue) pathogens.  In animal tissue, the response to infection is inflammation, the recruitment of resources to protect the tissue.  In plant tissue, the response is apoptosis.</para>
-<para id="fs-id1164967805684">B. <term id="term-00003">Describe</term> contrasting models of defense strategies for plants and animals that express each of these differences in terms of these strategies: cell boundary, immunological memory, and tissue repair.</para>
+<para id="fs-id1164967805684">B. <term>Describe</term> contrasting models of defense strategies for plants and animals that express each of these differences in terms of these strategies: cell boundary, immunological memory, and tissue repair.</para>
 </problem>
 </exercise>
 </section>

@@ -5,7 +5,7 @@
   <md:content-id>m45440</md:content-id>
   <md:title>Fermentation</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
+<list>
 <item>Discuss the fundamental difference between anaerobic cellular respiration and fermentation</item>
 <item>Describe the type of fermentation that readily occurs in animal cells and the conditions that initiate that fermentation</item>
 </list></md:abstract>
@@ -13,7 +13,7 @@
 </metadata>
 
 <content>
-<para id="fs-id2258414">In aerobic respiration, the final electron acceptor is an oxygen molecule, O<sub>2</sub>. If aerobic respiration occurs, then ATP will be produced using the energy of the high-energy electrons carried by NADH or FADH<sub>2</sub> to the electron transport chain. If aerobic respiration does not occur, NADH must be reoxidized to NAD<sup>+</sup> for reuse as an electron carrier for glycolysis to continue. How is this done? In some living systems the electron transport chain (ETC) use an organic molecule as the final electron acceptor. Processes that use an organic molecule to regenerate NAD<sup>+</sup> from NADH are collectively referred to as <term id="term-00001">fermentation</term>. In contrast, some living systems use an inorganic molecule (other than oxygen) as a final electron acceptor to regenerate NAD<sup>+</sup> which is called anaerobic (do not require oxygen) to achieve NAD<sup>+</sup> regeneration. Both processes allow organisms to convert energy for their use in the absence of oxygen.</para><section id="fs-id1831450">
+<para id="fs-id2258414">In aerobic respiration, the final electron acceptor is an oxygen molecule, O<sub>2</sub>. If aerobic respiration occurs, then ATP will be produced using the energy of the high-energy electrons carried by NADH or FADH<sub>2</sub> to the electron transport chain. If aerobic respiration does not occur, NADH must be reoxidized to NAD<sup>+</sup> for reuse as an electron carrier for glycolysis to continue. How is this done? In some living systems the electron transport chain (ETC) use an organic molecule as the final electron acceptor. Processes that use an organic molecule to regenerate NAD<sup>+</sup> from NADH are collectively referred to as <term>fermentation</term>. In contrast, some living systems use an inorganic molecule (other than oxygen) as a final electron acceptor to regenerate NAD<sup>+</sup> which is called anaerobic (do not require oxygen) to achieve NAD<sup>+</sup> regeneration. Both processes allow organisms to convert energy for their use in the absence of oxygen.</para><section id="fs-id1831450">
 <title>Lactic Acid Fermentation</title>
 <para id="fs-id1858245">The fermentation method used by animals and some bacteria like those in yogurt is lactic acid fermentation (<link target-id="fig-ch04_04_01" document=""/>). This occurs routinely in mammalian red blood cells and in skeletal muscle that has insufficient oxygen supply to allow aerobic respiration to continue (that is, in muscles used to the point of fatigue). In muscles, lactic acid produced by fermentation must be removed by the blood circulation and brought to the liver for further metabolism. The chemical reaction of lactic acid fermentation is the following:</para>
 <equation class="unnumbered" id="eip-672"><m:math display="block">

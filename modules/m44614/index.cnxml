@@ -5,7 +5,7 @@
   <md:content-id>m44614</md:content-id>
   <md:title>Eukaryotic Origins</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
+<list>
 <item>List the unifying characteristics of eukaryotes </item>
 <item>Describe what scientists know about the origins of eukaryotes based on the last common ancestor</item>
 <item>Explain endosymbiotic theory</item>
@@ -30,7 +30,7 @@
 </list></section>
 <section id="fs-idp91775728">
 <title>Endosymbiosis and the Evolution of Eukaryotes</title>
-<para id="fs-idm15580768">In order to understand eukaryotic organisms fully, it is necessary to understand that all extant eukaryotes are descendants of a chimeric organism that was a composite of a host cell and the cell(s) of an alpha-proteobacterium that “took up residence” inside it. This major theme in the origin of eukaryotes is known as <term id="term-00001">endosymbiosis</term>, one cell engulfing another such that the engulfed cell survives and both cells benefit. Over many generations, a symbiotic relationship can result in two organisms that depend on each other so completely that neither could survive on its own. Endosymbiotic events likely contributed to the origin of the last common ancestor of today’s eukaryotes and to later diversification in certain lineages of eukaryotes (<link target-id="fig-ch23_01_04" document=""/>). Before explaining this further, it is necessary to consider metabolism in prokaryotes.</para>
+<para id="fs-idm15580768">In order to understand eukaryotic organisms fully, it is necessary to understand that all extant eukaryotes are descendants of a chimeric organism that was a composite of a host cell and the cell(s) of an alpha-proteobacterium that “took up residence” inside it. This major theme in the origin of eukaryotes is known as <term>endosymbiosis</term>, one cell engulfing another such that the engulfed cell survives and both cells benefit. Over many generations, a symbiotic relationship can result in two organisms that depend on each other so completely that neither could survive on its own. Endosymbiotic events likely contributed to the origin of the last common ancestor of today’s eukaryotes and to later diversification in certain lineages of eukaryotes (<link target-id="fig-ch23_01_04" document=""/>). Before explaining this further, it is necessary to consider metabolism in prokaryotes.</para>
 
 <section id="fs-idm19626000">
 <title>Prokaryotic Metabolism</title>
@@ -41,7 +41,7 @@
 </section>
 <section id="fs-idp100923312">
 <title>Endosymbiotic Theory</title>
-<para id="fs-idp65132464">As cell biology developed in the twentieth century, it became clear that mitochondria were the organelles responsible for producing ATP using aerobic respiration. In the 1960s, American biologist Lynn Margulis developed <term id="term-00002">endosymbiotic theory</term>, which states that eukaryotes may have been a product of one cell engulfing another, one living within another, and evolving over time until the separate cells were no longer recognizable as such. In 1967, Margulis introduced new work on the theory and substantiated her findings through microbiological evidence. Although Margulis’ work initially was met with resistance, this once-revolutionary hypothesis is now widely (but not completely) accepted, with work progressing on uncovering the steps involved in this evolutionary process and the key players involved. Much still remains to be discovered about the origins of the cells that now make up the cells in all living eukaryotes.</para>
+<para id="fs-idp65132464">As cell biology developed in the twentieth century, it became clear that mitochondria were the organelles responsible for producing ATP using aerobic respiration. In the 1960s, American biologist Lynn Margulis developed <term>endosymbiotic theory</term>, which states that eukaryotes may have been a product of one cell engulfing another, one living within another, and evolving over time until the separate cells were no longer recognizable as such. In 1967, Margulis introduced new work on the theory and substantiated her findings through microbiological evidence. Although Margulis’ work initially was met with resistance, this once-revolutionary hypothesis is now widely (but not completely) accepted, with work progressing on uncovering the steps involved in this evolutionary process and the key players involved. Much still remains to be discovered about the origins of the cells that now make up the cells in all living eukaryotes.</para>
 <para id="fs-idp141561456">Broadly, it has become clear that many of our nuclear genes and the molecular machinery responsible for replication and expression appear closely related to those in Archaea. On the other hand, the metabolic organelles and genes responsible for many energy-harvesting processes had their origins in bacteria. Much remains to be clarified about how this relationship occurred; this continues to be an exciting field of discovery in biology. For instance, it is not known whether the endosymbiotic event that led to mitochondria occurred before or after the host cell had a nucleus. Such organisms would be among the extinct precursors of the last common ancestor of eukaryotes.</para>
 </section>
 <section id="fs-idp142122160">
@@ -55,7 +55,7 @@
 </section>
 <section id="fs-idm20932768">
 <title>Plastids</title>
-<para id="fs-idm22814400">Some groups of eukaryotes are photosynthetic. Their cells contain, in addition to the standard eukaryotic organelles, another kind of organelle called a <term id="term-00003">plastid</term>. When such cells are carrying out photosynthesis, their plastids are rich in the pigment chlorophyll <emphasis effect="italics">a</emphasis> and a range of other pigments, called accessory pigments, which are involved in harvesting energy from light. Photosynthetic plastids are called chloroplasts (<link target-id="fig-ch23_01_02" document=""/>).</para>
+<para id="fs-idm22814400">Some groups of eukaryotes are photosynthetic. Their cells contain, in addition to the standard eukaryotic organelles, another kind of organelle called a <term>plastid</term>. When such cells are carrying out photosynthesis, their plastids are rich in the pigment chlorophyll <emphasis effect="italics">a</emphasis> and a range of other pigments, called accessory pigments, which are involved in harvesting energy from light. Photosynthetic plastids are called chloroplasts (<link target-id="fig-ch23_01_02" document=""/>).</para>
 <figure id="fig-ch23_01_02"><media id="fs-idm19363552" alt="The illustration A shows a green, oval chloroplast with an outer membrane and an inner membrane. Thylakoids are disk-shaped and stack together like poker chips. Image B is a micrograph showing rectangular shapes that have small green spheres within.">
 <image mime-type="image/jpg" src="../../media/Figure_23_01_02.jpg" width="520"/>
 </media>

@@ -5,7 +5,7 @@
   <md:content-id>m62788</md:content-id>
   <md:title>Oxidation of Pyruvate and the Citric Acid Cycle</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
+<list>
 <item>Explain how a circular pathway, such as the citric acid cycle, fundamentally differs from a linear pathway, such as glycolysis</item>
 <item>Describe how pyruvate, the product of glycolysis, is prepared for entry into the citric acid cycle</item>
 </list></md:abstract>
@@ -110,7 +110,7 @@
 <label>Teacher Support</label>
 <para id="fs-id1167066791178">Introduce the citric acid cycle using visuals such as this <link window="new" url="http://openstax.org/l/32citric">video</link>.</para></note>
 <para id="fs-id1166849520522">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.1][APLO 2.5][APLO 2.16][APLO 2.17][APLO 2.18]</para><para id="fs-id2609938">If oxygen is available, aerobic respiration will go forward. In eukaryotic cells, the pyruvate molecules produced at the end of glycolysis are transported into mitochondria. There, pyruvate will be transformed into an acetyl group that will be picked up and activated by a carrier compound called coenzyme A (CoA). The resulting compound is called <term id="term-00001">acetyl CoA</term>. CoA is made from vitamin B5, pantothenic acid. Acetyl CoA can be used in a variety of ways by the cell, but its major function is to deliver the acetyl group derived from pyruvate to the next stage of the pathway in glucose catabolism.</para>
+[APLO 2.1][APLO 2.5][APLO 2.16][APLO 2.17][APLO 2.18]</para><para id="fs-id2609938">If oxygen is available, aerobic respiration will go forward. In eukaryotic cells, the pyruvate molecules produced at the end of glycolysis are transported into mitochondria. There, pyruvate will be transformed into an acetyl group that will be picked up and activated by a carrier compound called coenzyme A (CoA). The resulting compound is called <term>acetyl CoA</term>. CoA is made from vitamin B5, pantothenic acid. Acetyl CoA can be used in a variety of ways by the cell, but its major function is to deliver the acetyl group derived from pyruvate to the next stage of the pathway in glucose catabolism.</para>
 <section id="fs-id2278162" class="ost-tag-lo-apbio-ch07-s03-lo01 ost-tag-lo-apbio-ch07-s03-aplo-2-4 ost-tag-lo-apbio-ch07-s03-aplo-2-5 ost-tag-lo-apbio-ch07-s03-aplo-4-6 ost-get-exercise">
 <title>Breakdown of Pyruvate</title>
       <para id="fs-id1640338">In order for pyruvate, the product of glycolysis, to enter the next pathway, it must undergo several changes. The conversion is a three-step process (<link target-id="fig-ch07_03_01" document=""/>).</para>
@@ -124,7 +124,7 @@
 </section>
 <section id="fs-id1703136" class="ost-tag-lo-apbio-ch07-s03-lo01 ost-tag-lo-apbio-ch07-s03-aplo-2-4 ost-tag-lo-apbio-ch07-s03-aplo-2-5 ost-tag-lo-apbio-ch07-s03-aplo-4-6 ost-get-exercise">
 <title>Acetyl CoA to CO<sub>2</sub></title>
-<para id="fs-id2186668">In the presence of oxygen, acetyl CoA delivers its acetyl group to a four-carbon molecule, oxaloacetate, to form citrate, a six-carbon molecule with three carboxyl groups; this pathway will harvest the remainder of the extractable energy from what began as a glucose molecule. This single pathway is called by different names: the <term id="term-00002">citric acid cycle</term> (for the first intermediate formed—citric acid, or citrate—when acetate joins to the oxaloacetate), the <term id="term-00003">TCA cycle</term> (since citric acid or citrate and isocitrate are tricarboxylic acids), and the <term id="term-00004">Krebs cycle</term>, after Hans Krebs, who first identified the steps in the pathway in the 1930s in pigeon flight muscles.</para>
+<para id="fs-id2186668">In the presence of oxygen, acetyl CoA delivers its acetyl group to a four-carbon molecule, oxaloacetate, to form citrate, a six-carbon molecule with three carboxyl groups; this pathway will harvest the remainder of the extractable energy from what began as a glucose molecule. This single pathway is called by different names: the <term>citric acid cycle</term> (for the first intermediate formed—citric acid, or citrate—when acetate joins to the oxaloacetate), the <term>TCA cycle</term> (since citric acid or citrate and isocitrate are tricarboxylic acids), and the <term>Krebs cycle</term>, after Hans Krebs, who first identified the steps in the pathway in the 1930s in pigeon flight muscles.</para>
 </section>
 <section id="fs-id2676976" class="ost-tag-lo-apbio-ch07-s03-lo01 ost-tag-lo-apbio-ch07-s03-aplo-2-4 ost-tag-lo-apbio-ch07-s03-aplo-2-5 ost-tag-lo-apbio-ch07-s03-aplo-4-6 ost-get-exercise">
 <title>Citric Acid Cycle</title>
