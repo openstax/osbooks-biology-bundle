@@ -460,91 +460,7 @@
 </section>
 
 
-<section id="fs-id1164968677567" class="ost-reading-discard ost-chapter-review science-practice">
-<title>Science Practice Challenge Questions</title>
-<exercise id="fs-id1164968953535">
-<problem id="fs-id1164968568523">
-<para id="fs-id1164968587155">Many biological processes are synchronized with the 24-hour rotational period of Earth. Circadian (24-hour) periodicity is common across phyla.  One of these processes is the cell cycle.  The currently accepted explanation is that the low-oxygen atmosphere of early Earth had no ozone layer to filter out the solar ultraviolet radiation that damages DNA.  Completing the S phase of the cell cycle at night provided a selective advantage.  The internal clock controlling the cell cycle and the circadian clock became synchronized.  Research has demonstrated that changes in one clock, either the circadian clock or the cell cycle clock, disrupt timing in the other.  The question was, which clock controls the other?</para>
-<para id="fs-id1164966479859">Researchers have found that the circadian clock, which can be observed by fluorescent markers on proteins that carry the circadian signal, can be disrupted by changes in light, nutrition, or exposure to the steroid dexamethasone.  Nutrition can also disrupt the cell cycle clock.  Rat fibroblasts (cells constantly undergoing mitosis) were cultured on medium containing different levels of fetal bovine serum (FBS) with and without the addition of dexamethasone.  Confluence is a phenomenon that occurs in tissue culture when the surface of the growth medium becomes covered with cells, and the cells stop dividing.  The circadian and cell cycle periods were measured.</para>
-<table id="fs-id1164968669914" summary="This table has 6 columns. The columns read from top to bottom. The first column reads – blank, a, b, c, d, e, f, and g. Column 2 – FBS, 0%, 10%, 15%, 10%, ‡ 20% , 20%, 10%. Column 3 – Dexamethasone , no , no , no, yes, yes, yes, yes. Row 4: Confluence , no , no , no, no, no ,no, yes. Column 5 - Circadian Period , 24 ± 0.5 hr , 21.9 ± 1.1 hr , 19.4 ± 0.5 hr , 21.25 ± 0.36 hr , 29 ± 1.05 hr , 24 ± 0.5 hr. Column 6 - Cell Cycle Period , 24 ± 0.5 hr , 21.3 ± 1.3 hr, 18.6 ± 0.6 hr , 20.1 ± 0.94 hr , 19.5 ± 0.42 hr , 16.05 ± 0.48 hr , na">
-<tgroup cols="6"><thead>
-<row>
-<entry align="center"/>
-<entry align="center">FBS</entry>
-<entry align="center">Dexa-<newline/>meth-<newline/>asone</entry>
-<entry align="center">Con-<newline/>flu-<newline/>ence</entry>
-<entry align="center">Circa-<newline/>dian <newline/> Period<newline/> (hr)</entry>
-<entry align="center">Cell<newline/>Cycle<newline/>Period<newline/>(hr)</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry align="center">a</entry>
-<entry align="center">0%</entry>
-<entry align="center">no</entry>
-<entry align="center">no</entry>
-<entry align="center">24±<newline/>0.5</entry>
-<entry align="center">24±<newline/>0.5</entry>
-</row>
-<row>
-<entry align="center">b</entry>
-<entry align="center">10%</entry>
-<entry align="center">no</entry>
-<entry align="center">no</entry>
-<entry align="center">21.9±<newline/>1.1</entry>
-<entry align="center">21.3±<newline/>1.3</entry>
-</row>
-<row>
-<entry align="center">c</entry>
-<entry align="center">15%</entry>
-<entry align="center">no</entry>
-<entry align="center">no</entry>
-<entry align="center">19.4±<newline/>0.5</entry>
-<entry align="center">18.6±<newline/>0.6</entry>
-</row>
-<row>
-<entry align="center">d</entry>
-<entry align="center">10%</entry>
-<entry align="center">yes</entry>
-<entry align="center">no</entry>
-<entry align="center">24.2±<newline/>0.5</entry>
-<entry align="center">20.1±<newline/>0.94</entry>
-</row>
-<row>
-<entry align="center">e</entry>
-<entry align="center">*20%</entry>
-<entry align="center">yes</entry>
-<entry align="center">no</entry>
-<entry align="center">21.25±<newline/>0.36</entry>
-<entry align="center">19.5±<newline/>0.42</entry>
-</row>
-<row>
-<entry align="center">f</entry>
-<entry align="center">20%</entry>
-<entry align="center">yes</entry>
-<entry align="center">no</entry>
-<entry align="center">29±<newline/>1.05</entry>
-<entry align="center">16.05±<newline/>0.48</entry>
-</row>
-<row>
-<entry align="center">g</entry>
-<entry align="center">10%</entry>
-<entry align="center">yes</entry>
-<entry align="center">yes</entry>
-<entry align="center">24±<newline/>0.5</entry>
-<entry align="center">na</entry>
-</row>
-</tbody>
-
-
-
-
-</tgroup><caption>* Subsets of samples with 20% FBS and dexamethasone were clustered around two means for each measured period.</caption>
-</table><para id="fs-id1164968693127">A. Based on these data, <emphasis>describe</emphasis> the connections between the circadian period and the cell cycle period for each of the experimental conditions.</para>
-<para id="fs-id1164966480006">B. Based on these data, <emphasis>justify the claim</emphasis> that in cells that are actively dividing, the circadian period is set by the cell cycle period rather than the reverse.</para>
-</problem>
-</exercise>
-<exercise id="fs-id1164968716169">
+<section id="fs-id1164968677567" class="ost-reading-discard ost-chapter-review science-practice"><title>Science Practice Challenge Questions</title><exercise id="fs-id1164968716169">
 <problem id="fs-id1164966335076">
 <para id="fs-id1164962271352">Cells in different tissues of a fully developed human show significant variations in the length of time that they remain in the G0 phase of the cell cycle: muscle (lifetime), nerve (lifetime), adipose (years), liver (year), erythrocyte (months), bone osteoclasts (weeks), leukocyte (days), and epidermal (hours).  For each of these types of tissues, <emphasis>propose a reason</emphasis> based on internal and external factors and function that might account for the differences among their longevities.</para>
 </problem>
@@ -554,9 +470,7 @@
 <para id="fs-id1164969033289"><emphasis>Describe</emphasis> the essential components and results of mitosis and the activities that occur during interphase to prepare the cell for mitosis.</para>
 </problem>
 </exercise>
-</section>
-
- </content>
+</section></content>
 <glossary>
 <definition id="fs-id1428966"><term>anaphase</term> <meaning id="fs-id1378666">stage of mitosis during which sister chromatids are separated from each other</meaning></definition>
 <definition id="fs-id1443934"><term>cell cycle</term> <meaning id="fs-id1456012">ordered series of events involving cell growth and cell division that produces two new daughter cells</meaning></definition>
