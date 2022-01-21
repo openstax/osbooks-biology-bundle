@@ -5,7 +5,7 @@
   <md:content-id>m44435</md:content-id>
   <md:title>The Endomembrane System and Proteins</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list>
+<list id="list-00001">
 <item>List the components of the endomembrane system</item>
 <item>Recognize the relationship between the endomembrane system and its functions</item>
 </list></md:abstract>
@@ -17,15 +17,15 @@
 <para id="fs-id2030019"><figure id="fig-ch04-04-01"><media id="fs-id1773987" alt="The left part of this figure shows the rough ER with an integral membrane protein embedded in it. The part of the protein facing the inside of the ER has a carbohydrate attached to it. The protein is shown leaving the ER in a vesicle that fuses with the cis side of the Golgi apparatus. The Golgi apparatus consists of several layers of membranes, called cisternae. As the protein passes through the cisternae, it is further modified by the addition of more carbohydrates. Eventually, it leaves the trans face of the Golgi in a vesicle. The vesicle fuses with the cell membrane so that the carbohydrate that was on the inside of the vesicle now faces the outside of the membrane. At the same time, the contents of the vesicle are ejected from the cell.">
 <image mime-type="image/png" src="../../media/Figure_04_04_01-08bf.png" width="350"/>
 </media>
-<caption>"Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER). The RER also sometimes modifies proteins. In this illustration, a (green) integral membrane protein in the ER is modified by attachment of a (purple) carbohydrate. Vesicles with the integral protein bud from the ER and fuse with the cis face of the Golgi apparatus. As the protein passes along  the Golgi’s cisternae, it is further modified by the addition of more carbohydrates. After its synthesis is complete, it exits as integral membrane protein of the vesicle that bud from the Golgi’s <term>trans</term> face and when the vesicle fuses with the cell membrane the protein becomes integral portion  of that cell membrane. (credit: modification of work by Magnus Manske)</caption></figure></para>
+<caption>"Membrane and secretory proteins are synthesized in the rough endoplasmic reticulum (RER). The RER also sometimes modifies proteins. In this illustration, a (green) integral membrane protein in the ER is modified by attachment of a (purple) carbohydrate. Vesicles with the integral protein bud from the ER and fuse with the cis face of the Golgi apparatus. As the protein passes along  the Golgi’s cisternae, it is further modified by the addition of more carbohydrates. After its synthesis is complete, it exits as integral membrane protein of the vesicle that bud from the Golgi’s <term id="term-00001">trans</term> face and when the vesicle fuses with the cell membrane the protein becomes integral portion  of that cell membrane. (credit: modification of work by Magnus Manske)</caption></figure></para>
 <para id="fs-id2076265">If a peripheral membrane protein were synthesized in the lumen (inside) of the ER, would it end up on the inside or outside of the plasma membrane?</para>
 </note><section id="fs-id2028479">
 <title>The Endoplasmic Reticulum</title>
-<para id="fs-id1775048">The <term>endoplasmic reticulum (ER)</term> (<link target-id="fig-ch04-04-01" document=""/>) is a series of interconnected membranous sacs and tubules that collectively modifies proteins and synthesizes lipids. However, these two functions are performed in separate areas of the ER: the rough ER and the smooth ER, respectively.</para>
+<para id="fs-id1775048">The <term id="term-00002">endoplasmic reticulum (ER)</term> (<link target-id="fig-ch04-04-01" document=""/>) is a series of interconnected membranous sacs and tubules that collectively modifies proteins and synthesizes lipids. However, these two functions are performed in separate areas of the ER: the rough ER and the smooth ER, respectively.</para>
 <para id="fs-id1904890">The hollow portion of the ER tubules is called the lumen or cisternal space. The membrane of the ER, which is a phospholipid bilayer embedded with proteins, is continuous with the nuclear envelope.</para>
 <section id="fs-id1234002">
 <title>Rough ER</title>
-<para id="fs-id1207356">The <term>rough endoplasmic reticulum (RER)</term> is so named because the ribosomes attached to its cytoplasmic surface give it a studded appearance when viewed through an electron microscope (<link target-id="fig-ch04-04-02" document=""/>).</para>
+<para id="fs-id1207356">The <term id="term-00003">rough endoplasmic reticulum (RER)</term> is so named because the ribosomes attached to its cytoplasmic surface give it a studded appearance when viewed through an electron microscope (<link target-id="fig-ch04-04-02" document=""/>).</para>
 <figure id="fig-ch04-04-02"><media id="fs-id1752354" alt="In this transmission electron micrograph, the nucleus is the most prominent feature. The nucleolus is a circular, dark region inside the nucleus. A nuclear pore can be seen in the nuclear envelope that surrounds the nucleus. The rough endoplasmic reticulum surrounds the nucleus, appearing as many layers of membranes. A mitochondrion sits between the layers of the ER membrane.">
 <image mime-type="image/jpg" src="../../media/Figure_04_04_02_new.jpg" width="350"/>
 </media>
@@ -36,7 +36,7 @@
 </section>
 <section id="fs-id1603907">
 <title>Smooth ER</title>
-<para id="fs-id1459714">The <term>smooth endoplasmic reticulum (SER)</term> is continuous with the RER but has few or no ribosomes on its cytoplasmic surface (<link target-id="fig-ch04-04-01" document=""/>). Functions of the SER include synthesis of carbohydrates, lipids, and steroid hormones; detoxification of medications and poisons; and storage of calcium ions.</para>
+<para id="fs-id1459714">The <term id="term-00004">smooth endoplasmic reticulum (SER)</term> is continuous with the RER but has few or no ribosomes on its cytoplasmic surface (<link target-id="fig-ch04-04-01" document=""/>). Functions of the SER include synthesis of carbohydrates, lipids, and steroid hormones; detoxification of medications and poisons; and storage of calcium ions.</para>
 <para id="fs-id1303729">In muscle cells, a specialized SER called the sarcoplasmic reticulum is responsible for storage of the calcium ions that are needed to trigger the coordinated contractions of the muscle cells.</para>
 <note id="fs-id1194561" class="interactive"><label/><title>Link to Learning</title>
 <media id="fs-id1723106" alt="QR Code representing a URL">
@@ -51,7 +51,7 @@
 </section>
 <section id="fs-id1664568">
 <title>The Golgi Apparatus</title>
-<para id="fs-id1340070">We have already mentioned that vesicles can bud from the ER and transport their contents elsewhere, but where do the vesicles go? Before reaching their final destination, the lipids or proteins within the transport vesicles still need to be sorted, packaged, and tagged so that they wind up in the right place. Sorting, tagging, packaging, and distribution of lipids and proteins takes place in the <term>Golgi apparatus</term> (also called the Golgi body), a series of flattened membranes (<link target-id="fig-ch04-04-03" document=""/>).</para>
+<para id="fs-id1340070">We have already mentioned that vesicles can bud from the ER and transport their contents elsewhere, but where do the vesicles go? Before reaching their final destination, the lipids or proteins within the transport vesicles still need to be sorted, packaged, and tagged so that they wind up in the right place. Sorting, tagging, packaging, and distribution of lipids and proteins takes place in the <term id="term-00005">Golgi apparatus</term> (also called the Golgi body), a series of flattened membranes (<link target-id="fig-ch04-04-03" document=""/>).</para>
 <figure id="fig-ch04-04-03"><media id="fs-id1521301" alt="In this transmission electron micrograph, the Golgi apparatus appears as a stack of membranes surrounded by unnamed organelles.">
 <image mime-type="image/jpg" src="../../media/Figure_04_04_03-9d07.jpg" width="350"/>
 </media>
