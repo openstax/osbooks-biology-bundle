@@ -5,7 +5,7 @@
   <md:content-id>m45452</md:content-id>
   <md:title>The Light-Dependent Reactions of Photosynthesis</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
+<list>
 <item>Explain how plants absorb energy from sunlight</item>
 <item>Describe how the wavelength of light affects its energy and color</item>
 <item>Describe how and where photosynthesis takes place within a plant</item>
@@ -22,11 +22,11 @@
 
 <para id="fs-idm11888096">Watch the <link window="new" url="http://openstax.org/l/light_reaction2">process of photosynthesis</link> within a leaf in this video.</para></note><section id="fs-idp59903008">
 <title>What Is Light Energy?</title>
-<para id="fs-idm1526752">The sun emits an enormous amount of electromagnetic radiation (solar energy). Humans can see only a fraction of this energy, which is referred to as “visible light.”  The manner in which solar energy travels can be described and measured as waves. Scientists can determine the amount of energy of a wave by measuring its <term id="term-00001">wavelength</term>, the distance between two consecutive, similar points in a series of waves, such as from crest to crest or trough to trough (<link target-id="fig-ch05_02_02" document=""/>).</para>
+<para id="fs-idm1526752">The sun emits an enormous amount of electromagnetic radiation (solar energy). Humans can see only a fraction of this energy, which is referred to as “visible light.”  The manner in which solar energy travels can be described and measured as waves. Scientists can determine the amount of energy of a wave by measuring its <term>wavelength</term>, the distance between two consecutive, similar points in a series of waves, such as from crest to crest or trough to trough (<link target-id="fig-ch05_02_02" document=""/>).</para>
 <figure id="fig-ch05_02_02"><media id="fs-idm32914896" alt="This illustration shows two waves. The distance between the crests (shown as the uppermost part, in contrast to the trough at the bottom) is the wavelength.">
 <image mime-type="image/jpg" src="../../media/Figure_05_02_02-4607.jpg" width="350"/>
 </media>
-<caption>The wavelength of a single wave is the distance between two consecutive points along the wave.</caption></figure><para id="fs-idp78156272">Visible light constitutes only one of many types of electromagnetic radiation emitted from the sun. The <term id="term-00002">electromagnetic spectrum</term> is the range of all possible wavelengths of radiation (<link target-id="fig-ch05_02_03" document=""/>). Each wavelength corresponds to a different amount of energy carried.</para>
+<caption>The wavelength of a single wave is the distance between two consecutive points along the wave.</caption></figure><para id="fs-idp78156272">Visible light constitutes only one of many types of electromagnetic radiation emitted from the sun. The <term>electromagnetic spectrum</term> is the range of all possible wavelengths of radiation (<link target-id="fig-ch05_02_03" document=""/>). Each wavelength corresponds to a different amount of energy carried.</para>
 <figure id="fig-ch05_02_03" class="  "><media id="fs-idp35392256" alt="This illustration lists the types of electromagnetic radiation in order of decreasing wavelength. These are gamma rays, X-rays, ultraviolet, visible, infrared, and radio">
 <image mime-type="image/jpg" src="../../media/Figure_05_02_03.jpg" width="500"/>
 </media>
@@ -40,8 +40,8 @@
 <section id="fs-idm1205728">
 <title>Understanding Pigments</title>
 <para id="fs-idp10105328">Different kinds of pigments exist, and each absorbs only certain wavelengths (colors) of visible light. Pigments reflect the color of the wavelengths that they cannot absorb.</para>
-<para id="fs-idp66921136">All photosynthetic organisms contain a pigment called <term id="term-00003">chlorophyll <emphasis effect="italics">a</emphasis></term>, which humans see as the common green color associated with plants. Chlorophyll <emphasis effect="italics">a</emphasis> absorbs wavelengths from either end of the visible spectrum (blue and red), but not from green. Because green is reflected, chlorophyll appears green.</para>
-<para id="fs-idm30507344">Other pigment types include <term id="term-00004">chlorophyll <emphasis effect="italics">b</emphasis></term> (which absorbs blue and red-orange light) and the carotenoids. Each type of pigment can be identified by the specific pattern of wavelengths it absorbs from visible light, which is its <term id="term-00005">absorption spectrum</term>.</para>
+<para id="fs-idp66921136">All photosynthetic organisms contain a pigment called <term>chlorophyll <emphasis effect="italics">a</emphasis></term>, which humans see as the common green color associated with plants. Chlorophyll <emphasis effect="italics">a</emphasis> absorbs wavelengths from either end of the visible spectrum (blue and red), but not from green. Because green is reflected, chlorophyll appears green.</para>
+<para id="fs-idm30507344">Other pigment types include <term>chlorophyll <emphasis effect="italics">b</emphasis></term> (which absorbs blue and red-orange light) and the carotenoids. Each type of pigment can be identified by the specific pattern of wavelengths it absorbs from visible light, which is its <term>absorption spectrum</term>.</para>
 <para id="fs-idm31931920">Many photosynthetic organisms have a mixture of pigments; between them, the organism can absorb energy from a wider range of visible-light wavelengths. Not all photosynthetic organisms have full access to sunlight. Some organisms grow underwater where light intensity decreases with depth, and certain wavelengths are absorbed by the water. Other organisms grow in competition for light. Plants on the rainforest floor must be able to absorb any bit of light that comes through, because the taller trees block most of the sunlight (<link target-id="fig-ch05_02_04" document=""/>).</para>
 <figure id="fig-ch05_02_04"><media id="fs-idm1427776" alt="This photo shows undergrowth in a forest.">
 <image mime-type="image/jpg" src="../../media/Figure_05_02_04-5193.jpg" width="350"/>
@@ -50,7 +50,7 @@
 <section id="fs-idm60085072">
 <title>How Light-Dependent Reactions Work</title>
 <para id="fs-idp154399280">The overall purpose of the light-dependent reactions is to convert light energy into chemical energy. This chemical energy will be used by the Calvin cycle to fuel the assembly of sugar molecules.</para>
-<para id="fs-idm42211360">The light-dependent reactions begin in a grouping of pigment molecules and proteins called a <term id="term-00006">photosystem</term>. Photosystems exist in the membranes of thylakoids. A pigment molecule in the photosystem absorbs one <term id="term-00007">photon</term>, a quantity or “packet” of light energy, at a time.</para>
+<para id="fs-idm42211360">The light-dependent reactions begin in a grouping of pigment molecules and proteins called a <term>photosystem</term>. Photosystems exist in the membranes of thylakoids. A pigment molecule in the photosystem absorbs one <term>photon</term>, a quantity or “packet” of light energy, at a time.</para>
 <para id="fs-idp59226688">A photon of light energy travels until it reaches a molecule of chlorophyll. The photon causes an electron in the chlorophyll to become “excited.” The energy given to the electron allows it to break free from an atom of the chlorophyll molecule. Chlorophyll is therefore said to “donate” an electron (<link target-id="fig-ch05_02_05" document=""/>).</para>
 <para id="fs-idm36678480">To replace the electron in the chlorophyll, a molecule of water is split. This splitting releases an electron and results in the formation of oxygen (O<sub>2</sub>) and hydrogen ions (H<sup>+</sup>) in the thylakoid space. Technically, each breaking of a water molecule releases a pair of electrons, and therefore can replace two donated electrons.</para>
 <figure id="fig-ch05_02_05"><media id="fs-idp11852960" alt="This illustration shows photosystem II, which has a light-harvesting complex surrounding the reaction center. Chlorophyll molecules are found in the light-harvesting complex. In the reaction center, an excited electron is passed to the primary electron acceptor. A molecule of water is split, releasing one oxygen, two protons, and an electron. The electron replaces the one donated to the primary electron acceptor.">

@@ -5,7 +5,7 @@
   <md:content-id>m45429</md:content-id>
   <md:title>Comparing Prokaryotic and Eukaryotic Cells</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
+<list>
 <item>Name examples of prokaryotic and eukaryotic organisms</item>
 <item>Compare and contrast prokaryotic cells and eukaryotic cells</item>
 <item>Describe the relative sizes of different kinds of cells</item>
@@ -18,7 +18,7 @@
 <section id="fs-idp17761120">
 <title>Components of Prokaryotic Cells</title>
 <para id="fs-idm5123216">All cells share four common components: 1) a plasma membrane, an outer covering that separates the cell’s interior from its surrounding environment; 2) cytoplasm, consisting of a jelly-like region within the cell in which other cellular components are found; 3) DNA, the genetic material of the cell; and 4) ribosomes, particles that synthesize proteins. However, prokaryotes differ from eukaryotic cells in several ways.</para>
-<para id="fs-idm40272992">A <term id="term-00001">prokaryotic cell</term> is a simple, single-celled (unicellular) organism that lacks a nucleus, or any other membrane-bound organelle. We will shortly come to see that this is significantly different in eukaryotes. Prokaryotic DNA is found in the central part of the cell: a darkened region called the nucleoid (<link target-id="fig-ch03_02_01" document=""/>).</para>
+<para id="fs-idm40272992">A <term>prokaryotic cell</term> is a simple, single-celled (unicellular) organism that lacks a nucleus, or any other membrane-bound organelle. We will shortly come to see that this is significantly different in eukaryotes. Prokaryotic DNA is found in the central part of the cell: a darkened region called the nucleoid (<link target-id="fig-ch03_02_01" document=""/>).</para>
 <figure id="fig-ch03_02_01"><media id="fs-idm131567376" alt="In this illustration, the prokaryotic cell has an oval shape. The circular chromosome is concentrated in a region called the nucleoid. The fluid inside the cell is called the cytoplasm. Ribosomes, depicted as small circles, float in the cytoplasm. The cytoplasm is encased in a plasma membrane, which in turn is encased by a cell wall. A capsule surrounds the cell wall. The bacterium depicted has a flagellum protruding from one narrow end. Pili are small protrusions that extend from the capsule in all directions.">
 <image mime-type="image/jpg" src="../../media/Figure_03_02_01-79f1.jpg" width="350"/>
 </media>
@@ -27,7 +27,7 @@
 <section id="fs-idm89398288">
 <title>Eukaryotic Cells</title>
 <para id="fs-idp23469392">In nature, the relationship between form and function is apparent at all levels, including the level of the cell, and this will become clear as we explore eukaryotic cells. The principle “form follows function” is found in many contexts. For example, birds and fish have streamlined bodies that allow them to move quickly through the medium in which they live, be it air or water. It means that, in general, one can deduce the function of a structure by looking at its form, because the two are matched.</para>
-<para id="fs-idp2533216">A <term id="term-00002">eukaryotic cell</term> is a cell that has a membrane-bound nucleus and other membrane-bound compartments or sacs, called <term id="term-00003">organelles</term>, which have specialized functions. The word eukaryotic means “true kernel” or “true nucleus,” alluding to the presence of the membrane-bound nucleus in these cells. The word “organelle” means “little organ,” and, as already mentioned, organelles have specialized cellular functions, just as the organs of your body have specialized functions.</para>
+<para id="fs-idp2533216">A <term>eukaryotic cell</term> is a cell that has a membrane-bound nucleus and other membrane-bound compartments or sacs, called <term>organelles</term>, which have specialized functions. The word eukaryotic means “true kernel” or “true nucleus,” alluding to the presence of the membrane-bound nucleus in these cells. The word “organelle” means “little organ,” and, as already mentioned, organelles have specialized cellular functions, just as the organs of your body have specialized functions.</para>
 </section>
 <section id="fs-idm74911904">
 <title>Cell Size</title>

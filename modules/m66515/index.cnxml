@@ -1,0 +1,86 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Genomics and Proteomics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66515</md:content-id>
+  <md:title>Genomics and Proteomics</md:title>
+  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+<list>
+<item>Explain systems biology</item>
+<item>Describe a proteome</item>
+<item>Define protein signature</item>
+</list></md:abstract>
+  <md:uuid>4f160c94-ec4f-4b94-beaf-84c0c1e9d38a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1047239">Proteins are the final products of genes, which help perform the function that the gene encodes. Amino acids comprise proteins and play important roles in the cell. All enzymes (except ribozymes) are proteins that act as catalysts to affect the rate of reactions. Proteins are also regulatory molecules, and some are hormones. Transport proteins, such as hemoglobin, help transport oxygen to various organs. Antibodies that defend against foreign particles are also proteins. In the diseased state, protein function can be impaired because of changes at the genetic level or because of direct impact on a specific protein.</para>
+<para id="fs-id2140999">A <term>proteome</term> is the entire set of proteins that a cell type produces. We can study proteoms using the knowledge of genomes because genes code for mRNAs, and the mRNAs encode proteins. Although mRNA analysis is a step in the right direction, not all mRNAs are translated into proteins. <term>Proteomics</term> is the study of proteomes' function. Proteomics complements genomics and is useful when scientists want to test their hypotheses that they based on genes. Even though all multicellular organisms' cells have the same set of genes, the set of proteins produced in different tissues is different and dependent on gene expression. Thus, the genome is constant, but the proteome varies and is dynamic within an organism. In addition, RNAs can be alternately spliced (cut and pasted to create novel combinations and novel proteins) and many proteins modify themselves after translation by processes such as proteolytic cleavage, phosphorylation, glycosylation, and ubiquitination. There are also protein-protein interactions, which complicate studying proteomes. Although the genome provides a blueprint, the final architecture depends on several factors that can change the progression of events that generate the proteome.</para>
+<para id="fs-id1436311">Metabolomics is related to genomics and proteomics. <term>Metabolomics</term> involves studying small molecule metabolites in an organism. The <term>metabolome</term> is the complete set of metabolites that are related to an organism's genetic makeup. Metabolomics offers an opportunity to compare genetic makeup and physical characteristics, as well as genetic makeup and environmental factors. The goal of metabolome research is to identify, quantify, and catalogue all the metabolites in living organisms' tissues and fluids.</para>
+<section id="fs-id3070686">
+<title>Basic Techniques in Protein Analysis</title>
+<para id="fs-id1699749">The ultimate goal of proteomics is to identify or compare the proteins expressed from a given genome under specific conditions, study the interactions between the proteins, and use the information to predict cell behavior or develop drug targets. Just as scientists analyze the genome using the basic DNA sequencing technique, proteomics requires techniques for protein analysis. The basic technique for protein analysis, analogous to DNA sequencing, is mass spectrometry. Mass spectrometry identifies and determines a molecule's characteristics. Advances in spectrometry have allowed researchers to analyze very small protein samples. X-ray crystallography, for example, enables scientists to determine a protein crystal's three-dimensional structure at atomic resolution. Another protein imaging technique, nuclear magnetic resonance (NMR), uses atoms' magnetic properties to determine the protein's three-dimensional structure in aqueous solution. Scientists have also used protein microarrays to study protein interactions. Large-scale adaptations of the basic two-hybrid screen (<link target-id="fig-chF17_05_01" document=""/>) have provided the basis for protein microarrays. Scientists use computer software to analyze the vast amount of data for proteomic analysis.</para>
+<para id="fs-id3096087">Genomic- and proteomic-scale analyses are part of <term>systems biology</term>, which is the study of whole biological systems (genomes and proteomes) based on interactions within the system. The European Bioinformatics Institute and the Human Proteome Organization (HUPO) are developing and establishing effective tools to sort through the enormous pile of systems biology data. Because proteins are the direct products of genes and reflect activity at the genomic level, it is natural to use proteomes to compare the protein profiles of different cells to identify proteins and genes involved in disease processes. Most pharmaceutical drug trials target proteins. Researchers use information that they obtain from proteomics to identify novel drugs and to understand their mechanisms of action.</para>
+<figure id="fig-chF17_05_01"><media id="fs-id2569068" alt="In two-hybrid screening, the binding domain of a transcription factor is separated from the activator domain. A bait protein is attached to the D N A binding domain of a transcription factor, and a prey protein is attached to the activator domain. If the prey catches the bait, in other words, binds to it, transcription of a reporter gene occurs. If the prey does not catch the bait, no transcription occurs. Scientists use this transcriptional activation to determine if interaction between the bait and prey has occurred.">
+<image mime-type="image/jpg" src="../../media/Figure_B17_05_01.jpg" width="350"/>
+</media>
+
+<caption>Scientists use two-hybrid screening to determine whether two proteins interact. In this method, a transcription factor splits into a DNA-binding domain (BD) and an activator domain (AD). The binding domain is able to bind the promoter in the activator domain's absence, but it does not turn on transcription. The bait protein attaches to the BD, and the prey protein attaches to the AD. Transcription occurs only if the prey “catches” the bait.</caption></figure><para id="fs-id2024686">Scientists are challenged when implementing proteomic analysis because it is difficult to detect small protein quantities. Although mass spectrometry is good for detecting small protein amounts, variations in protein expression in diseased states can be difficult to discern. Proteins are naturally unstable molecules, which makes proteomic analysis much more difficult than genomic analysis.</para>
+</section>
+<section id="fs-id2874195">
+<title>Cancer Proteomics</title>
+<para id="fs-id1443636">Researchers are studying patients' genomes and proteomes to understand the genetic basis of diseases. The most prominent disease researchers are studying with proteomic approaches is cancer. These approaches improve screening and early cancer detection. Researchers are able to identify proteins whose expression indicates the disease process. An individual protein is a <term>biomarker</term>; whereas, a set of proteins with altered expression levels is a <term>protein signature</term>. For a biomarker or protein signature to be useful as a candidate for early cancer screening and detection, they must secrete in body fluids, such as sweat, blood, or urine, such that health professionals can perform large-scale screenings in a noninvasive fashion. The current problem with using biomarkers for early cancer detection is the high rate of false-negative results. A <term>false negative</term> is an incorrect test result that should have been positive. In other words, many cancer cases go undetected, which makes biomarkers unreliable. Some examples of protein biomarkers in cancer detection are CA-125 for ovarian cancer and PSA for prostate cancer. Protein signatures may be more reliable than biomarkers to detect cancer cells. Researchers are also using proteomics to develop individualized treatment plans, which involves predicting whether or not an individual will respond to specific drugs and the side effects that the individual may experience. Researchers also use proteomics to predict the possibility of disease recurrence.</para>
+<para id="fs-id2072285">The National Cancer Institute has developed programs to improve cancer detection and treatment. The Clinical Proteomic Technologies for Cancer and the Early Detection Research Network are efforts to identify protein signatures specific to different cancer types. The Biomedical Proteomics Program identifies protein signatures and designs effective therapies for cancer patients.</para>
+</section>
+<section id="fs-id1373933" class="summary"> <title>Section Summary</title>
+<para id="fs-id1463775">Proteomics is the study of the entire set of proteins expressed by a given type of cell under certain environmental conditions. In a multicellular organism, different cell types will have different proteomes, and these will vary with environmental changes. Unlike a genome, a proteome is dynamic and in constant flux, which makes it both more complicated and more useful than the knowledge of genomes alone.</para>
+<para id="fs-id3089573">Proteomics approaches rely on protein analysis. Researchers are constantly upgrading these techniques. Researchers have used proteomics to study different cancer types. Medical professionals are using different biomarkers and protein signatures to analyze each cancer type. The future goal is to have a personalized treatment plan for each individual.</para>
+</section>
+<section id="fs-id2344950" class="multiple-choice"> <title>Review Questions</title><exercise id="fs-id1956957">
+<problem id="fs-id1798390">
+<para id="fs-id2334765">What is a biomarker?</para>
+<list id="fs-id2010215" list-type="enumerated" number-style="lower-alpha">
+<item>the color coding of different genes</item>
+<item>a protein that is uniquely produced in a diseased state</item>
+<item>a molecule in the genome or proteome</item>
+<item>a marker that is genetically inherited</item>
+</list>
+</problem>
+<solution id="fs-id2694573"> <label/> <para id="fs-id2595588">B</para> </solution>
+</exercise>
+<exercise id="fs-id1236114">
+<problem id="fs-id2137700">
+<para id="fs-id2338028">A protein signature is:</para>
+<list id="fs-id2335177" list-type="enumerated" number-style="lower-alpha"><item>the path followed by a protein after it is synthesized in the nucleus</item>
+<item>the path followed by a protein in the cytoplasm</item>
+<item>a protein expressed on the cell surface</item>
+<item>a unique set of proteins present in a diseased state</item>
+</list></problem>
+<solution id="fs-id2890478"> <label/> <para id="fs-id1201883">D</para> </solution>
+</exercise>
+</section>
+<section id="fs-id1812902" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2571119">
+<problem id="fs-id2322326">
+<para id="fs-id1867113">How has proteomics been used in cancer detection and treatment?</para></problem>
+<solution id="fs-id1802723"><label/>
+<para id="fs-id2168046">Proteomics has provided a way to detect biomarkers and protein signatures, which have been used to screen for the early detection of cancer.</para></solution>
+</exercise>
+<exercise id="fs-id2491698"><problem id="fs-id2626112">
+<para id="fs-id2570594">What is personalized medicine?</para></problem>
+<solution id="fs-id1293715"><label/>
+<para id="fs-id2569349">Personalized medicine is the use of an individual's genomic sequence to predict the risk for specific diseases. When a disease does occur, it can be used to develop a personalized treatment plan.</para></solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2100648"><term>biomarker</term> <meaning id="fs-id1424024">individual protein that is uniquely produced in a diseased state</meaning></definition>
+<definition id="fs-id2925815"><term>false negative</term> <meaning id="fs-id2278509">incorrect test result that should have been positive</meaning></definition>
+<definition id="fs-id2596155"><term>metabolome</term> <meaning id="fs-id2694643">complete set of metabolites which are related to an organism's genetic makeup</meaning></definition>
+<definition id="fs-id1555243"><term>metabolomics</term> <meaning id="fs-id2098378">study of small molecule metabolites in an organism</meaning></definition>
+<definition id="fs-id2570734"><term>protein signature</term> <meaning id="fs-id1786911">set of uniquely expressed proteins in the diseased state</meaning></definition>
+<definition id="fs-id1988758"><term>proteome</term> <meaning id="fs-id2279649">entire set of proteins that cell type produces</meaning></definition>
+<definition id="fs-id2155997"><term>proteomics</term> <meaning id="fs-id2867696">study of proteomes' function</meaning></definition>
+<definition id="fs-id2937179"><term>systems biology</term> <meaning id="fs-id1968258">study of whole biological systems (genomes and proteomes) based on interactions within the system</meaning></definition>
+</glossary>
+</document>

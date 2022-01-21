@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66510</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>615aef95-f20d-4552-aad0-fed21ea7448a</md:uuid>
+</metadata>
+
+<content>
+<figure id="fs-id1612804" class="splash"><media id="fs-id1770002" alt="The left part of this image is an illustration of a gene chip. The chip is a grid comprising nine columns and 21 rows. Most cells in the grid are blue, but some are green, yellow, or red. The green, yellow, or red color shows that D N A has hybridized with the chip, indicating the presence of a particular gene. The right part of the image is a satellite image of Spain, with a small region outlined in a square. This image is meant to reinforce the concept that, like regions of the world, D N A can be mapped.">
+<image mime-type="image/jpg" src="../../media/Figure_B17_00_01-b67b.jpg"/>
+</media>
+
+<caption>Genomics compares the DNA of different organisms, enabling scientists to create maps with which to navigate different organisms' DNA. (credit "map": modification of photo by NASA)</caption></figure><para id="fs-id1760576">
+The study of nucleic acids began with the discovery of DNA, progressed to the study of genes and small fragments, and has now exploded to the field of genomics. Genomics is the study of entire genomes, including the complete set of genes, their nucleotide sequence and organization, and their interactions within a species and with other species. DNA sequencing technology has contributed to advances in genomics. Just as information technology has led to Google maps that enable people to obtain detailed information about locations around the globe, researchers use genomic information to create similar DNA maps of different organisms. These findings have helped anthropologists to better understand human migration and have aided the medical field through mapping human genetic diseases. Genomic information can contribute to scientific understanding in various ways and knowledge in the field is quickly growing.</para>
+ </content>
+</document>

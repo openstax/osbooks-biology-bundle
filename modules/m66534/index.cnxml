@@ -1,0 +1,407 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Viral Evolution, Morphology, and Classification</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66534</md:content-id>
+  <md:title>Viral Evolution, Morphology, and Classification</md:title>
+  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+<item>Describe how viruses were first discovered and how they are detected</item>
+<item>Discuss three hypotheses about how viruses evolved</item>
+<item>Describe the general structure of a virus</item>
+<item>Recognize the basic shapes of viruses</item>
+<item>Understand past and emerging classification systems for viruses</item>
+<item>Describe the basis for the Baltimore classification system</item>
+</list></md:abstract>
+  <md:uuid>68c572c8-b391-4d8f-a27c-1fc47fa8c96b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm25422208">Viruses are diverse entities: They vary in structure, methods of replication, and the hosts they infect. Nearly all forms of life—from prokaryotic bacteria and archaeans, to eukaryotes such as plants, animals, and fungi—have viruses that infect them. While most biological diversity can be understood through evolutionary history (such as how species have adapted to changing environmental conditions and how different species are related to one another through common descent), much about virus origins and evolution remains unknown.</para>
+<section id="fs-idp48216752">
+<title>Discovery and Detection</title>
+<para id="fs-idp53608960">Viruses were first discovered after the development of a porcelain filter—the Chamberland-Pasteur filter—that could remove all bacteria visible in the microscope from any liquid sample. In 1886, Adolph Meyer demonstrated that a disease of tobacco plants—<term>tobacco mosaic disease</term>—could be transferred from a diseased plant to a healthy one via liquid plant extracts. In 1892, Dmitri Ivanowski showed that this disease could be transmitted in this way even after the Chamberland-Pasteur filter had removed all viable bacteria from the extract. Still, it was many years before it was proved that these “filterable” infectious agents were not simply very small bacteria but were a new type of very small, disease-causing particle.</para>
+<para id="fs-idp52409104">Most <term>virions</term>, or single virus particles, are very small, about 20 to 250 nanometers in diameter. However, some recently discovered viruses from amoebae range up to 1000 nm in diameter. With the exception of large virions, like the poxvirus and other large DNA viruses, viruses cannot be seen with a light microscope. It was not until the development of the electron microscope in the late 1930s that scientists got their first good view of the structure of the tobacco mosaic virus (TMV) (<link target-id="fig-ch21_00_01" document="m66533"/>), discussed above, and other viruses (<link target-id="fig-ch21_01_01ab" document=""/>). The surface structure of virions can be observed by both scanning and transmission electron microscopy, whereas the internal structures of the virus can only be observed in images from a transmission electron microscope. The use of electron microscopy and other technologies has allowed for the discovery of many viruses of all types of living organisms.</para><figure id="fig-ch21_01_01ab" class=" "><media id="fs-idp72036784" alt="Micrograph a shows a virus with a hexagonal head that stands on thin, bent legs. The virus sits on the surface of a cell that is so large that only a small fraction of its surface is visible. Micrograph b shows small bacterial cells that are about the size of the organelles in the adjacent colon cells.">
+<image mime-type="image/jpg" src="../../media/Figure_21_01_01ab.jpg" width="550"/>
+</media>
+<caption>Most virus particles are visible only by electron microscopy. In these transmission electron micrographs, (a) a virus is as dwarfed by the bacterial cell it infects, as (b) these <emphasis effect="italics">E. coli</emphasis> cells are dwarfed by cultured colon cells. (credit a: modification of work by U.S. Dept. of Energy, Office of Science, LBL, PBD; credit b: modification of work by J.P. Nataro and S. Sears, unpub. data, CDC; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-idp171269312">
+<title>Evolution of Viruses</title>
+<para id="fs-idp238382672">Although biologists have a significant amount of knowledge about how present-day viruses mutate and adapt, much less is known about how viruses originated in the first place. When exploring the evolutionary history of most organisms, scientists can look at fossil records and similar historic evidence. However, viruses do not fossilize, as far as we know, so researchers must extrapolate from investigations of how today’s viruses evolve and by using biochemical and genetic information to create speculative virus histories.</para>
+<para id="fs-idp158973648">Most scholars agree that viruses don’t have a single common ancestor, nor is there a single reasonable hypothesis about virus origins. There are current evolutionary scenarios that may explain the origin of viruses. One such hypothesis, the “devolution” or the <emphasis effect="italics">regressive hypothesis</emphasis>, suggests that viruses evolved from free-living cells, or from intracellular prokaryotic parasites. However, many components of how this process might have occurred remain a mystery. A second hypothesis, the escapist or the <emphasis effect="italics">progressive hypothesis</emphasis>, suggests that viruses originated from RNA and DNA molecules, or self-replicating entities similar to transposons or other mobile genetic elements, that escaped from a host cell with the ability to enter another. A third hypothesis, the <emphasis effect="italics">virus first hypothesis,</emphasis> suggests that viruses may have been the first self-replicating entities before the first cells. In all cases, viruses are probably continuing to evolve along with the cells on which they rely on as hosts.</para>
+<para id="fs-idp299530592">As technology advances, scientists may develop and refine additional hypotheses to explain the origins of viruses. The emerging field called virus molecular systematics attempts to do just that through comparisons of sequenced genetic material. These researchers hope one day to better understand the origin of viruses—a discovery that could lead to advances in the treatments for the ailments they produce.</para>
+</section>
+<section id="fs-idm9724192">
+<title>Viral Morphology</title>
+<para id="fs-idp194585840">Viruses are <term>noncellular</term>, meaning they are biological entities that do not have a cellular structure. They therefore lack most of the components of cells, such as organelles, ribosomes, and the plasma membrane. A virion consists of a nucleic acid core, an outer protein coating or <term>capsid</term>, and sometimes an outer <term>envelope</term> made of protein and phospholipid membranes derived from the host cell. Viruses may also contain additional proteins, such as enzymes, within the capsid or attached to the viral genome. The most obvious difference between members of different viral families is the variation in their morphology, which is quite diverse. An interesting feature of viral complexity is that the complexity of the host does not necessarily correlate with the complexity of the virion. In fact, some of the most complex virion structures are found in the <term>bacteriophages</term>—viruses that infect the simplest living organisms, bacteria.</para>
+<section id="fs-idp1736400">
+<title>Morphology</title>
+<para id="fs-idm67249600">Viruses come in many shapes and sizes, but these features are consistent for each viral family. As we have seen, all virions have a nucleic acid genome covered by a protective capsid. The proteins of the capsid are encoded in the viral genome, and are called <term><emphasis effect="italics">capsomeres</emphasis></term>. Some viral capsids are simple helices or polyhedral “spheres,” whereas others are quite complex in structure (<link target-id="fig-ch21_01_02a" document=""/>).</para>
+
+<figure id="fig-ch21_01_02a" class=" "><media id="fs-idp75136784" alt="Figure a is a helical virus which has a long linear structure. The outer proteins are small spheres arranged into a long, hollow tube. Inside the tube is the genetic material. Tobacco mosaic virus is an example of a helical virus. Figure b is an Icosehedral viruses have a polyhedron structure. The example shown is human rhinovirus which has a pentagon structure. Complex viruses have a more complex structure. The example is variola which has an ovoid structure.">
+<image mime-type="image/jpg" src="../../media/Figure_B21_01_02.jpg" width="550"/>
+</media>
+<caption>Viral capsids can be (a) helical, (b) polyhedral, or (c) have a complex shape. (credit a “micrograph”: modification of work by USDA ARS; credit b “micrograph”: modification of work by U.S. Department of Energy)</caption></figure><para id="fs-idm52604896">In general, the capsids of viruses are classified into four groups: helical, icosahedral, enveloped, and head-and-tail. <emphasis effect="italics">Helical capsids</emphasis> are long and cylindrical. Many plant viruses are helical, including TMV. <emphasis effect="italics">Icosahedral viruses</emphasis> have shapes that are roughly spherical, such as those of poliovirus or herpesviruses. <emphasis effect="italics">Enveloped viruses</emphasis> have membranes derived from the host cell that surrounds the capsids. Animal viruses, such as HIV, are frequently enveloped. <emphasis effect="italics">Head-and-tail viruses</emphasis> infect bacteria and have a head that is similar to icosahedral viruses and a tail shaped like helical viruses.</para>
+<para id="fs-idp25545472">Many viruses use some sort of <emphasis effect="italics">glycoprotein</emphasis> to attach to their host cells via molecules on the cell called <term><emphasis effect="italics">viral receptors</emphasis></term>. For these viruses, attachment is required for later penetration of the cell membrane; only after penetration takes place can the virus complete its replication inside the cell. The receptors that viruses use are molecules that are normally found on cell surfaces and have their own physiological functions. It appears that viruses have simply evolved to make use of these molecules for their own replication. For example, HIV uses the CD4 molecule on T lymphocytes as one of its receptors (<link target-id="fig-ch21_01_02" document=""/>). CD4 is a type of molecule called a <emphasis effect="italics">cell adhesion molecule</emphasis>, which functions to keep different types of immune cells in close proximity to each other during the generation of a T lymphocyte immune response.</para>
+<figure id="fig-ch21_01_02" class=" "><media id="fs-idm42422288" alt="In the illustration a viral receptor on the surface of an H I V virus is attaches to a co-receptor embedded in the plasma membrane. The co-receptor is either C C R 5 or C X C R 4.">
+<image mime-type="image/jpg" src="../../media/Figure_B21_03_03a.jpg" width="300"/>
+</media>
+<caption>A virus and its host receptor protein. The HIV virus binds the CD4 receptor on the surface of human cells. CD4 receptors help white blood cells to communicate with other cells of the immune system when producing an immune response. (credit: modification of work by NIAID, NIH)</caption></figure><para id="fs-idp142598832">One of the most complex virions known, the T4 bacteriophage (which infects the <emphasis effect="italics">Escherichia coli</emphasis>) bacterium, has a tail structure that the virus uses to attach to host cells and a head structure that houses its DNA.</para>
+<para id="fs-idp191852432">Adenovirus, a non-enveloped animal virus that causes respiratory illnesses in humans, uses glycoprotein spikes protruding from its capsomeres to attach to host cells. Non-enveloped viruses also include those that cause polio (poliovirus), plantar warts (papillomavirus), and hepatitis A (hepatitis A virus).</para>
+<para id="fs-idp160435648">Enveloped virions, such as the influenza virus, consist of nucleic acid (RNA in the case of influenza) and capsid proteins surrounded by a phospholipid bilayer envelope that contains virus-encoded proteins. Glycoproteins embedded in the viral envelope are used to attach to host cells. Other envelope proteins are the <term>matrix proteins</term> that stabilize the envelope and often play a role in the assembly of progeny virions. Chicken pox, HIV, and mumps are other examples of diseases caused by viruses with envelopes. Because of the fragility of the envelope, non-enveloped viruses are more resistant to changes in temperature, pH, and some disinfectants than enveloped viruses.</para>
+<para id="fs-idm11982672">Overall, the shape of the virion and the presence or absence of an envelope tell us little about what disease the virus may cause or what species it might infect, but they are still useful means to begin viral classification (<link target-id="fig-ch21_01_03" document=""/>).</para><note id="fs-idm42732272" class="visual-connection"><label/><title>Visual Connection</title>
+<figure id="fig-ch21_01_03" class=" "><media id="fs-idp181442624" alt="Illustration a shows bacteriophage T 4, which houses its D N A genome in a hexagonal head. A long, straight tail extends from the bottom of the head. Tail fibers attached to the base of the tail are bent, like spider legs. In b, adenovirus houses its D N A genome in a round capsid made from many small capsomere subunits. Glycoproteins extend from the capsomere, like pins from a pincushion. In c, the H I V retrovirus houses its R N A genome and a bullet-shaped capsid. A spherical viral envelope, lined with matrix proteins, surrounds the capsid. Two different varieties of glycoprotein spike are embedded in the envelope. Approximately 80 percent of the spikes are hemagglutinin. The remaining 20 percent or so of the glycoprotein spikes consist of neuraminidase.">
+<image mime-type="image/png" src="../../media/Figure_B21_02_01.png" width="550"/>
+</media>
+<caption>Complex Viruses. Viruses can be either complex or relatively simple in shape. This figure shows three relatively complex virions: the bacteriophage T4, with its DNA-containing head group and tail fibers that attach to host cells; adenovirus, which uses spikes from its capsid to bind to host cells; and the influenza virus, which uses glycoproteins embedded in its envelope to bind to host cells. The influenza virus also has matrix proteins, internal to the envelope, which help stabilize the virion’s shape. (credit “bacteriophage, adenovirus”: modification of work by NCBI, NIH; credit "influenza virus": modification of work by Dan Higgins, Centers for Disease Control and Prevention)</caption></figure><para id="fs-idp89059712">Which of the following statements about virus structure is true?</para>
+      <list id="fs-idp8073744" list-type="enumerated" number-style="lower-alpha">
+          <item>All viruses are encased in a viral membrane.</item>
+      <item>The capsomere is made up of small protein subunits called capsids.</item>
+      <item>DNA is the genetic material in all viruses.</item>
+      <item>Glycoproteins help the virus attach to the host cell.</item>
+</list>
+<!--<para><link target-id="fig-ch21_01_03" document=""/>D</para>-->
+</note></section>
+<section id="fs-idp66473824">
+<title>Types of Nucleic Acid</title>
+<para id="fs-idp196052832">Unlike nearly all living organisms that use DNA as their genetic material, viruses may use either DNA or RNA. The <term>virus core</term> contains the genome—the total genetic content of the virus. Viral genomes tend to be small, containing only those genes that encode proteins which the virus cannot get from the host cell. This genetic material may be single- or double-stranded. It may also be linear or circular. While most viruses contain a single nucleic acid, others have genomes divided into several segments. The RNA genome of the influenza virus is segmented, which contributes to its variability and continuous evolution, and explains why it is difficult to develop a vaccine against it.</para>
+<para id="fs-idm55873392">In DNA viruses, the viral DNA directs the host cell’s replication proteins to synthesize new copies of the viral genome and to transcribe and translate that genome into viral proteins. Human diseases caused by DNA viruses include chickenpox, hepatitis B, and adenoviruses. Sexually transmitted DNA viruses include the herpes virus and the human papilloma virus (HPV), which has been associated with cervical cancer and genital warts.</para>
+<para id="fs-idp163656544">RNA viruses contain only RNA as their genetic material. To replicate their genomes in the host cell, the RNA viruses must encode their own enzymes that can replicate RNA into RNA or, in the retroviruses, into DNA. These <emphasis effect="italics">RNA polymerase enzymes</emphasis> are more likely to make copying errors than DNA polymerases, and therefore often make mistakes during transcription. For this reason, mutations in RNA viruses occur more frequently than in DNA viruses. This causes them to change and adapt more rapidly to their host. Human diseases caused by RNA viruses include influenza, hepatitis C, measles, and rabies. The HIV virus, which is sexually transmitted, is an RNA retrovirus.</para>
+</section>
+</section>
+<section id="fs-idp55019536">
+<title>The Challenge of Virus Classification</title>
+<para id="fs-idp177454736">Because most viruses probably evolved from different ancestors, the systematic methods that scientists have used to classify prokaryotic and eukaryotic cells are not very useful. If viruses represent “remnants” of different organisms, then even genomic or protein analysis is not useful. Why?, <emphasis effect="italics">Because viruses have no common genomic sequence that they all share</emphasis>. For example, the 16S rRNA sequence so useful for constructing prokaryote phylogenies is of no use for a creature with no ribosomes! Biologists have used several classification systems in the past. Viruses were initially grouped by shared morphology. Later, groups of viruses were classified by the type of nucleic acid they contained, DNA or RNA, and whether their nucleic acid was single- or double-stranded. However, these earlier classification methods grouped viruses differently, because they were based on different sets of characters of the virus. The most commonly used classification method today is called the Baltimore classification scheme, and is based on how messenger RNA (mRNA) is generated in each particular type of virus.</para>
+<section id="fs-idp106838944">
+<title>Past Systems of Classification</title>
+<para id="fs-idp73318176">Viruses contain only a few elements by which they can be classified: the viral genome, the type of capsid, and the envelope structure for the enveloped viruses.  All of these elements have been used in the past for viral classification (<link target-id="tab-ch21_01_01" document=""/> and <link target-id="fig-ch21_01_04ab" document=""/>). Viral genomes may vary in the type of genetic material (DNA or RNA) and its organization (single- or double-stranded, linear or circular, and segmented or non-segmented). In some viruses, additional proteins needed for replication are associated directly with the genome or contained within the viral capsid.</para>
+    <table id="tab-ch21_01_01" summary="Virus Classification by Genome Structure" class="top-titled">
+<tgroup cols="2" align="left"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+                <thead>
+                    <row>
+                        <entry namest="c1" nameend="c2">Virus Classification by Genome Structure</entry>
+                    </row>
+                    <row>
+                        <entry>Genome Structure</entry>
+                        <entry>Examples</entry>
+                    </row>
+                </thead>
+            <tbody>
+                <row>
+                    <entry>
+                        <list id="fs-idm54557568" list-type="bulleted" bullet-style="none"><item>RNA</item>
+                            <item>DNA</item>
+                        </list></entry>
+                    <entry>
+                        <list id="fs-idp79315424" list-type="bulleted" bullet-style="none"><item>Rabies virus, retroviruses</item>
+                            <item>Herpesviruses, smallpox virus</item>
+                        </list></entry>
+                </row>
+                                <row>
+                    <entry>
+                        <list id="fs-idp34854880" list-type="bulleted" bullet-style="none"><item>Single-stranded</item>
+                            <item>Double-stranded</item>
+                        </list></entry>
+                    <entry>
+                        <list id="fs-idp84734864" bullet-style="none" list-type="bulleted"><item>Rabies virus, retroviruses</item>
+<item>Herpesviruses, smallpox virus</item></list></entry>
+                                </row>
+                <row>
+                    <entry>
+                        <list id="fs-idp66540320" list-type="bulleted" bullet-style="none"><item>Linear</item>
+                            <item>Circular</item>
+                        </list></entry>
+                    <entry>
+                        <list id="fs-idp21921520" list-type="bulleted" bullet-style="none"><item>Rabies virus, retroviruses, herpesviruses, smallpox virus</item>
+<item>Papillomaviruses, many bacteriophages</item></list></entry>
+                </row>
+                                <row>
+                    <entry>
+                        <list id="fs-idp105633616" list-type="bulleted" bullet-style="none"><item>Non-segmented: genome consists of a single segment of genetic material</item>
+                            <item>Segmented: genome is divided into multiple segments</item>
+                        </list></entry>
+                    <entry>
+                        <list id="fs-idp192496224" list-type="bulleted" bullet-style="none"><item> Parainfluenza viruses</item>
+                            <item>Influenza viruses</item>
+                        </list></entry>
+                                </row>
+            </tbody>
+
+
+
+</tgroup>
+</table><figure id="fig-ch21_01_04ab" class=" "><media id="fs-idp3695088" alt="Part a is an illustration of the rabies virus, which is bullet shaped. R N A is coiled inside a capsid, which is encased in a matrix protein lined viral envelope studded with glycoproteins. Part a below is a micrograph of a cluster of bullet shaped rabies viruses. Part b is a micrograph of variola virus, which has D N A encased in a bow shaped capsid. An oval matrix protein-lined envelope surrounds the capsid. Part b below shows irregular, bumpy lesions on the arms and legs of a person with smallpox.">
+<image mime-type="image/jpg" src="../../media/Figure_21_01_04ab.jpg" width="535"/>
+</media>
+<caption>Viruses can be classified according to their core genetic material and capsid design. (a) Rabies virus has a single-stranded RNA (ssRNA) core and an enveloped helical capsid, whereas (b) variola virus, the causative agent of smallpox, has a double-stranded DNA (dsDNA) core and a complex capsid. Rabies transmission occurs when saliva from an infected mammal enters a wound. The virus travels through neurons in the peripheral nervous system to the central nervous system, where it impairs brain function, and then travels to other tissues. The virus can infect any mammal, and most die within weeks of infection. Smallpox is a human virus transmitted by inhalation of the variola virus, localized in the skin, mouth, and throat, which causes a characteristic rash. Before its eradication in 1979, infection resulted in a 30 to 35 percent mortality rate. (credit “rabies diagram”: modification of work by CDC; “rabies micrograph”: modification of work by Dr. Fred Murphy, CDC; credit “small pox micrograph”: modification of work by Dr. Fred Murphy, Sylvia Whitfield, CDC; credit “smallpox photo”: modification of work by CDC; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp53579680">Viruses can also be classified by the design of their capsids (<link target-id="tab-ch21_01_02" document=""/> and <link target-id="fig-ch21_01_06" document=""/>). Capsids are classified as naked icosahedral, enveloped icosahedral, enveloped helical, naked helical, and complex. The type of genetic material (DNA or RNA) and its structure (single- or double-stranded, linear or circular, and segmented or non-segmented) are used to classify the virus core structures (<link target-id="tab-ch21_01_02" document=""/>).</para>
+<table id="tab-ch21_01_02" summary="" class="top-titled">
+    <tgroup cols="2" align="left">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+            <row>
+                <entry namest="c1" nameend="c2">Virus Classification by Capsid Structure</entry>
+            </row>
+            <row>
+                <entry>Capsid Classification</entry>
+                <entry>Examples</entry>
+            </row>
+        </thead>
+        <tbody>
+            <row>
+                 <entry>Naked icosahedral</entry>
+            <entry>Hepatitis A virus, polioviruses </entry>
+            </row>
+                        <row>
+            <entry>Enveloped icosahedral</entry>
+            <entry>Epstein-Barr virus, herpes simplex virus, rubella virus, yellow fever virus, HIV-1</entry>
+                        </row>
+                        <row>
+            <entry>Enveloped helical</entry>
+            <entry>Influenza viruses, mumps virus, measles virus, rabies virus</entry>
+                        </row>
+                        <row>
+            <entry>Naked helical</entry>
+            <entry>Tobacco mosaic virus</entry>
+                        </row>
+                        <row>
+            <entry>Complex with many proteins; some have combinations of icosahedral and helical capsid structures</entry>
+            <entry>Herpesviruses, smallpox virus, hepatitis B virus, T4 bacteriophage</entry>
+                </row>
+        </tbody>
+    </tgroup>
+</table>
+<figure id="fig-ch21_01_06" class=" "><media id="fs-idm42890784" alt="Micrograph a shows icosahedral polioviruses arranged in a grid; micrograph b shows two Epstein-Barr viruses with icosahedral capsids encased in an oval membrane; micrograph c shows a mumps virus capsid encased in an irregular membrane; micrograph d shows rectangular tobacco mosaic virus capsids; and micrograph e shows a spherical herpesvirus envelope studded with glycoproteins.">
+<image mime-type="image/jpg" src="../../media/Figure_21_01_06abcde.jpg" width="525"/>
+</media>
+<caption>Transmission electron micrographs of various viruses show their capsid structures. The capsid of the (a) polio virus is naked icosahedral; (b) the Epstein-Barr virus capsid is enveloped icosahedral; (c) the mumps virus capsid is an enveloped helix; (d) the tobacco mosaic virus capsid is naked helical; and (e) the herpesvirus capsid is complex. (credit a: modification of work by Dr. Fred Murphy, Sylvia Whitfield; credit b: modification of work by Liza Gross; credit c: modification of work by Dr. F. A. Murphy, CDC; credit d: modification of work by USDA ARS; credit e: modification of work by Linda Stannard, Department of Medical Microbiology, University of Cape Town, South Africa, NASA; scale-bar data from Matt Russell)</caption></figure></section>
+<section id="fs-idp22657040">
+<title>Baltimore Classification</title>
+<para id="fs-idp75153760">The most commonly and currently used system of virus classification was first developed by Nobel Prize-winning biologist David Baltimore in the early 1970s. In addition to the differences in morphology and genetics mentioned above, the Baltimore classification scheme groups viruses according to how the mRNA is produced during the replicative cycle of the virus.</para>
+<para id="fs-idp84445264"><term>Group I</term> viruses contain double-stranded DNA (dsDNA) as their genome. Their mRNA is produced by transcription in much the same way as with cellular DNA, using the enzymes of the host cell.</para>
+<para id="fs-idp84555264"><term>Group II</term> viruses have single-stranded DNA (ssDNA) as their genome. They convert their single-stranded genomes into a dsDNA intermediate before transcription to mRNA can occur.</para>
+<para id="fs-idp84666264"><term>Group III</term> viruses use dsRNA as their genome. The strands separate, and one of them is used as a template for the generation of mRNA using the RNA-dependent RNA polymerase encoded by the virus.</para>
+<para id="fs-idp84777264"><term>Group IV</term> viruses have ssRNA as their genome with a <emphasis effect="italics">positive polarity</emphasis>, which means that the genomic RNA can serve directly as mRNA. Intermediates of dsRNA, called <term><emphasis effect="italics">replicative intermediates</emphasis></term>, are made in the process of copying the genomic RNA. Multiple, full-length RNA strands of <emphasis effect="italics">negative polarity</emphasis> (complementary to the positive-stranded genomic RNA) are formed from these intermediates, which may then serve as templates for the production of RNA with positive polarity, including both full-length genomic RNA and shorter viral mRNAs.</para>
+<para id="fs-idp84888264"><term>Group V</term> viruses contain ssRNA genomes with a <term>negative polarity</term>, meaning that their sequence is complementary to the mRNA. As with Group IV viruses, dsRNA intermediates are used to make copies of the genome and produce mRNA. In this case, the negative-stranded genome can be converted directly to mRNA. Additionally, full-length positive RNA strands are made to serve as templates for the production of the negative-stranded genome.</para>
+<para id="fs-idp84999264"><term>Group VI</term> viruses have diploid (two copies) ssRNA genomes that must be converted, using the enzyme <term>reverse transcriptase</term>, to dsDNA; the dsDNA is then transported to the nucleus of the host cell and inserted into the host genome. Then, mRNA can be produced by transcription of the viral DNA that was integrated into the host genome.</para>
+<para id="fs-idp85000264"><term>Group VII</term> viruses have partial dsDNA genomes and make ssRNA intermediates that act as mRNA, but are also converted back into dsDNA genomes by reverse transcriptase, necessary for genome replication.</para>
+<para id="fs-idp85111264">The characteristics of each group in the Baltimore classification are summarized in <link target-id="tab-ch21_01_03" document=""/> with examples of each group.</para><table id="tab-ch21_01_03" summary="" class="top-titled">
+        <tgroup cols="4" align="left">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <thead>
+                <row>
+                    <entry namest="c1" nameend="c4">Baltimore Classification</entry>
+                </row>
+                <row>
+                    <entry>Group</entry>
+                    <entry>Characteristics</entry>
+                    <entry>Mode of mRNA Production</entry>
+                    <entry>Example</entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry>I</entry>
+                    <entry>Double-stranded DNA</entry>
+                    <entry>mRNA is transcribed directly from the DNA template</entry>
+                    <entry>Herpes simplex (herpesvirus)</entry>
+                </row>
+                <row>
+                    <entry>II</entry>
+                    <entry>Single-stranded DNA</entry>
+                    <entry>DNA is converted to double-stranded form before RNA is transcribed</entry>
+                    <entry>Canine parvovirus (parvovirus)</entry>
+                </row>
+                <row>
+                    <entry>III</entry>
+                    <entry>Double-stranded RNA</entry>
+                    <entry>mRNA is transcribed from the RNA genome</entry>
+                    <entry>Childhood gastroenteritis  (rotavirus)</entry>
+                </row>
+                <row>
+                    <entry>IV</entry>
+                    <entry>Single stranded RNA (+)</entry>
+                    <entry>Genome functions as mRNA</entry>
+                    <entry>Common cold (picornavirus)</entry>
+                </row>
+                <row>
+                    <entry>V</entry>
+                    <entry>Single stranded RNA (-)</entry>
+                    <entry>mRNA is transcribed from the RNA genome</entry>
+                    <entry>Rabies (rhabdovirus)</entry>
+                </row>
+                <row>
+                    <entry>VI</entry>
+                    <entry>Single stranded RNA viruses with reverse transcriptase</entry>
+                    <entry>Reverse transcriptase makes DNA from the RNA genome; DNA is then incorporated in the host genome; mRNA is transcribed from the incorporated DNA</entry>
+                    <entry>Human immunodeficiency virus (HIV)</entry>
+                </row>
+                <row>
+                    <entry>VII</entry>
+                    <entry>Double stranded DNA viruses with reverse transcriptase</entry>
+                    <entry>The viral genome is double-stranded DNA, but viral DNA is replicated through an RNA intermediate; the RNA may serve directly as mRNA or as a template to make mRNA</entry>
+                    <entry>Hepatitis B virus (hepadnavirus)</entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table>
+</section>
+</section>
+<section id="fs-idp64125424" class="summary">
+<title>Section Summary</title><para id="fs-idm50889216">Viruses are tiny, noncellular entities that usually can be seen only with an electron microscope. Their genomes contain either DNA or RNA—never both—and they replicate either by using the replication proteins of a host cell or by using proteins encoded in the viral genome. Viruses are diverse, infecting archaea, bacteria, fungi, plants, and animals. Viruses consist of a nucleic acid core surrounded by a protein capsid with or without an outer lipid envelope. The capsid shape, presence of an envelope, and core composition dictate some elements of the classification of viruses. The most commonly used classification method, the Baltimore classification, categorizes viruses based on how they produce their mRNA.</para>
+</section>
+<section id="fs-idp81804512" class="visual-exercise"><title>Visual Connection Questions</title>
+<exercise id="fs-idm99307712"><problem id="fs-idp21845248">
+    <para id="fs-idm98170320"><link target-id="fig-ch21_01_03" document=""/> Which of the following statements about virus structure is true?</para>
+      <list id="fs-idm67531008" list-type="enumerated" number-style="lower-alpha">
+<item>All viruses are encased in a viral membrane.</item>
+<item>The capsomere is made up of small protein subunits called capsids.</item>
+<item>DNA is the genetic material in all viruses.</item>
+<item>Glycoproteins help the virus attach to the host cell.</item>
+      </list></problem>
+<solution id="fs-idm95148256">
+<label/>
+    <para id="fs-idm47195104"><link target-id="fig-ch21_01_03" document=""/> D</para>
+</solution></exercise>
+</section><section id="fs-idm49176544" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp108174880">
+<problem id="fs-idp143356032"><para id="fs-idp26817696">Which statement is true?</para>
+<list id="fs-idp29718736" list-type="enumerated" number-style="lower-alpha">
+<item>A virion contains DNA and RNA.</item>
+<item>Viruses are acellular.</item>
+<item>Viruses replicate outside of the cell.</item>
+<item>Most viruses are easily visualized with a light microscope.</item>
+</list>
+</problem>
+<solution id="fs-idm127107840">
+<label/>
+<para id="fs-idp9932224">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idp56983888">
+<problem id="fs-idm54659920"><para id="fs-idm4929520">The viral ________ play(s) a role in attaching a virion to the host cell.</para>
+<list id="fs-idp47911680" list-type="enumerated" number-style="lower-alpha">
+<item>core</item>
+<item>capsid</item>
+<item>envelope</item>
+<item>both b and c</item>
+</list>
+</problem>
+<solution id="fs-idp156912448">
+<label/>
+<para id="fs-idp77300096">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm54168336">
+<problem id="fs-idm5104"><para id="fs-idp23793952">Viruses_______.</para>
+<list id="fs-idp123137424" list-type="enumerated" number-style="lower-alpha">
+<item>all have a round shape</item>
+<item>cannot have a long shape</item>
+<item>do not maintain any shape</item>
+<item>vary in shape</item>
+</list>
+</problem>
+<solution id="fs-idp143567936">
+<label/>
+<para id="fs-idp196170224">D</para>
+</solution>
+</exercise><exercise id="eip-798"><problem id="eip-616">
+  <para id="eip-197">
+    The observation that the bacteria genus <emphasis effect="italics">Chlamydia</emphasis> contains species that can only survive as intracellular parasites supports which viral origin hypothesis?
+  </para>
+<list id="fs-listid012" list-type="enumerated" number-style="lower-alpha">
+<item>Progressive</item>
+<item>Regressive</item>
+<item>Self-replicating</item>
+<item>Virus-first</item>
+</list>
+</problem>
+
+<solution id="eip-419"><label/>
+  <para id="eip-751">
+    B
+  </para>
+</solution>
+</exercise><exercise id="eip-735"><problem id="eip-840">
+  <para id="eip-794">
+    A scientist discovers a new virus with a linear, RNA genome surrounded by a helical capsid. The virus is most likely a member of which family based on structure classification?
+  </para>
+<list id="fs-listid013" list-type="enumerated" number-style="lower-alpha">
+<item>Rabies virus</item>
+<item>Herpesviruses</item>
+<item>Retroviruses</item>
+<item>Influenza viruses</item>
+</list>
+</problem>
+
+<solution id="eip-985"><label/>
+  <para id="eip-712">
+    A
+  </para>
+</solution>
+</exercise></section>
+<section id="fs-idm31162720" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idp169281232">
+<problem id="fs-idm16322000"><para id="fs-idm12527952">The first electron micrograph of a virus (tobacco mosaic virus) was produced in 1939. Before that time, how did scientists know that viruses existed if they could not see them? (Hint: Early scientists called viruses “filterable agents.”)</para></problem>
+<solution id="fs-idm58204336"><label/>
+<para id="fs-idm50952208">Viruses pass through filters that eliminated all bacteria which were visible in the light microscopes at the time. As the bacteria-free filtrate could still cause infections when given to a healthy organism, this observation demonstrated the existence of very small infectious agents. These agents were later shown to be unrelated to bacteria and were classified as viruses.</para>
+</solution>
+</exercise><exercise id="eip-308"><problem id="eip-11">
+  <para id="eip-223">
+    Varicella-zoster virus is a double-stranded DNA virus that causes chickenpox. How does its genome structure provide an evolutionary advantage over a single-stranded DNA virus?
+  </para>
+</problem>
+
+<solution id="eip-823"><label/>
+  <para id="eip-136">Both viruses are made of DNA, but single-stranded DNA viruses lack the ability to create the double helix. Thus, double-stranded DNA viruses have a more stable genome due to the complementary base pairing, increasing the lifespan of the virus’s genome.
+  </para></solution>
+</exercise><exercise id="eip-353"><problem id="eip-642">
+  <para id="eip-981">
+    Classify the Rabies virus (a rhabdovirus family member) and HIV-1 with both the Baltimore and genomic structure systems. Compare your results. What conclusions can be made about these two different methods?
+  </para>
+</problem>
+
+<solution id="eip-995"><label/>
+  <para id="eip-ds613">
+    Rabies virus is a (-) strand RNA virus that transcribes mRNAs from its genome (Group V).
+  </para>
+  <para id="eip-ds614">
+    HIV-1 is a single-stranded RNA retrovirus that uses reverse transcriptase to create a double-stranded DNA copy of its genome which is integrated into the host human’s genome prior to making mRNAs (Group VI).
+  </para>
+  <para id="eip-ds615">
+    The genome structure system classifies both viruses as single-stranded RNA viruses with linear genomes.
+  </para>
+  <para id="eip-ds616">
+    Baltimore classification sorts Rabies virus and HIV-1 into two different groups, indicating that the two viruses have very different life cycles. However, genome structure classification does not distinguish between the two viruses. This leaves out important information regarding virus function and survival.
+  </para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idp126487296"><term>acellular</term> <meaning id="fs-idm44404928">lacking cells</meaning></definition>
+<definition id="fs-idp118520992"><term>capsid</term> <meaning id="fs-idp105185488">protein coating of the viral core</meaning></definition>
+<definition id="fs-idm11465616"><term>capsomere</term> <meaning id="fs-idp86719632">protein subunit that makes up the capsid</meaning></definition>
+<definition id="fs-idp105251712"><term>envelope</term> <meaning id="fs-idp31564848">lipid bilayer that encircles some viruses</meaning></definition>
+<definition id="fs-idp75379088"><term>group I virus</term> <meaning id="fs-idm4274688">virus with a dsDNA genome</meaning></definition>
+<definition id="fs-idp35980672"><term>group II virus</term> <meaning id="fs-idp90459568">virus with an ssDNA genome</meaning></definition>
+<definition id="fs-idp111313424"><term>group III virus</term> <meaning id="fs-idm16456592">virus with a dsRNA genome</meaning></definition>
+<definition id="fs-idm45480000"><term>group IV virus</term> <meaning id="fs-idp50405264">virus with an ssRNA genome with positive polarity</meaning></definition>
+<definition id="fs-idp189746640"><term>group V virus</term> <meaning id="fs-idp301872">virus with an ssRNA genome with negative polarity</meaning></definition>
+<definition id="fs-idp68267184"><term>group VI virus</term> <meaning id="fs-idp29443792">virus with an ssRNA genome converted into dsDNA by reverse transcriptase</meaning></definition>
+<definition id="fs-idm64085376"><term>group VII virus</term> <meaning id="fs-idp71703536">virus with a single-stranded mRNA converted into dsDNA for genome replication</meaning></definition>
+<definition id="fs-idp104715088"><term>matrix protein</term> <meaning id="fs-idp36399840">envelope protein that stabilizes the envelope and often plays a role in the assembly of progeny virions</meaning></definition>
+<definition id="fs-idm18663536"><term>negative polarity</term> <meaning id="fs-idp181532208">ssRNA viruses with genomes complementary to their mRNA</meaning></definition>
+<definition id="fs-idp118265680"><term>positive polarity</term> <meaning id="fs-idp149995776">ssRNA virus with a genome that contains the same base sequences and codons found in their mRNA</meaning></definition>
+<definition id="fs-idp188248768"><term>replicative intermediate</term> <meaning id="fs-idp115863504">dsRNA intermediate made in the process of copying genomic RNA</meaning></definition>
+<definition id="fs-idp80315376"><term>reverse transcriptase</term> <meaning id="fs-idm64120336">enzyme found in Baltimore groups VI and VII that converts single-stranded RNA into double-stranded DNA</meaning></definition>
+<definition id="fs-idp50408752"><term>viral receptor</term> <meaning id="fs-idp38717232">glycoprotein used to attach a virus to host cells via molecules on the cell</meaning></definition>
+<definition id="fs-idm9278512"><term>virion</term> <meaning id="fs-idp23825088">individual virus particle outside a host cell</meaning></definition>
+<definition id="fs-idp22019440"><term>virus core</term> <meaning id="fs-idp53073760">contains the virus genome</meaning></definition>
+</glossary>
+</document>

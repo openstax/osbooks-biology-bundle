@@ -5,7 +5,7 @@
   <md:content-id>m45518</md:content-id>
   <md:title>Seedless Plants</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list id="list-00001">
+<list>
 <item>Describe the distinguishing traits of the three types of bryophytes</item>
 <item>Identify the new traits that first appear in seedless vascular plants</item>
 <item>Describe the major classes of seedless vascular plants</item>
@@ -28,14 +28,14 @@
 </section>
 <section id="fs-idp30464048">
 <title>Liverworts</title>
-<para id="fs-idp3912016"><term id="term-00001">Liverworts</term> (Marchantiophyta) may be viewed as the plants most closely related to the ancestor that moved to land. Liverworts have colonized many habitats on Earth and diversified to more than 6,000 existing species (<link target-id="fig-ch14_02_02" document=""/><emphasis effect="bold">a</emphasis>). Some gametophytes form lobate green structures, as seen in <link target-id="fig-ch14_02_02" document=""/><emphasis effect="bold">b</emphasis>. The shape is similar to the lobes of the liver and, hence, provides the origin of the common name given to the division.</para><figure id="fig-ch14_02_02" class=" "><media id="fs-idm37341008" alt=" Illustration (a) shows a variety of liverworts, which all share a branched, leafy structure. Photo (b) shows a liverwort with lettuce-like leaves.">
+<para id="fs-idp3912016"><term>Liverworts</term> (Marchantiophyta) may be viewed as the plants most closely related to the ancestor that moved to land. Liverworts have colonized many habitats on Earth and diversified to more than 6,000 existing species (<link target-id="fig-ch14_02_02" document=""/><emphasis effect="bold">a</emphasis>). Some gametophytes form lobate green structures, as seen in <link target-id="fig-ch14_02_02" document=""/><emphasis effect="bold">b</emphasis>. The shape is similar to the lobes of the liver and, hence, provides the origin of the common name given to the division.</para><figure id="fig-ch14_02_02" class=" "><media id="fs-idm37341008" alt=" Illustration (a) shows a variety of liverworts, which all share a branched, leafy structure. Photo (b) shows a liverwort with lettuce-like leaves.">
 <image mime-type="image/jpg" src="../../media/Figure_14_02_02ab.jpg" width="420"/>
 </media>
 
 <caption>(a) A 1904 drawing of liverworts shows the variety of their forms. (b) A liverwort, <emphasis effect="italics">Lunularia cruciata</emphasis>, displays its lobate, flat thallus. The organism in the photograph is in the gametophyte stage.</caption></figure></section>
 <section id="fs-idm5573312">
 <title>Hornworts</title>
-<para id="fs-idm44558720">The <term id="term-00002">hornworts</term> (Anthocerotophyta) have colonized a variety of habitats on land, although they are never far from a source of moisture. There are about 100 described species of hornworts. The dominant phase of the life cycle of hornworts is the short, blue-green gametophyte. The sporophyte is the defining characteristic of the group. It is a long and narrow pipe-like structure that emerges from the parent gametophyte and maintains growth throughout the life of the plant (<link target-id="fig-ch14_02_03" document=""/>).</para>
+<para id="fs-idm44558720">The <term>hornworts</term> (Anthocerotophyta) have colonized a variety of habitats on land, although they are never far from a source of moisture. There are about 100 described species of hornworts. The dominant phase of the life cycle of hornworts is the short, blue-green gametophyte. The sporophyte is the defining characteristic of the group. It is a long and narrow pipe-like structure that emerges from the parent gametophyte and maintains growth throughout the life of the plant (<link target-id="fig-ch14_02_03" document=""/>).</para>
 <figure id="fig-ch14_02_03"><media id="fs-idm16839168" alt=" The base of the hornwort plant has a wrinkled appearance. A cluster of slender green stalks with brown tips grows from this wrinkled mass.">
 <image mime-type="image/jpg" src="../../media/Figure_14_02_03.jpg" width="300"/>
 </media>
@@ -43,7 +43,7 @@
 <caption>Hornworts grow a tall and slender sporophyte. (credit: modification of work by Jason Hollinger)</caption></figure></section>
 <section id="fs-idm48896096">
 <title>Mosses</title>
-<para id="fs-idp40360992">More than 12,000 species of <term id="term-00003">mosses</term> have been catalogued. Their habitats vary from the tundra, where they are the main vegetation, to the understory of tropical forests. In the tundra, their shallow rhizoids allow them to fasten to a substrate without digging into the frozen soil. They slow down erosion, store moisture and soil nutrients, and provide shelter for small animals and food for larger herbivores, such as the musk ox. Mosses are very sensitive to air pollution and are used to monitor the quality of air. The sensitivity of mosses to copper salts makes these salts a common ingredient of compounds marketed to eliminate mosses in lawns (<link target-id="fig-ch14_02_04" document=""/>).</para>
+<para id="fs-idp40360992">More than 12,000 species of <term>mosses</term> have been catalogued. Their habitats vary from the tundra, where they are the main vegetation, to the understory of tropical forests. In the tundra, their shallow rhizoids allow them to fasten to a substrate without digging into the frozen soil. They slow down erosion, store moisture and soil nutrients, and provide shelter for small animals and food for larger herbivores, such as the musk ox. Mosses are very sensitive to air pollution and are used to monitor the quality of air. The sensitivity of mosses to copper salts makes these salts a common ingredient of compounds marketed to eliminate mosses in lawns (<link target-id="fig-ch14_02_04" document=""/>).</para>
 <figure id="fig-ch14_02_04"><media id="fs-idp145979824" alt=" A close-up photo of green, feathery moss with many reddish brown sporophytes growing upwards. Each sporophyte has a goblet-shaped tip.">
 <image mime-type="image/jpg" src="../../media/Figure_14_02_04.jpg" width="300"/>
 </media>
@@ -54,8 +54,8 @@
 <para id="fs-idp146021584">The vascular plants are the dominant and most conspicuous group of land plants. There are about 275,000 species of vascular plants, which represent more than 90 percent of Earth’s vegetation. Several evolutionary innovations explain their success and their spread to so many habitats.</para>
 <section id="fs-idp42982016">
 <title>Vascular Tissue: Xylem and Phloem</title>
-<para id="fs-idp56148928">The first fossils that show the presence of vascular tissue are dated to the Silurian period, about 430 million years ago. The simplest arrangement of conductive cells shows a pattern of xylem at the center surrounded by phloem. <term id="term-00004">Xylem</term> is the tissue responsible for long-distance transport of water and minerals, the transfer of water-soluble growth factors from the organs of synthesis to the target organs, and storage of water and nutrients.</para>
-<para id="fs-idp2623168">A second type of vascular tissue is <term id="term-00005">phloem</term>, which transports sugars, proteins, and other solutes through the plant. Phloem cells are divided into sieve elements, or conducting cells, and supportive tissue. Together, xylem and phloem tissues form the vascular system of plants.</para>
+<para id="fs-idp56148928">The first fossils that show the presence of vascular tissue are dated to the Silurian period, about 430 million years ago. The simplest arrangement of conductive cells shows a pattern of xylem at the center surrounded by phloem. <term>Xylem</term> is the tissue responsible for long-distance transport of water and minerals, the transfer of water-soluble growth factors from the organs of synthesis to the target organs, and storage of water and nutrients.</para>
+<para id="fs-idp2623168">A second type of vascular tissue is <term>phloem</term>, which transports sugars, proteins, and other solutes through the plant. Phloem cells are divided into sieve elements, or conducting cells, and supportive tissue. Together, xylem and phloem tissues form the vascular system of plants.</para>
 </section>
 <section id="fs-idp58247824">
 <title>Roots: Support for the Plant</title>
@@ -64,7 +64,7 @@
 <section id="fs-idp1899568">
 <title>Leaves, Sporophylls, and Strobili</title>
 <para id="fs-idp24650544">A third adaptation marks seedless vascular plants. Accompanying the prominence of the sporophyte and the development of vascular tissue, the appearance of true leaves improved photosynthetic efficiency. Leaves capture more sunlight with their increased surface area.</para>
-<para id="fs-idm37213488">In addition to photosynthesis, leaves play another role in the life of the plants. Pinecones, mature fronds of ferns, and flowers are all <term id="term-00006">sporophylls</term>—leaves that were modified structurally to bear sporangia. <term id="term-00007">Strobili</term> are structures that contain the sporangia. They are prominent in conifers and are known commonly as cones: for example, the pine cones of pine trees.</para>
+<para id="fs-idm37213488">In addition to photosynthesis, leaves play another role in the life of the plants. Pinecones, mature fronds of ferns, and flowers are all <term>sporophylls</term>—leaves that were modified structurally to bear sporangia. <term>Strobili</term> are structures that contain the sporangia. They are prominent in conifers and are known commonly as cones: for example, the pine cones of pine trees.</para>
 </section>
 </section>
 <section id="fs-idm18672272">
@@ -73,7 +73,7 @@
 <para id="fs-idp21283552">Water is still required for fertilization of seedless vascular plants, and most favor a moist environment. Modern-day seedless vascular plants include club mosses, horsetails, ferns, and whisk ferns.</para>
 <section id="fs-idp119661728">
 <title>Club Mosses</title>
-<para id="fs-idp145899664">The <term id="term-00008">club mosses</term>, or Lycophyta, are the earliest group of seedless vascular plants. They dominated the landscape of the Carboniferous period, growing into tall trees and forming large swamp forests. Today’s club mosses are diminutive, evergreen plants consisting of a stem (which may be branched) and small leaves called microphylls (<link target-id="fig-ch14_02_05" document=""/>). The division Lycophyta consists of close to 1,000 species, including quillworts (<emphasis effect="italics">Isoetales</emphasis>), club mosses (Lycopodiales), and spike mosses (Selaginellales): none of which is a true moss.</para>
+<para id="fs-idp145899664">The <term>club mosses</term>, or Lycophyta, are the earliest group of seedless vascular plants. They dominated the landscape of the Carboniferous period, growing into tall trees and forming large swamp forests. Today’s club mosses are diminutive, evergreen plants consisting of a stem (which may be branched) and small leaves called microphylls (<link target-id="fig-ch14_02_05" document=""/>). The division Lycophyta consists of close to 1,000 species, including quillworts (<emphasis effect="italics">Isoetales</emphasis>), club mosses (Lycopodiales), and spike mosses (Selaginellales): none of which is a true moss.</para>
 <figure id="fig-ch14_02_05"><media id="fs-idp90922496" alt=" In the photo club moss stems have the appearance of long, slender stalks.">
 <image mime-type="image/jpg" src="../../media/Figure_14_02_05-1f25.jpg" width="300"/>
 </media>
@@ -81,7 +81,7 @@
 <caption><emphasis effect="italics">Lycopodium clavatum </emphasis>is a club moss. (credit: Cory Zanker)</caption></figure></section>
 <section id="fs-idp247376560">
 <title>Horsetails</title>
-<para id="fs-idp87931008">Ferns and whisk ferns belong to the division Pterophyta. A third group of plants in the Pterophyta, the horsetails, is sometimes classified separately from ferns. <term id="term-00009">Horsetails</term> have a single genus, <emphasis effect="italics">Equisetum</emphasis>. They are the survivors of a large group of plants, known as Arthrophyta, which produced large trees and entire swamp forests in the Carboniferous. The plants are usually found in damp environments and marshes (<link target-id="fig-ch14_02_06" document=""/>).</para>
+<para id="fs-idp87931008">Ferns and whisk ferns belong to the division Pterophyta. A third group of plants in the Pterophyta, the horsetails, is sometimes classified separately from ferns. <term>Horsetails</term> have a single genus, <emphasis effect="italics">Equisetum</emphasis>. They are the survivors of a large group of plants, known as Arthrophyta, which produced large trees and entire swamp forests in the Carboniferous. The plants are usually found in damp environments and marshes (<link target-id="fig-ch14_02_06" document=""/>).</para>
 <figure id="fig-ch14_02_06"><media id="fs-idp49546592" alt=" In the photo horsetails are bushy and grow in water.">
 <image mime-type="image/jpg" src="../../media/Figure_14_02_06.jpg" width="300"/>
 </media>
@@ -94,8 +94,8 @@
 <caption>Thin leaves originating at the joints are noticeable on the horsetail plant. (credit: Myriam Feldman)</caption></figure></section>
 <section id="fs-idp9004608">
 <title>Ferns and Whisk Ferns</title>
-<para id="fs-idm6412352">Ferns are considered the most advanced seedless vascular plants and display characteristics commonly observed in seed plants. Ferns form large leaves and branching roots. In contrast, <term id="term-00010">whisk ferns</term>, the psilophytes, lack both roots and leaves, which were probably lost by evolutionary reduction. Evolutionary reduction is a process by which natural selection reduces the size of a structure that is no longer favorable in a particular environment. Photosynthesis takes place in the green stem of a whisk fern. Small yellow knobs form at the tip of the branch stem and contain the sporangia. Whisk ferns have been classified outside the true ferns; however, recent comparative analysis of DNA suggests that this group may have lost both vascular tissue and roots through evolution, and is actually closely related to ferns.</para>
-<para id="fs-idp89744512">With their large fronds, <term id="term-00011">ferns</term> are the most readily recognizable seedless vascular plants (<link target-id="fig-ch14_02_08" document=""/>). About 12,000 species of ferns live in environments ranging from tropics to temperate forests. Although some species survive in dry environments, most ferns are restricted to moist and shaded places. They made their appearance in the fossil record during the Devonian period (416–359 million years ago) and expanded during the Carboniferous period, 359–299 million years ago (<link target-id="fig-ch14_02_09" document=""/>).</para>
+<para id="fs-idm6412352">Ferns are considered the most advanced seedless vascular plants and display characteristics commonly observed in seed plants. Ferns form large leaves and branching roots. In contrast, <term>whisk ferns</term>, the psilophytes, lack both roots and leaves, which were probably lost by evolutionary reduction. Evolutionary reduction is a process by which natural selection reduces the size of a structure that is no longer favorable in a particular environment. Photosynthesis takes place in the green stem of a whisk fern. Small yellow knobs form at the tip of the branch stem and contain the sporangia. Whisk ferns have been classified outside the true ferns; however, recent comparative analysis of DNA suggests that this group may have lost both vascular tissue and roots through evolution, and is actually closely related to ferns.</para>
+<para id="fs-idp89744512">With their large fronds, <term>ferns</term> are the most readily recognizable seedless vascular plants (<link target-id="fig-ch14_02_08" document=""/>). About 12,000 species of ferns live in environments ranging from tropics to temperate forests. Although some species survive in dry environments, most ferns are restricted to moist and shaded places. They made their appearance in the fossil record during the Devonian period (416–359 million years ago) and expanded during the Carboniferous period, 359–299 million years ago (<link target-id="fig-ch14_02_09" document=""/>).</para>
 <figure id="fig-ch14_02_08"><media id="fs-idp165652384" alt=" Photo shows a potted fern.">
 <image mime-type="image/jpg" src="../../media/Figure_14_02_08.jpg" width="300"/>
 </media>

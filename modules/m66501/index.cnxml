@@ -1,0 +1,194 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Ribosomes and Protein Synthesis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66501</md:content-id>
+  <md:title>Ribosomes and Protein Synthesis</md:title>
+  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+<item>Describe the different steps in protein synthesis</item>
+<item>Discuss the role of ribosomes in protein synthesis</item>
+</list></md:abstract>
+  <md:uuid>1ffcc036-2fbe-48b9-8b19-becb593cce28</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2195690">The synthesis of proteins consumes more of a cell’s energy than any other metabolic process. In turn, proteins account for more mass than any other component of living organisms (with the exception of water), and proteins perform virtually every function of a cell. The process of translation, or protein synthesis, involves the decoding of an mRNA message into a polypeptide product. Amino acids are covalently strung together by interlinking peptide bonds in lengths ranging from approximately 50 to more than 1000 amino acid residues. Each individual amino acid has an amino group (NH<sub>2</sub>) and a carboxyl (COOH) group. Polypeptides are formed when the amino group of one amino acid forms an amide (i.e., peptide) bond with the carboxyl group of another amino acid (<link target-id="fig-ch15_05_01" document=""/>). This reaction is catalyzed by ribosomes and generates one water molecule.</para><figure id="fig-ch15_05_01"><media id="fs-id1236580" alt="Illustration shows two amino acids side-by-side. Each amino acid has an amino group, a carboxyl group, and a side chain labeled R or R prime. Upon formation of a peptide bond, the amino group is joined to the carboxyl group. A water molecule is released in the process.">
+<image mime-type="image/jpg" src="../../media/Figure_15_05_01-3c2f.jpg" width="280"/>
+</media>
+<caption>A peptide bond links the carboxyl end of one amino acid with the amino end of another, producing one water molecule during the process. For simplicity in this image, only the functional groups involved in the peptide bond are shown. The R and R' designations refer to the rest of each amino acid structure.</caption></figure><section id="fs-id2009587">
+<title>The Protein Synthesis Machinery</title>
+<para id="fs-id2739564">In addition to the mRNA template, many molecules and macromolecules contribute to the process of translation. The composition of each component may vary across species; for example, ribosomes may consist of different numbers of rRNAs and polypeptides depending on the organism. However, the general structures and functions of the protein synthesis machinery are comparable from bacteria to human cells. Translation requires the input of an mRNA template, ribosomes, tRNAs, and various enzymatic factors. (Note: A ribosome can be thought of as an enzyme whose amino acid binding sites are specified by mRNA.)</para>
+<note id="fs-id2046909" class="interactive"><label/><title>Link to Learning</title> 
+<para id="fs-id2694589">Click through the steps of this <link window="new" url="http://openstax.org/l/prokary_protein">PBS interactive</link> to see protein synthesis in action.</para></note><section id="fs-id1425631">
+<title>Ribosomes</title>
+<para id="fs-id1769427">Even before an mRNA is translated, a cell must invest energy to build each of its ribosomes. In <emphasis effect="italics">E. coli</emphasis>, there are between 10,000 and 70,000 ribosomes present in each cell at any given time. A <term>ribosome</term> is a complex macromolecule composed of structural and catalytic rRNAs, and many distinct polypeptides. In eukaryotes, the nucleolus is completely specialized for the synthesis and assembly of rRNAs.</para><para id="fs-id2000981">Ribosomes exist in the cytoplasm of prokaryotes and in the cytoplasm and rough endoplasmic reticulum of eukaryotes. Mitochondria and chloroplasts also have their own ribosomes in the matrix and stroma, which look more similar to prokaryotic ribosomes (and have similar drug sensitivities) than the ribosomes just outside their outer membranes in the cytoplasm. Ribosomes dissociate into large and small subunits when they are not synthesizing proteins and reassociate during the initiation of translation. <emphasis effect="italics">In E. coli, the small subunit is described as 30S, and the large subunit is 50S, for a total of 70S (recall that Svedberg units are not additive).</emphasis> Mammalian ribosomes have a small 40S subunit and a large 60S subunit, for a total of 80S. The small subunit is responsible for binding the mRNA template, whereas the large subunit sequentially binds tRNAs. Each mRNA molecule is simultaneously translated by many ribosomes, all synthesizing protein in the same direction: reading the mRNA from 5' to 3' and synthesizing the polypeptide from the N terminus to the C terminus. The complete mRNA/poly-ribosome structure is called a <term>polysome</term>.</para>
+</section>
+<section id="fs-id2897379"><title>tRNAs</title><para id="fs-id1613052">The tRNAs are structural RNA molecules that were transcribed from genes by RNA polymerase III. Depending on the species, 40 to 60 types of tRNAs exist in the cytoplasm. Transfer RNAs serve as adaptor molecules. Each tRNA carries a specific amino acid and recognizes one or more of the mRNA codons that define the order of amino acids in a protein. Aminoacyl-tRNAs bind to the ribosome and add the corresponding amino acid to the polypeptide chain. Therefore, tRNAs are the molecules that actually “translate” the language of RNA into the language of proteins.</para>
+<para id="fs-id2853827">Of the 64 possible mRNA codons—or triplet combinations of A, U, G, and C—three specify the termination of protein synthesis and 61 specify the addition of amino acids to the polypeptide chain. Of these 61, one codon (AUG) also encodes the initiation of translation. Each tRNA anticodon can base pair with one or more of the mRNA codons for its amino acid. For instance, if the sequence CUA occurred on an mRNA template in the proper reading frame, it would bind a leucine tRNA expressing the complementary sequence, GAU. The ability of some tRNAs to match more than one codon is what gives the genetic code its blocky structure.</para>
+<para id="fs-id3063554">As the adaptor molecules of translation, it is surprising that tRNAs can fit so much specificity into such a small package. Consider that tRNAs need to interact with three factors: 1) they must be recognized by the correct aminoacyl synthetase (see below); 2) they must be recognized by ribosomes; and 3) they must bind to the correct sequence in mRNA.</para>
+<figure id="eip-idm516808432">
+  <title/>
+  <media id="eip-idm522050048" alt="Ribosome structure is shown with the E site, P site, and A site.  As ribosomes move along m R N A, t R N As with amino acides bind to the sites. The polypeptide is assembled at the P site, and the empty t R N A exits from the E site.">
+    <image mime-type="image/png" src="../../media/ribosomestructure.png"/>
+  </media>
+<caption>The ribosome and its function. The ribosome is responsible for translating the mRNA into protein. A. The ribosome consists of a large and small ribosomal subunit. Assembly of the subunits on the mRNA forms three tRNA binding sites. B. During translation, charged tRNAs enter the Acceptor site, and the anticodon on the tRNA base pairs with the codon in the mRNA. After the incoming amino acid forms a peptide bond with the growing polypeptide chain, the ribosome will move three nucleotides toward the 3’ end of the mRNA. This movement will transfer the tRNA with the growing polypeptide to the Peptidyl-tRNA binding site and allow the empty tRNA to exit at the Exit site. Credit: Rao, A., Ryan, K. and Fletcher, S. Department of Biology, Texas A&amp;M University.</caption>
+</figure></section><section id="fs-id1461234"><title>Aminoacyl tRNA Synthetases</title><para id="fs-id1720501">The process of pre-tRNA synthesis by RNA polymerase III only creates the RNA portion of the adaptor molecule. The corresponding amino acid must be added later, once the tRNA is processed and exported to the cytoplasm. Through the process of tRNA “charging,” each tRNA molecule is linked to its correct amino acid by one of a group of enzymes called <term>aminoacyl tRNA synthetases</term>. At least one type of aminoacyl tRNA synthetase exists for each of the 20 amino acids; the exact number of aminoacyl tRNA synthetases varies by species. These enzymes first bind and hydrolyze ATP to catalyze a high-energy bond between an amino acid and adenosine monophosphate (AMP); a pyrophosphate molecule is expelled in this reaction. The activated amino acid is then transferred to the tRNA, and AMP is released. The term "charging" is appropriate, since the high-energy bond that attaches an amino acid to its tRNA is later used to drive the formation of the peptide bond. Each tRNA is named for its amino acid.</para>
+<figure id="eip-idm505597312">
+  <media id="eip-idm661568656" alt="Amino Acid and tRNA Enter Active site. In this case, cysteine amino acid and sis T R N A bind to the active site of aminoacyl T R N A.  A T P is consumed. As a result, aminoacyl T R N A synthetase catalyzes covalent bonding.">
+    <image mime-type="image/png" src="../../media/aminoandtrna.png"/>
+  </media>
+<caption>Charging of tRNAs with correct amino acids. Aminoacyl-tRNA synthetases catalyze covalent bond formation between the tRNA and the correct amino acid in preparation for translation. Because there are multiple amino acids, there are multiple different tRNA synthetases. All of the synthetases require energy, in the form of ATP, to make sure the correct amino acid is attached to the tRNA with the correct anticodon sequence. Credit: Rao, A., Ryan, K. and Tag, A. Department of Biology, Texas A&amp;M University.</caption>
+</figure></section></section>
+<section id="fs-id1986668">
+<title>The Mechanism of Protein Synthesis</title>
+<para id="fs-id2334597">As with mRNA synthesis, protein synthesis can be divided into three phases: <emphasis effect="italics">initiation, elongation, and termination</emphasis>. The process of translation is similar in prokaryotes and eukaryotes. Here we’ll explore how translation occurs in <emphasis effect="italics">E. coli</emphasis>, a representative prokaryote, and specify any differences between prokaryotic and eukaryotic translation.</para>
+<section id="fs-id2321391">
+<title>Initiation of Translation</title>
+<para id="fs-id1240070">Protein synthesis begins with the formation of an <term>initiation complex</term>. In <emphasis effect="italics">E. coli</emphasis>, this complex involves the small 30S ribosome, the mRNA template, three initiation factors (IFs; IF-1, IF-2, and IF-3), and a special <term>initiator tRNA</term>, called tRNA<sup>Metf</sup>.</para>
+<para id="fs-id1240170">In <emphasis effect="italics">E. coli</emphasis> mRNA, a sequence upstream of the first AUG codon, called the Shine-Dalgarno sequence (AGGAGG), interacts with the rRNA molecules that compose the ribosome. This interaction anchors the 30S ribosomal subunit at the correct location on the mRNA template. Guanosine triphosphate (GTP), which is a purine nucleotide triphosphate, acts as an energy source during translation—both at the start of elongation and during the ribosome’s translocation. Binding of the mRNA to the 30S ribosome also requires IF-III.</para>
+<para id="fs-id1240270">The initiator tRNA then interacts with the <term>start codon</term> AUG (or rarely, GUG). This tRNA carries the amino acid methionine, which is formylated after its attachment to the tRNA. The formylation creates a "faux" peptide bond between the formyl carboxyl group and the amino group of the methionine. Binding of the fMet-tRNA<sup>Metf</sup> is mediated by the initiation factor IF-2. The fMet begins every polypeptide chain synthesized by <emphasis effect="italics">E. coli</emphasis>, but it is usually removed after translation is complete. When an in-frame AUG is encountered during translation elongation, a non-formylated methionine is inserted by a regular Met-tRNA<sup>Met</sup>. After the formation of the initiation complex, the 30S ribosomal subunit is joined by the 50S subunit to form the translation complex. In eukaryotes, a similar initiation complex forms, comprising mRNA, the 40S small ribosomal subunit, eukaryotic IFs, and nucleoside triphosphates (GTP and ATP). The methionine on the charged initiator tRNA, called Met-tRNA<sub>i</sub>, is not formylated. However, Met-tRNA<sub>i</sub> is distinct from other Met-tRNAs in that it can bind IFs.</para><para id="fs-id3053365">Instead of depositing at the Shine-Dalgarno sequence, the eukaryotic initiation complex recognizes the 7-methylguanosine cap at the 5' end of the mRNA. A cap-binding protein (CBP) and several other IFs assist the movement of the ribosome to the 5' cap. Once at the cap, the initiation complex tracks along the mRNA in the 5' to 3' direction, searching for the AUG start codon. Many eukaryotic mRNAs are translated from the first AUG, but this is not always the case. According to <term>Kozak’s rules</term>, the nucleotides around the AUG indicate whether it is the correct start codon. Kozak’s rules state that the following consensus sequence must appear around the AUG of vertebrate genes: 5'-gccRccAUGG-3'. The R (for purine) indicates a site that can be either A or G, but cannot be C or U. Essentially, the closer the sequence is to this consensus, the higher the efficiency of translation.</para>
+<para id="fs-id2682290">Once the appropriate AUG is identified, the other proteins and CBP dissociate, and the 60S subunit binds to the complex of Met-tRNA<sub>i</sub>, mRNA, and the 40S subunit. This step completes the initiation of translation in eukaryotes.</para>
+</section>
+<section id="fs-id2217094"><title>Translation, Elongation, and Termination</title><para id="fs-id2013469">In prokaryotes and eukaryotes, the basics of elongation are the same, so we will review elongation from the perspective of <emphasis effect="italics">E. coli</emphasis>. When the translation complex is formed, the tRNA binding region of the ribosome consists of three compartments. The A (aminoacyl) site binds incoming charged aminoacyl tRNAs. The P (peptidyl) site binds charged tRNAs carrying amino acids that have formed peptide bonds with the growing polypeptide chain but have not yet dissociated from their corresponding tRNA. The E (exit) site releases dissociated tRNAs so that they can be recharged with free amino acids. The initiating methionyl-tRNA, however, occupies the P site at the beginning of the elongation phase of translation in both prokaryotes and eukaryotes.</para>
+<para id="fs-id1313555">During translation elongation, the mRNA template provides tRNA binding specificity. As the ribosome moves along the mRNA, each mRNA codon comes into register, and specific binding with the corresponding charged tRNA anticodon is ensured. If mRNA were not present in the elongation complex, the ribosome would bind tRNAs nonspecifically and randomly.</para><para id="fs-id2608514">Elongation proceeds with charged tRNAs sequentially entering and leaving the ribosome as each new amino acid is added to the polypeptide chain. Movement of a tRNA from A to P to E site is induced by conformational changes that advance the ribosome by three bases in the 3' direction. The energy for each step along the ribosome is donated by elongation factors that hydrolyze GTP. GTP energy is required both for the binding of a new aminoacyl-tRNA to the A site and for its translocation to the P site after formation of the peptide bond. Peptide bonds form between the amino group of the amino acid attached to the A-site tRNA and the carboxyl group of the amino acid attached to the P-site tRNA. The formation of each peptide bond is catalyzed by <term>peptidyl transferase</term>, an RNA-based enzyme that is integrated into the 50S ribosomal subunit. The energy for each peptide bond formation is derived from the high-energy bond linking each amino acid to its tRNA. After peptide bond formation, the A-site tRNA that now holds the growing peptide chain moves to the P site, and the P-site tRNA that is now empty moves to the E site and is expelled from the ribosome (<link target-id="fig-ch15_05_02" document=""/>). Amazingly, the <emphasis effect="italics">E. coli </emphasis>translation apparatus takes only 0.05 seconds to add each amino acid, meaning that a 200-amino-acid protein can be translated in just 10 seconds.</para>
+<note id="fs-id1097260" class="visual-connection"><label/><title>Visual Connection</title>
+<para id="fs-idm66901536"><figure id="fig-ch15_05_02"><media id="fs-id1786828" alt="Illustration shows the steps of protein synthesis. First, the initiator tRNA recognizes the sequence AUG on an mRNA that is associated with the small ribosomal subunit. The large subunit then joins the complex. Next, a second tRNA is recruited at the A site. A peptide bond is formed between the first amino acid, which is at the P site, and the second amino acid, which is at the A site. The mRNA then shifts and the first tRNA is moved to the E site, where it dissociates from the ribosome. Another tRNA binds at the A site, and the process is repeated. Finally, entry of a release factor into the A site terminates translation and the components dissociate at the stop codon.">
+<image mime-type="image/jpg" src="../../media/Figure_15_05_02-c4f4.png"/>
+</media>
+<caption>Translation begins when an initiator tRNA anticodon recognizes a start codon on mRNA bound to a small ribosomal subunit. The large ribosomal subunit joins the small subunit, and a second tRNA is recruited. As the mRNA moves relative to the ribosome, successive tRNAs move through the ribosome and the polypeptide chain is formed. Entry of a release factor into the A site terminates translation and the components dissociate.</caption></figure></para>
+<para id="fs-id1354131">Many antibiotics inhibit bacterial protein synthesis. For example, tetracycline blocks the A site on the bacterial ribosome, and chloramphenicol blocks peptidyl transfer. What specific effect would you expect each of these antibiotics to have on protein synthesis?</para>
+<para id="fs-id2682756">Tetracycline would directly affect:</para>
+<list id="fs-id1471212" list-type="enumerated" number-style="lower-alpha">
+<item>tRNA binding to the ribosome</item>
+<item>ribosome assembly</item>
+<item>growth of the protein chain</item>
+</list>
+<para id="fs-id2114520">Chloramphenicol would directly affect:</para>
+<list id="fs-id1803212" list-type="enumerated" number-style="lower-alpha">
+<item>tRNA binding to the ribosome</item>
+<item>ribosome assembly</item>
+<item>growth of the protein chain</item>
+</list>
+<!-- <link window="new" target-id="fig-ch15_05_02" document=""/> Tetracycline: a; Chloramphenicol: c. --></note><para id="fs-id2155698">Termination of translation occurs when a nonsense codon (UAA, UAG, or UGA) is encountered. Upon aligning with the A site, these nonsense codons are recognized by <emphasis effect="italics">protein release factors</emphasis> that resemble tRNAs. The releasing factors in both prokaryotes and eukaryotes instruct peptidyl transferase to add a water molecule to the carboxyl end of the P-site amino acid. This reaction forces the P-site amino acid to detach from its tRNA, and the newly made protein is released. The small and large ribosomal subunits dissociate from the mRNA and from each other; they are recruited almost immediately into another translation initiation complex. After many ribosomes have completed translation, the mRNA is degraded so the nucleotides can be reused in another transcription reaction.</para>
+
+<figure id="eip-idm423523536">
+  <title/>
+  <media id="eip-idm652777712" alt="The first section shows a ribosome reaching a stop codon on m R N A. The stop codon reaches the A site of the ribosome, and a release factor interacts with the A site as well.  The second section shows the polypeptide being released. 2 G T P molecules go through hydrolysis, leading to the third section.  In the third section, the ribosome subunits are shown separating, and the RNA is no longer connected to it.">
+    <image mime-type="image/png" src="../../media/translationtermination.png"/>
+  </media>
+<caption>Translation Termination is Active. Translation is terminated when a STOP codon is in the A-site of the ribosome. Since there are no tRNAs corresponding to the STOP codons, the Release Factor protein enters and catalyzes the hydrolysis between the last amino acid and its tRNA. This hydrolysis releases the free carboxyl terminus (C-term) of the protein. Additional factors use the energy in GTP hydrolysis to disassemble the large and small ribosomal subunits and mRNA. Credit: Rao, A. and Ryan, K. Department of Biology, Texas A&amp;M University.</caption>
+</figure>
+</section></section>
+<section id="fs-id2762763"><title>Protein Folding, Modification, and Targeting</title><para id="fs-id2979153">During and after translation, individual amino acids may be chemically modified, signal sequences appended, and the new protein “folded” into a distinct three-dimensional structure as a result of intramolecular interactions. A <term>signal sequence</term> is a short sequence at the amino end of a protein that directs it to a specific cellular compartment. These sequences can be thought of as the protein’s “train ticket” to its ultimate destination, and are recognized by signal-recognition proteins that act as conductors. For instance, a specific signal sequence terminus will direct a protein to the mitochondria or chloroplasts (in plants). Once the protein reaches its cellular destination, the signal sequence is usually clipped off.</para>
+<para id="fs-id2165193">Many proteins fold spontaneously, but some proteins require helper molecules, called <emphasis effect="italics">chaperones</emphasis>, to prevent them from aggregating during the complicated process of folding. Even if a protein is properly specified by its corresponding mRNA, it could take on a completely dysfunctional shape if abnormal temperature or pH conditions prevent it from folding correctly.</para>
+<figure id="eip-idm503068544">
+  <title/>
+  <media id="eip-idm432453568" alt="In the cytosol, the m R N A and Ribosome complex have a signal peptide that bonds with a signal recognition particle. Once combined, they interact with a translocation complex and signal recognition particle receptor protein in the E R Lumen.  The protein is then removed from the ribosome complex and go across the E R Membrane into the E R Lumen. ">
+    <image mime-type="image/png" src="../../media/targetedproteinformation.png"/>
+  </media>
+<caption>Proteins are co-translationally targeted into the ER for secretion. Proteins that will be secreted from the cell will contain a signal sequence at the N-terminus. The signal will be recognized by SRP as soon as the amino acids emerge from the ribosome, and the ribosome will be targeted to the translocation channel in the ER membrane. The rest of the protein will go directly from the ribosome, across the ER membrane and into the ER lumen. From the ER, proteins can be secreted from the cell via vesicle trafficking. Credit: Rao, A. and Ryan, K. Department of Biology, Texas A&amp;M University.</caption>
+</figure></section><section id="fs-id2626207" class="summary"> <title>Section Summary</title><para id="fs-id1957598">The players in translation include the mRNA template, ribosomes, tRNAs, and various enzymatic factors. The small ribosomal subunit binds to the mRNA template either at the Shine-Dalgarno sequence (prokaryotes) or the 5' cap (eukaryotes). Translation begins at the initiating AUG on the mRNA, specifying methionine. The formation of peptide bonds occurs between sequential amino acids matched to the mRNA template by their tRNAs according to the genetic code. Charged tRNAs enter the ribosomal A site, and their amino acid bonds with the amino acid at the P site. The entire mRNA is translated in three-nucleotide “steps” of the ribosome. When a nonsense codon is encountered, a release factor binds and dissociates the components and frees the new protein. Folding of the protein occurs during and after translation.</para>
+</section>
+<section id="fs-idm108194528" class="visual-exercise">
+ <title>Visual Connection Questions</title>
+ <exercise id="fs-idp7053584">
+ <problem id="fs-idm67653088"> <para id="fs-idp39443152"><link target-id="fig-ch15_05_02" document=""/> Many antibiotics inhibit bacterial protein synthesis. For example, tetracycline blocks the A site on the bacterial ribosome, and chloramphenicol blocks peptidyl transfer. What specific effect would you expect each of these antibiotics to have on protein synthesis?</para>
+ <para id="fs-idm20767424">Tetracycline would directly affect:</para>
+ <list id="fs-idp18488912" list-type="enumerated" number-style="lower-alpha">
+ <item>tRNA binding to the ribosome</item>
+ <item>ribosome assembly</item>
+ <item>growth of the protein chain</item>
+ </list>
+ <para id="fs-idp62151840">Chloramphenicol would directly affect</para>
+ <list id="fs-idp128801344" list-type="enumerated" number-style="lower-alpha">
+ <item>tRNA binding to the ribosome</item>
+ <item>ribosome assembly</item>
+ <item>growth of the protein chain</item>
+ </list>
+ </problem>
+ <solution id="fs-idm128656560"><label/>
+ <para id="fs-idp66684464"><link target-id="fig-ch15_05_02" document=""/> Tetracycline: a; Chloramphenicol: c.</para>
+ </solution>
+ </exercise>
+</section>
+<section id="fs-id1381048" class="multiple-choice"> <title>Review Questions</title><exercise id="fs-id2904762">
+<problem id="fs-id1644930"><para id="fs-id1812931"> The RNA components of ribosomes are synthesized in the ________.</para>
+<list id="fs-id1970715" list-type="enumerated" number-style="lower-alpha">
+<item>cytoplasm</item>
+<item>nucleus</item>
+<item>nucleolus</item>
+<item>endoplasmic reticulum</item>
+</list>
+</problem>
+<solution id="fs-id2595784"> <label/> <para id="fs-id1977751">C</para> </solution>
+</exercise>
+<exercise id="fs-id2991759">
+<problem id="fs-id2962890"><para id="fs-id2169252">In any given species, there are at least how many types of aminoacyl tRNA synthetases?</para>
+<list id="fs-id2750159" list-type="enumerated" number-style="lower-alpha">
+<item>20</item>
+<item>40</item>
+<item>100</item>
+<item>200</item>
+</list>
+</problem>
+<solution id="fs-id1828761"> <label/> <para id="fs-id1248186">A</para> </solution>
+</exercise><exercise id="eip-874"><problem id="eip-103">
+ <para id="eip-375">
+ A scientist introduces a mutation that makes the 60S ribosomal subunit nonfunctional in a human cell line. What would be the predicted effect on translation?
+ </para>
+<list id="fs-listid005" list-type="enumerated" number-style="lower-alpha">
+<item>Translation stalls after the initiation AUG codon is identified.</item>
+<item>The ribosome cannot catalyze the formation of peptide bonds between the tRNAs in the A and P sites.</item>
+<item>The ribosome cannot interact with mRNAs.</item>
+<item>tRNAs cannot exit the E site of the ribosome.</item>
+</list>
+</problem>
+<solution id="eip-280"><label/>
+ <para id="eip-952">
+ A
+ </para>
+</solution>
+</exercise></section>
+<section id="fs-id2316839" class="critical-thinking"> <title>Critical Thinking Questions</title>
+<exercise id="fs-id2200536">
+<problem id="fs-id2023354"><para id="fs-id2062496">Transcribe and translate the following DNA sequence (nontemplate strand): 5'-ATGGCCGGTTATTAAGCA-3'</para></problem>
+<solution id="fs-id1720804"><label/> <para id="fs-id2626001">The mRNA would be: 5'-AUGGCCGGUUAUUAAGCA-3'. The protein would be: MAGY. Even though there are six codons, the fifth codon corresponds to a stop, so the sixth codon would not be translated.</para></solution>
+</exercise>
+<exercise id="fs-id2119483">
+<problem id="fs-id2890873"><para id="fs-id2318009">Explain how single nucleotide changes can have vastly different effects on protein function.</para></problem>
+<solution id="fs-id2853893"><label/> <para id="fs-id2583976">Nucleotide changes in the third position of codons may not change the amino acid and would have no effect on the protein. Other nucleotide changes that change important amino acids or create or delete start or stop codons would have severe effects on the amino acid sequence of the protein.</para></solution>
+</exercise><exercise id="eip-49"><problem id="eip-681">
+ <para id="eip-241">
+ A normal mRNA that reads 5’ – UGCCAUGGUAAUAACACAUGAGGCCUGAAC– 3’ has an insertion mutation that changes the sequence to 5’ -UGCCAUGG<emphasis effect="bold">U</emphasis>UAAUAACACAUGAGGCCUGAAC– 3’. Translate the original mRNA and the mutated mRNA, and explain how insertion mutations can have dramatic effects on proteins. (Hint: Be sure to find the initiation site.)
+ </para>
+</problem>
+<solution id="eip-845"><label/>
+ <para id="eip-848">
+ Original mRNA: 5’ –UGCC AUG GUA AUA ACA CAU GAG GCC UGA AC– 3’;
+ </para>
+ <para id="eip-849">
+ Translation: Met – Val – Ile – Thr – His – Glu – Ala;
+ </para>
+ <para id="eip-850">
+ Mutated mRNA: 5’ –UGCC AUG G<emphasis effect="bold">U</emphasis>U AAU AAC ACA UGA GGCCUGAAC– 3’;
+ </para>
+ <para id="eip-851">
+ Translation: Met – Val – Asn – Asn – Thr;
+ </para>
+ <para id="eip-852">
+ Insertion mutations can have dramatic effects on proteins because they shift the reading frame for the codons. This changes the amino acids encoded by the mRNA, and can introduce premature start or stop sites.
+ </para>
+</solution>
+</exercise>
+</section> 
+ </content>
+<glossary>
+<definition id="fs-id2629848"><term>aminoacyl tRNA synthetase</term> <meaning id="fs-id2344953">enzyme that “charges” tRNA molecules by catalyzing a bond between the tRNA and a corresponding amino acid</meaning></definition>
+<definition id="fs-id2690319"><term>initiator tRNA</term> <meaning id="fs-id2316390">in prokaryotes, called <m:math display=""><m:mrow><m:mi>t</m:mi><m:mi>R</m:mi><m:mi>N</m:mi><m:msubsup><m:mi>A</m:mi><m:mi>f</m:mi><m:mrow><m:mi>M</m:mi><m:mi>e</m:mi><m:mi>t</m:mi></m:mrow></m:msubsup></m:mrow></m:math>; in eukaryotes, called tRNA<sub>i</sub>; a tRNA that interacts with a start codon, binds directly to the ribosome P site, and links to a special methionine to begin a polypeptide chain</meaning></definition>
+<definition id="fs-id1571225"><term>Kozak’s rules</term> <meaning id="fs-id1671263">determines the correct initiation AUG in a eukaryotic mRNA; the following consensus sequence must appear around the AUG: 5’-GCC(<emphasis effect="bold">purine</emphasis>)CC<emphasis effect="underline">AUG</emphasis><emphasis effect="bold">G</emphasis>-3’; the bolded bases are most important</meaning></definition>
+<definition id="fs-id2013729"><term>peptidyl transferase</term> <meaning id="fs-id1318146">RNA-based enzyme that is integrated into the 50S ribosomal subunit and catalyzes the formation of peptide bonds</meaning></definition>
+<definition id="fs-id1353661"><term>polysome</term> <meaning id="fs-id1468808">mRNA molecule simultaneously being translated by many ribosomes all going in the same direction</meaning></definition>
+<definition id="fs-id1443575"><term>Shine-Dalgarno sequence</term> <meaning id="fs-id1571272">(AGGAGG); initiates prokaryotic translation by interacting with rRNA molecules comprising the 30S ribosome</meaning></definition>
+<definition id="fs-id913117"><term>signal sequence</term> <meaning id="fs-id2682844">short tail of amino acids that directs a protein to a specific cellular compartment</meaning></definition>
+<definition id="fs-id1454478"><term>start codon</term> <meaning id="fs-id1476481">AUG (or rarely, GUG) on an mRNA from which translation begins; always specifies methionine</meaning></definition>
+</glossary>
+</document>

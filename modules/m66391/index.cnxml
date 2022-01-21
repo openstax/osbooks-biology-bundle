@@ -1,0 +1,109 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>DNA Replication in Eukaryotes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66391</md:content-id>
+  <md:title>DNA Replication in Eukaryotes</md:title>
+  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+<item>Discuss the similarities and differences between DNA replication in eukaryotes and prokaryotes</item>
+<item>State the role of telomerase in DNA replication</item>
+</list></md:abstract>
+  <md:uuid>82ac346c-44a2-4256-b33f-b3f6c9386613</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1975225">Eukaryotic genomes are much more complex and larger in size than prokaryotic genomes. Eukaryotes also have a number of different linear chromosomes. The human genome has 3 billion base pairs per haploid set of chromosomes, and 6 billion base pairs are replicated during the S phase of the cell cycle. There are multiple origins of replication on each eukaryotic chromosome; humans can have up to 100,000 origins of replication across the genome. The rate of replication is approximately 100 nucleotides per second, much slower than prokaryotic replication. In yeast, which is a eukaryote, special sequences known as autonomously replicating sequences (ARS) are found on the chromosomes. These are equivalent to the origin of replication in <emphasis effect="italics">E. coli</emphasis>.</para>
+<para id="fs-id1482304">The number of DNA polymerases in eukaryotes is much more than in prokaryotes: 14 are known, of which five are known to have major roles during replication and have been well studied. They are known as pol <emphasis effect="italics">α</emphasis>, pol <emphasis effect="italics">β</emphasis>, pol <emphasis effect="italics">γ</emphasis>, pol <emphasis effect="italics">δ</emphasis>, and pol <emphasis effect="italics">ε</emphasis>.</para>
+<para id="fs-id2904988">The essential steps of replication are the same as in prokaryotes. Before replication can start, the DNA has to be made available as a template. Eukaryotic DNA is bound to basic proteins known as histones to form structures called nucleosomes. Histones must be removed and then replaced during the replication process, which helps to account for the lower replication rate in eukaryotes. The chromatin (the complex between DNA and proteins) may undergo some chemical modifications, so that the DNA may be able to slide off the proteins or be accessible to the enzymes of the DNA replication machinery. At the origin of replication, a pre-replication complex is made with other initiator proteins. Helicase and other proteins are then recruited to start the replication process (<link target-id="tab-ch14_05_01" document=""/>).</para>
+<table id="tab-ch14_05_01" class="top-titled" summary="">
+        <tgroup cols="3">
+            <colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row><entry namest="col1" nameend="col3" align="left">Difference between Prokaryotic and Eukaryotic Replication</entry></row>
+<row><entry>Property</entry><entry>Prokaryotes</entry><entry>Eukaryotes</entry></row>
+</thead>
+<tbody>
+<row><entry>Origin of replication</entry><entry>Single</entry><entry>Multiple</entry></row>
+<row><entry>Rate of replication</entry><entry>1000 nucleotides/s</entry><entry>50 to 100 nucleotides/s</entry></row>
+<row><entry>DNA polymerase types</entry><entry>5</entry><entry>14</entry></row>
+<row><entry>Telomerase</entry><entry>Not present</entry><entry>Present</entry></row>
+<row><entry>RNA primer removal</entry><entry>DNA pol I</entry><entry>RNase H</entry></row>
+<row><entry>Strand elongation</entry><entry>DNA pol III</entry><entry>Pol α, pol δ, pol ε</entry></row>
+<row><entry>Sliding clamp</entry><entry>Sliding clamp</entry><entry>PCNA</entry></row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id2018337">A helicase using the energy from ATP hydrolysis opens up the DNA helix. Replication forks are formed at each replication origin as the DNA unwinds. The opening of the double helix causes over-winding, or supercoiling, in the DNA ahead of the replication fork. These are resolved with the action of topoisomerases. Primers are formed by the enzyme primase, and using the primer, DNA pol can start synthesis. Three major DNA polymerases are then involved: α, δ and ε. DNA pol α adds a short (20 to 30 nucleotides) DNA fragment to the RNA primer on both strands, and then hands off to a second polymerase. While the leading strand is continuously synthesized by the enzyme pol <emphasis effect="italics">ε</emphasis>, the lagging strand is synthesized by pol <emphasis effect="italics">δ</emphasis>. A sliding clamp protein known as PCNA (proliferating cell nuclear antigen) holds the DNA pol in place so that it does not slide off the DNA. As pol δ runs into the primer RNA on the lagging strand, it displaces it from the DNA template. The displaced primer RNA is then removed by RNase H (AKA flap endonuclease) and replaced with DNA nucleotides. The Okazaki fragments in the lagging strand are joined after the replacement of the RNA primers with DNA. The gaps that remain are sealed by DNA ligase, which forms the phosphodiester bond.</para>
+<section id="fs-id1272063">
+<title>Telomere replication</title>
+<para id="fs-id2030086">Unlike prokaryotic chromosomes, eukaryotic chromosomes are linear. As you’ve learned, the enzyme DNA pol can add nucleotides only in the 5' to 3' direction. In the leading strand, synthesis continues until the end of the chromosome is reached. On the lagging strand, DNA is synthesized in short stretches, each of which is initiated by a separate primer. When the replication fork reaches the end of the linear chromosome, there is no way to replace the primer on the 5’ end of the lagging strand. The DNA at the ends of the chromosome thus remains unpaired, and over time these ends, called <emphasis effect="bold">telomeres,</emphasis> may get progressively shorter as cells continue to divide.</para>
+<para id="fs-id1318769">Telomeres comprise repetitive sequences that code for no particular gene. In humans, a six-base-pair sequence, TTAGGG, is repeated 100 to 1000 times in the telomere regions. In a way, these telomeres protect the genes from getting deleted as cells continue to divide. The telomeres are added to the ends of chromosomes by a separate enzyme, telomerase (<link target-id="fig-ch14_05_02" document=""/>), whose discovery helped in the understanding of how these repetitive chromosome ends are maintained. The <term>telomerase</term> enzyme contains a catalytic part and a built-in RNA template. It attaches to the end of the chromosome, and DNA nucleotides complementary to the RNA template are added on the 3' end of the DNA strand. Once the 3' end of the lagging strand template is sufficiently elongated, DNA polymerase can add the nucleotides complementary to the ends of the chromosomes. Thus, the ends of the chromosomes are replicated.</para>
+<figure id="fig-ch14_05_01"><media id="fs-id1986139" alt="The process of Telomere Replication is shown. The starting image has an unreplicated end, and is missing DNA on the lagging strang.  Telomerase has an associated R N A that complements the 5 prime overhang at the end of the chromosome, creating an extension of the unreplicated end. The R N A template is used to synthesize the complementary strand, and telomerase again extends the unreplicated end. Telomerase then shifts, and the process is repeated. Next, primase and D N A polymerase synthesize the rest of the complementary strand. And the lagging strand is completed.">
+<image mime-type="image/png" src="../../media/Figure_14_05_01.png"/>
+</media>
+<caption>The ends of linear chromosomes are maintained by the action of the telomerase enzyme. Credit: Rao, A. and Fletcher, S. Department of Biology, Texas A&amp;M University.</caption></figure><para id="fs-id1721035">Telomerase is typically active in germ cells and adult stem cells. It is not active in adult somatic cells. For their discovery of telomerase and its action, Elizabeth Blackburn, Carol W. Greider, and Jack W. Szostak (<link target-id="fig-ch14_05_02" document=""/>) received the Nobel Prize for Medicine and Physiology in 2009. Later research using HeLa cells (obtained from Henrietta Lacks)  confirmed that telomerase is present in human cells. And in 2001, researchers including Diane L. Wright found that telomerase is necessary for cells in human embryos to rapidly proliferate.</para>
+<figure id="fig-ch14_05_02"><media id="fs-id2318509" alt="Photo of Elizabeth Blackburn.">
+<image mime-type="image/jpg" src="../../media/Figure_14_05_02.jpg" width="320"/>
+</media>
+<caption>Elizabeth Blackburn, 2009 Nobel Laureate, is one of the scientists who discovered how telomerase works. (credit: US Embassy Sweden)</caption></figure><section id="fs-id2150202">
+<title>Telomerase and Aging</title>
+<para id="fs-id2199338">Cells that undergo cell division continue to have their telomeres shortened because most somatic cells do not make telomerase. This essentially means that telomere shortening is associated with aging. With the advent of modern medicine, preventative health care, and healthier lifestyles, the human life span has increased, and there is an increasing demand for people to look younger and have a better quality of life as they grow older.</para>
+<para id="fs-id2196973">In 2010, scientists found that telomerase can reverse some age-related conditions in mice. This may have potential in regenerative medicine.<footnote id="fs-id1477114">Jaskelioff et al., “Telomerase reactivation reverses tissue degeneration in aged telomerase-deficient mice,” <emphasis effect="italics">Nature</emphasis> 469 (2011): 102-7.</footnote> Telomerase-deficient mice were used in these studies; these mice have tissue atrophy, stem cell depletion, organ system failure, and impaired tissue injury responses. Telomerase reactivation in these mice caused extension of telomeres, reduced DNA damage, reversed neurodegeneration, and improved the function of the testes, spleen, and intestines. Thus, telomere reactivation may have potential for treating age-related diseases in humans.</para>
+<para id="fs-id2370326">Cancer is characterized by uncontrolled cell division of abnormal cells. The cells accumulate mutations, proliferate uncontrollably, and can migrate to different parts of the body through a process called metastasis. Scientists have observed that cancerous cells have considerably shortened telomeres and that telomerase is active in these cells. Interestingly, only after the telomeres were shortened in the cancer cells did the telomerase become active. If the action of telomerase in these cells can be inhibited by drugs during cancer therapy, then the cancerous cells could potentially be stopped from further division.</para>
+</section>
+</section>
+<section id="fs-id1268260" class="summary">
+<title>Section Summary</title><para id="fs-id2694542">Replication in eukaryotes starts at multiple origins of replication. The mechanism is quite similar to that in prokaryotes. A primer is required to initiate synthesis, which is then extended by DNA polymerase as it adds nucleotides one by one to the growing chain. The leading strand is synthesized continuously, whereas the lagging strand is synthesized in short stretches called Okazaki fragments. The RNA primers are replaced with DNA nucleotides; the DNA Okazaki fragments are linked into one continuous strand by DNA ligase. The ends of the chromosomes pose a problem as the primer RNA at the 5’ ends of the DNA cannot be replaced with DNA, and the chromosome is progressively shortened. Telomerase, an enzyme with an inbuilt RNA template, extends the ends by copying the RNA template and extending one strand of the chromosome. DNA polymerase can then fill in the complementary DNA strand using the regular replication enzymes. In this way, the ends of the chromosomes are protected.</para>
+</section>
+<section id="fs-id2991810" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2739491">
+<problem id="fs-id1631701"><para id="fs-id2024527">The ends of the linear chromosomes are maintained by</para>
+<list id="fs-id3000420" list-type="enumerated" number-style="lower-alpha">
+<item>helicase</item>
+<item>primase</item>
+<item>DNA pol</item>
+<item>telomerase</item>
+</list>
+</problem>
+<solution id="fs-id2075482">
+<label/>
+<para id="fs-id2314747">D</para>
+</solution>
+</exercise><exercise id="eip-979"><problem id="eip-838">
+  <para id="eip-486">
+    Which of the following is not a true statement comparing prokaryotic and eukaryotic DNA replication?
+  </para>
+<list id="eip-273" list-type="enumerated" number-style="lower-alpha">
+<item>Both eukaryotic and prokaryotic DNA polymerases build off RNA primers made by primase.</item>
+<item>Eukaryotic DNA replication requires multiple replication forks, while prokaryotic replication uses a single origin to rapidly replicate the entire genome.</item>
+<item>DNA replication always occurs in the nucleus.</item>
+<item>Eukaryotic DNA replication involves more polymerases than prokaryotic replication.</item>
+</list>
+</problem>
+
+<solution id="eip-336">
+<label/>
+  <para id="eip-38">
+    C
+  </para>
+  </solution>
+</exercise>
+</section>
+<section id="fs-id2106224" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2896348">
+<problem id="fs-id2167973"><para id="fs-id2694648">How do the linear chromosomes in eukaryotes ensure that its ends are replicated completely?</para></problem>
+<solution id="fs-id2746188"><label/>
+<para id="fs-id2190591">Telomerase has an inbuilt RNA template that extends the 3' end, so primer is synthesized and extended. Thus, the ends are protected.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1808238"><term>telomerase</term> <meaning id="fs-id1780142">enzyme that contains a catalytic part and an inbuilt RNA template; it functions to maintain telomeres at chromosome ends</meaning></definition>
+<definition id="fs-id2642866"><term>telomere</term> <meaning id="fs-id1406190">DNA at the end of linear chromosomes</meaning></definition>
+</glossary>
+
+</document>

@@ -1,0 +1,275 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Prokaryotic Metabolism</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66547</md:content-id>
+  <md:title>Prokaryotic Metabolism</md:title>
+  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+<list>
+<item>Identify the macronutrients needed by prokaryotes, and explain their importance</item>
+<item>Describe the ways in which prokaryotes get energy and carbon for life processes</item>
+<item>Describe the roles of prokaryotes in the carbon and nitrogen cycles</item>
+</list></md:abstract>
+  <md:uuid>79cdd170-aace-447f-abf5-6c3e378f921d</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm6067184">Prokaryotes are metabolically diverse organisms. In many cases, a prokaryote may be placed into a species clade by its defining metabolic features: Can it metabolize lactose? Can it grow on citrate? Does it produce H<sub>2</sub>S? Does it ferment carbohydrates to produce acid and gas? Can it grow under anaerobic conditions? Since metabolism and metabolites are the product of enzyme pathways, and enzymes are encoded in genes, the metabolic capabilities of a prokaryote are a reflection of its genome. There are many different environments on Earth with various energy and carbon sources, and variable conditions to which prokaryotes may be able to adapt. Prokaryotes have been able to live in every environment from deep-water volcanic vents to Antarctic ice by using whatever energy and carbon sources are available. Prokaryotes fill many niches on Earth, including involvement in nitrogen and carbon cycles, photosynthetic production of oxygen, decomposition of dead organisms, and thriving as parasitic, commensal, or mutualistic organisms inside multicellular organisms, including humans. The very broad range of environments that prokaryotes occupy is possible because they have diverse metabolic processes.</para>
+<section id="fs-idp154343472">
+<title>Needs of Prokaryotes</title>
+<para id="fs-idp58811600">The diverse environments and ecosystems on Earth have a wide range of conditions in terms of temperature, available nutrients, acidity, salinity, oxygen availability, and energy sources. Prokaryotes are very well equipped to make their living out of a vast array of nutrients and environmental conditions. To live, prokaryotes need a source of energy, a source of carbon, and some additional nutrients.</para>
+<section id="fs-idp69108640">
+<title>Macronutrients</title>
+<para id="fs-idm31669472">Cells are essentially a well-organized assemblage of macromolecules and water. Recall that macromolecules are produced by the polymerization of smaller units called monomers. For cells to build all of the molecules required to sustain life, they need certain substances, collectively called <term>nutrients</term>. When prokaryotes grow in nature, they must obtain their nutrients from the environment. Nutrients that are required in large amounts are called <emphasis effect="italics">macronutrients</emphasis>, whereas those required in smaller or trace amounts are called <emphasis effect="italics">micronutrients</emphasis>. Just a handful of elements are considered macronutrients—carbon, hydrogen, oxygen, nitrogen, phosphorus, and sulfur. (A mnemonic for remembering these elements is the acronym <emphasis effect="italics">CHONPS</emphasis>.)</para>
+<para id="fs-idp12908480">Why are these macronutrients needed in large amounts? They are the components of organic compounds in cells, including water. Carbon is the major element in all macromolecules: carbohydrates, proteins, nucleic acids, lipids, and many other compounds. Carbon accounts for about 50 percent of the composition of the cell. In contrast, nitrogen represents only 12 percent of the total dry weight of a typical cell. Nitrogen is a component of proteins, nucleic acids, and other cell constituents. Most of the nitrogen available in nature is either atmospheric nitrogen (N<sub>2</sub>) or another inorganic form. Diatomic (N<sub>2</sub>) nitrogen, however, can be converted into an organic form only by certain microorganisms, called nitrogen-fixing organisms. Both hydrogen and oxygen are part of many organic compounds and of water. Phosphorus is required by all organisms for the synthesis of nucleotides and phospholipids. Sulfur is part of the structure of some amino acids such as cysteine and methionine, and is also present in several vitamins and coenzymes. Other important macronutrients are potassium (K), magnesium (Mg), calcium (Ca), and sodium (Na). Although these elements are required in smaller amounts, they are very important for the structure and function of the prokaryotic cell.</para>
+</section>
+<section id="fs-idp74490048">
+<title>Micronutrients</title>
+<para id="fs-idm32094128">In addition to these macronutrients, prokaryotes require various metallic elements in small amounts. These are referred to as micronutrients or trace elements. For example, iron is necessary for the function of the cytochromes involved in electron-transport reactions. Some prokaryotes require other elements—such as boron (B), chromium (Cr), and manganese (Mn)—primarily as enzyme cofactors.</para></section>
+<section id="fs-idp2944480">
+<title>The Ways in Which Prokaryotes Obtain Energy</title>
+<para id="fs-idm8743200">Prokaryotes are classified both by the way they obtain energy, and by the carbon source they use for producing organic molecules. These categories are summarized in <link target-id="tab-ch22-02-01" document=""/>. Prokaryotes can use different sources of energy to generate the ATP needed for biosynthesis and other cellular activities. <term>Phototrophs</term> (or phototrophic organisms) obtain their energy from sunlight. Phototrophs trap the energy of light using chlorophylls, or in a few cases, bacterial rhodopsin. (Rhodopsin-using phototrophs, oddly, are phototrophic, but not photosynthetic, since they do not fix carbon.) <term>Chemotrophs</term> (or chemosynthetic organisms) obtain their energy from chemical compounds. Chemotrophs that can use organic compounds as energy sources are called chemoorganotrophs.  Those that can use inorganic compounds, like sulfur or iron compounds, as energy sources are called chemolithotrophs.</para>
+<para id="fs-idm87473200">Energy-producing pathways may be either <term>aerobic</term>, using oxygen as the terminal electron acceptor, or anaerobic, using either simple inorganic compounds or organic molecules as the <emphasis effect="italics">terminal electron acceptor</emphasis>. Since prokaryotes lived on Earth for nearly a billion years before photosynthesis produced significant amounts of oxygen for aerobic respiration, many species of both Bacteria and Archaea are anaerobic and their metabolic activities are important in the carbon and nitrogen cycles discussed below.</para>
+</section>
+<section id="fs-idp3324256">
+<title>The Ways in Which Prokaryotes Obtain Carbon</title>
+<para id="fs-idp36184192">Prokaryotes not only can use different sources of energy, but also different sources of carbon compounds. Autotrophic prokaryotes synthesize organic molecules from carbon dioxide. In contrast, heterotrophic prokaryotes obtain carbon from organic compounds. To make the picture more complex, the terms that describe how prokaryotes obtain energy and carbon can be combined. Thus, photoautotrophs use energy from sunlight, and carbon from carbon dioxide and water, whereas chemoheterotrophs obtain both energy and carbon from an organic chemical source. Chemolithoautotrophs obtain their energy from inorganic compounds, and they build their complex molecules from carbon dioxide. Finally, prokaryotes that get their energy from light, but their carbon from organic compounds, are photoheterotrophs. The table below (<link target-id="tab-ch22-02-01" document=""/>) summarizes carbon and energy sources in prokaryotes.</para>
+<table id="tab-ch22-02-01" class="top-titled" summary="">
+<tgroup cols="1" align="center">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col5" align="center">Carbon and Energy Sources in Prokaryotes</entry>
+</row>
+<row>
+<entry align="center">Energy Source</entry>
+<entry align="center">Electron Source</entry>
+<entry align="center">Carbon Source</entry>
+<entry align="center">Nutritional Type</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry morerows="3" align="center">Light<newline/>(phototroph)</entry>
+<entry morerows="1" align="center">Organic material <newline/>(organotroph)</entry>
+<entry>Organic material <newline/>(heterotroph)</entry>
+<entry>Photoorganoheterotroph</entry>
+</row>
+<row>
+<entry align="center">Carbon dioxide<newline/>(autotroph)</entry>
+<entry/>
+</row>
+<row>
+<entry morerows="1" align="center">Inorganic material<newline/>(lithotroph)</entry>
+<entry>Organic material <newline/>(heterotroph)</entry>
+<entry/>
+</row>
+<row>
+<entry align="center">Carbon dioxide<newline/>(autotroph)</entry>
+<entry align="center">Photolithoautotroph</entry>
+</row>
+<row>
+<entry morerows="3" align="center">Chemicals<newline/>(chemotroph)</entry>
+<entry morerows="1" align="center">Organic material <newline/>(organotroph)</entry>
+<entry align="center">Organic material <newline/>(heterotroph)</entry>
+<entry align="center">Chemoorganoheterotroph</entry>
+</row>
+<row>
+<entry align="center">Carbon dioxide<newline/>(autotroph)</entry>
+<entry/>
+</row>
+<row>
+<entry align="center" morerows="1">Inorganic material<newline/>(lithotroph)</entry>
+<entry align="center">Organic material <newline/>(heterotroph)</entry>
+<entry align="center">Chemolithoheterotroph</entry>
+</row>
+<row>
+<entry align="center">Carbon dioxide<newline/>(autotroph)</entry>
+<entry align="center">Chemolithoautotroph</entry>
+</row>
+</tbody>
+</tgroup>
+</table></section>
+</section>
+<section id="fs-idm53553824">
+<title>Role of Prokaryotes in Ecosystems</title>
+<para id="fs-idm47975664">Prokaryotes are ubiquitous: There is no niche or ecosystem in which they are not present. Prokaryotes play many roles in the environments they occupy. The roles they play in the carbon and nitrogen cycles are vital to life on Earth. In addition, the current scientific consensus suggests that metabolically interactive prokaryotic communities may have been the basis for the emergence of eukaryotic cells.</para>
+<section id="fs-idm18679632">
+<title>Prokaryotes and the Carbon Cycle</title>
+<para id="fs-idp132815728">Carbon is one of the most important macronutrients, and prokaryotes play an important role in the carbon cycle (<link target-id="fig-ch22_03_01" document=""/>). The carbon cycle traces the movement of carbon from inorganic to organic compounds and back again. Carbon is cycled through Earth’s major reservoirs: land, the atmosphere, aquatic environments, sediments and rocks, and biomass. In a way, the carbon cycle echoes the role of the “four elements” first proposed by the ancient Greek philosopher, Empedocles: fire, water, earth, and air. Carbon dioxide is removed from the atmosphere by land plants and marine prokaryotes, and is returned to the atmosphere via the respiration of chemoorganotrophic organisms, including prokaryotes, fungi, and animals. Although the largest carbon reservoir in terrestrial ecosystems is in rocks and sediments, that carbon is not readily available.</para>
+<para id="fs-idm48166784">Participants in the carbon cycle are roughly divided among producers, consumers, and decomposers of organic carbon compounds. The <emphasis effect="italics">primary producers</emphasis> of organic carbon compounds from CO<sub>2</sub> are land plants and photosynthetic bacteria. A large amount of available carbon is found in living land plants. A related source of carbon compounds is <emphasis effect="italics">humus</emphasis>, which is a mixture of organic materials from dead plants and prokaryotes that have resisted decomposition. (The term "humus," by the way, is the root of the word "human.") Consumers such as animals and other heterotrophs use organic compounds generated by producers and release carbon dioxide to the atmosphere. Other bacteria and fungi, collectively called <emphasis effect="italics"><term>decomposers</term></emphasis>, carry out the breakdown (decomposition) of plants and animals and their organic compounds. Most carbon dioxide in the atmosphere is derived from the respiration of microorganisms that decompose dead animals, plants, and humus.</para>
+<para id="fs-idp54591920">In aqueous environments and their anoxic sediments, there is another carbon cycle taking place. In this case, the cycle is based on one-carbon compounds. In anoxic sediments, prokaryotes, mostly archaea, produce methane (CH<sub>4</sub>). This methane moves into the zone above the sediment, which is richer in oxygen and supports bacteria called <emphasis effect="italics">methane oxidizers</emphasis> that oxidize methane to carbon dioxide, which then returns to the atmosphere.</para>
+<figure id="fig-ch22_03_01" class=" "><media id="fs-idp28056208" alt="An illustration shows the carbon lifecycle.  Carbon dioxide in the atmosphere occurs by way of volcanic eruptions, animal, microbial and marine respiration, and human emissions - such as from factories.  It is absorbed by terrestrial photosynthesis from plants, and marine photosynthesis.  The weathering of terrestrial rocks turns into soil carbon, which then branches into either fossil carbon, or microbial respiration and decomposition; fossil carbon also contributes to this.  This decomposition has a leaching, or runoff effect, and enters the ocean as sediments.">
+<image mime-type="image/png" src="../../media/Figure_B22_03_01.png" width="570"/>
+</media>
+<caption>The carbon cycle. Prokaryotes play a significant role in continuously moving carbon through the biosphere. (credit: modification of work by John M. Evans and Howard Perlman, USGS)</caption></figure></section>
+<section id="fs-idm32389088">
+<title>Prokaryotes and the Nitrogen Cycle</title>
+<para id="fs-idp73980592">Nitrogen is a very important element for life because it is a major constituent of proteins and nucleic acids. It is a macronutrient, and in nature, it is recycled from organic compounds to ammonia, ammonium ions, nitrate, nitrite, and nitrogen gas by many processes, many of which are carried out only by prokaryotes. As illustrated in <link target-id="fig-ch22_03_02" document=""/>, prokaryotes are key to the nitrogen cycle. The largest pool of nitrogen available in the terrestrial ecosystem is <emphasis effect="italics">gaseous nitrogen</emphasis> (N<sub>2</sub>) from the air, but this nitrogen is not usable by plants, which are primary producers. Gaseous nitrogen is transformed, or “fixed” into more readily available forms, such as ammonia (NH<sub>3</sub>), through the process of <term>nitrogen fixation</term>. Nitrogen-fixing bacteria include <emphasis effect="italics">Azotobacter</emphasis> in soil and the ubiquitous photosynthetic cyanobacteria. Some nitrogen fixing bacteria, like <emphasis effect="italics">Rhizobium</emphasis>, live in symbiotic relationships in the roots of legumes. Another source of ammonia is <term>ammonification</term>, the process by which ammonia is released during the decomposition of nitrogen-containing organic compounds. The ammonium ion is progressively oxidized by different species of bacteria in a process called nitrification. The nitrification process begins with the conversion of ammonium to nitrite (NO<sub>2</sub><sup>-</sup>), and continues with the conversion of nitrite to nitrate. Nitrification in soils is carried out by bacteria belonging to the genera <emphasis effect="italics">Nitrosomas</emphasis>, <emphasis effect="italics">Nitrobacter</emphasis>, and <emphasis effect="italics">
+Nitrospira</emphasis>. Most nitrogen in soil is in the form of ammonium (NH<sub>4</sub><sup>+</sup>) or nitrate (NO<sub>3</sub><sup>-</sup>). Ammonia and nitrate can be used by plants or converted to other forms.</para><para id="fs-idp501738704">Ammonia released into the atmosphere, however, represents only 15 percent of the total nitrogen released; the rest is as N<sub>2</sub> and N<sub>2</sub>O (nitrous oxide). Ammonia is catabolized anaerobically by some prokaryotes, yielding N<sub>2</sub> as the final product. Denitrifying bacteria reverse the process of nitrification, reducing the nitrate from soils to gaseous compounds such as N<sub>2</sub>O, NO, and N<sub>2</sub>.</para><note id="fs-idm85569952" class="visual-connection"><label/><title>Visual Connection</title>
+<figure id="fig-ch22_03_02"><media id="fs-idp28084320" alt="This illustration shows the role of bacteria in the nitrogen cycle. Nitrogen-fixing bacteria in root nodules of legumes convert nitrogen gas, or upper case N 2, into organic nitrogen found in plants. Nitrogen-fixing soil bacteria produce ammonium ion, or upper N upper H 4 plus sign. Decomposers, including bacteria and fungi, decompose organic matter, also releasing upper N upper H 4 plus sign. Nitrification is the process by which nitrifying bacteria produce nitrites, shown as upper N upper O 2 negative, and nitrates, shown as upper N upper O 3 negative. Nitrates are assimilated by plants, then animals, then decomposers. Denitrifying bacteria convert nitrates to nitrogen gas, completing the cycle.">
+<image mime-type="image/png" src="../../media/Figure_B22_03_02.png" width="580"/>
+</media>
+<caption>The nitrogen cycle. Prokaryotes play a key role in the nitrogen cycle. (credit: Environmental Protection Agency)</caption></figure><para id="fs-idm26630112">Which of the following statements about the nitrogen cycle is false?</para>
+<list id="fs-idp95336816" list-type="enumerated" number-style="lower-alpha">
+<item>Nitrogen-fixing bacteria exist on the root nodules of legumes and in the soil.</item>
+<item>Denitrifying bacteria convert nitrates (NO<sub>3</sub><sup>-</sup>) into nitrogen gas (N<sub>2</sub>).</item>
+<item>Ammonification is the process by which ammonium ion (NH<sub>4</sub><sup>+</sup>) is released from decomposing organic compounds.</item>
+<item>Nitrification is the process by which nitrites (NO<sub>2</sub><sup>-</sup>) are converted to ammonium ion (NH<sub>4</sub><sup>+</sup>).</item>
+</list>
+<!--<para><link target-id="fig-ch22_03_02" document=""/> D</para>-->
+</note></section>
+</section>
+<section id="fs-idm57248" class="summary">
+<title>Section Summary</title><para id="fs-idp125269104">As the oldest living inhabitants of Earth, prokaryotes are also the most metabolically diverse; they flourish in many different environments with various energy and carbon sources, variable temperature, pH, pressure, oxygen and water availability. Nutrients required in large amounts are called macronutrients, whereas those required in trace amounts are called micronutrients or trace elements. Macronutrients include C, H, O, N, P, S, K, Mg, Ca, and Na. In addition to these macronutrients, prokaryotes require various metallic elements for growth and enzyme function. Prokaryotes use different sources of energy to assemble macromolecules from smaller molecules. Phototrophs obtain their energy from sunlight, whereas chemotrophs obtain energy from chemical compounds. Energy-producing pathways may be either aerobic or anaerobic.</para>
+<para id="fs-idm32328400">Prokaryotes play roles in the carbon and nitrogen cycles. Producers capture carbon dioxide from the atmosphere and convert it to organic compounds. Consumers (animals and other chemoorganotrophic organisms) use organic compounds generated by producers and release carbon dioxide into the atmosphere by respiration. Carbon dioxide is also returned to the atmosphere by the microbial decomposers of dead organisms. Nitrogen also cycles in and out of living organisms, from organic compounds to ammonia, ammonium ions, nitrite, nitrate, and nitrogen gas. Prokaryotes are essential for most of these conversions. Gaseous nitrogen is transformed into ammonia through nitrogen fixation. Ammonia is anaerobically catabolized by some prokaryotes, yielding N<sub>2</sub> as the final product. Nitrification is the conversion of ammonium into nitrite. Nitrification in soils is carried out by bacteria. Denitrification is also performed by bacteria and transforms nitrate from soils into gaseous nitrogen compounds, such as N<sub>2</sub>O, NO, and N<sub>2</sub>.</para></section>
+<section id="fs-idm78918960" class="visual-exercise">
+<title>Visual Connection Questions</title>
+<exercise id="fs-idm43664752">
+<problem id="fs-idm45091120">
+<para id="fs-idp76665360"><link target-id="fig-ch22_03_02" document=""/> Which of the following statements about the nitrogen cycle is false?</para>
+<list id="fs-idm77522480" list-type="enumerated" number-style="lower-alpha">
+<item>Nitrogen fixing bacteria exist on the root nodules of legumes and in the soil.</item>
+<item>Denitrifying bacteria convert nitrates (NO<sub>3</sub><sup>-</sup>) into nitrogen gas (N<sub>2</sub>).</item>
+<item>Ammonification is the process by which ammonium ion (NH<sub>4</sub><sup>+</sup>) is released from decomposing organic compounds.</item>
+<item>Nitrification is the process by which nitrites (NO<sub>2</sub><sup>-</sup>) are converted to ammonium ion (NH<sub>4</sub><sup>+</sup>).</item>
+</list>
+</problem>
+<solution id="fs-idm40786176">
+<label/>
+<para id="fs-idm35884624"><link target-id="fig-ch22_03_02" document=""/> D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm53562544" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idm73098672">
+<problem id="fs-idp95431856">
+<para id="fs-idm77223488">Which of the following elements is <emphasis effect="italics">not</emphasis> a micronutrient?</para>
+<list id="fs-idp15690240" list-type="enumerated" number-style="lower-alpha">
+<item>boron</item>
+<item>calcium</item>
+<item>chromium</item>
+<item>manganese</item>
+</list>
+</problem>
+<solution id="fs-idm72015984">
+<label/>
+<para id="fs-idm34123232">B</para>
+</solution>
+</exercise>
+<exercise id="fs-idm97968528">
+<problem id="fs-idm21774240">
+<para id="fs-idm39214432">Prokaryotes that obtain their energy from chemical compounds are called _____.</para>
+<list id="fs-idp47376784" list-type="enumerated" number-style="lower-alpha">
+<item>phototrophs</item>
+<item>auxotrophs</item>
+<item>chemotrophs</item>
+<item>lithotrophs</item>
+</list>
+</problem>
+<solution id="fs-idm77451952">
+<label/>
+<para id="fs-idm26965472">C</para>
+</solution>
+</exercise>
+<exercise id="fs-idm27200192">
+<problem id="fs-idm14663424">
+<para id="fs-idm19634144">Ammonification is the process by which _____.</para>
+<list id="fs-idp119691120" list-type="enumerated" number-style="lower-alpha"><item>ammonia is released during the decomposition of nitrogen-containing organic compounds</item>
+<item>ammonium is converted to nitrite and nitrate in soils</item>
+<item>nitrate from soil is transformed to gaseous nitrogen compounds such as NO, N<sub>2</sub>O, and N<sub>2</sub></item>
+<item>gaseous nitrogen is fixed to yield ammonia</item>
+</list></problem>
+<solution id="fs-idp83551024">
+<label/>
+<para id="fs-idm78875040">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm83225968">
+<problem id="fs-idp48666768">
+<para id="fs-idp42374976">Plants use carbon dioxide from the air and are therefore called _____.</para>
+<list id="fs-idp3946784" list-type="enumerated" number-style="lower-alpha">
+<item>consumers</item>
+<item>producers</item>
+<item>decomposer</item>
+<item>carbon fixers</item>
+</list>
+</problem>
+<solution id="fs-idp3413728">
+<label/>
+<para id="fs-idm99214016">B</para>
+</solution>
+</exercise><exercise id="eip-113"><problem id="eip-746">
+ <para id="eip-168">
+ Cyanobacteria harness energy from the sun through photosynthesis, and oxidize water to provide electrons for energy generation. Thus, we classify cyanobacteria as _________.
+ </para>
+<list id="fs-listid018" list-type="enumerated" number-style="lower-alpha">
+<item>photolithotrophs</item>
+<item>photoautotrophs</item>
+<item>chemolithoautotrophs</item>
+<item>chemo-organotrophs</item>
+</list>
+</problem>
+<solution id="eip-1"><label/>
+ <para id="eip-74">
+ A
+ </para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idm112019632" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idm32276816">
+<problem id="fs-idp8595408">
+<para id="fs-idm27136640">Think about the conditions (temperature, light, pressure, and organic and inorganic materials) that you may find in a deep-sea hydrothermal vent. What type of prokaryotes, in terms of their metabolic needs (autotrophs, phototrophs, chemotrophs, etc.), would you expect to find there?</para>
+</problem>
+<solution id="fs-idm27177376">
+<label/>
+<para id="fs-idm77072976">Responses will vary. In a deep-sea hydrothermal vent, there is no light, so prokaryotes would be chemotrophs instead of phototrophs. The source of carbon would be carbon dioxide dissolved in the ocean, so they would be autotrophs. There is not a lot of organic material in the ocean, so prokaryotes would probably use inorganic sources, thus they would be chemolitotrophs. The temperatures are very high in the hydrothermal vent, so the prokaryotes would be thermophilic.</para>
+</solution>
+</exercise><exercise id="eip-814"><problem id="eip-102">
+ <para id="eip-727">
+ Farmers continually rotate the crops grown in different fields to maintain nutrients in the soil. How would planting soybeans in a field the year after the field was used to grow carrots help maintain nitrogen in the soil?
+ </para>
+</problem>
+<solution id="eip-411"><label/>
+ <para id="eip-397">
+ Soybeans are members of the legume family, so their roots have nodules that are colonized by nitrogen-fixing bacteria (ex. <emphasis effect="italics">Rhizobium</emphasis>). Planting a crop that promotes nitrogen fixation after growing a crop that depletes nitrogen from the soil ensures that the soil continues to contain sufficient nutrients to grow more crops in the future.
+ </para>
+</solution>
+</exercise><exercise id="eip-464"><problem id="eip-366">
+ <para id="eip-754">
+ Imagine a region of soil became contaminated, killing bacteria that decompose dead plants and animals. How would this effect the carbon cycle in the area? Be specific in stating where carbon would accumulate in the cycle.
+ </para>
+</problem>
+<solution id="eip-456"><label/>
+ <para id="eip-880">
+ Losing the bacteria that serve as decomposers in the ecosystem would disrupt the carbon cycle, but not stop it completely since fungi can also serve as decomposers. Without bacterial decomposers functioning, organic waste would accumulate in the area, and less carbon dioxide would be released back into the atmosphere.
+ </para>
+</solution>
+</exercise></section>
+ </content>
+<glossary>
+<definition id="fs-idm78553328">
+<term>ammonification</term> <meaning id="fs-idp38396272">process by which ammonia is released during the decomposition of nitrogen-containing organic compounds</meaning>
+</definition>
+<definition id="fs-idm36581376">
+<term>chemotroph</term> <meaning id="fs-idm36325872">organism that obtains energy from chemical compounds</meaning>
+</definition>
+<definition id="fs-idm102618160">
+<term>decomposer</term> <meaning id="fs-idm69669536">organism that carries out the decomposition of dead organisms</meaning>
+</definition>
+<definition id="fs-idp74644320">
+<term>denitrification</term> <meaning id="fs-idp48768416">transformation of nitrate from soil to gaseous nitrogen compounds such as N<sub>2</sub>O, NO, and N<sub>2</sub></meaning>
+</definition>
+<definition id="fs-idm75518800">
+<term>nitrification</term> <meaning id="fs-idm33579936">conversion of ammonium into nitrite and nitrate in soils</meaning>
+</definition>
+<definition id="fs-idp137763536">
+<term>nitrogen fixation</term> <meaning id="fs-idp79550768">process by which gaseous nitrogen is transformed, or “fixed” into more readily available forms such as ammonia</meaning>
+</definition>
+</glossary>
+</document>

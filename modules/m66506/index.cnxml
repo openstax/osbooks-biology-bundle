@@ -1,0 +1,122 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Eukaryotic Transcription Gene Regulation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66506</md:content-id>
+  <md:title>Eukaryotic Transcription Gene Regulation</md:title>
+  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+<list>
+<item>Discuss the role of transcription factors in gene regulation</item>
+<item>Explain how enhancers and repressors regulate gene expression</item>
+</list></md:abstract>
+  <md:uuid>12648ecb-de5c-419b-a1a8-9b85d1274a1f</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2745728">Like prokaryotic cells, the transcription of genes in eukaryotes requires the action of an RNA polymerase to bind to a DNA sequence upstream of a gene in order to initiate transcription. However, unlike prokaryotic cells, the eukaryotic RNA polymerase requires other proteins, or transcription factors, to facilitate transcription initiation. RNA polymerase by itself cannot initiate transcription in eukaryotic cells. There are two types of transcription factors that regulate eukaryotic transcription: <emphasis effect="italics">General (or basal) transcription factors</emphasis> bind to the core promoter region to assist with the binding of RNA polymerase. <emphasis effect="italics">Specific transcription factors</emphasis> bind to various regions outside of the core promoter region and interact with the proteins at the core promoter to enhance or repress the activity of the polymerase.</para>
+<note id="fs-id2022629" class="interactive"><label/><title>Link to Learning</title>
+    <para id="fs-id2192558">View the process of transcription—the making of RNA from a DNA template.
+
+<media id="eip-id1168020166468" alt="transcript_RNA">
+<iframe width="660" height="371.4" src="https://www.openstax.org/l/transcript_RNA"/>
+                 </media>
+</para></note><section id="fs-id1967852">
+<title>The Promoter and the Transcription Machinery</title>
+<para id="fs-id1645226">Genes are organized to make the control of gene expression easier. The promoter region is immediately upstream of the coding sequence. This region can be short (only a few nucleotides in length) or quite long (hundreds of nucleotides long). The longer the promoter, the more available space for proteins to bind. This also adds more control to the transcription process. The length of the promoter is gene-specific and can differ dramatically between genes. Consequently, the level of control of gene expression can also differ quite dramatically between genes. The purpose of the <term>promoter</term> is to bind transcription factors that control the initiation of transcription.</para>
+    <para id="fs-id2904783">Within the core promoter region, 25 to 35 bases upstream of the transcriptional start site, resides the TATA box. The TATA box has the consensus sequence of 5’-TATAAA-3’. The TATA box is the binding site for a protein complex called TFIID, which contains a TATA-binding protein. Binding of TFIID recruits other transcription factors, including TFIIB, TFIIE, TFIIF, and TFIIH. Some of these transcription factors help to bind the RNA polymerase to the promoter, and others help to activate the transcription initiation complex.</para>
+<para id="fs-id1911410">In addition to the TATA box, other binding sites are found in some promoters. Some biologists prefer to restrict the range of the eukaryotic promoter to the core promoter, or polymerase binding site, and refer to these additional sites as promoter-proximal elements, because they are usually found within a few hundred base pairs upstream of the transcriptional start site. Examples of these elements are the CAAT box, with the consensus sequence 5’-CCAAT-3’ and the GC box, with the consensus sequence 5’-GGGCGG-3’. Specific transcription factors can bind to these promoter-proximal elements to regulate gene transcription. A given gene may have its own combination of these specific transcription-factor binding sites. There are hundreds of transcription factors in a cell, each of which binds specifically to a particular DNA sequence motif. When transcription factors bind to the promoter just upstream of the encoded gene, it is referred to as a <term>cis-acting element</term>, because it is on the same chromosome just next to the gene. Transcription factors respond to environmental stimuli that cause the proteins to find their binding sites and initiate transcription of the gene that is needed.</para>
+</section>
+<section id="fs-id2571418">
+<title>Enhancers and Transcription</title>
+<para id="fs-id2700899">In some eukaryotic genes, there are additional regions that help increase or enhance transcription. These regions, called <term>enhancers</term>, are not necessarily close to the genes they enhance. They can be located upstream of a gene, within the coding region of the gene, downstream of a gene, or may be thousands of nucleotides away.</para>
+<para id="fs-id2373880">Enhancer regions are binding sequences, or sites, for specific transcription factors. When a protein transcription factor binds to its enhancer sequence, the shape of the protein changes, allowing it to interact with proteins at the promoter site. However, since the enhancer region may be distant from the promoter, the DNA must bend to allow the proteins at the two sites to come into contact. DNA bending proteins help to bend the DNA and bring the enhancer and promoter regions together (<link target-id="fig-ch16_04_01" document=""/>). This shape change allows for the interaction of the specific activator proteins bound to the enhancers with the general transcription factors bound to the promoter region and the RNA polymerase.</para><figure id="fig-ch16_04_01"><media id="fs-id1778252" alt="Eukaryotic gene expression is controlled by a promoter immediately adjacent to the gene, and an enhancer far upstream. The D N A folds over itself, bringing the enhancer next to the promoter. Transcription factors and mediator proteins are sandwiched between the promoter and the enhancer. Short D N A sequences within the enhancer called distal control elements bind activators, which in turn bind transcription factors and mediator proteins bound to the promoter. R N A polymerase binds the complex, allowing transcription to begin. Different genes have enhancers with different distal control elements, allowing differential regulation of transcription.">
+<image mime-type="image/jpg" src="../../media/Figure_16_04_01.jpg" width="320"/>
+</media>
+<caption>Interaction between proteins at the promoter and enhancer sites.  An enhancer is a DNA sequence that promotes transcription. Each enhancer is made up of short DNA sequences called distal control elements. Activators bound to the distal control elements interact with mediator proteins and transcription factors. Two different genes may have the same promoter but different distal control elements, enabling differential gene expression.</caption></figure></section>
+<section id="fs-id685962">
+<title>Turning Genes Off: Transcriptional Repressors</title>
+<para id="fs-id1797856">Like prokaryotic cells, eukaryotic cells also have mechanisms to prevent transcription. Transcriptional repressors can bind to promoter or enhancer regions and block transcription. Like the transcriptional activators, repressors respond to external stimuli to prevent the binding of activating transcription factors.</para>
+</section>
+<section id="fs-id1437221" class="summary">
+<title>Section Summary</title><para id="fs-id2155116">To start transcription, general transcription factors, such as TFIID, TFIIB, and others, must first bind to the TATA box and recruit RNA polymerase to that location. Additional transcription factors may also bind to other regulatory elements at the promoter to increase or prevent transcription. In addition to promoter sequences, enhancer regions help augment transcription. Enhancers can be upstream, downstream, within a gene itself, or on other chromosomes. Specific transcription factors bound to enhancer regions may either increase or prevent transcription.</para></section>
+<section id="fs-id2075820" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1808039">
+<problem id="fs-id1723647"><para id="fs-id1260103">The binding of ________ is required for transcription to start.</para>
+<list id="fs-id1912269" list-type="enumerated" number-style="lower-alpha">
+<item>a protein</item>
+<item>DNA polymerase</item>
+<item>RNA polymerase</item>
+<item>a transcription factor</item>
+</list>
+</problem>
+<solution id="fs-id1962149">
+<label/>
+<para id="fs-id1627110">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1394736">
+<problem id="fs-id1309467"><para id="fs-id1594018">What will result from the binding of a transcription factor to an enhancer region?</para>
+<list id="fs-id2196025" list-type="enumerated" number-style="lower-alpha">
+<item>decreased transcription of an adjacent gene</item>
+<item>increased transcription of a distant gene</item>
+<item>alteration of the translation of an adjacent gene</item>
+<item>initiation of the recruitment of RNA polymerase</item>
+</list>
+</problem>
+<solution id="fs-id2595874">
+<label/>
+<para id="fs-id2385867">B</para>
+</solution>
+</exercise><exercise id="eip-549"><problem id="eip-256">
+  <para id="eip-922">
+    A scientist compares the promoter regions of two genes. Gene A’s core promoter plus proximal promoter elements encompasses 70bp. Gene B’s core promoter plus proximal promoter elements encompasses 250bp. Which of the scientist’s hypotheses is most likely to be correct?
+  </para>
+<list id="fs-listid008" list-type="enumerated" number-style="lower-alpha">
+<item>More transcripts will be made from Gene B. </item>
+<item>Transcription of Gene A involves fewer transcription factors. </item>
+<item>Enhancers control Gene B’s transcription.</item>
+<item>Transcription of Gene A is more controlled than transcription of Gene B.</item>
+</list>
+</problem>
+
+<solution id="eip-656"><label/>
+  <para id="eip-727">
+    B
+  </para>
+</solution>
+</exercise></section>
+<section id="fs-id2337737" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1942060">
+<problem id="fs-id2573671"><para id="fs-id2570388">A mutation within the promoter region can alter transcription of a gene. Describe how this can happen.</para></problem>
+<solution id="fs-id2317344"><label/>
+<para id="fs-id2269310">A mutation in the promoter region can change the binding site for a transcription factor that normally binds to increase transcription. The mutation could either decrease the ability of the transcription factor to bind, thereby decreasing transcription, or it can increase the ability of the transcription factor to bind, thus increasing transcription.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2025518">
+<problem id="fs-id2574201"><para id="fs-id2272706">What could happen if a cell had too much of an activating transcription factor present?</para></problem>
+<solution id="fs-id2169012"><label/>
+<para id="fs-id2239602">If too much of an activating transcription factor were present, then transcription would be increased in the cell. This could lead to dramatic alterations in cell function.</para>
+</solution>
+</exercise><exercise id="eip-441"><problem id="eip-835">
+  <para id="eip-588">
+    A scientist identifies a potential transcription regulation site 300bp downstream of a gene and hypothesizes that it is a repressor. What experiment (with results) could he perform to support this hypothesis?
+  </para>
+</problem>
+
+<solution id="eip-126"><label/>
+  <para id="eip-361">
+    The easiest way to test his hypothesis would be to mutate the site in a cell, and monitor levels of the mRNA transcript made from the gene. If the levels of transcript increase in the mutated cell, then the site was repressing transcription.
+  </para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1772000"><term><emphasis effect="italics">cis</emphasis>-acting element</term> <meaning id="fs-id1565919">transcription factor binding sites within the promoter that regulate the transcription of a gene adjacent to it</meaning></definition>
+<definition id="fs-id1968258"><term>enhancer</term> <meaning id="fs-id2929520">segment of DNA that is upstream, downstream, perhaps thousands of nucleotides away, or on another chromosome that influence the transcription of a specific gene</meaning></definition>
+<definition id="fs-id1847065"><term><emphasis effect="italics">trans</emphasis>-acting element</term> <meaning id="fs-id1790927">transcription factor binding site found outside the promoter or on another chromosome that influences the transcription of a particular gene</meaning></definition>
+<definition id="fs-id1631200"><term>transcription factor binding site</term> <meaning id="fs-id1850411">sequence of DNA to which a transcription factor binds</meaning></definition>
+</glossary>
+
+</document>

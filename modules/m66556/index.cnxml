@@ -1,0 +1,156 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Ecology of Protists</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66556</md:content-id>
+  <md:title>Ecology of Protists</md:title>
+  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+<item>Describe the role that protists play in the ecosystem</item>
+<item>Describe important pathogenic species of protists</item>
+</list></md:abstract>
+  <md:uuid>624c0bda-6b06-481f-9c8f-335d636fac63</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp159129008">Protists function in various ecological niches. Whereas some protist species are essential components of the food chain and generators of biomass, others function in the decomposition of organic materials. Still other protists are dangerous human pathogens or causative agents of devastating plant diseases.</para>
+<section id="fs-idm723488">
+<title>Primary Producers/Food Sources</title>
+<para id="fs-idm21756592">Protists are essential sources of food and provide nutrition for many other organisms. In some cases, as with zooplankton, protists are consumed directly. Alternatively, photosynthetic protists serve as producers of nutrition for other organisms. <emphasis effect="italics">Paramecium bursaria</emphasis> and several other species of ciliates are <emphasis effect="italics">mixotrophic</emphasis> due to a symbiotic relationship with green algae. This is a temporary version of the secondarily endosymbiotic chloroplast found in <emphasis effect="italics">Euglena</emphasis>. But these symbiotic associations are not restricted to protists. For instance, photosynthetic dinoflagellates called <emphasis effect="italics">zooxanthellae</emphasis> provide nutrients for the coral polyps (<link target-id="fig-ch23_04_01" document=""/>) that house them, giving corals a boost of energy to secrete their calcium carbonate skeleton. In turn, the corals provide the protist with a protected environment and the compounds needed for photosynthesis. This type of symbiotic relationship is important in nutrient-poor environments. Without dinoflagellate symbionts, corals lose algal pigments in a process called <emphasis effect="italics">coral bleaching</emphasis>, and they eventually die. This explains why reef-building corals typically do not reside in waters deeper than 20 meters: insufficient light reaches those depths for dinoflagellates to photosynthesize.</para>
+<figure id="fig-ch23_04_01">
+<media id="fs-idp64610240" alt="This underwater photo shows coral polyps. Polyps are cup-shaped and have tentacles extending from the edge of the cup.">
+<image mime-type="image/jpg" src="../../media/Figure_23_04_01.jpg" width="320"/>
+</media>
+<caption>Coral with symbiotic dinoflagellates. Coral polyps obtain nutrition through a symbiotic relationship with dinoflagellates.</caption>
+</figure>
+<para id="fs-idp28960144">The protists and their products of photosynthesis are essential—directly or indirectly—to the survival of organisms ranging from bacteria to mammals (<link target-id="fig-ch23_04_02" document=""/>). As primary producers, protists feed a large proportion of the world’s aquatic species. (On land, terrestrial plants serve as primary producers.) In fact, approximately 25 percent of the world’s photosynthesis is conducted by photosynthetic protists, particularly dinoflagellates, diatoms, and multicellular algae.</para>
+<figure id="fig-ch23_04_02" class=" "><media id="fs-idp61515744" alt="The photo collage shows mollusks, a crab, a dolphin, a penguin, and a school of fish.">
+<image mime-type="image/jpg" src="../../media/Figure_23_04_02abcde.jpg"/>
+</media>
+
+<caption>Protists contribute to the food chain. Virtually all aquatic organisms depend directly or indirectly on protists for food. (credit “mollusks”: modification of work by Craig Stihler, USFWS; credit “crab”: modification of work by David Berkowitz; credit “dolphin”: modification of work by Mike Baird; credit “fish”: modification of work by Tim Sheerman-Chase; credit “penguin”: modification of work by Aaron Logan)</caption></figure><para id="fs-idp98259728">Protists do not create food sources only for sea-dwelling organisms. Recall that certain anaerobic parabasalid species exist in the digestive tracts of termites and wood-eating cockroaches, where they contribute an essential step in the digestion of cellulose ingested by these insects as they consume wood.</para>
+</section>
+<section id="fs-idp68162784">
+<title>Human Pathogens</title>
+<para id="fs-idm72108480">As we have seen, a pathogen is anything that causes disease. Parasitic organisms live in or on a host organism and harm the organism. A small number of protists are serious pathogenic parasites that must infect other organisms to survive and propagate. For example, protist parasites include the causative agents of malaria, African sleeping sickness, amoebic encephalitis, and waterborne gastroenteritis in humans. Other protist pathogens prey on plants, effecting massive destruction of food crops.</para>
+<section id="fs-idp64587136">
+<title><emphasis effect="italics">Plasmodium</emphasis> Species</title>
+<para id="fs-idm55268288">In 2015 WHO reported over 200 million cases of malaria, mostly in Africa, South America, and southern Asia. However, it is not well known that malaria was also a prevalent and debilitating disease of the North Central region of the United States, particularly Michigan, with its thousands of lakes and numerous swamps. Prior to the civil war, and the drainage of many swamps, virtually everyone who immigrated to Michigan picked up malaria (<emphasis effect="italics">ague</emphasis> as it was called in the late 1800s), and the pale, sallow, bloated faces of that period were the rule. The only healthy faces were worn by those immigrants who had just arrived. In fact, there were more deaths due to malaria in Michigan than those from the Civil War.</para>
+<para id="fs-idm57070288">We now know that malaria is caused by several species of the apicomplexan protist genus <emphasis effect="italics">Plasmodium</emphasis>. Members of <emphasis effect="italics">Plasmodium</emphasis> must sequentially require both a mosquito and a vertebrate to complete their life cycle. In vertebrates, the parasite develops in liver cells (the exoerythrocytic stage) and goes on to infect red blood cells (the erythrocytic stage), bursting from and destroying the blood cells with each asexual replication cycle (<link target-id="fig-ch23_04_03" document=""/>). Of the four <emphasis effect="italics">Plasmodium</emphasis> species known to infect humans, <emphasis effect="italics">P</emphasis>.<emphasis effect="italics"> falciparum</emphasis> accounts for 50 percent of all malaria cases and is the primary (and deadliest) cause of disease-related fatalities in tropical regions of the world. In 2015, it was estimated that malaria caused over 400,000 deaths, mostly in African children. During the course of malaria, <emphasis effect="italics">P</emphasis>.<emphasis effect="italics"> falciparum</emphasis> can infect and destroy more than one-half of a human’s circulating blood cells, leading to severe anemia. In response to waste products released as the parasites burst from infected blood cells, the host immune system mounts a massive inflammatory response with episodes of delirium-inducing fever (paroxysms) as parasites lyse red blood cells, spilling parasite waste into the bloodstream. <emphasis effect="italics">P</emphasis>.<emphasis effect="italics"> falciparum</emphasis> is transmitted to humans by the African mosquito, <emphasis effect="italics">Anopheles gambiae</emphasis>. Techniques to kill, sterilize, or avoid exposure to this highly aggressive mosquito species are crucial to malaria control. Ironically, a type of genetic control has arisen in parts of the world where malaria is endemic. Possession of one copy of the HbS beta globin allele results in malaria resistance. Unfortunately, this allele also has an unfortunate second effect; when homozygous it causes sickle cell disease.</para>
+<figure id="fig-ch23_04_03"><media id="fs-idm31691008" alt="The micrograph shows round red blood cells, each about 8 microns across, infected with ring-shaped P falciparum.">
+<image mime-type="image/jpg" src="../../media/Figure_23_04_03.jpg" width="250"/>
+</media>
+<caption>Malaria parasite. Red blood cells are shown to be infected with <emphasis effect="italics">P</emphasis>.<emphasis effect="italics"> falciparum</emphasis>, the causative agent of malaria. In this light microscopic image taken using a 100× oil immersion lens, the ring-shaped <emphasis effect="italics">P</emphasis>.<emphasis effect="italics"> falciparum</emphasis> stains purple. (credit: modification of work by Michael Zahniser; scale-bar data from Matt Russell)</caption></figure>
+<note id="fs-idp65434608" class="interactive"><label/><title>Link to Learning</title>
+<para id="fs-idp14622864">This <link window="new" url="http://openstax.org/l/malaria">movie</link> depicts the pathogenesis of <emphasis effect="italics">Plasmodium falciparum</emphasis>, the causative agent of malaria.</para>
+</note></section>
+<section id="fs-idm51434192">
+<title>Trypanosomes</title>
+<para id="fs-idm79600576"><emphasis effect="italics">Trypanosoma brucei</emphasis> (<link target-id="fig-ch23_04_04" document=""/>), transmitted by tsetse flies (<emphasis effect="italics">Glossina</emphasis> spp) in Africa, and related flies in South America, is a flagellated endoparasite responsible for the deadly disease nagana in cattle and horses, and for African sleeping sickness in humans. This trypanosome confounds the human immune system by changing its thick layer of surface glycoproteins with each infectious cycle. (The glycoproteins are identified by the immune system as foreign antigens, and a specific antibody defense is mounted against the parasite.) However, <emphasis effect="italics">T</emphasis>.<emphasis effect="italics"> brucei</emphasis> has thousands of possible antigens, and with each subsequent generation, the protist switches to a glycoprotein coating with a different molecular structure. In this way, <emphasis effect="italics">T</emphasis>.<emphasis effect="italics"> brucei</emphasis> is capable of replicating continuously without the immune system ever succeeding in clearing the parasite. Without treatment, <emphasis effect="italics">T</emphasis>.<emphasis effect="italics"> brucei</emphasis> attacks red blood cells, causing the patient to lapse into a coma and eventually die. During epidemic periods, mortality from the disease can be high. Greater surveillance and control measures lead to a reduction in reported cases; some of the lowest numbers reported in 50 years (fewer than 10,000 cases in all of sub-Saharan Africa) have happened since 2009.</para>
+<note id="fs-idm33756544" class="interactive"><label/><title>Link to Learning</title>
+<para id="fs-idp46540656">This <link window="new" url="http://openstax.org/l/African_sleep">movie</link> discusses the pathogenesis of <emphasis effect="italics">Trypanosoma brucei</emphasis>, the causative agent of African sleeping sickness.</para>
+</note><para id="fs-idp62701344">In Latin America, another species of trypanosome, <emphasis effect="italics">T</emphasis>.<emphasis effect="italics"> cruzi</emphasis>, is responsible for Chagas disease. <emphasis effect="italics">T</emphasis>.<emphasis effect="italics"> cruzi</emphasis> infections are mainly caused by a blood-sucking “kissing bug” in the genus <emphasis effect="italics">Triatoma</emphasis>. These “true bugs” bite the host during the night and then defecate on the wound, transmitting the trypanosome to the victim. The victim scratches the wound, further inoculating the site with trypanosomes at the location of the bite. After about 10 weeks, individuals enter the chronic phase but most never develop further symptoms. In about 30 percent of cases, however, the trypanosome causes further damage, especially to the heart and digestive system tissues in the chronic phase of infection, leading to malnutrition and heart failure due to abnormal heart rhythms. An estimated 10 million people are infected with Chagas disease, and it is estimated to cause 10,000-12,000 deaths per year.</para><figure id="fig-ch23_04_04"><media id="fs-idm71141936" alt="The micrograph shows round red blood cells, about 8 microns across. Swimming among the red blood cells are ribbon-like trypanosomes. The trypanosomes are about three times as long as the red blood cells are wide.">
+<image mime-type="image/jpg" src="../../media/Figure_23_04_04.jpg" width="290"/>
+</media>
+<caption>Trypanosomes. Trypanosomes are shown among red blood cells. (credit: modification of work by Dr. Myron G. Shultz; scale-bar data from Matt Russell)</caption></figure></section>
+</section>
+<section id="fs-idp13799648">
+<title>Plant Parasites</title>
+<para id="fs-idm69083376">Protist parasites of terrestrial plants include agents that destroy food crops. The oomycete <emphasis effect="italics">Plasmopara viticola</emphasis> parasitizes grape plants, causing a disease called <emphasis effect="italics">downy mildew</emphasis> (<link target-id="fig-ch23_04_05" document=""/>). Grape plants infected with <emphasis effect="italics">P</emphasis>.<emphasis effect="italics"> viticola</emphasis> appear stunted and have discolored, withered leaves. The spread of downy mildew nearly collapsed the French wine industry in the nineteenth century.</para>
+<figure id="fig-ch23_04_05"><media id="fs-idp68205680" alt="The photo shows a leaf infected with downy mildew and powdery mildew. Where the leaf is infected with downy mildew, it is yellow instead of green. Powdery mildew appears as a white fuzz on the leaf.">
+<image mime-type="image/jpg" src="../../media/Figure_23_04_05.jpg" width="300"/>
+</media>
+
+<caption>Protist plant infections. Both downy and powdery mildews on this grape leaf are caused by an infection of <emphasis effect="italics">P</emphasis>.<emphasis effect="italics"> viticola</emphasis>. (credit: modification of work by USDA)</caption></figure><para id="fs-idp16918576"><emphasis effect="italics">Phytophthora infestans</emphasis> is an oomycete responsible for potato late blight, which causes potato stalks and stems to decay into black slime (<link target-id="fig-ch23_04_06" document=""/>). Widespread potato blight caused by <emphasis effect="italics">P</emphasis>.<emphasis effect="italics"> infestans</emphasis> precipitated the well-known Irish potato famine in the nineteenth century that claimed the lives of approximately 1 million people and led to the emigration of at least 1 million more from Ireland. Late blight continues to plague potato crops in certain parts of the United States and Russia, wiping out as much as 70 percent of crops when no pesticides are applied.</para>
+<figure id="fig-ch23_04_06">
+<media id="fs-idm73761360" alt="The photo shows a slice of potato that has browned and appears rotten.">
+<image mime-type="image/jpg" src="../../media/Figure_23_04_06.jpg" width="300"/>
+</media>
+<caption>Potato blight. These unappetizing remnants result from an infection with <emphasis effect="italics">P</emphasis>.<emphasis effect="italics"> infestans</emphasis>, the causative agent of potato late blight. (credit: USDA)</caption>
+</figure>
+</section>
+<section id="fs-idm16558048">
+<title>Protist Decomposers</title>
+<para id="fs-idm90721440">The fungus-like protist <emphasis effect="italics">saprobes</emphasis> are specialized to absorb nutrients from nonliving organic matter, such as dead organisms or their wastes. For instance, many types of oomycetes grow on dead animals or algae. Saprobic protists have the essential function of returning inorganic nutrients to the soil and water. This process allows for new plant growth, which in turn generates sustenance for other organisms along the food chain. Indeed, without saprobe species, such as protists, fungi, and bacteria, life would cease to exist as all organic carbon became “tied up” in dead organisms.</para>
+</section>
+<section id="fs-idm58651216" class="summary">
+<title>Section Summary</title><para id="fs-idm20302800">Protists function at several levels of the ecological food web: as primary producers, as direct food sources, and as decomposers. In addition, many protists are parasites of plants and animals and can cause deadly human diseases or destroy valuable crops.</para>
+</section>
+<section id="fs-idp159702896" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-idp175312">
+<problem id="fs-idm23164016">
+<para id="fs-idm68753568">An example of carbon fixation is _____________.</para>
+<list id="fs-idp145653872" list-type="enumerated" number-style="lower-alpha">
+<item>photosynthesis</item>
+<item>decomposition</item>
+<item>phagocytosis</item>
+<item>parasitism</item>
+</list>
+</problem>
+<solution id="fs-idm13013488">
+<label/>
+<para id="fs-idm59868448">A</para>
+</solution>
+</exercise>
+<exercise id="fs-idm79453552">
+<problem id="fs-idp1222592">
+<para id="fs-idp22583312">Which parasitic protist evades the host immune system by altering its surface proteins with each generation?</para>
+<list id="fs-idm18169760" list-type="enumerated" number-style="lower-alpha">
+<item><emphasis effect="italics">Paramecium caudatum</emphasis></item>
+<item><emphasis effect="italics">Trypanosoma brucei</emphasis></item>
+<item><emphasis effect="italics">Plasmodium falciparum</emphasis></item>
+<item><emphasis effect="italics">Phytophthora infestans</emphasis></item>
+</list>
+</problem>
+<solution id="fs-idm29185600">
+<label/>
+<para id="fs-idm32313632">B</para>
+</solution>
+</exercise><exercise id="eip-968"><problem id="eip-1">
+<para id="eip-997">
+Which of the following is <emphasis effect="bold">not</emphasis> a way that protists contribute to the food web?
+</para>
+<list id="list-idp005" list-type="enumerated" number-style="lower-alpha">
+<item>They fix carbon into organic molecules.</item>
+<item>They occupy the apex producer niche.</item>
+<item>They enter symbiotic relationships with animals.</item>
+<item>They recycle nutrients back into the carbon and nitrogen cycles.</item>
+</list>
+</problem>
+<solution id="eip-441"><label/>
+<para id="eip-823">
+B
+</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-idp62353904" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idm61985408">
+<problem id="fs-idp13192480">
+<para id="fs-idp21538672">How does killing <emphasis effect="italics">Anopheles</emphasis> mosquitoes affect the <emphasis effect="italics">Plasmodium</emphasis> protists?</para>
+</problem>
+<solution id="fs-idp62016352">
+<label/>
+<para id="fs-idp64587728"><emphasis effect="italics">Plasmodium</emphasis> parasites infect humans and cause malaria. However, they must complete part of their life cycle within <emphasis effect="italics">Anopheles</emphasis> mosquitoes, and they can only infect humans via the bite wound of a mosquito. If the mosquito population is decreased, then fewer <emphasis effect="italics">Plasmodium</emphasis> would be able to develop and infect humans, thereby reducing the incidence of human infections with this parasite.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm63806336">
+<problem id="fs-idp829184">
+<para id="fs-idp73517680">Without treatment, why does African sleeping sickness invariably lead to death?</para>
+</problem>
+<solution id="fs-idm123593568">
+<label/>
+<para id="fs-idm53775744">The trypanosomes that cause this disease are capable of expressing a glycoprotein coat with a different molecular structure with each generation. Because the immune system must respond to specific antigens to raise a meaningful defense, the changing nature of trypanosome antigens prevents the immune system from ever clearing this infection. Massive trypanosome infection eventually leads to host organ failure and death.</para>
+</solution>
+</exercise><exercise id="eip-138"><problem id="eip-357">
+<para id="eip-143">
+Describe how increasing stress to the ocean would affect a food chain containing zooxanthellae, corals, parrotfish, and sharks.
+</para>
+</problem>
+<solution id="eip-581"><label/>
+<para id="eip-978">
+Ocean stresses, such as rising temperatures or increasing levels of pollution, cause corals to expel their zooxanthellae symbionts. This leads to coral bleaching, and death if no new zoocanthellae colonize the corals. The dying corals will decrease the food source available to parrotfish, so the parrotfish population will decline. With fewer prey animals available, the shark population in the area will also decline.
+</para>
+</solution>
+</exercise></section>
+ </content>
+</document>

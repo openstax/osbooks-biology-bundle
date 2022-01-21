@@ -1,0 +1,140 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Regulation of Gene Expression</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66503</md:content-id>
+  <md:title>Regulation of Gene Expression</md:title>
+  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+<item>Discuss why every cell does not express all of its genes all of the time</item>
+<item>Describe how prokaryotic gene regulation occurs at the transcriptional level</item>
+<item>Discuss how eukaryotic gene regulation occurs at the epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels</item>
+</list></md:abstract>
+  <md:uuid>43d8a9ec-64b8-44e9-8c82-e6a92a6fa823</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1367090">For a cell to function properly, necessary proteins must be synthesized at the proper time and place. All cells control or regulate the synthesis of proteins from information encoded in their DNA. The process of turning on a gene to produce RNA and protein is called <term>gene expression</term>. Whether in a simple unicellular organism or a complex multi-cellular organism, each cell controls when and how its genes are expressed. For this to occur, there must be internal chemical mechanisms that control when a gene is expressed to make RNA and protein, how much of the protein is made, and when it is time to stop making that protein because it is no longer needed.</para>
+<para id="fs-id2989558">The regulation of gene expression conserves energy and space. It would require a significant amount of energy for an organism to express every gene at all times, so it is more energy efficient to turn on the genes only when they are required. In addition, only expressing a subset of genes in each cell saves space because DNA must be unwound from its tightly coiled structure to transcribe and translate the DNA. Cells would have to be enormous if every protein were expressed in every cell all the time.</para>
+<para id="fs-id2626522">The control of gene expression is extremely complex. Malfunctions in this process are detrimental to the cell and can lead to the development of many diseases, including cancer.</para>
+<section id="fs-id2300410"><title>Prokaryotic versus Eukaryotic Gene Expression</title><para id="fs-id2011802">To understand how gene expression is regulated, we must first understand how a gene codes for a functional protein in a cell. The process occurs in both prokaryotic and eukaryotic cells, just in slightly different manners.</para>
+<para id="fs-id2988639">Prokaryotic organisms are single-celled organisms that lack a cell nucleus, and their DNA therefore floats freely in the cell cytoplasm. To synthesize a protein, the processes of transcription and translation occur almost simultaneously. When the resulting protein is no longer needed, transcription stops. As a result, the primary method to control what type of protein and how much of each protein is expressed in a prokaryotic cell is the regulation of DNA transcription. All of the subsequent steps occur automatically. When more protein is required, more transcription occurs. Therefore, in prokaryotic cells, the control of gene expression is mostly at the transcriptional level.</para>
+<para id="fs-id1446467">Eukaryotic cells, in contrast, have intracellular organelles that add to their complexity. In eukaryotic cells, the DNA is contained inside the cell’s nucleus and there it is transcribed into RNA. The newly synthesized RNA is then transported out of the nucleus into the cytoplasm, where ribosomes translate the RNA into protein. The processes of transcription and translation are <emphasis effect="italics">physically separated</emphasis> by the nuclear membrane; transcription occurs only within the nucleus, and translation occurs only outside the nucleus in the cytoplasm. The regulation of gene expression can occur at all stages of the process (<link target-id="fig-ch16_01_01" document=""/>). Regulation may occur when the DNA is uncoiled and loosened from nucleosomes to bind transcription factors (<term>epigenetic</term> level), when the RNA is transcribed (<term>transcriptional</term> level), when the RNA is processed and exported to the cytoplasm after it is transcribed (<term>post-transcriptional</term> level), when the RNA is translated into protein (<term>translational</term> level), or after the protein has been made (<term>post-translational</term> level).</para>
+
+<figure id="eip-idm675067728">
+  <title/>
+  <media id="eip-idm501818960" alt="A cell diagram is shown. A signal leads to chromatin unpacking, which triggers DNA transcription, RNA processing, and m R N A to leave nucleus and enter cytoplasm. In the cytoplasm, translation occurs, leading to an active protein, and then degradation of the protein.">
+    <image mime-type="image/png" src="../../media/generegulation.png"/>
+  </media>
+<caption>Locations of gene regulation.
+The regulation of gene expression occurs at multiple steps going from DNA to the functional gene product, usually a protein. It begins with chromatin structure making the DNA more or less accessible for transcription by RNA polymerase. In eukaryotes, the primary mRNA transcript must be processed before it can be translated in the cytoplasm. The final level of active protein in the cell depends not only on the rate of synthesis, but also on the rate of degradation of mRNA and protein. Credit: Rao, A. and Ryan, K. Department of Biology, Texas
+A&amp;M University.</caption>
+</figure>
+
+<figure id="fig-ch16_01_01"><media id="fs-id1568395" alt="Prokaryotic cells do not have a nucleus, and D N A is located in the cytoplasm. Ribosomes attach to the m R N A as it is being transcribed from D N A. Thus, transcription and translation occur simultaneously. In eukaryotic cells, the D N A is located in the nucleus, and ribosomes are located in the cytoplasm. After being transcribed, pre m R N A is processed in the nucleus to make the mature mRNA, which is then exported to the cytoplasm where ribosomes become associated with it and translation begins.">
+<image mime-type="image/jpg" src="../../media/Figure_16_01_01-9c0a.jpg"/>
+</media>
+<caption>Regulation in prokaryotes and eukaryotes. A. Prokaryotic transcription and translation occur simultaneously in the cytoplasm, and regulation occurs primarily at the transcriptional level. B. Eukaryotic gene expression is regulated during transcription and RNA processing, which take place in the nucleus, and during protein translation, which takes place in the cytoplasm. Further regulation may occur through post-translational modifications of proteins in both prokaryotes and eukaryotes. Credit: Rao, A., Ryan, K. Fletcher, S. and Tag, A. Department of Biology, Texas A&amp;M University.</caption></figure><para id="fs-id1434103"/>
+<para id="fs-id1444103">The differences in the regulation of gene expression between prokaryotes and eukaryotes are summarized in <link target-id="tab-ch16_01_01" document=""/>. The regulation of gene expression is discussed in detail in subsequent modules.</para>
+    <table id="tab-ch16_01_01" class="top-titled" summary="">
+        <tgroup cols="2">
+            <colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+            <thead>
+                <row><entry namest="col1" nameend="col2" align="left">Differences in the Regulation of Gene Expression of Prokaryotic and Eukaryotic Organisms</entry></row>
+<row><entry align="center">Prokaryotic organisms</entry><entry align="center">Eukaryotic organisms</entry></row>
+            </thead>
+            <tbody>
+<row><entry>Lack a membrane-bound nucleus</entry><entry>Contain nucleus</entry></row>
+<row><entry>DNA is found in the cytoplasm</entry><entry>DNA is confined to the nuclear compartment</entry></row>
+<row><entry>RNA transcription and protein formation occur almost simultaneously</entry><entry>RNA transcription occurs prior to protein formation, and it takes place in the nucleus. Translation of RNA to protein occurs in the cytoplasm.</entry></row>
+<row><entry>Gene expression is regulated primarily at the transcriptional level</entry><entry>Gene expression is regulated at many levels (epigenetic, transcriptional, nuclear shuttling, post-transcriptional, translational, and post-translational)</entry></row>
+            </tbody>
+        </tgroup>
+        </table>
+<note id="fs-id2853732" class="evolution"><label/><title>Evolution Connection</title>
+<para id="fs-id2054814"><title>Evolution of Gene Regulation</title>Prokaryotic cells can only regulate gene expression by controlling the amount of transcription. As eukaryotic cells evolved, the complexity of the control of gene expression increased. For example, with the evolution of eukaryotic cells came compartmentalization of important cellular components and cellular processes. A nuclear region that contains the DNA was formed. Transcription and translation were physically separated into two different cellular compartments. It therefore became possible to control gene expression by regulating transcription in the nucleus, and also by controlling the RNA levels and protein translation present outside the nucleus.</para>
+<para id="fs-id1435492">Most gene regulation is done to conserve cell resources.  However, other regulatory processes may be defensive. Cellular processes such as gene silencing developed to protect the cell from viral or parasitic infections. If the cell could quickly shut off gene expression for a short period of time, it would be able to survive an infection when other organisms could not. Therefore, the organism evolved a new process that helped it survive, and it was able to pass this new development to offspring.</para>
+</note></section><section id="fs-id1693342" class="summary">
+<title>Section Summary</title><para id="fs-id1899262">While all somatic cells within an organism contain the same DNA, not all cells within that organism express the same proteins. Prokaryotic organisms express most of their genes most of the time.  However, some genes are expressed only when they are needed. Eukaryotic organisms, on the other hand, express only a subset of their genes in any given cell. To express a protein, the DNA is first transcribed into RNA, which is then translated into proteins, which are then targeted to specific cellular locations. In prokaryotic cells, transcription and translation occur almost simultaneously. In eukaryotic cells, transcription occurs in the nucleus and is separate from the translation that occurs in the cytoplasm. Gene expression in prokaryotes is mostly regulated at the transcriptional level (some epigenetic and post-translational regulation is also present), whereas in eukaryotic cells, gene expression is regulated at the epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels.</para></section>
+<section id="fs-id1770891" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2187777">
+<problem id="fs-id2689302"><para id="fs-id2162541">Control of gene expression in eukaryotic cells occurs at which level(s)?</para>
+<list id="fs-id1731340" list-type="enumerated" number-style="lower-alpha">
+<item>only the transcriptional level</item>
+<item>epigenetic and transcriptional levels</item>
+<item>epigenetic, transcriptional, and translational levels</item>
+<item>epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels</item>
+</list>
+</problem>
+<solution id="fs-id2745786">
+<label/>
+<para id="fs-id2726499">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1472236">
+<problem id="fs-id1912048"><para id="fs-id3456527">Post-translational control refers to:</para>
+<list id="fs-id3274389" list-type="enumerated" number-style="lower-alpha">
+<item>regulation of gene expression after transcription</item>
+<item>regulation of gene expression after translation</item>
+<item>control of epigenetic activation</item>
+<item>period between transcription and translation</item>
+</list>
+</problem>
+<solution id="fs-id2956599">
+<label/>
+<para id="fs-id1511015">B</para>
+</solution>
+</exercise><exercise id="eip-433"><problem id="eip-428">
+  <para id="eip-105">
+    How does the regulation of gene expression support continued evolution of more complex organisms?
+  </para>
+<list id="fs-listid006" list-type="enumerated" number-style="lower-alpha">
+<item>Cells can become specialized within a multicellular organism.</item>
+<item>Organisms can conserve energy and resources.</item>
+<item>Cells grow larger to accommodate protein production.</item>
+<item>Both A and B.</item>
+</list>
+
+</problem>
+
+<solution id="eip-569"><label/>
+  <para id="eip-83">
+    D
+  </para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2984456" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2475955"><problem id="fs-id2918717">
+<para id="fs-id1310287">Name two differences between prokaryotic and eukaryotic cells and how these differences benefit multicellular organisms.</para>
+</problem>
+<solution id="fs-id1569019">
+<label/>
+<para id="fs-id1485528">Eukaryotic cells have a nucleus, whereas prokaryotic cells do not. In eukaryotic cells, DNA is confined within the nuclear region. Because of this, transcription and translation are physically separated. This creates a more complex mechanism for the control of gene expression that benefits multicellular organisms because it compartmentalizes gene regulation.</para>
+<para id="eip-idp46390576">Gene expression occurs at many stages in eukaryotic cells, whereas in prokaryotic cells, control of gene expression only occurs at the transcriptional level. This allows for greater control of gene expression in eukaryotes and more complex systems to be developed. Because of this, different cell types can arise in an individual organism.</para>
+</solution>
+</exercise><exercise id="fs-id1443560">
+<problem id="fs-id1442893"><para id="fs-id2310144">Describe how controlling gene expression will alter the overall protein levels in the cell.</para>
+</problem>
+<solution id="fs-id2126300">
+<label/>
+<para id="fs-id2914874">The cell controls which proteins are expressed and to what level each protein is expressed in the cell. Prokaryotic cells alter the transcription rate to turn genes on or off. This method will increase or decrease protein levels in response to what is needed by the cell. Eukaryotic cells change the accessibility (epigenetic), transcription, or translation of a gene. This will alter the amount of RNA and the lifespan of the RNA to alter the amount of protein that exists. Eukaryotic cells also control protein translation to increase or decrease the overall levels. Eukaryotic organisms are much more complex and can manipulate protein levels by changing many stages in the process.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2914141"><term>epigenetic</term> <meaning id="fs-id2643047">heritable changes that do not involve changes in the DNA sequence</meaning>
+</definition>
+<definition id="fs-id1582580">
+<term>gene expression</term> <meaning id="fs-id2270009">processes that control the turning on or turning off of a gene</meaning>
+</definition>
+<definition id="fs-id1421748">
+<term>post-transcriptional</term> <meaning id="fs-id1912193">control of gene expression after the RNA molecule has been created but before it is translated into protein</meaning>
+</definition>
+<definition id="fs-id2198170">
+<term>post-translational</term> <meaning id="fs-id1565919">control of gene expression after a protein has been created</meaning>
+</definition>
+</glossary>
+</document>

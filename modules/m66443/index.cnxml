@@ -1,0 +1,178 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Nucleic Acids</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66443</md:content-id>
+  <md:title>Nucleic Acids</md:title>
+  <md:abstract><para>By the end of this section, you will be able to do the following:</para>
+<list>
+<item>Describe nucleic acids' structure and define the two types of nucleic acids</item>
+<item>Explain DNA's structure and role</item>
+<item>Explain RNA's structure and roles</item>
+</list></md:abstract>
+  <md:uuid>10601b75-87ce-40d7-9e5b-fe1bdbd0e13f</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1876142"><term>Nucleic acids</term> are the most important macromolecules for the continuity of life. They carry the cell's genetic blueprint and carry instructions for its functioning.</para>
+<section id="fs-id1802488">
+<title>DNA and RNA</title>
+<para id="fs-id2862975">The two main types of nucleic acids are <term>deoxyribonucleic acid (DNA)</term> and <term>ribonucleic acid (RNA)</term>. DNA is the genetic material in all living organisms, ranging from single-celled bacteria to multicellular mammals. It is in the nucleus of eukaryotes and in the organelles, chloroplasts, and mitochondria. In prokaryotes, the DNA is not enclosed in a membranous envelope.</para>
+<para id="fs-id811873">The cell's entire genetic content is its genome, and the study of genomes is genomics. In eukaryotic cells but not in prokaryotes, DNA forms a complex with histone proteins to form chromatin, the substance of eukaryotic chromosomes. A chromosome may contain tens of thousands of genes. Many genes contain the information to make protein products. Other genes code for RNA products. DNA controls all of the cellular activities by turning the genes “on” or “off.”</para>
+<para id="fs-id1998871">The other type of nucleic acid, RNA, is mostly involved in protein synthesis. The DNA molecules never leave the nucleus but instead use an intermediary to communicate with the rest of the cell. This intermediary is the <term>messenger RNA (mRNA)</term>. Other types of RNA—like rRNA, tRNA, and microRNA—are involved in protein synthesis and its regulation.</para>
+<para id="fs-id2904548">DNA and RNA are comprised of monomers that scientists call <term>nucleotides</term>. The nucleotides combine with each other to form a <term>polynucleotide</term>, DNA or RNA. Three components comprise each nucleotide: a nitrogenous base, a pentose (five-carbon) sugar, and a phosphate group (<link target-id="fig-ch03_05_01" document=""/>). Each nitrogenous base in a nucleotide is attached to a sugar molecule, which is attached to one or more phosphate groups.</para>
+<figure id="fig-ch03_05_01" class=" "><media id="fs-id1477162" alt="The molecular structure of a nucleotide is shown. The core of the nucleotide is a pentose whose carbon residues are numbered one prime through five prime. The base is attached to the one prime carbon, and the phosphate is attached to the five prime carbon. Two kinds of pentose are found in nucleotides: ribose and deoxyribose. Deoxyribose has an H instead of O H at the two prime position. Five kinds of base are found in nucleotides. Two of these, adenine and guanine, are purine bases with two rings fused together. The other three, cytosine, thymine and uracil, have one six-membered ring.">
+<image mime-type="image/jpg" src="../../media/Figure_03_05_01-d787.jpg" width="600"/>
+</media>
+
+<caption>Three components comprise a nucleotide: a nitrogenous base, a pentose sugar, and one or more phosphate groups. Carbon residues in the pentose are numbered 1′ through 5′ (the prime distinguishes these residues from those in the base, which are numbered without using a prime notation). The base is attached to the ribose's 1′ position, and the phosphate is attached to the 5′ position. When a polynucleotide forms, the incoming nucleotide's 5′ phosphate attaches to the 3′ hydroxyl group at the end of the growing chain. Two types of pentose are in nucleotides, deoxyribose (found in DNA) and ribose (found in RNA). Deoxyribose is similar in structure to ribose, but it has an H instead of an OH at the 2′ position. We can divide bases into two categories: purines and pyrimidines. Purines have a double ring structure, and pyrimidines have a single ring.</caption></figure><para id="fs-id1582478">The nitrogenous bases, important components of nucleotides, are organic molecules and are so named because they contain carbon and nitrogen. They are bases because they contain an amino group that has the potential of binding an extra hydrogen, and thus decreasing the hydrogen ion concentration in its environment, making it more basic. Each nucleotide in DNA contains one of four possible nitrogenous bases: adenine (A), guanine (G) cytosine (C), and thymine (T).</para>
+<para id="fs-id1354194">Scientists classify adenine and guanine as <term>purines</term>. The purine's primary structure is two carbon-nitrogen rings. Scientists classify cytosine, thymine, and uracil as <term>pyrimidines</term> which have a single carbon-nitrogen ring as their primary structure (<link target-id="fig-ch03_05_01" document=""/>). Each of these basic carbon-nitrogen rings has different functional groups attached to it. In molecular biology shorthand, we know the nitrogenous bases by their symbols A, T, G, C, and U. DNA contains A, T, G, and C; whereas, RNA contains A, U, G, and C.</para>
+<para id="fs-id1445473">The pentose sugar in DNA is deoxyribose, and in RNA, the sugar is ribose (<link target-id="fig-ch03_05_01" document=""/>). The difference between the sugars is the presence of the hydroxyl group on the ribose's second carbon and hydrogen on the deoxyribose's second carbon. The carbon atoms of the sugar molecule are numbered as 1′, 2′, 3′, 4′, and 5′ (1′ is read as “one prime”). The phosphate residue attaches to the hydroxyl group of the 5′ carbon of one sugar and the hydroxyl group of the 3′ carbon of the sugar of the next nucleotide, which forms a 5′–3′ <term>phosphodiester</term> linkage. A simple dehydration reaction like the other linkages connecting monomers in macromolecules does not form the phosphodiester linkage. Its formation involves removing two phosphate groups. A polynucleotide may have thousands of such phosphodiester linkages.</para></section>
+<section id="fs-id1511912">
+<title>DNA Double-Helix Structure</title>
+<para id="fs-id2188236">DNA has a double-helix structure (<link target-id="fig-ch03_05_02" document=""/>). The sugar and phosphate lie on the outside of the helix, forming the DNA's backbone. The nitrogenous bases are stacked in the interior, like a pair of staircase steps. Hydrogen bonds bind the pairs to each other. Every base pair in the double helix is separated from the next base pair by 0.34 nm. The helix's two strands run in opposite directions, meaning that the 5′ carbon end of one strand will face the 3′ carbon end of its matching strand. (Scientists call this an antiparallel orientation and is important to DNA replication and in many nucleic acid interactions.)</para>
+<figure id="fig-ch03_05_02"><media id="fs-id1368373" alt="The molecular structure of D N A is shown. D N A consists of two antiparallel strands twisted in a double helix. The phosphate backbone is on the outside, and the nitrogenous bases face one another on the inside.  The bases appear as strands between the phosphate backbone of the double helix.">
+<image mime-type="image/jpg" src="../../media/Figure_03_05_02-fbf5.jpg" width="250"/>
+</media>
+
+<caption>Native DNA is an antiparallel double helix. The phosphate backbone (indicated by the curvy lines) is on the outside, and the bases are on the inside. Each base from one strand interacts via hydrogen bonding with a base from the opposing strand. (credit: Jerome Walker/Dennis Myts)</caption></figure><para id="fs-id1769796">Only certain types of base pairing are allowed. For example, a certain purine can only pair with a certain pyrimidine. This means A can pair with T, and G can pair with C, as <link target-id="fig-ch03_05_03" document=""/> shows. This is the base complementary rule. In other words, the DNA strands are complementary to each other. If the sequence of one strand is AATTGGCC, the complementary strand would have the sequence TTAACCGG. During DNA replication, each strand copies itself, resulting in a daughter DNA double helix containing one parental DNA strand and a newly synthesized strand.</para>
+<note id="fs-id2321240" class="visual-connection"><label/><title>Visual Connection</title>
+<para id="fs-id2098380">
+<figure id="fig-ch03_05_03"><media id="fs-id1707961" alt="Hydrogen bonding between thymine and adenine and between guanine and cytosine is shown. Thymine forms two hydrogen bonds with adenine, and guanine forms three hydrogen bonds with cytosine. The phosphate backbones of each strand are on the outside and run in opposite directions.">
+<image mime-type="image/png" src="../../media/Figure_03_05_03-4351.png" width="350"/>
+</media>
+<caption>In a double stranded DNA molecule, the two strands run antiparallel to one another so that one strand runs 5′ to 3′ and the other 3′ to 5′. The phosphate backbone is located on the outside, and the bases are in the middle. Adenine forms hydrogen bonds (or base pairs) with thymine, and guanine base pairs with cytosine.</caption>
+</figure></para>
+<para id="fs-id1457824">A mutation occurs, and adenine replaces cytosine. What impact do you think this will have on the DNA structure?</para>
+</note></section>
+<section id="fs-id1780679">
+<title>RNA</title>
+<para id="fs-id2229626">Ribonucleic acid, or RNA, is mainly involved in the process of protein synthesis under the direction of DNA. RNA is usually single-stranded and is comprised of ribonucleotides that are linked by phosphodiester bonds. A ribonucleotide in the RNA chain contains ribose (the pentose sugar), one of the four nitrogenous bases (A, U, G, and C), and the phosphate group.</para>
+<para id="fs-id2626112">There are four major types of RNA: messenger RNA (mRNA), ribosomal RNA (rRNA), transfer RNA (tRNA), and microRNA (miRNA). The first, mRNA, carries the message from DNA, which controls all of the cellular activities in a cell. If a cell requires synthesizing a certain protein, the gene for this product turns “on” and the messenger RNA synthesizes in the nucleus. The RNA base sequence is complementary to the DNA's coding sequence from which it has been copied. However, in RNA, the base T is absent and U is present instead. If the DNA strand has a sequence AATTGCGC, the sequence of the complementary RNA is UUAACGCG. In the cytoplasm, the mRNA interacts with ribosomes and other cellular machinery (<link target-id="fig-ch03_05_04" document=""/>).</para>
+<figure id="fig-ch03_05_04"><media id="fs-id2074750" alt="An illustration of a ribosome is shown. m R N A sits between the large and small subunits. t R N A molecules bind the ribosome and add amino acids to the growing peptide chain.">
+<image mime-type="image/jpeg" src="../../media/Figure_03_05_04-c72d.jpg" width="400"/>
+</media>
+
+<caption>A ribosome has two parts: a large subunit and a small subunit. The mRNA sits in between the two subunits. A tRNA molecule recognizes a codon on the mRNA, binds to it by complementary base pairing, and adds the correct amino acid to the growing peptide chain.</caption></figure><para id="fs-id1813318">The mRNA is read in sets of three bases known as codons. Each codon codes for a single amino acid. In this way, the mRNA is read and the protein product is made. <term>Ribosomal RNA (rRNA)</term> is a major constituent of ribosomes on which the mRNA binds. The rRNA ensures the proper alignment of the mRNA and the Ribosomes. The ribosome's rRNA also has an enzymatic activity (peptidyl transferase) and catalyzes peptide bond formation between two aligned amino acids. <term>Transfer RNA (tRNA)</term> is one of the smallest of the four types of RNA, usually 70–90 nucleotides long. It carries the correct amino acid to the protein synthesis site. It is the base pairing between the tRNA and mRNA that allows for the correct amino acid to insert itself in the polypeptide chain. MicroRNAs are the smallest RNA molecules and their role involves regulating gene expression by interfering with the expression of certain mRNA messages. <link target-id="tab-ch03-05-01" document=""/> summarizes DNA and RNA features.</para>
+<table id="tab-ch03-05-01" summary="" class="top-titled">
+<tgroup cols="1">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col3" align="left">DNA and RNA Features</entry>
+</row>
+<row>
+<entry/>
+<entry>DNA</entry>
+<entry>RNA</entry>
+</row>
+</thead>
+<tbody>
+<row><entry>Function</entry><entry>Carries genetic information</entry><entry>Involved in protein synthesis</entry></row>
+<row><entry>Location</entry><entry>Remains in the nucleus</entry><entry>Leaves the nucleus</entry></row>
+<row><entry>Structure</entry><entry>Double helix</entry><entry>Usually single-stranded</entry></row>
+<row><entry>Sugar</entry><entry>Deoxyribose</entry><entry>Ribose</entry></row>
+<row><entry>Pyrimidines</entry><entry>Cytosine, thymine</entry><entry>Cytosine, uracil</entry></row>
+<row><entry>Purines</entry><entry>Adenine, guanine</entry><entry>Adenine, guanine</entry></row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1569149">Even though the RNA is single stranded, most RNA types show extensive intramolecular base pairing between complementary sequences, creating a predictable three-dimensional structure essential for their function.</para>
+<para id="fs-id1438288">As you have learned, information flow in an organism takes place from DNA to RNA to protein. DNA dictates the structure of mRNA in a process scientists call <term>transcription</term>, and RNA dictates the protein's structure in a process scientists call <term>translation</term>. This is the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections.</para>
+<note id="fs-id1883122" class="interactive"><label/><title>Link to Learning</title>
+<para id="fs-id2144933">To learn more about DNA, explore the <link window="new" url="http://openstax.org/l/DNA">Howard Hughes Medical Institute BioInteractive animations</link> on the topic of DNA.</para>
+</note></section>
+<section id="fs-id1786911" class="summary">
+<title>Section Summary</title>
+<para id="fs-id2072549">Nucleic acids are molecules comprised of nucleotides that direct cellular activities such as cell division and protein synthesis. Pentose sugar, a nitrogenous base, and a phosphate group comprise each nucleotide. There are two types of nucleic acids: DNA and RNA. DNA carries the cell's genetic blueprint and passes it on from parents to offspring (in the form of chromosomes). It has a double-helical structure with the two strands running in opposite directions, connected by hydrogen bonds, and complementary to each other. RNA is a single-stranded polymer composed of linked nucleotides made up of a pentose sugar (ribose), a nitrogenous base, and a phosphate group. RNA is involved in protein synthesis and its regulation. Messenger RNA (mRNA) copies from the DNA, exports itself from the nucleus to the cytoplasm, and contains information for constructing proteins. Ribosomal RNA (rRNA) is a part of the ribosomes at the site of protein synthesis; whereas, transfer RNA (tRNA) carries the amino acid to the site of protein synthesis. The microRNA regulates using mRNA for protein synthesis.</para>
+</section>
+<section id="fs-id1341798" class="visual-exercise">
+<title>Visual Connection Questions</title>
+<exercise id="fs-id1258652"><problem id="fs-id1466846">
+<para id="fs-id1378818"><link target-id="fig-ch03_05_03" document=""/> A mutation occurs, and cytosine is replaced with adenine. What impact do you think this will have on the DNA structure?</para>
+</problem>
+<solution id="fs-id1797474">
+<label/>
+<para id="fs-id2121470"><link target-id="fig-ch03_05_03" document=""/> Adenine is larger than cytosine and will not be able to base pair properly with the guanine on the opposing strand. This will cause the DNA to bulge. DNA repair enzymes may recognize the bulge and replace the incorrect nucleotide.</para>
+</solution>
+</exercise></section>
+<section id="fs-id1998990" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id2024549">
+<problem id="fs-id2626161">
+<para id="fs-id2016612">A nucleotide of DNA may contain ________.</para>
+<list id="fs-id1597187" list-type="enumerated" number-style="lower-alpha">
+<item>ribose, uracil, and a phosphate group</item>
+<item>deoxyribose, uracil, and a phosphate group</item>
+<item>deoxyribose, thymine, and a phosphate group</item>
+<item>ribose, thymine, and a phosphate group</item>
+</list>
+</problem>
+<solution id="fs-id1812286">
+<label/>
+<para id="fs-id2904690">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2081310">
+<problem id="fs-id1836812">
+<para id="fs-id1797963">The building blocks of nucleic acids are ________.</para>
+<list id="fs-id2168972" list-type="enumerated" number-style="lower-alpha">
+<item>sugars</item>
+<item>nitrogenous bases</item>
+<item>peptides</item>
+<item>nucleotides</item>
+</list>
+</problem>
+<solution id="fs-id2017347">
+<label/>
+<para id="fs-id1631447">D</para>
+</solution>
+</exercise>
+<exercise id="fs-idm71000707">
+<problem id="fs-idp81418434"><para id="fs-idm74380419">How does the double helix structure of DNA support its role in encoding the genome?</para>
+<list id="fs-idm67922758" list-type="enumerated" number-style="lower-alpha">
+<item>The sugar-phosphate backbone provides a template for DNA replication.</item>
+<item>tRNA pairing with the template strand creates proteins encoded by the genome.</item>
+<item>Complementary base pairing creates a very stable structure.</item>
+<item>Complementary base pairing allows for easy editing of both strands of DNA.</item>
+</list>
+</problem>
+<solution id="fs-idm40512362"><label/>
+<para id="fs-idm200102067">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1998848" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1787868">
+<problem id="fs-id2590556">
+<para id="fs-id1293730">What are the structural differences between RNA and DNA?</para></problem>
+<solution id="fs-id1479424"><label/>
+<para id="fs-id2581968">DNA has a double-helix structure. The sugar and the phosphate are on the outside of the helix and the nitrogenous bases are in the interior. The monomers of DNA are nucleotides containing deoxyribose, one of the four nitrogenous bases (A, T, G and C), and a phosphate group. RNA is usually single-stranded and is made of ribonucleotides that are linked by phosphodiester linkages. A ribonucleotide contains ribose (the pentose sugar), one of the four nitrogenous bases (A,U, G, and C), and the phosphate group.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1596510">
+<problem id="fs-id2904571">
+<para id="fs-id1454994">What are the four types of RNA and how do they function?</para></problem>
+<solution id="fs-id2026183"><label/>
+<para id="fs-id1966470">The four types of RNA are messenger RNA, ribosomal RNA, transfer RNA, and microRNA. Messenger RNA carries the information from the DNA that controls all cellular activities. The mRNA binds to the ribosomes that are constructed of proteins and rRNA, and tRNA transfers the correct amino acid to the site of protein synthesis. microRNA regulates the availability of mRNA for translation.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2138705"><term>deoxyribonucleic acid (DNA)</term> <meaning id="fs-id2046936">double-helical molecule that carries the cell's hereditary information</meaning></definition>
+<definition id="fs-id2570918"><term>messenger RNA (mRNA)</term> <meaning id="fs-id1957585">RNA that carries information from DNA to ribosomes during protein synthesis</meaning></definition>
+<definition id="fs-id2491136"><term>nucleic acid</term> <meaning id="fs-id2491445">biological macromolecule that carries the cell's genetic blueprint and carries instructions for the cell's functioning</meaning></definition>
+<definition id="fs-id2229589"><term>nucleotide</term> <meaning id="fs-id2054731">monomer of nucleic acids; contains a pentose sugar, one or more phosphate groups, and a nitrogenous base</meaning></definition>
+<definition id="fs-id2075294"><term>phosphodiester</term> <meaning id="fs-id2196372"><emphasis effect="bold">linkage</emphasis> covalent chemical bond that holds together the polynucleotide chains with a phosphate group linking neighboring nucleotides' two pentose sugars</meaning></definition>
+<definition id="fs-id1676095"><term>polynucleotide</term> <meaning id="fs-id1291437">long chain of nucleotides</meaning></definition>
+<definition id="fs-id2590657"><term>purine</term> <meaning id="fs-id2896121">type of nitrogenous base in DNA and RNA; adenine and guanine are purines</meaning></definition>
+<definition id="fs-id1396854"><term>pyrimidine</term> <meaning id="fs-id2188277">type of nitrogenous base in DNA and RNA; cytosine, thymine, and uracil are pyrimidines</meaning></definition>
+<definition id="fs-id1983258"><term>ribonucleic acid (RNA)</term> <meaning id="fs-id2337265">single-stranded, often internally base paired, molecule that is involved in protein synthesis</meaning></definition>
+<definition id="fs-id1827129"><term>ribosomal RNA (rRNA)</term> <meaning id="fs-id2422932">RNA that ensures the proper alignment of the mRNA and the ribosomes during protein synthesis and catalyzes forming the peptide linkage</meaning></definition>
+<definition id="fs-id1479001"><term>transcription</term> <meaning id="fs-id1813283">process through which messenger RNA forms on a template of DNA</meaning></definition>
+<definition id="fs-id1982881"><term>transfer RNA (tRNA)</term> <meaning id="fs-id1671396">RNA that carries activated amino acids to the site of protein synthesis on the ribosome</meaning></definition>
+<definition id="fs-id1445625"><term>translation</term> <meaning id="fs-id2008474">process through which RNA directs the protein's formation</meaning></definition>
+</glossary>
+</document>

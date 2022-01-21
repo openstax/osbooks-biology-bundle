@@ -1,0 +1,192 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Chromosomal Theory and Genetic Linkage</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66491</md:content-id>
+  <md:title>Chromosomal Theory and Genetic Linkage</md:title>
+  <md:abstract><para>By the end of this section, you will be able to do the following:</para><list>
+<item>Discuss Sutton’s Chromosomal Theory of Inheritance</item> 
+<item>Describe genetic linkage</item>
+<item>Explain the process of homologous recombination, or crossing over</item>
+<item>Describe chromosome creation</item>
+<item>Calculate the distances between three genes on a chromosome using a three-point test cross</item>
+</list></md:abstract>
+  <md:uuid>d823be9f-2c63-46d3-a430-11322e011f76</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2021443">Long before scientists visualized chromosomes under a microscope, the father of modern genetics, Gregor Mendel, began studying heredity in 1843. With improved microscopic techniques during the late 1800s, cell biologists could stain and visualize subcellular structures with dyes and observe their actions during cell division and meiosis. With each mitotic division, chromosomes replicated, condensed from an amorphous (no constant shape) nuclear mass into distinct X-shaped bodies (pairs of identical sister chromatids), and migrated to separate cellular poles.</para>
+<section id="fs-id2904526">
+<title>Chromosomal Theory of Inheritance</title>
+<para id="fs-id1406190">The speculation that chromosomes might be the key to understanding heredity led several scientists to examine Mendel’s publications and reevaluate his model in terms of chromosome behavior during mitosis and meiosis. In 1902, Theodor Boveri observed that proper sea urchin embryonic development does not occur unless chromosomes are present. That same year, Walter Sutton observed chromosome separation into daughter cells during meiosis (<link target-id="fig-ch13_01_01" document=""/>). Together, these observations led to the <term>Chromosomal Theory of Inheritance</term>, which identified chromosomes as the genetic material responsible for Mendelian inheritance.</para>
+<figure id="fig-ch13_01_01"><media id="fs-id2011864" alt="Part a is a photo of Walter Sutton. Part b is a photo of Theodor Boveri. Part c is a picture of Eleanor Carothers holding a grasshopper cage.">
+<image mime-type="image/jpg" src="../../media/Figure_13_01_01-dc41.jpg" width="475"/>
+</media>
+
+<caption>(a) Walter Sutton and (b) Theodor Boveri developed the Chromosomal Theory of Inheritance, which states that chromosomes carry the unit of heredity (genes). Eleanor Carothers (c), was the first to provide physical evidence supporting the  theory.</caption></figure><para id="fs-id1236139">The Chromosomal Theory of Inheritance was consistent with Mendel’s laws, which the following observations supported:</para>
+<list id="fs-id1770608">
+<item>During meiosis, homologous chromosome pairs migrate as discrete structures that are independent of other chromosome pairs.</item>
+<item>Chromosome sorting from each homologous pair into pre-gametes appears to be random.</item>
+<item>Each parent synthesizes gametes that contain only half their chromosomal complement.</item>
+<item>Even though male and female gametes (sperm and egg) differ in size and morphology, they have the same number of chromosomes, suggesting equal genetic contributions from each parent.</item>
+<item>The gametic chromosomes combine during fertilization to produce offspring with the same chromosome number as their parents.</item>
+</list>
+<para id="fs-id2335848">Despite the lack of direct evidence that chromosomes carry traits, the compelling correlation between chromosome behavior during meiosis and Mendel's abstract laws led scientists to propose the Chromosomal Theory of Inheritance. Critics pointed out that individuals had far more independently segregating traits than they had chromosomes. About ten years after the theory was proposed, Eleanor Carothers was the first to discover physical evidence supporting it; she observed independent chromosome assortment in grasshoppers. Then, after several years of carrying out crosses with the fruit fly, <emphasis effect="italics">Drosophila melanogaster</emphasis>, Thomas Hunt Morgan provided additional experimental evidence to support the Chromosomal Theory of Inheritance.</para></section>
+<section id="fs-id1396027">
+<title>Genetic Linkage and Distances</title>
+<para id="fs-id1780491">Mendel’s work suggested that traits are inherited independently of each other. Morgan identified a 1:1 correspondence between a segregating trait and the X chromosome, suggesting that random chromosome segregation was the physical basis of Mendel’s model. This also demonstrated that linked genes disrupt Mendel’s predicted outcomes. That each chromosome can carry many linked genes explains how individuals can have many more traits than they have chromosomes. However, researchers in Morgan’s laboratory suggested that alleles positioned on the same chromosome were not always inherited together. During meiosis, linked genes somehow became unlinked.</para>
+<section id="fs-id2571351">
+<title>Homologous Recombination</title>
+<para id="fs-id2047023">In 1909, Frans Janssen observed chiasmata—the point at which chromatids are in contact with each other and may exchange segments—prior to the first meiosis division. He suggested that alleles become unlinked and chromosomes physically exchange segments. As chromosomes condensed and paired with their homologs, they appeared to interact at distinct points. Janssen suggested that these points corresponded to regions in which chromosome segments exchanged. We now know that the pairing and interaction between homologous chromosomes, or synapsis, does more than simply organize the homologs for migration to separate daughter cells. When synapsed, homologous chromosomes undergo reciprocal physical exchanges at their arms in <term>homologous recombination</term>, or more simply, “crossing over.”</para>
+<para id="fs-id1468864">To better understand the type of experimental results that researchers were obtaining at this time, consider a heterozygous individual that inherited dominant maternal alleles for two genes on the same chromosome (such as<emphasis effect="italics"> AB</emphasis>) and two recessive paternal alleles for those same genes (such as <emphasis effect="italics">ab</emphasis>). If the genes are linked, one would expect this individual to produce gametes that are either <emphasis effect="italics">AB</emphasis> or <emphasis effect="italics">ab</emphasis> with a 1:1 ratio. If the genes are unlinked, the individual should produce <emphasis effect="italics">AB</emphasis>, <emphasis effect="italics">Ab</emphasis>, <emphasis effect="italics">aB</emphasis>, and <emphasis effect="italics">ab</emphasis> gametes with equal frequencies, according to the Mendelian concept of independent assortment. Because they correspond to new allele combinations, the genotypes Ab and aB are <term>nonparental types</term> that result from homologous recombination during meiosis. <term>Parental types</term> are progeny that exhibit the same allelic combination as their parents. Morgan and his colleagues, however, found that when they test crossed such heterozygous individuals to a homozygous recessive parent (<emphasis effect="italics">AaBb</emphasis> × <emphasis effect="italics">aabb</emphasis>), both parental and nonparental cases occurred. For example, 950 offspring might be recovered that were either <emphasis effect="italics">AaBb</emphasis> or <emphasis effect="italics">aabb</emphasis>, but 50 offspring would also result that were either <emphasis effect="italics">Aabb</emphasis> or <emphasis effect="italics">aaBb</emphasis>. These results suggested that linkage occurred most often, but a significant minority of offspring were the products of recombination.</para>
+<note id="fs-id1595360" class="visual-connection"><label/><title>Visual Connection</title>
+<para id="fs-id1612804">
+<figure id="fig-ch13_01_02" class=" "><media id="fs-id1262550" alt="The illustration shows the possible inheritance patterns of linked and unlinked genes. The example used includes fruit fly body color and wing length. Fruit flies may have a dominant gray color upper case G, or a recessive black color lower case g. They may have dominant long wings upper case L, or recessive short wings, lower case l. Three hypothetical inheritance patterns for a test cross between a heterozygous and a recessive fruit fly are shown, based on gene placement. The actual experimental results published by Thomas Hunt Morgan in 1912 are also shown. In the first hypothetical inheritance pattern in part a, the genes for the two characteristics are on different chromosomes. Independent assortment occurs so that the ratio of genotypes in the offspring is 1 upper G lower g upper L lower l colong 1. lower g lower g lower l lower l colon 1. upper G lower g lower l lower l colong 1. lower g lower g upper L lower l, and 50% of the offspring are nonparental types. In the second hypothetical inheritance pattern in part b, the genes are close together on the same chromosome so that no crossover occurs between them. The ratio of genotypes is 1 upper G lower g upper L lower l colon 1. lower g lower g lower l lower l, and none of the offspring are recombinant. In the third hypothetical inheritance pattern in part c, the genes are far apart on the same chromosome so that crossing over occurs 100% of the time. The ratio of genotypes is the same as for genes on two different chromosomes, and 50% of the offspring are recombinant, nonparental types. Part d shows that the number of offspring that Thomas Hunt Morgan actually observed was 965 colon 944 colon 206 colon 185, which is upper G lower g upper L lower l colon lower g lower g lower l lower l colon upper G lower g lower l lower l colon, lower g lower g upper L lower l. Seventeen percent of the offspring were recombinant, indicating that the genes are on the same chromosome and crossing over occurs between them some of the time.">
+<image mime-type="image/jpg" src="../../media/Figure_13_01_02-3aa7.jpg" width="570"/>
+</media>
+
+<caption>This figure shows unlinked and linked gene inheritance patterns. In (a), two genes are located on different chromosomes so independent assortment occurs during meiosis. The offspring have an equal chance of being the parental type (inheriting the same combination of traits as the parents) or a nonparental type (inheriting a different combination of traits than the parents). In (b), two genes are very close together on the same chromosome so that no crossing over occurs between them. Therefore, the genes are always inherited together and all the offspring are the parental type. In (c), two genes are far apart on the chromosome such that crossing over occurs during every meiotic event. The recombination frequency will be the same as if the genes were on separate chromosomes. (d) The actual recombination frequency of fruit fly wing length and body color that Thomas Morgan observed in 1912 was 17 percent. A crossover frequency between 0 percent and 50 percent indicates that the genes are on the same chromosome and crossover sometimes occurs.</caption></figure></para>
+<para id="fs-id2573656">In a test cross for two characteristics such as the one here, can the recombinant offspring's predicted frequency be 60 percent? Why or why not?</para><!-- <solution>
+<para><link window="new" target-id="fig-ch13_01_02" document=""/> No. The predicted frequency of recombinant offspring ranges from 0% (for linked traits) to 50% (for unlinked traits).</para>
+</solution> -->
+</note>
+</section>
+<section id="fs-id1627133">
+<title>Genetic Maps</title>
+<para id="fs-id1645084">Janssen did not have the technology to demonstrate crossing over so it remained an abstract idea that scientists did not widely believe. Scientists thought chiasmata were a variation on synapsis and could not understand how chromosomes could break and rejoin. Yet, the data were clear that linkage did not always occur. Ultimately, it took a young undergraduate student and an “all-nighter” to mathematically elucidate the linkage and recombination problem.</para>
+<para id="fs-id1684950">In 1913, Alfred Sturtevant, a student in Morgan’s laboratory, gathered results from researchers in the laboratory, and took them home one night to mull them over. By the next morning, he had created the first “chromosome map,” a linear representation of gene order and relative distance on a chromosome (<link target-id="fig-ch13_01_03" document=""/>).</para>
+<note id="fs-id1941826" class="visual-connection"><label/><title>Visual Connection</title>
+<para id="fs-id2186799">
+<figure id="fig-ch13_01_03"><media id="fs-id1464025" alt="The illustration shows a Drosophila genetic map. The gene for aristae length occurs at 0 centimorgans, or lower case c upper case M. The gene for body color occurs at 48.5 lower c upper M. The gene for red versus cinnabar eye color occurs at 57.5 lower c upper M. The gene for wing length occurs at 65.5 lower c upper M, and the gene for red versus brown eye color occurs at 104.5 lower c upper M. One lower c upper M is equivalent to a recombination frequency of 0.01.">
+<image mime-type="image/png" src="../../media/Figure_13_01_03.png" width="200"/>
+</media>
+
+<caption>This genetic map orders <emphasis effect="italics">Drosophila</emphasis> genes on the basis of recombination frequency.</caption></figure></para>
+<para id="fs-id1785828">Which of the following statements is true?</para>
+<list id="fs-id1511608" list-type="enumerated" number-style="lower-alpha"><item>Recombination of the body color and red/cinnabar eye alleles will occur more frequently than recombination of the alleles for wing length and aristae length.</item>
+<item>Recombination of the body color and aristae length alleles will occur more frequently than recombination of red/brown eye alleles and the aristae length alleles.</item>
+<item>Recombination of the gray/black body color and long/short aristae alleles will not occur.</item>
+<item>Recombination of the red/brown eye and long/short aristae alleles will occur more frequently than recombination of the alleles for wing length and body color.</item>
+</list><!-- <solution>
+<para><link window="new" target-id="fig-ch13_01_03" document=""/>D</para>
+</solution> -->
+</note>
+<para id="fs-id2137494">As <link target-id="fig-ch13_01_03" document=""/> shows, by using recombination frequency to predict genetic distance, we can infer the relative gene order on chromosome 2. The values represent map distances in centimorgans (cM), which correspond to recombination frequencies (in percent). Therefore, the genes for body color and wing size were 65.5 − 48.5 = 17 cM apart, indicating that the maternal and paternal alleles for these genes recombine in 17 percent of offspring, on average.</para>
+<para id="fs-id1951192">To construct a chromosome map, Sturtevant assumed that genes were ordered serially on threadlike chromosomes. He also assumed that the incidence of recombination between two homologous chromosomes could occur with equal likelihood anywhere along the chromosome's length. Operating under these assumptions, Sturtevant postulated that alleles that were far apart on a chromosome were more likely to dissociate during meiosis simply because there was a larger region over which recombination could occur. Conversely, alleles that were close to each other on the chromosome were likely to be inherited together. The average number of crossovers between two alleles—that is, their <term>recombination frequency</term>—correlated with their genetic distance from each other, relative to the locations of other genes on that chromosome. Considering the example cross between <emphasis effect="italics">AaBb</emphasis> and <emphasis effect="italics">aabb</emphasis> above, we could calculate the recombination's frequency as 50/1000 = 0.05. That is, the likelihood of a crossover between genes <emphasis effect="italics">A/a</emphasis> and <emphasis effect="italics">B/b</emphasis> was 0.05, or 5 percent. Such a result would indicate that the genes were definitively linked, but that they were far enough apart for crossovers to occasionally occur. Sturtevant divided his genetic map into map units, or <term>centimorgans (cM)</term>, in which a 0,01 recombination frequency corresponds to 1 cM.</para>
+<para id="fs-id2100648">By representing alleles in a linear map, Sturtevant suggested that genes can range from linking perfectly (recombination frequency = 0) to unlinking perfectly (recombination frequency = 0.5) when genes are on different chromosomes or genes separate very far apart on the same chromosome. Perfectly unlinked genes correspond to the frequencies Mendel predicted to assort independently in a dihybrid cross. A 0.5 recombination frequency indicates that 50 percent of offspring are recombinants and the other 50 percent are parental types. That is, every type of allele combination is represented with equal frequency. This representation allowed Sturtevant to additively calculate distances between several genes on the same chromosome. However, as the genetic distances approached 0.50, his predictions became less accurate because it was not clear whether the genes were very far apart on the same or on different chromosomes.</para>
+<para id="fs-id1341900">In 1931, Barbara McClintock and Harriet Creighton demonstrated the crossover of homologous chromosomes in corn plants. Weeks later, Curt Stern demonstrated microscopically homologous recombination in <emphasis effect="italics">Drosophila</emphasis>. Stern observed several X-linked phenotypes that were associated with a structurally unusual and dissimilar X chromosome pair in which one X was missing a small terminal segment, and the other X was fused to a piece of the Y chromosome. By crossing flies, observing their offspring, and then visualizing the offspring’s chromosomes, Stern demonstrated that every time the offspring allele combination deviated from either of the parental combinations, there was a corresponding exchange of an X chromosome segment. Using mutant flies with structurally distinct X chromosomes was the key to observing the products of recombination because DNA sequencing and other molecular tools were not yet available. We now know that homologous chromosomes regularly exchange segments in meiosis by reciprocally breaking and rejoining their DNA at precise locations. Aurora Ruiz-Herrera, for example, studies the occurrence of genetic breakpoints at locations in the chromosomes known as fragile sites. By identifying chromosomal fragile sites that are shared between humans and other primates, Ruiz-Herrera has provided a deeper understanding of mammalian and specifically human evolution. </para><note id="fs-id2060998" class="interactive"><label/><title>Link to Learning</title>
+<para id="fs-id2570945">Review Sturtevant’s process to create a genetic map on the basis of recombination frequencies <link window="new" url="http://openstax.org/l/gene_crossover">here</link>.</para>
+</note>
+</section>
+<section id="fs-id1961794">
+<title>Mendel’s Mapped Traits</title>
+<para id="fs-id1802180">Homologous recombination is a common genetic process, yet Mendel never observed it. Had he investigated both linked and unlinked genes, it would have been much more difficult for him to create a unified model of his data on the basis of probabilistic calculations. Researchers who have since mapped the seven traits that Mendel investigated onto a pea plant genome's seven chromosomes have confirmed that all the genes he examined are either on separate chromosomes or are sufficiently far apart as to be statistically unlinked. Some have suggested that Mendel was enormously lucky to select only unlinked genes; whereas, others question whether Mendel discarded any data suggesting linkage. In any case, Mendel consistently observed independent assortment because he examined genes that were effectively unlinked.</para>
+</section>
+</section>
+<section id="fs-id2336690" class="summary">
+<title>Section Summary</title>
+<para id="fs-id1506798">Sutton and Boveri's Chromosomal Theory of Inheritance states that chromosomes are the vehicles of genetic heredity. Neither Mendelian genetics nor gene linkage is perfectly accurate. Instead, chromosome behavior involves segregation, independent assortment, and occasionally, linkage. Sturtevant devised a method to assess recombination frequency and infer linked genes' relative positions and distances on a chromosome on the basis of the average number of crossovers in the intervening region between the genes. Sturtevant correctly presumed that genes are arranged in serial order on chromosomes and that recombination between homologs can occur anywhere on a chromosome with equal likelihood. Whereas linkage causes alleles on the same chromosome to be inherited together, homologous recombination biases alleles toward an independent inheritance pattern.</para>
+</section>
+<section id="fs-idp60956688" class="visual-exercise">
+<title>Visual Connection Questions</title>
+<exercise id="fs-idp49371568">
+<problem id="fs-idp83566544">
+<para id="fs-idp8315472"><link target-id="fig-ch13_01_02" document=""/> In a test cross for two characteristics such as the one shown here, can the predicted frequency of recombinant offspring be 60 percent? Why or why not?</para></problem>
+<solution id="fs-idp38697712"><label/>
+<para id="fs-idm9214224"><link target-id="fig-ch13_01_02" document=""/> No. The predicted frequency of recombinant offspring ranges from 0% (for linked traits) to 50% (for unlinked traits).</para>
+</solution>
+</exercise>
+<exercise id="fs-idp13107328">
+<problem id="fs-idp196286160">
+<para id="fs-idp48650576"><link target-id="fig-ch13_01_03" document=""/> Which of the following statements is true?</para>
+<list id="fs-idp149339680" list-type="enumerated" number-style="lower-alpha"><item>Recombination of the body color and red/cinnabar eye alleles will occur more frequently than recombination of the alleles for wing length and aristae length.</item>
+<item>Recombination of the body color and aristae length alleles will occur more frequently than recombination of red/brown eye alleles and the aristae length alleles.</item>
+<item>Recombination of the gray/black body color and long/short aristae alleles will not occur.</item>
+<item>Recombination of the red/brown eye and long/short aristae alleles will occur more frequently than recombination of the alleles for wing length and body color.</item>
+</list></problem>
+<solution id="fs-idp119823280"><label/>
+<para id="fs-idm2755664"><link target-id="fig-ch13_01_03" document=""/> D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2321141" class="multiple-choice">
+<title>Review Questions</title><exercise id="fs-id1596619">
+<problem id="fs-id1480619">
+<para id="fs-id1723705">X-linked recessive traits in humans (or in <emphasis effect="italics">Drosophila</emphasis>) are observed ________.</para>
+<list id="fs-id1894764" list-type="enumerated" number-style="lower-alpha">
+<item>in more males than females</item>
+<item>in more females than males</item>
+<item>in males and females equally</item>
+<item>in different distributions depending on the trait</item>
+</list>
+</problem>
+<solution id="fs-id2570734">
+<label/>
+<para id="fs-id2075720">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id2165395">
+<problem id="fs-id1803123">
+<para id="fs-id2190439">The first suggestion that chromosomes may physically exchange segments came from the microscopic identification of ________.</para>
+<list id="fs-id2574822" list-type="enumerated" number-style="lower-alpha">
+<item>synapsis</item>
+<item>sister chromatids</item>
+<item>chiasmata</item>
+<item>alleles</item>
+</list>
+</problem>
+<solution id="fs-id1780811">
+<label/>
+<para id="fs-id1695753">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2914799">
+<problem id="fs-id1988877">
+<para id="fs-id2110663">Which recombination frequency corresponds to independent assortment and the absence of linkage?</para>
+<list id="fs-id2315538" list-type="enumerated" number-style="lower-alpha">
+<item>0</item>
+<item>0.25</item>
+<item>0.50</item>
+<item>0.75</item>
+</list>
+</problem>
+<solution id="fs-id2155997">
+<label/>
+<para id="fs-id1236538">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2310144">
+<problem id="fs-id2897234">
+<para id="fs-id1720799">Which recombination frequency corresponds to perfect linkage and violates the law of independent assortment?</para>
+<list id="fs-id1798480" list-type="enumerated" number-style="lower-alpha">
+<item>0</item>
+<item>0.25</item>
+<item>0.50</item>
+<item>0.75</item>
+</list>
+</problem>
+<solution id="fs-id2914634">
+<label/>
+<para id="fs-id1238553">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1384518" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2890873">
+<problem id="fs-id2914426">
+<para id="fs-id2317257">Explain how the Chromosomal Theory of Inheritance helped to advance our understanding of genetics.</para></problem>
+<solution id="fs-id2491136"><label/>
+<para id="fs-id2321542">The Chromosomal Theory of Inheritance proposed that genes reside on chromosomes. The understanding that chromosomes are linear arrays of genes explained linkage, and crossing over explained recombination.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2200120"><term>centimorgan (cM)</term> <meaning id="fs-id1797882">(also, map unit) relative distance that corresponds to a 0,01 recombination frequency</meaning></definition>
+<definition id="fs-id1310227"><term>Chromosomal Theory of Inheritance</term> <meaning id="fs-id1467930">theory proposing that chromosomes are the genes' vehicles and that their behavior during meiosis is the physical basis of the inheritance patterns that Mendel observed</meaning></definition>
+<definition id="fs-id2248874"><term>homologous recombination</term> <meaning id="fs-id1957277">process by which homologous chromosomes undergo reciprocal physical exchanges at their arms, also crossing over</meaning></definition>
+<definition id="fs-id3241178"><term>nonparental (recombinant) type</term> <meaning id="fs-id2013517">progeny resulting from homologous recombination that exhibits a different allele combination compared with its parents</meaning></definition>
+<definition id="fs-id2891394"><term>parental types</term> <meaning id="fs-id1986668">progeny that exhibits the same allelic combination as its parents</meaning></definition>
+<definition id="fs-id2595875"><term>recombination frequency</term> <meaning id="fs-id2026021">average number of crossovers between two alleles; observed as the number of nonparental types in a progeny's population</meaning></definition>
+</glossary>
+</document>

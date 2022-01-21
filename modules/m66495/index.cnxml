@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66495</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>a298f528-7d7c-4885-839d-8c818ed91fac</md:uuid>
+</metadata>
+
+<content>
+ <figure id="fig-ch15_00_00" class="splash"><media id="fs-id1796314" alt="Molecular models show a DNA double helix that is packed in a chromosome in Part a, and two proteins are shown in Parts b and c.">
+<image mime-type="image/jpg" src="../../media/Figure_15_00_01-5eb1.jpg" width="500"/>
+</media>
+<caption>Genes, which are carried on (a) chromosomes, are linearly organized instructions for making the RNA and protein molecules that are necessary for all of the processes of life. The (b) interleukin-2 protein and (c) alpha-2u-globulin protein are just two examples of the array of different molecular structures that are encoded by genes. (credit “chromosome: National Human Genome Research Institute; credit “interleukin-2”: Ramin Herati/Created from PDB 1M47 and rendered with Pymol; credit “alpha-2u-globulin”: Darren Logan/rendered with AISMIG)</caption></figure>
+<para id="fs-id1728094">Since the rediscovery of Mendel’s work in 1900, the definition of the gene has progressed from an abstract unit of heredity to a tangible molecular entity capable of replication, expression, and mutation (<link target-id="fig-ch15_00_00" document=""/>). Genes are composed of DNA and are linearly arranged on chromosomes. Genes specify the sequences of amino acids, which are the building blocks of proteins. In turn, proteins are responsible for orchestrating nearly every function of the cell. Both genes and the proteins they encode are absolutely essential to life as we know it.</para> </content>
+</document>
