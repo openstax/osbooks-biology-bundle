@@ -527,11 +527,11 @@ illustrate?</para>
 <exercise id="fs-id1164967491275">
 <problem id="fs-id1164967635276">
 <para id="fs-id1164967443665">Gram-negative bacteria have an inner cytoplasmic membrane separated by a peptidoglycan layer from a second outer membrane.  In addition, transport proteins called efflux pumps span this double membrane and actively eliminate chemicals such as antibiotics that pass through porins on the outer membrane.  These efflux pumps can confer multi-drug resistance, a situation that is threatening human health.</para>
-<para id="fs-id1164965589895">A. <term>Explain</term> how combining a drug that disrupts ATP synthesis in bacteria with antibiotics is a possible strategy for the treatment of bacterial infections caused by antibiotic-resistant gram-negative bacteria.</para>
+<para id="fs-id1164965589895">A. <term id="term-00001">Explain</term> how combining a drug that disrupts ATP synthesis in bacteria with antibiotics is a possible strategy for the treatment of bacterial infections caused by antibiotic-resistant gram-negative bacteria.</para>
 <para id="fs-id1164965421985">ATP synthesis in prokaryotes is accomplished by a protein that connects the extracellular space to the cytoplasm.  In gram-negative bacteria, the proton gradient that supplies the free energy to convert ADP into ATP is established across the inner membrane.</para>
-<para id="fs-id1164967592978">B. <term>Predict</term> differences in the interactions of eukaryotic and prokaryotic cells with a drug molecule that successfully targets ATP synthesis and provide reasoning for your predictions.</para>
+<para id="fs-id1164967592978">B. <term id="term-00002">Predict</term> differences in the interactions of eukaryotic and prokaryotic cells with a drug molecule that successfully targets ATP synthesis and provide reasoning for your predictions.</para>
 <para id="fs-id1164959559444">In gram-positive bacteria, ATP synthesis is accomplished by a protein that spans the single membrane and the outer cell wall.  During the production of yogurt and wine, which rely on gram-positive bacteria, the pH is controlled.  Sodium bicarbonate secretions from the pancreas maintain the pH of the human intestine, where many beneficial methanogens are gram-positive bacteria.</para>
-<para id="fs-id1164967882583">C. <term>Explain</term> why homeostasis for gram-positive bacteria requires control of extracellular pH.</para>
+<para id="fs-id1164967882583">C. <term id="term-00003">Explain</term> why homeostasis for gram-positive bacteria requires control of extracellular pH.</para>
 </problem>
 </exercise>
 </section>
