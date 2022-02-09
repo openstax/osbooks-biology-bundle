@@ -1,5 +1,5 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="biology" collection-id="col11448" href="../collections/biology.collection.xml" />
-    <book slug="concepts-biology" collection-id="col11487" href="../collections/concepts-biology.collection.xml" />
-    <book slug="biology-ap-courses" collection-id="col12078" href="../collections/biology-ap-courses.collection.xml" />
+    <book slug="biology" collection-id="col11448" style="biology" href="../collections/biology.collection.xml" />
+    <book slug="concepts-biology" collection-id="col11487" style="biology" href="../collections/concepts-biology.collection.xml" />
+    <book slug="biology-ap-courses" collection-id="col12078" style="ap-biology" href="../collections/biology-ap-courses.collection.xml" />
 </container>
