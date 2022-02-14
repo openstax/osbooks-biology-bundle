@@ -5,7 +5,7 @@
   <md:content-id>m44486</md:content-id>
   <md:title>DNA Structure and Sequencing</md:title>
   <md:abstract>By the end of this section, you will be able to:
-<list>
+<list id="list-00001">
 <item>Describe the structure of DNA</item>
 <item>Explain the Sanger method of DNA sequencing</item>
 <item>Discuss the similarities and differences between eukaryotic and prokaryotic DNA</item>
@@ -45,7 +45,7 @@
 <image mime-type="image/png" src="../../media/DNA_and_genomes.png" width="120"/>
 </media>
       <para id="fs-id1968434">Sanger’s genome sequencing has led to a race to sequence human genomes at a rapid speed and low cost, often referred to as the $1000 in one day sequence. Learn more by selecting the Sequencing at Speed animation <link window="new" url="http://openstaxcollege.org/l/DNA_and_genomes">here</link>.</para>
-</note><para id="fs-id2573656">Gel <term>electrophoresis</term> is a technique used to separate DNA fragments of different sizes. Usually the gel is made of a chemical called agarose. Agarose powder is added to a buffer and heated. After cooling, the gel solution is poured into a casting tray. Once the gel has solidified, the DNA is loaded on the gel and electric current is applied. The DNA has a net negative charge and moves from the negative electrode toward the positive electrode. The electric current is applied for sufficient time to let the DNA separate according to size; the smallest fragments will be farthest from the well (where the DNA was loaded), and the heavier molecular weight fragments will be closest to the well. Once the DNA is separated, the gel is stained with a DNA-specific dye for viewing it (<link target-id="fig-ch14_02_05" document=""/>).</para>
+</note><para id="fs-id2573656">Gel <term id="term-00001">electrophoresis</term> is a technique used to separate DNA fragments of different sizes. Usually the gel is made of a chemical called agarose. Agarose powder is added to a buffer and heated. After cooling, the gel solution is poured into a casting tray. Once the gel has solidified, the DNA is loaded on the gel and electric current is applied. The DNA has a net negative charge and moves from the negative electrode toward the positive electrode. The electric current is applied for sufficient time to let the DNA separate according to size; the smallest fragments will be farthest from the well (where the DNA was loaded), and the heavier molecular weight fragments will be closest to the well. Once the DNA is separated, the gel is stained with a DNA-specific dye for viewing it (<link target-id="fig-ch14_02_05" document=""/>).</para>
 <figure id="fig-ch14_02_05">
 <media id="fs-id2022421" alt="Photo shows an agarose gel illuminated under UV light. The gel is nine lanes across. Each lane was loaded with a sample containing DNA fragments of differing size that have separated as they travel through the gel, from top to bottom. The DNA appears as thin, white bands on a black background. Lanes one and nine contain many bands from a DNA standard. These bands are closely spaced toward the top, and spaced farther apart further down the gel. Lanes two through eight contain one or two bands each. Some of these bands are identical in size and run the same distance into the gel. Others run a slightly different distance, indicating a small difference in size.">
 <image mime-type="image/jpg" src="../../media/Figure_14_02_05-e1b4.jpg" width="320"/>
