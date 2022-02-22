@@ -46,7 +46,7 @@
 
 <caption>Random, independent assortment during metaphase I is demonstrated by considering a cell with a set of two chromosomes (n = 2).
 There are two possible homologous chromosome arrangements at the equatorial plane in metaphase I, that are then separated during anaphase I.
-The total possible number of different gametes is 2n, where n equals the number of chromosomes in a set. In this example, there are four possible
+The total possible number of different gametes is 2<sup>n</sup>, where n equals the number of chromosomes in a set. In this example, there are four possible
 genetic combinations for the gametes. With n = 23 in human cells, there are over eight million possible combinations of paternal and maternal
 chromosomes. Credit: Rao, A.and Fletcher, S. Department of Biology, Texas A&amp;M University.</caption></figure></section>
 <section id="fs-id1463196">
