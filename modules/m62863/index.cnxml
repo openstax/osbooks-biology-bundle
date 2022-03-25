@@ -239,7 +239,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_18_01_04ab-e353.jpg" width="400"/>
 </media>
 
-<caption>Flowering plants evolved from a common ancestor. Notice that the (a) dense blazing star (<emphasis effect="italics">Liatrus spicata</emphasis>) and the (b) purple coneflower (<emphasis effect="italics">Echinacea purpurea</emphasis>) vary in appearance, yet both share a similar basic morphology. (credit a: modification of work by Drew Avery; credit b: modification of work by Cory Zanker)</caption></figure><para id="fs-idp82793792">In other cases, similar phenotypes evolve independently in distantly related species. For example, flight has evolved in both bats and insects, and they both have structures we refer to as wings, which are adaptations to flight. However, the wings of bats and insects have evolved from very different original structures. This phenomenon is called convergent evolution, where  similar traits  evolve independently in species that do not share a common ancestry. The two species came to the same function, flying, but did so separately from each other.</para><para id="fs-idp48928224">These physical changes occur over enormous spans of time and help explain how evolution occurs. Natural selection acts on individual organisms, which in turn can shape an entire species. Although natural selection may work in a single generation on an individual, it can take thousands or even millions of years for the genotype of an entire species to evolve. It is over these large time spans that life on earth has changed and continues to change.</para>
+<caption>Flowering plants evolved from a common ancestor. Notice that the (a) dense blazing star (<emphasis effect="italics">Liatrus spicata</emphasis>) and the (b) purple coneflower (<emphasis effect="italics">Echinacea purpurea</emphasis>) vary in appearance, yet both share a similar basic morphology. (credit a: modification of work by Drew Avery; credit b: modification of work by Cory Zanker)</caption></figure><para id="fs-idp82793792">In other cases, similar phenotypes evolve independently in distantly related species. For example, flight has evolved in both bats and insects, and they both have structures we refer to as wings, which are adaptations to flight. However, the wings of bats and insects have evolved from very different original structures. This phenomenon is called convergent evolution, where  similar traits  evolve independently in species that do not share a recent common ancestry. The two species came to the same function, flying, but did so separately from each other.</para><para id="fs-idp48928224">These physical changes occur over enormous spans of time and help explain how evolution occurs. Natural selection acts on individual organisms, which in turn can shape an entire species. Although natural selection may work in a single generation on an individual, it can take thousands or even millions of years for the genotype of an entire species to evolve. It is over these large time spans that life on earth has changed and continues to change.</para>
 </section>
 <section id="fs-idm60806016" class="ost-tag-lo-apbio-ch18-s01-lo04 ost-tag-lo-apbio-ch18-s01-aplo-1-9 ost-tag-lo-apbio-ch18-s01-aplo-1-5 ost-get-exercise">
 <title>Evidence of Evolution</title>
@@ -847,7 +847,6 @@
      <m:mi>R</m:mi><m:mi>b</m:mi><m:mo>,</m:mo><m:mn>0</m:mn>
     </m:mrow>
    </m:msub>
-
   </m:mrow>
  </m:msub>
  <m:msup>
@@ -859,11 +858,327 @@
      <m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn>
     </m:mrow>
    </m:msub>
-
   </m:mrow>
  </m:msup>
-
 </m:math>
 </equation>
 
-<para id="fs-id1164965576891">This can be used to replace the initial number of <
+<para id="fs-id1164965576891">This can be used to replace the initial number of <sup>87</sup>Rb atoms, which cannot be measured, with the present-day value:</para>
+<equation id="fs-id1164960702948">
+<m:math display="block">
+ <m:mfrac>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>87</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>s</m:mi><m:mi>r</m:mi>
+      </m:mrow>
+     </m:msub>
+    </m:mrow>
+   </m:msub>
+  </m:mrow>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>86</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>s</m:mi><m:mi>r</m:mi>
+      </m:mrow>
+     </m:msub>
+    </m:mrow>
+   </m:msub>
+  </m:mrow>
+ </m:mfrac>
+ <m:mo>=</m:mo><m:mfrac>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>87</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>s</m:mi><m:mi>r</m:mi><m:mo>,</m:mo><m:mn>0</m:mn>
+      </m:mrow>
+     </m:msub>
+    </m:mrow>
+   </m:msub>
+  </m:mrow>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>86</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>s</m:mi><m:mi>r</m:mi>
+      </m:mrow>
+     </m:msub>
+    </m:mrow>
+   </m:msub>
+  </m:mrow>
+ </m:mfrac>
+ <m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:msup>
+  <m:mi>e</m:mi>
+  <m:mrow>
+   <m:mo>−</m:mo><m:mn>0.693</m:mn><m:mi>t</m:mi><m:mo>/</m:mo><m:msub>
+    <m:mi>T</m:mi>
+    <m:mrow>
+     <m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn>
+    </m:mrow>
+   </m:msub>
+  </m:mrow>
+ </m:msup>
+ <m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mfrac>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>87</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>R</m:mi><m:mi>b</m:mi>
+      </m:mrow>
+     </m:msub>
+    </m:mrow>
+   </m:msub>
+  </m:mrow>
+  <m:mrow>
+   <m:msub>
+    <m:mi>N</m:mi>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mn>86</m:mn>
+      </m:mrow>
+      <m:mrow>
+       <m:mi>s</m:mi><m:mi>r</m:mi>
+      </m:mrow>
+     </m:msub>
+    </m:mrow>
+   </m:msub>
+  </m:mrow>
+ </m:mfrac>
+</m:math>
+</equation>
+<para id="fs-id1164959911391">When the measurements of the numbers of <sup>87</sup>Rb and <sup>87</sup>Sr were made (Moorbath et al., <emphasis effect="italics">Nature</emphasis>, 1972), measurements of a second stable isotope of strontium, <sup>86</sup>Sr, were also made.  The ratio of the initial number of <sup>87</sup>Sr and <sup>86</sup>Sr atoms is the same as today, since the isotopes are both stable.  The value of this ratio is 0.71.</para><para id="fs-id1164967883743">This is a linear equation in the form <emphasis effect="italics">y = ax + b</emphasis>, where a is the term in parenthesis containing the half-life of <sup>87</sup>Rb. If <m:math display="block">
+ <m:mrow>
+  <m:mi>Y</m:mi><m:mo>=</m:mo><m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>87</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>S</m:mi><m:mi>r</m:mi>
+     </m:mrow>
+    </m:msub>
+   </m:mrow>
+  </m:msub>
+  <m:mo>/</m:mo><m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>86</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>S</m:mi><m:mi>r</m:mi>
+     </m:mrow>
+    </m:msub>
+   </m:mrow>
+  </m:msub>
+ </m:mrow></m:math> is graphed versus <m:math display="block">
+ <m:mrow>
+  <m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>87</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>R</m:mi><m:mi>b</m:mi>
+     </m:mrow>
+    </m:msub>
+   </m:mrow>
+  </m:msub>
+  <m:mo>/</m:mo><m:msub>
+   <m:mi>N</m:mi>
+   <m:mrow>
+    <m:msub>
+     <m:mrow>
+      <m:mn>86</m:mn>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>S</m:mi><m:mi>r</m:mi>
+     </m:mrow>
+    </m:msub>
+   </m:mrow>
+  </m:msub>
+  <m:mo>,</m:mo>
+ </m:mrow>
+</m:math>
+the slope can be used to determine the time, t, that has passed since the rock formed from melting: <m:math display="block">
+ <m:mrow>
+  <m:mi>a</m:mi><m:mo>=</m:mo><m:msup>
+   <m:mi>e</m:mi>
+   <m:mrow>
+    <m:mn>0.683</m:mn><m:mi>t</m:mi><m:mo>/</m:mo><m:msub>
+     <m:mi>T</m:mi>
+     <m:mrow>
+      <m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn>
+     </m:mrow>
+    </m:msub>
+   </m:mrow>
+  </m:msup>
+  <m:mo>−</m:mo><m:mn>1</m:mn>
+ </m:mrow>
+</m:math>, so <m:math display="block">
+ <m:mrow>
+  <m:mi>t</m:mi><m:mo>=</m:mo><m:mi>ln</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>•</m:mo><m:msub>
+   <m:mi>T</m:mi>
+   <m:mrow>
+    <m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn>
+   </m:mrow>
+  </m:msub>
+  <m:mo>/</m:mo><m:mn>0.693</m:mn>
+ </m:mrow>
+</m:math></para><para id="fs-id1164964256699">D. Data on the rubidium and strontium isotopes at Isua in Greenland are provided in the table. <emphasis>Analyze</emphasis> these data to obtain the age of formation of these rocks.</para>
+<table id="fs-id1164964267910" summary="This table has two columns. The rows read from left to right: Row one - N 87Rb / N 86Sr , N 87Sr / N 86Sr . Row two: .212, .711, Row three: .214 , .711. Row four: .223 , .712 , Row Five: .259 , .714 , Row six: .268 , .714 , Row seven: .267 , .715 , Row eight: .290 , .716 Row nine: .394 , .720 . Row ten: .434 , .723">
+<tgroup cols="2"><tbody>
+<row>
+<entry align="center">N 87<sub>Rb</sub> / N 86<sub>Sr</sub></entry>
+<entry align="center">N 87<sub>Sr</sub> / N 86<sub>Sr</sub></entry>
+</row>
+<row>
+<entry align="center">.212</entry>
+<entry align="center">.711</entry>
+</row>
+<row>
+<entry align="center">.214</entry>
+<entry align="center">.711</entry>
+</row>
+<row>
+<entry align="center">.223</entry>
+<entry align="center">.712</entry>
+</row>
+<row>
+<entry align="center">.259</entry>
+<entry align="center">.714</entry>
+</row>
+<row>
+<entry align="center">.268</entry>
+<entry align="center">.714</entry>
+</row>
+<row>
+<entry align="center">.267</entry>
+<entry align="center">.715</entry>
+</row>
+<row>
+<entry align="center">.290</entry>
+<entry align="center">.716</entry>
+</row>
+<row>
+<entry align="center">.394</entry>
+<entry align="center">.720</entry>
+</row>
+<row>
+<entry align="center">.434</entry>
+<entry align="center">.723</entry>
+</row></tbody>
+</tgroup>
+</table><para id="fs-id1164967737778">The solidification of the molten surface of Earth at the end of the Hadean eon (4 to 4.6 billion years ago) and the condensation of liquid oceans provided a medium from which life emerged. The most ancient fossils are colonial, photosynthetic cyanobacteria called stromatolites. As climate change melted the perennial snow covering Greenland, new geologic evidence of the time of that origin was obtained (Nutman et al., <emphasis effect="italics">Nature</emphasis> 2016) with the discovery of the most ancient stromatolites.  These fossils record communities of photosynthetic bacteria embedded in Isua sediments 3.7 billion years ago. Worldwide stromatolite fossils show a decline between 1 and 1.3 billion years ago.</para></problem>
+</exercise>
+<exercise id="fs-id1164965569209">
+<problem id="fs-id1164967825721">
+<para id="fs-id1164967750881">In 1952, the Miller-Urey experiment showed that an electrical discharge in a gas-phase mixture of ammonia, hydrogen, methane, and water produced five amino acids.  When the experiment was conducted, evidence indicated that this mixture was representative of the Hadean (early Earth) atmosphere.  The experiment was repeated in the presence of jets of hot steam, simulating Hadean volcanic eruptions and producing an even larger variety of amino acids.</para>
+<para id="fs-id1164965566591">A. Consider the following criticisms of the organic soup model and <emphasis>justify the selection of data</emphasis> that other experiments might provide regarding the origin of life on Earth.</para>
+<list id="fs-id1164965485253">
+<item>Biopolymers on Earth have a left-hand symmetry at the carbon adjacent to the carboxylic acid carbon, and these experiments produced mixtures of both left- and right-hand symmetries.</item>
+<item>No peptide bonds between amino acids were observed.</item>
+<item>Early Earths atmospheric oxygen concentration is known to have been very low, implying the absence of an ozone layer to filter high-energy ultraviolet (uv) radiation.</item>
+<item>Ammonia decomposes when it absorbs high-energy uv radiation, but diatomic nitrogen does not.</item></list>
+<para id="fs-id1164967520129">Models of the abiotic synthesis of biomolecules suffer from a chicken and egg dilemma.  Proteins are needed to synthesize DNA and RNA, and DNA and RNA are needed to synthesize proteins.  Which molecules came first?</para>
+<para id="fs-id1164967871345">B. In light of the following observations, <emphasis>evaluate the hypothesis</emphasis> that nucleotides arose from a prebiotic mixture.</para>
+<list id="fs-id1164967704877">
+<item>Nuclei acids are not found in experiments like those of Miller and Urey.</item>
+<item>Purines and pyrimidines decompose at high temperature, and Earth was bombarded by meteors and comets during the Hadean eon.</item>
+<item>Bonds in the purine and pyrimidine rings of nucleic acids are broken by high-energy uv radiation.</item>
+<item>Carl Sagan and colleagues synthesized ATP from a mixture of adenosine, ribose, and phosphate when exposed to uv radiation.</item>
+<item>Ribose has never been synthesized in experiments like those conducted by Miller and Urey.</item>
+<item>Ribose has a left/right symmetry, and the right-handed form occurs in Earth organisms.</item></list>
+<para id="fs-id1164965231367">Continuing with the analogy, if neither the chicken nor the egg came first, then both must have arisen together.  Some regard simultaneous innovations in both catalysis and information storage and retrieval as too improbable.  In samples of meteorites, both amino acids and nucleic acids have been found.  The amino acids are mixtures of left- and right-handed symmetries, although some have shown a significant bias toward the left-handed form (J. Elisa et al., <emphasis effect="italics">ACS Central Science</emphasis>, 2016).  The arrival from space of the seeds of biomolecules is called panspermia.  Carl Sagan (1966) and Francis Crick (1973), one of the first to describe the structure of DNA, regarded panspermia as the only plausible origin of life on Earth.  In fact, their belief was in directed panspermia, the intentional seeding by intelligent aliens.</para><para id="fs-id1164967558502">C. <emphasis>Describe</emphasis> the questions that must be addressed for panspermia to be a scientific hypothesis about the origin of life on Earth and <emphasis>describe</emphasis> the reasons for the directed panspermia revision of this hypothesis.</para>
+<para id="fs-id1164967746708">To avoid the conflicting chicken-and-egg claims that protein catalyst was first and DNA information storage was first, two alternatives have emerged regarding the origin of life on Earth.  Consider two simple ideas: 1) water blocks uv radiation, and cracks in the ocean floor (hot vents) provide a temperature difference that generates a source of entropy; and 2) ribosomes are composed of RNA.</para>
+<para id="fs-id1164965250687">D. <emphasis>Describe</emphasis> one of the following as a hypothesis concerning the origin of life on Earth:</para>
+<list id="fs-id1164964269953">
+<item>Reactions among molecules in the vicinity of hot vents became organized in space and time, eventually developing structures that foreshadow the proton gradient upon which metabolism is based.  This alternative is the basis for what is referred to as the metabolism-first hypothesis.</item>
+<item>The catalytic properties of the ribosome reflect the self-catalytic polymerization of nucleotides with sequential structures conserved in modern DNA, the catalytic properties conserved in proteins, and the catalytic properties of the ribosome whose core structure is RNA.  This alternative is the basis for what is referred to as the RNA-first hypothesis.</item></list>
+</problem>
+</exercise>
+<exercise id="fs-id1164967853434">
+<problem id="fs-id1164967829680">
+<para id="fs-id1164965598948">The radiant energy emitted by a star gradually increases after its birth.  During the Hadean eon, while the molten Earth cooled and life emerged, the Sun provided approximately 25% less radiant energy than it does now.  Ignoring effects due to differences in the composition of Earth's atmosphere between then and now, this means that the average surface temperature of the surface would be about 25 °C below the freezing temperature of water.  Evidence of liquid water on Earth during the Hadean eon is provided by geologic structures known only to form in liquid water, such as lava pillows and the stromatolites that are the fossilized layers of photosynthetic cyanobacteria.</para>
+<para id="fs-id1164967464104"><emphasis>Pose a scientific question</emphasis> that guides inquiry into early Earth conditions that supported the innovation of photosynthesis.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164967382693">
+<problem id="fs-id1164964126515">
+<para id="fs-id1164967855976"><emphasis>Connect</emphasis> the techniques of radiometric measurement, anatomy, and molecular biology to the supporting evidence of the theory of evolution provided.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164967401084">
+<problem id="fs-id1164967860540">
+<para id="fs-id1164967557880"><emphasis>Describe</emphasis> reasons for the revision of scientific hypotheses of the origin of life on Earth.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1164965527435">
+<problem id="fs-id1164965345637">
+<para id="fs-id1164960733293">Directed evolution is an inquiry strategy that is usually used to investigate gene expression or the function of proteins that are expressed.  The investigator imposes a selection pressure and observes the evolution of a population.  In one investigation, unicellular yeast were allowed to sediment in a column of a nutrient-containing solution.  Individuals that traveled furthest towards the bottom of the column were removed and placed in a new column.  After 60 generations of repeated selection, yeast became multicellular.  In this experiment, selection was acting on the collection of cells and not on the individual.  To test the claim that selection was acting on the multicellular system and not just individual cells, the investigators compared the effects on a population of yeast that had acquired multicellularity by strong selection (allowing only 5 minutes to settle) and weak selection (allowing 25 minutes to settle).  A strong selection increased cluster size, and a weak selection decreased cluster size.</para>
+<para id="fs-id1164967910033">A. <emphasis>Evaluate</emphasis> the claim that the use of both a strong and weak selection demonstrates that evolution is an ongoing process that, under artificially imposed conditions, led to the emergence of multicellularity in a single-celled organism.</para>
+<para id="fs-id1164967607668">B. In this directed evolution study, the selection pressure imposed by the investigators led to a new phenotype.  Consider a situation in which there is a vertical variation in the density of nutritional resources.  Analyze the advantages and disadvantages of cooperative behavior, including changes in the likelihood of replication of the individual and population genomes.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm45480192">
+<term>adaptation</term> <meaning id="fs-idp26468464">heritable trait or behavior in an organism that aids in its survival and reproduction in its present environment</meaning>
+</definition>
+<definition id="fs-idp36236704">
+<term>convergent evolution</term> <meaning id="fs-idm1026480">process by which groups of organisms independently evolve to similar forms</meaning>
+</definition>
+<definition id="fs-idm13445328">
+<term>divergent evolution</term> <meaning id="fs-idp37363984">process by which groups of organisms evolve in diverse directions from a common point</meaning>
+</definition>
+<definition id="fs-idm1447152">
+<term>homologous structures</term> <meaning id="fs-idp40048992">parallel structures in diverse organisms that have a common ancestor</meaning>
+</definition>
+<definition id="fs-idm2843008">
+<term>natural selection</term> <meaning id="fs-idp102489360">reproduction of individuals with favorable genetic traits that survive environmental change because of those traits, leading to evolutionary change</meaning>
+</definition>
+<definition id="fs-idp91489152">
+<term>variation</term> <meaning id="fs-idm56287040">genetic differences among individuals in a population</meaning>
+</definition>
+<definition id="fs-idm17668576">
+<term>vestigial structure</term> <meaning id="fs-idm67347136">physical structure present in an organism but that has no apparent function and appears to be from a functional structure in a distant ancestor</meaning>
+</definition>
+<definition id="fs-id1167067189728"><term>acquired characteristics</term> <meaning id="fs-id1167061322502">modifications caused by an individual’s environment that can be inherited by its offspring</meaning></definition>
+<definition id="fs-id1167067180714"><term>theory of evolution</term> <meaning id="fs-id1167066869294">explains how populations change over time and how life diversifies the origin of species</meaning></definition>
+</glossary>
+</document>
