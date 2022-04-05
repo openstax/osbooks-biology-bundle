@@ -291,7 +291,7 @@ Research into how animals allocate their energy resources for growth, maintenanc
 <para id="fs-id1166171773540">The Hardy-Weinberg model of population dynamics is an algebraic representation of the relationships among genotype frequencies, F, and the probability of the dominant allele A, p, and the recessive allele a, q. The Hardy-Weinberg model of population dynamics is based on several assumptions. One of these assumptions is random mating. If all genes in a population are equally able to reproduce, this means that all genes are equally fit and equally fertile.  Consequently, the population never evolves.</para>
 <para id="fs-id1166173456528">Populations do evolve and the Hardy-Weinberg model can be modified slightly to allow evolution to occur. Suppose that there is an initial population at generation zero and the probability of the dominant allele at that time is p<sub>0</sub>. Later, at population k the probability is different. But if the frequencies of the three different combinations of alleles is known then the probabilities p<sub>k</sub> and q<sub>k</sub> can be calculated at generation k</para>
 <para id="fs-id1166167243174">(1) <m:math display="block">
- <m:semantics>
+ 
   <m:mrow>
    <m:msub>
     <m:mi>p</m:mi>
@@ -319,10 +319,10 @@ Research into how animals allocate their energy resources for growth, maintenanc
    </m:msub>
    <m:mo stretchy="false">(</m:mo><m:mi>A</m:mi><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo>
   </m:mrow>
- </m:semantics>
+ 
 </m:math></para><para id="fs-id1166171952611">And since p and q are probabilities for a case where only two alleles exist, p+q=1. Then also (p+q)<sup>2</sup>=1, leading the Hardy-Weinberg equation</para>
 <equation id="fs-id1166168436358"><m:math display="block">
- <m:semantics>
+ 
   <m:mrow>
    <m:msup>
     <m:mi>p</m:mi>
@@ -350,13 +350,13 @@ Research into how animals allocate their energy resources for growth, maintenanc
    </m:msub>
    <m:mo>=</m:mo><m:mn>1</m:mn>
   </m:mrow>
- </m:semantics>
+ 
 </m:math>
 </equation>
 <para id="fs-id1166173164668">The gene distribution never changes and p<sub>k</sub>=p<sub>k-1</sub>.</para>
 <para id="fs-id1166173359228">The equations of the Hardy-Weinberg model were modified (Haldane, 1924) to create a model in which evolution occurs:</para>
 <para id="fs-id1166168067875">(2) <m:math display="block">
- <m:semantics>
+ 
   <m:mrow>
    <m:msub>
     <m:mi>F</m:mi>
@@ -399,7 +399,7 @@ Research into how animals allocate their energy resources for growth, maintenanc
     <m:mi>k</m:mi>
    </m:msub>
    <m:mi> </m:mi><m:mo>=</m:mo>
-</m:mrow></m:semantics></m:math><newline/><m:math display="block"><m:semantics><m:mrow>
+</m:mrow></m:math><newline/><m:math display="block"><m:mrow>
 <m:mi> </m:mi><m:msup>
     <m:mi>q</m:mi>
     <m:mn>2</m:mn>
@@ -441,7 +441,7 @@ Research into how animals allocate their energy resources for growth, maintenanc
     </m:mrow>
    </m:msub>
   </m:mrow>
- </m:semantics>
+ 
 </m:math></para><para id="fs-id1166171764543">Haldane divides by the factor W=F<sub>k</sub>(AA)+F<sub>k</sub>(Aa)+F<sub>k</sub>(aa) so that the probabilities that are still calculated with equation (1) to continue to satisfy the condition for p and q to represent probabilities: (p+q)<sup>2</sup>=1.</para>
 <para id="fs-id1166168383748">A. <emphasis>Justify</emphasis> Haldanes model in terms of what the factors w<sub>AA</sub>, w<sub>Aa</sub>, and w<sub>aa</sub> mean.</para>
 <para id="fs-id1166171540879">B. Suppose that w<sub>AA</sub> = w<sub>Aa</sub> = 1, but that w<sub>aa</sub> = 0.8. <emphasis>Predict</emphasis> what will happen to the population over time.</para>

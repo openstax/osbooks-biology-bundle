@@ -361,7 +361,7 @@
 <item>Using these probabilities <emphasis>calculate</emphasis> the expected frequencies, E, of each blood type using<newline count="2"/>
 <equation id="fs-id1166173360778">
 <m:math display="block">
- <m:semantics>
+ 
   <m:mtable columnalign="left">
    <m:mtr>
     <m:mtd>
@@ -431,7 +431,7 @@
     </m:mtd>
    </m:mtr>
   </m:mtable>
- </m:semantics>
+ 
 </m:math></equation>
 <newline count="2"/>Add these expected frequencies to the table.<newline count="2"/>
 <table id="fs-id1166168343596" summary="This table has three columns. The rows read from left to right. Row one: Type, Observed O, Expected Frequency E. Row two:  A, 501, blank. Row three: B, 794, blank. Row four: A/B, 236, blank. Row five: O, 601, blank.">
@@ -469,7 +469,7 @@
 </table></item>
 <item><emphasis>Apply your understanding</emphasis> of the conceptual foundation of these equations by restating in words the relationship represented by E(A).</item>
 <item>Apply a <m:math>
- <m:semantics>
+ 
   <m:mrow>
    <m:msup>
     <m:mi>χ</m:mi>
@@ -477,11 +477,11 @@
    </m:msup>
    
   </m:mrow>
- </m:semantics>
+ 
 </m:math> test at the 95% confidence level and 3 degrees of freedom (number of traits minus one) to <emphasis>evaluate the claim</emphasis> that these data indicate Hardy-Weinberg equilibrium of the ABO system for this population. The definition of the statistic<newline count="2"/>
 <equation id="fs-id1166171541732">
 <m:math>
- <m:semantics>
+ 
   <m:mrow>
    <m:msup>
     <m:mi>χ</m:mi>
@@ -505,7 +505,7 @@
     </m:mrow>
    </m:mstyle>
   </m:mrow>
- </m:semantics>
+ 
 </m:math>
 </equation>
 <newline count="2"/>and this table are provided on  the AP Biology Exam.

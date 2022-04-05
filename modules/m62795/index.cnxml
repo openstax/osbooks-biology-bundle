@@ -523,7 +523,7 @@ Based on <link target-id="fig-ch08_03_01" document="m62796"/>, which would most 
 
 </figure><para id="fs-id1164966344005">The diagram shows light-dependent reactions of photosynthesis, including the reaction centers, electron transport chains, and the overall reactions within each of these.  The free energy per electron is shown for the oxidation-reduction reactions.  The free change of the captured radiant energy is shown.</para>
 <para id="fs-idm1310310720"><preformat id="eip-idm731460128" display="block"><m:math>
- <m:semantics>
+ 
   <m:mrow>
    <m:mn>2</m:mn><m:mi>N</m:mi><m:mi>A</m:mi><m:mi>D</m:mi><m:msup>
     <m:mi>P</m:mi>
@@ -541,8 +541,8 @@ Based on <link target-id="fig-ch08_03_01" document="m62796"/>, which would most 
     <m:mi>P</m:mi>
     <m:mi>i</m:mi>
    </m:msub>
-   <m:mrow><m:mo>→</m:mo></m:mrow></m:mrow></m:semantics></m:math><newline/>
-<m:math><m:semantics><m:mrow>
+   <m:mrow><m:mo>→</m:mo></m:mrow></m:mrow></m:math><newline/>
+<m:math><m:mrow>
 <m:msub>
     <m:mi>O</m:mi>
     <m:mn>2</m:mn>
@@ -553,7 +553,7 @@ Based on <link target-id="fig-ch08_03_01" document="m62796"/>, which would most 
    </m:msup>
    <m:mo>+</m:mo><m:mn>2</m:mn><m:mi>N</m:mi><m:mi>A</m:mi><m:mi>D</m:mi><m:mi>P</m:mi><m:mi>H</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>A</m:mi><m:mi>T</m:mi><m:mi>P</m:mi>
   </m:mrow>
- </m:semantics>
+ 
 </m:math></preformat></para><list id="fs-id1164966422457" list-type="enumerated" number-style="upper-alpha">
 <item>In the <emphasis effect="italics">overall</emphasis> mass balance equation for the light reactions shown above, <emphasis>identify</emphasis> the source of electrons for the synthesis of NADPH.</item>
 <item><emphasis>Calculate</emphasis> the number of electrons transferred in this reaction.</item>

@@ -83,7 +83,7 @@
 </note></section>
 <section id="fs-idm2729728">
 <title>Factors That Affect Oxygen Binding</title>
-<para id="fs-idp93361232">The <emphasis>oxygen-carrying capacity</emphasis> of hemoglobin determines how much oxygen is carried in the blood. In addition to <m:math display="left">
+<para id="fs-idp93361232">The <emphasis>oxygen-carrying capacity</emphasis> of hemoglobin determines how much oxygen is carried in the blood. In addition to <m:math>
  <m:mrow>
   <m:msub>
    <m:mtext>P</m:mtext>
@@ -99,7 +99,7 @@
   </m:msub>
   
  </m:mrow>
-</m:math>, other environmental factors and diseases can affect oxygen carrying capacity and delivery.</para><para id="fs-idm45938160">Carbon dioxide levels, blood pH, and body temperature affect oxygen-carrying capacity (<link target-id="fig-ch39_04_02" document=""/>). When carbon dioxide is in the blood, it reacts with water to form bicarbonate <m:math display="left">
+</m:math>, other environmental factors and diseases can affect oxygen carrying capacity and delivery.</para><para id="fs-idm45938160">Carbon dioxide levels, blood pH, and body temperature affect oxygen-carrying capacity (<link target-id="fig-ch39_04_02" document=""/>). When carbon dioxide is in the blood, it reacts with water to form bicarbonate <m:math>
  <m:mrow>
   <m:msubsup>
    <m:mrow>
@@ -120,7 +120,7 @@
 <section id="fs-idm50309264">
 <title>Transport of Carbon Dioxide in the Blood</title>
 <para id="fs-idp182875376">Carbon dioxide molecules are transported in the blood from body tissues to the lungs by one of three methods: dissolution directly into the blood, binding to hemoglobin, or carried as a bicarbonate ion. Several properties of carbon dioxide in the blood affect its transport. First, carbon dioxide is more soluble in blood than oxygen. About 5 to 7 percent of all carbon dioxide is dissolved in the plasma. Second, carbon dioxide can bind to plasma proteins or can enter red blood cells and bind to hemoglobin. This form transports about 10 percent of the carbon dioxide. When carbon dioxide binds to hemoglobin, a molecule called <emphasis>carbaminohemoglobin</emphasis> is formed. Binding of carbon dioxide to hemoglobin is reversible. Therefore, when it reaches the lungs, the carbon dioxide can freely dissociate from the hemoglobin and be expelled from the body.</para>
-<para id="fs-idm120497488">Third, the majority of carbon dioxide molecules (85 percent) are carried as part of the <emphasis>bicarbonate buffer system</emphasis>. In this system, carbon dioxide diffuses into the red blood cells. <emphasis>Carbonic anhydrase (CA)</emphasis> within the red blood cells quickly converts the carbon dioxide into carbonic acid (H<sub>2</sub>CO<sub>3</sub>). Carbonic acid is an unstable intermediate molecule that immediately dissociates into <emphasis>bicarbonate ions <m:math display="left">
+<para id="fs-idm120497488">Third, the majority of carbon dioxide molecules (85 percent) are carried as part of the <emphasis>bicarbonate buffer system</emphasis>. In this system, carbon dioxide diffuses into the red blood cells. <emphasis>Carbonic anhydrase (CA)</emphasis> within the red blood cells quickly converts the carbon dioxide into carbonic acid (H<sub>2</sub>CO<sub>3</sub>). Carbonic acid is an unstable intermediate molecule that immediately dissociates into <emphasis>bicarbonate ions <m:math>
  <m:mrow>
   <m:msubsup>
    <m:mrow>
@@ -249,7 +249,7 @@
 </exercise>
 </note><section id="fs-idp67965760" class="summary ost-reading-discard">
 <title>Section Summary</title><para id="fs-idm33825872">Hemoglobin is a protein found in red blood cells that is comprised of two alpha and two beta subunits that surround an iron-containing heme group. Oxygen readily binds this heme group. The ability of oxygen to bind increases as more oxygen molecules are bound to heme. Disease states and altered conditions in the body can affect the binding ability of oxygen, and increase or decrease its ability to dissociate from hemoglobin.</para>
-<para id="fs-idp66767536">Carbon dioxide can be transported through the blood via three methods. It is dissolved directly in the blood, bound to plasma proteins or hemoglobin, or converted into bicarbonate. The majority of carbon dioxide is transported as part of the bicarbonate system. Carbon dioxide diffuses into red blood cells. Inside, carbonic anhydrase converts carbon dioxide into carbonic acid (H<sub>2</sub>CO<sub>3</sub>), which is subsequently hydrolyzed into bicarbonate <m:math display="left">
+<para id="fs-idp66767536">Carbon dioxide can be transported through the blood via three methods. It is dissolved directly in the blood, bound to plasma proteins or hemoglobin, or converted into bicarbonate. The majority of carbon dioxide is transported as part of the bicarbonate system. Carbon dioxide diffuses into red blood cells. Inside, carbonic anhydrase converts carbon dioxide into carbonic acid (H<sub>2</sub>CO<sub>3</sub>), which is subsequently hydrolyzed into bicarbonate <m:math>
  <m:mrow>
   <m:msubsup>
    <m:mrow>
@@ -406,7 +406,7 @@
 <definition id="fs-idm70218320">
 <term>bicarbonate buffer system</term> <meaning id="fs-idp121222416">system in the blood that absorbs carbon dioxide and regulates pH levels</meaning></definition>
 <definition id="fs-idm15901328">
-<term>bicarbonate <m:math display="left">
+<term>bicarbonate <m:math>
  <m:mrow>
   <m:msubsup>
    <m:mrow>
@@ -417,7 +417,7 @@
   </m:msubsup>
   <m:mtext>)</m:mtext>
  </m:mrow>
-</m:math> ion</term><meaning id="fs-idp310618976"> ion created when carbonic acid dissociates into H<sup>+</sup> and <m:math display="left">
+</m:math> ion</term><meaning id="fs-idp310618976"> ion created when carbonic acid dissociates into H<sup>+</sup> and <m:math>
  <m:mrow>
   <m:msubsup>
    <m:mrow>

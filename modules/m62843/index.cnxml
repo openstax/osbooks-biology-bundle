@@ -134,7 +134,7 @@
 
 <section id="fs-id2321391" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4 ost-get-exercise">
 <title>Initiation of Translation</title>
-<para id="fs-id1240070">Protein synthesis begins with the formation of an initiation complex. In <emphasis effect="italics">E. coli</emphasis>, this complex involves the small 30S ribosome, the mRNA template, three initiation factors (IFs; IF-1, IF-2, and IF-3), and a special <term id="term-00003">initiator tRNA</term>, called <m:math display="">
+<para id="fs-id1240070">Protein synthesis begins with the formation of an initiation complex. In <emphasis effect="italics">E. coli</emphasis>, this complex involves the small 30S ribosome, the mRNA template, three initiation factors (IFs; IF-1, IF-2, and IF-3), and a special <term id="term-00003">initiator tRNA</term>, called <m:math>
  <m:mrow>
   <m:mtext>t</m:mtext><m:mtext>R</m:mtext><m:mtext>N</m:mtext><m:msubsup>
    <m:mtext>A</m:mtext>
@@ -144,7 +144,7 @@
    </m:mrow>
   </m:msubsup>
  </m:mrow>
-</m:math>. The initiator tRNA interacts with the <term id="term-00004">start codon</term> AUG (or rarely, GUG), links to a formylated methionine called fMet, and can also bind IF-2. Formylated methionine is inserted by <m:math display="">
+</m:math>. The initiator tRNA interacts with the <term id="term-00004">start codon</term> AUG (or rarely, GUG), links to a formylated methionine called fMet, and can also bind IF-2. Formylated methionine is inserted by <m:math>
  <m:mrow>
 <m:mtext>f</m:mtext><m:mtext>M</m:mtext><m:mtext>e</m:mtext><m:mtext>t</m:mtext><m:mo>−</m:mo><m:mtext>t</m:mtext><m:mtext>R</m:mtext><m:mtext>N</m:mtext><m:msubsup>
    <m:mtext>A</m:mtext>
@@ -340,7 +340,7 @@
  </content>
 <glossary>
 <definition id="fs-id2629848"><term>aminoacyl tRNA synthetase</term> <meaning id="fs-id2344953">enzyme that “charges” tRNA molecules by catalyzing a bond between the tRNA and a corresponding amino acid</meaning></definition>
-<definition id="fs-id2690319"><term>initiator tRNA</term> <meaning id="fs-id2316390">in prokaryotes, called <m:math display="">
+<definition id="fs-id2690319"><term>initiator tRNA</term> <meaning id="fs-id2316390">in prokaryotes, called <m:math>
  <m:mrow>
   <m:mi>t</m:mi><m:mi>R</m:mi><m:mi>N</m:mi><m:msubsup>
    <m:mi>A</m:mi>

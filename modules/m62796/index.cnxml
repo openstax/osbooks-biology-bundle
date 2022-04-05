@@ -295,7 +295,7 @@ in chloroplasts, and aerobic cellular respiration releases energy by using oxyge
 <para id="fs-id1164966431890">Discovering the carbon-fixation reactions (or light-independent reactions) of photosynthesis earned Melvin Calvin a Nobel Prize in 1961.  The isolation and identification of the products of algae exposed to <sup>14</sup>C revealed the path of carbon in photosynthesis. <sup>14</sup>C was fed to the algal culture in the form of bicarbonate ion (HCO<sub>3</sub><sup>-</sup>).  To agitate the culture, air, which contains CO<sub>2</sub>, was bubbled through the system, so there were two sources of carbon.</para>
 <para id="fs-id1164968510236">Since Calvins experiment, research has focused on the way carbon from a solution containing bicarbonate ions is absorbed by algae.  In aqueous solution, the bicarbonate anion (HCO<sub>3</sub><sup>-</sup>) is in equilibrium with dissolved CO<sub>2</sub> as shown in the equation below:</para>
 <para id="fs-id1164968959069"><m:math>
- <m:semantics>
+ 
   <m:mrow>
    <m:msup>
     <m:mi>H</m:mi>
@@ -321,7 +321,7 @@ in chloroplasts, and aerobic cellular respiration releases energy by using oxyge
 
   </m:mrow>
 
- </m:semantics>
+ 
 </m:math></para>
 <para id="fs-id1164968681032">In a later experiment, Larsson and Axelsson (1999) used acetazolamide (AZ), a carbonate anhydrase inhibitor, to inhibit enzymes that convert bicarbonate into carbon dioxide.  They also used disulfonate (DIDS), an inhibitor of the transport of anions, such as the bicarbonate ion, through the plasma membrane. </para>
 <para id="fs-id1164968947209">A. <emphasis>Pose a scientific</emphasis> question that can be pursued with AZ and DIDS in terms of the path of carbon in photosynthesis.</para>

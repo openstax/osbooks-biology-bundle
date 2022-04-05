@@ -619,7 +619,7 @@ Other issues might be insurance concerns, employment, and personal relationships
 </table><para id="fs-id1164966325601"/><para id="fs-id1164966562411">Complete the table. <emphasis>Explain</emphasis> the values expected in terms of the genotype of the offspring.</para>
 <para id="fs-id1164968669100">E. Using a c<sup>2</sup> statistic at the 95% confidence level, <emphasis>evaluate</emphasis> the claim that the wild-type and mutant forms of <emphasis effect="italics">SCLO24A5</emphasis> are codominant.  The definition of the statistic
 <m:math display="block">
- <m:semantics>
+ 
   <m:mrow>
    <m:msubsup>
     <m:mi>Χ</m:mi>
@@ -658,7 +658,7 @@ Other issues might be insurance concerns, employment, and personal relationships
     </m:mrow>
    </m:mstyle>
   </m:mrow>
- </m:semantics>
+ 
 </m:math>
 where X is the chi-square test statistic, c is the significant level of the test (we will use 0.05), O is the observed value for variable <emphasis effect="italics">i</emphasis>, and E is the expected value for variable <emphasis effect="italics">i</emphasis>. The Chi-square statistic table is provided in the AP Biology Exam.</para>
 <table id="fs-id1164963111442" summary="This table has nine columns and a title of Degrees of freedom. The table reads from left to right. Row one: P, 1, 2, 3, 4, 5, 6, 7, 8. Row two: 0.05, 2.84, 7.82, 9.49, 11.07, 12.59, 14.07, and 15.51." class="top-titled">
