@@ -372,7 +372,7 @@
 </solution>
 </exercise><exercise id="eip-222"><problem id="eip-190">
   <para id="eip-802">
-    Calculate the probability of selecting a heart or a face card from a standard deck of cards. Is this outcome more or less likely than selecting a heart suit face card?
+    Calculate the probability of selecting a heart or a face card when heart suit face cards are excluded from a standard deck of cards. Is this outcome more or less likely than selecting a heart suit face card from a standard deck of cards?
   </para>
 </problem>
 
