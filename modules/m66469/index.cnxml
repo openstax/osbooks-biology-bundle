@@ -19,7 +19,7 @@
 
 <section id="fs-id1986553">
 <title>Anaerobic Cellular Respiration</title>
-<para id="fs-id1451059">Certain prokaryotes, including some species in the domains Bacteria and Archaea, use anaerobic respiration. For example, a group of archaeans called methanogens reduces carbon dioxide to methane to oxidize NADH. These microorganisms are found in soil and in the digestive tracts of ruminants, such as cows and sheep. Similarly, sulfate-reducing bacteria, most of which are anaerobic (<link target-id="fig-ch07_05_01" document=""/>), reduce sulfate to hydrogen sulfide to regenerate NAD<sup>+</sup> from NADH.</para>
+<para id="fs-id1451059">Certain prokaryotes, including some species in the domains Bacteria and Archaea, use anaerobic respiration. For example, a group of archaeans called methanogens reduces carbon dioxide to methane to oxidize NADH. These microorganisms are found in soil and in the digestive tracts of ruminants, such as cows and sheep. Similarly, sulfate-reducing bacteria, most of which are anaerobic (<link target-id="fig-ch07_05_01"/>), reduce sulfate to hydrogen sulfide to regenerate NAD<sup>+</sup> from NADH.</para>
 <figure id="fig-ch07_05_01"><media id="fs-id1975018" alt="This photo shows a bloom of green bacteria in water.">
 <image mime-type="image/jpg" src="../../media/Figure_07_05_01.jpg" width="400"/>
 </media>
@@ -27,7 +27,7 @@
 
 <section id="fs-id2121627">
 <title>Lactic Acid Fermentation</title>
-<para id="fs-id2077122">The fermentation method used by animals and certain bacteria, such as those in yogurt, is lactic acid fermentation (<link target-id="fig-ch07_05_02" document=""/>). This type of fermentation is used routinely in mammalian red blood cells, which do not have mitochondria, and in skeletal muscle that has an insufficient oxygen supply to allow aerobic respiration to continue (that is, in muscles used to the point of fatigue). In muscles, lactic acid accumulation must be removed by the blood circulation, and when the lactic acid loses a hydrogen, the resulting lactate is brought to the liver for further metabolism. The chemical reactions of lactic acid fermentation are the following:</para>
+<para id="fs-id2077122">The fermentation method used by animals and certain bacteria, such as those in yogurt, is lactic acid fermentation (<link target-id="fig-ch07_05_02"/>). This type of fermentation is used routinely in mammalian red blood cells, which do not have mitochondria, and in skeletal muscle that has an insufficient oxygen supply to allow aerobic respiration to continue (that is, in muscles used to the point of fatigue). In muscles, lactic acid accumulation must be removed by the blood circulation, and when the lactic acid loses a hydrogen, the resulting lactate is brought to the liver for further metabolism. The chemical reactions of lactic acid fermentation are the following:</para>
 <equation id="eip-345" class="unnumbered"><m:math display="block">
    <m:mrow>
    <m:mtext>Pyruvic acid</m:mtext>
@@ -57,7 +57,7 @@ Fletcher, S. Department of Biology, Texas A&amp;M University.</caption></figure>
 </note></section>
 <section id="fs-id2025525">
 <title>Alcohol Fermentation</title>
-<para id="fs-id2988639">Another familiar fermentation process is alcohol fermentation (<link target-id="fig-ch07_05_03" document=""/>), which produces ethanol. The first chemical reaction of alcohol fermentation is the following (CO<sub>2</sub> does not participate in the second reaction):</para>
+<para id="fs-id2988639">Another familiar fermentation process is alcohol fermentation (<link target-id="fig-ch07_05_03"/>), which produces ethanol. The first chemical reaction of alcohol fermentation is the following (CO<sub>2</sub> does not participate in the second reaction):</para>
 <equation id="eip-10" class="unnumbered"><m:math display="block">
    <m:mrow>
    <m:mtext>pyruvic acid</m:mtext>
@@ -112,10 +112,10 @@ Fletcher, S. Department of Biology, Texas A&amp;M University.</caption></figure>
 <section id="fs-idp361376" class="visual-exercise">
 <title>Visual Connection Questions</title>
 <exercise id="fs-idp22236752"><problem id="fs-idp26658304">
-<para id="fs-idp61363968"><link target-id="fig-ch07_05_02" document=""/> Tremetol, a metabolic poison found in the white snake root plant, prevents the metabolism of lactate. When cows eat this plant, tremetol is concentrated in the milk they produce. Humans who consume the milk can become seriously ill. Symptoms of this disease, which include vomiting, abdominal pain, and tremors, become worse after exercise. Why do you think this is the case?</para></problem>
+<para id="fs-idp61363968"><link target-id="fig-ch07_05_02"/> Tremetol, a metabolic poison found in the white snake root plant, prevents the metabolism of lactate. When cows eat this plant, tremetol is concentrated in the milk they produce. Humans who consume the milk can become seriously ill. Symptoms of this disease, which include vomiting, abdominal pain, and tremors, become worse after exercise. Why do you think this is the case?</para></problem>
 <solution id="fs-idp63639536">
 <label/>
-<para id="fs-idp125692288"><link target-id="fig-ch07_05_02" document=""/> The illness is caused by lactate accumulation. Lactate levels rise after exercise, making the symptoms worse. Milk sickness is rare today but was common in the midwestern United States in the early 1800s.</para>
+<para id="fs-idp125692288"><link target-id="fig-ch07_05_02"/> The illness is caused by lactate accumulation. Lactate levels rise after exercise, making the symptoms worse. Milk sickness is rare today but was common in the midwestern United States in the early 1800s.</para>
 </solution>
 </exercise></section>
 <section id="fs-id2491584" class="multiple-choice">

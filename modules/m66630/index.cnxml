@@ -11,7 +11,7 @@
 </metadata>
 
 <content>
-<para id="fs-idm63107616">Hormone production and release are primarily controlled by negative feedback. In negative feedback systems, a stimulus elicits the release of a substance; once the substance reaches a certain level, it sends a signal that stops further release of the substance. In this way, the concentration of hormones in blood is maintained within a narrow range. For example, the anterior pituitary signals the thyroid to release thyroid hormones. Increasing levels of these hormones in the blood then give feedback to the hypothalamus and anterior pituitary to inhibit further signaling to the thyroid gland, as illustrated in <link target-id="fig-ch37_04_01" document=""/>. There are three mechanisms by which endocrine glands are stimulated to synthesize and release hormones: humoral stimuli, hormonal stimuli, and neural stimuli.</para>
+<para id="fs-idm63107616">Hormone production and release are primarily controlled by negative feedback. In negative feedback systems, a stimulus elicits the release of a substance; once the substance reaches a certain level, it sends a signal that stops further release of the substance. In this way, the concentration of hormones in blood is maintained within a narrow range. For example, the anterior pituitary signals the thyroid to release thyroid hormones. Increasing levels of these hormones in the blood then give feedback to the hypothalamus and anterior pituitary to inhibit further signaling to the thyroid gland, as illustrated in <link target-id="fig-ch37_04_01"/>. There are three mechanisms by which endocrine glands are stimulated to synthesize and release hormones: humoral stimuli, hormonal stimuli, and neural stimuli.</para>
 <note id="fs-idm151695328" class="visual-connection"><label/><title>Visual Connection</title>
 <figure id="fig-ch37_04_01"><media id="fs-idm190917760" alt="The hypothalamus secretes thyrotropin-releasing hormone, which causes the anterior pituitary gland to secrete thyroid-stimulating hormone, or T S H. Thyroid-stimulating hormone causes the thyroid gland to secrete the thyroid hormones T 3 and T 4, which increase metabolism, resulting in growth and development. In a negative feedback loop, T 3 and T 4 inhibit hormone secretion by the hypothalamus and pituitary, terminating the signal.">
 <image mime-type="image/png" src="../../media/Figure_B37_04_01.png"/>
@@ -20,7 +20,7 @@
 <caption>The anterior pituitary stimulates the thyroid gland to release thyroid hormones T<sub>3</sub> and T<sub>4</sub>. Increasing levels of these hormones in the blood results in feedback to the hypothalamus and anterior pituitary to inhibit further signaling to the thyroid gland. (credit: modification of work by Mikael Häggström)</caption></figure><para id="fs-idm203603168">Hyperthyroidism is a condition in which the thyroid gland is overactive. Hypothyroidism is a condition in which the thyroid gland is underactive. Which of the conditions are the following two patients most likely to have?</para>
 <para id="fs-idm245544800">Patient A has symptoms including weight gain, cold sensitivity, low heart rate, and fatigue.</para>
 <para id="fs-idm11446432">Patient B has symptoms including weight loss, profuse sweating, increased heart rate, and difficulty sleeping.</para>
-<!--<para><link target-id="fig-ch37_04_01" document=""/>Patient A has symptoms associated with decreased metabolism, and may be suffering from hypothyroidism. Patient B has symptoms associated with increased metabolism, and may be suffering from hyperthyroidism.</para>-->
+<!--<para><link target-id="fig-ch37_04_01"/>Patient A has symptoms associated with decreased metabolism, and may be suffering from hypothyroidism. Patient B has symptoms associated with increased metabolism, and may be suffering from hyperthyroidism.</para>-->
 </note><section id="fs-idm75946256">
 <title>Humoral Stimuli</title>
 <para id="fs-idm194170224">The term “humoral” is derived from the term “humor,” which refers to bodily fluids such as blood. A <term id="term-00001">humoral stimulus</term> refers to the control of hormone release in response to changes in extracellular fluids such as blood or the ion concentration in the blood. For example, a rise in blood glucose levels triggers the pancreatic release of insulin. Insulin causes blood glucose levels to drop, which signals the pancreas to stop producing insulin in a negative feedback loop.</para>
@@ -41,13 +41,13 @@
 <title>Visual Connection Questions</title>
 <exercise id="fs-idm135591200">
 <problem id="fs-idm28564128">
-<para id="fs-idm207418816"><link target-id="fig-ch37_04_01" document=""/> Hyperthyroidism is a condition in which the thyroid gland is overactive. Hypothyroidism is a condition in which the thyroid gland is underactive. Which of the conditions are the following two patients most likely to have?</para>
+<para id="fs-idm207418816"><link target-id="fig-ch37_04_01"/> Hyperthyroidism is a condition in which the thyroid gland is overactive. Hypothyroidism is a condition in which the thyroid gland is underactive. Which of the conditions are the following two patients most likely to have?</para>
 <para id="fs-idm192489616">Patient A has symptoms including weight gain, cold sensitivity, low heart rate, and fatigue.</para>
 <para id="fs-idm116901904">Patient B has symptoms including weight loss, profuse sweating, increased heart rate, and difficulty sleeping.</para>
 </problem>
 <solution id="fs-idm17120448">
 <label/>
-<para id="fs-idm145438880"><link target-id="fig-ch37_04_01" document=""/> Patient A has symptoms associated with decreased metabolism, and may be suffering from hypothyroidism. Patient B has symptoms associated with increased metabolism, and may be suffering from hyperthyroidism.</para>
+<para id="fs-idm145438880"><link target-id="fig-ch37_04_01"/> Patient A has symptoms associated with decreased metabolism, and may be suffering from hypothyroidism. Patient B has symptoms associated with increased metabolism, and may be suffering from hyperthyroidism.</para>
 </solution>
 </exercise>
 </section>

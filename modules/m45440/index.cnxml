@@ -20,7 +20,7 @@
 
 <section id="fs-id1831450">
 <title>Lactic Acid Fermentation</title>
-<para id="fs-id1858245">The fermentation method used by animals and some bacteria like those in yogurt is lactic acid fermentation (<link target-id="fig-ch04_04_01" document=""/>). This occurs routinely in mammalian red blood cells and in skeletal muscle that has insufficient oxygen supply to allow aerobic respiration to continue (that is, in muscles used to the point of fatigue). In muscles, lactic acid produced by fermentation must be removed by the blood circulation and brought to the liver for further metabolism. The chemical reaction of lactic acid fermentation is the following:</para>
+<para id="fs-id1858245">The fermentation method used by animals and some bacteria like those in yogurt is lactic acid fermentation (<link target-id="fig-ch04_04_01"/>). This occurs routinely in mammalian red blood cells and in skeletal muscle that has insufficient oxygen supply to allow aerobic respiration to continue (that is, in muscles used to the point of fatigue). In muscles, lactic acid produced by fermentation must be removed by the blood circulation and brought to the liver for further metabolism. The chemical reaction of lactic acid fermentation is the following:</para>
 <equation class="unnumbered" id="eip-672"><m:math display="block">
  <m:mrow>
   <m:mtext>Pyruvic acid </m:mtext><m:mo>+</m:mo><m:mtext>NADH</m:mtext><m:mrow><m:mo>↔</m:mo></m:mrow><m:mtext>lactic acid</m:mtext><m:mo>+</m:mo><m:msup>
@@ -46,11 +46,11 @@
 </note></section>
 <section id="fs-id1387744">
 <title>Alcohol Fermentation</title>
-<para id="fs-id1626790">Another familiar fermentation process is alcohol fermentation (<link target-id="fig-ch04_04_02" document=""/>), which produces ethanol, an alcohol. The alcohol fermentation reaction is the following:</para>
+<para id="fs-id1626790">Another familiar fermentation process is alcohol fermentation (<link target-id="fig-ch04_04_02"/>), which produces ethanol, an alcohol. The alcohol fermentation reaction is the following:</para>
 <figure id="fig-ch04_04_02"><media id="fs-id1870741" alt="Graphic showing the alcohol fermentation reaction in an equation.">
 <image mime-type="image/jpg" src="../../media/Figure_04_04_02-3c21.jpg" width="400"/>
 </media>
-<caption>The reaction resulting in alcohol fermentation is shown.</caption></figure><para id="fs-id2078945">In the first reaction, a carboxyl group is removed from pyruvic acid, releasing carbon dioxide as a gas. The loss of carbon dioxide reduces the molecule by one carbon atom, making acetaldehyde. The second reaction removes an electron from NADH, forming NAD<sup>+</sup> and producing ethanol from the acetaldehyde, which accepts the electron. The fermentation of pyruvic acid by yeast produces the ethanol found in alcoholic beverages (<link target-id="fig-ch04_04_03" document=""/>). If the carbon dioxide produced by the reaction is not vented from the fermentation chamber, for example in beer and sparkling wines, it remains dissolved in the medium until the pressure is released. Ethanol above 12 percent is toxic to yeast, so natural levels of alcohol in wine occur at a maximum of 12 percent.</para>
+<caption>The reaction resulting in alcohol fermentation is shown.</caption></figure><para id="fs-id2078945">In the first reaction, a carboxyl group is removed from pyruvic acid, releasing carbon dioxide as a gas. The loss of carbon dioxide reduces the molecule by one carbon atom, making acetaldehyde. The second reaction removes an electron from NADH, forming NAD<sup>+</sup> and producing ethanol from the acetaldehyde, which accepts the electron. The fermentation of pyruvic acid by yeast produces the ethanol found in alcoholic beverages (<link target-id="fig-ch04_04_03"/>). If the carbon dioxide produced by the reaction is not vented from the fermentation chamber, for example in beer and sparkling wines, it remains dissolved in the medium until the pressure is released. Ethanol above 12 percent is toxic to yeast, so natural levels of alcohol in wine occur at a maximum of 12 percent.</para>
 <figure id="fig-ch04_04_03"><media id="fs-id2649447" alt="This photo shows large, silver-colored, cylindrical fermentation tanks.">
 <image mime-type="image/jpg" src="../../media/Figure_04_04_03-9e84.jpg" width="300"/>
 </media>
@@ -59,7 +59,7 @@
 
 <section id="fs-id2655228">
 <title>Anaerobic Cellular Respiration</title>
-<para id="fs-id2146402">Certain prokaryotes, including some species of bacteria and Archaea, use anaerobic respiration. For example, the group of Archaea called methanogens reduces carbon dioxide to methane to oxidize NADH. These microorganisms are found in soil and in the digestive tracts of ruminants, such as cows and sheep. Similarly, sulfate-reducing bacteria and Archaea, most of which are anaerobic (<link target-id="fig-ch04_04_04" document=""/>), reduce sulfate to hydrogen sulfide to regenerate NAD<sup>+</sup> from NADH.</para>
+<para id="fs-id2146402">Certain prokaryotes, including some species of bacteria and Archaea, use anaerobic respiration. For example, the group of Archaea called methanogens reduces carbon dioxide to methane to oxidize NADH. These microorganisms are found in soil and in the digestive tracts of ruminants, such as cows and sheep. Similarly, sulfate-reducing bacteria and Archaea, most of which are anaerobic (<link target-id="fig-ch04_04_04"/>), reduce sulfate to hydrogen sulfide to regenerate NAD<sup>+</sup> from NADH.</para>
 <figure id="fig-ch04_04_04"><media id="fs-id2867968" alt="This photo shows a bloom of green bacteria in water.">
 <image mime-type="image/jpg" src="../../media/Figure_04_04_04-a8bb.jpg" width="450"/>
 </media>
@@ -77,12 +77,12 @@
 <title>Art Connections</title>
 <exercise id="eip-idm120428032">
 <problem id="eip-idm94673104">
-<para id="eip-690"><link target-id="fig-ch04_04_01" document=""/> Tremetol, a metabolic poison found in white snake root plant, prevents the metabolism of lactate. When cows eat this plant, Tremetol is concentrated in the milk. Humans who consume the milk become ill. Symptoms of this disease, which include vomiting, abdominal pain, and tremors, become worse after exercise. Why do you think this is the case?
+<para id="eip-690"><link target-id="fig-ch04_04_01"/> Tremetol, a metabolic poison found in white snake root plant, prevents the metabolism of lactate. When cows eat this plant, Tremetol is concentrated in the milk. Humans who consume the milk become ill. Symptoms of this disease, which include vomiting, abdominal pain, and tremors, become worse after exercise. Why do you think this is the case?
 </para>
 </problem>
 <solution id="eip-idm62469712">
 <label/>
-<para id="eip-605"><link target-id="fig-ch04_04_01" document=""/> The illness is caused by lactic acid build-up. Lactic acid levels rise after exercise, making the symptoms worse. Milk sickness is rare today, but was common in the Midwestern United States in the early 1800s.
+<para id="eip-605"><link target-id="fig-ch04_04_01"/> The illness is caused by lactic acid build-up. Lactic acid levels rise after exercise, making the symptoms worse. Milk sickness is rare today, but was common in the Midwestern United States in the early 1800s.
 </para>
 </solution>
 </exercise>
