@@ -43,9 +43,9 @@ Because of the impact science has on students and society, an important goal of 
 <item><emphasis>Biology in Action</emphasis> features tie biological concepts to emerging issues and discuss science in terms of everyday life. Topics include “Invasive Species” and “Photosynthesis at the Grocery Store.”
 
 </item></list>
-<section>
+<section id="answers">
   <title>Answers to Questions in the Book</title>
-  <para>Answers to Visual Connection Questions, Review Questions, and Critical Thinking Questions are provided in the Instructor Answer Guide via the Instructor Resources page. Select answers to these questions are provided for students via the Student Resources page.</para>
+  <para id="para-00001">Answers to Visual Connection Questions, Review Questions, and Critical Thinking Questions are provided in the Instructor Answer Guide via the Instructor Resources page. Select answers to these questions are provided for students via the Student Resources page.</para>
 </section>
 
 </section>

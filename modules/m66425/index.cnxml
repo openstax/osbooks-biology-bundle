@@ -87,9 +87,9 @@
 <image mime-type="image/jpeg" src="../../media/Figure_B36_04_02-2.png" width="350"/>
 </media>
 </section>
-<section>
+<section id="sect-00001">
   <title>Answers to Questions in the Book</title>
-  <para>Students are provided answers to odd-numbered Visual Connection Questions, Review Questions, and Critical Thinking Questions via the Student Solution Manual on the Student Resources page. In order to allow instructors as much flexibility as possible, answers to even-numbered Visual Connection Questions, Review Questions, and Critical Thinking Questions are provided only to instructors via the Instructor Resources page.</para>
+  <para id="para-00001">Students are provided answers to odd-numbered Visual Connection Questions, Review Questions, and Critical Thinking Questions via the Student Solution Manual on the Student Resources page. In order to allow instructors as much flexibility as possible, answers to even-numbered Visual Connection Questions, Review Questions, and Critical Thinking Questions are provided only to instructors via the Instructor Resources page.</para>
 </section>
 </section>
 <section id="eip-462">
