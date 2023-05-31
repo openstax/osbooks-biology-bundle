@@ -39,7 +39,7 @@
 <section id="fs-id1463775">
 <title>Genetic and Physical Maps Integration</title>
 <para id="fs-id1831081">Genetic maps provide the outline and physical maps provide the details. It is easy to understand why both genome mapping technique types are important to show the big picture. Scientists use information from each technique in combination to study the genome. Scientists are using genomic mapping with different model organisms for research. Genome mapping is still an ongoing process, and as researchers develop more advanced techniques, they expect more breakthroughs. Genome mapping is similar to completing a complicated puzzle using every piece of available data. Mapping information generated in laboratories all over the world goes into central databases, such as GenBank at the National Center for Biotechnology Information (NCBI). Researchers are making efforts for the information to be more easily accessible to other researchers and the general public. Just as we use global positioning systems instead of paper maps to navigate through roadways, NCBI has created a genome viewer tool to simplify the data-mining process.</para>
-<note id="fs-id1293715" class="scientific"><label/><title>Scientific Method Connection</title>
+<note id="fs-id1293715" class="scientific">
 <para id="eip-id1163934695107"><title>How to Use a Genome Map Viewer</title>
 </para>
 <para id="fs-id2685435"><emphasis effect="bold">Problem statement</emphasis>: Do the human, macaque, and mouse genomes contain common DNA sequences?</para>
