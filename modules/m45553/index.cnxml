@@ -62,7 +62,7 @@
 <section id="fs-idp126128384">
 <title>Examples of Logistic Growth</title>
 <para id="fs-idm29259696">Yeast, a microscopic fungus used to make bread and alcoholic beverages, exhibits the classical S-shaped curve when grown in a test tube (<link target-id="fig-ch19_02_02"/><emphasis effect="bold">a</emphasis>). Its growth levels off as the population depletes the nutrients that are necessary for its growth. In the real world, however, there are variations to this idealized curve. Examples in wild populations include sheep and harbor seals (<link target-id="fig-ch19_02_02"/><emphasis effect="bold">b</emphasis>). In both examples, the population size exceeds the carrying capacity for short periods of time and then falls below the carrying capacity afterwards. This fluctuation in population size continues to occur as the population oscillates around its carrying capacity. Still, even with this oscillation, the logistic model is confirmed.</para>
-<note id="fs-idp43528640" class="visual-connection"><label/><title>Visual Connection</title>
+<note id="fs-idp43528640" class="visual-connection">
 
 <para id="fs-idp62585360"><figure id="fig-ch19_02_02" class=" "><media id="fs-idp35323232" alt=" Graph (a) plots amount of yeast versus time of growth in hours. The curve rises steeply, and then plateaus at the carrying capacity. Data points tightly follow the curve. Graph (b) plots the number of harbor seals versus time in years. Again, the curve rises steeply then plateaus at the carrying capacity, but this time there is much more scatter in the data. A micrograph of yeast cells, which are oval in shape, and a photo of a harbor seal are shown.">
 <image mime-type="image/png" src="../../media/Figure_19_02_02abf.png" width="475"/>

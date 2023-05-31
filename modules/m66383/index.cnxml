@@ -24,7 +24,7 @@
 <para id="fs-id2201059">The first evidence of bacterial communication was observed in a bacterium that has a symbiotic relationship with Hawaiian bobtail squid. When the population density of the bacteria reaches a certain level, specific gene expression is initiated, and the bacteria produce bioluminescent proteins that emit light. Because the number of cells present in the environment (cell density) is the determining factor for signaling, bacterial signaling was named <term id="term-00002">quorum sensing</term>. In politics and business, a quorum is the minimum number of members required to be present to vote on an issue.</para>
 <para id="fs-id1419717">Quorum sensing uses autoinducers as signaling molecules. <term id="term-00003">Autoinducers</term> are signaling molecules secreted by bacteria to communicate with other bacteria of the same kind. The secreted autoinducers can be small, hydrophobic molecules, such as acyl-homoserine lactone (AHL), or larger peptide-based molecules; each type of molecule has a different mode of action. When AHL enters target bacteria, it binds to transcription factors, which then switch gene expression on or off. When the number of bacteria increases so does the concentration of the autoinducer, triggering increased expression of certain genes including autoinducers, which results in a self-amplifying cycle, also known as a positive feedback loop (<link target-id="fig-ch09_04_02"/>). The peptide autoinducers stimulate more complicated signaling pathways that include bacterial kinases. The changes in bacteria following exposure to autoinducers can be quite extensive. The pathogenic bacterium <emphasis effect="italics">Pseudomonas aeruginosa</emphasis> has 616 different genes that respond to autoinducers.</para>
 <para id="fs-id2962722">Some species of bacteria that use quorum sensing form biofilms, complex colonies of bacteria (often containing several species) that exchange chemical signals to coordinate the release of toxins that will attack the host. Bacterial biofilms (<link target-id="fig-ch09_04_03"/>) can sometimes be found on medical equipment; when biofilms invade implants such as hip or knee replacements or heart pacemakers, they can cause life-threatening infections.</para>
-<note id="fs-id1650052" class="visual-connection"><label/><title>Visual Connection</title>
+<note id="fs-id1650052" class="visual-connection">
 <para id="fs-id1066621"><figure id="fig-ch09_04_02"><media id="fs-id2316366" alt="The left part of this illustration shows a single bacterial cell. The cell produces autoinducers, which diffuse away from the cell and cannot bind the intracellular receptor. The right part of this illustration shows many bacterial cells. More autoinducers are present, which bind receptors that in turn bind DNA and regulate the expression of certain genes. Autoinducer gene expression is turned on, resulting in a positive-feedback loop.">
 <image mime-type="image/png" src="../../media/Figure_09_04_02.png" width="350"/>
 </media>
@@ -37,7 +37,7 @@
 <item>Autoinducer turns on genes that enable the bacteria to form a biofilm.</item>
 </list>
 </note>
-<note id="fs-idm19080112" class="visual-connection"><label/><title>Visual Connection</title>
+<note id="fs-idm19080112" class="visual-connection">
 <para id="fs-id1473469"><figure id="fig-ch09_04_03"><media id="fs-id2014249" alt="Part a: This electron micrograph shows a film of bacteria. Part b: This photo shows a Hawaiian bobtail squid.">
     <image mime-type="image/png" src="../../media/Figure_09_04_03.png" width="520"/>
 </media>

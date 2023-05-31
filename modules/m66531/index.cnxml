@@ -52,7 +52,7 @@
 <section id="fs-idp96526336">
 <title>Building Phylogenetic Trees</title>
 <para id="fs-idp47865664">How do scientists construct phylogenetic trees? After they sort the homologous and analogous traits, scientists often organize the homologous traits using <term id="term-00004">cladistics</term>. This system sorts organisms into clades: groups of organisms that descended from a single ancestor. For example, in <link target-id="fig-ch20_02_04"/>, all the organisms in the orange region evolved from a single ancestor that had amniotic eggs. Consequently, these organisms also have amniotic eggs and make a single clade, or a <term id="term-00005">monophyletic group</term>. Clades must include all descendants from a branch point.</para>
-<note id="fs-idp98199440" class="visual-connection"><label/><title>Visual Connection</title>
+<note id="fs-idp98199440" class="visual-connection">
 <figure id="fig-ch20_02_04">
 <media id="fs-idp125310304" alt="The illustration shows the V-shaped Vertebrata clade, which includes lampreys, fish, lizards, rabbits, and humans. Lampreys are at the left tip of the V, and humans are at the right tip. Three more lines are drawn parallel to the lamprey line; each of these lines starts further up the right arm of the V than the next. At the end of each line, from left to right, are fish, lizards, and rabbits. Lizards, rabbits, and humans are in the clade Amniota, which form a small V nested in the upper right-hand corner of the V-shaped Vertebrata clade.">
 <image mime-type="image/jpg" src="../../media/Figure_20_02_04-43b5.jpg"/>
@@ -63,7 +63,7 @@
 <!--<para><link target-id="fig-ch20_01_04"/> Rabbits and humans belong in the clade that includes animals with hair. The amniotic egg evolved before hair because the Amniota clade is larger than the clade that encompasses animals with hair.</para>-->
 </note>
 <para id="fs-idp86169680">Clades can vary in size depending on which branch point one references. The important factor is that all organisms in the clade or monophyletic group stem from a single point on the tree. You can remember this because monophyletic breaks down into “mono,” meaning one, and “phyletic,” meaning evolutionary relationship. <link target-id="fig-ch20_02_05"/> shows various clade examples. Notice how each clade comes from a single point; whereas, the non-clade groups show branches that do not share a single point.</para>
-<note id="fs-idp34398416" class="visual-connection"><label/><title>Visual Connection</title>
+<note id="fs-idp34398416" class="visual-connection">
 <figure id="fig-ch20_02_05">
 <media id="fs-idp15258080" alt="Illustrations show a phylogenetic tree that includes eukaryotic species. A central line represents the trunk of the tree. From this trunk, various groups branch. In order from the bottom, these are diplomonads, microsporidia, trichomonads, flagellates, entamoebae, slime molds, and ciliates. At the top of the tree, animals, fungi and plants all branch from the same point and are shaded to show that they belong in the same clade. Flagellates are on a branch by themselves, and they also form their own clade and are shaded to show this. In another image, Flagellates and ciliates are shaded to show that they branch from different points on the tree and are not considered clades. Likewise, a grouping of animals and plants but not fungi would not be considered a clade cannot exclude a branch originating at the same point as the others.">
 <image mime-type="image/jpg" src="../../media/Figure_20_02_05.png" width="400"/>
