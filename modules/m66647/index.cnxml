@@ -41,7 +41,7 @@ Birds have evolved a respiratory system that enables them to fly. Flying is a hi
 <image mime-type="image/png" src="../../media/Figure_B39_03_04.png" width="261"/>
 </media>
 <caption>A tissue layer called pleura surrounds the lung and interior of the thoracic cavity. (credit: modification of work by NCI)</caption></figure>
-<note id="fs-idp169241040" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idp169241040" class="interactive">
 <para id="fs-idm10001776">View how Boyle’s Law is related to breathing and watch a <link url="https://www.openstax.org/l/boyles_law">video</link> on Boyle’s Law.
 <media id="eip-id1169422250553" alt="boyle_breathing">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/boyle_breathing"/>
@@ -69,7 +69,7 @@ Birds have evolved a respiratory system that enables them to fly. Flying is a hi
 <para id="fs-idp118405296">An example of an anatomical shunt is the effect of gravity on the lungs. The lung is particularly susceptible to changes in the magnitude and direction of gravitational forces. When someone is standing or sitting upright, the pleural pressure gradient leads to increased ventilation further down in the lung. As a result, the intrapleural pressure is more negative at the base of the lung than at the top, and more air fills the bottom of the lung than the top. Likewise, it takes less energy to pump blood to the bottom of the lung than to the top when in a prone position. Perfusion of the lung is not uniform while standing or sitting. This is a result of hydrostatic forces combined with the effect of airway pressure. An anatomical shunt develops because the ventilation of the airways does not match the perfusion of the arteries surrounding those airways. As a result, the rate of gas exchange is reduced. Note that this does not occur when lying down, because in this position, gravity does not preferentially pull the bottom of the lung down.</para>
 <para id="fs-idm193388464">A physiological shunt can develop if there is infection or edema in the lung that obstructs an area. This will decrease ventilation but not affect perfusion; therefore, the V/Q ratio changes and gas exchange is affected.</para>
 <para id="fs-idm209568">The lung can compensate for these mismatches in ventilation and perfusion. If ventilation is greater than perfusion, the arterioles dilate and the bronchioles constrict. This increases perfusion and reduces ventilation. Likewise, if ventilation is less than perfusion, the arterioles constrict and the bronchioles dilate to correct the imbalance.</para>
-<note id="fs-idm26586528" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idm26586528" class="interactive">
 <para id="fs-idp133557200">View the mechanics of breathing.
 <newline/>
 <media id="eip-id1166285291346" alt="breathing">

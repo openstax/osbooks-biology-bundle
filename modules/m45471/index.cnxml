@@ -66,7 +66,7 @@
 </solution> -->
 </note><para id="fs-idm61831328">Discoveries in fruit fly genetics can be applied to human genetics. When a female parent is homozygous for a recessive X-linked trait, the parent will pass the trait on to 100 percent of the male offspring, because the males will receive the Y chromosome from the male parent. In humans, the alleles for certain conditions (some color-blindness, hemophilia, and muscular dystrophy) are X-linked. Females who are heterozygous for these diseases are said to be carriers and may not exhibit any phenotypic effects. These females will pass the disease to half of their male offspring and will pass carrier status to half of their female offspring; therefore, X-linked traits appear more frequently in males than females.</para>
 <para id="fs-idm58295392">In some groups of organisms with sex chromosomes, the sex with the non-homologous sex chromosomes is the female rather than the male. This is the case for all birds. In this case, sex-linked traits will be more likely to appear in the female, in whom they are hemizygous.</para>
-    <note id="fs-idm33069616" class="interactive non-majors"><label/><title>Concept in Action</title>
+    <note id="fs-idm33069616" class="interactive non-majors">
         <para id="fs-idp171029328">Watch <link window="new" url="http://openstax.org/l/sex-linked_trts">this video</link> to learn more about sex-linked traits.</para></note></section>
 </section>
 <section id="fs-idm66440368">
@@ -80,7 +80,7 @@
 <section id="fs-idm50010816">
 <title>Epistasis</title>
 <para id="fs-idp62869680">Mendel’s studies in pea plants implied that the sum of an individual’s phenotype was controlled by genes (or as he called them, unit factors), such that every characteristic was distinctly and completely controlled by a single gene. In fact, single observable characteristics are almost always under the influence of multiple genes (each with two or more alleles) acting in unison. For example, at least eight genes contribute to eye color in humans.</para>
-    <note id="fs-idp3048560" class="interactive non-majors"><label/><title>Concept in Action</title>
+    <note id="fs-idp3048560" class="interactive non-majors">
 
         <para id="fs-idp10702000">Eye color in humans is determined by multiple alleles. Use the <link window="new" url="http://openstax.org/l/eye_color_calc">Eye Color Calculator</link> to predict the eye color of children from parental eye color.</para>
     </note><para id="fs-idm32725408">In some cases, several genes can contribute to aspects of a common phenotype without their gene products ever directly interacting. In the case of organ development, for instance, genes may be expressed sequentially, with each gene adding to the complexity and specificity of the organ. Genes may function in complementary or synergistic fashions, such that two or more genes expressed simultaneously affect a phenotype.  An apparent example of this occurs with human skin color, which appears to involve the action of at least three (and probably more) genes. Cases in which inheritance for a characteristic like skin color or human height depend on the combined effects of numerous genes are called polygenic inheritance.</para>

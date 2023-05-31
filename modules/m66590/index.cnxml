@@ -14,7 +14,7 @@
 
 <content>
 <para id="fs-idm32857264">Amphibians are vertebrate tetrapods (“four limbs”), and include frogs, salamanders, and caecilians. The term “amphibian” loosely translates from the Greek as “dual life,” which is a reference to the metamorphosis that many frogs and salamanders undergo and the unique mix of aquatic and terrestrial phases that are required in their life cycle. In fact, they cannot stray far from water because their reproduction is intimately tied to aqueous environments. Amphibians evolved during the Devonian period and were the earliest terrestrial tetrapods. They represent an evolutionary transition from water to land that occurred over many millions of years. Thus, the Amphibia are the only living true vertebrates that have made a transition from water to land in both their ontogeny (life development) and phylogeny (evolution). They have not changed much in morphology over the past 350 million years!</para>
-<note id="fs-idm92554160" class="interactive interactive-long"><label/><title>Link to Learning</title>
+<note id="fs-idm92554160" class="interactive interactive-long">
 <para id="fs-idm154495200">Watch this series of four videos on tetrapod evolution: <list id="fs-idm30510608" list-type="labeled-item"><item>1: The evolution from fish to earliest tetrapod<newline/>
 <media id="eip-id1165240950500" alt="tetrapod_evol1">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/tetrapod_evol1"/>
@@ -66,7 +66,7 @@
 </media>
 <caption>Salamander. Most salamanders have legs and a tail, but respiration varies among species. (credit: Valentina Storti)</caption>
 </figure>
-<note id="fs-idm228194592" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idm228194592" class="interactive">
 <para id="fs-idm135159360">View <link window="new" url="http://openstax.org/l/river_monster">River Monsters: Fish With Arms and Hands?</link> to see a video about an unusually large salamander species.</para></note></section>
 <section id="fs-idm166225856">
 <title>Anura: Frogs</title>
@@ -92,7 +92,7 @@
 <caption>Paleozoic continents. During the Paleozoic Era, around 550 million years ago, the continent Gondwana formed. Both Gondwana and the continent Laurentia were located near the equator.</caption></figure><para id="fs-idm65696368">During the early Paleozoic, the amount of carbon dioxide in the atmosphere was much greater than it is today. This may have begun to change later, as land plants became more common. As the roots of land plants began to infiltrate rock and soil began to form, carbon dioxide was drawn out of the atmosphere and became trapped in the rock. This reduced the levels of carbon dioxide and increased the levels of oxygen in the atmosphere, so that by the end of the Paleozoic, atmospheric conditions were similar to those of today.</para>
 <para id="fs-idm121882880">As plants became more common through the latter half of the Paleozoic, microclimates began to emerge and ecosystems began to change. As plants and ecosystems continued to grow and become more complex, vertebrates moved from the water to land. The presence of shoreline vegetation may have contributed to the movement of vertebrates onto land. One hypothesis suggests that the fins of aquatic vertebrates were used to maneuver through this vegetation, providing a precursor to the movement of fins on land and the further development of limbs. The late Paleozoic was a time of diversification of vertebrates, as amniotes emerged and became two different lines that gave rise, on one hand, to synapsids and mammals, and, on the other hand, to the codonts, reptiles, dinosaurs, and birds. Many marine vertebrates became extinct near the end of the Devonian period, which ended about 360 million years ago, and both marine and terrestrial vertebrates were decimated by a mass extinction in the early Permian period about 250 million years ago.</para>
 </note>
-<note id="fs-idm7175184" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idm7175184" class="interactive">
 <para id="fs-idm91212928">View <link window="new" url="http://openstax.org/l/paleogeography">Earth’s Paleogeography: Continental Movements Through Time</link> to see changes in Earth as life evolved.</para></note></section>
 </section>
 <section id="fs-idm28395632" class="summary">

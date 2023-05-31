@@ -37,7 +37,7 @@
 <section id="fs-id2074463">
 <title>The M Checkpoint</title>
 <para id="fs-id2747604">The M checkpoint occurs near the end of the metaphase stage of karyokinesis. The M checkpoint is also known as the spindle checkpoint, because it determines whether all the sister chromatids are correctly attached to the spindle microtubules. Because the separation of the sister chromatids during anaphase is an irreversible step, the cycle will not proceed until the kinetochores of each pair of sister chromatids are firmly anchored to at least two spindle fibers arising from opposite poles of the cell.</para>
-<note id="fs-id1396394" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-id1396394" class="interactive">
 <para id="fs-id1473369">Watch what occurs at the G<sub>1</sub>, G<sub>2</sub>, and M checkpoints by visiting this <link window="new" url="http://openstax.org/l/cell_checkpnts">website</link> to see an animation of the cell cycle.</para>
 </note></section>
 </section>
@@ -77,7 +77,7 @@
          </problem>
          <solution id="fs-idp21040992">
              <label/><para id="fs-idp202170992"><link target-id="fig-ch10_03_04"/> Rb and other negative regulatory proteins control cell division and therefore prevent the formation of tumors. Mutations that prevent these proteins from carrying out their function can result in cancer.</para>
-         </solution>     
+         </solution>
          </exercise></section>
 <section id="fs-id2570945" class="multiple-choice">
 <title>Review Questions</title><exercise id="fs-id3241208">

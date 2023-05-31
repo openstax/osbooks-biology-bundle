@@ -66,7 +66,7 @@ Watch this video about the cell cycle: <link url="http://openstaxcollege.org/l/b
 <para id="fs-id2585970">During <term id="term-00017">anaphase</term>, the sister chromatids at the equatorial plane are split apart at the centromere. Each chromatid, now called a chromosome, is pulled rapidly toward the centrosome to which its microtubule was attached. The cell becomes visibly elongated as the non-kinetochore microtubules slide against each other at the metaphase plate where they overlap.</para>
 <para id="fs-id2629830">During <term id="term-00018">telophase</term>, all of the events that set up the duplicated chromosomes for mitosis during the first three phases are reversed. The chromosomes reach the opposite poles and begin to decondense (unravel). The mitotic spindles are broken down into monomers that will be used to assemble cytoskeleton components for each daughter cell. Nuclear envelopes form around chromosomes.</para>
 
-<note id="fs-id3016368" class="interactive non-majors"><label/><title>Concept in Action</title>
+<note id="fs-id3016368" class="interactive non-majors">
 
 <para id="fs-id2936705"><link window="new" url="http://openstax.org/l/divisn_newtcell">This page of movies</link> illustrates different aspects of mitosis. Watch the movie entitled “DIC microscopy of cell division in a newt lung cell” and identify the phases of mitosis.</para>
 </note></section><section id="fs-id2326271">
@@ -114,7 +114,7 @@ Watch this video about the cell cycle: <link url="http://openstaxcollege.org/l/b
 <title>The M Checkpoint</title>
 <para id="fs-id2304579">The M checkpoint occurs near the end of the metaphase stage of mitosis. The M checkpoint is also known as the spindle checkpoint because it determines if all the sister chromatids are correctly attached to the spindle microtubules. Because the separation of the sister chromatids during anaphase is an irreversible step, the cycle will not proceed until the kinetochores of each pair of sister chromatids are firmly anchored to spindle fibers arising from opposite poles of the cell.</para>
 
-<note id="fs-id2254885" class="interactive non-majors"><label/><title>Concept in Action</title>
+<note id="fs-id2254885" class="interactive non-majors">
 
 <para id="fs-id3070624">Watch what occurs at the G<sub>1</sub>, G<sub>2</sub>, and M checkpoints by visiting <link window="new" url="https://www.youtube.com/watch?v=f-ldPgEfAHI">this animation</link> of the cell cycle.</para>
 </note></section>

@@ -13,7 +13,7 @@
 
 <content>
 <para id="fs-id1982002">In aerobic respiration, the final electron acceptor is an oxygen molecule, O<sub>2</sub>. If aerobic respiration occurs, then ATP will be produced using the energy of high-energy electrons carried by NADH or FADH<sub>2 </sub>to the electron transport chain. If aerobic respiration does not occur, NADH must be reoxidized to NAD<sup>+</sup> for reuse as an electron carrier for the glycolytic pathway to continue. How is this done? Some living systems use an organic molecule as the final electron acceptor. Processes that use an organic molecule to regenerate NAD<sup>+</sup> from NADH are collectively referred to as <term id="term-00001">fermentation</term>. In contrast, in some living systems, the electron transport chain (ETC) uses an inorganic molecule as a final electron acceptor, which is called anaerobic cellular respiration. Both processes allow organisms to convert energy for their use in the absence of oxygen. Both methods are called <term id="term-00002">anaerobic cellular respiration</term>, in which organisms convert energy for their use in the absence of oxygen.</para>
-<note id="fs-id1785709" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-id1785709" class="interactive">
    <para id="fs-id1957291">Visit this <link window="new" url="http://openstax.org/l/fermentation">site</link> to see fermentation in action.</para>
    </note>
 

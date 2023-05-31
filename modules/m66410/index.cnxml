@@ -15,7 +15,7 @@
 
 <content>
 <para id="fs-idp191776896"><term id="term-00001">Ecology</term> is the study of the interactions of living organisms with their environment. One core goal of ecology is to understand the distribution and abundance of living things in the physical environment. Attainment of this goal requires the integration of scientific disciplines inside and outside of biology, such as mathematics, statistics, biochemistry, molecular biology, physiology, evolution, biodiversity, geology, and climatology.</para>
-<note id="fs-idp144624304" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idp144624304" class="interactive">
 <para id="fs-idp245465824">Climate change can alter where organisms live, which can sometimes directly affect human health. Watch the PBS video <link window="new" url="http://openstax.org/l/climate_health">“Feeling the Effects of Climate Change”</link> in which researchers discover a pathogenic organism living far outside of its normal range.</para>
 </note>
 <section id="fs-idp328287056">
@@ -67,7 +67,7 @@ A career in ecology contributes to many facets of human society. Understanding e
 <caption>This landscape ecologist is releasing a black-footed ferret into its native habitat as part of a study. (credit: USFWS Mountain Prairie Region, NPS)</caption>
 </figure>
 </note>
-<note id="fs-idp159502256" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idp159502256" class="interactive">
 <para id="fs-idp224310592">Visit this <link window="new" url="http://openstax.org/l/ecologist_role">site</link> to see Stephen Wing, a marine ecologist from the University of Otago, discuss the role of an ecologist and the types of issues ecologists explore.</para>
 </note>
 </section>

@@ -24,7 +24,7 @@
 <caption>The tryptophan operon. The five genes that are needed to synthesize tryptophan in <emphasis effect="italics">E. coli</emphasis> are located next to each other in the <emphasis effect="italics">trp</emphasis> operon. When tryptophan is plentiful, two tryptophan molecules bind the repressor protein at the operator sequence. This physically blocks the RNA polymerase from transcribing the tryptophan genes. When tryptophan is absent, the repressor protein does not bind to the operator and the genes are transcribed.</caption></figure><para id="fs-idm174533984">The <emphasis effect="italics">trp</emphasis> operon includes three important regions: the coding region, the <emphasis effect="italics">trp</emphasis> operator and the <emphasis effect="italics">trp</emphasis> promoter. The coding region includes the genes for the five tryptophan biosynthesis enzymes. Just before the coding region is the <term id="term-00006">transcriptional start site</term>. The promoter sequence, to which RNA polymerase binds to initiate transcription, is before or “upstream” of the transcriptional start site. Between the promoter and the transcriptional start site is the operator region.</para>
 <para id="fs-idm199850336">The <emphasis effect="italics">trp</emphasis> <term id="term-00007">operator</term> contains the DNA code to which the <emphasis effect="italics">trp</emphasis> repressor protein can bind. However, the repressor alone cannot bind to the operator. When tryptophan is present in the cell, two tryptophan molecules bind to the <emphasis effect="italics">trp</emphasis> repressor, which changes the shape of the repressor protein to a form that can bind to the <emphasis effect="italics">trp</emphasis> operator. Binding of the tryptophan–repressor complex at the operator physically prevents the RNA polymerase from binding to the promoter and transcribing the downstream genes.</para>
 <para id="fs-idm101642592">When tryptophan is not present in the cell, the repressor by itself does not bind to the operator, the polymerase can transcribe the enzyme genes, and tryptophan is synthesized. Because the repressor protein actively binds to the operator to keep the genes turned off, the <emphasis effect="italics">trp</emphasis> operon is said to be <emphasis effect="italics">negatively regulated</emphasis> and the proteins that bind to the operator to silence <emphasis effect="italics">trp</emphasis> expression are <term id="term-00008">negative regulators</term>.</para>
-<note id="fs-idm187290400" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idm187290400" class="interactive">
 <para id="fs-idm19622064">Watch this video to learn more about the <emphasis effect="italics">trp</emphasis> operon.
 
 <media id="eip-id1169842033659" alt="trp_operon">
@@ -72,7 +72,7 @@ glucose was plentiful or lactose was not available. It should be mentioned that 
         </tgroup>
         </table>
 
-    <note id="fs-idm116103472" class="interactive"><label/><title>Link to Learning</title>
+    <note id="fs-idm116103472" class="interactive">
     <para id="fs-idm187859568">Watch an animated tutorial about the workings of <emphasis effect="italics">lac</emphasis> operon here.
 
 <media id="eip-id1165239273914" alt="lac_operon">

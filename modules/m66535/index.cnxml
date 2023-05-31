@@ -24,7 +24,7 @@
 <section id="fs-idm14940416">
 <title>Attachment</title>
 <para id="fs-idm143481568">A virus attaches to a specific receptor site on the host cell membrane through attachment proteins in the capsid or via glycoproteins embedded in the viral envelope. The specificity of this interaction determines the host—and the cells within the host—that can be infected by a particular virus. This can be illustrated by thinking of several keys and several locks, where each key will fit only one specific lock.</para>
-<note id="fs-idm24896976" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idm24896976" class="interactive">
 <para id="fs-idp135135216">This <link window="new" url="http://openstax.org/l/influenza">video</link> explains how influenza attacks the body.</para>
 </note></section>
 <section id="fs-idm43800048">
@@ -47,7 +47,7 @@
 
 <caption>The influenza reproductive cycle. In influenza virus infection, glycoproteins on the capsid attach to a host epithelial cell. Following this, the virus is engulfed. RNA and proteins are then made and assembled into new virions.</caption></figure><para id="fs-idp36754624">Influenza virus is packaged in a viral envelope that fuses with the plasma membrane. This way, the virus can exit the host cell without killing it. What advantage does the virus gain by keeping the host cell alive?</para>
 <!--<para><link target-id="fig-ch21_02_01"/>The host cell can continue to make new virus particles.</para>-->
-</note><note id="fs-idp1850384" class="interactive"><label/><title>Link to Learning</title>
+</note><note id="fs-idp1850384" class="interactive">
     <para id="fs-idp75993600">Watch a <link window="new" url="https://openstax.org/l/viruses">video</link> on viruses, identifying structures, modes of transmission, replication, and more.</para></note></section>
 </section>
 <section id="fs-idm173327952">
@@ -135,7 +135,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_21_02_05-f075.jpg" width="250"/>
 </media>
 <caption>HPV, or human papillomavirus, has a naked icosahedral capsid visible in this transmission electron micrograph and a double-stranded DNA genome that is incorporated into the host DNA. The virus, which is sexually transmitted, is oncogenic and can lead to cervical cancer. (credit: modification of work by NCI, NIH; scale-bar data from Matt Russell)</caption></figure>
-<note id="fs-idm21872912" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idm21872912" class="interactive">
 <para id="fs-idp8153312">This <link window="new" url="http://openstax.org/l/animal_viruses">video</link> shows the life cycle of a virus.</para></note></section>
 
 <section id="fs-idm38642688" class="summary">

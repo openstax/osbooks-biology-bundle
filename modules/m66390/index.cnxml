@@ -40,7 +40,7 @@ Credit: Rao, A., Ryan, K. Fletcher, S. and Tag, A. Department of Biology, Texas 
         <item>Gaps are filled by DNA pol I by adding dNTPs.</item>
         <item>The gap between the two DNA fragments is sealed by DNA ligase, which helps in the formation of phosphodiester bonds.</item>
         </list>
-    <para id="fs-id2235232"><newline/><link target-id="tab-ch14_04_01"/> summarizes the enzymes involved in prokaryotic DNA replication and the functions of each.</para><table id="tab-ch14_04_01" class="top-titled" summary="">    
+    <para id="fs-id2235232"><newline/><link target-id="tab-ch14_04_01"/> summarizes the enzymes involved in prokaryotic DNA replication and the functions of each.</para><table id="tab-ch14_04_01" class="top-titled" summary="">
         <tgroup cols="2">
             <colspec colnum="1" colname="col1"/>
             <colspec colnum="2" colname="col2"/>
@@ -61,7 +61,7 @@ Credit: Rao, A., Ryan, K. Fletcher, S. and Tag, A. Department of Biology, Texas 
     </tgroup>
     </table>
 
-<note id="fs-id1672176" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-id1672176" class="interactive">
     <para id="fs-id2010960">Review the full process of DNA replication <link window="new" url="http://openstax.org/l/replication_DNA">here</link>.</para>
 </note><section id="fs-id1974676" class="summary">
 <title>Section Summary</title><para id="fs-id1437221">Replication in prokaryotes starts from a sequence found on the chromosome called the origin of replication—the point at which the DNA opens up. Helicase opens up the DNA double helix, resulting in the formation of the replication fork. Single-strand binding proteins bind to the single-stranded DNA near the replication fork to keep the fork open. Primase synthesizes an RNA primer to initiate synthesis by DNA polymerase, which can add nucleotides only to the 3' end of a previously synthesized primer strand. Both new DNA strands grow according to their respective 5'-3' directions. One strand is synthesized continuously in the direction of the replication fork; this is called the leading strand. The other strand is synthesized in a direction away from the replication fork, in short stretches of DNA known as Okazaki fragments. This strand is known as the lagging strand. Once replication is completed, the RNA primers are replaced by DNA nucleotides and the DNA is sealed with DNA ligase, which creates phosphodiester bonds between the 3'-OH of one end and the 5' phosphate of the other strand.</para>

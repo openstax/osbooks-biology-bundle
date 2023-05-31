@@ -43,7 +43,7 @@
 </note></section><section id="fs-idp122812848"><title>Set Point</title>
 <para id="fs-idp46548080">It is possible to adjust a system’s set point. When this happens, the feedback loop works to maintain the new setting. An example of this is blood pressure: over time, the normal or set point for blood pressure can increase as a result of continued increases in blood pressure. The body no longer recognizes the elevation as abnormal and no attempt is made to return to the lower set point. The result is the maintenance of an elevated blood pressure that can have harmful effects on the body. Medication can lower blood pressure and lower the set point in the system to a more healthy level. This is called a process of <term id="term-00005">alteration</term> of the set point in a feedback loop.</para>
 <para id="fs-idp51301552">Changes can be made in a group of body organ systems in order to maintain a set point in another system. This is called <term id="term-00006">acclimatization</term>. This occurs, for instance, when an animal migrates to a higher altitude than that to which it is accustomed. In order to adjust to the lower oxygen levels at the new altitude, the body increases the number of red blood cells circulating in the blood to ensure adequate oxygen delivery to the tissues. Another example of acclimatization is animals that have seasonal changes in their coats: a heavier coat in the winter ensures adequate heat retention, and a light coat in summer assists in keeping body temperature from rising to harmful levels.</para>
-<note id="fs-idp26892032" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idp26892032" class="interactive">
 <para id="fs-idp120599664">Feedback mechanisms can be understood in terms of driving a race car along a track: watch a short video lesson on positive and negative feedback loops.
 <media id="eip-id2699660" alt="feedback_loops">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/feedback_loops"/>
@@ -52,7 +52,7 @@
 </note></section></section>
 <section id="fs-idm77157600"><title>Homeostasis: Thermoregulation</title>
 <para id="fs-idm95344448">Body temperature affects body activities. Generally, as body temperature rises, enzyme activity rises as well. For every ten degree centigrade rise in temperature, enzyme activity doubles, up to a point. Body proteins, including enzymes, begin to denature and lose their function with high heat (around 50<sup>o</sup>C for mammals). Enzyme activity will decrease by half for every ten degree centigrade drop in temperature, to the point of freezing, with a few exceptions. Some fish can withstand freezing solid and return to normal with thawing.</para>
-<note id="fs-idp31716480" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idp31716480" class="interactive">
 <para id="fs-idp47826928">Watch this Discovery Channel video on thermoregulation to see illustrations of this process in a variety of animals.
 <media id="eip-id1168127177818" alt="thermoregulate">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/thermoregulate"/>

@@ -36,7 +36,7 @@
 </figure>
 <para id="fs-idm56458000">Myofibrils are composed of smaller structures called <term id="term-00009">myofilaments</term>. There are two main types of filaments: thick filaments and thin filaments; each has different compositions and locations. <term id="term-00010">Thick filaments</term> occur only in the A band of a myofibril. <term id="term-00011">Thin filaments</term> attach to a protein in the Z disc called alpha-actinin and occur across the entire length of the I band and partway into the A band. The region at which thick and thin filaments overlap has a dense appearance, as there is little space between the filaments. Thin filaments do not extend all the way into the A bands, leaving a central region of the A band that only contains thick filaments. This central region of the A band looks slightly lighter than the rest of the A band and is called the H zone. The middle of the H zone has a vertical line called the M line, at which accessory proteins hold together thick filaments. Both the Z disc and the M line hold myofilaments in place to maintain the structural arrangement and layering of the myofibril. Myofibrils are connected to each other by intermediate, or desmin, filaments that attach to the Z disc.</para>
 <para id="fs-idm138606144">Thick and thin filaments are themselves composed of proteins. Thick filaments are composed of the protein myosin. The tail of a myosin molecule connects with other myosin molecules to form the central region of a thick filament near the M line, whereas the heads align on either side of the thick filament where the thin filaments overlap. The primary component of thin filaments is the actin protein. Two other components of the thin filament are tropomyosin and troponin. Actin has binding sites for myosin attachment. Strands of tropomyosin block the binding sites and prevent actin–myosin interactions when the muscles are at rest. Troponin consists of three globular subunits. One subunit binds to tropomyosin, one subunit binds to actin, and one subunit binds Ca<sup>2+</sup> ions.</para>
-<note id="fs-idm41804992" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idm41804992" class="interactive">
 <para id="fs-idm140078832">View this animation showing the organization of muscle fibers.
 <media id="eip-id992518" alt="skeletal_muscle">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/skeletal_muscle"/>
@@ -57,7 +57,7 @@
 <para id="fs-idp48454480">ATP binding causes myosin to release actin, allowing actin and myosin to detach from each other. After this happens, the newly bound ATP is converted to ADP and inorganic phosphate, P<sub>i</sub>. The enzyme at the binding site on myosin is called ATPase. The energy released during ATP hydrolysis changes the angle of the myosin head into a “cocked” position. The myosin head is then in a position for further movement, possessing potential energy, but ADP and P<sub>i</sub> are still attached. If actin binding sites are covered and unavailable, the myosin will remain in the high energy configuration with ATP hydrolyzed, but still attached.</para>
 <para id="fs-idm258599120">If the actin binding sites are uncovered, a cross-bridge will form; that is, the myosin head spans the distance between the actin and myosin molecules. P<sub>i</sub> is then released, allowing myosin to expend the stored energy as a conformational change. The myosin head moves toward the M line, pulling the actin along with it. As the actin is pulled, the filaments move approximately 10 nm toward the M line. This movement is called the power stroke, as it is the step at which force is produced. As the actin is pulled toward the M line, the sarcomere shortens and the muscle contracts.</para>
 <para id="fs-idm75302080">When the myosin head is “cocked,” it contains energy and is in a high-energy configuration. This energy is expended as the myosin head moves through the power stroke; at the end of the power stroke, the myosin head is in a low-energy position. After the power stroke, ADP is released; however, the cross-bridge formed is still in place, and actin and myosin are bound together. ATP can then attach to myosin, which allows the cross-bridge cycle to start again and further muscle contraction can occur (<link target-id="fig-ch38_04_05"/>).</para>
-<note id="fs-idm185889136" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idm185889136" class="interactive">
 <para id="fs-idm63648336">Watch this video explaining how a muscle contraction is signaled.
 <media id="eip-id4815428" alt="contract_muscle">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/contract_muscle"/>
@@ -76,7 +76,7 @@
 <item>The power stroke occurs when Ca<sup>2+</sup> binds the calcium head.</item>
 </list><!--<para><link target-id="fig-ch38_04_05"/>B</para>-->
 </note>
-<note id="fs-idp78711984" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idp78711984" class="interactive">
 <para id="fs-idm187978960">View this <link window="new" url="http://openstax.org/l/muscle_contract">animation</link> of the cross-bridge muscle contraction.</para>
 </note>
 </section>

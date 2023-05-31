@@ -35,7 +35,7 @@
 <item>Temperature: Higher temperatures increase the energy and therefore the movement of the molecules, increasing the rate of diffusion.</item>
 <item>Solvent density: As the density of the solvent increases, the rate of diffusion decreases. The molecules slow down because they have a more difficult time getting through the denser medium.</item>
 </list>
-<note id="fs-idm44192000" class="interactive non-majors"><label/><title>Concept in Action</title>
+<note id="fs-idm44192000" class="interactive non-majors">
 
 <para id="fs-idp114686800">For an animation of the diffusion process in action, view <link window="new" url="http://openstax.org/l/passive_trnsprt">this short video</link> on cell membrane transport.</para>
 </note></section>
@@ -52,7 +52,7 @@
 <caption>In osmosis, water always moves from an area of higher concentration (of water) to one of lower concentration (of water). In this system, the solute cannot pass through the selectively permeable membrane.</caption>
 </figure>
 <para id="fs-idm66021008">A principle of diffusion is that the molecules move around and will spread evenly throughout the medium if they can. However, only the material capable of getting through the membrane will diffuse through it. In this example, the solute cannot diffuse through the membrane, but the water can. Water has a concentration gradient in this system. Therefore, water will diffuse down its concentration gradient, crossing the membrane to the side where it is less concentrated. This diffusion of water through the membrane—osmosis—will continue until the concentration gradient of water goes to zero. Osmosis proceeds constantly in living systems.</para>
-<note id="fs-idm19927952" class="interactive non-majors"><label/><title>Concept in Action</title>
+<note id="fs-idm19927952" class="interactive non-majors">
 
 <para id="fs-idp39016320">Watch this <link window="new" url="http://openstax.org/l/dispersion">video</link> that illustrates diffusion in hot versus cold solutions.</para>
 </note></section>

@@ -14,7 +14,7 @@
 
 <content>
 <para id="fs-id2745728">Like prokaryotic cells, the transcription of genes in eukaryotes requires the action of an RNA polymerase to bind to a DNA sequence upstream of a gene in order to initiate transcription. However, unlike prokaryotic cells, the eukaryotic RNA polymerase requires other proteins, or transcription factors, to facilitate transcription initiation. RNA polymerase by itself cannot initiate transcription in eukaryotic cells. There are two types of transcription factors that regulate eukaryotic transcription: <emphasis effect="italics">General (or basal) transcription factors</emphasis> bind to the core promoter region to assist with the binding of RNA polymerase. <emphasis effect="italics">Specific transcription factors</emphasis> bind to various regions outside of the core promoter region and interact with the proteins at the core promoter to enhance or repress the activity of the polymerase.</para>
-<note id="fs-id2022629" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-id2022629" class="interactive">
     <para id="fs-id2192558">View the process of transcription—the making of RNA from a DNA template.
 
 <media id="eip-id1168020166468" alt="transcript_RNA">

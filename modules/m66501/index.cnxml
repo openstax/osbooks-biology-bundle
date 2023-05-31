@@ -17,7 +17,7 @@
 <caption>A peptide bond links the carboxyl end of one amino acid with the amino end of another, producing one water molecule during the process. For simplicity in this image, only the functional groups involved in the peptide bond are shown. The R and R' designations refer to the rest of each amino acid structure.</caption></figure><section id="fs-id2009587">
 <title>The Protein Synthesis Machinery</title>
 <para id="fs-id2739564">In addition to the mRNA template, many molecules and macromolecules contribute to the process of translation. The composition of each component may vary across species; for example, ribosomes may consist of different numbers of rRNAs and polypeptides depending on the organism. However, the general structures and functions of the protein synthesis machinery are comparable from bacteria to human cells. Translation requires the input of an mRNA template, ribosomes, tRNAs, and various enzymatic factors. (Note: A ribosome can be thought of as an enzyme whose amino acid binding sites are specified by mRNA.)</para>
-<note id="fs-id2046909" class="interactive"><label/><title>Link to Learning</title> 
+<note id="fs-id2046909" class="interactive">
 <para id="fs-id2694589">Click through the steps of this <link window="new" url="http://openstax.org/l/prokary_protein">PBS interactive</link> to see protein synthesis in action.</para></note><section id="fs-id1425631">
 <title>Ribosomes</title>
 <para id="fs-id1769427">Even before an mRNA is translated, a cell must invest energy to build each of its ribosomes. In <emphasis effect="italics">E. coli</emphasis>, there are between 10,000 and 70,000 ribosomes present in each cell at any given time. A <term id="term-00001">ribosome</term> is a complex macromolecule composed of structural and catalytic rRNAs, and many distinct polypeptides. In eukaryotes, the nucleolus is completely specialized for the synthesis and assembly of rRNAs.</para><para id="fs-id2000981">Ribosomes exist in the cytoplasm of prokaryotes and in the cytoplasm and rough endoplasmic reticulum of eukaryotes. Mitochondria and chloroplasts also have their own ribosomes in the matrix and stroma, which look more similar to prokaryotic ribosomes (and have similar drug sensitivities) than the ribosomes just outside their outer membranes in the cytoplasm. Ribosomes dissociate into large and small subunits when they are not synthesizing proteins and reassociate during the initiation of translation. <emphasis effect="italics">In E. coli, the small subunit is described as 30S, and the large subunit is 50S, for a total of 70S (recall that Svedberg units are not additive).</emphasis> Mammalian ribosomes have a small 40S subunit and a large 60S subunit, for a total of 80S. The small subunit is responsible for binding the mRNA template, whereas the large subunit sequentially binds tRNAs. Each mRNA molecule is simultaneously translated by many ribosomes, all synthesizing protein in the same direction: reading the mRNA from 5' to 3' and synthesizing the polypeptide from the N terminus to the C terminus. The complete mRNA/poly-ribosome structure is called a <term id="term-00002">polysome</term>.</para>
@@ -179,7 +179,7 @@
  </para>
 </solution>
 </exercise>
-</section> 
+</section>
  </content>
 <glossary>
 <definition id="fs-id2629848"><term>aminoacyl tRNA synthetase</term> <meaning id="fs-id2344953">enzyme that “charges” tRNA molecules by catalyzing a bond between the tRNA and a corresponding amino acid</meaning></definition>

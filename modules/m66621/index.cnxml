@@ -25,7 +25,7 @@
 </media>
 <caption>Voltage-gated ion channels open in response to changes in membrane voltage. After activation, they become inactivated for a brief period and will no longer open in response to a signal.</caption>
 </figure>
-<note id="fs-idm165717008" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idm165717008" class="interactive">
 <para id="fs-idm211769504">This video discusses the basis of the resting membrane potential.
 <media id="eip-id1172233931654" alt="resting_neuron">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/resting_neuron"/>
@@ -99,7 +99,7 @@
 </media>
 <caption>The action potential is conducted down the axon as the axon membrane depolarizes, then repolarizes.</caption>
 </figure>
-<note id="fs-idm217550432" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idm217550432" class="interactive">
 <para id="fs-idm62600496">This <link window="new" url="http://openstax.org/l/actionpotential">video</link> presents an overview of action potential.</para>
 </note></section><section id="fs-idm251216928">
 <title>Myelin and the Propagation of the Action Potential</title>
@@ -190,7 +190,7 @@ Amyotrophic lateral sclerosis (ALS, also called Lou Gehrig’s Disease) is a neu
 </media>
 
 <caption>With brain-computer interface technology, neural signals from a paralyzed patient are collected, decoded, and then fed to a tool, such as a computer, a wheelchair, or a robotic arm.</caption></figure></note>
-<note id="fs-idm198012528" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idm198012528" class="interactive">
 <para id="fs-idm94744784">Watch <link window="new" url="http://openstax.org/l/paralyzation">this video</link> in which a paralyzed woman uses a brain-controlled robotic arm to bring a drink to her mouth, among other images of brain-computer interface technology in action.
 <media id="eip-id2102965" alt="paralyzation">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/paralyzation"/>

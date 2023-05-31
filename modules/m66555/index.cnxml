@@ -45,7 +45,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_23_03_16.jpg" width="320"/>
 </media>
 <caption>A multinucleate alga. <emphasis effect="italics">Caulerpa taxifolia </emphasis>is a chlorophyte consisting of a single cell containing potentially thousands of nuclei. (credit: NOAA). An interesting question is how a single cell can produce such complex shapes.</caption></figure>
-<note id="fs-idp187273792" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idp187273792" class="interactive">
 <para id="fs-idm67079808">Take a look at this video to see cytoplasmic streaming in a green alga.<newline/>
 <media id="eip-id1164992" alt="chara_corallina">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/chara_corallina"/>
@@ -76,7 +76,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_B23_03_07.jpg" width="520"/>
 </media>
 
-<caption>Cellular Slime Mold. The image shows several stages in the life cycle of <emphasis effect="italics">Dictyostelium discoideum</emphasis>, including aggregated cells, mobile slugs and their transformation into fruiting bodies with a cluster of spores supported by a stalk. (credit: By Usman Bashir (Own work) [CC BY-SA 4.0 (<link window="new" url="http://openstax.org/l/CCBY">http://creativecommons.org/licenses/by-sa/4.0</link>)], via Wikimedia Commons)</caption></figure><note id="fs-idp151018896" class="interactive"><label/><title>Link to Learning</title>
+<caption>Cellular Slime Mold. The image shows several stages in the life cycle of <emphasis effect="italics">Dictyostelium discoideum</emphasis>, including aggregated cells, mobile slugs and their transformation into fruiting bodies with a cluster of spores supported by a stalk. (credit: By Usman Bashir (Own work) [CC BY-SA 4.0 (<link window="new" url="http://openstax.org/l/CCBY">http://creativecommons.org/licenses/by-sa/4.0</link>)], via Wikimedia Commons)</caption></figure><note id="fs-idp151018896" class="interactive">
 <para id="fs-idp32368176">View this video to see the formation of a fruiting body by a cellular slime mold.<newline/>
 <media id="eip-id1165237746084" alt="slime_mold">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/slime_mold"/>
@@ -146,7 +146,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_23_03_06ab.jpg" width="420"/>
 </media>
 <caption>Paramecium. <emphasis effect="italics">Paramecium</emphasis> has a primitive mouth (called an oral groove) to ingest food, and an anal pore to eliminate waste. Contractile vacuoles allow the organism to excrete excess water. Cilia enable the organism to move. (credit “paramecium micrograph”: modification of work by NIH; scale-bar data from Matt Russell)</caption></figure>
-<note id="fs-idp110320176" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idp110320176" class="interactive">
 <para id="fs-idm15754784">Watch the video of the contractile vacuole of <emphasis effect="italics">Paramecium</emphasis> expelling water to keep the cell osmotically balanced.
 <media id="eip-id1165792853951" alt="paramecium">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/paramecium"/>
@@ -222,7 +222,7 @@
 <para id="fs-idm5031040">A second Excavata subgroup, the parabasalids, are named for the parabasal apparatus, which consists of a Golgi complex associated with cytoskeletal fibers. Other cytoskeletal features include an axostyle, a bundle of fibers that runs the length of the cell and may even extend beyond it. Parabasalids move with flagella and membrane rippling, and these and other cytoskeletal modifications may assist locomotion. Like the diplomonads, the parabasalids exhibit modified mitochondria. In parabasalids these structures function anaerobically and are called hydrogenosomes because they produce hydrogen gas as a byproduct.</para>
 <para id="fs-idm5031041">The parabasalid <emphasis effect="italics">Trichomonas vaginalis</emphasis> causes trichomoniasis, a sexually transmitted disease in humans, which appears in an estimated 180 million cases worldwide each year. Whereas males rarely exhibit symptoms during an infection with this protist, infected females may become more susceptible to secondary infection with human immunodeficiency virus (HIV) and may be more likely to develop cervical cancer. Pregnant people infected with <emphasis effect="italics">T. vaginalis</emphasis> are at an increased risk of serious complications, such as pre-term delivery.</para>
 <para id="fs-idm5031042">Some of the most complex of the parabasalids are those that colonize the rumen of ruminant animals and the guts of termites. These organisms can digest cellulose, a metabolic talent that is unusual among eukaryotic cells. They have multiple flagella arranged in complex patterns and some additionally recruit spirochetes that attach to their surface to act as accessory locomotor structures.</para>
-<note id="fs-idp72998670" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idp72998670" class="interactive">
 <para id="fs-idm117025732">Termite gut endosymbionts <newline/>
 <media id="med-id1167232288213" alt="Termite gut endosymbionts">
 <iframe width="754" height="480" src="https://www.youtube.com/embed/HOx7SDdIqyU"/>
@@ -234,7 +234,7 @@
 <para id="fs-idp148972656">The human parasite, <emphasis effect="italics">Trypanosoma brucei</emphasis>, belongs to a different subgroup of Euglenozoa, the kinetoplastids. The kinetoplastid subgroup is named after the kinetoplast, a large modified mitochondrion carrying multiple circular DNAs. This subgroup includes several parasites, collectively called trypanosomes, which cause devastating human diseases and infect an insect species during a portion of their life cycle. <emphasis effect="italics">T. brucei</emphasis> develops in the gut of the tsetse fly after the fly bites an infected human or other mammalian host. The parasite then travels to the insect salivary glands to be transmitted to another human or other mammal when the infected tsetse fly consumes another blood meal. <emphasis effect="italics">T. brucei</emphasis> is common in central Africa and is the causative agent of African sleeping sickness, a disease associated with severe chronic fatigue, coma, and can be fatal if left untreated since it leads to progressive decline of the function of the central nervous system.</para><figure id="fig-ch23_03_03"><media id="fs-idp110230272" alt="The life cycle of T brucei begins when the tetse fly takes a blood meal from a human host, and injects the parasite into the bloodstream. T brucei multiplies by binary fission in blood, lymph and spinal fluid. When another tsetse fly bites the infected person, it takes up the pathogen, which then multiplies by binary fission in the flys midgut. T brucei transforms into an infective stage and enters the salivary gland, where it multiplies. The cycle is completed when the fly takes a blood meal from another human.">
 <image mime-type="image/png" src="../../media/Figure_B23_03_20.png"/>
 </media>
-<caption>Sleeping sickness. <emphasis effect="italics">Trypanosoma brucei</emphasis>, the causative agent of sleeping sickness, spends part of its life cycle in the tsetse fly and part in humans. (credit: modification of work by CDC)</caption></figure><note id="fs-idp72997680" class="interactive"><label/><title>Link to Learning</title>
+<caption>Sleeping sickness. <emphasis effect="italics">Trypanosoma brucei</emphasis>, the causative agent of sleeping sickness, spends part of its life cycle in the tsetse fly and part in humans. (credit: modification of work by CDC)</caption></figure><note id="fs-idp72997680" class="interactive">
 <para id="fs-idm117075232">Watch this video to see <emphasis effect="italics">T</emphasis>.<emphasis effect="italics"> brucei</emphasis> swimming.
 <media id="eip-id1167232288213" alt="T_brucei">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/T_brucei"/>

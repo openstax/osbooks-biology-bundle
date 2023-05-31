@@ -31,7 +31,7 @@
 </media>
 <caption>The (c) wing of a honeybee is similar in shape to a (b) bird wing and (a) bat wing, and it serves the same function. However, the honeybee wing is not composed of bones and has a distinctly different structure and embryonic origin. These wing types (insect versus bat and bird) illustrate an analogy—similar structures that do not share an evolutionary history. (credit a: modification of work by U.S. DOI BLM; credit b: modification of work by Steve Hillebrand, USFWS; credit c: modification of work by Jon Sullivan)</caption>
 </figure>
-<note id="fs-idp112720384" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idp112720384" class="interactive">
 <para id="fs-idp122959616">This <link window="new" url="http://openstax.org/l/relationships">website</link> has several examples to show how appearances can be misleading in understanding organisms' phylogenetic relationships.</para>
 </note>
 </section>
@@ -87,7 +87,7 @@
 <para id="fs-idm2067904">Imagine being the person responsible for organizing all department store items properly—an overwhelming task. Organizing the evolutionary relationships of all life on Earth proves much more difficult: scientists must span enormous blocks of time and work with information from long-extinct organisms. Trying to decipher the proper connections, especially given the presence of homologies and analogies, makes the task of building an accurate tree of life extraordinarily difficult. Add to that advancing DNA technology, which now provides large quantities of genetic sequences for researchers to use and analyze. Taxonomy is a subjective discipline: many organisms have more than one connection to each other, so each taxonomist will decide the order of connections.</para>
 <para id="fs-idp136027872">To aid in the tremendous task of describing phylogenies accurately, scientists often use the concept of <term id="term-00008">maximum parsimony</term>, which means that events occurred in the simplest, most obvious way. For example, if a group of people entered a forest preserve to hike, based on the principle of maximum parsimony, one could predict that most would hike on established trails rather than forge new ones.</para>
 <para id="fs-idp121336368">For scientists deciphering evolutionary pathways, the same idea is used: the pathway of evolution probably includes the fewest major events that coincide with the evidence at hand. Starting with all of the homologous traits in a group of organisms, scientists look for the most obvious and simple order of evolutionary events that led to the occurrence of those traits.</para>
-<note id="fs-idp43830592" class="interactive"><label/><title>Link to Learning</title>
+<note id="fs-idp43830592" class="interactive">
 <para id="fs-idp56872384">Head to this <link window="new" url="http://openstax.org/l/using_parsimony">website</link> to learn how researchers use maximum parsimony to create phylogenetic trees.</para>
 <para id="fs-idp103388288">These tools and concepts are only a few strategies scientists use to tackle the task of revealing the evolutionary history of life on Earth. Recently, newer technologies have uncovered surprising discoveries with unexpected relationships, such as the fact that people seem to be more closely related to fungi than fungi are to plants. Sound unbelievable? As the information about DNA sequences grows, scientists will become closer to mapping the evolutionary history of all life on Earth.</para>
 </note>
