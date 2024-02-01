@@ -46,7 +46,7 @@
 
 <caption>Scientists use polymerase chain reaction, or PCR, to amplify a specific DNA sequence. Primers—short pieces of DNA complementary to each end of the target sequence combine with genomic DNA, Taq polymerase, and deoxynucleotides. Taq polymerase is a DNA polymerase isolated from the thermostable bacterium <emphasis effect="italics">Thermus aquaticus</emphasis> that is able to withstand the high temperatures that scientists use in PCR. <emphasis effect="italics">Thermus aquaticus</emphasis> grows in the Lower Geyser Basin of Yellowstone National Park. Reverse transcriptase PCR (RT-PCR) is similar to PCR, but cDNA is made from an RNA template before PCR begins.</caption></figure><para id="fs-id2054588">DNA fragments can also be amplified from an RNA template in a process called <term id="term-00006">reverse transcriptase PCR (RT-PCR)</term>. The first step is to recreate the original DNA template strand (called cDNA) by applying DNA nucleotides to the mRNA. This process is called reverse transcription. This requires the presence of an enzyme called reverse transcriptase. After the cDNA is made, regular PCR can be used to amplify it.</para>
 <note id="fs-id2065865" class="interactive">
-<para id="fs-id2200084">Deepen your understanding of the polymerase chain reaction by watching <link window="new" url="http://openstax.org/l/PCR">this video</link>.</para></note>
+<para id="fs-id2200084">Deepen your understanding of the polymerase chain reaction by watching <link window="new" url="https://openstax.org/l/PCR">this video</link>.</para></note>
 </section>
 <section id="fs-id1569812">
 <title>Hybridization, Southern Blotting, and Northern Blotting</title>
@@ -79,7 +79,7 @@
 </list>
 </note>
 <note id="fs-id1397608" class="interactive">
-<para id="fs-id1242332">View an <link window="new" url="http://openstax.org/l/recombination">animation of recombination in cloning</link> from the DNA Learning Center.</para>
+<para id="fs-id1242332">View an <link window="new" url="https://openstax.org/l/recombination">animation of recombination in cloning</link> from the DNA Learning Center.</para>
 </note>
 </section>
 </section>

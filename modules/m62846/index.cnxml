@@ -78,8 +78,8 @@
 
 <note id="fs-id1167065980256" class="os-teacher">
 <label>Teacher Support</label>
-<para id="fs-id1167065894110">When discussing the operons with students, challenge them to think about what would happen if there were a gene mutation that disrupted the function of one of the proteins that controls transcription of the operon. For example, if the repressor protein in the <emphasis effect="italics">lac</emphasis> operon has a mutation that prevents it from binding to lactose, then the repressor will remain bound to the operator and will prevent transcription of the operon even in the presence of lactose. This <link window="new" url="http://openstax.org/l/32mutation">video</link> describes two other examples of mutations in the <emphasis effect="italics">lac</emphasis> operon.</para>
-<para id="fs-id1167062347885">Introduce the regulation of transcription in the <emphasis effect="italics">lac</emphasis> operon using visuals such as this <link window="new" url="http://openstax.org/l/32lacoperon">video</link>.</para>
+<para id="fs-id1167065894110">When discussing the operons with students, challenge them to think about what would happen if there were a gene mutation that disrupted the function of one of the proteins that controls transcription of the operon. For example, if the repressor protein in the <emphasis effect="italics">lac</emphasis> operon has a mutation that prevents it from binding to lactose, then the repressor will remain bound to the operator and will prevent transcription of the operon even in the presence of lactose. This <link window="new" url="https://openstax.org/l/32mutation">video</link> describes two other examples of mutations in the <emphasis effect="italics">lac</emphasis> operon.</para>
+<para id="fs-id1167062347885">Introduce the regulation of transcription in the <emphasis effect="italics">lac</emphasis> operon using visuals such as this <link window="new" url="https://openstax.org/l/32lacoperon">video</link>.</para>
 </note>
 
 <para id="fs-idm200418880">The DNA of prokaryotes is organized into a circular chromosome supercoiled in the nucleoid region of the cell cytoplasm. Proteins that are needed for a specific function, or that are involved in the same biochemical pathway, are encoded together in blocks called <term id="term-00001">operons</term>. For example, all of the genes needed to use lactose as an energy source are coded next to each other in the lactose (or <emphasis effect="italics">lac</emphasis>) operon.</para>
@@ -96,7 +96,7 @@
 <para id="fs-idm101642592">When tryptophan is not present in the cell, the repressor by itself does not bind to the operator; therefore, the operon is active and tryptophan is synthesized. Because the repressor protein actively binds to the operator to keep the genes turned off, the <emphasis effect="italics">trp</emphasis> operon is negatively regulated and the proteins that bind to the operator to silence <emphasis effect="italics">trp</emphasis> expression are <term id="term-00008">negative regulators</term>.</para>
 <note id="fs-idm187290400" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch16-s02-lo01 ost-tag-lo-apbio-ch16-s02-aplo-3-21 ost-tag-lo-apbio-ch16-s02-aplo-3-23">
 
-<para id="fs-idm19622064">Watch <link window="new" url="http://openstax.org/l/trp_operon">this video</link> to learn more about the <emphasis effect="italics">trp</emphasis> operon.</para>
+<para id="fs-idm19622064">Watch <link window="new" url="https://openstax.org/l/trp_operon">this video</link> to learn more about the <emphasis effect="italics">trp</emphasis> operon.</para>
 <exercise id="fs-id1167064896152" class="os-exercise unnumbered"><label/>
 <problem id="fs-id1167065976176">
 <para id="fs-id1167065828680"><link class="os-embed" url="#ost/api/ex/apbio-ch16-ex013"/>
@@ -152,7 +152,7 @@
 </tgroup>
 </table><note id="fs-idm116103472" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch16-s02-lo01 ost-tag-lo-apbio-ch16-s02-aplo-3-21 ost-tag-lo-apbio-ch16-s02-aplo-3-23">
 <label>Link to Learning</label>
-<para id="fs-idm187859568">Watch an <link window="new" url="http://openstax.org/l/lac_operon">animated tutorial</link> about the workings of <emphasis effect="italics">lac</emphasis> operon here.</para>
+<para id="fs-idm187859568">Watch an <link window="new" url="https://openstax.org/l/lac_operon">animated tutorial</link> about the workings of <emphasis effect="italics">lac</emphasis> operon here.</para>
 <exercise id="fs-id1167065914639" class="os-exercise unnumbered"><label/>
 <problem id="fs-id1167064951473">
 <para id="fs-id1167065949746">
