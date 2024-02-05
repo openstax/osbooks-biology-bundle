@@ -371,13 +371,15 @@
 </para>
 </problem>
 </exercise>
-<exercise id="fs-id1167066962567" class="os-exercise">
+<!-- this exercise messed up numbering from revision 1 to revision 2
+    <exercise id="fs-id1167066962567" class="os-exercise">
 <problem id="fs-id1167066808399">
 <para id="fs-id1167067179590">
 <link class="os-embed" url="#ost/api/ex/apbio-ch06-ex015"/>
 </para>
 </problem>
 </exercise>
+-->
 <exercise id="fs-id1167066822155" class="os-exercise">
 <problem id="fs-id1167066972616">
 <para id="fs-id1167063514522">
