@@ -100,7 +100,7 @@
 <caption>The action potential is conducted down the axon as the axon membrane depolarizes, then repolarizes.</caption>
 </figure>
 <note id="fs-idm217550432" class="interactive">
-<para id="fs-idm62600496">This <link window="new" url="http://openstax.org/l/actionpotential">video</link> presents an overview of action potential.</para>
+<para id="fs-idm62600496">This <link window="new" url="https://openstax.org/l/actionpotential">video</link> presents an overview of action potential.</para>
 </note></section><section id="fs-idm251216928">
 <title>Myelin and the Propagation of the Action Potential</title>
 <para id="fs-idm83399120">For an action potential to communicate information to another neuron, it must travel along the axon and reach the axon terminals where it can initiate neurotransmitter release. The speed of conduction of an action potential along an axon is influenced by both the diameter of the axon and the axon’s resistance to current leak. Myelin acts as an insulator that prevents current from leaving the axon; this increases the speed of action potential conduction. In demyelinating diseases like multiple sclerosis, action potential conduction slows because current leaks from previously insulated axon areas. The nodes of Ranvier, illustrated in <link target-id="fig-ch35_02_05"/> are gaps in the myelin sheath along the axon. These unmyelinated spaces are about one micrometer long and contain voltage-gated Na<sup>+</sup> and K<sup>+</sup> channels. Flow of ions through these channels, particularly the Na<sup>+</sup> channels, regenerates the action potential over and over again along the axon. This ‘jumping’ of the action potential from one node to the next is called <term id="term-00005">saltatory conduction</term>. If nodes of Ranvier were not present along an axon, the action potential would propagate very slowly since Na<sup>+</sup> and K<sup>+</sup> channels would have to continuously regenerate action potentials at every point along the axon instead of at specific points. Nodes of Ranvier also save energy for the neuron since the channels only need to be present at the nodes and not along the entire axon.</para>
@@ -191,7 +191,7 @@ Amyotrophic lateral sclerosis (ALS, also called Lou Gehrig’s Disease) is a neu
 
 <caption>With brain-computer interface technology, neural signals from a paralyzed patient are collected, decoded, and then fed to a tool, such as a computer, a wheelchair, or a robotic arm.</caption></figure></note>
 <note id="fs-idm198012528" class="interactive">
-<para id="fs-idm94744784">Watch <link window="new" url="http://openstax.org/l/paralyzation">this video</link> in which a paralyzed woman uses a brain-controlled robotic arm to bring a drink to her mouth, among other images of brain-computer interface technology in action.
+<para id="fs-idm94744784">Watch <link window="new" url="https://openstax.org/l/paralyzation">this video</link> in which a paralyzed woman uses a brain-controlled robotic arm to bring a drink to her mouth, among other images of brain-computer interface technology in action.
 <media id="eip-id2102965" alt="paralyzation">
 <iframe width="660" height="371.4" src="https://www.openstax.org/l/paralyzation"/>
 </media>
