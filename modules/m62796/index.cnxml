@@ -103,7 +103,7 @@
 <label>Visual Connection</label>
 <para id="fs-idp17489872">
 <figure id="fig-ch08_03_02" class="ost-tag-lo-apbio-ch08-s03-lo01 ost-tag-lo-apbio-ch08-s03-aplo-2-4"><media id="fs-idm92787152" alt="A diagram of the Calvin cycle is shown with its three stages: carbon fixation, 3-PGA reduction, and regeneration of RuBP. In stage 1, the enzyme RuBisCO adds a carbon dioxide to the five-carbon molecule RuBP, producing two three-carbon 3-PGA molecules. In stage 2, two NADPH and two ATP are used to reduce 3-PGA to G3P. In stage 3 RuBP is regenerated from G3P. One ATP is used in the process. Three complete cycles produces one new G3P, which is shunted out of the cycle and made into glucose (C6H12O6).">
-<image mime-type="image/png" src="../../media/Figure_08_03_02-7f77.jpg" width="350"/>
+<image mime-type="image/png" src="../../media/Figure_08_03_02-7f77.jpg" width="550"/>
 </media>
 
 <caption>The Calvin cycle has three stages. In stage 1, the enzyme RuBisCO incorporates carbon dioxide into an organic molecule, 3-PGA. In stage 2, the organic molecule is reduced using electrons supplied by NADPH. In stage 3, RuBP, the molecule that starts the cycle, is regenerated so that the cycle can continue. Only one carbon dioxide molecule is incorporated at a time, so the cycle must be completed three times to produce a single three-carbon G3P molecule, and six times to produce a six-carbon glucose molecule.</caption></figure></para>
