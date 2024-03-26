@@ -17,7 +17,7 @@
 <section id="fs-id2936109">
 <title>Chromosome Identification</title>
 <para id="fs-id1433202">Chromosome isolation and microscopic observation forms the basis of cytogenetics and is the primary method by which clinicians detect chromosomal abnormalities in humans. A <term id="term-00001">karyotype</term> is the number and appearance of chromosomes, and includes their length, banding pattern, and centromere position. To obtain a view of an individual’s karyotype, cytologists photograph the chromosomes and then cut and paste each chromosome into a chart, or <term id="term-00002">karyogram</term>. Another name is an ideogram (<link target-id="fig-ch13_02_01"/>).</para>
-<figure id="fig-ch13_02_01" class=" "><media id="fs-id1422041" alt="This is a karyotype of a human female. There are 22 homologous pairs of chromosomes and an X chromosome.">
+<figure id="fig-ch13_02_01"><media id="fs-id1422041" alt="This is a karyotype of a human female. There are 22 homologous pairs of chromosomes and an X chromosome.">
 <image mime-type="image/jpg" src="../../media/Figure_13_03_01.jpg" width="600"/>
 </media>
 
@@ -33,7 +33,7 @@
 <para id="fs-id1464025">Of all of the chromosomal disorders, chromosome number abnormalities are the most obviously identifiable from a karyogram. Chromosome number disorders include duplicating or losing entire chromosomes, as well as changes in the number of complete sets of chromosomes. They are caused by <term id="term-00005">nondisjunction</term>, which occurs when homologous chromosome pairs or sister chromatids fail to separate during meiosis. Misaligned or incomplete synapsis, or a spindle apparatus dysfunction that facilitates chromosome migration, can cause nondisjunction. The risk of nondisjunction occurring increases with the parents' age.</para>
 <para id="fs-id1772407">Nondisjunction can occur during either meiosis I or II, with differing results (<link target-id="fig-ch13_02_02"/>). If homologous chromosomes fail to separate during meiosis I, the result is two gametes that lack that particular chromosome and two gametes with two chromosome copies. If sister chromatids fail to separate during meiosis II, the result is one gamete that lacks that chromosome, two normal gametes with one chromosome copy, and one gamete with two chromosome copies.</para>
 <note id="fs-id1879663" class="visual-connection">
-<figure id="fig-ch13_02_02" class=" "><media id="fs-id1788358" alt="This illustration shows nondisjunction that occurs during meiosis I. Nondisjunction during meiosis I occurs when a homologous pair fails to separate, and results in two gametes with n + 1 chromosomes, and two gametes with n  minus 1 chromosomes. Nondisjunction during meiosis I I would occur when sister chromatids fail to separate, and results in one gamete with n + 1 chromosomes, one gamete with n minus 1 chromosomes, and two normal gametes.">
+<figure id="fig-ch13_02_02"><media id="fs-id1788358" alt="This illustration shows nondisjunction that occurs during meiosis I. Nondisjunction during meiosis I occurs when a homologous pair fails to separate, and results in two gametes with n + 1 chromosomes, and two gametes with n  minus 1 chromosomes. Nondisjunction during meiosis I I would occur when sister chromatids fail to separate, and results in one gamete with n + 1 chromosomes, one gamete with n minus 1 chromosomes, and two normal gametes.">
 <image mime-type="image/png" src="../../media/Figure_13_03_02-db42.png"/>
 </media>
 

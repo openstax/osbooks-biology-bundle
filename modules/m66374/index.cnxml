@@ -17,7 +17,7 @@
 <section id="fs-id1309562">
 <title>Selective Permeability</title>
 <para id="fs-id2138380">Plasma membranes are asymmetric: the membrane's interior is not identical to its exterior. There is a considerable difference between the array of phospholipids and proteins between the two leaflets that form a membrane. On the membrane's interior, some proteins serve to anchor the membrane to cytoskeleton's fibers. There are peripheral proteins on the membrane's exterior that bind extracellular matrix elements. Carbohydrates, attached to lipids or proteins, are also on the plasma membrane's exterior surface. These carbohydrate complexes help the cell bind required substances in the extracellular fluid. This adds considerably to plasma membrane's selective nature (<link window="new" target-id="fig-ch05_02_01"/>).</para>
-<figure id="fig-ch05_02_01" class=" "><media id="fs-id1712645" alt="This illustration shows that the inside and outside of a plasma membrane are different, with the exterior covered in the spherical heads, and the interior filled with the strandlike tails.">
+<figure id="fig-ch05_02_01"><media id="fs-id1712645" alt="This illustration shows that the inside and outside of a plasma membrane are different, with the exterior covered in the spherical heads, and the interior filled with the strandlike tails.">
 <image mime-type="image/jpg" src="../../media/Figure_05_02_01-8fd6.jpg" width="600"/>
 </media>
 
@@ -27,7 +27,7 @@
 <section id="fs-id1569987">
 <title>Diffusion</title>
 <para id="fs-id2051346"><term id="term-00004">Diffusion</term> is a passive process of transport. A single substance moves from a high concentration to a low concentration area until the concentration is equal across a space. You are familiar with diffusion of substances through the air. For example, think about someone opening a bottle of ammonia in a room filled with people. The ammonia gas is at its highest concentration in the bottle. Its lowest concentration is at the room's edges. The ammonia vapor will diffuse, or spread away, from the bottle, and gradually, increasingly more people will smell the ammonia as it spreads. Materials move within the cell’s cytosol by diffusion, and certain materials move through the plasma membrane by diffusion (<link window="new" target-id="fig-ch05_02_02"/>). Diffusion expends no energy. On the contrary, concentration gradients are a form of potential energy, which dissipates as the gradient is eliminated.</para>
-<figure id="fig-ch05_02_02" class=" "><media id="fs-id873679" alt="The left part of this illustration shows a substance on one side of a membrane only, in the extracellular fluid. The middle part shows that, after some time, some of the substance has diffused across the plasma membrane, from the extracellular fluid and into the cytoplasm. The right part shows that, after more time, an equal amount of the substance is on each side of the membrane.">
+<figure id="fig-ch05_02_02"><media id="fs-id873679" alt="The left part of this illustration shows a substance on one side of a membrane only, in the extracellular fluid. The middle part shows that, after some time, some of the substance has diffused across the plasma membrane, from the extracellular fluid and into the cytoplasm. The right part shows that, after more time, an equal amount of the substance is on each side of the membrane.">
 <image mime-type="image/jpg" src="../../media/Figure_05_02_02-9936.jpg" width="600"/>
 </media>
 
@@ -63,7 +63,7 @@ A. and Fletcher, S. Department of Biology, Texas A&amp;M University.</caption></
 <section id="fs-id677498">
 <title>Carrier Proteins</title>
 <para id="fs-id1507066">Another type of protein embedded in the plasma membrane is a <term id="term-00010">carrier protein</term>. This aptly named protein binds a substance and, thus triggers a change of its own shape, moving the bound molecule from the cell's outside to its interior (<link window="new" target-id="fig-ch05_02_04"/>); depending on the gradient, the material may move in the opposite direction. Carrier proteins are typically specific for a single substance. This selectivity adds to the plasma membrane's overall selectivity. Scientists poorly understand the exact mechanism for the change of shape. Proteins can change shape when their hydrogen bonds are affected, but this may not fully explain this mechanism. Each carrier protein is specific to one substance, and there are a finite number of these proteins in any membrane. This can cause problems in transporting enough material for the cell to function properly. When all of the proteins are bound to their ligands, they are saturated and the rate of transport is at its maximum. Increasing the concentration gradient at this point will not result in an increased transport rate.</para>
-<figure id="fig-ch05_02_04" class=" "><media id="fs-id2019240" alt="This illustration shows a carrier protein embedded in the membrane with an opening that initially faces the extracellular surface, labeled the hydrophilic pocket. After a substance binds the carrier, it changes shape so that the opening faces the cytoplasm. The change id labeled conformational change. After the newly, and the substance is released.">
+<figure id="fig-ch05_02_04"><media id="fs-id2019240" alt="This illustration shows a carrier protein embedded in the membrane with an opening that initially faces the extracellular surface, labeled the hydrophilic pocket. After a substance binds the carrier, it changes shape so that the opening faces the cytoplasm. The change id labeled conformational change. After the newly, and the substance is released.">
 <image mime-type="image/jpg" src="../../media/Figure_05_02_05-71ff.jpg" width="600"/>
 </media>
 
@@ -123,7 +123,7 @@ Biology, Texas A&amp;M University.</caption></figure><para id="fs-id1378540">An 
 </media>
 <caption>The turgor pressure within a plant cell depends on the solution's tonicity in which it is bathed. (credit: modification of work by Mariana Ruiz Villareal)</caption>
 </figure>
-<figure id="fig-ch05_02_08" class=" "><media id="fs-id2025294" alt="The left photo shows a plant that has wilted, with dark green leaves that are shriveled, and appear dry.  The photo on the right shows a healthy plant, with broad light green leaves that appear soft and pliable.">
+<figure id="fig-ch05_02_08"><media id="fs-id2025294" alt="The left photo shows a plant that has wilted, with dark green leaves that are shriveled, and appear dry.  The photo on the right shows a healthy plant, with broad light green leaves that appear soft and pliable.">
 <image mime-type="image/jpg" src="../../media/Figure_05_02_09.jpg" width="500"/>
 </media>
 

@@ -25,7 +25,7 @@
 </media>
 
 <caption>The wavelength of a single wave is the distance between two consecutive points of similar position (two crests or two troughs) along the wave.</caption></figure><para id="fs-idm125423280">Visible light constitutes only one of many types of electromagnetic radiation emitted from the sun and other stars. Scientists differentiate the various types of radiant energy from the sun within the electromagnetic spectrum. The <term id="term-00002">electromagnetic spectrum</term> is the range of all possible frequencies of radiation (<link target-id="fig-ch08_02_03"/>). The difference between wavelengths relates to the amount of energy carried by them.</para>
-<figure id="fig-ch08_02_03" class=" "><media id="fs-idp102263632" alt="The illustration lists the types of electromagnetic radiation in order of increasing wavelength. These include gamma rays, X-rays, ultraviolet, visible, infrared, and radio. Gamma rays have a very short wavelength, on the order of one thousandth of a nanometer. Radio waves have a very long wavelength, on the order of one kilometer. Visible light ranges from 380 nanometers at the violet end of the spectrum, to 750 nanometers at the red end of the spectrum.">
+<figure id="fig-ch08_02_03"><media id="fs-idp102263632" alt="The illustration lists the types of electromagnetic radiation in order of increasing wavelength. These include gamma rays, X-rays, ultraviolet, visible, infrared, and radio. Gamma rays have a very short wavelength, on the order of one thousandth of a nanometer. Radio waves have a very long wavelength, on the order of one kilometer. Visible light ranges from 380 nanometers at the violet end of the spectrum, to 750 nanometers at the red end of the spectrum.">
 <image mime-type="image/jpg" src="../../media/Figure_08_02_03-20d5.jpg"/>
 </media>
 
@@ -36,13 +36,13 @@
 <para id="fs-idp33763296">The visible light seen by humans as white light actually exists in a rainbow of colors. Certain objects, such as a prism or a drop of water, disperse white light to reveal the colors to the human eye. The visible light portion of the electromagnetic spectrum shows the rainbow of colors, with violet and blue having shorter wavelengths, and therefore higher energy. At the other end of the spectrum toward red, the wavelengths are longer and have lower energy (<link target-id="fig-ch08_02_04"/>).</para>
 
 <figure id="eip-idm1420756288">
-  <media id="eip-idm1237156144" alt="A ground state atom is depicted with an electron in an inner shell. A photon is pictured hitting the atom. The result is pictured as an excited state atom. The electron has moved to an outer shell. ">
+  <media id="eip-idm1237156144" alt="A ground state atom is depicted with an electron in an inner shell. A photon is pictured hitting the atom. The result is pictured as an excited state atom. The electron has moved to an outer shell.">
     <image mime-type="image/png" src="../../media/Figure_08_02_041.png"/>
   </media>
 <caption>Light energy can excite electrons. When a photon of light energy interacts with an electron, the electron may absorb the energy and jump from its lowest energy ground state to an excited state. Credit: Rao, A. and Ryan, K. Department of Biology, Texas A&amp;M University.</caption>
 </figure>
 
-<figure id="fig-ch08_02_04" class=" "><media id="fs-idm211258048" alt="The illustration shows the colors of visible light. In order of decreasing wavelength, these are red, orange, yellow, green, blue, indigo, and violet.">
+<figure id="fig-ch08_02_04"><media id="fs-idm211258048" alt="The illustration shows the colors of visible light. In order of decreasing wavelength, these are red, orange, yellow, green, blue, indigo, and violet.">
 <image mime-type="image/jpg" src="../../media/Figure_08_02_04-8e70.jpg"/>
 </media>
 
@@ -66,7 +66,7 @@ A., Fletcher, S. and Hawkins, A. Department of Biology, Texas A&amp;M University
 </section><section id="fs-idm30660704">
 <title>How Light-Dependent Reactions Work</title>
 <para id="fs-idm291419072">The overall function of light-dependent reactions is to convert solar energy into chemical energy in the form of NADPH and ATP. This chemical energy supports the light-independent reactions and fuels the assembly of sugar molecules. The light-dependent reactions are depicted in <link target-id="fig-ch08_02_07"/>. Protein complexes and pigment molecules work together to produce NADPH and ATP. The numbering of the photosystems is derived from the order in which they were discovered, not in the order of the transfer of electrons.</para>
-<figure id="fig-ch08_02_07"><media id="fs-idm3490080" alt="A photosystem is shown embedded in the thylakoid membrane. The reaction center is surrounded by the light-harvesting complexes, which contain pigment molecules. When a photon interacts with the pigment molecules, they transfer light energy toward a pair of chlorophyll a molecules in the reaction center. As a result, an electron is excited and transferred to the primary electron acceptor. Two released electrons are used to replace excited electrons. ">
+<figure id="fig-ch08_02_07"><media id="fs-idm3490080" alt="A photosystem is shown embedded in the thylakoid membrane. The reaction center is surrounded by the light-harvesting complexes, which contain pigment molecules. When a photon interacts with the pigment molecules, they transfer light energy toward a pair of chlorophyll a molecules in the reaction center. As a result, an electron is excited and transferred to the primary electron acceptor. Two released electrons are used to replace excited electrons.">
 <image mime-type="image/png" src="../../media/Figure_08_02_07ab-3d69.png" width="320"/>
 </media>
 
