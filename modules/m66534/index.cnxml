@@ -86,46 +86,46 @@
                         <entry>Examples</entry>
                     </row>
                 </thead>
-            <tbody>
-                <row>
-                    <entry>
-                        <list id="fs-idm54557568" list-type="bulleted" bullet-style="none"><item>RNA</item>
-                            <item>DNA</item>
-                        </list></entry>
-                    <entry>
-                        <list id="fs-idp79315424" list-type="bulleted" bullet-style="none"><item>Rabies virus, retroviruses</item>
-                            <item>Herpesviruses, smallpox virus</item>
-                        </list></entry>
-                </row>
-                                <row>
-                    <entry>
-                        <list id="fs-idp34854880" list-type="bulleted" bullet-style="none"><item>Single-stranded</item>
-                            <item>Double-stranded</item>
-                        </list></entry>
-                    <entry>
-                        <list id="fs-idp84734864" bullet-style="none" list-type="bulleted"><item>Rabies virus, retroviruses</item>
-<item>Herpesviruses, smallpox virus</item></list></entry>
-                                </row>
-                <row>
-                    <entry>
-                        <list id="fs-idp66540320" list-type="bulleted" bullet-style="none"><item>Linear</item>
-                            <item>Circular</item>
-                        </list></entry>
-                    <entry>
-                        <list id="fs-idp21921520" list-type="bulleted" bullet-style="none"><item>Rabies virus, retroviruses, herpesviruses, smallpox virus</item>
-<item>Papillomaviruses, many bacteriophages</item></list></entry>
-                </row>
-                                <row>
-                    <entry>
-                        <list id="fs-idp105633616" list-type="bulleted" bullet-style="none"><item>Non-segmented: genome consists of a single segment of genetic material</item>
-                            <item>Segmented: genome is divided into multiple segments</item>
-                        </list></entry>
-                    <entry>
-                        <list id="fs-idp192496224" list-type="bulleted" bullet-style="none"><item> Parainfluenza viruses</item>
-                            <item>Influenza viruses</item>
-                        </list></entry>
-                                </row>
-            </tbody>
+                <tbody>
+                  <row>
+                      <entry>
+                          <list id="fs-idm54557568" list-type="bulleted"><item>RNA</item>
+                              <item>DNA</item>
+                          </list></entry>
+                      <entry>
+                          <list id="fs-idp79315424" list-type="bulleted"><item>Rabies virus, retroviruses</item>
+                              <item>Herpesviruses, smallpox virus</item>
+                          </list></entry>
+                  </row>
+                                  <row>
+                      <entry>
+                          <list id="fs-idp34854880" list-type="bulleted"><item>Single-stranded</item>
+                              <item>Double-stranded</item>
+                          </list></entry>
+                      <entry>
+                          <list id="fs-idp84734864" list-type="bulleted"><item>Rabies virus, retroviruses</item>
+  <item>Herpesviruses, smallpox virus</item></list></entry>
+                                  </row>
+                  <row>
+                      <entry>
+                          <list id="fs-idp66540320" list-type="bulleted"><item>Linear</item>
+                              <item>Circular</item>
+                          </list></entry>
+                      <entry>
+                          <list id="fs-idp21921520" list-type="bulleted"><item>Rabies virus, retroviruses, herpesviruses, smallpox virus</item>
+  <item>Papillomaviruses, many bacteriophages</item></list></entry>
+                  </row>
+                                  <row>
+                      <entry>
+                          <list id="fs-idp105633616" list-type="bulleted"><item>Non-segmented: genome consists of a single segment of genetic material</item>
+                              <item>Segmented: genome is divided into multiple segments</item>
+                          </list></entry>
+                      <entry>
+                          <list id="fs-idp192496224" list-type="bulleted"><item> Parainfluenza viruses</item>
+                              <item>Influenza viruses</item>
+                          </list></entry>
+                                  </row>
+              </tbody>  
 
 
 
@@ -134,7 +134,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_21_01_04ab.jpg" width="535"/>
 </media>
 <caption>Viruses can be classified according to their core genetic material and capsid design. (a) Rabies virus has a single-stranded RNA (ssRNA) core and an enveloped helical capsid, whereas (b) variola virus, the causative agent of smallpox, has a double-stranded DNA (dsDNA) core and a complex capsid. Rabies transmission occurs when saliva from an infected mammal enters a wound. The virus travels through neurons in the peripheral nervous system to the central nervous system, where it impairs brain function, and then travels to other tissues. The virus can infect any mammal, and most die within weeks of infection. Smallpox is a human virus transmitted by inhalation of the variola virus, localized in the skin, mouth, and throat, which causes a characteristic rash. Before its eradication in 1979, infection resulted in a 30 to 35 percent mortality rate. (credit “rabies diagram”: modification of work by CDC; “rabies micrograph”: modification of work by Dr. Fred Murphy, CDC; credit “small pox micrograph”: modification of work by Dr. Fred Murphy, Sylvia Whitfield, CDC; credit “smallpox photo”: modification of work by CDC; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp53579680">Viruses can also be classified by the design of their capsids (<link target-id="tab-ch21_01_02"/> and <link target-id="fig-ch21_01_06"/>). Capsids are classified as naked icosahedral, enveloped icosahedral, enveloped helical, naked helical, and complex. The type of genetic material (DNA or RNA) and its structure (single- or double-stranded, linear or circular, and segmented or non-segmented) are used to classify the virus core structures (<link target-id="tab-ch21_01_02"/>).</para>
-<table id="tab-ch21_01_02" summary="" class="top-titled">
+<table id="tab-ch21_01_02" summary="." class="top-titled">
     <tgroup cols="2" align="left">
         <colspec colnum="1" colname="c1"/>
         <colspec colnum="2" colname="c2"/>
@@ -186,7 +186,7 @@
 <para id="fs-idp84888264"><term id="term-00016">Group V</term> viruses contain ssRNA genomes with a <term id="term-00017">negative polarity</term>, meaning that their sequence is complementary to the mRNA. As with Group IV viruses, dsRNA intermediates are used to make copies of the genome and produce mRNA. In this case, the negative-stranded genome can be converted directly to mRNA. Additionally, full-length positive RNA strands are made to serve as templates for the production of the negative-stranded genome.</para>
 <para id="fs-idp84999264"><term id="term-00018">Group VI</term> viruses have diploid (two copies) ssRNA genomes that must be converted, using the enzyme <term id="term-00019">reverse transcriptase</term>, to dsDNA; the dsDNA is then transported to the nucleus of the host cell and inserted into the host genome. Then, mRNA can be produced by transcription of the viral DNA that was integrated into the host genome.</para>
 <para id="fs-idp85000264"><term id="term-00020">Group VII</term> viruses have partial dsDNA genomes and make ssRNA intermediates that act as mRNA, but are also converted back into dsDNA genomes by reverse transcriptase, necessary for genome replication.</para>
-<para id="fs-idp85111264">The characteristics of each group in the Baltimore classification are summarized in <link target-id="tab-ch21_01_03"/> with examples of each group.</para><table id="tab-ch21_01_03" summary="" class="top-titled">
+<para id="fs-idp85111264">The characteristics of each group in the Baltimore classification are summarized in <link target-id="tab-ch21_01_03"/> with examples of each group.</para><table id="tab-ch21_01_03" summary="." class="top-titled">
         <tgroup cols="4" align="left">
             <colspec colnum="1" colname="c1"/>
             <colspec colnum="2" colname="c2"/>
