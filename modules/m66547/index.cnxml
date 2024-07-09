@@ -28,7 +28,7 @@
 <section id="fs-idp2944480">
 <title>The Ways in Which Prokaryotes Obtain Energy</title>
 <para id="fs-idm8743200">Prokaryotes are classified both by the way they obtain energy, and by the carbon source they use for producing organic molecules. These categories are summarized in <link target-id="tab-ch22-02-01"/>. Prokaryotes can use different sources of energy to generate the ATP needed for biosynthesis and other cellular activities. <term id="term-00002">Phototrophs</term> (or phototrophic organisms) obtain their energy from sunlight. Phototrophs trap the energy of light using chlorophylls, or in a few cases, bacterial rhodopsin. (Rhodopsin-using phototrophs, oddly, are phototrophic, but not photosynthetic, since they do not fix carbon.) <term id="term-00003">Chemotrophs</term> (or chemosynthetic organisms) obtain their energy from chemical compounds. Chemotrophs that can use organic compounds as energy sources are called chemoorganotrophs.  Those that can use inorganic compounds, like sulfur or iron compounds, as energy sources are called chemolithotrophs.</para>
-<para id="fs-idm87473200">Energy-producing pathways may be either <term id="term-00004">aerobic</term>, using oxygen as the terminal electron acceptor, or anaerobic, using either simple inorganic compounds or organic molecules as the <emphasis effect="italics">terminal electron acceptor</emphasis>. Since prokaryotes lived on Earth for nearly a billion years before photosynthesis produced significant amounts of oxygen for aerobic respiration, many species of both Bacteria and Archaea are anaerobic and their metabolic activities are important in the carbon and nitrogen cycles discussed below.</para>
+<para id="fs-idm87473200">Energy-producing pathways may be either <term id="term-00004">aerobic</term>, using oxygen as the terminal electron acceptor, or <term id="term-00008">anaerobic</term>, using either simple inorganic compounds or organic molecules as the <emphasis effect="italics">terminal electron acceptor</emphasis>. Since prokaryotes lived on Earth for nearly a billion years before photosynthesis produced significant amounts of oxygen for aerobic respiration, many species of both Bacteria and Archaea are anaerobic and their metabolic activities are important in the carbon and nitrogen cycles discussed below.</para>
 </section>
 <section id="fs-idp3324256">
 <title>The Ways in Which Prokaryotes Obtain Carbon</title>
@@ -253,6 +253,7 @@ Nitrospira</emphasis>. Most nitrogen in soil is in the form of ammonium (NH<sub>
 </exercise></section>
  </content>
 <glossary>
+  <definition id="def-00001"><term>aerobic</term><meaning>organisms that use oxygen</meaning></definition>
 <definition id="fs-idm78553328">
 <term>ammonification</term> <meaning id="fs-idp38396272">process by which ammonia is released during the decomposition of nitrogen-containing organic compounds</meaning>
 </definition>
