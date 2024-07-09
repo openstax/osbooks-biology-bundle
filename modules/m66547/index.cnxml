@@ -32,7 +32,7 @@
 </section>
 <section id="fs-idp3324256">
 <title>The Ways in Which Prokaryotes Obtain Carbon</title>
-<para id="fs-idp36184192">Prokaryotes not only can use different sources of energy, but also different sources of carbon compounds. Autotrophic prokaryotes synthesize organic molecules from carbon dioxide. In contrast, heterotrophic prokaryotes obtain carbon from organic compounds. To make the picture more complex, the terms that describe how prokaryotes obtain energy and carbon can be combined. Thus, photoautotrophs use energy from sunlight, and carbon from carbon dioxide and water, whereas chemoheterotrophs obtain both energy and carbon from an organic chemical source. Chemolithoautotrophs obtain their energy from inorganic compounds, and they build their complex molecules from carbon dioxide. Finally, prokaryotes that get their energy from light, but their carbon from organic compounds, are photoheterotrophs. The table below (<link target-id="tab-ch22-02-01"/>) summarizes carbon and energy sources in prokaryotes.</para>
+<para id="fs-idp36184192">Prokaryotes not only can use different sources of energy, but also different sources of carbon compounds. <term id="term-00009">Autotrophic</term> prokaryotes synthesize organic molecules from carbon dioxide. In contrast, <term id="term-00010">heterotrophic</term> prokaryotes obtain carbon from organic compounds. To make the picture more complex, the terms that describe how prokaryotes obtain energy and carbon can be combined. Thus, photoautotrophs use energy from sunlight, and carbon from carbon dioxide and water, whereas chemoheterotrophs obtain both energy and carbon from an organic chemical source. Chemolithoautotrophs obtain their energy from inorganic compounds, and they build their complex molecules from carbon dioxide. Finally, prokaryotes that get their energy from light, but their carbon from organic compounds, are photoheterotrophs. The table below (<link target-id="tab-ch22-02-01"/>) summarizes carbon and energy sources in prokaryotes.</para>
 <table id="tab-ch22-02-01" class="top-titled" summary="">
 <tgroup cols="1" align="center">
 <colspec colnum="1" colname="col1"/>
@@ -257,6 +257,10 @@ Nitrospira</emphasis>. Most nitrogen in soil is in the form of ammonium (NH<sub>
 <definition id="fs-idm78553328">
 <term>ammonification</term> <meaning id="fs-idp38396272">process by which ammonia is released during the decomposition of nitrogen-containing organic compounds</meaning>
 </definition>
+<definition id="def-00002">
+  <term>autotroph</term> <meaning>organism that produces organic molecules from small inorganic compounds
+  </meaning>
+  </definition>
 <definition id="fs-idm36581376">
 <term>chemotroph</term> <meaning id="fs-idm36325872">organism that obtains energy from chemical compounds</meaning>
 </definition>
@@ -266,6 +270,10 @@ Nitrospira</emphasis>. Most nitrogen in soil is in the form of ammonium (NH<sub>
 <definition id="fs-idp74644320">
 <term>denitrification</term> <meaning id="fs-idp48768416">transformation of nitrate from soil to gaseous nitrogen compounds such as N<sub>2</sub>O, NO, and N<sub>2</sub></meaning>
 </definition>
+<definition id="def-00003">
+  <term>heterotroph</term> <meaning>organism that obtains energy from organic molecules
+  </meaning>
+  </definition>
 <definition id="fs-idm75518800">
 <term>nitrification</term> <meaning id="fs-idm33579936">conversion of ammonium into nitrite and nitrate in soils</meaning>
 </definition>
