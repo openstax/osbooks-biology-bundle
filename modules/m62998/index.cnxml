@@ -397,7 +397,7 @@ Respiratory therapists or respiratory practitioners evaluate and treat patients 
   <m:mtext>) = mm Hg</m:mtext><m:mtext>.</m:mtext>
  </m:mrow>
 </m:math>
-</equation><para id="fs-idp14145440">Notice that this pressure is less than the external air. Therefore, the oxygen will flow from the inspired air in the lung (<m:math>
+</equation><para id="fs-idp14145440">Notice that this pressure is less than the external air. However, it is still greater than the partial pressure of oxygen in blood as it enters the alveoli, so , the oxygen will flow from the inspired air in the lung (<m:math>
  <m:mrow>
   <m:msub>
    <m:mtext>P</m:mtext>
@@ -411,7 +411,7 @@ Respiratory therapists or respiratory practitioners evaluate and treat patients 
   </m:msub>
 
  </m:mrow>
-</m:math> = 150 mm Hg) into the bloodstream (<m:math>
+</m:math> = 100 mm Hg) into the bloodstream (<m:math>
  <m:mrow>
   <m:msub>
    <m:mtext>P</m:mtext>
@@ -425,7 +425,7 @@ Respiratory therapists or respiratory practitioners evaluate and treat patients 
   </m:msub>
 
  </m:mrow>
-</m:math> = 100 mm Hg)
+</m:math> = 140 mm Hg)
  (<link target-id="fig-ch39_02_02"/>).</para><para id="fs-idp57952320">In the lungs, oxygen diffuses out of the alveoli and into the capillaries surrounding the alveoli. Oxygen (about 98 percent) binds reversibly to the respiratory pigment hemoglobin found in red blood cells (RBCs). RBCs carry oxygen to the tissues where oxygen dissociates from the hemoglobin and diffuses into the cells of the tissues. More specifically, alveolar <m:math>
  <m:mrow>
   <m:msub>
@@ -645,7 +645,7 @@ is lower <m:math>
 </m:math>= 45 mm Hg. The blood enters the lung capillaries where the process of exchanging gases between the capillaries and alveoli begins again (<link target-id="fig-ch39_02_02"/>).</para>
 <note id="fs-idm99321840" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
 <figure id="fig-ch39_02_02"><media id="fs-idm68037248" alt="The illustration shows the movement of deoxygenated air into the lungs, and oxygenated air out of the lungs. Also shown is the circulation of blood through the body. Circulation begins when deoxygenated blood in arteries leaves the right side of the heart and enters the lungs. Oxygenated blood exits the lungs, and enters the left side of the heart, which pumps it to the rest of the body via arteries. The partial pressure of oxygen in the atmosphere is 160 millimeters of mercury, and the partial pressure of carbon dioxide is 0.2 millimeters of mercury. The partial pressure of oxygen in the arteries is 100 millimeters of mercury, and the partial pressure of carbon dioxide is 40 millimeters of mercury. The partial pressure of oxygen in the veins is 40 millimeters of mercury, and the partial pressure of carbon dioxide is 46 millimeters of mercury.">
-<image mime-type="image/png" src="../../media/Figure_B39_02_02.png" width="500"/>
+<image mime-type="image/jpeg" src="../../media/Figure_B39_02_02.jpg" width="500"/>
 </media>
 <caption>The partial pressures of oxygen and carbon dioxide change as blood moves through the body.</caption></figure><!--<para id="fs-idp107064496">Which of the following statements is false?</para>
 <list id="fs-idm154747424" list-type="enumerated" number-style="lower-alpha"><item>In the tissues, <m:math >
