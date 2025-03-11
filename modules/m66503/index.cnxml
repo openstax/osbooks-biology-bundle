@@ -22,11 +22,10 @@
 
 <figure id="eip-idm675067728">
   <title/>
-  <media id="eip-idm501818960" alt="A cell diagram is shown. A signal leads to chromatin unpacking, which triggers DNA transcription, RNA processing, and m R N A to leave nucleus and enter cytoplasm. In the cytoplasm, translation occurs, leading to an active protein, and then degradation of the protein.">
+  <media id="eip-idm501818960" alt="A cell diagram is shown. A signal leads to chromatin unpacking through histone acetylation, DNA methylation, which triggers DNA transcription, RNA processing by adding 5’ cap, poly A tail, and splicing of introns and exons, and m R N A to leaving the nucleus and entering the cytoplasm. In the cytoplasm, translation occurs, leading to formation of a polypeptide, its processing and modification to produce protein’s functional form, transport to designated cellular and extracellular destinations, eventual degradation of both the mRNA and the protein.">
     <image mime-type="image/png" src="../../media/generegulation.png"/>
   </media>
-<caption>Locations of gene regulation.
-The regulation of gene expression occurs at multiple steps going from DNA to the functional gene product, usually a protein. It begins with chromatin structure making the DNA more or less accessible for transcription by RNA polymerase. In eukaryotes, the primary mRNA transcript must be processed before it can be translated in the cytoplasm. The final level of active protein in the cell depends not only on the rate of synthesis, but also on the rate of degradation of mRNA and protein. Credit: Rao, A. and Ryan, K. Department of Biology, Texas
+<caption>Locations of gene regulation. The regulation of gene expression occurs at multiple steps going from DNA to the functional gene product, usually a protein. It begins with chromatin structure making the DNA more or less accessible for transcription by RNA polymerase. In eukaryotes, the primary mRNA transcript must be processed before it can be translated in the cytoplasm. The final level of active protein in the cell depends not only on the rate of synthesis, but also on the rate of degradation of mRNA and protein. Credit: Rao, A. and Ryan, K. Department of Biology, Texas
 A&amp;M University.</caption>
 </figure>
 
