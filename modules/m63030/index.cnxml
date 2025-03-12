@@ -101,7 +101,7 @@
   </m:mfrac>
   <m:mtext> = </m:mtext><m:mi>b</m:mi><m:mi>N</m:mi><m:mtext> </m:mtext><m:mo>−</m:mo><m:mtext> </m:mtext><m:mi>d</m:mi><m:mi>N</m:mi><m:mtext> = </m:mtext><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mtext> </m:mtext><m:mo>-</m:mo><m:mtext> </m:mtext><m:mi>d</m:mi><m:mo stretchy="false">)</m:mo><m:mi>N</m:mi>
  </m:mrow>
-</m:math></equation><para id="fs-idm130032880">Notice that the “<emphasis effect="italics">d</emphasis>” associated with the first term refers to the derivative (as the term is used in calculus) and is different from the death rate, also called “<emphasis effect="italics">d</emphasis>.” The difference between birth and death rates is further simplified by substituting the term “<emphasis effect="italics">r</emphasis>” (intrinsic rate of increase) for the relationship between birth and death rates:</para>
+</m:math></equation><para id="fs-idm130032880">Notice that the “<emphasis effect="italics">d</emphasis>” associated with the first term refers to the derivative (as the term is used in calculus) and is different from the death rate, also called “<emphasis effect="italics">d</emphasis>.” The difference between birth and death rates is further simplified by substituting the term “<emphasis effect="italics">r</emphasis>” (intrinsic rate of increase signifying the maximum per capita growth rate under ideal conditions) for the relationship between birth and death rates:</para>
 <equation id="eip-530"><m:math display="block">
  <m:mrow>
   <m:mfrac>
