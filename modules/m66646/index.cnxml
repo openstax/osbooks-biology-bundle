@@ -233,51 +233,7 @@ Respiratory therapists or respiratory practitioners evaluate and treat patients 
 </m:msub>
 </m:mrow>
 </m:math>
-</term>. Above, the partial pressure of oxygen in the lungs was calculated to be 150 mm Hg. However, lungs never fully deflate with an exhalation; therefore, the inspired air mixes with this residual air and lowers the partial pressure of oxygen within the alveoli. This means that there is a lower concentration of oxygen in the lungs than is found in the air outside the body. Knowing the RQ, the partial pressure of oxygen in the alveoli can be calculated:</para><equation id="eip-210" class="unnumbered"><m:math>
-<m:mrow>
-<m:msub>
-<m:mrow>
-<m:mtext>alveolar P</m:mtext>
-</m:mrow>
-<m:mrow>
-<m:msub>
-<m:mtext>O</m:mtext>
-<m:mtext>2</m:mtext>
-</m:msub>
-</m:mrow>
-</m:msub>
-<m:msub>
-<m:mrow>
-<m:mtext>= inspired P</m:mtext>
-</m:mrow>
-<m:mrow>
-<m:msub>
-<m:mtext>O</m:mtext>
-<m:mtext>2</m:mtext>
-</m:msub>
-</m:mrow>
-</m:msub>
-<m:mtext>− (</m:mtext><m:mfrac>
-<m:mrow>
-<m:msub>
-<m:mrow>
-<m:mtext>alveolar  P</m:mtext>
-</m:mrow>
-<m:mrow>
-<m:msub>
-<m:mtext>O</m:mtext>
-<m:mtext>2</m:mtext>
-</m:msub>
-</m:mrow>
-</m:msub>
-</m:mrow>
-<m:mrow>
-<m:mtext>RQ</m:mtext>
-</m:mrow>
-</m:mfrac>
-<m:mtext>)</m:mtext>
-</m:mrow>
-</m:math>
+</term>. Above, the partial pressure of oxygen in the lungs was calculated to be 150 mm Hg. However, lungs never fully deflate with an exhalation; therefore, the inspired air mixes with this residual air and lowers the partial pressure of oxygen within the alveoli. This means that there is a lower concentration of oxygen in the lungs than is found in the air outside the body. Knowing the RQ, the partial pressure of oxygen in the alveoli can be calculated:</para><equation id="eip-210" class="unnumbered"><m:math><m:msub><m:mtext>alveolar&#xA0;P</m:mtext><m:msub><m:mtext>O</m:mtext><m:mtext>2</m:mtext></m:msub></m:msub><m:msub><m:mtext>=&#xA0;inspired&#xA0;P</m:mtext><m:msub><m:mtext>O</m:mtext><m:mtext>2</m:mtext></m:msub></m:msub><m:mtext>&#x2212;&#xA0;(</m:mtext><m:mfrac><m:msub><m:mtext>alveolar&#xA0;&#xA0;P</m:mtext><m:msub><m:mtext>CO</m:mtext><m:mtext>2</m:mtext></m:msub></m:msub><m:mtext>RQ</m:mtext></m:mfrac><m:mtext>)</m:mtext></m:math>
 </equation><para id="fs-idm216979744">With an RQ of 0.8 and a <m:math>
 <m:mrow>
 <m:msub>
