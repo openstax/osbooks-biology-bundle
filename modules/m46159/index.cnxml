@@ -1,134 +1,131 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="preface">
 
-<title>Preface</title>
-<metadata xmlns:md="http://cnx.rice.edu/mdml">
-  <md:content-id>m46159</md:content-id>
-  <md:title>Preface</md:title>
-  <md:abstract/>
-  <md:uuid>acbc8f9e-f2f1-4d79-a8fd-ed38925fb0cc</md:uuid>
-</metadata>
+  <title>Preface</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:content-id>m46159</md:content-id>
+    <md:title>Preface</md:title>
+    <md:abstract />
+    <md:uuid>acbc8f9e-f2f1-4d79-a8fd-ed38925fb0cc</md:uuid>
+  </metadata>
 
-<content class="preface">
-<section id="eip-723"><title>About OpenStax</title><para id="eip-960">
-OpenStax is part of Rice University, which is a 501(c)(3) nonprofit charitable corporation. As an educational initiative, it's our mission to improve educational access and learning for everyone. Through our partnerships with philanthropic organizations and our alliance with other educational resource companies, we're breaking down the most common barriers to learning. Because we believe that everyone should and can have access to knowledge.</para></section>
+  <content class="preface">
+    <section id="eip-723">
+      <title>About OpenStax</title>
+      <para id="eip-960">OpenStax is part of Rice University, which is a 501(c)(3) nonprofit charitable corporation. As an educational initiative, it’s our mission to improve educational access and learning for everyone. Through our partnerships with philanthropic organizations and our alliance with other educational resource companies, we’re breaking down the most common barriers to learning. Because we believe that everyone should and can have access to knowledge.</para>
+    </section>
 
-<section id="eip-46"><title>About OpenStax Resources</title>
-<section id="sect-00001"><title>Customization</title>
-<para id="eip-341"><emphasis effect="italics">Concepts of Biology</emphasis> is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors.
-</para>
+    <section id="eip-46">
+      <title>About OpenStax Resources</title>
+      <section id="sect-00001">
+        <title>Customization</title>
+        <para id="eip-341"><emphasis effect="italics">Concepts of Biology</emphasis> is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY NC-SA) license, which means that you can non-commercially distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors, and distribute all derivatives under the same license.</para>
 
-<para id="para-00002">Because our books are openly licensed, you are free to use the entire book or select only the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.</para>
-<para id="para-00003">Instructors also have the option of creating a customized version of their OpenStax book. Visit the Instructor Resources section of your book page on OpenStax.org for more information.
-</para></section>
-<section id="sect-00002"><title>Art attribution</title>
-<para id="para-00004">In <emphasis effect="italics">Concepts of Biology</emphasis>, most art contains attribution to its creator within the caption. Because the art is openly licensed, anyone may reuse the art as long as they provide the same attribution to its original source. To maximize readability and content flow, some art does not include attribution in the text. If you reuse art from this text that does not have attribution provided, use the following attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.</para></section>
-<section id="sect-00003"><title>Errata</title>
-<para id="para-00005">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. In addition, the wide range of topics, data, and legal circumstances in sociology change frequently, and portions of the textbook may become out of date. Since our books are web-based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on OpenStax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past and pending errata changes on your book page on OpenStax.org.</para></section>
-<section id="sect-00004"><title>Format</title>
-<para id="para-00006">You can access this textbook for free in web view or PDF through OpenStax.org, and for a low cost in print. The web view is the recommended format because it is the most accessible – including being WCAG 2.0 AA compliant – and most current. Print versions are available for individual purchase, or they may be ordered through your campus bookstore.</para></section>
-</section>
-<section id="eip-162"><title>About  <emphasis effect="italics">Concepts of Biology</emphasis></title><para id="eip-642"><emphasis effect="italics">Concepts of Biology</emphasis> is designed for the single-semester introduction to biology course for non-science majors, which for many students is their only college-level science course. As such, this course represents an important opportunity for students to develop the necessary knowledge, tools, and skills to make informed decisions as they continue with their lives. Rather than being mired down with facts and vocabulary, the typical non-science major student needs information presented in a way that is easy to read and understand. Even more importantly, the content should be meaningful. Students do much better when they understand why biology is relevant to their everyday lives. For these reasons,
-<emphasis effect="italics">Concepts of Biology</emphasis> is grounded on an evolutionary basis and includes exciting features that highlight careers in the biological sciences and everyday applications of the concepts at hand. We also strive to show the interconnectedness of topics within this extremely broad discipline. In order to meet the needs of today’s instructors and students, we maintain the overall organization and coverage found in most syllabi for this course. A strength of
-<emphasis effect="italics">Concepts of Biology</emphasis> is that instructors can customize the book, adapting it to the approach that works best in their classroom. Concepts of Biology also includes an innovative art program that incorporates critical thinking and clicker questions to help students understand—and apply—key concepts.
+        <para id="para-00002">Because our books are openly licensed, you are free to use the entire book or select only the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.</para>
+        <para id="para-00003">Instructors also have the option of creating a customized version of their OpenStax book. Visit the Instructor Resources section of your book page on OpenStax.org for more information. </para>
+      </section>
+      <section id="sect-00002">
+        <title>Art attribution</title>
+        <para id="para-00004">In <emphasis effect="italics">Concepts of Biology</emphasis>, most art contains attribution to its creator within the caption. For any art that is openly licensed, non-commercial users or organizations may reuse the art as long as they provide the same attribution to its original source. (Commercial entities should contact OpenStax to discuss reuse rights and permissions.) To maximize readability and content flow, some art does not include attribution in the text. If you reuse art from this text that does not have attribution provided, use the following attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license..</para>
+      </section>
+      <section id="sect-00003">
+        <title>Errata</title>
+        <para id="para-00005">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. In addition, the wide range of topics, data, and legal circumstances in sociology change frequently, and portions of the textbook may become out of date. Since our books are web-based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on OpenStax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past and pending errata changes on your book page on OpenStax.org.</para>
+      </section>
+      <section id="sect-00004">
+        <title>Format</title>
+        <para id="para-00006">You can access this textbook for free in web view or PDF through OpenStax.org, and for a low cost in print. The web view is the recommended format because it is the most accessible – including being WCAG 2.0 AA compliant – and most current. Print versions are available for individual purchase, or they may be ordered through your campus bookstore.</para>
+      </section>
+    </section>
+    <section id="eip-162">
+      <title>About <emphasis effect="italics">Concepts of Biology</emphasis></title>
+      <para id="eip-642"><emphasis effect="italics">Concepts of Biology</emphasis> is designed for the single-semester introduction to biology course for non-science majors, which for many students is their only college-level science course. As such, this course represents an important opportunity for students to develop the necessary knowledge, tools, and skills to make informed decisions as they continue with their lives. Rather than being mired down with facts and vocabulary, the typical non-science major student needs information presented in a way that is easy to read and understand. Even more importantly, the content should be meaningful. Students do much better when they understand why biology is relevant to their everyday lives. For these reasons, <emphasis effect="italics">Concepts of Biology</emphasis> is grounded on an evolutionary basis and includes exciting features that highlight careers in the biological sciences and everyday applications of the concepts at hand. We also strive to show the interconnectedness of topics within this extremely broad discipline. In order to meet the needs of today’s instructors and students, we maintain the overall organization and coverage found in most syllabi for this course. A strength of <emphasis effect="italics">Concepts of Biology</emphasis> is that instructors can customize the book, adapting it to the approach that works best in their classroom. Concepts of Biology also includes an innovative art program that incorporates critical thinking and clicker questions to help students understand—and apply—key concepts. </para>
+      <section id="eip-643">
+        <title>Coverage and Scope</title>
+        <para id="eip-238"> Our <emphasis effect="italics">Concepts of Biology</emphasis> textbook adheres to the scope and sequence of most one-semester non-majors courses nationwide. We also strive to make biology, as a discipline, interesting and accessible to students. In addition to a comprehensive coverage of core concepts and foundational research, we have incorporated features that draw learners into the discipline in meaningful ways. Our scope of content was developed after surveying over a hundred biology professors and listening to their coverage needs. We provide a thorough treatment of biology’s fundamental concepts with a scope that is manageable for instructors and students alike. </para>
+        <list id="eip-367">
+          <item>Unit 1: <emphasis>The Cellular Foundation of Life</emphasis>. Our opening unit introduces students to the sciences, including the process of science and the underlying concepts from the physical sciences that provide a framework within which learners comprehend biological processes. Additionally, students will gain solid understanding of the structures, functions, and processes of the most basic unit of life: the cell. </item>
+          <item>Unit 2: <emphasis>Cell Division and Genetics</emphasis>. Our genetics unit takes learners from the foundations of cellular reproduction to the experiments that revealed the basis of genetics and laws of inheritance. </item>
+          <item>Unit 3: <emphasis>Molecular Biology and Biotechnology</emphasis>. Students will learn the intricacies of DNA, protein synthesis, and gene regulation and current applications of biotechnology and genomics.</item>
+          <item>Unit 4: <emphasis>Evolution and the Diversity of Life</emphasis>. The core concepts of evolution are discussed in this unit with examples illustrating evolutionary processes. Additionally, the evolutionary basis of biology reappears throughout the textbook in general discussion and is reinforced through special call-out features highlighting specific evolution-based topics. The diversity of life is explored with detailed study of various organisms and discussion of emerging phylogenetic relationships between and among bacteria, protist kingdoms, fungi, plants, and animals. </item>
+          <item>Unit 5: <emphasis>Animal Structure and Function</emphasis>. An introduction to the form and function of the animal body is followed by chapters on the immune system and animal development. This unit touches on the biology of all organisms while maintaining an engaging focus on human anatomy and physiology that helps students connect to the topics. </item>
+          <item>Unit 6: <emphasis>Ecology</emphasis>. Ecological concepts are broadly covered in this unit, with features highlighting localized, real-world issues of conservation and biodiversity.</item>
+        </list>
+      </section>
+      <section id="eip-443">
+        <title>Pedagogical Foundation and Features</title>
+        <para id="eip-603"> Because of the impact science has on students and society, an important goal of science education is to achieve a scientifically literate population that consistently makes informed decisions. Scientific literacy transcends a basic understanding of scientific principles and processes to include the ability to make sense of the myriad instances where people encounter science in day-to-day life. Thus, a scientifically literate person is one who uses science content knowledge to make informed decisions, either personally or socially, about topics or issues that have a connection with science. Concepts of Biology is grounded on a solid scientific base and designed to promote scientific literacy. Throughout the text, you will find features that engage the students in scientific inquiry by taking selected topics a step further. </para>
+        <list id="eip-177">
+          <item><emphasis>Evolution Connection</emphasis> features uphold the importance of evolution to all biological study through discussions like “Global Decline of Coral Reefs” and “The Red Queen Hypothesis.”</item>
+          <item><emphasis>Career Connection</emphasis> features present information on a variety of careers in the biological sciences, introducing students to the educational requirements and day-to-day work life of a variety of professions, such as forensic scientists, registered dietitians, and biogeographers.</item>
+          <item><emphasis>Everyday Connection</emphasis> features tie biological concepts to emerging issues and discuss science in terms of everyday life. Topics include “Invasive Species” and “Photosynthesis at the Grocery Store.” </item>
+        </list>
+        <section id="answers">
+          <title>Answers to Questions in the Book</title>
+          <para id="para-00001">Answers to Visual Connection Questions, Review Questions, and Critical Thinking Questions are provided in the Instructor Answer Guide via the Instructor Resources page. Select answers to these questions are provided for students via the Student Resources page.</para>
+        </section>
 
+      </section>
 
-</para><section id="eip-643"><title>Coverage and Scope</title><para id="eip-238">
-Our <emphasis effect="italics">Concepts of Biology</emphasis> textbook adheres to the scope and sequence of most one-semester non-majors courses nationwide. We also strive to make biology, as a discipline, interesting and accessible to students. In addition to a comprehensive coverage of core concepts and foundational research, we have incorporated features that draw learners into the discipline in meaningful ways. Our scope of content was developed after surveying over a hundred biology professors and listening to their coverage needs. We provide a thorough treatment of biology’s fundamental concepts with a scope that is manageable for instructors and students alike.
+      <section id="eip-793">
+        <title>Art and Animations that Engage</title>
+        <para id="eip-864"> Our art program takes a straightforward approach designed to help students learn the concepts of biology through simple, effective illustrations, photos, and micrographs. Concepts of Biology also incorporates links to relevant animations and interactive exercises that help bring biology to life for students. </para>
+        <list id="eip-91">
+          <item><emphasis>Visual Connection</emphasis> features call out core figures in each chapter for student attention. Questions about key figures, including clicker questions that can be used in the classroom, engage students’ critical thinking and analytical abilities to ensure their genuine understanding of the concept at hand.</item>
 
-
-</para><list id="eip-367"><item>Unit 1: <emphasis>The Cellular Foundation of Life</emphasis>. Our opening unit introduces students to the sciences, including the process of science and the underlying concepts from the physical sciences that provide a framework within which learners comprehend biological processes. Additionally, students will gain solid understanding of the structures, functions, and processes of the most basic unit of life: the cell.  </item>
-<item>Unit 2: <emphasis>Cell Division and Genetics</emphasis>. Our genetics unit takes learners from the foundations of cellular reproduction to the  experiments that revealed the basis of genetics and laws of inheritance. </item>
-<item>Unit 3: <emphasis>Molecular Biology and Biotechnology</emphasis>. Students will learn the intricacies of DNA, protein synthesis, and gene regulation and current applications of biotechnology and genomics.</item>
-<item>Unit 4: <emphasis>Evolution and the Diversity of Life</emphasis>. The core concepts of evolution are discussed in this unit with examples illustrating evolutionary processes. Additionally, the evolutionary basis of biology reappears throughout the textbook in general discussion and is reinforced through special call-out features highlighting specific evolution-based topics. The diversity of life is explored with detailed study of various organisms and discussion of emerging phylogenetic relationships between and among bacteria, protist kingdoms, fungi, plants, and animals.
-</item>
-<item>Unit 5: <emphasis>Animal Structure and Function</emphasis>. An introduction to the form and function of the animal body is followed by chapters on the immune system and animal development. This unit touches on the biology of all organisms while maintaining an engaging focus on human anatomy and physiology that helps students connect to the topics. </item>
-<item>Unit 6: <emphasis>Ecology</emphasis>. Ecological concepts are broadly covered in this unit, with features highlighting localized, real-world issues of conservation and biodiversity.</item></list></section><section id="eip-443"><title>Pedagogical Foundation and Features</title><para id="eip-603">
-Because of the impact science has on students and society, an important goal of science education is to achieve a scientifically literate population that consistently makes informed decisions.  Scientific literacy transcends a basic understanding of scientific principles and processes to include the ability to make sense of the myriad instances where people encounter science in day-to-day life. Thus, a scientifically literate person is one who uses science content knowledge to make informed decisions, either personally or socially, about topics or issues that have a connection with science. Concepts of Biology is grounded on a solid scientific base and designed to promote scientific literacy. Throughout the text, you will find features that engage the students in scientific inquiry by taking selected topics a step further.
-</para><list id="eip-177"><item><emphasis>Evolution Connection</emphasis> features uphold the importance of evolution to all biological study through discussions like “Global Decline of Coral Reefs” and “The Red Queen Hypothesis.”</item>
-<item><emphasis>Career Connection</emphasis> features present information on a variety of careers in the biological sciences, introducing students to the educational requirements and day-to-day work life of a variety of professions, such as forensic scientists, registered dietitians, and biogeographers.</item>
-<item><emphasis>Everyday Connection</emphasis> features tie biological concepts to emerging issues and discuss science in terms of everyday life. Topics include “Invasive Species” and “Photosynthesis at the Grocery Store.”
-
-</item></list>
-<section id="answers">
-  <title>Answers to Questions in the Book</title>
-  <para id="para-00001">Answers to Visual Connection Questions, Review Questions, and Critical Thinking Questions are provided in the Instructor Answer Guide via the Instructor Resources page. Select answers to these questions are provided for students via the Student Resources page.</para>
-</section>
-
-</section>
-
-<section id="eip-793"><title>Art and Animations that Engage</title><para id="eip-864">
-Our art program takes a straightforward approach designed to help students learn the concepts of biology through simple, effective illustrations, photos, and micrographs. Concepts of Biology also incorporates links to relevant animations and interactive exercises that help bring biology to life for students.
-</para><list id="eip-91"><item><emphasis>Visual Connection</emphasis> features call out core figures in each chapter for student attention. Questions about key figures, including clicker questions that can be used in the classroom, engage students’ critical thinking and analytical abilities to ensure their genuine understanding of the concept at hand.</item>
-
-<item><emphasis>Link to Learning</emphasis> features direct students to online interactive exercises and animations to add a fuller context and examples to core content.</item></list></section></section><section id="eip-759"><title>About Our Team</title><para id="eip-121">
-<emphasis effect="italics">Concepts of Biology</emphasis> would not be possible if not for the tremendous contributions of the authors and community reviewing team
-</para>
-<section id="eip-id8320483" class="sr-contrib-auth"><title>Senior Contributing Authors</title><para id="eip-387">Samantha Fowler, Clayton State University<newline/>
-Rebecca Roush, Sandhills Community College<newline/>
-James Wise, Hampton University</para>
-</section><section id="eip-id4438849" class="contrib-auth"><title>Contributing Authors and Reviewers</title><para id="eip-282">Mark Belk, Brigham Young University<newline/>
-Lisa Boggs, Southwestern Oklahoma State University<newline/>
-Sherryl Broverman, Duke University<newline/>
-David Byres, Florida State College at Jacksonville<newline/>
-Aaron Cassill, The University of Texas at San Antonio<newline/>
-Karen Champ, College of Central Florida<newline/>
-Sue Chaplin, University of St. Thomas<newline/>
-Diane Day, Clayton State University<newline/>
-Jean DeSaix, University of North Carolina at Chapel Hill<newline/>
-David Hunnicutt, St. Norbert College<newline/>
-Barbara Kuehner, Hawaii Community College<newline/>
-Brenda Leady, University of Toledo<newline/>
-Bernie Marcus, Genesee Community College<newline/>
-Flora Mhlanga, Lipscomb University<newline/>
-Madeline Mignone, Dominican College<newline/>
-Elizabeth Nash, Long Beach City College<newline/>
-Mark Newton, San Jose City College<newline/>
-Diana Oliveras, University of Colorado Boulder<newline/>
-Ann Paterson, Williams Baptist College<newline/>
-Joel Piperberg, Millersville University<newline/>
-Nick Reeves, Mt. San Jacinto College<newline/>
-Ann Reisenauer, San Jose State University<newline/>
-Lynn Rumfelt, Gordon College<newline/>
-Michael Rutledge, Middle Tennessee State University<newline/>
-Edward Saiff, Ramapo College of New Jersey<newline/>
-Brian Shmaefsky, Kingwood College<newline/>
-Gary Shultz, Marshall University<newline/>
-Donald Slish, SUNY Plattsburgh<newline/>
-Anh-Hue Tu, Georgia Southwestern State University<newline/>
-Elena Zoubina, Bridgewater State University</para>
-</section></section>
-<section id="eip-128"><title>Learning Resources</title><para id="eip-709"><emphasis>Wiley Plus for Biology-Fall 2013 Pilot</emphasis> WileyPLUS provides an engaging online environment for effective teaching and learning. WileyPLUS builds students’ confidence because it takes the guesswork out of studying by providing a clear roadmap; what to do, how to do it, and if they did it right. With WileyPLUS, students take more initiative. Therefore, the course has a greater impact on their learning experience. Adaptive tools provide students with a personal, adaptive learning experience so they can build their proficiency on topics and use their study time most effectively. Please let us know if you would like to participate in a Fall 2013 Pilot.</para><para id="eip-990"><emphasis>Concepts of Biology Powerpoint Slides (faculty only)</emphasis> The PowerPoint slides are based on the extensive illustrations from College Physics. They can be edited, incorporated into lecture notes, and you are free to share with anyone in the community. This is a restricted item requiring faculty registration. NOTE: This file is very large and may take some time to download. </para>
-<para id="eip-647"><emphasis>SimBio (Laboratory)</emphasis> SimBio’s interactive modules (virtual labs and interactive tutorials and chapters) provide engaging, discovery-based learning tools that complement many of the chapters of Concepts of Biology. SimBio is best known for their EcoBeaker® and EvoBeaker® suites of simulated ecology and evolution laboratories that guide students through the “discovery” of important concepts via a mix of structured and open-ended experimentation on simulated systems. In response to popular demand, SimBio has begun applying the same powerful approaches to topics in cell biology, genetics, and neurobiology. All of SimBio’s modules include instant-feedback questions that enhance student comprehension and auto-graded questions that facilitate implementation.</para>
-</section> 
- <section id="sect-00019">
+          <item><emphasis>Link to Learning</emphasis> features direct students to online interactive exercises and animations to add a fuller context and examples to core content.</item>
+        </list>
+      </section>
+    </section>
+    <section id="eip-759">
+      <title>About Our Team</title>
+      <para id="eip-121">
+        <emphasis effect="italics">Concepts of Biology</emphasis> would not be possible if not for the tremendous contributions of the authors and community reviewing team </para>
+      <section id="eip-id8320483" class="sr-contrib-auth">
+        <title>Senior Contributing Authors</title>
+        <para id="eip-387">Samantha Fowler, Clayton State University<newline /> Rebecca Roush, Sandhills Community College<newline /> James Wise, Hampton University</para>
+      </section>
+      <section id="eip-id4438849" class="contrib-auth">
+        <title>Contributing Authors and Reviewers</title>
+        <para id="eip-282">Mark Belk, Brigham Young University<newline /> Lisa Boggs, Southwestern Oklahoma State University<newline /> Sherryl Broverman, Duke University<newline /> David Byres, Florida State College at Jacksonville<newline /> Aaron Cassill, The University of Texas at San Antonio<newline /> Karen Champ, College of Central Florida<newline /> Sue Chaplin, University of St. Thomas<newline /> Diane Day, Clayton State University<newline /> Jean DeSaix, University of North Carolina at Chapel Hill<newline /> David Hunnicutt, St. Norbert College<newline /> Barbara Kuehner, Hawaii Community College<newline /> Brenda Leady, University of Toledo<newline /> Bernie Marcus, Genesee Community College<newline /> Flora Mhlanga, Lipscomb University<newline /> Madeline Mignone, Dominican College<newline /> Elizabeth Nash, Long Beach City College<newline /> Mark Newton, San Jose City College<newline /> Diana Oliveras, University of Colorado Boulder<newline /> Ann Paterson, Williams Baptist College<newline /> Joel Piperberg, Millersville University<newline /> Nick Reeves, Mt. San Jacinto College<newline /> Ann Reisenauer, San Jose State University<newline /> Lynn Rumfelt, Gordon College<newline /> Michael Rutledge, Middle Tennessee State University<newline /> Edward Saiff, Ramapo College of New Jersey<newline /> Brian Shmaefsky, Kingwood College<newline /> Gary Shultz, Marshall University<newline /> Donald Slish, SUNY Plattsburgh<newline /> Anh-Hue Tu, Georgia Southwestern State University<newline /> Elena Zoubina, Bridgewater State University</para>
+      </section>
+    </section>
+    <section id="eip-128">
+      <title>Learning Resources</title>
+      <para id="eip-709"><emphasis>Wiley Plus for Biology-Fall 2013 Pilot</emphasis> WileyPLUS provides an engaging online environment for effective teaching and learning. WileyPLUS builds students’ confidence because it takes the guesswork out of studying by providing a clear roadmap; what to do, how to do it, and if they did it right. With WileyPLUS, students take more initiative. Therefore, the course has a greater impact on their learning experience. Adaptive tools provide students with a personal, adaptive learning experience so they can build their proficiency on topics and use their study time most effectively. Please let us know if you would like to participate in a Fall 2013 Pilot.</para>
+      <para id="eip-990"><emphasis>Concepts of Biology Powerpoint Slides (faculty only)</emphasis> The PowerPoint slides are based on the extensive illustrations from College Physics. They can be edited, incorporated into lecture notes, and you are free to share with anyone in the community. This is a restricted item requiring faculty registration. NOTE: This file is very large and may take some time to download. </para>
+      <para id="eip-647"><emphasis>SimBio (Laboratory)</emphasis> SimBio’s interactive modules (virtual labs and interactive tutorials and chapters) provide engaging, discovery-based learning tools that complement many of the chapters of Concepts of Biology. SimBio is best known for their EcoBeaker® and EvoBeaker® suites of simulated ecology and evolution laboratories that guide students through the “discovery” of important concepts via a mix of structured and open-ended experimentation on simulated systems. In response to popular demand, SimBio has begun applying the same powerful approaches to topics in cell biology, genetics, and neurobiology. All of SimBio’s modules include instant-feedback questions that enhance student comprehension and auto-graded questions that facilitate implementation.</para>
+    </section>
+    <section id="sect-00019">
       <title>Additional Resources</title>
       <section id="sect-00020">
-      <title>Student and Instructor Resources</title>
-      <para id="para-00021">We’ve compiled additional resources for both students and instructors, including Getting Started Guides, an instructor’s answer guide, test bank, and image slides. Instructor resources require a verified instructor account, which you can apply for when you log in or create your account on OpenStax.org. Take advantage of these resources to supplement your OpenStax book.</para>
-      <para id="para-00022"><emphasis effect="bold">Instructor’s answer guide.</emphasis> Each component of the instructor’s guide is designed to provide maximum guidance for delivering the content in an interesting and dynamic manner.</para>
-    
-      <para id="para-00024"><emphasis effect="bold">PowerPoint lecture slides.</emphasis> The PowerPoint slides provide learning objectives, images and descriptions, feature focuses, and discussion questions as a starting place for instructors to build their lectures.</para>
+        <title>Student and Instructor Resources</title>
+        <para id="para-00021">We’ve compiled additional resources for both students and instructors, including Getting Started Guides, an instructor’s answer guide, test bank, and image slides. Instructor resources require a verified instructor account, which you can apply for when you log in or create your account on OpenStax.org. Take advantage of these resources to supplement your OpenStax book.</para>
+        <para id="para-00022"><emphasis effect="bold">Instructor’s answer guide.</emphasis> Each component of the instructor’s guide is designed to provide maximum guidance for delivering the content in an interesting and dynamic manner.</para>
+
+        <para id="para-00024"><emphasis effect="bold">PowerPoint lecture slides.</emphasis> The PowerPoint slides provide learning objectives, images and descriptions, feature focuses, and discussion questions as a starting place for instructors to build their lectures.</para>
       </section>
       <section id="sect-00021">
-      <title>Academic Integrity</title>
-      <para id="para-00025">Academic integrity builds trust, understanding, equity, and genuine learning. While students may encounter significant challenges in their courses and their lives, doing their own work and maintaining a high degree of authenticity will result in meaningful outcomes that will extend far beyond their college career. Faculty, administrators, resource providers, and students should work together to maintain a fair and positive experience.</para>
-      <para id="para-00026">We realize that students benefit when academic integrity ground rules are established early in the course. To that end, OpenStax has created an interactive to aid with academic integrity discussions in your course.</para>
-      <figure id="fig-00001" class="unnumbered">
-      <title>Visit our <link url="https://www.openstax.org/r/academic-integrity-slider">academic integrity slider</link>. </title>
-      <media alt="A graphic divides ten items into three categories. The items 'Your Original Work' and 'Quoting &amp; Crediting Another's Work' are in the 'Approved' category. The items 'Checking Your Answers Online', 'Group Work', 'Reusing Past Original Work', 'Sharing Answers', and 'Artificial Intelligence, Chatbot Apps' are in the 'Ask Instructor' category. The items 'Posting Questions &amp; Answers', 'Plagiarizing Work', and 'Getting Others to Do Your Work' are in the 'Not Approved' Category.">
-      <image mime-type="image/jpg" src="../../media/AcademicIntegritySliderv3-2-column.jpg"/></media>
-      <caption>Click and drag icons along the continuum to align these practices with your institution and course policies. You may then include the graphic on your syllabus, present it in your first course meeting, or create a handout for students. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
-      </figure>
-      <para id="para-00027">At OpenStax we are also developing resources supporting authentic learning experiences and assessment. Please visit this book’s page for updates. For an in-depth review of academic integrity strategies, we highly recommend visiting the International Center of Academic Integrity (ICAI) website at <link url="https://academicintegrity.org">https://academicintegrity.org/</link>.</para>
+        <title>Academic Integrity</title>
+        <para id="para-00025">Academic integrity builds trust, understanding, equity, and genuine learning. While students may encounter significant challenges in their courses and their lives, doing their own work and maintaining a high degree of authenticity will result in meaningful outcomes that will extend far beyond their college career. Faculty, administrators, resource providers, and students should work together to maintain a fair and positive experience.</para>
+        <para id="para-00026">We realize that students benefit when academic integrity ground rules are established early in the course. To that end, OpenStax has created an interactive to aid with academic integrity discussions in your course.</para>
+        <figure id="fig-00001" class="unnumbered">
+          <title>Visit our <link url="https://www.openstax.org/r/academic-integrity-slider">academic integrity slider</link>. </title>
+          <media alt="A graphic divides ten items into three categories. The items 'Your Original Work' and 'Quoting &amp; Crediting Another's Work' are in the 'Approved' category. The items 'Checking Your Answers Online', 'Group Work', 'Reusing Past Original Work', 'Sharing Answers', and 'Artificial Intelligence, Chatbot Apps' are in the 'Ask Instructor' category. The items 'Posting Questions &amp; Answers', 'Plagiarizing Work', and 'Getting Others to Do Your Work' are in the 'Not Approved' Category.">
+            <image mime-type="image/jpg" src="../../media/AcademicIntegritySliderv3-2-column.jpg" />
+          </media>
+          <caption>Click and drag icons along the continuum to align these practices with your institution and course policies. You may then include the graphic on your syllabus, present it in your first course meeting, or create a handout for students. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)</caption>
+        </figure>
+        <para id="para-00027">At OpenStax we are also developing resources supporting authentic learning experiences and assessment. Please visit this book’s page for updates. For an in-depth review of academic integrity strategies, we highly recommend visiting the International Center of Academic Integrity (ICAI) website at <link url="https://academicintegrity.org">https://academicintegrity.org/</link>.</para>
       </section>
       <section id="sect-00022">
-      <title>Community Hubs</title>
-      <para id="para-00028">OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons—a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty. To reach the Community Hubs, visit www.oercommons.org/hubs/openstax.</para>
+        <title>Community Hubs</title>
+        <para id="para-00028">OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons—a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty. To reach the Community Hubs, visit www.oercommons.org/hubs/openstax.</para>
       </section>
       <section id="sect-00023">
-      <title>Technology partners</title>
-      <para id="para-00029">As allies in making high-quality learning materials accessible, our technology partners offer optional low-cost tools that are integrated with OpenStax books. To access the technology options for your text, visit your book page on OpenStax.org.</para>
-      </section></section>
-      </content>
+        <title>Technology partners</title>
+        <para id="para-00029">As allies in making high-quality learning materials accessible, our technology partners offer optional low-cost tools that are integrated with OpenStax books. To access the technology options for your text, visit your book page on OpenStax.org.</para>
+      </section>
+    </section>
+  </content>
 
 </document>
