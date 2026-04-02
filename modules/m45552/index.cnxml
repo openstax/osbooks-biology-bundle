@@ -15,6 +15,7 @@
 </metadata>
 
 <content>
+  <para id="para-00001">The study of the relationships among living organisms and their environment, <term id="term-00010">ecology</term>, considers organisms at the individual, population, community, ecosystem, and biosphere levels.</para>
 <para id="fs-idm46720208">Populations are dynamic entities. Their size and composition fluctuate in response to numerous factors, including seasonal and yearly changes in the environment, natural disasters such as forest fires and volcanic eruptions, and competition for resources between and within species. The statistical study of populations is called <term id="term-00001">demography</term>: a set of mathematical tools designed to describe populations and investigate how they change. Many of these tools were actually designed to study human populations. For example, <term id="term-00002">life tables</term>, which detail the life expectancy of individuals within a population, were initially developed by life insurance companies to set insurance rates. In fact, while the term “demographics” is sometimes assumed to mean a study of human populations, all living populations can be studied using this approach.</para>
 <section id="fs-idp19818048">
 <title>Population Size and Density</title>
@@ -312,6 +313,7 @@
  </content>
 <glossary>
 <definition id="fs-idm5149728"><term>demography</term> <meaning id="fs-idp110012816">the statistical study of changes in populations over time</meaning></definition>
+<definition id="def-00001"><term>ecology</term><meaning>the study of the relationships among living organisms and their environment</meaning></definition>
 <definition id="fs-idm57628528"><term>life table</term> <meaning id="fs-idm86024864">a table showing the life expectancy of a population member based on its age</meaning></definition>
 <definition id="fs-idp38411792"><term>mark and recapture</term> <meaning id="fs-idp120748064">a method used to determine population size in mobile organisms</meaning></definition>
 <definition id="fs-idp78433968"><term>mortality rate</term> <meaning id="fs-idp189889824">the proportion of population surviving to the beginning of an age interval that dies during that age interval</meaning></definition>
