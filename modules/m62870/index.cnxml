@@ -748,7 +748,7 @@ prevailing wind direction, as shown in the diagram. How will the two populations
 <exercise id="fs-id1164968603928">
 <problem id="fs-id1164968684319">
 <figure id="fs-id1164969043036"><media id="fs-id1164968998643" alt="A graph showing the relationship between the number cells and cell size. The Y axis is labeled Number of cells. The X axis is labeled Cell size. The two bell shaped distribution curves are t 1 and t 2. T 1 is red and within T 2 which is purple.">
-<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_19_02_03_01_img.jpg" width="400"/>
+<image mime-type="image/jpeg" src="../../media/OSX_BiologyTEA_Question_19_02_03_01_img.jpg"/>
 </media>
 </figure><para id="fs-id1164966425273">A biologist is using a simulation to model populations of African hornbills (<emphasis effect="italics">Bycanistes</emphasis> spp. and <emphasis effect="italics">Ceratogymna</emphasis> spp.), a keystone species of the savanna.  Populations of the birds are declining due to habitat loss.  The hornbills diet consists primarily of termites and fruit.  A critical component of termite digestion is chitin deacetylase, an enzyme whose mutation rate is a model parameter.  The other model parameter is population size, N.  In the results of the simulation study shown above, there is no selection, and the mutation rate is fixed.  Although both population size and mutation rate are fixed, randomness results in the five different outcomes shown in each graph above.</para>
 <para id="fs-id1164969001579">A. <term id="term-00005">Select</term> the graph displaying the results that are closer to Hardy-Weinberg equilibrium.  Justify the selection of the graph.</para>
