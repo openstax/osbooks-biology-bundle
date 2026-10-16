@@ -20,54 +20,49 @@
 
 <section id="fs-id1167062410602" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066150917">After the information in the gene has been transcribed to mRNA, it is ready to be translated to polypeptide. The players in translation include the mRNA template, ribosomes, tRNA molecules, amino acids, and various enzymes. Ribosomes consist of small and large subunits of protein and rRNA which bind with mRNA; many ribosomes can move along the same mRNA at a time. Translation begins at the initiating AUG on mRNA, specifying methionine, the first amino acid in any polypeptide. Each amino acid is carried to the ribosome by attaching to a specific molecule of tRNA. A tRNA molecule often is depicted as a cloverleaf, with an anticodon on one end, and the amino acid attachment site at the other. Amino-acid charging enzymes ensure that the correct amino acid is attached to the correct tRNA. The anticodons on tRNA are complementary to the codons on mRNA; for example, the anticodon AAA on tRNA corresponds to TTT on mRNA. Sequential amino acids are linked by peptide bonds. The mRNA is translated, elongating the polypeptide, until a STOP or nonsense codon is reached. When this happens, a release factor dissociates the components and frees the new polypeptide. Folding of the protein occurs during and after translation. Once a polypeptide is synthesized, its role as a protein is established, such as determining a physical phenotype of an organism.</para>
-<para id="fs-id1167062588022" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167065774655" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 1.2 The student can describe representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Learning Objective. Third right cell reads: 3.4 The student is able to describe representations and models illustrating how genetic information is translated into polypeptides." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167062588022" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 6.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+<table id="fs-id1167065774655" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 1.2 The student can describe representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Learning Objective. Third right cell reads: 3.4 The student is able to describe representations and models illustrating how genetic information is translated into polypeptides." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
+</row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>6.4 Translation</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.4.A Explain how the phenotype of an organism is determined by its genotype.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.4.A.1 Translation of the mRNA to generate a polypeptide occurs on ribosomes that are present in the cytoplasm of both prokaryotic and eukaryotic cells, as well as the cytoplasmic surface of the rough ER of eukaryotic cells.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.4.A.3 Translation involves many sequential steps, including initiation, elongation, and termination. The salient features of translation include:<newline/>
+i. Translation is initiated when the rRNA in the ribosome interacts with the mRNA at the start codon (AUG, coding for the amino acid methionine).<newline/>
+ii. The sequence of nucleotides on the mRNA is read in triplets called codons.<newline/>
+v. tRNA brings the correct amino acid to the place specified by the codon on the mRNA.<newline/>
+vi. The amino acid is transferred to the growing polypeptide chain.<newline/>
+vii. The process continues along the mRNA until a stop codon is reached.<newline/>
+viii. Translation terminates with the release of the newly synthesized protein.<newline/>
+
+Exclusion statement- The details and names of the enzymes and factors involved in each of these steps are beyond the scope of the AP<sup>®</sup> Exam.
+<newline/>
+Exclusion statement- Memorization of the genetic code, with the exception of the start codon AUG, is beyond the scope of the AP<sup>®</sup> Exam.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.D Visual Representations- Represent relationships within biological models, including mathematical models, diagrams, flowcharts, and systems.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1</emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.2</emphasis></span>
-<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch15-s05-aplo-3-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.4</emphasis></span>
-<span class="ost-standards-description">The student is able to describe representations and models illustrating how genetic information is translated into polypeptides.</span>
-</entry>
-</row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1</emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4</emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch15-s05-aplo-3-6">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.6</emphasis></span>
-<span class="ost-standards-description">The student can predict how a change in a specific DNA or RNA sequence can result in changes in gene expression.</span>
-</entry>
-</row>
 </tbody>
 
 
@@ -91,13 +86,12 @@
 <para id="fs-id1167065764392">The RNA in the ribosomes catalyze the formation of the peptide bond. This is a good example of a ribozyme, an RNA molecule that acts as an enzyme. Students may have heard that all enzymes are proteins. This is an opportunity to clarify the point. The enzyme involved in the splicing of introns is another example of RNA with catalytic properties.</para>
 </note>
 </note>
-<para id="fs-id1166849840698">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 1.16][APLO 4.22][APLO 3.6]</para><para id="fs-id2195690">The synthesis of proteins consumes more of a cell’s energy than any other metabolic process. In turn, proteins account for more mass than any other component of living organisms (with the exception of water), and proteins perform virtually every function of a cell. The process of translation, or protein synthesis, involves the decoding of an mRNA message into a polypeptide product. Amino acids are covalently strung together by interlinking peptide bonds in lengths ranging from approximately 50 amino acid residues to more than 1,000. Each individual amino acid has an amino group (NH<sub>2</sub>) and a carboxyl (COOH) group. Polypeptides are formed when the amino group of one amino acid forms an amide (i.e., peptide) bond with the carboxyl group of another amino acid (<link target-id="fig-ch15_05_01"/>). This reaction is catalyzed by ribosomes and generates one water molecule.</para>
+<para id="fs-id1166849840698">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
 <figure id="fig-ch15_05_01" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4"><media id="fs-id1236580" alt="Illustration shows two amino acids side-by-side. Each amino acid has an amino group, a carboxyl group, and a side chain labeled R or R'. Upon formation of a peptide bond, the amino group is joined to the carboxyl group. A water molecule is released in the process.">
 <image mime-type="image/jpg" src="../../media/Figure_15_05_01-3c2f.jpg" width="280"/>
 </media>
 <caption>A peptide bond links the carboxyl end of one amino acid with the amino end of another, expelling one water molecule. For simplicity in this image, only the functional groups involved in the peptide bond are shown. The R and R' designations refer to the rest of each amino acid structure.</caption></figure>
-    <section id="fs-id2009587" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4 ost-get-exercise">
+    <section id="fs-id2009587" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4">
 <title>The Protein Synthesis Machinery</title>
 <para id="fs-id2739564">In addition to the mRNA template, many molecules and macromolecules contribute to the process of translation. The composition of each component may vary across species; for instance, ribosomes may consist of different numbers of rRNAs and polypeptides depending on the organism. However, the general structures and functions of the protein synthesis machinery are comparable from bacteria to human cells. Translation requires the input of an mRNA template, ribosomes, tRNAs, and various enzymatic factors.</para>
 <note id="fs-id2046909" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4"><label>Link to Learning</label>
@@ -111,28 +105,28 @@
 </exercise>
 
 
-</note><section id="fs-id1425631" class="ost-tag-lo-apbio-ch15-s05-lo02 ost-tag-lo-apbio-ch15-s05-aplo-3-4 ost-get-exercise">
+</note><section id="fs-id1425631" class="ost-tag-lo-apbio-ch15-s05-lo02 ost-tag-lo-apbio-ch15-s05-aplo-3-4">
 <title>Ribosomes</title>
 <para id="fs-id1769427">Even before an mRNA is translated, a cell must invest energy to build each of its ribosomes. In <emphasis effect="italics">E. coli</emphasis>, there are  between 10,000 and 70,000  ribosomes present in each cell at any given time. A ribosome is a complex macromolecule composed of structural and catalytic rRNAs, and many distinct polypeptides. In eukaryotes, the nucleolus is completely specialized for the synthesis and assembly of rRNAs.</para><para id="fs-id2000981">Ribosomes exist in the cytoplasm in prokaryotes and in the cytoplasm and rough endoplasmic reticulum in eukaryotes. Mitochondria and chloroplasts also have their own ribosomes in the matrix and stroma, which look more similar to prokaryotic ribosomes (and have similar drug sensitivities) than the ribosomes just outside their outer membranes in the cytoplasm.  Ribosomes dissociate into large and small subunits when they are not synthesizing proteins and reassociate during the initiation of translation. In <emphasis effect="italics">E. coli</emphasis>, the small subunit is described as 30S, and the large subunit is 50S, for a total of 70S (recall that Svedberg units are not additive). Mammalian ribosomes have a small 40S subunit and a large 60S subunit, for a total of 80S. The small subunit is responsible for binding the mRNA template, whereas the large subunit sequentially binds tRNAs. Each mRNA molecule is simultaneously translated by many ribosomes, all synthesizing protein in the same direction: reading the mRNA from 5' to 3' and synthesizing the polypeptide from the N terminus to the C terminus. The complete mRNA/poly-ribosome structure is called a <term id="term-00001">polysome</term>.</para>
 </section>
 
-<section id="fs-id2897379" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4 ost-get-exercise">
+<section id="fs-id2897379" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4">
 <title>tRNAs</title>
 <para id="fs-id1613052">The tRNAs are structural RNA molecules that were transcribed from genes by RNA polymerase III. Depending on the species, 40 to 60 types of tRNAs exist in the cytoplasm. Serving as adaptors, specific tRNAs bind to sequences on the mRNA template and add the corresponding amino acid to the polypeptide chain. Therefore, tRNAs are the molecules that actually “translate” the language of RNA into the language of proteins.</para>
 <para id="fs-id2853827">Of the 64 possible mRNA codons—or triplet combinations of A, U, G, and C—three specify the termination of protein synthesis and 61 specify the addition of amino acids to the polypeptide chain. Of these 61, one codon (AUG) also encodes the initiation of translation. Each tRNA anticodon can base pair with one of the mRNA codons and add an amino acid or terminate translation, according to the genetic code. For instance, if the sequence CUA occurred on an mRNA template in the proper reading frame, it would bind a tRNA expressing the complementary sequence, GAU, which would be linked to the amino acid leucine.</para>
 <para id="fs-id3063554">As the adaptor molecules of translation, it is surprising that tRNAs can fit so much specificity into such a small package. Consider that tRNAs need to interact with three factors:  1) they must be recognized by the correct aminoacyl synthetase (see below); 2) they must be recognized by ribosomes; and 3) they must bind to the correct sequence in mRNA.</para></section>
 
-<section id="fs-id1461234" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4 ost-get-exercise">
+<section id="fs-id1461234" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4">
 <title>Aminoacyl tRNA Synthetases</title>
 <para id="fs-id1720501">The process of pre-tRNA synthesis by RNA polymerase III only creates the RNA portion of the adaptor molecule. The corresponding amino acid must be added later, once the tRNA is processed and exported to the cytoplasm. Through the process of tRNA “charging,” each tRNA molecule is linked to its correct amino acid by a group of enzymes called <term id="term-00002">aminoacyl tRNA synthetases</term>. At least one type of aminoacyl tRNA synthetase exists for each of the 20 amino acids; the exact number of aminoacyl tRNA synthetases varies by species. These enzymes first bind and hydrolyze ATP to catalyze a high-energy bond between an amino acid and adenosine monophosphate (AMP); a pyrophosphate molecule is expelled in this reaction. The activated amino acid is then transferred to the tRNA, and AMP is released.</para>
 </section>
 </section>
 
-<section id="fs-id1986668" class="ost-get-exercise">
+<section id="fs-id1986668" class="">
 <title>The Mechanism of Protein Synthesis</title>
 <para id="fs-id2334597">As with mRNA synthesis, protein synthesis can be divided into three phases: initiation, elongation, and termination. The process of translation is similar in prokaryotes and eukaryotes. Here we’ll explore how translation occurs in <emphasis effect="italics">E. coli</emphasis>, a representative prokaryote, and specify any differences between prokaryotic and eukaryotic translation.</para>
 
-<section id="fs-id2321391" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4 ost-get-exercise">
+<section id="fs-id2321391" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4">
 <title>Initiation of Translation</title>
 <para id="fs-id1240070">Protein synthesis begins with the formation of an initiation complex. In <emphasis effect="italics">E. coli</emphasis>, this complex involves the small 30S ribosome, the mRNA template, three initiation factors (IFs; IF-1, IF-2, and IF-3), and a special <term id="term-00003">initiator tRNA</term>, called <m:math>
  <m:mrow>
@@ -160,7 +154,7 @@
 <para id="fs-id2682290">Once the appropriate AUG is identified, the other proteins and CBP dissociate, and the 60S subunit binds to the complex of Met-tRNA<sub>i</sub>, mRNA, and the 40S subunit. This step completes the initiation of translation in eukaryotes.</para>
 </section>
 
-<section id="fs-id2217094" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4 ost-get-exercise">
+<section id="fs-id2217094" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4">
 <title>Translation, Elongation, and Termination</title>
 <para id="fs-id2013469">In prokaryotes and eukaryotes, the basics of elongation are the same, so we will review elongation from the perspective of <emphasis effect="italics">E. coli</emphasis>. The 50S ribosomal subunit of <emphasis effect="italics">E. coli </emphasis>consists of three compartments: the A (aminoacyl) site binds incoming charged aminoacyl tRNAs. The P (peptidyl) site binds charged tRNAs carrying amino acids that have formed peptide bonds with the growing polypeptide chain but have not yet dissociated from their corresponding tRNA. The E (exit) site releases dissociated tRNAs so that they can be recharged with free amino acids. There is one exception to this assembly line of tRNAs: in <emphasis effect="italics">E. coli</emphasis>, <m:math>
  <m:mrow>
@@ -194,7 +188,7 @@
 </section>
 </section>
 
-<section id="fs-id2762763" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4 ost-get-exercise">
+<section id="fs-id2762763" class="ost-tag-lo-apbio-ch15-s05-lo01 ost-tag-lo-apbio-ch15-s05-aplo-3-4">
 <title>Protein Folding, Modification, and Targeting</title>
 <para id="fs-id2979153">During and after translation, individual amino acids may be chemically modified, signal sequences may be appended, and the new protein “folds” into a distinct three-dimensional structure as a result of intramolecular interactions. A <term id="term-00008">signal sequence</term> is a short tail of amino acids that directs a protein to a specific cellular compartment. These sequences at the amino end or the carboxyl end of the protein can be thought of as the protein’s “train ticket” to its ultimate destination. Other cellular factors recognize each signal sequence and help transport the protein from the cytoplasm to its correct compartment. For instance, a specific sequence at the amino terminus will direct a protein to the mitochondria or chloroplasts (in plants). Once the protein reaches its cellular destination, the signal sequence is usually clipped off.</para>
 <para id="fs-id2165193">Many proteins fold spontaneously, but some proteins require helper molecules, called chaperones, to prevent them from aggregating during the complicated process of folding. Even if a protein is properly specified by its corresponding mRNA, it could take on a completely dysfunctional shape if abnormal temperature or pH conditions prevent it from folding correctly.</para>

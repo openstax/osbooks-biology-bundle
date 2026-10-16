@@ -18,43 +18,45 @@
 </list>
 </section>
 
-<section id="fs-id1167066966937" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167067228796">As was stated previously, DNA replication is more complex than simply unzipping the double helix and making new complementary strands. Replication in prokaryotes starts from a sequence of nucleotides on the chromosome called the origin of replication—the point at which the DNA opens up or unzips. The enzyme helicase opens up the DNA at the point where hydrogen bonds connect the strands, resulting in the formation of a Y-shaped replication fork. Single-strand binding proteins keep the fork open. The enzyme primase synthesizes RNA primers to initiate DNA synthesis by DNA polymerase, which can add nucleotides only in the 5' to 3' direction. DNA polymerase recognizes the 3'-OH end as its landing site; thus, polymerase “reads” the template strand in the 3' to 5' direction and builds the complementary DNA polymer in the 5' to 3' direction. One strand—called the leading strand—is synthesized continuously in the direction of the replication fork (the direction in which helicase is separating the two strands), with polymerase adding new nucleotides one-by-one. However, replication of the other strand—called the lagging strand—occurs in a direction away from the replication fork, in short stretches of DNA known as Okazaki fragments. (Think of the activities on the lagging strand as analogous to trying to walk on a moving sidewalk that is moving in the opposite direction.) The RNA primers are replaced by DNA nucleotides, and ligase seals the DNA, creating phosphodiester bonds between the 3'-OH of one end and the 5'-phosphate of the other strand. The replicated DNA molecules now consist of one original template strand and one newly synthesized strand.</para><para id="fs-id1167063496432" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
+<section id="fs-id1167066966937" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167067228796">As was stated previously, DNA replication is more complex than simply unzipping the double helix and making new complementary strands. Replication in prokaryotes starts from a sequence of nucleotides on the chromosome called the origin of replication—the point at which the DNA opens up or unzips. The enzyme helicase opens up the DNA at the point where hydrogen bonds connect the strands, resulting in the formation of a Y-shaped replication fork. Single-strand binding proteins keep the fork open. The enzyme primase synthesizes RNA primers to initiate DNA synthesis by DNA polymerase, which can add nucleotides only in the 5' to 3' direction. DNA polymerase recognizes the 3'-OH end as its landing site; thus, polymerase “reads” the template strand in the 3' to 5' direction and builds the complementary DNA polymer in the 5' to 3' direction. One strand—called the leading strand—is synthesized continuously in the direction of the replication fork (the direction in which helicase is separating the two strands), with polymerase adding new nucleotides one-by-one. However, replication of the other strand—called the lagging strand—occurs in a direction away from the replication fork, in short stretches of DNA known as Okazaki fragments. (Think of the activities on the lagging strand as analogous to trying to walk on a moving sidewalk that is moving in the opposite direction.) The RNA primers are replaced by DNA nucleotides, and ligase seals the DNA, creating phosphodiester bonds between the 3'-OH of one end and the 5'-phosphate of the other strand. The replicated DNA molecules now consist of one original template strand and one newly synthesized strand.</para>
+<para id="fs-id1167063496432" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 6.2 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 
 <table id="fs-id1167066867865" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 1.2 The student can describe representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Learning Objective. Third right cell reads: 3.3 The student is able to describe representations and models that illustrate how genetic information is copied for transmission between generations." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.A.1 </emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
-<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s04-aplo-3-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.3 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe representations and models that illustrate how genetic information is copied for transmission between generations.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.2 DNA Replication</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.2.A Describe the mechanisms by which genetic information is copied for transmission between generations.</entry>
 </row>
-</tbody>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.2.A.1 DNA replication ensures continuity of hereditary information.<newline/>
+i. DNA is synthesized in the 5’ to 3’ direction.<newline/>
+ii. Replication is a semiconservative process, meaning one strand of DNA serves as the template for a new strand of complementary DNA.<newline/>
+iii. Helicase unwinds the DNA strands.<newline/>
+iv. Topoisomerase relaxes supercoiling in front of the replication fork.<newline/>
+v. DNA polymerase requires RNA primers to initiate DNA synthesis.<newline/>
+vi. DNA polymerase synthesizes new strands of DNA continuously on the leading strand and discontinuously on the lagging strand.<newline/>
+vii. Ligase joins the fragments on the lagging strands.<newline/>
 
+Exclusion statement- The names of the steps and particular enzymes involved, excluding DNA polymerase, ligase, RNA polymerase, helicase, and topoisomerase, are beyond the scope of the AP<sup>®</sup> Exam.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.B Visual Representations-Explain relationships between characteristics of biological models in both theoretical and applied contexts.</entry>
+</row></tbody>
 </tgroup>
 </table><note id="fs-id1167067313106" class="os-teacher">
 <label>Teacher Support</label>
 <para id="fs-id1167063589611">Use the ten steps summarizing the process of DNA replication listed just prior to <link target-id="tab-ch14_04_01"/> in the text as an outline for discussing DNA replication in prokaryotes.</para>
 </note>
-<para id="fs-id1166848794713">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 4.3][APLO 1.18][APLO 1.21]</para><para id="fs-id2571092">DNA replication has been extremely well studied in prokaryotes primarily because of the small size of the genome and the mutants that are available. <emphasis effect="italics">E. coli </emphasis>has 4.6 million base pairs in a single circular chromosome and all of it gets replicated in approximately 42 minutes, starting from a single origin of replication and proceeding around the circle in both directions. This means that approximately 1000 nucleotides are added per second. The process is quite rapid and occurs without many mistakes.</para>
+<para id="fs-id1166848794713">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
 <para id="fs-id1806393">DNA replication employs a large number of proteins and enzymes, each of which plays a critical role during the process. One of the key players is the enzyme DNA polymerase, also known as DNA pol, which adds nucleotides one by one to the growing DNA chain that are complementary to the template strand. The addition of nucleotides requires energy; this energy is obtained from the nucleotides that have three phosphates attached to them, similar to ATP which has three phosphate groups attached. When the bond between the phosphates is broken, the energy released is used to form the phosphodiester bond between the incoming nucleotide and the growing chain. In prokaryotes, three main types of polymerases are known: DNA pol I, DNA pol II, and DNA pol III. It is now known that DNA pol III is the enzyme required for DNA synthesis; DNA pol I and DNA pol II are primarily required for repair.</para>
 <para id="fs-id1676042">How does the replication machinery know where to begin? It turns out that there are specific nucleotide sequences called origins of replication where replication begins. In <emphasis effect="italics">E. coli, </emphasis>which has a single origin of replication on its one chromosome (as do most prokaryotes), it is approximately 245 base pairs long and is rich in AT sequences. The origin of replication is recognized by certain proteins that bind to this site. An enzyme called <term id="term-00001">helicase</term> unwinds the DNA by breaking the hydrogen bonds between the nitrogenous base pairs. ATP hydrolysis is required for this process. As the DNA opens up, Y-shaped structures called <term id="term-00002">replication forks</term> are formed. Two replication forks are formed at the origin of replication and these get extended bi- directionally as replication proceeds. <term id="term-00003">Single-strand binding proteins</term> coat the single strands of DNA near the replication fork to prevent the single-stranded DNA from winding back into a double helix. DNA polymerase is able to add nucleotides only in the 5' to 3' direction (a new DNA strand can be only extended in this direction). It also requires a free 3'-OH group to which it can add nucleotides by forming a phosphodiester bond between the 3'-OH end and the 5' phosphate of the next nucleotide. This essentially means that it cannot add nucleotides if a free 3'-OH group is not available. Then how does it add the first nucleotide? The problem is solved with the help of a primer that provides the free 3'-OH end. Another enzyme, RNA <term id="term-00004">primase</term>, synthesizes an RNA primer that is about five to ten nucleotides long and complementary to the DNA. Because this sequence primes the DNA synthesis, it is appropriately called the <term id="term-00005">primer</term>. DNA polymerase can now extend this RNA primer, adding nucleotides one by one that are complementary to the template strand (<link target-id="fig-ch14_04_01"/>).</para>
 <note id="fs-id1305287" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch14-s04-lo01 ost-tag-lo-apbio-ch14-s04-aplo-3-3"><label>Visual Connection</label>

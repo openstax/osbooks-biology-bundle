@@ -18,52 +18,37 @@
 </section>
 <section id="fs-id1167067150885" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167063411596">Cell signaling allows bacteria to respond to environmental cues, such as nutrient levels and quorum sensing (cell density). Yeasts are eukaryotes (fungi), and the components and processes found in yeast signals are similar to those of cell-surface receptor signals in multicellular organisms. For example, budding yeasts often release mating factors that enable them to participate in a process that is similar to sexual reproduction.</para>
-<para id="fs-id1167067202619" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167067073086" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.1 Cell communication processes share common features that reflect a shared evolutionary history. Second left cell reads: Science Practice. Second right cell reads: 1.5 The student can re-express key elements of natural phenomena across multiple representations in the domain. Third left cell reads: Learning Objective. Third right cell reads: 3.36 The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167067202619" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 4.1 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+<table id="fs-id1167067073086" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.1 Cell communication processes share common features that reflect a shared evolutionary history. Second left cell reads: Science Practice. Second right cell reads: 1.5 The student can re-express key elements of natural phenomena across multiple representations in the domain. Third left cell reads: Learning Objective. Third right cell reads: 3.36 The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
-<tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<tbody><row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.D</emphasis></entry>
-<entry class="ost-standards-description">Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.D.1</emphasis></span>
-<span class="ost-standards-description">Cell communication processes share common features that reflect a shared evolutionary history.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.5</emphasis></span>
-<span class="ost-standards-description">The student can re-express key elements of natural phenomena across multiple representations in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch09-s04-aplo-3-36">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.36</emphasis></span>
-<span class="ost-standards-description">The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>Cell Communication</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.1.A  Describe the ways that cells can communicate with one another.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.1.A.1 Cells communicate with one another through direct contact with other cells or from a distance via chemical signaling.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.1.B  Explain how cells communicate with one another over short and long distances.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.1.B.1 Cells communicate over short distances by using local regulators that target cells in the vicinity of the signal-emitting cell.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.B Concept Explanation- Explain biological concepts and processes.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.D.1</emphasis></span>
-<span class="ost-standards-description">Cell communication processes share common features that reflect a shared evolutionary history.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.1</emphasis></span>
-<span class="ost-standards-description">The student can justify claims with evidence.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch09-s04-aplo-3-37">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.37</emphasis></span>
-<span class="ost-standards-description">The student is able to justify claims based on scientific evidence that changes in signal transduction pathways can alter cellular response.</span>
-</entry>
-</row>
+
 </tbody>
 
 
@@ -81,15 +66,15 @@
 <para id="fs-id1167063605933">Further reading: Painter, Kimberley L. et al. (2014). What role does the quorum-sensing accessory gene regulator system play during <emphasis effect="italics">Staphylococcus aureus</emphasis> bacteremia? Trends in Microbiology 22:676–685</para>
 </note>
 </note>
-<para id="fs-id1166848841394">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.31][APLO 3.37]</para><para id="fs-id1711910">Within-cell signaling allows bacteria to respond to environmental cues, such as nutrient levels. Some single-celled organisms also release molecules to signal to each other.</para><section id="fs-id1547365" class="ost-tag-lo-apbio-ch09-s04-lo01 ost-tag-lo-apbio-ch09-s04-aplo-3-36 ost-get-exercise">
+<para id="fs-id1166848841394">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
+<section id="fs-id1547365" class="ost-tag-lo-apbio-ch09-s04-lo01 ost-tag-lo-apbio-ch09-s04-aplo-3-36">
 <title>Signaling in Yeast</title>
 <para id="fs-id2694648">Yeasts are eukaryotes (fungi), and the components and processes found in yeast signals are similar to those of cell-surface receptor signals in multicellular organisms. Budding yeasts (<link target-id="fig-ch09_04_01"/>) are able to participate in a process that is similar to sexual reproduction that entails two haploid cells (cells with one-half the normal number of chromosomes) combining to form a diploid cell (a cell with two sets of each chromosome, which is what normal body cells contain). In order to find another haploid yeast cell that is prepared to mate, budding yeasts secrete a signaling molecule called <term id="term-00001">mating factor</term>. When mating factor binds to cell-surface receptors in other yeast cells that are nearby, they stop their normal growth cycles and initiate a cell signaling cascade that includes protein kinases and GTP-binding proteins that are similar to G-proteins.</para>
 <figure id="fig-ch09_04_01" class="ost-tag-lo-apbio-ch09-s04-lo01 ost-tag-lo-apbio-ch09-s04-aplo-3-36"><media id="fs-id1974168" alt="The photo shows yeast cells, some of which have buds protruding from them.">
 <image mime-type="image/jpg" src="../../media/Figure_09_04_01-108c.jpg" width="250"/>
 </media>
 <caption>Budding <emphasis effect="italics">Saccharomyces cerevisiae</emphasis> yeast cells can communicate by releasing a signaling molecule called mating factor. In this micrograph, they are visualized using differential interference contrast microscopy, a light microscopy technique that enhances the contrast of the sample.</caption></figure></section>
-<section id="fs-id1964095" class="ost-tag-lo-apbio-ch09-s04-lo02 ost-tag-lo-apbio-ch09-s04-aplo-3-37 ost-get-exercise">
+<section id="fs-id1964095" class="ost-tag-lo-apbio-ch09-s04-lo02 ost-tag-lo-apbio-ch09-s04-aplo-3-37">
 <title>Signaling in Bacteria</title>
 <para id="fs-id1417852">Signaling in bacteria enables bacteria to monitor extracellular conditions, ensure that there are sufficient amounts of nutrients, and ensure that hazardous situations are avoided. There are circumstances, however, when bacteria communicate with each other.</para>
 <para id="fs-id2201059">The first evidence of bacterial communication was observed in a bacterium that has a symbiotic relationship with Hawaiian bobtail squid. When the population density of the bacteria reaches a certain level, specific gene expression is initiated, and the bacteria produce bioluminescent proteins that emit light. Because the number of cells present in the environment (cell density) is the determining factor for signaling, bacterial signaling was named <term id="term-00002">quorum sensing</term>. In politics and business, a quorum is the minimum number of members required to be present to vote on an issue.</para>

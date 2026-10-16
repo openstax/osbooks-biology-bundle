@@ -24,251 +24,61 @@
 <para id="fs-id1167067045090">Why do some flowering plants bloom in the spring, whereas others bloom in the summer or fall? Why do the stems of plants grow upward and bend toward light, while roots grow downward? Why do the leaves of deciduous plants in northern climates turn colors in the fall and eventually fall off, while evergreens keep their needles all year around? Is it true that putting an unripe avocado in a paper bag will hasten the ripening process? Can the same tactic work on bananas?</para>
 <para id="fs-id1167067053553" class="ost-reading-discard">Like most other organisms, plants have the ability to detect and respond to environmental change; this ability is an adaptation favored by natural selection. Flowering plants react to light, gravity, infection by pathogens, drought, and, as with the Venus flytrap, touch. Animals have two systems on which they can rely to detect and respond to stimuli: the nervous and endocrine systems. Plants, however, only have chemical control mechanisms at their disposal. In addition to the phytochromes, plants evolved hormones that allow them to respond to environmental changes.  Like animal hormones, plant hormones are chemical signaling molecules that trigger a cellular response through a signal transduction pathway.</para>
 <para id="fs-id1167067098784" class="ost-reading-discard">Although you do not have to memorize a laundry list of plant hormones and their activities, you should understand the basic mechanism of how they trigger a response. Examples that we’ll learn about in this chapter include auxins, which cause plant stems to grow and bend toward light, and gibberellins, which stimulate cell growth and breaks seed dormancy. Plants also produce other chemicals to protect against biotic stimuli, including herbivory and parasitism. The fact that plants produce chemicals should not be surprising; our pharmaceutical industry depends on these substances. For example, species of the foxglove plant produce digitalis, a powerful heart medicine, whereas the opium from the poppy is the source of many narcotics.</para>
-<para id="fs-id1167063466014" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 and Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167063466014" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 8.1 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167066793829" summary="Table with two columns and seventeen rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.C.1 Plants use negative and positive feedback mechanisms to maintain their internal environments and respond to external environmental changes. Second left cell reads: Essential Knowledge. Second right cell reads: Science Practice. Second right cell reads: 4.2 The student can design a plan for collecting data to answer a particular scientific question. Third left cell reads: Science Practice. Third right cell reads: 5.3 The student can evaluate the evidence provided by data sets in relation to a particular scientific question. Fourth left cell reads: Science Practice. Fourth right cell reads: 6.1 The student can justify claims with evidence. Fifth left cell reads: Learning Objective. Fifth right cell reads: 2.17 The student is able to evaluate data that show the effect(s) of changes in concentrations of key molecules on negative feedback mechanisms." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.C</emphasis></entry>
-<entry class="ost-standards-description">Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Plants use negative and positive feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-4-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
-<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-5-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.1 </emphasis></span>
-<span class="ost-standards-description">The student can justify claims with evidence.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-17">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.17 </emphasis></span>
-<span class="ost-standards-description">The student is able to evaluate data that show the effect(s) of changes in concentrations of key molecules on negative feedback mechanisms.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.C</emphasis></entry>
-<entry class="ost-standards-description">Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis.</entry></row>
-
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Plants use negative and positive feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-18">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.18 </emphasis></span>
-<span class="ost-standards-description">The student can make predictions about how organisms use negative feedback mechanisms to maintain their internal environments.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>8.1 Responses to the Environment</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>8.1.A Explain how the behavioral and physiological response of an organism is related to changes in internal or external environment.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.D</emphasis></entry>
-<entry class="ost-standards-description">Growth and dynamic homeostasis of a biological system are influenced by changes in the system’s environment.</entry></row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.1.A.1 Organisms respond to changes in their environment through behavioral and physiological mechanisms.<newline/>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.D.1 </emphasis></span>
-<span class="ost-standards-description">Cellular activity in plants is affected by interactions with biotic and abiotic factors.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
-<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-22">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.22 </emphasis></span>
-<span class="ost-standards-description">The student is able to refine scientific models and questions about the effect of complex biotic and abiotic interactions on all biological systems, from cells and organisms to populations, communities, and ecosystems.</span>
-</entry>
+Exclusion statement- Knowledge of specific behavioral or physiological mechanisms is beyond the scope of the AP<sup>®</sup> Exam.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.D</emphasis></entry>
-<entry class="ost-standards-description">Growth and dynamic homeostasis of a biological system are influenced by changes in the system’s environment.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.D.4 </emphasis></span>
-<span class="ost-standards-description">Plants have nonspecific immune responses to defend against infections and other threats.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
-<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-30">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.30 </emphasis></span>
-<span class="ost-standards-description">The student can create representations or models to describe nonspecific immune defenses in plants and animals.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-e"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.E</emphasis></entry>
-<entry class="ost-standards-description">Many biological processes involved in growth, reproduction and dynamic homeostasis include temporal regulation and coordination.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-e-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.E.3 </emphasis></span>
-<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-4-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
-<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-5-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.1 </emphasis></span>
-<span class="ost-standards-description">The student can justify claims with evidence.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-39">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.39 </emphasis></span>
-<span class="ost-standards-description">The student is able to justify scientific claims, using evidence, to describe how timing and coordination of behavioral events in organisms are regulated by several mechanisms.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-e"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.E</emphasis></entry>
-<entry class="ost-standards-description">Many biological processes involved in growth, reproduction and dynamic homeostasis include temporal regulation and coordination.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-e-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.E.3 </emphasis></span>
-<span class="ost-standards-description">Plant responses to stimuli are adaptations favored by natural selection.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-40">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.40 </emphasis></span>
-<span class="ost-standards-description">The student is able to connect concepts in and across domain(s) to predict how environmental factors affect responses to information and change behavior.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.1.A.2 Organisms exchange information with one another in response to internal changes and external cues, which can change behavior.</entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.B</emphasis></entry>
-<entry class="ost-standards-description">Expression of genetic information involves cellular and molecular mechanisms.</entry></row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-b-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.B.2 </emphasis></span>
-<span class="ost-standards-description">Signal transmission within and between plant cells mediates gene expression.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-22">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.22 </emphasis></span>
-<span class="ost-standards-description">The student is able to explain how signal pathways mediate gene expression, including how this process can affect protein production.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>8.1.B Explain how the behavioral responses of organisms affect their overall fitness and may contribute to the success of a population.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.1.B.1 Organisms communicate through various mechanisms (visual, audible, tactile, electrical, and/or chemical signals).<newline/>
+i. Organisms have a variety of signaling behaviors that produce changes in the behavior of other organisms and can result in differential reproductive success.<newline/>
+
+Exclusion statement- Knowledge of specific mechanisms of communication is beyond the scope of the AP<sup>®</sup> Exam.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>3.C Questions and Methods- Identify experimental procedures that align with the question, including:<newline/>
+i. Identifying dependent and independent variables.<newline/>
+ii.  Identifying appropriate controls<newline/>
+iii. Justifying appropriate controls</entry>
+</row>
+
+
 </tbody>
 </tgroup>
-</table><para id="fs-id1166847529092">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.29][APLO 2.30]</para></section>
+</table><para id="fs-id1166847529092">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
 <para id="fs-idp23711936">Animals can respond to environmental factors by moving to a new location. Plants, however, are rooted in place and must respond to the surrounding environmental factors. Plants have sophisticated systems to detect and respond to light, gravity, temperature, and physical touch. Receptors sense environmental factors and relay the information to effector systems—often through intermediate chemical messengers—to bring about plant responses.</para>
-<section id="fs-idp68880896" class="ost-tag-lo-apbio-ch23-s06-lo01 ost-tag-lo-apbio-ch23-s06-aplo-2-18 ost-tag-lo-apbio-ch23-s06-aplo-2-22 ost-get-exercise">
+<section id="fs-idp68880896" class="ost-tag-lo-apbio-ch23-s06-lo01 ost-tag-lo-apbio-ch23-s06-aplo-2-18 ost-tag-lo-apbio-ch23-s06-aplo-2-22">
 <title>Plant Responses to Light</title>
 <para id="fs-idp4456976">Plants have a number of sophisticated uses for light that go far beyond their ability to photosynthesize low-molecular-weight sugars using only carbon dioxide, light, and water. <emphasis>Photomorphogenesis</emphasis> is the growth and development of plants in response to light. It allows plants to optimize their use of light and space. <emphasis>Photoperiodism</emphasis> is the ability to use light to track time. Plants can tell the time of day and time of year by sensing and using various wavelengths of sunlight. <emphasis>Phototropism</emphasis> is a directional response that allows plants to grow towards, or even away from, light.</para>
 <para id="fs-idp4545296">The sensing of light in the environment is important to plants; it can be crucial for competition and survival. The response of plants to light is mediated by different photoreceptors, which are comprised of a protein covalently bonded to a light-absorbing pigment called a <emphasis>chromophore</emphasis>. Together, the two are called a chromoprotein.</para>
@@ -279,7 +89,7 @@
 <para id="fs-idp80048048">The phytochrome system acts as a biological light switch. It monitors the level, intensity, duration, and color of environmental light. The effect of red light is reversible by immediately shining far-red light on the sample, which converts the chromoprotein to the inactive Pr form. Additionally, Pfr can slowly revert to Pr in the dark, or break down over time. In all instances, the physiological response induced by red light is reversed. The active form of phytochrome (Pfr) can directly activate other molecules in the cytoplasm, or it can be trafficked to the nucleus, where it directly activates or represses specific gene expression.</para>
 <para id="fs-idp138460288">Once the phytochrome system evolved, plants adapted it to serve a variety of needs. Unfiltered, full sunlight contains much more red light than far-red light. Because chlorophyll absorbs strongly in the red region of the visible spectrum, but not in the far-red region, any plant in the shade of another plant on the forest floor will be exposed to red-depleted, far-red-enriched light. The preponderance of far-red light converts phytochrome in the shaded leaves to the Pr (inactive) form, slowing growth. The nearest non-shaded (or even less-shaded) areas on the forest floor have more red light; leaves exposed to these areas sense the red light, which activates the Pfr form and induces growth. In short, plant shoots use the phytochrome system to grow away from shade and towards light. Because competition for light is so fierce in a dense plant community, the evolutionary advantages of the phytochrome system are obvious.</para>
 <para id="fs-idp159765888">In seeds, the phytochrome system is not used to determine direction and quality of light (shaded versus unshaded). Instead, is it used merely to determine if there is any light at all. This is especially important in species with very small seeds, such as lettuce. Because of their size, lettuce seeds have few food reserves. Their seedlings cannot grow for long before they run out of fuel. If they germinated even a centimeter under the soil surface, the seedling would never make it into the sunlight and would die. In the dark, phytochrome is in the Pr (inactive form) and the seed will not germinate; it will only germinate if exposed to light at the surface of the soil. Upon exposure to light, Pr is converted to Pfr and germination proceeds.</para>
-<figure id="fig-ch30_06_01" class="ost-tag-lo-apbio-ch23-s06-lo01"><media id="fs-idp66849952" alt="Diagram shows the active (Pr) and inactive (Pfr) forms of phytochrome. An arrow indicates that red light converts the inactive form to the active form. Far-red light or darkness converts the active form back to the inactive form. When phytochrome is active, a cellular response occurs.">
+<figure id="fig-ch30_06_01"><media id="fs-idp66849952" alt="Diagram shows the active (Pr) and inactive (Pfr) forms of phytochrome. An arrow indicates that red light converts the inactive form to the active form. Far-red light or darkness converts the active form back to the inactive form. When phytochrome is active, a cellular response occurs.">
 <image mime-type="image/jpg" src="../../media/Figure_30_06_01.jpg" width="225"/>
 </media>
 
@@ -312,13 +122,13 @@
 </exercise>
 </note></section>
 </section>
-<section id="fs-idm38678784" class="ost-tag-lo-apbio-ch23-s06-lo02 ost-tag-lo-apbio-ch23-s06-aplo-2-18 ost-tag-lo-apbio-ch23-s06-aplo-2-22 ost-get-exercise">
+<section id="fs-idm38678784" class="ost-tag-lo-apbio-ch23-s06-lo02 ost-tag-lo-apbio-ch23-s06-aplo-2-18 ost-tag-lo-apbio-ch23-s06-aplo-2-22">
 <title>Plant Responses to Gravity</title>
 <para id="fs-idp55835184">Whether or not they germinate in the light or in total darkness, shoots usually sprout up from the ground, and roots grow downward into the ground. A plant laid on its side in the dark will send shoots upward when given enough time. Gravitropism ensures that roots grow into the soil and that shoots grow toward sunlight. Growth of the shoot apical tip upward is called <emphasis>negative gravitropism</emphasis>, whereas growth of the roots downward is called <emphasis>positive gravitropism</emphasis>.</para>
 <para id="fs-idp40974496"><emphasis>Amyloplasts</emphasis> (also known as <emphasis>statoliths</emphasis>) are specialized plastids that contain starch granules and settle downward in response to gravity. Amyloplasts are found in shoots and in specialized cells of the root cap. When a plant is tilted, the statoliths drop to the new bottom cell wall. A few hours later, the shoot or root will show growth in the new vertical direction.</para>
 <para id="fs-idp1946544">The mechanism that mediates gravitropism is reasonably well understood. When amyloplasts settle to the bottom of the gravity-sensing cells in the root or shoot, they physically contact the endoplasmic reticulum (ER), causing the release of calcium ions from inside the ER. This calcium signaling in the cells causes polar transport of the plant hormone IAA to the bottom of the cell. In roots, a high concentration of IAA inhibits cell elongation. The effect slows growth on the lower side of the root, while cells develop normally on the upper side. IAA has the opposite effect in shoots, where a higher concentration at the lower side of the shoot stimulates cell expansion, causing the shoot to grow up. After the shoot or root begin to grow vertically, the amyloplasts return to their normal position. Other hypotheses—involving the entire cell in the gravitropism effect—have been proposed to explain why some mutants that lack amyloplasts may still exhibit a weak gravitropic response.</para>
 </section>
-<section id="fs-idp90308320" class="ost-tag-lo-apbio-ch23-s06-lo03 ost-tag-lo-apbio-ch23-s06-aplo-2-17 ost-tag-lo-apbio-ch23-s06-aplo-2-18 ost-tag-lo-apbio-ch23-s06-aplo-2-22 ost-tag-lo-apbio-ch23-s06-aplo-2-30 ost-get-exercise">
+<section id="fs-idp90308320" class="ost-tag-lo-apbio-ch23-s06-lo03 ost-tag-lo-apbio-ch23-s06-aplo-2-17 ost-tag-lo-apbio-ch23-s06-aplo-2-18 ost-tag-lo-apbio-ch23-s06-aplo-2-22 ost-tag-lo-apbio-ch23-s06-aplo-2-30">
 <title>Growth Responses</title>
 <para id="fs-idp96781328">A plant’s sensory response to external stimuli relies on chemical messengers (hormones). Plant hormones affect all aspects of plant life, from flowering to fruit setting and maturation, and from phototropism to leaf fall. Potentially every cell in a plant can produce plant hormones. They can act in their cell of origin or be transported to other portions of the plant body, with many plant responses involving the synergistic or antagonistic interaction of two or more hormones. In contrast, animal hormones are produced in specific glands and transported to a distant site for action, and they act alone.</para>
 <para id="fs-idm64758128">Plant hormones are a group of unrelated chemical substances that affect plant morphogenesis. Five major plant hormones are traditionally described: auxins (particularly IAA), cytokinins, gibberellins, ethylene, and abscisic acid. In addition, other nutrients and environmental conditions can be characterized as growth factors.</para>
@@ -358,7 +168,7 @@
 <para id="fs-idp73340224"><emphasis>Oligosaccharins</emphasis> also play a role in plant defense against bacterial and fungal infections. They act locally at the site of injury, and can also be transported to other tissues. <emphasis>Strigolactones</emphasis> promote seed germination in some species and inhibit lateral apical development in the absence of auxins. Strigolactones also play a role in the establishment of mycorrhizae, a mutualistic association of plant roots and fungi. Brassinosteroids are important to many developmental and physiological processes. Signals between these compounds and other hormones, notably auxin and GAs, amplifies their physiological effect. Apical dominance, seed germination, gravitropism, and resistance to freezing are all positively influenced by hormones. Root growth and fruit dropping are inhibited by steroids.</para>
 </section>
 </section>
-<section id="fs-idp82988992" class="ost-tag-lo-apbio-ch23-s06-lo04 ost-tag-lo-apbio-ch23-s06-aplo-2-18 ost-tag-lo-apbio-ch23-s06-aplo-2-22 ost-tag-lo-apbio-ch23-s06-aplo-2-39 ost-tag-lo-apbio-ch23-s06-aplo-2-40 ost-get-exercise">
+<section id="fs-idp82988992" class="ost-tag-lo-apbio-ch23-s06-lo04 ost-tag-lo-apbio-ch23-s06-aplo-2-18 ost-tag-lo-apbio-ch23-s06-aplo-2-22 ost-tag-lo-apbio-ch23-s06-aplo-2-39 ost-tag-lo-apbio-ch23-s06-aplo-2-40">
 <title>Plant Responses to Wind and Touch</title>
 <para id="fs-idp63396496">The shoot of a pea plant winds around a trellis, while a tree grows on an angle in response to strong prevailing winds. These are examples of how plants respond to touch or wind.</para>
 <para id="fs-idp21499968">The movement of a plant subjected to constant directional pressure is called <emphasis>thigmotropism</emphasis>, from the Greek words <emphasis effect="italics">thigma</emphasis> meaning “touch,” and <emphasis effect="italics">tropism</emphasis> implying “direction.” Tendrils are one example of this. The meristematic region of tendrils is very touch sensitive; light touch will evoke a quick coiling response. Cells in contact with a support surface contract, whereas cells on the opposite side of the support expand (<link target-id="fig-ch30_02_11" document="m62905"/>(a)). Application of jasmonic acid is sufficient to trigger tendril coiling without a mechanical stimulus.</para><para id="fs-idm28609936">A <emphasis>thigmonastic</emphasis> response is a touch response independent of the direction of stimulus <link target-id="fig-ch30_04_04" document="m62908"/>. In the Venus flytrap, two modified leaves are joined at a hinge and lined with thin fork-like tines along the outer edges. Tiny hairs are located inside the trap. When an insect brushes against these trigger hairs, touching two or more of them in succession, the leaves close quickly, trapping the prey. Glands on the leaf surface secrete enzymes that slowly digest the insect. The released nutrients are absorbed by the leaves, which reopen for the next meal.</para><note id="fs-id1167063664264" class="ap-everyday ost-assessed-feature">

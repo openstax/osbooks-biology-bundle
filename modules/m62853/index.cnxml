@@ -21,68 +21,37 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167063687514">Did you eat cereal for breakfast or tomatoes in your dinner salad? Do you know someone who has received gene therapy to treat a disease such as cancer? Should your school, health insurance provider, or employer have access to your genetic profile? Understanding how DNA works has allowed scientists to recombine DNA molecules, clone organisms, and produce mice that glow in the dark. We likely have eaten genetically modified foods and are familiar with how DNA analysis is used to solve crimes. Manipulation of DNA by humans has resulted in bacteria that can protect plants from insect pests and restore ecosystems. Biotechnologies also have been used to produce insulin, hormones, antibiotics, and medicine that dissolve blood clots. Comparative genomics yields new insights into relationships among species, and DNA sequences reveal our personal genetic make-up. However, manipulation of DNA comes with social and ethical responsibilities, raising questions about its appropriate uses.</para>
 <para id="fs-id1167063961397" class="ost-reading-discard">Nucleic acids can be isolated from cells for analysis by lysing cell membranes and enzymatically destroying all other macromolecules. Fragmented or whole chromosomes can be separated on the basis of size (base pair length) by gel electrophoresis. Short sequences of DNA or RNA can be amplified using the polymerase chain reaction (PCR). Recombinant DNA technology can combine DNA from different sources using bacterial plasmids or viruses as vectors to carry foreign genes into host cells, resulting in genetically modified organisms (GMOs). Transgenic bacteria, agricultural plants such as corn and rice, and farm animals produce protein products such as hormones and vaccines that benefit humans. (It is important to remind ourselves that recombinant technology is possible because the genetic code is universal, and the processes of transcription and translation are fundamentally the same in all organisms.) Cloning produces genetically identical copies of DNA, cells, or even entire organisms (reproductive cloning). Genetic testing identifies disease-causing genes, and gene therapy can be used to treat or cure an inheritable disease. However, questions emerge from these technologies including the safety of GMOs and privacy issues.</para>
-<para id="fs-id1167067140644" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
+<para id="fs-id1167067140644" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 6.8 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167067066415" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 6.4 The student can make claims and predictions about natural phenomena based on scientific theories and models. Third left cell reads: Learning Objective. Third right cell reads: 3.5 The student can justify the claim that humans can manipulate heritable information by identifying an example of a commonly used technology." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1</emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4</emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch17-s01-aplo-3-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.5</emphasis></span>
-<span class="ost-standards-description">The student can justify the claim that humans can manipulate heritable information by identifying an example of a commonly used technology.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.8 Biotechnology</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.8.A Explain the use of genetic engineering techniques in analyzing or manipulating DNA.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.8.A.1 Genetic engineering techniques can be used to analyze and manipulate DNA and RNA.<newline/>
+i. Gel electrophoresis is a process that separates DNA fragments by size and charge.<newline/>
+ii. During polymerase chain reaction (PCR), DNA fragments are amplified by denaturing DNA, annealing primers to the original strand, and extending the new DNA molecule.<newline/>
+iii. Bacterial transformation introduces foreign DNA into bacterial cells.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.C</emphasis></entry>
-<entry class="ost-standards-description">The processing of genetic information is imperfect and is a source of genetic variation.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.C.1</emphasis></span>
-<span class="ost-standards-description">Changes in genotype can result in changes in phenotype.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2</emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch17-s01-aplo-3-24">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.24</emphasis></span>
-<span class="ost-standards-description">The student is able to predict how a change in genotype, when expressed as a phenotype, provides a variation that can be subject to natural selection.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.D Argumentation- Explain the relationship between experimental results and larger biological concepts, processes, or theories.</entry>
 </row>
 </tbody>
 
 
 
 </tgroup>
-</table><para id="fs-id1166850908178">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.13][APLO 3.23][APLO 3.28][APLO 3.24][APLO 1.11][APLO 3.5][APLO 4.2][APLO 4.8]</para></section>
+</table><para id="fs-id1166850908178">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
 
 <note id="fs-id1167067133706" class="os-teacher">
 <label>Teacher Support</label>
@@ -97,10 +66,10 @@
 </note>
 </note>
 <para id="fs-id2989163"><term id="term-00001">Biotechnology</term> is the use of biological agents for technological advancement. Biotechnology was used for breeding livestock and crops long before the scientific basis of these techniques was understood. Since the discovery of the structure of DNA in 1953, the field of biotechnology has grown rapidly through both academic research and private companies. The primary applications of this technology are in medicine (production of vaccines and antibiotics) and agriculture (genetic modification of crops, such as to increase yields). Biotechnology also has many industrial applications, such as fermentation, the treatment of oil spills, and the production of biofuels.</para>
-<section id="fs-id1799634" class="ost-tag-lo-apbio-ch17-s01-lo01 ost-tag-lo-apbio-ch17-s01-aplo-3-5 ost-get-exercise">
+<section id="fs-id1799634" class="ost-tag-lo-apbio-ch17-s01-lo01 ost-tag-lo-apbio-ch17-s01-aplo-3-5">
 <title>Basic Techniques to Manipulate Genetic Material (DNA and RNA)</title>
 <para id="fs-id2200536">To understand the basic techniques used to work with nucleic acids, remember that nucleic acids are macromolecules made of nucleotides (a sugar, a phosphate, and a nitrogenous base) linked by phosphodiester bonds. The phosphate groups on these molecules each have a net negative charge. An entire set of DNA molecules in the nucleus is called the genome. DNA has two complementary strands linked by hydrogen bonds between the paired bases. The two strands can be separated by exposure to high temperatures (DNA denaturation) and can be reannealed by cooling. The DNA can be replicated by the DNA polymerase enzyme. Unlike DNA, which is located in the nucleus of eukaryotic cells, RNA molecules leave the nucleus. The most common type of RNA that is analyzed is the messenger RNA (mRNA) because it represents the protein-coding genes that are actively expressed. However, RNA molecules present some other challenges to analysis, as they are often less stable than DNA.</para>
-<section id="fs-id2274690" class="ost-get-exercise">
+<section id="fs-id2274690" class="">
 <title>DNA and RNA Extraction</title>
 <para id="fs-id2415311">To study or manipulate nucleic acids, the DNA or RNA must first be isolated or extracted from the cells. Various techniques are used to extract different types of DNA (<link target-id="fig-ch17_01_02"/>). Most nucleic acid extraction techniques involve steps to break open the cell and use enzymatic reactions to destroy all macromolecules that are not desired (such as degradation of unwanted molecules and separation from the DNA sample). Cells are broken using a <term id="term-00002">lysis buffer</term> (a solution which is mostly a detergent); lysis means “to split.” These enzymes break apart lipid molecules in the cell membranes and nuclear membranes. Macromolecules are inactivated using enzymes such as <term id="term-00003">proteases</term> that break down proteins, and <term id="term-00004">ribonucleases</term> (RNAses) that break down RNA. The DNA is then precipitated using alcohol. Human genomic DNA is usually visible as a gelatinous, white mass. The DNA samples can be stored frozen at –80°C for several years.</para>
 <figure id="fig-ch17_01_02" class="ost-tag-lo-apbio-ch17-s01-lo01 ost-tag-lo-apbio-ch17-s01-aplo-3-5"><media id="fs-id2318009" alt="This illustration shows the four main steps of DNA extraction. In the first step, cells in a test tube are lysed using a detergent that disrupts the plasma membrane. In the second step, cell contents are treated with protease to destroy protein, and RNAase to destroy RNA. The resulting slurry is centrifuged to pellet the cell debris. The supernatant, or liquid, containing the DNA is then transferred to a clean test tube. The DNA is precipitated with ethanol. It forms viscous, mucous-like strands that can be spooled on a glass rod">
@@ -108,14 +77,14 @@
 </media>
 <caption>This diagram shows the basic method used for extraction of DNA.</caption></figure><para id="fs-id1912438">RNA analysis is performed to study gene expression patterns in cells. RNA is naturally very unstable because RNAses are commonly present in nature and very difficult to inactivate. Similar to DNA, RNA extraction involves the use of various buffers and enzymes to inactivate macromolecules and preserve the RNA.</para>
 </section>
-<section id="fs-id2100646" class="ost-get-exercise">
+<section id="fs-id2100646" class="">
 <title>Gel Electrophoresis</title>
 <para id="fs-id2682756">Because nucleic acids are negatively charged ions at neutral or basic pH in an aqueous environment, they can be mobilized by an electric field. <term id="term-00005">Gel electrophoresis</term> is a technique used to separate molecules on the basis of size, using this charge. The nucleic acids can be separated as whole chromosomes or fragments. The nucleic acids are loaded into a slot near the negative electrode of a semisolid, porous gel matrix and pulled toward the positive electrode at the opposite end of the gel. Smaller molecules move through the pores in the gel faster than larger molecules; this difference in the rate of migration separates the fragments on the basis of size. There are molecular weight standard samples that can be run alongside the molecules to provide a size comparison. Nucleic acids in a gel matrix can be observed using various fluorescent or colored dyes. Distinct nucleic acid fragments appear as bands at specific distances from the top of the gel (the negative electrode end) on the basis of their size (<link target-id="fig-ch17_01_03"/>). A mixture of genomic DNA fragments of varying sizes appear as a long smear, whereas uncut genomic DNA is usually too large to run through the gel and forms a single large band at the top of the gel.</para>
 <figure id="fig-ch17_01_03" class="ost-tag-lo-apbio-ch17-s01-lo01 ost-tag-lo-apbio-ch17-s01-aplo-3-5"><media id="fs-id2026422" alt="Photo shows an agarose gel illuminated under UV light. The gel contains nine lanes from left to right. Each lane was loaded with a sample containing DNA fragments of differing size that separated as they travelled through the gel from top to bottom. The DNA appears as thin, white bands on a black background. Lanes one and nine contain many bands from a DNA standard. These bands are closely spaced toward the top, and spaced farther apart further down the gel. Lanes two through eight contain one or two bands each. Some of these bands are identical in size and run the same distance into the gel. Others run a slightly different distance, indicating a small difference in size.">
 <image mime-type="image/jpg" src="../../media/Figure_17_01_03-db3d.jpg" width="300"/>
 </media>
 <caption>Shown are DNA fragments from seven samples run on a gel, stained with a fluorescent dye, and viewed under UV light. (credit: James Jacob, Tompkins Cortland Community College)</caption></figure></section>
-<section id="fs-id2645776" class="ost-get-exercise">
+<section id="fs-id2645776" class="">
 <title>Amplification of Nucleic Acid Fragments by Polymerase Chain Reaction</title>
 <para id="fs-id2075973">Although genomic DNA is visible to the naked eye when it is extracted in bulk, DNA analysis often requires focusing on one or more specific regions of the genome. <emphasis effect="bold">Polymerase chain reaction</emphasis> (<emphasis effect="bold">PCR</emphasis>) is a technique used to amplify specific regions of DNA for further analysis (<link target-id="fig-ch17_01_04"/>). PCR is used for many purposes in laboratories, such as the cloning of gene fragments to analyze genetic diseases, identification of contaminant foreign DNA in a sample, and the amplification of DNA for sequencing. More practical applications include the detection of genetic diseases.</para>
 <figure id="fig-ch17_01_04" class="ost-tag-lo-apbio-ch17-s01-lo01 ost-tag-lo-apbio-ch17-s01-aplo-3-5"><media id="fs-id2626001" alt="Illustration shows the amplification of a DNA sequence by the polymerase chain reaction. PCR consists of three steps—denaturation, annealing, and DNA synthesis—that occur at high, low, and intermediate temperatures. In step 1, the denaturation step, the sample is heated to a high temperature so the DNA strands separate. In step 2, annealing, the sample is cooled so two primers can anneal to the two strands of DNA. The primers are spaced such that the sequence of interest between them will be amplified. In step 3, DNA synthesis, the sample is warmed to the optimal temperature for Taq polymerase, which synthesizes the complementary strand from the primer to the 3' end of the molecule. This cycle is repeated again and again. Each time, the newly synthesized strands serve as templates so that the amount of DNA doubles with each cycle. As the cycles continue, more and more strands are the size of the distance between the two primers; in the end, the vast majority of strands are this size.">
@@ -135,7 +104,7 @@
 
 
 </note></section>
-<section id="fs-id1569812" class="ost-get-exercise">
+<section id="fs-id1569812" class="">
 <title>Hybridization, Southern Blotting, and Northern Blotting</title>
 <para id="fs-id1285836">Nucleic acid samples, such as fragmented genomic DNA and RNA extracts, can be probed for the presence of certain sequences. Short DNA fragments called <term id="term-00007">probes</term> are designed and labeled with radioactive or fluorescent dyes to aid detection. Gel electrophoresis separates the nucleic acid fragments according to their size. The fragments in the gel are then transferred onto a nylon membrane in a procedure called <term id="term-00008">blotting</term> (<link target-id="fig-ch17_01_05"/>). The nucleic acid fragments that are bound to the surface of the membrane can then be probed with specific radioactively or fluorescently labeled probe sequences. When DNA is transferred to a nylon membrane, the technique is called <term id="term-00009">Southern blotting</term>, and when RNA is transferred to a nylon membrane, it is called <term id="term-00010">northern blotting</term>. Southern blots are used to detect the presence of certain DNA sequences in a given genome, and northern blots are used to detect gene expression.</para>
 <figure id="fig-ch17_01_05" class="ost-tag-lo-apbio-ch17-s01-lo01 ost-tag-lo-apbio-ch17-s01-aplo-3-5"><media id="fs-id1719414" alt="In Southern blotting, D N A is separated on the basis of size by agarose gel electrophoresis. The fragments run through the gel from top to bottom. In the gel shown in this figure, there are so many D N A fragments they appear as a smear in each lane. The D N A from the gel is transferred to a nylon membrane. To do so, the gel is sandwiched between filter paper and the membrane and placed in transfer buffer. Paper towels above the gel wick up the moisture and assist in the transfer. The nylon membrane is then incubated with a radioactively or fluorescently labeled probe that is complementary to the sequence of interest. Discrete bands appear where the sequence of interest is located.">
@@ -143,12 +112,12 @@
 </media>
 <caption>Southern blotting is used to find a particular sequence in a sample of DNA. DNA fragments are separated on a gel, transferred to a nylon membrane, and incubated with a DNA probe complementary to the sequence of interest.  Northern blotting is similar to Southern blotting, but RNA is run on the gel instead of DNA. In western blotting, proteins are run on a gel and detected using antibodies.</caption></figure></section>
 </section>
-<section id="fs-id1289490" class="ost-tag-lo-apbio-ch17-s01-lo02 ost-tag-lo-apbio-ch17-s01-aplo-3-5 ost-tag-lo-apbio-ch17-s01-aplo-3-24 ost-get-exercise">
+<section id="fs-id1289490" class="ost-tag-lo-apbio-ch17-s01-lo02 ost-tag-lo-apbio-ch17-s01-aplo-3-5 ost-tag-lo-apbio-ch17-s01-aplo-3-24">
 <title>Molecular Cloning</title>
 <para id="fs-id1420611">In general, the word “cloning” means the creation of a perfect replica; however, in biology, the re-creation of a whole organism is referred to as “reproductive cloning.” Long before attempts were made to clone an entire organism, researchers learned how to reproduce desired regions or fragments of the genome, a process that is referred to as molecular cloning.</para>
 <para id="fs-id2990504">Cloning small fragments of the genome allows for the manipulation and study of specific genes (and their protein products), or noncoding regions in isolation. A plasmid (also called a vector) is a small circular DNA molecule that replicates independently of the chromosomal DNA. In cloning, the plasmid molecules can be used to provide a "folder" in which to insert a desired DNA fragment. Plasmids are usually introduced into a bacterial host for proliferation. In the bacterial context, the fragment of DNA from the human genome (or the genome of another organism that is being studied) is referred to as <term id="term-00011">foreign DNA</term>, or a transgene, to differentiate it from the DNA of the bacterium, which is called the <term id="term-00012">host DNA</term>.</para>
 <para id="fs-id960434">Plasmids occur naturally in bacterial populations (such as <emphasis effect="italics">Escherichia coli</emphasis>) and have genes that can contribute favorable traits to the organism, such as <term id="term-00013">antibiotic resistance</term> (the ability to be unaffected by antibiotics). Plasmids have been repurposed and engineered as vectors for molecular cloning and the large-scale production of important reagents, such as insulin and human growth hormone. An important feature of plasmid vectors is the ease with which a foreign DNA fragment can be introduced via the <term id="term-00014">multiple cloning site (MCS)</term>. The MCS is a short DNA sequence containing multiple sites that can be cut with different commonly available restriction endonucleases. <term id="term-00015">Restriction endonucleases</term> recognize specific DNA sequences and cut them in a predictable manner; they are naturally produced by bacteria as a defense mechanism against foreign DNA. Many restriction endonucleases make staggered cuts in the two strands of DNA, such that the cut ends have a 2- or 4-base single-stranded overhang. Because these overhangs are capable of annealing with complementary overhangs, these are called “sticky ends.” Addition of an enzyme called DNA ligase permanently joins the DNA fragments via phosphodiester bonds. In this way, any DNA fragment generated by restriction endonuclease cleavage can be spliced between the two ends of a plasmid DNA that has been cut with the same restriction endonuclease (<link target-id="fig-ch17_01_06"/>).</para>
-<section id="fs-id1772951" class="ost-get-exercise">
+<section id="fs-id1772951" class="">
 <title>Recombinant DNA Molecules</title>
 <para id="fs-id2042376">Plasmids with foreign DNA inserted into them are called <term id="term-00016">recombinant DNA</term> molecules because they are created artificially and do not occur in nature. They are also called chimeric molecules because the origin of different parts of the molecules can be traced back to different species of biological organisms or even to chemical synthesis. Proteins that are expressed from recombinant DNA molecules are called <term id="term-00017">recombinant proteins</term>. Not all recombinant plasmids are capable of expressing genes. The recombinant DNA may need to be moved into a different vector (or host) that is better designed for gene expression. Plasmids may also be engineered to express proteins only when stimulated by certain environmental factors, so that scientists can control the expression of the recombinant proteins.</para>
 <note id="fs-id1958426" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch17-s01-lo02 ost-tag-lo-apbio-ch17-s01-aplo-3-5 ost-tag-lo-apbio-ch17-s01-aplo-3-24"><label>Visual Connections</label>
@@ -200,19 +169,19 @@
 <para id="fs-id1167067193140">Suggested group size for the activity is 3–6 students. Guide student groups to think about climate change as a natural selection pressure that will affect the success of the clones. By using crop plants with little genetic variation, there is little potential that these plants to withstand an environmental change such as rapid, human-induced global warming.</para>
 <para id="fs-id1167066992994">The activity is an application of Learning Objective 3.5 and Science Practice 6.4 because students are discussing the justification for cloning crop plants and then predicting how climate change will act as a selection pressure on the clones.</para>
 <para id="fs-id1167061306257">The Think About It question is an application of Learning Objective 3.5 and Science Practice 6.4 because the technique for introducing new genes into an organism is an example of how heritable information can be manipulated.</para>
-<para id="eip-id1167067154600">An expanded lab investigation for biotechnology, involving performing a genetic transformation on <emphasis effect="italics">E. coli</emphasis>, is available from the College Board’s® <emphasis effect="italics">AP Biology Investigative Labs: An Inquiry-Based Approach</emphasis> in <link window="new" url="https://openstax.org/l/32BioLab8">Investigation 8</link>.</para>
+<para id="eip-id1167067154600">An expanded lab investigation for biotechnology, involving performing a genetic transformation on <emphasis effect="italics">E. coli</emphasis>, is available from the College Board’s<sup>®</sup> <emphasis effect="italics">AP Biology Investigative Labs: An Inquiry-Based Approach</emphasis> in <link window="new" url="https://openstax.org/l/32BioLab8">Investigation 8</link>.</para>
 <note id="fs-id1167063503210"><title>Answer:</title>
 Alter a plant RNA virus to contain the gene for herbicide resistance. Use the virus as a vector to place the gene into appropriate plants.</note>
 <note id="fs-id1167066849693" class="ost-background-info">
 <label>Background Information</label>
 <para id="fs-id1167063652310">Genetic engineering is as old as farming. Discuss the efforts that were made by farmers to develop better crops before technology gave its assistance. Discuss how technology has increased the changes in crops worldwide. What is the evidence for possible benefits and possible hazards of the development of genetically modified crops (GMO’s)?</para>
 </note>
-</note><section id="fs-id1250392" class="ost-get-exercise">
+</note><section id="fs-id1250392" class="">
 <title>Cellular Cloning</title>
 <para id="fs-id1404634">Unicellular organisms, such as bacteria and yeast, naturally produce clones of themselves when they replicate asexually by binary fission; this is known as <term id="term-00018">cellular cloning</term>. The nuclear DNA duplicates by the process of mitosis, which creates an exact replica of the genetic material.</para>
 </section>
 
-<section id="fs-id1397721" class="ost-get-exercise"><title>Reproductive Cloning</title><para id="fs-id2097772"><term id="term-00019">Reproductive cloning</term> is a method used to make a clone or an identical copy of an entire multicellular organism. Most multicellular organisms undergo reproduction by sexual means, which involves genetic hybridization of two individuals (parents), making it impossible for generation of an identical copy or a clone of either parent. Recent advances in biotechnology have made it possible to artificially induce asexual reproduction of mammals in the laboratory.</para>
+<section id="fs-id1397721" class=""><title>Reproductive Cloning</title><para id="fs-id2097772"><term id="term-00019">Reproductive cloning</term> is a method used to make a clone or an identical copy of an entire multicellular organism. Most multicellular organisms undergo reproduction by sexual means, which involves genetic hybridization of two individuals (parents), making it impossible for generation of an identical copy or a clone of either parent. Recent advances in biotechnology have made it possible to artificially induce asexual reproduction of mammals in the laboratory.</para>
 <para id="fs-id2100688">Parthenogenesis, or “virgin birth,” occurs when an embryo grows and develops without the fertilization of the egg occurring; this is a form of asexual reproduction. An example of parthenogenesis occurs in species in which the female lays an egg and if the egg is fertilized, it is a diploid egg and the individual develops into a female; if the egg is not fertilized, it remains a haploid egg and develops into a male. The unfertilized egg is called a parthenogenic, or virgin, egg. Some insects and reptiles lay parthenogenic eggs that can develop into adults.</para>
 <para id="fs-id1235778">Sexual reproduction requires two cells; when the haploid egg and sperm cells fuse, a diploid zygote results. The zygote nucleus contains the genetic information to produce a new individual. However, early embryonic development requires the cytoplasmic material contained in the egg cell. This idea forms the basis for reproductive cloning. Therefore, if the haploid nucleus of an egg cell is replaced with a diploid nucleus from the cell of any individual of the same species (called a donor), it will become a zygote that is genetically identical to the donor. Somatic cell nuclear transfer is the technique of transferring a diploid nucleus into an enucleated egg. It can be used for either therapeutic cloning or reproductive cloning.</para>
 <para id="fs-id843472">The first cloned mammal was Dolly, a sheep who was born in 1996. The success rate of reproductive cloning at the time was very low. Dolly lived for seven years and died of respiratory complications (<link target-id="fig-ch17_01_07"/>). There is speculation that because the cell DNA belongs to an older individual, the age of the DNA may affect the life expectancy of a cloned individual. Since Dolly, several animals such as horses, bulls, and goats have been successfully cloned, although these individuals often exhibit facial, limb, and cardiac abnormalities. There have been attempts at producing cloned human embryos as sources of embryonic stem cells, sometimes referred to as cloning for therapeutic purposes. Therapeutic cloning produces stem cells to attempt to remedy detrimental diseases or defects (unlike reproductive cloning, which aims to reproduce an organism). Still, therapeutic cloning efforts have met with resistance because of bioethical considerations.</para>
@@ -232,21 +201,21 @@ Alter a plant RNA virus to contain the gene for herbicide resistance. Use the vi
 
 
 
-</note></section><section id="fs-id1285376" class="ost-tag-lo-apbio-ch17-s01-lo03 ost-tag-lo-apbio-ch17-s01-aplo-3-05 ost-tag-lo-apbio-ch17-s01-aplo-3-24 ost-get-exercise">
+</note></section><section id="fs-id1285376" class="ost-tag-lo-apbio-ch17-s01-lo03 ost-tag-lo-apbio-ch17-s01-aplo-3-05 ost-tag-lo-apbio-ch17-s01-aplo-3-24">
 <title>Genetic Engineering</title>
 <para id="fs-id1277417"><term id="term-00020">Genetic engineering</term> is the alteration of an organism’s genotype using recombinant DNA technology to modify an organism’s DNA to achieve desirable traits. The addition of foreign DNA in the form of recombinant DNA vectors generated by molecular cloning is the most common method of genetic engineering. The organism that receives the recombinant DNA is called a <term id="term-00021">genetically modified organism</term> (GMO). If the foreign DNA that is introduced comes from a different species, the host organism is called <term id="term-00022">transgenic</term>. Bacteria, plants, and animals have been genetically modified since the early 1970s for academic, medical, agricultural, and industrial purposes. In the US, GMOs such as herbicide-resistant soybeans and borer-resistant corn are part of many common processed foods.</para>
 
-<section id="fs-id1058434" class="ost-get-exercise">
+<section id="fs-id1058434" class="">
 <title>Gene Targeting</title>
 <para id="fs-id1082309">Although classical methods of studying the function of genes began with a given phenotype and determined the genetic basis of that phenotype, modern techniques allow researchers to start at the DNA sequence level and ask: "What does this gene or DNA element do?" This technique, called reverse genetics, has resulted in reversing the classic genetic methodology.  This method would be similar to damaging a body part to determine its function. An insect that loses a wing cannot fly, which means that the function of the wing is flight. The classical genetic method would compare insects that cannot fly with insects that can fly, and observe that the non-flying insects have lost wings. Similarly, mutating or deleting genes provides researchers with clues about gene function. The methods used to disable gene function are collectively called gene targeting. <term id="term-00023">Gene targeting</term> is the use of recombinant DNA vectors to alter the expression of a particular gene, either by introducing mutations in a gene, or by eliminating the expression of a certain gene by deleting a part or all of the gene sequence from the genome of an organism.</para>
 </section>
 </section>
 
-<section id="fs-id1466536" class="ost-tag-lo-apbio-ch17-s01-lo03 ost-tag-lo-apbio-ch17-s01-aplo-3-05 ost-tag-lo-apbio-ch17-s01-aplo-3-24 ost-get-exercise">
+<section id="fs-id1466536" class="ost-tag-lo-apbio-ch17-s01-lo03 ost-tag-lo-apbio-ch17-s01-aplo-3-05 ost-tag-lo-apbio-ch17-s01-aplo-3-24">
 <title>Biotechnology in Medicine and Agriculture</title>
 <para id="fs-id1232227">It is easy to see how biotechnology can be used for medicinal purposes. Knowledge of the genetic makeup of our species, the genetic basis of heritable diseases, and the invention of technology to manipulate and fix mutant genes provides methods to treat disease. Biotechnology in agriculture can enhance resistance to disease, pest, and environmental stress, and improve both crop yield and quality.</para>
 
-<section id="fs-id1424991" class="ost-get-exercise">
+<section id="fs-id1424991" class="">
 <title>Genetic Diagnosis and Gene Therapy</title>
 <para id="fs-id2065754">The process of testing for suspected genetic defects before administering treatment is called <term id="term-00024">genetic diagnosis</term> by <term id="term-00025">genetic testing</term>. Depending on the inheritance patterns of a disease-causing gene, family members are advised to undergo genetic testing. For example, women diagnosed with breast cancer are usually advised to have a biopsy so that the medical team can determine the genetic basis of cancer development. Treatment plans are based on the findings of genetic tests that determine the type of cancer. If the cancer is caused by inherited gene mutations, other female relatives are also advised to undergo genetic testing and periodic screening for breast cancer. Genetic testing is also offered for fetuses (or embryos with in vitro fertilization) to determine the presence or absence of disease-causing genes in families with specific debilitating diseases.</para>
 <para id="fs-id3059726"><term id="term-00026">Gene therapy</term> is a genetic engineering technique used to cure disease. In its simplest form, it involves the introduction of a good gene at a random location in the genome to aid the cure of a disease that is caused by a mutated gene. The good gene is usually introduced into diseased cells as part of a vector transmitted by a virus that can infect the host cell and deliver the foreign DNA (<link target-id="fig-ch17_01_08"/>). More advanced forms of gene therapy try to correct the mutation at the original site in the genome, such as is the case with treatment of severe combined immunodeficiency (SCID).</para>
@@ -256,19 +225,19 @@ Alter a plant RNA virus to contain the gene for herbicide resistance. Use the vi
 <caption>Gene therapy using an adenovirus vector can be used to cure certain genetic diseases in which a person has a defective gene. (credit: NIH)</caption></figure></section>
 </section>
 
-<section id="fs-id1209293" class="ost-get-exercise">
+<section id="fs-id1209293" class="">
 <title>Production of Vaccines, Antibiotics, and Hormones</title>
 <para id="fs-id2016556">Traditional vaccination strategies use weakened or inactive forms of microorganisms to mount the initial immune response. Modern techniques use the genes of microorganisms cloned into vectors to mass produce the desired antigen. The antigen is then introduced into the body to stimulate the primary immune response and trigger immune memory. Genes cloned from the influenza virus have been used to combat the constantly changing strains of this virus.</para>
 <para id="fs-id944574">Antibiotics are a biotechnological product. They are naturally produced by microorganisms, such as fungi, to attain an advantage over bacterial populations. Antibiotics are produced on a large scale by cultivating and manipulating fungal cells.</para>
 <para id="fs-id1942719">Recombinant DNA technology was used to produce large-scale quantities of human insulin in <emphasis effect="italics">E. coli</emphasis> as early as 1978. Previously, it was only possible to treat diabetes with pig insulin, which caused allergic reactions in humans because of differences in the gene product. In addition, human growth hormone (HGH) is used to treat growth disorders in children. The HGH gene was cloned from a cDNA library and inserted into <emphasis effect="italics">E. coli</emphasis> cells by cloning it into a bacterial vector.</para>
 </section>
 
-<section id="fs-id1237723" class="ost-get-exercise">
+<section id="fs-id1237723" class="">
 <title>Transgenic Animals</title>
 <para id="fs-id1269902">Although several recombinant proteins used in medicine are successfully produced in bacteria, some proteins require a eukaryotic animal host for proper processing. For this reason, the desired genes are cloned and expressed in animals, such as sheep, goats, chickens, and mice. Animals that have been modified to express recombinant DNA are called transgenic animals. Several human proteins are expressed in the milk of transgenic sheep and goats, and some are expressed in the eggs of chickens. Mice have been used extensively for expressing and studying the effects of recombinant genes and mutations.</para>
 </section>
 
-<section id="fs-id1961722" class="ost-get-exercise">
+<section id="fs-id1961722" class="">
 <title>Transgenic Plants</title>
 <para id="fs-id1519760">Manipulating the DNA of plants (i.e., creating GMOs) has helped to create desirable traits, such as disease resistance, herbicide and pesticide resistance, better nutritional value, and better shelf-life (<link target-id="fig-ch17_01_09"/>). Plants are the most important source of food for the human population. Farmers developed ways to select for plant varieties with desirable traits long before modern-day biotechnology practices were established.</para>
 <figure id="fig-ch17_01_09"><media id="fs-id1911662" alt="Photo shows corn cobs with different colors, including yellow, white, red, and a mixture of these colors.">
@@ -276,18 +245,18 @@ Alter a plant RNA virus to contain the gene for herbicide resistance. Use the vi
 </media>
 <caption>Corn, a major agricultural crop used to create products for a variety of industries, is often modified through plant biotechnology. (credit: Keith Weller, USDA)</caption></figure><para id="fs-id1280075">Plants that have received recombinant DNA from other species are called transgenic plants. Because they are not natural, transgenic plants and other GMOs are closely monitored by government agencies to ensure that they are fit for human consumption and do not endanger other plant and animal life. Because foreign genes can spread to other species in the environment, extensive testing is required to ensure ecological stability. Staples like corn, potatoes, and tomatoes were the first crop plants to be genetically engineered.</para>
 
-<section id="fs-id1280120" class="ost-get-exercise">
+<section id="fs-id1280120" class="">
 <title>Transformation of Plants Using <emphasis effect="italics">Agrobacterium tumefaciens</emphasis></title>
 <para id="fs-id1812768">Gene transfer occurs naturally between species in microbial populations. Many viruses that cause human diseases act by incorporating their DNA into the human genome. In plants, tumors caused by the bacterium <emphasis effect="italics">Agrobacterium tumefaciens</emphasis> occur by transfer of DNA from the bacterium to the plant. Although the tumors do not kill the plants, they make the plants stunted and more susceptible to harsh environmental conditions. Many plants, such as walnuts, grapes, nut trees, and beets, are affected by <emphasis effect="italics">A. tumefaciens</emphasis>. The artificial introduction of DNA into plant cells is more challenging than in animal cells because of the thick plant cell wall.</para>
 <para id="fs-id3332735">Researchers used the natural transfer of DNA from <emphasis effect="italics">Agrobacterium</emphasis> to a plant host to introduce DNA fragments of their choice into plant hosts. In nature, the disease-causing <emphasis effect="italics">A. tumefaciens</emphasis> have a set of plasmids, called the <term id="term-00027">Ti plasmids</term> (tumor-inducing plasmids), that contain genes for the production of tumors in plants. DNA from the Ti plasmid integrates into the infected plant cell’s genome. Researchers manipulate the Ti plasmids to remove the tumor-causing genes and insert the desired DNA fragment for transfer into the plant genome.  The Ti plasmids carry antibiotic resistance genes to aid selection and can be propagated in <emphasis effect="italics">E. coli</emphasis> cells as well.</para>
 </section>
 
-<section id="fs-id1384948" class="ost-get-exercise">
+<section id="fs-id1384948" class="">
 <title>The Organic Insecticide <emphasis effect="italics">Bacillus thuringiensis</emphasis></title>
 <para id="fs-id1270917"><emphasis effect="italics">Bacillus thuringiensis</emphasis> (Bt) is a bacterium that produces protein crystals during sporulation that are toxic to many insect species that affect plants. Bt toxin has to be ingested by insects for the toxin to be activated. Insects that have eaten Bt toxin stop feeding on the plants within a few hours. After the toxin is activated in the intestines of the insects, death occurs within a couple of days. Modern biotechnology has allowed plants to encode their own crystal Bt toxin that acts against insects. The crystal toxin genes have been cloned from Bt and introduced into plants. Bt toxin has been found to be safe for the environment, non-toxic to humans and other mammals, and is approved for use by organic farmers as a natural insecticide.</para>
 </section>
 
-<section id="fs-id1386358" class="ost-get-exercise">
+<section id="fs-id1386358" class="">
 <title>Flavr Savr Tomato</title>
 <para id="fs-id1453957">The first GM crop was in 1994. It was a tomato that resisted rotting and maintained flavor for longer periods of time. Antisense RNA technology was used to slow down the process of softening and rotting caused by fungal infections, which led to increased shelf life of the GM tomatoes. Additional genetic modification improved the flavor of this tomato. This GM tomato did not successfully stay in the market because of problems maintaining and shipping the crop.</para>
 </section>

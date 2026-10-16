@@ -19,37 +19,35 @@
 <section id="fs-id1167063486539" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167060075394">Speciation can both occur gradually over time in small steps or in bursts of change known as punctuated equilibrium. With punctuated equilibrium, a species may remain unchanged for long periods of time. The primary influencing factor on changes in speciation rate is environmental change.</para>
-<para id="fs-id1167067259172" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167067259172" class="ost-reading-discard">IThe information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 7.10 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167063563909" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.C.1 Speciation and extinction have occurred throughout Earth’s history. Second left cell reads: Science Practice. Second right cell reads: 5.1 The student can analyze data to identify patterns or relationships. Third left cell reads: Learning Objective. Third right cell reads: 1.20 The student is able to analyze data related to questions of speciation and extinction throughout the Earth’s history." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.C</emphasis></entry>
-<entry class="ost-standards-description">Life continues to evolve within a changing environment.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.C.1 </emphasis></span>
-<span class="ost-standards-description">Speciation and extinction have occurred throughout Earth’s history.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.1 </emphasis></span>
-<span class="ost-standards-description">The student can analyze data to identify patterns or relationships.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch18-s03-aplo-1-20">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.20 </emphasis></span>
-<span class="ost-standards-description">The student is able to analyze data related to questions of speciation and extinction throughout the Earth’s history.</span>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.
 </entry>
 </row>
-</tbody>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.10 Speciation</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.10.B Describe the rate of evolution and speciation under different ecological conditions.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.10.B.1 Punctuated equilibrium is when evolution occurs rapidly after a long period of stasis. Gradualism is when evolution occurs slowly over hundreds of thousands or millions of years.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.B Visual Representations- Explain relationships between characteristics of biological models in both theoretical and applied contexts.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
+</row>
 
-</tgroup>
+</tbody></tgroup>
 </table></section>
 <note id="fs-id1167063419311" class="os-teacher">
 <label>Teacher Support</label>
@@ -63,11 +61,11 @@
 </note>
 </note>
 <para id="fs-idp80045424">Speciation occurs over a span of evolutionary time, so when a new species arises, there is a transition period during which the closely related species continue to interact.</para>
-<section id="fs-idp108462176" class="ost-tag-lo-apbio-ch18-s03-lo01 ost-get-exercise">
+<section id="fs-idp108462176">
 <title>Reconnection</title>
 <para id="fs-idm66830160">After speciation, two species may continue interacting indefinitely or even recombine. Individual organisms will mate with any nearby individual who they are capable of breeding with. An area where two closely related species continue to interact and reproduce, forming hybrids, is called a <emphasis>hybrid zone</emphasis>. Over time, the hybrid zone may change depending on the fitness of the hybrids and the reproductive barriers (<link target-id="fig-ch18_03_01"/>). If the hybrids are less fit than the parents, reinforcement of speciation occurs, and the species continue to diverge until they can no longer mate and produce viable offspring. If reproductive barriers weaken, fusion occurs and the two species become one. Barriers remain the same if hybrids are fit and reproductive: stability may occur and hybridization continues.</para>
 <note id="fs-idm1826256" class="visual-connection ost-assessed-feature">
-<figure id="fig-ch18_03_01" class="ost-tag-lo-apbio-ch18-s03-lo01"><media id="fs-idm58832" alt="Three different possible changes in the hybrid zone may occur over time. The first possible change, reinforcement, results when hybrids are less fit than either purebred species. Like a fork in the road, the species continue to diverge until hybridization no longer occurs. The second possible change, fusion, results when reproductive barriers weaken until two species become one. In this scenario species initially diverge, but then join together. In the third scenario, stability, fit hybrids continue to be produced at a steady rate.">
+<figure id="fig-ch18_03_01"><media id="fs-idm58832" alt="Three different possible changes in the hybrid zone may occur over time. The first possible change, reinforcement, results when hybrids are less fit than either purebred species. Like a fork in the road, the species continue to diverge until hybridization no longer occurs. The second possible change, fusion, results when reproductive barriers weaken until two species become one. In this scenario species initially diverge, but then join together. In the third scenario, stability, fit hybrids continue to be produced at a steady rate.">
 <image mime-type="image/png" src="../../media/Figure_18_03_01.png" width="420"/>
 </media>
 <caption>After speciation has occurred, the two separate but closely related species may continue to produce offspring in an area called the hybrid zone. Reinforcement, fusion, or stability may result, depending on reproductive barriers and the relative fitness of the hybrids.</caption></figure>
@@ -83,12 +81,12 @@
 </exercise>
 </note>
 <para id="fs-idp8416320">Hybrids can be either less fit than the parents, more fit, or about the same. Usually hybrids tend to be less fit; therefore, such reproduction diminishes over time, nudging the two species to diverge further in a process called <emphasis>reinforcement</emphasis>. This term is used because the low success of the hybrids reinforces the original speciation. If the hybrids are as fit or more fit than the parents, the two species may fuse back into one species (<link target-id="fig-ch18_03_02"/>). Scientists have also observed that sometimes two species will remain separate but also continue to interact to produce some hybrid individuals; this is classified as stability because no real net change is taking place.</para></section>
-<section id="fs-idp497664" class="ost-tag-lo-apbio-ch18-s03-lo02 ost-tag-lo-apbio-ch18-s03-aplo-1-20 ost-get-exercise">
+<section id="fs-idp497664" class="ost-tag-lo-apbio-ch18-s03-lo02 ost-tag-lo-apbio-ch18-s03-aplo-1-20">
 <title>Varying Rates of Speciation</title>
 <para id="fs-idm7342480">Scientists around the world study speciation, documenting observations both of living organisms and those found in the fossil record. As their ideas take shape and as research reveals new details about how life evolves, they develop models to help explain rates of speciation. In terms of how quickly speciation occurs, two patterns are currently observed: gradual speciation model and punctuated equilibrium model.</para>
 <para id="fs-idp24246288">In the <emphasis>gradual speciation model</emphasis>, species diverge gradually over time in small steps. In the <emphasis>punctuated equilibrium</emphasis> model, a new species undergoes changes quickly from the parent species, and then remains largely unchanged for long periods of time afterward (<link target-id="fig-ch18_03_02"/>). This early change model is called punctuated equilibrium, because it begins with a punctuated or periodic change and then remains in balance afterward. While punctuated equilibrium suggests a faster tempo, it does not necessarily exclude gradualism.</para>
 <note id="fs-idp167977744" class="visual-connection ost-assessed-feature">
-<figure id="fig-ch18_03_02" class="ost-tag-lo-apbio-ch18-s03-lo01"><media id="fs-idp57861136" alt="In the gradual speciation example, a founder species of bird diverges into one species with a hooked beak, and another with strait beak. Over time, through gradual intermediate stages, the hooked beak gets longer and thinner, and the straight beak gets shorter and fatter. In the punctuated equilibrium example, as in the graduated speciation example, the founder species diverges into one species with a hooked break and another with a straight beak. However, in this case the hooked and straight beaks remain unchanged for a significant period of time, and only then give rise to long, thin and short, fat beaks.">
+<figure id="fig-ch18_03_02"><media id="fs-idp57861136" alt="In the gradual speciation example, a founder species of bird diverges into one species with a hooked beak, and another with strait beak. Over time, through gradual intermediate stages, the hooked beak gets longer and thinner, and the straight beak gets shorter and fatter. In the punctuated equilibrium example, as in the graduated speciation example, the founder species diverges into one species with a hooked break and another with a straight beak. However, in this case the hooked and straight beaks remain unchanged for a significant period of time, and only then give rise to long, thin and short, fat beaks.">
 <image mime-type="image/png" src="../../media/Figure_18_03_02-96a7.png" width="525"/>
 </media>
 <caption>In (a) gradual speciation, species diverge at a slow, steady pace as traits change incrementally. In (b) punctuated equilibrium, species diverge quickly and then remain unchanged for long periods of time.</caption></figure>

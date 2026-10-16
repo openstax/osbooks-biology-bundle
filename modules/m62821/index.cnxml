@@ -18,55 +18,39 @@
 
 <section id="fs-id1167063466225" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167067031058">Proposed independently by Sutton and Boveri in the early 1900s, the Chromosomal Theory of Inheritance states that chromosomes are vehicles of genetic heredity. As we have discovered, patterns of inheritance are more complex than Mendel could have imagined. Mendel was investigating the behavior of genes. He was fortunate in choosing traits coded by genes that happened to be on different chromosomes or far apart on the same chromosome. When genes are linked or near each other on the same chromosome, patterns of segregation and independent assortment change. In 1913, Sturtevant devised a method to assess recombination frequency and infer the relative positions and distances of linked genes on a chromosome based on the average number of crossovers between them during meiosis.</para>
-<para id="fs-id1167067232323">The content presented in this section supports the Learning Objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives merge essential knowledge content with one or more of the seven Science Practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> exam questions.</para><table id="fs-id1167067133344" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.2 In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization. Second left cell reads: Science Practice. Second right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Third left cell reads: Learning Objective. Third right cell reads: 3.10 The student is able to represent the connection between meiosis and increased genetic diversity necessary for evolution." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167067232323">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 5.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+<table id="fs-id1167067133344" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.2 In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization. Second left cell reads: Science Practice. Second right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Third left cell reads: Learning Objective. Third right cell reads: 3.10 The student is able to represent the connection between meiosis and increased genetic diversity necessary for evolution." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.2 </emphasis></span>
-<span class="ost-standards-description"> In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice </emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
-<span class="ost-standards-description"> The student can connect phenomena and models across spatial and temporal scales.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch13-s01-aplo-3-10">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.10 </emphasis></span>
-<span class="ost-standards-description"> The student is able to represent the connection between meiosis and increased genetic diversity necessary for evolution.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>5.4 Non-Mendelian Genetics</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.4 A Explain deviations from Mendel’s model of the inheritance of traits.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.4.A.1 Patterns of inheritance of many traits do not follow the ratios predicted by Mendel’s laws and can be identified by quantitative analysis, when the observed phenotypic ratios statistically differ from the predicted ratios.<newline/>
+i. Genes located on the same chromosome are referred to as being genetically linked. The probability that these linked genes segregate together during meiosis can be used to calculate the map distance (or map units) between them on a chromosome. This calculation is called gene or genetic mapping.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.A Statistical Tests and Data Analysis- Perform mathematical calculations, including:<newline/>
+i. mathematical equations in the curriculum<newline/>
+ii. means<newline/>
+iii. rates<newline/>
+iv. ratios <newline/>
+v. percentages and percent changes</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.C Statistical Tests and Data Analysis- Perform chi-square hypothesis testing</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.3 </emphasis></span>
-<span class="ost-standards-description"> The chromosomal basis of inheritance provides an understanding of the pattern of passage (transmission) of genes from parent to offspring.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description"> The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch13-s01-aplo-3-12">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.12 </emphasis></span>
-<span class="ost-standards-description"> The student is able to construct a representation that connects the process of meiosis to the passage of traits from parent to offspring.</span>
-</entry>
-</row>
 </tbody>
 
 
@@ -78,9 +62,9 @@
 <para id="fs-id1167066861839">Students can read about linked genes and Mendel’s work in this <link window="new" url="https://openstax.org/l/32linkedgenes">article</link>.</para>
 <para id="fs-id1167063786114">Have students work through inheritance scenarios where genes are linked and where they are on different chromosomes using the following <link window="new" url="https://openstax.org/l/32dragon">activity sheet</link>.</para><para id="fs-id1167066863322">Teacher preparation notes for this activity are available <link window="new" url="https://openstax.org/l/32dragontp">here</link>.</para>
 </note>
-<para id="fs-id1166848773369">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.2][APLO 3.11][APLO 3.14][APLO 3.15][APLO 3.28][APLO 3.26][APLO 3.17][APLO 4.22]</para><para id="fs-id2021443">Long before chromosomes were visualized under a microscope, the father of modern genetics, Gregor Mendel, began studying heredity in 1843. With the improvement of microscopic techniques during the late 1800s, cell biologists could stain and visualize subcellular structures with dyes and observe their actions during cell division and meiosis. With each mitotic division, chromosomes replicated, condensed from an amorphous (no constant shape) nuclear mass into distinct X-shaped bodies (pairs of identical sister chromatids), and migrated to separate cellular poles.</para>
-<section id="fs-id2904526" class="ost-tag-lo-apbio-ch13-s01-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-12 ost-get-exercise">
+<para id="fs-id1166848773369">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam. 
+</para>
+<section id="fs-id2904526" class="ost-tag-lo-apbio-ch13-s01-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-12">
 <title>Chromosomal Theory of Inheritance</title>
 <para id="fs-id1406190">The speculation that chromosomes might be the key to understanding heredity led several scientists to examine Mendel’s publications and re-evaluate his model in terms of the behavior of chromosomes during mitosis and meiosis. In 1902, Theodor Boveri observed that proper embryonic development of sea urchins does not occur unless chromosomes are present. That same year, Walter Sutton observed the separation of chromosomes into daughter cells during meiosis (<link target-id="fig-ch13_01_01"/>). Together, these observations led to the development of the <term id="term-00001">Chromosomal Theory of Inheritance</term>, which identified chromosomes as the genetic material responsible for Mendelian inheritance.</para>
 <figure id="fig-ch13_01_01"><media id="fs-id2011864" alt="Part a is a photo of Walter Sutton. Part b is a photo of Theodor Boveri.">
@@ -95,10 +79,10 @@
 <item>The gametic chromosomes combine during fertilization to produce offspring with the same chromosome number as their parents.</item>
 </list>
 <para id="fs-id2335848">Despite the lack of direct evidence that chromosomes carry traits, the compelling correlation between chromosome behavior during meiosis and Mendel's abstract laws led scientists to propose the Chromosomal Theory of Inheritance. Critics pointed out that individuals had far more independently segregating traits than they had chromosomes. It was only after several years of carrying out crosses with the fruit fly, <emphasis effect="italics">Drosophila melanogaster</emphasis>, that Thomas Hunt Morgan provided experimental evidence to support the Chromosomal Theory of Inheritance.</para></section>
-<section id="fs-id1396027" class="ost-tag-lo-apbio-ch13-s01-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-12 ost-get-exercise">
+<section id="fs-id1396027" class="ost-tag-lo-apbio-ch13-s01-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-12">
 <title>Genetic Linkage and Distances</title>
 <para id="fs-id1780491">Mendel’s work suggested that traits are inherited independently of each other. Morgan identified a 1:1 correspondence between a segregating trait and the X chromosome, suggesting that the random segregation of chromosomes was the physical basis of Mendel’s model. This also demonstrated that linked genes disrupt Mendel’s predicted outcomes. The fact that each chromosome can carry many linked genes explains how individuals can have many more traits than they have chromosomes. However, observations by researchers in Morgan’s laboratory suggested that alleles positioned on the same chromosome were not always inherited together. During meiosis, linked genes somehow became unlinked.</para>
-<section id="fs-id2571351" class="ost-get-exercise">
+<section id="fs-id2571351" class="">
 <title>Homologous Recombination</title>
 <para id="fs-id2047023">In 1909, Frans Janssen observed chiasmata—the point at which chromatids are in contact with each other and may exchange segments—prior to the first division of meiosis. He suggested that alleles become unlinked and chromosomes physically exchange segments. As chromosomes condensed and paired with their homologs, they appeared to interact at distinct points. Janssen suggested that these points corresponded to regions in which chromosome segments were exchanged. It is now known that the pairing and interaction between homologous chromosomes, known as synapsis, does more than simply organize the homologs for migration to separate daughter cells. When synapsed, homologous chromosomes undergo reciprocal physical exchanges at their arms in a process called <term id="term-00002">homologous recombination</term>, or more simply, “crossing over.”</para>
 <para id="fs-id1468864">To better understand the type of experimental results that researchers were obtaining at this time, consider a heterozygous individual that inherited dominant maternal alleles for two genes on the same chromosome (such as<emphasis effect="italics"> AB</emphasis>) and two recessive paternal alleles for those same genes (such as <emphasis effect="italics">ab</emphasis>). If the genes are linked, one would expect this individual to produce gametes that are either <emphasis effect="italics">AB</emphasis> or <emphasis effect="italics">ab</emphasis> with a 1:1 ratio. If the genes are unlinked, the individual should produce <emphasis effect="italics">AB</emphasis>, <emphasis effect="italics">Ab</emphasis>, <emphasis effect="italics">aB</emphasis>, and <emphasis effect="italics">ab</emphasis> gametes with equal frequencies, according to the Mendelian concept of independent assortment. Because they correspond to new allele combinations, the genotypes Ab and aB are <term id="term-00003">nonparental types</term> that result from homologous recombination during meiosis. <term id="term-00004">Parental types</term> are progeny that exhibit the same allelic combination as their parents. Morgan and his colleagues, however, found that when such heterozygous individuals were test crossed to a homozygous recessive parent (<emphasis effect="italics">AaBb</emphasis> × <emphasis effect="italics">aabb</emphasis>), both parental and nonparental cases occurred. For example, 950 offspring might be recovered that were either <emphasis effect="italics">AaBb</emphasis> or <emphasis effect="italics">aabb</emphasis>, but 50 offspring would also be obtained that were either <emphasis effect="italics">Aabb</emphasis> or <emphasis effect="italics">aaBb</emphasis>. These results suggested that linkage occurred most often, but a significant minority of offspring were the products of recombination.</para>
@@ -142,7 +126,7 @@
 </para>
 </problem>
 </exercise>
-</note><section id="fs-id1627133" class="ost-get-exercise">
+</note><section id="fs-id1627133" class="">
 <title>Genetic Maps</title>
 <para id="fs-id1645084">Janssen did not have the technology to demonstrate crossing over so it remained an abstract idea that was not widely accepted. Scientists thought chiasmata were a variation on synapsis and could not understand how chromosomes could break and rejoin. Yet, the data were clear that linkage did not always occur. Ultimately, it took a young undergraduate student and an “all-nighter” to mathematically elucidate the problem of linkage and recombination.</para>
 <para id="fs-id1684950">In 1913, Alfred Sturtevant, a student in Morgan’s laboratory, gathered results from researchers in the laboratory, and took them home one night to mull them over. By the next morning, he had created the first “chromosome map,” a linear representation of gene order and relative distance on a chromosome (<link target-id="fig-ch13_01_03"/>).</para>
@@ -171,7 +155,7 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-id1961794" class="ost-get-exercise">
+<section id="fs-id1961794" class="">
 <title>Mendel’s Mapped Traits</title>
 <para id="fs-id1802180">Homologous recombination is a common genetic process, yet Mendel never observed it. Had he investigated both linked and unlinked genes, it would have been much more difficult for him to create a unified model of his data on the basis of probabilistic calculations. Researchers who have since mapped the seven traits investigated by Mendel onto the seven chromosomes of the pea plant genome have confirmed that all of the genes he examined are either on separate chromosomes or are sufficiently far apart as to be statistically unlinked. Some have suggested that Mendel was enormously lucky to select only unlinked genes, whereas others question whether Mendel discarded any data suggesting linkage. In any case, Mendel consistently observed independent assortment because he examined genes that were effectively unlinked.</para>
 </section>

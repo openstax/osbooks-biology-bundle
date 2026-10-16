@@ -18,72 +18,51 @@
 <section id="fs-id1167063630629" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167063619417">Cellular respiration is controlled by a variety of means. For example, the entry of glucose into a cell is controlled by the transport proteins that aid glucose passage through the cell membrane. However, most of the control of the respiration processes is accomplished through negative feedback inhibition of specific enzymes that respond to the intracellular concentrations of ATP, ADP, NAD<sup>+</sup>, and FAD, etc.</para>
-<para id="fs-id1167067138677">Information presented and the examples highlighted in the section support concepts and learning objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167063557757" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.C.1 Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes. Second left cell reads: Science Practice. Second right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Third left cell reads: Learning Objective. Third right cell reads: 2.16 The student is able to connect how organisms use negative feedback to maintain their internal environments." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167067138677">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 4.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+<table id="fs-id1167063557757" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.C.1 Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes. Second left cell reads: Science Practice. Second right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Third left cell reads: Learning Objective. Third right cell reads: 2.16 The student is able to connect how organisms use negative feedback to maintain their internal environments." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
+</row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>4.4 Feedback</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.4.A Explain how positive and negative feedback helps maintain homeostasis</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.4.A.1 Organisms use feedback mechanisms to maintain their internal environments in response to internal and external changes.<newline/>
+i. Negative feedback mechanisms maintain homeostasis by reducing the initial stimulus to regulate physiological processes. If a system is perturbed or disrupted, negative feedback mechanisms return the system back to its target setpoint. These processes operate at the molecular, cellular, and organismal levels.<newline/>
+ii. Positive feedback mechanisms amplify responses and processes in biological organisms. The variable initiating the response is moved further away from the initial set point. Amplification occurs when the stimulus is further intensified, which, in turn, initiates an additional response that produces system change.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.C</emphasis></entry>
-<entry class="ost-standards-description">Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s07-aplo-2-16">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.16 </emphasis></span>
-<span class="ost-standards-description">The student is able to connect how organisms use negative feedback to maintain their internal environments.</span>
-</entry>
-</row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s07-aplo-2-17">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.17 </emphasis></span>
-<span class="ost-standards-description">The student is able to evaluate data that show the effect(s) of changes in concentration of key molecules on negative feedback mechanisms.</span>
-</entry>
-</row>
 </tbody>
 
 
 </tgroup>
 </table></section>
 <para id="fs-id1998871">Cellular respiration must be regulated in order to provide balanced amounts of energy in the form of ATP. The cell also must generate a number of intermediate compounds that are used in the anabolism and catabolism of macromolecules.  Without controls, metabolic reactions would quickly come to a stand-still as the forward and backward reactions reached a state of equilibrium. Resources would be used inappropriately. A cell does not need the maximum amount of ATP that it can make all the time: At times, the cell needs to shunt some of the intermediates to pathways for amino acid, protein, glycogen, lipid, and nucleic acid production. In short, the cell needs to control its metabolism.</para>
-<section id="fs-id1415283" class="ost-tag-lo-apbio-ch07-s07-lo01 ost-get-exercise">
+<section id="fs-id1415283">
 <title>Regulatory Mechanisms</title>
     <para id="fs-id2030121">A variety of mechanisms is used to control cellular respiration. Some type of control exists at each stage of glucose metabolism. Access of glucose to the cell can be regulated using the <term id="term-00001">GLUT proteins</term> that transport glucose (<link target-id="fig-ch07_07_01"/>). Different forms of the GLUT protein control passage of glucose into the cells of specific tissues.</para>
-<figure id="fig-ch07_07_01" class="ost-tag-lo-apbio-ch07-s07-lo01"><media id="fs-id2319045" alt="When insulin in the bloodstream binds the insulin receptor in the plasma membrane of a target cell, a vesicle containing the glucose transporter Glut-4 fuses with the plasma membrane. Glut-4 is a transporter that allows glucose to enter the cell.">
+<figure id="fig-ch07_07_01"><media id="fs-id2319045" alt="When insulin in the bloodstream binds the insulin receptor in the plasma membrane of a target cell, a vesicle containing the glucose transporter Glut-4 fuses with the plasma membrane. Glut-4 is a transporter that allows glucose to enter the cell.">
 <image mime-type="image/jpg" src="../../media/Figure_07_07_01.jpg" width="400"/>
 </media>
 <caption>GLUT4 is a glucose transporter that is stored in vesicles. A cascade of events that occurs upon insulin binding to a receptor in the plasma membrane causes GLUT4-containing vesicles to fuse with the plasma membrane so that glucose may be transported into the cell.</caption></figure><para id="fs-id2011864">Some reactions are controlled by having two different enzymes—one each for the two directions of a reversible reaction. Reactions that are catalyzed by only one enzyme can go to equilibrium, stalling the reaction. In contrast, if two different enzymes (each specific for a given direction) are necessary for a reversible reaction, the opportunity to control the rate of the reaction increases, and equilibrium is not reached.</para>
 <para id="fs-id2192483">A number of enzymes involved in each of the pathways—in particular, the enzyme catalyzing the first committed reaction of the pathway—are controlled by attachment of a molecule to an allosteric site on the protein. The molecules most commonly used in this capacity are the nucleotides ATP, ADP, AMP, NAD<sup>+</sup>, and NADH. These regulators, allosteric effectors, may increase or decrease enzyme activity, depending on the prevailing conditions. The allosteric effector alters the steric structure of the enzyme, usually affecting the configuration of the active site. This alteration of the protein’s (the enzyme’s) structure either increases or decreases its affinity for its substrate, with the effect of increasing or decreasing the rate of the reaction. The attachment signals to the enzyme. This binding can increase or decrease the enzyme’s activity, providing feedback. This feedback type of control is effective as long as the chemical affecting it is attached to the enzyme. Once the overall concentration of the chemical decreases, it will diffuse away from the protein, and the control is relaxed.</para>
 </section>
-<section id="fs-id1464730" class="ost-tag-lo-apbio-ch07-s07-lo01 ost-get-exercise">
+<section id="fs-id1464730">
 <title>Control of Catabolic Pathways</title>
 <para id="fs-id2278262">Enzymes, proteins, electron carriers, and pumps that play roles in glycolysis, the citric acid cycle, and the electron transport chain tend to catalyze non-reversible reactions. In other words, if the initial reaction takes place, the pathway is committed to proceeding with the remaining reactions. Whether a particular enzyme activity is released depends upon the energy needs of the cell (as reflected by the levels of ATP, ADP, and AMP).</para>
-<section id="fs-id1826889" class="ost-get-exercise">
+<section id="fs-id1826889" class="">
 <title>Glycolysis</title>
     <para id="fs-id2164320">The control of glycolysis begins with the first enzyme in the pathway, hexokinase (<link target-id="fig-ch07_07_02"/>). This enzyme catalyzes the phosphorylation of glucose, which helps to prepare the compound for cleavage in a later step. The presence of the negatively charged phosphate in the molecule also prevents the sugar from leaving the cell. When hexokinase is inhibited, glucose diffuses out of the cell and does not become a substrate for the respiration pathways in that tissue. The product of the hexokinase reaction is glucose-6-phosphate, which accumulates when a later enzyme, phosphofructokinase, is inhibited.</para>
 <figure id="fig-ch07_07_02">
@@ -95,10 +74,10 @@
 <para id="fs-id1711910">The last step in glycolysis is catalyzed by pyruvate kinase. The pyruvate produced can proceed to be catabolized or converted into the amino acid alanine. If no more energy is needed and alanine is in adequate supply, the enzyme is inhibited. The enzyme’s activity is increased when fructose-1,6-bisphosphate levels increase. (Recall that fructose-1,6-bisphosphate is an intermediate in the first half of glycolysis.) The regulation of pyruvate kinase involves phosphorylation by kinase, resulting in a less-active enzyme. Dephosphorylation by a phosphatase reactivates it. Pyruvate kinase is also regulated by ATP (a negative allosteric effect).</para>
 <para id="fs-id1770620">If more energy is needed, more pyruvate will be converted into acetyl CoA through the action of pyruvate dehydrogenase. If either acetyl groups or NADH accumulate, there is less need for the reaction and the rate decreases. Pyruvate dehydrogenase is also regulated by phosphorylation: A kinase phosphorylates it to form an inactive enzyme, and a phosphatase reactivates it. The kinase and the phosphatase are also regulated.</para>
 </section>
-<section id="fs-id1756482" class="ost-get-exercise">
+<section id="fs-id1756482" class="">
 <title>Citric Acid Cycle</title>
     <para id="fs-id2051223">The citric acid cycle is controlled through the enzymes that catalyze the reactions that make the first two molecules of NADH (<link target-id="fig-ch07_03_02" document="m62788"/>). These enzymes are isocitrate dehydrogenase and <emphasis effect="italics">α</emphasis>‑ketoglutarate dehydrogenase. When adequate ATP and NADH levels are available, the rates of these reactions decrease. When more ATP is needed, as reflected in rising ADP levels, the rate increases.   <emphasis effect="italics">α</emphasis>-ketoglutarate dehydrogenase will also be affected by the levels of succinyl CoA—a subsequent intermediate in the cycle—causing a decrease in activity. A decrease in the rate of operation of the pathway at this point is not necessarily negative, as the increased levels of the <emphasis effect="italics">α</emphasis>-ketoglutarate not used by the citric acid cycle can be used by the cell for amino acid (glutamate) synthesis.</para></section>
-<section id="fs-id3086527" class="ost-get-exercise">
+<section id="fs-id3086527" class="">
 <title>Electron Transport Chain</title>
 <para id="fs-id2317654">Specific enzymes of the electron transport chain are unaffected by feedback inhibition, but the rate of electron transport through the pathway is affected by the levels of ADP and ATP. Greater ATP consumption by a cell is indicated by a buildup of ADP. As ATP usage decreases, the concentration of ADP decreases, and now, ATP begins to build up in the cell. This change in the relative concentration of ADP to ATP triggers the cell to slow down the electron transport chain.</para><note id="fs-id2121507" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch07-s07-lo01"><label>Link to Learning</label>
 <para id="fs-id2054751">Visit this <link window="new" url="https://openstax.org/l/electron_transp">site</link> to see an animation of the electron transport chain and ATP synthesis.</para>

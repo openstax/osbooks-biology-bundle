@@ -20,51 +20,60 @@
 
 <section id="fs-id1167066993013" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167067043644">Just like you communicate with your classmates face-to-face, using your phone, or via e-mail, cells communicate with each other by both inter’and intracellular signaling. Cells detect and respond to changes in the environment using signaling pathways. Signaling pathways enable organisms to coordinate cellular activities and metabolic processes. Errors in these pathways can cause disease. Signaling cells secrete molecules called ligands that bind to target cells and initiate a chain of events within the target cell. For example, when epinephrine is released, binding to target cells, those cells respond by converting glycogen to glucose. Cell communication can happen over short distances. For example, neurotransmitters are released across a synapse to transfer messages between neurons <link target-id="fig-ch09_01_02"/>. Gap junctions and plasmodesmata allow small molecules, including signaling molecules, to flow between neighboring cells. Cell communication can also happen over long distances using. For example, hormones released from endocrine cells travel to target cells in multiple body systems. How does a ligand such as a hormone traveling through the bloodstream “know” when it has reached its target organ to initiate a cellular response? Nearly all cell signaling pathways involve three stages: reception, signal transduction, and cellular response.</para><para id="fs-id1167067232726">Cell signaling pathways begin when the ligand binds to a receptor, a protein that is embedded in the plasma membrane of the target cell or found in the cell cytoplasm. The receptors are very specific, and each ligand is recognized by a different one. This stage of the pathway is called reception. Molecules that are nonpolar, such as steroids, diffuse across the cell membrane and bind to internal receptors. In turn, the receptor-ligand complex moves to the nucleus and interacts with cellular DNA. This changes how a gene is expressed. Polar ligands, on the other hand, interact with membrane receptor protein. Some membrane receptors work by changing conformation so that certain ions, such as Na<sup>+</sup> and K<sup>+</sup>, can pass through the plasma membrane. Other membrane receptors interact with a G-protein on the cytoplasmic side of the plasma membrane, which causes a series of reactions inside the cell. Disruptions to this process are linked to several diseases, including cholera.</para>
 <para id="fs-id1167067034832">It is important to keep in mind that each cell has a variety of receptors, allowing it to respond to a variety of stimuli. Some receptors can bind several different ligands; for example, odorant molecules/receptors associated with the sense of smell in animals. Once the signaling molecule and receptor interact, a cascade of events called signal transduction usually amplifies the signal inside the cell.</para>
-<para id="fs-id1167067210414" class="ost-reading-discard">The content presented in this section supports the Learning Objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework listed. The AP<sup>®</sup> Learning Objectives merge Essential knowledge content with one or more of the seven Science Practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> Exam questions.</para><table id="fs-id1167066949510" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.3 Signal transduction pathways link signal reception with cellular response. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 3.34 The student is able to construct explanations of cell communication through cell-to-cell direct contact or through chemical signaling." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167067210414" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 4.1 and 4.2 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para><table id="fs-id1167066949510" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.3 Signal transduction pathways link signal reception with cellular response. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 3.34 The student is able to construct explanations of cell communication through cell-to-cell direct contact or through chemical signaling." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.D</emphasis></entry>
-<entry class="ost-standards-description">Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.D.3</emphasis></span>
-<span class="ost-standards-description">Signal transduction pathways link signal reception with cellular response.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch09-s01-aplo-3-34">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.34</emphasis></span>
-<span class="ost-standards-description">The student is able to construct explanations of cell communication through cell-to-cell direct contact or through chemical signaling.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>4.1 Cell Communication</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.1.A Describe the ways that cells can communicate with one another.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.D.3</emphasis></span>
-<span class="ost-standards-description">Signal transduction pathways link signal reception with cellular response.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1</emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch09-s01-aplo-3-35">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.35</emphasis></span>
-<span class="ost-standards-description">The student is able to create representations that depict how cell-to-cell communication occurs by direct contact or from a distance through chemical signaling.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.1.A.1 Cells communicate with one another through direct contact with other cells or from a distance via chemical signaling.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.1.B Explain how cells communicate with one another over short and long distances.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.1.B.1 Cells communicate over short distances by using local regulators that target cells in the vicinity of the signal-emitting cell.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.1.B.2 Signals released by one cell type can travel long distances to target cells of another type.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.B Concept Explanation- Explain biological concepts and processes.</entry>
+</row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>4.2 Introduction to Signal Transduction</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.2.B Describe the role of components of a signal transduction pathway in producing a cellular response.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.2.B.1 Signaling begins with the recognition of a chemical messenger-a ligand-by a receptor protein in a target cell.<newline/>
+i. The ligand-binding domain of a receptor recognizes a specific chemical messenger, which can be a peptide (protein) or a small molecule.<newline/>
+ii. G-protein-coupled receptors are an example of a receptor protein in eukaryotes.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.2.B.2 Signaling cascades relay signals from receptors to cell targets, often amplifying the incoming signals, resulting in the appropriate responses by the cell. Responses could include cell growth, secretion of molecules, or gene expression.<newline/>
+iii. Hormones are an example of a signaling messenger that can travel long distances in the bloodstream.<newline/>
+iv. The binding of ligands to ligand-gated channels can cause the channels to open or close.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.A Concept Explanation- Describe biological concepts and processes.</entry>
 </row>
 </tbody>
 
@@ -115,15 +124,15 @@
 <para id="fs-id1167065879555">Distribute large sheets of paper and markers. Divide the class in groups and assign each group a specific type of receptor: ion channel-linked receptors (gated ion channels), G-protein-linked receptors, receptor tyrosine kinases, and internal (intracellular) receptors. More than one group of students may work on the same receptor. Ask students to set up a concept map starting with signal types: water soluble molecules or lipophilic molecules for each receptor molecule. For each receptor type, diagram the second messenger and amplification scheme. Allow enough time to create the posters and ask each group to present the receptor to the class. Here the goal is to divide and conquer the receptors because cellular signaling is confusing. Show <link window="new" url="https://openstax.org/l/32mapkinase">this animation</link> from Davidson College in class or provide a link for later view by students.</para></note>
 
 </note><para id="fs-id1167067052597"/><para id="fs-id1167067069258"/>
-<para id="fs-id1166848967695">The Science Practice Challenge Questions contain contains additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.33][APLO 3.36]</para><para id="fs-id1235407">There are two kinds of communication in the world of living cells. Communication between cells is called <term id="term-00001">intercellular signaling</term>, and communication within a cell is called <term id="term-00002">intracellular signaling</term>. An easy way to remember the distinction is by understanding the Latin origin of the prefixes: inter- means "between" (for example, intersecting lines are those that cross each other) and intra- means "inside" (like intravenous).</para><para id="fs-id1425278">Chemical signals are released by <term id="term-00003">signaling cells</term> in the form of small, usually volatile or soluble molecules called ligands. A <term id="term-00004">ligand</term> is a molecule that binds another specific molecule, in some cases, delivering a signal in the process. Ligands can thus be thought of as signaling molecules. Ligands interact with proteins in <term id="term-00005">target cells</term>, which are cells that are affected by chemical signals; these proteins are also called <term id="term-00006">receptors</term>. Ligands and receptors exist in several varieties; however, a specific ligand will have a specific receptor that typically binds only that ligand.</para>
-<section id="fs-id2228913" class="ost-tag-lo-apbio-ch09-s01-lo01 ost-tag-lo-apbio-ch09-s01-aplo-3-34 ost-get-exercise">
+<para id="fs-id1166848967695">The Science Practice Challenge Questions contain contains additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
+<para id="fs-id1235407">There are two kinds of communication in the world of living cells. Communication between cells is called <term id="term-00001">intercellular signaling</term>, and communication within a cell is called <term id="term-00002">intracellular signaling</term>. An easy way to remember the distinction is by understanding the Latin origin of the prefixes: inter- means "between" (for example, intersecting lines are those that cross each other) and intra- means "inside" (like intravenous).</para><para id="fs-id1425278">Chemical signals are released by <term id="term-00003">signaling cells</term> in the form of small, usually volatile or soluble molecules called ligands. A <term id="term-00004">ligand</term> is a molecule that binds another specific molecule, in some cases, delivering a signal in the process. Ligands can thus be thought of as signaling molecules. Ligands interact with proteins in <term id="term-00005">target cells</term>, which are cells that are affected by chemical signals; these proteins are also called <term id="term-00006">receptors</term>. Ligands and receptors exist in several varieties; however, a specific ligand will have a specific receptor that typically binds only that ligand.</para>
+<section id="fs-id2228913" class="ost-tag-lo-apbio-ch09-s01-lo01 ost-tag-lo-apbio-ch09-s01-aplo-3-34">
 <title>Forms of Signaling</title>
 <para id="fs-id1998718">There are four categories of chemical signaling found in multicellular organisms: paracrine signaling, endocrine signaling, autocrine signaling, and direct signaling across gap junctions (<link target-id="fig-ch09_01_01"/>). The main difference between the different categories of signaling is the distance that the signal travels through the organism to reach the target cell. Not all cells are affected by the same signals.</para>
 <figure id="fig-ch09_01_01" class="ost-tag-lo-apbio-ch09-s01-lo01 ost-tag-lo-apbio-ch09-s01-aplo-3-35"><media id="fs-id2199785" alt="The illustration shows four forms of chemical signaling. In autocrine signaling, a cell targets itself. In signaling across a gap junction, a cell targets a cell connected via gap junctions. In paracrine signaling, a cell targets a nearby cell. In endocrine signaling, a cell targets a distant cell via the bloodstream">
 <image mime-type="image/jpg" src="../../media/Figure_09_01_01.jpg" width="415"/>
 </media>
-<caption>In chemical signaling, a cell may target itself (autocrine signaling), a cell connected by gap junctions, a nearby cell (paracrine signaling), or a distant cell (endocrine signaling). Paracrine signaling acts on nearby cells, endocrine signaling uses the circulatory system to transport ligands, and autocrine signaling acts on the signaling cell. Signaling via gap junctions involves signaling molecules moving directly between adjacent cells.</caption></figure><section id="fs-id2195691" class="ost-tag-lo-apbio-ch09-s01-lo01 ost-tag-lo-apbio-ch09-s01-aplo-3-34 ost-get-exercise">
+<caption>In chemical signaling, a cell may target itself (autocrine signaling), a cell connected by gap junctions, a nearby cell (paracrine signaling), or a distant cell (endocrine signaling). Paracrine signaling acts on nearby cells, endocrine signaling uses the circulatory system to transport ligands, and autocrine signaling acts on the signaling cell. Signaling via gap junctions involves signaling molecules moving directly between adjacent cells.</caption></figure><section id="fs-id2195691" class="ost-tag-lo-apbio-ch09-s01-lo01 ost-tag-lo-apbio-ch09-s01-aplo-3-34">
 <title>Paracrine Signaling</title>
 <para id="fs-id1379855">Signals that act locally between cells that are close together are called <term id="term-00007">paracrine signals</term>. Paracrine signals move by diffusion through the extracellular matrix. These types of signals usually elicit quick responses that last only a short amount of time. In order to keep the response localized, paracrine ligand molecules are normally quickly degraded by enzymes or removed by neighboring cells. Removing the signals will reestablish the concentration gradient for the signal, allowing them to quickly diffuse through the intracellular space if released again.</para><para id="fs-id1723737">One example of paracrine signaling is the transfer of signals across synapses between nerve cells. A nerve cell consists of a cell body, several short, branched extensions called dendrites that receive stimuli, and a long extension called an axon, which transmits signals to other nerve cells or muscle cells. The junction between nerve cells where signal transmission occurs is called a synapse. A <term id="term-00008">synaptic signal</term> is a chemical signal that travels between nerve cells. Signals within the nerve cells are propagated by fast-moving electrical impulses. When these impulses reach the end of the axon, the signal continues on to a dendrite of the next cell by the release of chemical ligands called <term id="term-00009">neurotransmitters</term> by the presynaptic cell (the cell emitting the signal). The neurotransmitters are transported across the very small distances between nerve cells, which are called <term id="term-00010">chemical synapses</term> (<link target-id="fig-ch09_01_02"/>). The small distance between nerve cells allows the signal to travel quickly; this enables an immediate response, such as, Take your hand off the stove!</para>
 <para id="fs-id1778097">When the neurotransmitter binds the receptor on the surface of the postsynaptic cell, the electrochemical potential of the target cell changes, and the next electrical impulse is launched. The neurotransmitters that are released into the chemical synapse are degraded quickly or get reabsorbed by the presynaptic cell so that the recipient nerve cell can recover quickly and be prepared to respond rapidly to the next synaptic signal.</para>
@@ -131,29 +140,29 @@
 <image mime-type="image/jpg" src="../../media/Figure_09_01_02.jpg" width="280"/>
 </media>
 <caption>The distance between the presynaptic cell and the postsynaptic cell—called the synaptic gap—is very small and allows for rapid diffusion of the neurotransmitter. Enzymes in the synapatic cleft degrade some types of neurotransmitters to terminate the signal.</caption></figure></section>
-<section id="fs-id1470377" class="ost-tag-lo-apbio-ch09-s01-lo01 ost-tag-lo-apbio-ch09-s01-aplo-3-34 ost-get-exercise">
+<section id="fs-id1470377" class="ost-tag-lo-apbio-ch09-s01-lo01 ost-tag-lo-apbio-ch09-s01-aplo-3-34">
 <title>Endocrine Signaling</title>
 <para id="fs-id2642295">Signals from distant cells are called <term id="term-00011">endocrine signals</term>, and they originate from <term id="term-00012">endocrine cells</term>. (In the body, many endocrine cells are located in endocrine glands, such as the thyroid gland, the hypothalamus, and the pituitary gland.) These types of signals usually produce a slower response but have a longer-lasting effect. The ligands released in endocrine signaling are called hormones, signaling molecules that are produced in one part of the body but affect other body regions some distance away.</para>
 <para id="fs-id1798381">Hormones travel the large distances between endocrine cells and their target cells via the bloodstream, which is a relatively slow way to move throughout the body. Because of their form of transport, hormones get diluted and are present in low concentrations when they act on their target cells. This is different from paracrine signaling, in which local concentrations of ligands can be very high.</para>
 </section>
-<section id="fs-id2270232" class="ost-tag-lo-apbio-ch09-s01-lo01 ost-tag-lo-apbio-ch09-s01-aplo-3-34 ost-get-exercise">
+<section id="fs-id2270232" class="ost-tag-lo-apbio-ch09-s01-lo01 ost-tag-lo-apbio-ch09-s01-aplo-3-34">
 <title>Autocrine Signaling</title>
 <para id="fs-id2338781"><term id="term-00013">Autocrine signals</term> are produced by signaling cells that can also bind to the ligand that is released. This means the signaling cell and the target cell can be the same or a similar cell (the prefix <emphasis effect="italics">auto-</emphasis> means self, a reminder that the signaling cell sends a signal to itself). This type of signaling often occurs during the early development of an organism to ensure that cells develop into the correct tissues and take on the proper function. Autocrine signaling also regulates pain sensation and inflammatory responses.  Further, if a cell is infected with a virus, the cell can signal itself to undergo programmed cell death, killing the virus in the process. In some cases, neighboring cells of the same type are also influenced by the released ligand. In embryological development, this process of stimulating a group of neighboring cells may help to direct the differentiation of identical cells into the same cell type, thus ensuring the proper developmental outcome.</para></section>
-<section id="fs-id1454621" class="ost-tag-lo-apbio-ch09-s01-lo01 ost-tag-lo-apbio-ch09-s01-aplo-3-34 ost-get-exercise">
+<section id="fs-id1454621" class="ost-tag-lo-apbio-ch09-s01-lo01 ost-tag-lo-apbio-ch09-s01-aplo-3-34">
 <title>Direct Signaling Across Gap Junctions</title>
 <para id="fs-id2726979">Gap junctions in animals and plasmodesmata in plants are connections between the plasma membranes of neighboring cells. These fluid-filled channels allow small signaling molecules, called <term id="term-00014">intracellular mediators</term>, to diffuse between the two cells. Small molecules, such as calcium ions (Ca<sup>2+</sup>), are able to move between cells, but large molecules like proteins and DNA cannot fit through the channels. The specificity of the channels ensures that the cells remain independent but can quickly and easily transmit signals. The transfer of signaling molecules communicates the current state of the cell that is directly next to the target cell; this allows a group of cells to coordinate their response to a signal that only one of them may have received. In plants, plasmodesmata are ubiquitous, making the entire plant into a giant communication network.</para></section>
 </section>
-<section id="fs-id1850428" class="ost-tag-lo-apbio-ch09-s01-lo02 ost-get-exercise">
+<section id="fs-id1850428">
 <title>Types of Receptors</title>
 <para id="fs-id2278385">Receptors are protein molecules in the target cell or on its surface that bind ligand. There are two types of receptors, internal receptors and cell-surface receptors.</para>
-<section id="fs-id1352111" class="ost-tag-lo-apbio-ch09-s01-lo02 ost-tag-lo-apbio-ch09-s01-aplo-3-34 ost-get-exercise">
+<section id="fs-id1352111" class="ost-tag-lo-apbio-ch09-s01-lo02 ost-tag-lo-apbio-ch09-s01-aplo-3-34">
 <title>Internal receptors</title>
 <para id="fs-id2235306"><term id="term-00015">Internal receptors</term>, also known as intracellular or cytoplasmic receptors, are found in the cytoplasm of the cell and respond to hydrophobic ligand molecules that are able to travel across the plasma membrane. Once inside the cell, many of these molecules bind to proteins that act as regulators of mRNA synthesis (transcription) to mediate gene expression. Gene expression is the cellular process of transforming the information in a cell's DNA into a sequence of amino acids, which ultimately forms a protein. When the ligand binds to the internal receptor, a conformational change is triggered that exposes a DNA-binding site on the protein. The ligand-receptor complex moves into the nucleus, then binds to specific regulatory regions of the chromosomal DNA and promotes the initiation of transcription (<link target-id="fig-ch09_01_03"/>). Transcription is the process of copying the information in a cells DNA into a special form of RNA called messenger RNA (mRNA); the cell uses information in the mRNA (which moves out into the cytoplasm and associates with ribosomes) to link specific amino acids in the correct order, producing a protein.  Internal receptors can directly influence gene expression without having to pass the signal on to other receptors or messengers.</para>
 <figure id="fig-ch09_01_03" class="ost-tag-lo-apbio-ch09-s01-lo02 ost-tag-lo-apbio-ch09-s01-aplo-3-34"><media id="fs-id1430921" alt="This illustration shows a hydrophobic signaling molecule that diffuses across the plasma membrane and binds an intracellular receptor in the cytoplasm. The intracellular receptor-signaling molecule complex then travels to the nucleus and binds DNA.">
 <image mime-type="image/jpg" src="../../media/Figure_09_01_03.jpg" width="300"/>
 </media>
 <caption>Hydrophobic signaling molecules typically diffuse across the plasma membrane and interact with intracellular receptors in the cytoplasm. Many intracellular receptors are transcription factors that interact with DNA in the nucleus and regulate gene expression.</caption></figure></section>
-<section id="fs-id1446439" class="ost-tag-lo-apbio-ch09-s01-lo02 ost-tag-lo-apbio-ch09-s01-aplo-3-34 ost-get-exercise">
+<section id="fs-id1446439" class="ost-tag-lo-apbio-ch09-s01-lo02 ost-tag-lo-apbio-ch09-s01-aplo-3-34">
 <title>Cell-Surface Receptors</title>
 <para id="fs-id1426300"><term id="term-00016">Cell-surface receptors</term>, also known as transmembrane receptors, are cell surface, membrane-anchored (integral) proteins that bind to external ligand molecules. This type of receptor spans the plasma membrane and performs signal transduction, in which an extracellular signal is converted into an intracellular signal. Ligands that interact with cell-surface receptors do not have to enter the cell that they affect. Cell-surface receptors are also called cell-specific proteins or markers because they are specific to individual cell types.</para><para id="fs-id2854117">Because cell-surface receptor proteins are fundamental to normal cell functioning, it should come as no surprise that a malfunction in any one of these proteins could have severe consequences. Errors in the protein structures of certain receptor molecules have been shown to play a role in hypertension (high blood pressure), asthma, heart disease, and cancer.</para>
 <para id="fs-id3241712">Each cell-surface receptor has three main components: an external ligand-binding domain, a hydrophobic membrane-spanning region, and an intracellular domain inside the cell. The ligand-binding domain is also called the <term id="term-00017">extracellular domain</term>. The size and extent of each of these domains vary widely, depending on the type of receptor.</para>
@@ -198,21 +207,21 @@
 
 </note></section>
 </section>
-<section id="fs-id1237219" class="ost-tag-lo-apbio-ch09-s01-lo03 ost-tag-lo-apbio-ch09-s01-aplo-3-34 ost-get-exercise">
+<section id="fs-id1237219" class="ost-tag-lo-apbio-ch09-s01-lo03 ost-tag-lo-apbio-ch09-s01-aplo-3-34">
 <title>Signaling Molecules</title>
 <para id="fs-id1699942">Produced by signaling cells and the subsequent binding to receptors in target cells, ligands act as chemical signals that travel to the target cells to coordinate responses. The types of molecules that serve as ligands are incredibly varied and range from small proteins to small ions like calcium (Ca<sup>2+</sup>).</para>
-<section id="fs-id1966470" class="ost-get-exercise">
+<section id="fs-id1966470" class="">
 <title>Small Hydrophobic Ligands</title>
 <para id="fs-id1512071">Small hydrophobic ligands can directly diffuse through the plasma membrane and interact with internal receptors. Important members of this class of ligands are the steroid hormones. Steroids are lipids that have a hydrocarbon skeleton with four fused rings; different steroids have different functional groups attached to the carbon skeleton. Steroid hormones include the female sex hormone, estradiol, which is a type of estrogen; the male sex hormone, testosterone; and cholesterol, which is an important structural component of biological membranes and a precursor of steriod hormones (<link target-id="fig-ch09_01_08"/>). Other hydrophobic hormones include thyroid hormones and vitamin D. In order to be soluble in blood, hydrophobic ligands must bind to carrier proteins while they are being transported through the bloodstream.</para>
 <figure id="fig-ch09_01_08" class="ost-tag-lo-apbio-ch09-s01-lo03 ost-tag-lo-apbio-ch09-s01-aplo-3-34"><media id="fs-id1699900" alt="The molecular structures of estradiol, testosterone, and cholesterol are shown. All three molecules share a four-ring structure but differ in the types of functional groups attached to it.">
 <image mime-type="image/jpg" src="../../media/Figure_09_01_08.jpg" width="280"/>
 </media>
 <caption>Steroid hormones have similar chemical structures to their precursor, cholesterol. Because these molecules are small and hydrophobic, they can diffuse directly across the plasma membrane into the cell, where they interact with internal receptors.</caption></figure></section>
-<section id="fs-id1974501" class="ost-tag-lo-apbio-ch09-s01-lo03 ost-tag-lo-apbio-ch09-s01-aplo-3-34 ost-get-exercise">
+<section id="fs-id1974501" class="ost-tag-lo-apbio-ch09-s01-lo03 ost-tag-lo-apbio-ch09-s01-aplo-3-34">
 <title>Water-Soluble Ligands</title>
 <para id="fs-id1879649">Water-soluble ligands are polar and therefore cannot pass through the plasma membrane unaided; sometimes, they are too large to pass through the membrane at all. Instead, most water-soluble ligands bind to the extracellular domain of cell-surface receptors. This group of ligands is quite diverse and includes small molecules, peptides, and proteins.</para>
 </section>
-<section id="fs-id1982881" class="ost-get-exercise">
+<section id="fs-id1982881" class="">
 <title>Other Ligands</title>
 <para id="fs-id2248585">Nitric oxide (NO) is a gas that also acts as a ligand. It is able to diffuse directly across the plasma membrane, and one of its roles is to interact with receptors in smooth muscle and induce relaxation of the tissue. NO has a very short half-life and therefore only functions over short distances. Nitroglycerin, a treatment for heart disease, acts by triggering the release of NO, which causes blood vessels to dilate (expand), thus restoring blood flow to the heart.</para>
 </section>

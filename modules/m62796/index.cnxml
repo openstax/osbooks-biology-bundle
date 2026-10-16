@@ -21,60 +21,40 @@
 
 <section id="fs-id1167067070872" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066792302">The free energy stored in ATP and NADPH produced in the light-dependent reactions is used to power the chemical reactions of the light-independent reactions or Calvin cycle, which can occur during both the day and night. In the Calvin cycle, an enzyme called ribulose biphosphate carboxylase (RuBisCO), catalyzes a reaction with CO<sub>2</sub> and another molecule called ribulose biphosphate (RuBP) that is regenerated from a previous Calvin cycle. After a series of chemical reactions, the carbon from carbon dioxide in the atmosphere is “fixed” into carbohydrates, specifically a three-carbon molecule called glyceraldehydes-3-phosphate (G3P). (Again, count the carbons as we explore the Calvin cycle.) After three turns of the cycle, a three-carbon molecule of G3P leaves the cycle to become part of a carbohydrate molecule. The remaining G3P molecules stay in the cycle to be regenerated into RuBP, which is then ready to react with more incoming CO<sub>2</sub>. In other words, the cell generates a stockpile of G3P to be assembled into organic molecules, including carbohydrates. Each step of the Calvin cycle is catalyzed by specific enzymes. (You do not have to memorize the reactions of the Calvin cycle; however, if provided with a diagram of the cycle, you should be able to interpret it.) Some plants evolved chemical modifications to more efficiently trap CO<sub>2</sub> if environmental conditions limit its availability. For example, when it’s hot outside, plants tend to keep their stomata closed to prevent excessive water loss; when the outside temperature cools, stomata open and plants take in CO<sub>2</sub> and use a more efficient system to feed it into the Calvin cycle.</para>
 <para id="fs-id1167066793017">As we explored in Overview of Photosynthesis, photosynthesis forms an energy link with cellular respiration. Plants need both photosynthesis and respiration in order to conduct metabolic processes during both light and dark times. Therefore, plant cells contain both chloroplasts and mitochondria.</para>
-<para id="fs-id1167066993087" class="ost-reading-discard">Information presented and the examples highlighted in the section, support concepts and learning objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. The learning objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167066993087" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 3.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 
 
 <table id="fs-id1167066825159" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.2 Organisms use various strategies to capture and store free energy for use in biological processes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Learning Objective. Third right cell reads: 2.4 The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
-<tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+<tbody><row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2.Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.2</emphasis></span>
-<span class="ost-standards-description">Light energy captured in photosynthesis is stored in carbohydrates produced during the Calvin cycle.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4</emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s03-aplo-2-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.4</emphasis></span>
-<span class="ost-standards-description">The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>3.4 Photosynthesis</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>3.4.A Describe the photosynthetic processes and structural features of the chloroplast that allow organisms to capture and store energy.<newline/>
+
+Exclusion Statement- Memorization of the steps in the Calvin cycle, the structure of the molecules, and the names of the enzymes involved, with the exception of ATP synthase, is beyond the scope of the AP<sup>®</sup> Exam.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.2</emphasis></span>
-<span class="ost-standards-description">Light energy captured in photosynthesis is stored in carbohydrates produced during the Calvin cycle</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s03-aplo-2-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.5</emphasis></span>
-<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store, or use free energy.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.4.A.1 Photosynthesis is the series of reactions that use carbon dioxide (CO<sub>2</sub>), water (H<sub>2</sub>O), and light energy to make carbohydrates and oxygen (O<sub>2</sub>).<newline/>
+iii. Scientific evidence supports the claim that prokaryotic (cyanobacterial) photosynthesis was responsible for the production of an oxygenated atmosphere.</entry>
 </row>
-</tbody>
-
-
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>3.4.B Explain how cells capture energy from light and transfer it to biological molecules for storage and use.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.4.B.6 The energy captured in the light reactions and transferred to ATP and NADPH powers the production of carbohydrates from carbon dioxide in the Calvin cycle. This occurs in the stroma of the chloroplast.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.B Argumentation- Support a claim with evidence from biological principles, concepts, processes, and data.</entry>
+</row></tbody>
 </tgroup>
 </table></section><note id="fs-id1167066848514" class="os-teacher">
 <label>Teacher Support</label>
@@ -86,8 +66,8 @@
 <para id="fs-id1167066775507">The light-independent reactions or Calvin cycle are not really independent of light. They depend on the earlier reactions to supply ATP and NADPH in order to proceed. This pathway makes the storage and transport form of energy used by nearly every living organism, sugars. It does not make glucose directly, but a chemical that is also an intermediate in cellular respiration, glyceraldehyde-3-phosphate (G3P). This can be used to make a variety of biologically important compounds, including glucose.</para>
 </note>
 </note>
-<para id="fs-id1166847410845">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.5][APLO 2.11][APLO 4.17]</para><section id="fs-idm160767200" class="ost-tag-lo-apbio-ch08-s03-lo01 ost-tag-lo-apbio-ch08-s03-aplo-2-5 ost-get-exercise">
+<para id="fs-id1166847410845">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
+<section id="fs-idm160767200" class="ost-tag-lo-apbio-ch08-s03-lo01 ost-tag-lo-apbio-ch08-s03-aplo-2-5">
 <title>The Calvin Cycle</title>
 <para id="fs-idp47951280">After the energy from the sun is converted into chemical energy and temporarily stored in ATP and NADPH molecules, the cell has the fuel needed to build carbohydrate molecules for long-term energy storage. The products of the light-dependent reactions, ATP and NADPH, have lifespans in the range of millionths of seconds, whereas the products of the light-independent reactions (carbohydrates and other forms of reduced carbon) can survive for hundreds of millions of years. The carbohydrate molecules made will have a backbone of carbon atoms. Where does the carbon come from? It comes from carbon dioxide, the gas that is a waste product of respiration in microbes, fungi, plants, and animals.</para>
 <para id="fs-idm22256">In plants, carbon dioxide (CO<sub>2</sub>) enters the leaves through stomata, where it diffuses over short distances through intercellular spaces until it reaches the mesophyll cells. Once in the mesophyll cells, CO<sub>2</sub> diffuses into the stroma of the chloroplast—the site of light-independent reactions of photosynthesis. These reactions actually have several names associated with them. Another term, the <term id="term-00001">Calvin cycle</term>, is named for the man who discovered it, and because these reactions function as a cycle. Others call it the Calvin-Benson cycle to include the name of another scientist involved in its discovery. The most outdated name is dark reactions, because light is not directly required (<link target-id="fig-ch08_03_01"/>). However, the term dark reaction can be misleading because it implies incorrectly that the reaction only occurs at night or is independent of light, which is why most scientists and instructors no longer use it.</para>
@@ -96,7 +76,7 @@
 </media>
 
 <caption>Light reactions harness energy from the sun to produce chemical bonds, ATP, and NADPH. These energy-carrying molecules are made in the stroma where carbon fixation takes place.</caption></figure><para id="fs-idp23499712">The light-independent reactions of the Calvin cycle can be organized into three basic stages: fixation, reduction, and regeneration.</para>
-<section id="fs-idm53150960" class="ost-get-exercise">
+<section id="fs-idm53150960" class="">
 <title>Stage 1: Fixation</title><para id="fs-idm187183792">In the stroma, in addition to CO<sub>2</sub>,<sub> </sub>two other components are present to initiate the light-independent reactions: an enzyme called ribulose-1,5-bisphosphate carboxylase/oxygenase (RuBisCO), and three molecules of ribulose bisphosphate (RuBP), as shown in <link target-id="fig-ch08_03_02"/>. RuBP has five atoms of carbon, flanked by two phosphates.</para>
 
 <note id="fs-idp117078128" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch08-s03-lo02">
@@ -117,11 +97,11 @@
 
 
 <para id="fs-idm152383840">RuBisCO catalyzes a reaction between CO<sub>2</sub> and RuBP. For each CO<sub>2</sub> molecule that reacts with one RuBP, two molecules of another compound (3-PGA) form. PGA has three carbons and one phosphate. Each turn of the cycle involves only one RuBP and one carbon dioxide and forms two molecules of 3-PGA. The number of carbon atoms remains the same, as the atoms move to form new bonds during the reactions (3 atoms from 3CO<sub>2</sub> + 15 atoms from 3RuBP = 18 atoms in 3 atoms of 3-PGA). This process is called <term id="term-00002">carbon</term> <term id="term-00003">fixation</term>, because CO<sub>2</sub> is “fixed” from an inorganic form into organic molecules.</para>
-</section><section id="fs-idm89996944" class="ost-get-exercise">
+</section><section id="fs-idm89996944" class="">
 <title>Stage 2: Reduction</title>
 <para id="fs-idm86368800">ATP and NADPH are used to convert the six molecules of 3-PGA into six molecules of a chemical called glyceraldehyde 3-phosphate (G3P). That is a reduction reaction because it involves the gain of electrons by 3-PGA. Recall that a <term id="term-00004">reduction</term> is the gain of an electron by an atom or molecule. Six molecules of both ATP and NADPH are used. For ATP, energy is released with the loss of the terminal phosphate atom, converting it into ADP; for NADPH, both energy and a hydrogen atom are lost, converting it into NADP<sup>+</sup>. Both of these molecules return to the nearby light-dependent reactions to be reused and reenergized.</para>
 </section>
-<section id="fs-idm23606256" class="ost-get-exercise">
+<section id="fs-idm23606256" class="">
 <title>Stage 3: Regeneration</title><para id="fs-idm57998960">Interestingly, at this point, only one of the G3P molecules leaves the Calvin cycle and is sent to the cytoplasm to contribute to the formation of other compounds needed by the plant. Because the G3P exported from the chloroplast has three carbon atoms, it takes three “turns” of the Calvin cycle to fix enough net carbon to export one G3P. But each turn makes two G3Ps, thus three turns make six G3Ps. One is exported while the remaining five G3P molecules remain in the cycle and are used to regenerate RuBP, which enables the system to prepare for more CO<sub>2</sub> to be fixed. Three more molecules of ATP are used in these regeneration reactions.</para>
 <note id="fs-idm132001936" class="interactive ost-tag-lo-apbio-ch08-s03-lo01 ost-assessed-feature"><label>Link to Learning</label>
 <para id="fs-idm125936400">This <link window="new" url="https://openstax.org/l/calvin_cycle">link</link> leads to an animation of the Calvin cycle. Click stage 1, stage 2, and then stage 3 to see G3P and ATP regenerate to form RuBP.</para><exercise id="fs-id1167063526958" class="os-exercise unnumbered"><label/>
@@ -136,7 +116,7 @@
 
 <note id="fs-idm158415504" class="evolution ost-assessed-feature"><title>Photosynthesis</title>
 <para id="fs-id1167067104092">
-<figure id="fig-ch08_03_03" class="ost-tag-lo-apbio-ch08-s03-lo01"><media id="fs-idm5505152" alt="This photo shows short, round prickly cacti growing in cracks in a rock.">
+<figure id="fig-ch08_03_03"><media id="fs-idm5505152" alt="This photo shows short, round prickly cacti growing in cracks in a rock.">
 <image mime-type="image/jpg" src="../../media/Figure_08_03_03-cd68.jpg" width="255"/>
 </media>
 
@@ -163,7 +143,7 @@
 --></note></section>
 </section>
 
-<section id="fs-idm121372848" class="ost-tag-lo-apbio-ch08-s03-lo03 ost-tag-lo-apbio-ch08-s03-aplo-2-5 ost-get-exercise">
+<section id="fs-idm121372848" class="ost-tag-lo-apbio-ch08-s03-lo03 ost-tag-lo-apbio-ch08-s03-aplo-2-5">
 <title>The Energy Flow</title><para id="fs-idm186246928">Whether the organism is a bacterium, plant, or animal, all living things access energy by breaking down carbohydrate molecules. But if plants make carbohydrate molecules, why would they need to break them down, especially when it has been shown that the gas organisms release as a “waste product” (CO<sub>2</sub>) acts as a substrate for the formation of more food in photosynthesis? Remember, living things need energy to perform life functions. In addition, an organism can either make its own food or eat another organism—either way, the food still needs to be broken down. Finally, in the process of breaking down food, called cellular respiration, heterotrophs release needed energy and produce “waste” in the form of CO<sub>2</sub> gas.</para>
 <para id="fs-idm154538240">In nature, there is no such thing as waste. Every single atom of matter and energy is conserved, recycling over and over infinitely. Substances change form or move from one type of molecule to another, but their constituent atoms never disappear. (<link target-id="fig-ch08_03_04">Figure 1.21</link> is an illustrative example of this process.)</para><para id="fs-idp23524720">CO<sub>2</sub> is no more a form of waste than oxygen is wasteful to photosynthesis. Both are byproducts of reactions that move on to other reactions. Photosynthesis absorbs light energy to build carbohydrates
 in chloroplasts, and aerobic cellular respiration releases energy by using oxygen to metabolize carbohydrates in the cytoplasm and mitochondria. Both processes use electron transport chains to capture the energy necessary to drive other reactions. These two powerhouse processes, photosynthesis and cellular respiration, function in biological, cyclical harmony to allow organisms to access life-sustaining energy that originates millions of miles away in a burning star humans call the sun.</para>

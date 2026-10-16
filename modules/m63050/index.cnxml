@@ -20,103 +20,40 @@
 <section id="fs-id1167060128363" class="ap-connection ost-tag-lo-apbio-ch38-s03-lo01">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167063498920">The core threats to biodiversity include human population growth and the unsustainable removable of resources from the environment. The three greatest proximate threats to biodiversity are habitat loss, overharvesting, and introduction of exotic species. A fourth major cause of species extinction—climate change—is becoming increasingly more significant. The burning of fossil fuels raises levels of carbon dioxide in the atmosphere, and this “greenhouse effect” results in global climate change.</para>
-<para id="fs-id1167067292707" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 and Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167067292707" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 8.7 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167067202896" summary="First Column First Row: Essential Knowledge Second Column Second Row: 1.C.1 Speciation and extinction have occurred throughout Earth’s history.. First Column Second Row: Science Practice Second Column Second Row: 5.1 The student can analyze data to identify patterns or relationships. First Column Third Row: Learning Objective Second Column Third Row 1.20 The student is able to analyze data related to questions of speciation and extinction throughout the Earth’s history." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-lo-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1 </emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry></row>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>4. Systems Interactions: Biological systems interact, and these systems and their interactions exhibit complex properties.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>8.7 Disruptions in Ecosystems</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>8.7.C Describe human activities that lead to changes in ecosystem structure and dynamics.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.7.C.1 Human impact accelerates changes at local and global levels. These activities can drive changes in ecosystems such as the following, that cause extinctions to occur.<newline/>
+i. Biomagnification<newline/>
+ii. Eutrophication</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>8.7.D Explain how geological and meteorological activity leads to changes in ecosystem structure and dynamics.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.7.D.1 Geological and meteorological events affect habitat change and ecosystem distribution. Biogeographical studies illustrate these changes.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.D Statistical Tests and Data Analysis- Use data to evaluate a hypothesis or prediction, including rejecting or failing to reject the null hypothesis.</entry>
+</row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-lo-apbio-1-c">
-<entry class="ost-standards-name"><emphasis>Enduring Understanding 1.C </emphasis></entry>
-<entry class="ost-standards-description">Life continues to evolve within a changing environment.</entry></row>
 
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-1-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.C.1 </emphasis></span>
-<span class="ost-standards-description">Speciation and extinction have occurred throughout Earth’s history.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-5-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.1 </emphasis></span>
-<span class="ost-standards-description">The student can analyze data to identify patterns or relationships.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-1-20">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.20 </emphasis></span>
-<span class="ost-standards-description">The student is able to analyze data related to questions of speciation and extinction throughout the Earth’s history.</span>
-</entry>
-</row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-1-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.C.1 </emphasis></span>
-<span class="ost-standards-description">Speciation and extinction have occurred throughout Earth’s history.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-4-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
-<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-1-21">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.21 </emphasis></span>
-<span class="ost-standards-description">The student is able to design a plan for collecting data to investigate the scientific claim that speciation and extinction have occurred throughout the Earth’s history.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4 </emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interaction possess complex properties.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a">
-<entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A </emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-6">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.6 </emphasis></span>
-<span class="ost-standards-description">Interactions among living systems and with their environment result in the movement of matter and energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-16">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.16 </emphasis></span>
-<span class="ost-standards-description">The student is able to predict the effects of a change of matter or energy availability on communities.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4 </emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interaction possess complex properties.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-b">
-<entry class="ost-standards-name"><emphasis>Enduring Understanding 4.B </emphasis></entry>
-<entry class="ost-standards-description">Competition and cooperation are important aspects of biological systems.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-b-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.B.4 </emphasis></span>
-<span class="ost-standards-description">Distribution of local and global ecosystems changes over time.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-21">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.21 </emphasis></span>
-<span class="ost-standards-description">The student is able to predict consequences of human actions on both local and global ecosystems.</span>
-</entry>
-</row>
 </tbody>
 
 
@@ -135,10 +72,10 @@
 <image mime-type="image/jpg" src="../../media/Figure_B47_03_01.jpg" width="420"/>
 </media>
 <caption>Atmospheric carbon dioxide levels fluctuate in a cyclical manner. However, the burning of fossil fuels in recent history has caused a dramatic increase in the levels of carbon dioxide in the Earth’s atmosphere, which have now reached levels never before seen in human history. Scientists predict that the addition of this “greenhouse gas” to the atmosphere is resulting in climate change that will significantly impact biodiversity in the coming century.</caption></figure>
-<section id="fs-idp63762976" class="ost-tag-lo-apbio-ch38-s03-lo01 ost-tag-lo-apbio-ch38-s03-lo02 ost-get-exercise">
+<section id="fs-idp63762976" class="ost-tag-lo-apbio-ch38-s03-lo01 ost-tag-lo-apbio-ch38-s03-lo02">
 <title>Habitat Loss</title>
 <para id="fs-idm5331840">Humans rely on technology to modify their environment and replace certain functions that were once performed by the natural ecosystem. Other species cannot do this. Elimination of their ecosystem—whether it is a forest, a desert, a grassland, a freshwater estuarine, or a marine environment—will kill the individuals in the species. Remove the entire habitat within the range of a species and, unless they are one of the few species that do well in human-built environments, the species will become extinct. Human destruction of habitats accelerated in the latter half of the twentieth century. Consider the exceptional biodiversity of Sumatra: it is home to one species of orangutan, a species of critically endangered elephant, and the Sumatran tiger, but half of Sumatra’s forest is now gone. The neighboring island of Borneo, home to the other species of orangutan, has lost a similar area of forest. Forest loss continues in protected areas of Borneo. The orangutan in Borneo is listed as endangered by the International Union for Conservation of Nature (IUCN), but it is simply the most visible of thousands of species that will not survive the disappearance of the forests of Borneo. The forests are removed for timber and to plant palm oil plantations (<link target-id="fig-ch47_03_02"/>). Palm oil is used in many products including food products, cosmetics, and biodiesel in Europe. A five-year estimate of global forest cover loss for the years 2000–2005 was 3.1 percent. In the humid tropics where forest loss is primarily from timber extraction, 272,000 km<sup>2</sup> was lost out of a global total of 11,564,000 km<sup>2 </sup>(or 2.4 percent). In the tropics, these losses certainly also represent the extinction of species because of high levels of endemism.</para>
-<figure id="fig-ch47_03_02" class="ost-tag-lo-apbio-ch38-s03-lo02"><media id="fs-idm69051040" alt="Photo A shows an orangutan hanging from a wire in a lush rainforest filled with many different kinds of vegetation.  Photo B shows a tiger. Map C shows the islands of Borneo and Sumatra in the south Pacific, just northwest of Australia. Sumatra is in the country of Indonesia. Half of Borneo is in Indonesia, and half is in Malaysia. Photo D shows a gray elephant. Photo E shows rolling hills covered with homogenous short, bushy oil palm trees.">
+<figure id="fig-ch47_03_02"><media id="fs-idm69051040" alt="Photo A shows an orangutan hanging from a wire in a lush rainforest filled with many different kinds of vegetation.  Photo B shows a tiger. Map C shows the islands of Borneo and Sumatra in the south Pacific, just northwest of Australia. Sumatra is in the country of Indonesia. Half of Borneo is in Indonesia, and half is in Malaysia. Photo D shows a gray elephant. Photo E shows rolling hills covered with homogenous short, bushy oil palm trees.">
 <image mime-type="image/jpg" src="../../media/Figure_B47_03_02.jpg" width="400"/>
 </media>
 <caption>(a) One species of orangutan, <emphasis effect="italics">Pongo pygmaeus,</emphasis> is found only in the rainforests of Borneo, and the other species of orangutan (<emphasis effect="italics">Pongo abelii</emphasis>) is found only in the rainforests of Sumatra. These animals are examples of the exceptional biodiversity of (c) the islands of Sumatra and Borneo. Other species include the (b) Sumatran tiger (<emphasis effect="italics">Panthera tigris sumatrae</emphasis>) and the (d) Sumatran elephant (<emphasis effect="italics">Elephas maximus sumatranus</emphasis>), both critically endangered species. Rainforest habitat is being removed to make way for (e) oil palm plantations such as this one in Borneo’s Sabah Province. (credit a: modification of work by Thorsten Bachner; credit b: modification of work by Dick Mudde; credit c: modification of work by U.S. CIA World Factbook; credit d: modification of work by “Nonprofit Organizations”/Flickr; credit e: modification of work by Dr. Lian Pin Koh)</caption></figure>
@@ -155,7 +92,7 @@
 </exercise>
 </note><para id="fs-idm5839584">Habitat destruction can affect ecosystems other than forests. Rivers and streams are important ecosystems and are frequently modified through land development and from damming or water removal. Damming of rivers affects the water flow and access to all parts of a river. Differing flow regimes can reduce or eliminate populations that are adapted to these changes in flow patterns. For example, an estimated 91percent of river lengths in the United States have been developed: they have modifications like dams, to create energy or store water; levees, to prevent flooding; or dredging or rerouting, to create land that is more suitable for human development. Many fish species in the United States, especially rare species or species with restricted distributions, have seen declines caused by river damming and habitat loss. Research has confirmed that species of amphibians that must carry out parts of their life cycles in both aquatic and terrestrial habitats have a greater chance of suffering population declines and extinction because of the increased likelihood that one of their habitats or access between them will be lost.</para>
 </section>
-<section id="fs-idp36441264" class="ost-tag-lo-apbio-ch38-s03-lo02 ost-get-exercise">
+<section id="fs-idp36441264">
 <title>Overharvesting</title>
 <para id="fs-idp120176144">Overharvesting is a serious threat to many species, but particularly to aquatic species. There are many examples of regulated commercial fisheries monitored by fisheries scientists that have nevertheless collapsed. The western Atlantic cod fishery is the most spectacular recent collapse. While it was a hugely productive fishery for 400 years, the introduction of modern factory trawlers in the 1980s and the pressure on the fishery led to it becoming unsustainable. The causes of fishery collapse are both economic and political in nature. Most fisheries are managed as a common (shared) resource even when the fishing territory lies within a country’s territorial waters. Common resources are subject to an economic pressure known as the <emphasis>tragedy of the commons</emphasis> in which essentially no fisher has a motivation to exercise restraint in harvesting a fishery when it is not owned by that fisher. The natural outcome of harvests of resources held in common is their overexploitation. While large fisheries are regulated to attempt to avoid this pressure, it still exists in the background. This overexploitation is exacerbated when access to the fishery is open and unregulated and when technology gives fishers the ability to overfish. In a few fisheries, the biological growth of the resource is less than the potential growth of the profits made from fishing if that time and money were invested elsewhere. In these cases—whales are an example—economic forces will always drive toward fishing the population to extinction.</para>
 <note id="fs-idp34162928" class="interactive ost-tag-lo-apbio-ch38-s03-lo02 ost-assessed-feature"><label>Link to Learning</label>
@@ -182,7 +119,7 @@
 </exercise>
 </note><para id="fs-idp75737552"><emphasis>Bush meat</emphasis> is the generic term used for wild animals killed for food. Hunting is practiced throughout the world, but hunting practices, particularly in equatorial Africa and parts of Asia, are believed to threaten several species with extinction. Traditionally, bush meat in Africa was hunted to feed families directly; however, recent commercialization of the practice now has bush meat available in grocery stores, which has increased harvest rates to the level of unsustainability. Additionally, human population growth has increased the need for protein foods that are not being met from agriculture. Species threatened by the bush meat trade are mostly mammals including many primates living in the Congo basin.</para>
 </section>
-<section id="fs-idp16737280" class="ost-tag-lo-apbio-ch38-s03-lo02 ost-get-exercise">
+<section id="fs-idp16737280">
 <title>Exotic Species</title>
 <para id="fs-idp165254080"><emphasis>Exotic species</emphasis> are species that have been intentionally or unintentionally introduced by humans into an ecosystem in which they did not evolve. Such introductions likely occur frequently as natural phenomena. For example, Kudzu (<emphasis effect="italics">Pueraria lobata</emphasis>), which is native to Japan, was introduced in the United States in 1876. It was later planted for soil conservation. Problematically, it grows too well in the southeastern United States—up to a foot a day. It is now a pest species and covers over 7 million acres in the southeastern United States. If an introduced species is able to survive in its new habitat, that introduction is now reflected in the observed range of the species. Human transportation of people and goods, including the intentional transport of organisms for trade, has dramatically increased the introduction of species into new ecosystems, sometimes at distances that are well beyond the capacity of the species to ever travel itself and outside the range of the species’ natural predators.</para>
 <para id="fs-idp35959968">Most exotic species introductions probably fail because of the low number of individuals introduced or poor adaptation to the ecosystem they enter. Some species, however, possess preadaptations that can make them especially successful in a new ecosystem. These exotic species often undergo dramatic population increases in their new habitat and reset the ecological conditions in the new environment, threatening the species that exist there. For this reason, exotic species are also called invasive species. Exotic species can threaten other species through competition for resources, predation, or disease.</para>
@@ -198,14 +135,14 @@
 </problem>
 </exercise>
 </note><para id="fs-idp14801728">Lakes and islands are particularly vulnerable to extinction threats from introduced species. In Lake Victoria, as mentioned earlier, the intentional introduction of the Nile perch was largely responsible for the extinction of about 200 species of cichlids. The accidental introduction of the brown tree snake via aircraft (<link target-id="fig-ch47_03_03"/>) from the Solomon Islands to Guam in 1950 has led to the extinction of three species of birds and three to five species of reptiles endemic to the island. Several other species are still threatened. The brown tree snake is adept at exploiting human transportation as a means to migrate; one was even found on an aircraft arriving in Corpus Christi, Texas. Constant vigilance on the part of airport, military, and commercial aircraft personnel is required to prevent the snake from moving from Guam to other islands in the Pacific, especially Hawaii. Islands do not make up a large area of land on the globe, but they do contain a disproportionate number of endemic species because of their isolation from mainland ancestors.</para>
-<figure id="fig-ch47_03_03" class="ost-tag-lo-apbio-ch38-s03-lo02"><media id="fs-idp85769296" alt="Photo shows a snake mottled brown and tan, with a forked tongue sticking out of its mouth.">
+<figure id="fig-ch47_03_03"><media id="fs-idp85769296" alt="Photo shows a snake mottled brown and tan, with a forked tongue sticking out of its mouth.">
 <image mime-type="image/jpg" src="../../media/Figure_B47_03_03.jpg" width="320"/>
 </media>
 <caption>The brown tree snake, <emphasis effect="italics">Boiga irregularis</emphasis>, is an exotic species that has caused numerous extinctions on the island of Guam since its accidental introduction in 1950. (credit: NPS)</caption></figure><para id="fs-idp65832640">It now appears that the global decline in amphibian species recognized in the 1990s is, in some part, caused by the fungus <emphasis effect="italics">Batrachochytrium dendrobatidis</emphasis>, which causes the disease <emphasis>chytridiomycosis</emphasis> (<link target-id="fig-ch47_03_04"/>). There is evidence that the fungus is native to Africa and may have been spread throughout the world by transport of a commonly used laboratory and pet species: the African clawed toad (<emphasis effect="italics">Xenopus laevis</emphasis>). It may well be that biologists themselves are responsible for spreading this disease worldwide. The North American bullfrog, <emphasis effect="italics">Rana catesbeiana</emphasis>, which has also been widely introduced as a food animal but which easily escapes captivity, survives most infections of <emphasis effect="italics">Batrachochytrium</emphasis> <emphasis effect="italics">dendrobatidis</emphasis> and can act as a reservoir for the disease.</para>
-<figure id="fig-ch47_03_04" class="ost-tag-lo-apbio-ch38-s03-lo02"><media id="fs-idp20328336" alt="Photo shows a dead frog laying upside-down on a rock. The frog has bright red lesions on its hind quarters.">
+<figure id="fig-ch47_03_04"><media id="fs-idp20328336" alt="Photo shows a dead frog laying upside-down on a rock. The frog has bright red lesions on its hind quarters.">
 <image mime-type="image/jpg" src="../../media/Figure_B47_03_04.jpg" width="280"/>
 </media>
-<caption>This Limosa Harlequin Frog (<emphasis effect="italics">Atelopus limosus</emphasis>), an endangered species from Panama, died from a fungal disease called chytridiomycosis. The red lesions are symptomatic of the disease. (credit: Brian Gratwicke)</caption></figure><para id="fs-idp121477520">Early evidence suggests that another fungal pathogen, <emphasis effect="italics">Pseudogymnoascus destructans</emphasis>, introduced from Europe is responsible for <emphasis>white-nose syndrome</emphasis>, which infects cave-hibernating bats in eastern North America and has spread from a point of origin in western New York State (<link target-id="fig-ch47_03_05"/>). The disease has decimated bat populations and threatens extinction of species already listed as endangered: the Indiana bat, <emphasis effect="italics">Myotis sodalis</emphasis>, and potentially the Virginia big-eared bat, <emphasis effect="italics">Corynorhinus townsendii virginianus</emphasis>. How the fungus was introduced is unclear, but one logical presumption would be that recreational cavers unintentionally brought the fungus on clothes or equipment from Europe.</para><figure id="fig-ch47_03_05" class="ost-tag-lo-apbio-ch38-s03-lo02"><media id="fs-idm30266656" alt="Photo shows a bat hanging from the roof of a cave. The bat has a powdery white residue on its head and wings.">
+<caption>This Limosa Harlequin Frog (<emphasis effect="italics">Atelopus limosus</emphasis>), an endangered species from Panama, died from a fungal disease called chytridiomycosis. The red lesions are symptomatic of the disease. (credit: Brian Gratwicke)</caption></figure><para id="fs-idp121477520">Early evidence suggests that another fungal pathogen, <emphasis effect="italics">Pseudogymnoascus destructans</emphasis>, introduced from Europe is responsible for <emphasis>white-nose syndrome</emphasis>, which infects cave-hibernating bats in eastern North America and has spread from a point of origin in western New York State (<link target-id="fig-ch47_03_05"/>). The disease has decimated bat populations and threatens extinction of species already listed as endangered: the Indiana bat, <emphasis effect="italics">Myotis sodalis</emphasis>, and potentially the Virginia big-eared bat, <emphasis effect="italics">Corynorhinus townsendii virginianus</emphasis>. How the fungus was introduced is unclear, but one logical presumption would be that recreational cavers unintentionally brought the fungus on clothes or equipment from Europe.</para><figure id="fig-ch47_03_05"><media id="fs-idm30266656" alt="Photo shows a bat hanging from the roof of a cave. The bat has a powdery white residue on its head and wings.">
 <image mime-type="image/jpg" src="../../media/Figure_B47_03_05.jpg" width="280"/>
 </media>
 
@@ -239,10 +176,10 @@
 </list>
 </note>
 </note>
-<section id="fs-idp21163056" class="ost-tag-lo-apbio-ch38-s03-lo03 ost-get-exercise">
+<section id="fs-idp21163056">
 <title>Climate Change</title>
 <para id="fs-idp44717248">Climate change, and specifically the anthropogenic (meaning, caused by humans) warming trend presently underway, is recognized as a major extinction threat, particularly when combined with other threats such as habitat loss. Scientists disagree about the likely magnitude of the effects, with extinction rate estimates ranging from 15 percent to 40 percent of species committed to extinction by 2050. Scientists do agree, however, that climate change will alter regional climates, including rainfall and snowfall patterns, making habitats less hospitable to the species living in them. The warming trend will shift colder climates toward the north and south poles, forcing species to move with their adapted climate norms while facing habitat gaps along the way. The shifting ranges will impose new competitive regimes on species as they find themselves in contact with other species not present in their historic range. One such unexpected species contact is between polar bears and grizzly bears. Previously, these two species had separate ranges. Now, their ranges are overlapping and there are documented cases of these two species mating and producing viable offspring. Changing climates also throw off species’ delicate timing adaptations to seasonal food resources and breeding times. Many contemporary mismatches to shifts in resource availability and timing have already been documented.</para>
-<figure id="fig-ch47_03_06" class="ost-tag-lo-apbio-ch38-s03-lo03"><media id="fs-idm75313312" alt="Map A compares the historic and current ranges of grizzly bears with the range of polar bears. Historically, grizzly bear habitat extended from Mexico through the western United States and into the mid-latitudes of Canada. But in recent years this range has expanded northward, to the northern tip of Canada and throughout Alaska. This range now overlaps with the polar bear range in the northern extremes of Alaska in Canada.">
+<figure id="fig-ch47_03_06"><media id="fs-idm75313312" alt="Map A compares the historic and current ranges of grizzly bears with the range of polar bears. Historically, grizzly bear habitat extended from Mexico through the western United States and into the mid-latitudes of Canada. But in recent years this range has expanded northward, to the northern tip of Canada and throughout Alaska. This range now overlaps with the polar bear range in the northern extremes of Alaska in Canada.">
 <image mime-type="image/jpg" src="../../media/Figure_B47_03_06.jpg" width="320"/>
 </media>
 

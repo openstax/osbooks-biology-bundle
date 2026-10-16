@@ -23,82 +23,11 @@
 <para id="fs-id1167063430140">The neuron is a great example of a structure-function relationship at the cellular level. Information flow along a neuron is usually from dendrite to axon and from neuron to neuron or from neuron to a cell of a target organ. Like other eukaryotic cells, neurons consist of a cell membrane, nucleus, and organelles, including mitochondria. <emphasis>Action potentials</emphasis> propagate impulses along neurons. When an axon is at rest, the membrane is said to be polarized; that is, there is an electrochemical gradient across it, with the inside of the membrane being more negatively charged than the outside. We explored the formation of electrochemical gradients using H<sup>+</sup> when we studied photosynthesis and cellular respiration. The neuron, however, uses Na<sup>+</sup> and K<sup>+</sup> to establish a gradient. It is also important to recall that ions cannot diffuse across the lipid bilayer of the cell membrane and must use transport proteins; in this case, the transport proteins are voltage-gated Na<sup>+</sup> and K<sup>+</sup> channels.</para>
 <para id="fs-id1167066792777" class="ost-reading-discard">At rest, the Na<sup>+</sup>/K<sup>+</sup> pump, powered by ATP, maintains this gradient, known as resting <emphasis>membrane potential</emphasis>. In response to a stimulus, such as an odorant molecule, membrane potential changes, and an action potential is generated along the membrane as the voltage-gated Na<sup>+</sup> and K<sup>+</sup> channels open sequentially, causing the membrane to depolarize. In <emphasis>depolarization</emphasis>, the inside of the membrane becomes more positive than the outside as Na<sup>+</sup> flows to the inside. Repolarization occurs when K<sup>+</sup> flows across the membrane to the outside. In myelinated neurons, action potentials “jump” between gaps of unmyelinated axons (nodes of Ranvier), a phenomenon called saltatory conduction.</para>
 <para id="fs-id1167063788962" class="ost-reading-discard">Transmission of a nerve impulse from one neuron to another or to another type of cell such as a muscle cell occurs across a junction called a synapse. <emphasis>Synaptic vesicles</emphasis> at the axon terminal of the presynaptic neuron release chemical messengers called neurotransmitters into the junction; neurotransmitters then bind to receptors embedded in the membrane of the postsynaptic neuron. Neurotransmitters may be either excitatory (such as acetylcholine or epinephrine) or inhibitory (such as serotonin or GABA) as they either increase or decrease the change of an action potential in the postsynaptic neuron. Many drugs, including both pharmaceuticals and drugs of abuse, can induce changes in synaptic transmission; for example, tetrahydrocannabinol (more commonly known as THC) in marijuana binds to a naturally occurring neurotransmitter important to short-term memory.</para>
-<para id="fs-id1167066958776" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
-<table id="fs-id1167067292835" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.E.2 Animals have nervous systems that detect external and internal signals, transmit and integrate information, and produce responses. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 3.43 The student is able to construct an explanation, based on scientific theories and models, about how nervous systems detect external and internal signals, transmit and integrate information, and produce responses." class="unnumbered column-header ost-reading-discard"><label/>
-<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
-<tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-e"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.E</emphasis></entry>
-<entry class="ost-standards-description">Transmission of information results in changes within and between biological systems.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-e-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.E.2 </emphasis></span>
-<span class="ost-standards-description">Animals have nervous systems that detect external and internal signals, transmit and integrate information, and produce responses.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch26-s02-aplo-3-43">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.43 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct an explanation, based on scientific theories and models, about how nervous systems detect external and internal signals, transmit and integrate information, and produce responses.</span>
-</entry>
-</row>
+<para id="fs-id1167066958776" class="ost-reading-discard">The information presented and examples highlighted in this section support topics outlined in Unit 4 of the AP<sup>®</sup> Biology Course and Exam Description.</para>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-e-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.E.2 </emphasis></span>
-<span class="ost-standards-description">Animals have nervous systems that detect external and internal signals, transmit and integrate information, and produce responses.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
-<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch26-s02-aplo-3-45">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.45 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe how nervous systems transmit information.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-e-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.E.2 </emphasis></span>
-<span class="ost-standards-description">Animals have nervous systems that detect external and internal signals, transmit and integrate information, and produce responses.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch26-s02-aplo-3-47">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.47 </emphasis></span>
-<span class="ost-standards-description">The student is able to create a visual representation of complex nervous systems to describe/explain how these systems detect external and internal signals, transmit and integrate information, and produce responses.</span>
-</entry>
-</row>
-</tbody>
-
-
-
-
-
-
-</tgroup>
-</table></section>
+</section>
 <para id="fs-idm175753248">All functions performed by the nervous system—from a simple motor reflex to more advanced functions like making a memory or a decision—require neurons to communicate with one another. While humans use words and body language to communicate, neurons use electrical and chemical signals. Just like a person in a committee, one neuron usually receives and synthesizes messages from multiple other neurons before “making the decision” to send the message on to other neurons.</para>
-<section id="fs-idm306684336" class="ost-tag-lo-apbio-ch26-s02-lo01 ost-tag-lo-apbio-ch26-s02-aplo-3-43 ost-tag-lo-apbio-ch26-s02-aplo-3-45 ost-get-exercise">
+<section id="fs-idm306684336" class="ost-tag-lo-apbio-ch26-s02-lo01 ost-tag-lo-apbio-ch26-s02-aplo-3-43 ost-tag-lo-apbio-ch26-s02-aplo-3-45">
 <title>Nerve Impulse Transmission within a Neuron</title>
 <para id="fs-idm42661904">For the nervous system to function, neurons must be able to send and receive signals. These signals are possible because each neuron has a charged cellular membrane (a voltage difference between the inside and the outside), and the charge of this membrane can change in response to neurotransmitter molecules released from other neurons and environmental stimuli. To understand how neurons communicate, one must first understand the basis of the baseline or ‘resting’ membrane charge.</para>
 <section id="fs-idm92021888" class="ost-tag-lo-apbio-ch26-s02-lo01 ost-tag-lo-apbio-ch26-s02-aplo-3-43 ost-tag-lo-apbio-ch26-s02-aplo-3-45">
@@ -202,7 +131,7 @@
 </media>
 <caption>Nodes of Ranvier are gaps in myelin coverage along axons. Nodes contain voltage-gated K<sup>+</sup> and Na<sup>+</sup> channels. Action potentials travel down the axon by jumping from one node to the next.</caption></figure></section>
     </section>
-    <section id="fs-idm217900192" class="ost-tag-lo-apbio-ch26-s02-lo03 ost-tag-lo-apbio-ch26-s02-aplo-3-43 ost-tag-lo-apbio-ch26-s02-aplo-3-45 ost-get-exercise">
+    <section id="fs-idm217900192" class="ost-tag-lo-apbio-ch26-s02-lo03 ost-tag-lo-apbio-ch26-s02-aplo-3-43 ost-tag-lo-apbio-ch26-s02-aplo-3-45">
 <title>Synaptic Transmission</title>
 <para id="fs-idm38017968">The synapse or “gap” is the place where information is transmitted from one neuron to another. Synapses usually form between axon terminals and dendritic spines, but this is not universally true. There are also axon-to-axon, dendrite-to-dendrite, and axon-to-cell body synapses. The neuron transmitting the signal is called the presynaptic neuron, and the neuron receiving the signal is called the postsynaptic neuron. Note that these designations are relative to a particular synapse—most neurons are both presynaptic and postsynaptic. There are two types of synapses: chemical and electrical.</para>
 <section id="fs-idm96975168" class="ost-tag-lo-apbio-ch26-s02-lo03 ost-tag-lo-apbio-ch26-s02-aplo-3-45"><title>Chemical Synapse</title><para id="fs-idm103673216">When an action potential reaches the axon terminal it depolarizes the membrane and opens voltage-gated Na<sup>+</sup> channels. Na<sup>+</sup> ions enter the cell, further depolarizing the presynaptic membrane. This depolarization causes voltage-gated Ca<sup>2+</sup> channels to open. Calcium ions entering the cell initiate a signaling cascade that causes small membrane-bound vesicles, called synaptic vesicles, containing neurotransmitter molecules to fuse with the presynaptic membrane. Synaptic vesicles are shown in <link target-id="fig-ch35_02_06"/>, which is an image from a scanning electron microscope.</para>
@@ -258,7 +187,7 @@
 <para id="fs-idm19383344">There are key differences between chemical and electrical synapses. Because chemical synapses depend on the release of neurotransmitter molecules from synaptic vesicles to pass on their signal, there is an approximately one millisecond delay between when the axon potential reaches the presynaptic terminal and when the neurotransmitter leads to opening of postsynaptic ion channels. Additionally, this signaling is unidirectional. Signaling in electrical synapses, in contrast, is virtually instantaneous (which is important for synapses involved in key reflexes), and some electrical synapses are bidirectional. Electrical synapses are also more reliable as they are less likely to be blocked, and they are important for synchronizing the electrical activity of a group of neurons. For example, electrical synapses in the thalamus are thought to regulate slow-wave sleep, and disruption of these synapses can cause seizures.</para>
 </section>
         </section>
-    <section id="fs-idm245743248" class="ost-tag-lo-apbio-ch26-s02-lo03 ost-tag-lo-apbio-ch26-s02-aplo-3-43 ost-tag-lo-apbio-ch26-s02-aplo-3-45 ost-get-exercise"><title>Signal Summation</title><para id="fs-idm98199488">Sometimes a single excitatory postsynaptic potential (EPSP) is strong enough to induce an action potential in the postsynaptic neuron, but often multiple presynaptic inputs must create EPSPs around the same time for the postsynaptic neuron to be sufficiently depolarized to fire an action potential. This process is called <emphasis>summation</emphasis> and occurs at the axon hillock, as illustrated in <link target-id="fig-ch35_02_08"/>. Additionally, one neuron often has inputs from many presynaptic neurons—some excitatory and some inhibitory—so IPSPs can cancel out EPSPs and vice versa. It is the net change in postsynaptic membrane voltage that determines whether the postsynaptic cell has reached its threshold of excitation needed to fire an action potential. Together, synaptic summation and the threshold for excitation act as a filter so that random “noise” in the system is not transmitted as important information.</para>
+    <section id="fs-idm245743248" class="ost-tag-lo-apbio-ch26-s02-lo03 ost-tag-lo-apbio-ch26-s02-aplo-3-43 ost-tag-lo-apbio-ch26-s02-aplo-3-45"><title>Signal Summation</title><para id="fs-idm98199488">Sometimes a single excitatory postsynaptic potential (EPSP) is strong enough to induce an action potential in the postsynaptic neuron, but often multiple presynaptic inputs must create EPSPs around the same time for the postsynaptic neuron to be sufficiently depolarized to fire an action potential. This process is called <emphasis>summation</emphasis> and occurs at the axon hillock, as illustrated in <link target-id="fig-ch35_02_08"/>. Additionally, one neuron often has inputs from many presynaptic neurons—some excitatory and some inhibitory—so IPSPs can cancel out EPSPs and vice versa. It is the net change in postsynaptic membrane voltage that determines whether the postsynaptic cell has reached its threshold of excitation needed to fire an action potential. Together, synaptic summation and the threshold for excitation act as a filter so that random “noise” in the system is not transmitted as important information.</para>
 <figure id="fig-ch35_02_08" class="ost-tag-lo-apbio-ch26-s02-lo03 ost-tag-lo-apbio-ch26-s02-aplo-3-43 ost-tag-lo-apbio-ch26-s02-aplo-3-45"><media id="fs-idm130769136" alt="Illustration shows the location of the axon hillock, which is the area connecting the neuron body to the axon. A graph shows the summation of membrane potentials at the axon hillock, plotted as membrane potential in millivolts versus time. Initially, the membrane potential at the axon hillock is -70 millivolts. A series of EPSPs and IPSPs cause the potential to rise and fall. Eventually, the potential increases to the threshold of excitation. At this point the nerve fires, resulting in a sharp increase in membrane potential, followed by a rapid decrease. The hillock becomes hyperpolarizes such that the membrane potential is lower than the resting potential. The hillock then gradually returns to the resting potential.">
 <image mime-type="image/jpg" src="../../media/Figure_35_02_08.jpg" width="320"/>
 </media>
@@ -286,7 +215,7 @@ Amyotrophic lateral sclerosis (ALS, also called Lou Gehrig’s Disease) is a neu
 <para id="fs-idm94744784">Watch <link window="new" url="https://openstax.org/l/paralyzation">this video</link> in which a paralyzed woman use a brain-controlled robotic arm to bring a drink to her mouth, among other images of brain-computer interface technology in action.</para>
 
 </note></section>
-<section id="fs-idm231775072" class="ost-tag-lo-apbio-ch26-s02-lo04 ost-tag-lo-apbio-ch26-s02-aplo-3-43 ost-tag-lo-apbio-ch26-s02-aplo-3-45 ost-get-exercise">
+<section id="fs-idm231775072" class="ost-tag-lo-apbio-ch26-s02-lo04 ost-tag-lo-apbio-ch26-s02-aplo-3-43 ost-tag-lo-apbio-ch26-s02-aplo-3-45">
 <title>Synaptic Plasticity</title>
 <para id="fs-idm114094032">Synapses are not static structures. They can be weakened or strengthened. They can be broken, and new synapses can be made. Synaptic plasticity allows for these changes, which are all needed for a functioning nervous system. In fact, synaptic plasticity is the basis of learning and memory. Two processes in particular, long-term potentiation (LTP) and long-term depression (LTD) are important forms of synaptic plasticity that occur in synapses in the hippocampus, a brain region that is involved in storing memories.</para>
 <section id="fs-idm255135008" class="ost-tag-lo-apbio-ch26-s02-lo04 ost-tag-lo-apbio-ch26-s02-aplo-3-43 ost-tag-lo-apbio-ch26-s02-aplo-3-45">

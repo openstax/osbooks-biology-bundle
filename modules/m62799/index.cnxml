@@ -18,33 +18,43 @@
 </section>
 <section id="fs-id1167067181150" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167067292549">During signal transduction, a series of relay proteins inside the cytoplasm of the target cell activate target proteins, resulting in a cellular response. These cascades are complex because of the interplay between proteins. A significant contributor to cell signaling cascades is the phosphorylation of molecules by enzymes known as kinases. (Substrate–level phosphorylation was studied when you learned about glycolysis.) By adding a phosphate group, phosphorylation changes the shapes of proteins. This change in shape activates or inactivates them. Second messengers, e.g., cAMP and Ca<sup>2+</sup>, are often used to transmit signals within a cell.</para>
-<para id="fs-id1167066946965" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167067197480" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.3 Signal transduction pathways link signal reception with cellular response. Second left cell reads: Science Practice. Second right cell reads: 1.5 The student can re-express key elements of natural phenomena across multiple representations in the domain. Third left cell reads: Learning Objective. Third right cell reads: 3.36 The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167066946965" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 4.2 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+<table id="fs-id1167067197480" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.3 Signal transduction pathways link signal reception with cellular response. Second left cell reads: Science Practice. Second right cell reads: 1.5 The student can re-express key elements of natural phenomena across multiple representations in the domain. Third left cell reads: Learning Objective. Third right cell reads: 3.36 The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
-<tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<tbody><row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.D</emphasis></entry>
-<entry class="ost-standards-description">Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.D.3</emphasis></span>
-<span class="ost-standards-description">Signal transduction pathways link signal reception with cellular response.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.5</emphasis></span>
-<span class="ost-standards-description">The student can re-express key elements of natural phenomena across multiple representations in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch09-s02-aplo-3-36">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.36</emphasis></span>
-<span class="ost-standards-description">The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>4.2 Introduction to Signal Transduction</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.2.A Describe the components of a signal transduction pathway.</entry>
 </row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.2.A.1 Signal transduction pathways link signal receptions with cellular responses.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.2.A.2 Many signal transduction pathways include protein modifications and involve phosphorylation cascades.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.2.B Describe the role of components of a signal transduction pathway in producing a cellular response</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.2.B.2 Signaling cascades relay signals from receptors to cell targets, often amplifying the incoming signals, resulting in the appropriate responses by the cell. Responses could include cell growth, secretion of molecules, or gene expression.<newline/>
+i. After the ligand binds, the intracellular domain of a receptor protein changes shape, initiating transduction of the signal.<newline/>
+ii. Enzymes and second messengers such as cyclic AMP (cAMP) relay and amplify the intracellular signal.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.A Concept Explanation- Describe biological concepts and processes.</entry>
+</row>
+
+
 </tbody>
 
 </tgroup>
@@ -54,10 +64,9 @@
 <para id="fs-id1167067100684">Ask students what would happen if suddenly the fire alarm went off. It should trigger the “fight-or-flight” response. Some organs must be activated for the response: skeletal muscle, heart, and the release of glucose from liver. Other organs have their activities dampened: the stomach halts digestion and salivary glands stop production.</para>
 <para id="fs-id1167063620595">Ask students what happens if they get a loud alarm sound while eating. The likely response is that nauseous feeling and digestion cut short, courtesy of our sympathetic system. The same signal that activates all the systems needed for survival also shuts down the systems which are not essential for the rapid reaction needed to escape danger. An animation of fight-or-flight response can be seen <link window="new" url="https://openstax.org/l/32fightorflight">here</link>.</para>
 </note>
-<para id="fs-id1166849379733">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.33][APLO 3.4][APLO 4.22][APLO 2.5][APLO 3.32][APLO 3.38]</para><para id="fs-id2344871">Once a ligand binds to a receptor, the signal is transmitted through the membrane and into the cytoplasm. Continuation of a signal in this manner is called <term id="term-00001">signal transduction</term>. Signal transduction only occurs with cell-surface receptors because internal receptors are able to interact directly with DNA in the nucleus to initiate protein synthesis.</para>
+<para id="fs-id1166849379733">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
 <para id="fs-id1511912">When a ligand binds to its receptor, conformational changes occur that affect the receptor’s intracellular domain. Conformational changes of the extracellular domain upon ligand binding can propagate through the membrane region of the receptor and lead to activation of the intracellular domain or its associated proteins. In some cases, binding of the ligand causes <term id="term-00002">dimerization</term> of the receptor, which means that two receptors bind to each other to form a stable complex called a dimer. A <term id="term-00003">dimer</term> is a chemical compound formed when two molecules (often identical) join together. The binding of the receptors in this manner enables their intracellular domains to come into close contact and activate each other.</para>
-<section id="fs-id2348611" class="ost-tag-lo-apbio-ch09-s02-lo01 ost-tag-lo-apbio-ch09-s02-aplo-3-36 ost-get-exercise">
+<section id="fs-id2348611" class="ost-tag-lo-apbio-ch09-s02-lo01 ost-tag-lo-apbio-ch09-s02-aplo-3-36">
 <title>Binding Initiates a Signaling Pathway</title>
 <para id="fs-id2572263">After the ligand binds to the cell-surface receptor, the activation of the receptor’s intracellular components sets off a chain of events that is called a <term id="term-00004">signaling pathway</term> or a signaling cascade. In a signaling pathway, second messengers, enzymes, and activated proteins interact with specific proteins, which are in turn activated in a chain reaction that eventually leads to a change in the cell’s environment (<link target-id="fig-ch09_02_01"/>). The events in the cascade occur in a series, much like a current flows in a river. Interactions that occur before a certain point are defined as upstream events, and events after that point are called downstream events.</para>
 <note id="fs-idp100312512" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch09-s02-lo01"><label>Visual Connection</label>
@@ -75,7 +84,7 @@
 </note><para id="fs-id2890952">Signaling pathways can get very complicated very quickly because most cellular proteins can affect different downstream events, depending on the conditions within the cell. A single pathway can branch off toward different endpoints based on the interplay between two or more signaling pathways, and the same ligands are often used to initiate different signals in different cell types. This variation in response is due to differences in protein expression in different cell types. Another complicating element is <term id="term-00005">signal integration</term> of the pathways, in which signals from two or more different cell-surface receptors merge to activate the same response in the cell. This process can ensure that multiple external requirements are met before a cell commits to a specific response.</para>
 <para id="fs-id1368373">The effects of extracellular signals can also be amplified by enzymatic cascades. At the initiation of the signal, a single ligand binds to a single receptor. However, activation of a receptor-linked enzyme can activate many copies of a component of the signaling cascade, which amplifies the signal.</para>
 </section>
-<section id="fs-id1970730" class="ost-tag-lo-apbio-ch09-s02-lo02 ost-tag-lo-apbio-ch09-s02-aplo-3-36 ost-get-exercise">
+<section id="fs-id1970730" class="ost-tag-lo-apbio-ch09-s02-lo02 ost-tag-lo-apbio-ch09-s02-aplo-3-36">
 <title>Methods of Intracellular Signaling</title>
 <para id="fs-id1465820">The induction of a signaling pathway depends on the modification of a cellular component by an enzyme. There are numerous enzymatic modifications that can occur, and they are recognized in turn by the next component downstream. The following are some of the more common events in intracellular signaling.</para>
 <note id="fs-id1912260" class="interactive ost-assessed-feature"><label>Link to Learning</label>
@@ -87,14 +96,14 @@
 </para>
 </problem>
 </exercise>
-</note><section id="fs-id2642734" class="ost-tag-lo-apbio-ch09-s02-lo02 ost-tag-lo-apbio-ch09-s02-aplo-3-36 ost-get-exercise">
+</note><section id="fs-id2642734" class="ost-tag-lo-apbio-ch09-s02-lo02 ost-tag-lo-apbio-ch09-s02-aplo-3-36">
 <title>Phosphorylation</title>
 <para id="fs-id2198400">One of the most common chemical modifications that occurs in signaling pathways is the addition of a phosphate group (PO<sub>4</sub><sup>–3</sup>) to a molecule such as a protein in a process called phosphorylation. The phosphate can be added to a nucleotide such as GMP to form GDP or GTP. Phosphates are also often added to serine, threonine, and tyrosine residues of proteins, where they replace the hydroxyl group of the amino acid (<link target-id="fig-ch09_02_02"/>). The transfer of the phosphate is catalyzed by an enzyme called a <term id="term-00006">kinase</term>. Various kinases are named for the substrate they phosphorylate. Phosphorylation of serine and threonine residues often activates enzymes. Phosphorylation of tyrosine residues can either affect the activity of an enzyme or create a binding site that interacts with downstream components in the signaling cascade. Phosphorylation may activate or inactivate enzymes, and the reversal of phosphorylation, dephosphorylation by a phosphatase, will reverse the effect.</para>
 <figure id="fig-ch09_02_02" class="ost-tag-lo-apbio-ch09-s02-lo02 ost-tag-lo-apbio-ch09-s02-aplo-3-36"><media id="fs-id1796409" alt="Molecular structures of phosphoserine, phosphothreonine and phosphotyrosine are shown. In each molecule, a phosphate is attached to an oxygen on the amino acid.">
     <image mime-type="image/jpg" src="../../media/Figure_09_02_02-01c8.jpg" width="280"/>
 </media>
 <caption>In protein phosphorylation, a phosphate group (PO<sub>4</sub><sup>-3 </sup>) is added to residues of the amino acids serine, threonine, and tyrosine.</caption></figure></section>
-<section id="fs-id2726979" class="ost-tag-lo-apbio-ch09-s02-lo02 ost-tag-lo-apbio-ch09-s02-aplo-3-36 ost-get-exercise">
+<section id="fs-id2726979" class="ost-tag-lo-apbio-ch09-s02-lo02 ost-tag-lo-apbio-ch09-s02-aplo-3-36">
 <title>Second Messengers</title>
 <para id="fs-id1465975"><term id="term-00007">Second messengers</term> are small molecules that propagate a signal after it has been initiated by the binding of the signaling molecule to the receptor. These molecules help to spread a signal through the cytoplasm by altering the behavior of certain cellular proteins.</para>
 <para id="fs-id2571182">Calcium ion is a widely used second messenger. The free concentration of calcium ions (Ca<sup>2+</sup>) within a cell is very low because ion pumps in the plasma membrane continuously use adenosine-5'-triphosphate (ATP) to remove it. For signaling purposes, Ca<sup>2+</sup> is stored in cytoplasmic vesicles, such as the endoplasmic reticulum, or accessed from outside the cell. When signaling occurs, ligand-gated calcium ion channels allow the higher levels of Ca<sup>2+</sup> that are present outside the cell (or in intracellular storage compartments) to flow into the cytoplasm, which raises the concentration of cytoplasmic Ca<sup>2+</sup>. The response to the increase in Ca<sup>2+</sup> varies, depending on the cell type involved. For example, in the β-cells of the pancreas, Ca<sup>2+</sup> signaling leads to the release of insulin, and in muscle cells, an increase in Ca<sup>2+</sup> leads to muscle contractions.</para><para id="fs-id1511305">Another second messenger utilized in many different cell types is <term id="term-00008">cyclic AMP (cAMP)</term>. Cyclic AMP is synthesized by the enzyme adenylyl cyclase from ATP (<link target-id="fig-ch09_02_03"/>). The main role of cAMP in cells is to bind to and activate an enzyme called <term id="term-00009">cAMP-dependent kinase (A-kinase)</term>. A-kinase regulates many vital metabolic pathways: It phosphorylates serine and threonine residues of its target proteins, activating them in the process. A-kinase is found in many different types of cells, and the target proteins in each kind of cell are different. Differences give rise to the variation of the responses to cAMP in different cells.</para>

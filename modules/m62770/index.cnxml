@@ -18,35 +18,54 @@
 
 <section id="fs-id1167065898123" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
-<para id="fs-id1167066113186">If a substance must move into the cell against its concentration gradient, the cell must use free energy, often provided by ATP, and carrier proteins acting as pumps to move the substance. Substances that move across membranes by this mechanism, a process called active transport, include ions, such as Na<sup>+</sup> and K<sup>+</sup>. The combined gradients that affect movement of an ion are its concentration gradient and its electrical gradient (the difference in charge across the membrane); together these gradients are called the electrochemical gradient. To move substances against an electrochemical gradient requires free energy. The sodium-potassium pump, which maintains electrochemical gradients across the membranes of nerve cells in animals, is an example of primary active transport. The formation of H<sup>+</sup> gradients by secondary active transport (co-transport) is important in cellular respiration and photosynthesis and moving glucose into cells.</para><para id="fs-id1167062305114" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and learning objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The learning objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices (SP). </para><table id="fs-id1167065807807" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.B.2 Growth and dynamic homeostasis are maintained by the constant movement of molecules across membranes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Learning Objective. Third right cell reads: 2.12 The student is able to use representations and models to analyze situations or solve problems qualitatively and quantitatively to investigate whether dynamic homeostasis is maintained by the active movement of molecules across membranes." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167066113186">If a substance must move into the cell against its concentration gradient, the cell must use free energy, often provided by ATP, and carrier proteins acting as pumps to move the substance. Substances that move across membranes by this mechanism, a process called active transport, include ions, such as Na<sup>+</sup> and K<sup>+</sup>. The combined gradients that affect movement of an ion are its concentration gradient and its electrical gradient (the difference in charge across the membrane); together these gradients are called the electrochemical gradient. To move substances against an electrochemical gradient requires free energy. The sodium-potassium pump, which maintains electrochemical gradients across the membranes of nerve cells in animals, is an example of primary active transport. The formation of H<sup>+</sup> gradients by secondary active transport (co-transport) is important in cellular respiration and photosynthesis and moving glucose into cells.</para>
+
+<para id="fs-id1167062305114" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 2.5 and 2.8 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para><table id="fs-id1167065807807" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.B.2 Growth and dynamic homeostasis are maintained by the constant movement of molecules across membranes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Learning Objective. Third right cell reads: 2.12 The student is able to use representations and models to analyze situations or solve problems qualitatively and quantitatively to investigate whether dynamic homeostasis is maintained by the active movement of molecules across membranes." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>2.5 Membrane Transport</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry>2.5.A Describe the mechanisms that organisms use to maintain solute and water balance.
+</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry>2.5.A.3 Active Transport requires the direct input of energy to move molecules. In some cases, active transport is utilized to move molecules from regions of low concentration to regions of high concentration.
+</entry></row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>3.D Questions and Methods- Propose a new investigation based on an evaluation of the experimental design or evidence.
+</entry></row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.B</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and dynamic homeostasis require that cells create and maintain internal environments that are different from their external environments.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>2.8 Mechanisms of Transport</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis>
 </entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.B.2</emphasis></span>
-<span class="ost-standards-description">Growth and dynamic homeostasis are maintained by the constant movement of molecules across membranes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4</emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch05-s03-aplo-2-12">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.12</emphasis></span>
-<span class="ost-standards-description">The student is able to use representations and models to analyze situations or solve problems qualitatively and quantitatively to investigate whether dynamic homeostasis is maintained by the active movement of molecules across membranes.</span>
+<entry>Describe the processes that allow ions and other molecules to move across membranes.
 </entry>
 </row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry>2.8.A.1 Metabolic energy (such as that from ATP) is required for active transport of molecules and ions across the membrane and to establish and maintain electrochemical gradients.<newline/>
+i. Membrane proteins are necessary for active transport.<newline/>
+ii. The Na+/K+ pump and ATPase contribute to the maintenance of the membrane potential.
+</entry></row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>31.B Concept Explanation- Explain biological concepts and processes.</entry></row>
+
+
+
 </tbody>
 
 
@@ -57,15 +76,14 @@
 <note id="fs-id1167066056325" class="os-teacher">
 <label>Teacher Support</label>
 <para id="fs-id1167065852590">Discuss with students the differences between passive and active transport using visuals such as <link window="new" url="https://openstax.org/l/32celltrans">this video</link>.</para></note>
-<para id="fs-id1166848677731">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.10][APLO 2.17][APLO 1.2][APLO 3.24]</para><para id="fs-id2074680"><term id="term-00001">Active transport</term> mechanisms require the use of the cell’s energy, usually in the form of adenosine triphosphate (ATP). If a substance must move into the cell against its concentration gradient—that is, if the concentration of the substance inside the cell is greater than its concentration in the extracellular fluid (and vice versa)—the cell must use energy to move the substance. Some active transport mechanisms move small-molecular weight materials, such as ions, through the membrane. Other mechanisms transport much larger molecules.</para>
-<section id="fs-id1318973" class="ost-tag-lo-apbio-ch05-s03-lo01 ost-tag-lo-apbio-ch05-s03-aplo-2-12 ost-get-exercise">
+<para id="fs-id1166848677731">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
+<section id="fs-id1318973" class="ost-tag-lo-apbio-ch05-s03-lo01 ost-tag-lo-apbio-ch05-s03-aplo-2-12">
 <title>Electrochemical Gradient</title>
 <para id="fs-id2004550">We have discussed simple concentration gradients—differential concentrations of a substance across a space or a membrane—but in living systems, gradients are more complex. Because ions move into and out of cells and because cells contain proteins that do not move across the membrane and are mostly negatively charged, there is also an electrical gradient, a difference of charge, across the plasma membrane. The interior of living cells is electrically negative with respect to the extracellular fluid in which they are bathed, and at the same time, cells have higher concentrations of potassium (K<sup>+</sup>) and lower concentrations of sodium (Na<sup>+</sup>) than does the extracellular fluid. So in a living cell, the concentration gradient of Na<sup>+</sup> tends to drive it into the cell, and the electrical gradient of Na<sup>+</sup> (a positive ion) also tends to drive it inward to the negatively charged interior. The situation is more complex, however, for other elements such as potassium. The electrical gradient of K<sup>+</sup>, a positive ion, also tends to drive it into the cell, but the concentration gradient of K<sup>+</sup> tends to drive K<sup>+</sup> <emphasis effect="italics">out</emphasis> of the cell (<link target-id="fig-ch05_03_01"/>). The combined gradient of concentration and electrical charge that affects an ion is called its <term id="term-00002">electrochemical gradient</term>.</para>
 
 <note id="fs-id2054981" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
 <para id="fs-id2054441">
-<figure id="fig-ch05_03_01" class="  "><media id="fs-id2187880" alt="This illustration shows a membrane bilayer with a potassium channel embedded in it. The cytoplasm has a high concentration of potassium associated with a negatively charged molecule. The extracellular fluid has a high concentration of sodium associated with chlorine ions.">
+<figure id="fig-ch05_03_01" class=" "><media id="fs-id2187880" alt="This illustration shows a membrane bilayer with a potassium channel embedded in it. The cytoplasm has a high concentration of potassium associated with a negatively charged molecule. The extracellular fluid has a high concentration of sodium associated with chlorine ions.">
 <image mime-type="image/jpg" src="../../media/Figure_05_03_01-d7da.jpg" width="550"/>
 </media>
 <caption>Electrochemical gradients arise from the combined effects of concentration gradients and electrical gradients. Na<sup>+</sup> ions are at higher concentration outside the cell, and K<sup>+</sup> ions are at  higher concentration inside of the cell, and yet the inside of the cell has negative net charge compared to the other side of the membrane. This is due to the presence of K<sup>+</sup> binding proteins and other negatively charged molecules. The difference in electrical charges attracts the positively charged Na ions toward the inside of the cell, the electrical gradient, while the K ions tend to flow through K channels toward the outside of the cell due to the concentration difference, the concentration gradient. Structures labeled A represent proteins. (credit: “Synaptitude”/Wikimedia Commons)</caption></figure></para>
@@ -83,14 +101,14 @@
 
 
 
-<section id="fs-id1772052" class="ost-get-exercise">
+<section id="fs-id1772052" class="">
 <title>Moving Against a Gradient</title>
 <para id="fs-id1594022">To move substances against a concentration or electrochemical gradient, the cell must use energy. This energy is harvested from ATP generated through the cell’s metabolism. Active transport mechanisms, collectively called <term id="term-00003">pumps</term>, work against electrochemical gradients. Small substances constantly pass through plasma membranes. Active transport maintains concentrations of ions and other substances needed by living cells in the face of these passive movements. Much of a cell’s supply of metabolic energy may be spent maintaining these processes. (Most of a red blood cell’s metabolic energy is used to maintain the imbalance between exterior and interior sodium and potassium levels required by the cell.) Because active transport mechanisms depend on a cell’s metabolism for energy, they are sensitive to many metabolic poisons that interfere with the supply of ATP.</para>
 <para id="fs-id1368350">Two mechanisms exist for the transport of small-molecular weight material and small molecules. <term id="term-00004">Primary active transport</term> moves ions across a membrane and creates a difference in charge across that membrane, which is directly dependent on ATP. <term id="term-00005">Secondary active transport</term> describes the movement of material that is due to the electrochemical gradient established by primary active transport that does not directly require ATP.</para>
 </section>
 
 
-<section id="fs-id1569987" class="ost-get-exercise">
+<section id="fs-id1569987" class="">
 <title>Carrier Proteins for Active Transport</title>
 <para id="fs-id1778201">An important membrane adaptation for active transport is the presence of specific carrier proteins or pumps to facilitate movement: there are three types of these proteins or <term id="term-00006">transporters</term> (<link target-id="fig-ch05_03_02"/>). A <term id="term-00007">uniporter</term> carries one specific ion or molecule. A <term id="term-00008">symporter</term> carries two different ions or molecules, both in the same direction. An <term id="term-00009">antiporter</term> also carries two different ions or molecules, but in different directions. All of these transporters can also transport small, uncharged organic molecules like glucose. These three types of carrier proteins are also found in facilitated diffusion, but they do not require ATP to work in that process. Some examples of pumps for active transport are Na<sup>+</sup>-K<sup>+</sup> ATPase, which carries sodium and potassium ions, and H<sup>+</sup>-K<sup>+</sup> ATPase, which carries hydrogen and potassium ions. Both of these are antiporter carrier proteins. Two other carrier proteins are Ca<sup>2+</sup> ATPase and H<sup>+</sup> ATPase, which carry only calcium and only hydrogen ions, respectively. Both are pumps.</para>
 
@@ -167,7 +185,7 @@
 </note>
 
 
-<section id="fs-id1454570" class="ost-tag-lo-apbio-ch05-s03-lo01 ost-tag-lo-apbio-ch05-s03-aplo-2-12 ost-get-exercise">
+<section id="fs-id1454570" class="ost-tag-lo-apbio-ch05-s03-lo01 ost-tag-lo-apbio-ch05-s03-aplo-2-12">
 <title>Secondary Active Transport (Co-transport)</title>
 <para id="fs-id1472126">Secondary active transport uses the kinetic energy of the sodium ions to bring other compounds, against their concentration gradient into the cell. As sodium ion concentrations build outside of the plasma membrane because of the primary active transport process, this creates an electrochemical gradient. If a channel protein exists and is open, the sodium ions will move down its concentration gradient across the membrane. This movement transports other substances that must be attached to the same transport protein in order for the sodium ions to move across the membrane (<link target-id="fig-ch05_03_04"/>). Many amino acids, as well as glucose, enter a cell this way. This secondary process is also used to store high-energy hydrogen ions in the mitochondria of plant and animal cells for the production of ATP. The potential energy that accumulates in the stored hydrogen ions is translated into kinetic energy as the ions surge through the channel protein ATP synthase, and that energy is used to convert ADP into ATP.</para>
 <note id="fs-id846110" class="visual-connection ost-assessed-feature"><label>Visual Connection</label><para id="fs-id1443315">

@@ -22,144 +22,43 @@
 <para id="fs-id1167064697088">Information in this section applies to concepts we explored in previous chapters by connecting them to the transport of water and solutes through a plant, showing ways that plants take up and transport materials. These concepts include the processes of photosynthesis and cellular respiration, the chemical and physical properties of water, and the coevolution of plants with mutualistic bacteria and fungi. The vascular system of terrestrial plants allows the efficient absorption and delivery of water through the cells that comprise xylem, whereas phloem delivers sugars produced in photosynthesis to all parts of the plant, including the roots for storage. The physical separation of xylem and phloem permits plants to move different nutrients simultaneously from roots to shoots and vice versa. Nearly all plants use related mechanisms of osmoregulation, and we will focus on the transport of water and other nutrients.</para>
 <para id="fs-id1167064896895" class="ost-reading-discard">You likely remember the concept of <emphasis>water potential</emphasis> (Ψ) from our exploration of diffusion and osmosis in the chapter where we discuss the structure and function of plasma membranes. Water potential is a measure of the differences in potential energy between a water sample with solutes and pure water. Water moves via osmosis from an area of higher water potential (more water molecules, less solute) to an area of lower water potential (less water, more solutes). The water potential in plant solutions is influenced by solute concentration, pressure, gravity, and other factors (matrix effects). Water potential and transpiration influence how water is transported through the xylem.</para>
 <para id="fs-id1167065959731" class="ost-reading-discard">Carbohydrates synthesized in photosynthesis, primarily sucrose, move from sources to sinks through the plant’s phloem. Sucrose produced in the Calvin cycle is loaded into the sieve-tube elements of the phloem, and the increased solute concentration causes water to move by osmosis from the xylem into the phloem.</para>
-<para id="fs-id1167064700382" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 and Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167064700382" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 2.7 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167065854784" summary="Table with two columns and seven rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.3 Molecules and atoms from the environment are necessary to build new molecules; the movement of water in a plant depends on the properties of water. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Learning Objective. 2.8 The student is able to justify the selection of data regarding the types of molecules that an animal, plant or bacterium will take up as necessary building blocks and excrete as waste products." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-a-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.3 </emphasis></span>
-<span class="ost-standards-description">Molecules and atoms from the environment are necessary to build new molecules; the movement of water in a plant depends on the properties of water.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-4-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.1: </emphasis></span>
-<span class="ost-standards-description">The student can justify the selection of the kind of data needed to answer a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-8">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.8 </emphasis></span>
-<span class="ost-standards-description">The student is able to justify the selection of data regarding the types of molecules that an animal, plant or bacterium will take up as necessary building blocks and excrete as waste products.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>Topic 2.7</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>2.7.B Explain how osmoregulatory mechanisms contribute to the health and survival of organisms.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>2.7.B.2 Osmoregulation maintains water balance and allows organisms to control their internal solute composition and water potential. Water moves from regions of low osmolarity to or solute concentration to regions of high osmolarity or solute concentration.<newline/>
+
+<emphasis>Relevant Equation</emphasis><newline/>
+Solute Potential of a Solution:<newline/>
+Ѱ<sub>s</sub> = –iCRT where:<newline/>
+i = ionization constant<newline/>
+C = molar concentration<newline/>
+R = pressure constant<newline/>
+T = temperature in Kelvin (°C + 273)</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>4.A Representing and Describing Data- Construct a graph to represent the data, including: x-y graphs (bar, histogram, line, log scale, dual y), scatter plot, box and whisker plot, and pie chart. The graph should include the following components:<newline/>
+i. Type of graph appropriate for the data<newline/>
+ii. Axis labeling, including appropriate units and legend<newline/>
+iii. Scaling<newline/>
+iv. Accurately plotted data (including error bars when appropriate)<newline/>
+v. trend line (when appropriate)</entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-a-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.3 </emphasis></span>
-<span class="ost-standards-description">Molecules and atoms from the environment are necessary to build new molecules; the movement of water in a plant depends on the properties of water.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1: </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4: </emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-9">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.9 </emphasis></span>
-<span class="ost-standards-description">The student is able to represent graphically or model quantitatively (or qualitatively) the exchange of molecules between an organism and its environment, and the subsequent use of these molecules to building new molecules that facilitate dynamic homeostasis, growth and reproduction.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
-</row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.4 </emphasis></span>
-<span class="ost-standards-description">Interactions and coordination between organs and organ systems provide essential biological activities.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-3-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.3: </emphasis></span>
-<span class="ost-standards-description">The student can evaluate scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-8">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.8 </emphasis></span>
-<span class="ost-standards-description">The student is able to evaluate scientific questions concerning organisms that exhibit complex properties due to the interaction of their constituent parts.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.4 </emphasis></span>
-<span class="ost-standards-description">Interactions and coordination between organs and organ systems provide essential biological activities.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-3-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.3: </emphasis></span>
-<span class="ost-standards-description">The student can evaluate scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-9">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.9 </emphasis></span>
-<span class="ost-standards-description">The student is able to predict the effects of a change in the component(s) of a biological system on the functionality of an organism(s).</span>
-</entry>
-</row>
-<row><entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
-</row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.4 </emphasis></span>
-<span class="ost-standards-description">Interactions and coordination between organs and organ systems provide essential biological activities.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.3: </emphasis></span>
-<span class="ost-standards-description">The student can refine representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4: </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-10">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.10 </emphasis></span>
-<span class="ost-standards-description">The student is able to refine representations and models to illustrate biocomplexity due to interactions of the constituent parts.</span>
-</entry>
-</row>
 </tbody>
 
 
@@ -169,10 +68,9 @@
 
 
 </tgroup>
-</table><para id="fs-id1166850206087">The Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.40][APLO 4.12][APLO 2.1][APLO 2.8][APLO 2.9][APLO 2.41][APLO 1.2][APLO 1.22][APLO 1.25][APLO 2.19][APLO 2.32]</para></section>
+</table><para id="fs-id1166850206087">The Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
 <para id="fs-idm41521616">The structure of plant roots, stems, and leaves facilitates the transport of water, nutrients, and photosynthates throughout the plant. The phloem and xylem are the main tissues responsible for this movement. Water potential, evapotranspiration, and stomatal regulation influence how water and nutrients are transported in plants. To understand how these processes work, we must first understand the energetics of water potential.</para>
-<section id="fs-idm147024512" class="ost-tag-lo-apbio-ch23-s05-lo01 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10 ost-get-exercise">
+<section id="fs-idm147024512" class="ost-tag-lo-apbio-ch23-s05-lo01 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10">
 <title>Water Potential</title>
 <para id="fs-idm99656496">Plants are phenomenal hydraulic engineers. Using only the basic laws of physics and the simple manipulation of potential energy, plants can move water to the top of a 116-meter-tall tree (<link target-id="fig-ch30_05_01"/><emphasis effect="bold">a</emphasis>). Plants can also use hydraulics to generate enough force to split rocks and buckle sidewalks (<link target-id="fig-ch30_05_01"/><emphasis effect="bold">b</emphasis>). Plants achieve this because of water potential.</para><figure id="fig-ch30_05_01"><media id="fs-idm17151216" alt="Photo (a) shows the brown trunk of a tall sequoia tree in a forest. Photo (b) shows a grey tree trunk growing between a road and a sidewalk. The roots have started to lift up and crack the concrete slabs of the sidewalk.">
 <image mime-type="image/jpg" src="../../media/Figure_30_05_01.jpg" width="450"/>
@@ -286,7 +184,7 @@
 <caption>Plants are suited to their local environment. (a) Xerophytes, like this prickly pear cactus (<emphasis effect="italics">Opuntia sp.</emphasis>) and (b) epiphytes such as this tropical <emphasis effect="italics">Aeschynanthus perrottetii</emphasis> have adapted to very limited water resources. (a) The leaves of a prickly pear are modified into spines, which lowers the surface-to-volume ratio and reduces water loss. Photosynthesis takes place in the stem, which also stores water. (b) <emphasis effect="italics">A. perottetii</emphasis> leaves have a waxy cuticle that prevents water loss. (c) Goldenrod (<emphasis effect="italics">Solidago sp.</emphasis>) is a mesophyte, well suited for moderate environments. (d) Hydrophytes, like this fragrant water lily (<emphasis effect="italics">Nymphaea odorata</emphasis>), are adapted to thrive in aquatic environments. (credit a: modification of work by Jon Sullivan; credit b: modification of work by L. Shyamal/Wikimedia Commons; credit c: modification of work by Huw Williams; credit d: modification of work by Jason Hollinger)</caption></figure><para id="fs-idm19329296">Xerophytes and epiphytes often have a thick covering of trichomes or of stomata that are sunken below the leaf’s surface. Trichomes are specialized hair-like epidermal cells that secrete oils and substances. These adaptations impede air flow across the stomatal pore and reduce transpiration. Multiple epidermal layers are also commonly found in these types of plants.</para>
 </section>
 </section>
-<section id="fs-idm19354272" class="ost-tag-lo-apbio-ch23-s05-lo03 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10 ost-get-exercise">
+<section id="fs-idm19354272" class="ost-tag-lo-apbio-ch23-s05-lo03 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10">
 <title>Transportation of Photosynthates in the Phloem</title>
 <para id="fs-idm1157104">Plants need an energy source to grow. In seeds and bulbs, food is stored in polymers (such as starch) that are converted by metabolic processes into sucrose for newly developing plants. Once green shoots and leaves are growing, plants are able to produce their own food by photosynthesizing. The products of photosynthesis are called photosynthates, which are usually in the form of simple sugars such as sucrose.</para>
 <para id="fs-idp31697792">Structures that produce photosynthates for the growing plant are referred to as <emphasis>sources</emphasis>. Sugars produced in sources, such as leaves, need to be delivered to growing parts of the plant via the phloem in a process called <emphasis>translocation</emphasis>. The points of sugar delivery, such as roots, young shoots, and developing seeds, are called <emphasis>sinks</emphasis>. Seeds, tubers, and bulbs can be either a source or a sink, depending on the plant’s stage of development and the season.</para>
@@ -294,11 +192,11 @@
 <section id="fs-idp117936912" class="ost-tag-lo-apbio-ch23-s05-lo03 ost-tag-lo-apbio-ch23-s05-aplo-4-9 ost-tag-lo-apbio-ch23-s05-aplo-4-10">
 <title>Translocation: Transport from Source to Sink</title>
 <para id="fs-idm95744672">Photosynthates, such as sucrose, are produced in the mesophyll cells of photosynthesizing leaves. From there they are translocated through the phloem to where they are used or stored. Mesophyll cells are connected by cytoplasmic channels called plasmodesmata. Photosynthates move through these channels to reach phloem sieve-tube elements (STEs) in the vascular bundles. From the mesophyll cells, the photosynthates are loaded into the phloem STEs. The sucrose is actively transported against its concentration gradient (a process requiring ATP) into the phloem cells using the electrochemical potential of the proton gradient. This is coupled to the uptake of sucrose with a carrier protein called the sucrose-H<sup>+</sup> symporter.</para><para id="fs-idm79174800">Phloem STEs have reduced cytoplasmic contents, and are connected by a sieve plate with pores that allow for pressure-driven bulk flow, or translocation, of phloem sap. Companion cells are associated with STEs. They assist with metabolic activities and produce energy for the STEs (<link target-id="fig-ch30_05_06"/>).</para>
-<figure id="fig-ch30_05_06" class="ost-tag-lo-apbio-ch23-s05-lo03"><media id="fs-idm11981168" alt="Illustration shows phloem, a column-like structure that is composed of stacks of cylindrical cells called sieve-tube elements. Each companion cell is separated by a sieve-tube plate. The sieve-tube plate has holes in it, like a slice of Swiss cheese. Lateral sieve areas on the side of the column allow different phloem tubes to interact and provide access to the companion cells.">
+<figure id="fig-ch30_05_06"><media id="fs-idm11981168" alt="Illustration shows phloem, a column-like structure that is composed of stacks of cylindrical cells called sieve-tube elements. Each companion cell is separated by a sieve-tube plate. The sieve-tube plate has holes in it, like a slice of Swiss cheese. Lateral sieve areas on the side of the column allow different phloem tubes to interact and provide access to the companion cells.">
 <image mime-type="image/jpg" src="../../media/Figure_30_05_06.jpg" width="225"/>
 </media>
 <caption>Phloem is comprised of cells called sieve-tube elements. Phloem sap travels through perforations called sieve tube plates. Neighboring companion cells carry out metabolic functions for the sieve-tube elements and provide them with energy. Lateral sieve areas connect the sieve-tube elements to the companion cells.</caption></figure><para id="fs-idm79203024">Once in the phloem, the photosynthates are translocated to the closest sink. Phloem sap is an aqueous solution that contains up to 30 percent sugar, minerals, amino acids, and plant growth regulators. The high percentage of sugar decreases Ψ<sub>s,</sub> which decreases the total water potential and causes water to move by osmosis from the adjacent xylem into the phloem tubes, thereby increasing pressure. This increase in total water potential causes the bulk flow of phloem from source to sink (<link target-id="fig-ch30_05_07"/>). Sucrose concentration in the sink cells is lower than in the phloem STEs because the sink sucrose has been metabolized for growth, or converted to starch for storage or other polymers, such as cellulose, for structural integrity. Unloading at the sink end of the phloem tube occurs by either diffusion or active transport of sucrose molecules from an area of high concentration to one of low concentration. Water diffuses from the phloem by osmosis and is then transpired or recycled via the xylem back into the phloem sap.</para>
-<figure id="fig-ch30_05_07" class="ost-tag-lo-apbio-ch23-s05-lo03"><media id="fs-idm2302400" alt="Illustration shows the transpiration of water up the tubes of the xylem from a root sink cell. At the same time, sucrose is translocated down the phloem to the root sink cell from a leaf source cell. The sucrose concentration is high in the  source cell, and gradually decreases from the source to the root.">
+<figure id="fig-ch30_05_07"><media id="fs-idm2302400" alt="Illustration shows the transpiration of water up the tubes of the xylem from a root sink cell. At the same time, sucrose is translocated down the phloem to the root sink cell from a leaf source cell. The sucrose concentration is high in the  source cell, and gradually decreases from the source to the root.">
 <image mime-type="image/jpg" src="../../media/Figure_30_05_07.jpg" width="240"/>
 </media>
 

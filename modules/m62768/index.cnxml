@@ -21,39 +21,43 @@
 
 <section id="fs-id1167067100612" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
-<para id="fs-id1167063503549">Adenosine triphosphate or ATP is the energy currency or carrier of the cell. When cells require an input of energy, they use ATP. An ATP nucleotide molecule consists of a five-carbon sugar, the nitrogenous base adenine, and three phosphate groups. (Do not confuse ATP with the nucleotides of DNA and RNA, although they have structural similarities.) The bonds that connect the phosphate have high-energy content, and the energy released from the hydrolysis of ATP to ADP + P<sub>i</sub> (Adenosine Diphosphate + phosphate) is used to perform cellular work, such as contracting a muscle or pumping a solute across a cell membrane in active transport. Cells use ATP by coupling the exergonic reaction of ATP hydrolysis with endergonic reactions, with ATP donating its phosphate group to another molecule via a process called phosphorylation. The phosphorylated molecule is at a higher energy state and is less stable than its unphosphorylated form and free energy is released to substrates to perform work during this process. Phosphorylation is an example of energy transfer between molecules.</para><para id="fs-id1167063730487" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167067217629" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.1 All living systems require constant input of free energy. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 2.1 The student is able to explain how biological systems use free energy based on empirical data that all organisms require constant energy input to maintain organization, to grow, and to reproduce." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167063503549">Adenosine triphosphate or ATP is the energy currency or carrier of the cell. When cells require an input of energy, they use ATP. An ATP nucleotide molecule consists of a five-carbon sugar, the nitrogenous base adenine, and three phosphate groups. (Do not confuse ATP with the nucleotides of DNA and RNA, although they have structural similarities.) The bonds that connect the phosphate have high-energy content, and the energy released from the hydrolysis of ATP to ADP + P<sub>i</sub> (Adenosine Diphosphate + phosphate) is used to perform cellular work, such as contracting a muscle or pumping a solute across a cell membrane in active transport. Cells use ATP by coupling the exergonic reaction of ATP hydrolysis with endergonic reactions, with ATP donating its phosphate group to another molecule via a process called phosphorylation. The phosphorylated molecule is at a higher energy state and is less stable than its unphosphorylated form and free energy is released to substrates to perform work during this process. Phosphorylation is an example of energy transfer between molecules.</para><para id="fs-id1167063730487" class="ost-reading-discard">Information presented and the examples highlighted in the section in this section support concepts and Learning Objectives outlined in Topics 2.8 and 3.3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para><table id="fs-id1167067217629" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.1 All living systems require constant input of free energy. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 2.1 The student is able to explain how biological systems use free energy based on empirical data that all organisms require constant energy input to maintain organization, to grow, and to reproduce." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.1</emphasis></span>
-<span class="ost-standards-description">All living systems require constant input of free energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s04-aplo-2-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.1</emphasis></span>
-<span class="ost-standards-description">The student is able to explain how biological systems use free energy based on empirical data that all organisms require constant energy input to maintain organization, to grow, and to reproduce.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>2.8 Mechanisms of Transport</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>2.8.A Describe the processes that allow ions and other molecules to move across membranes.</entry>
 </row>
-</tbody>
-
-</tgroup>
-</table></section>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>2.8.A.1 Metabolic energy (such as that from ATP) is required for active transport of molecules and ions across the membrane and to establish and maintain electrochemical gradients.<newline/>
+ii. The Na+/K+ pump and ATPase contribute to the maintenance of the membrane potential.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1B Concept Explanation- Explain biological concepts and processes.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>3.3 Cellular Energy</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>3.3.A.2 Life requires a highly ordered system and does not violate the first and second laws of thermodynamics.<newline/>
+i. Energy input must exceed energy loss to maintain order and to power cellular processes.<newline/>
+ii. Cellular processes that release energy may be coupled with cellular processes that require energy.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.C Argumentation- Provide reasoning to justify a claim by connecting evidence to biological theories.</entry>
+</row>
+</tbody></tgroup>
+</table>
+<para id="para-00001">The Science Practices Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
 
 
 <note id="fs-id1167067111161" class="os-teacher">
@@ -62,8 +66,7 @@
 <label>Background Information</label>
 <para id="fs-id1167066847650">It is easy to say that ATP carries energy and transfers it to chemicals to fuel reactions. The hard part is in answering the question, how? All three phosphates are negatively charged and naturally repel each other. Energy is needed to keep them together. Line them up and the repelling forces increase and makes it difficult to get the third phosphate attached. This requires much more energy and creates an unstable bond. Energy is stored in this easily broken bond and can be passed on when the third phosphate is used to phosphorylate another compound. It brings the energy with it and losses some in the transfer, creating wasted energy as heat.</para>
 </note></note>
-<para id="fs-id1166850208695">The Science Practices Assessment Ancillary contains additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.2][APLO 4.14][APLO 2.7][APLO 2.35]</para>
+<para id="fs-id1166850208695">The Science Practices Assessment Ancillary contains additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam. </para>
 <para id="fs-id2155409">Even exergonic, energy-releasing reactions require a small amount of activation energy in order to proceed. However, consider endergonic reactions, which require much more energy input, because their products have more free energy than their reactants. Within the cell, where does energy to power such reactions come from? The answer lies with an energy-supplying molecule called <term id="term-00001">adenosine triphosphate</term>, or <term id="term-00002">ATP</term>. ATP is a small, relatively simple molecule (<link target-id="fs-id1167067148019"/>), but within some of its bonds, it contains the potential for a quick burst of energy that can be harnessed to perform cellular work. This molecule can be thought of as the primary energy currency of cells in much the same way that money is the currency that people exchange for things they need. ATP is used to power the majority of energy-requiring cellular reactions.</para><figure id="fs-id1167067148019" class="ost-tag-lo-apbio-ch06-s03-lo01 ost-tag-lo-apbio-ch06-s04-aplo-2-1"><media id="fs-id1870581" alt="The molecular structure of adenosine triphosphate is shown. Three phosphate groups are attached to a ribose sugar. Adenine is also attached to the ribose.">
 <image mime-type="image/jpg" src="../../media/Figure_06_04_01-aa87.jpg" width="320"/>
 </media>

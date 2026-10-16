@@ -21,74 +21,49 @@
 <para id="fs-id1167066875676">Muscles move bones, and, in turn, muscle contraction is dependent upon input from the nervous systems. The activities at the neuromuscular junction are similar to the activities occurring at the synapses between neurons.</para>
 <para id="fs-id1167063515644" class="ost-reading-discard">There are approximately 650 skeletal muscles in the human body, each of which is composed of muscle fibers. (The body also contains specialized smooth and cardiac muscle tissue.) In addition to the collection of organelles typical of eukaryotic cells, each muscle fiber contains myofibrils, which, in turn, consist of arrangements of protein filaments called actin and myosin. In the sliding filament model of muscle contraction, the thicker myosin filaments have cross-bridges that attach and detach to thinner actin filaments. The binding of myosin to actin causes the actin filaments to slide, shortening the muscle fiber. ATP produced in cellular respiration provides the energy needed for contraction. However, contraction requires a signal from the nervous system (excitation-contraction coupling).</para>
 <para id="fs-id1167067068951" class="ost-reading-discard">Nerve impulses traveling down motor neurons cause the release of the acetylcholine from vesicles in the axon terminus into the synapse between the neuron and the muscle fiber. Acetylcholine binds to receptors on the plasma membrane (sarcolemma) of the muscle fiber, allowing an action potential to move to the endoplasmic reticulum where calcium ions are stored. When Ca<sup>2+</sup> is released in response to the change in voltage, it binds to actin, causing actin filaments to shift position and revealing myosin binding sites for the cross-bridges. The muscle contracts until the nerve impulse stops and Ca<sup>2+</sup> returns to its storage sites. The enzyme acetylcholinesterase removes lingering acetylcholine from the synaptic cleft.</para>
-<para id="fs-id1167067258968" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+
+<para id="fs-id1167067258968" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 2.6 and 2.8 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167063486355" summary="Table with two columns and three rows. First left cell reads: Essential Knowledge. First right cell reads: 4.A.4 Organisms exhibit complex properties due to interactions between their constituent parts. Second left cell reads: Science Practice. Second right cell reads: 3.3 The student can evaluate scientific questions. Third left cell reads: Learning Objectives. Third right cell reads: 4.8 The student is able to evaluate scientific questions concerning organisms that exhibit complex properties due to the interaction of their constituent parts." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry></row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.4 </emphasis></span>
-<span class="ost-standards-description">Organisms exhibit complex properties due to interactions between their constituent parts.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-3-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.3 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-8">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.8 </emphasis></span>
-<span class="ost-standards-description">The student is able to evaluate scientific questions concerning organisms that exhibit complex properties due to the interaction of their constituent parts.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>2.6 Facilitated Diffusion</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>2.6.A Explain how the structure of a molecule affects its ability to pass through the plasma membrane.</entry>
+</row>
+<row>
+<entry namest="col1">2.6.A.1 Facilitated diffusion requires transport or channel proteins to enable the movement of charged ions across the membrane.<newline/>
+i. Membranes may become polarized by the movement of ions across the membrane.<newline/>
+ii Charged ions, including Na<sup>+</sup> (sodium) and K<sup>+</sup> (potassium) require channel proteins to move through the membrane.<emphasis>Essential Knowledge</emphasis></entry>
+<entry></entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one of more components in a biological system.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>2.8 Mechanisms of Transport</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>Describe the processes that allow ions and other molecules to move across membranes.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>2.8.A.1 Metabolic energy (such as that from ATP) is required for active transport of molecules and ions across the membrane and to establish and maintain electrochemical gradients.<newline/>
+i. Membrane proteins are necessary for active transport.<newline/>
+ii. The Na<sup>+</sup>/K<sup>+</sup> pump and ATPase contribute to the maintenance of the membrane potential.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.B Concept Explanation- Explain biological concepts and processes.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.4 </emphasis></span>
-<span class="ost-standards-description">Organisms exhibit complex properties due to interactions between their constituent parts.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-9">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.9 </emphasis></span>
-<span class="ost-standards-description">The student is able to predict the effects of a change in a component(s) of a biological system on the functionality of an organism(s).</span>
-</entry>
-</row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.4 </emphasis></span>
-<span class="ost-standards-description">Organisms exhibit complex properties due to interactions between their constituent parts.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.3 </emphasis></span>
-<span class="ost-standards-description">The student can refine representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-10">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.10 </emphasis></span>
-<span class="ost-standards-description">The student is able to refine representations and models to illustrate biocomplexity due to interactions of the constituent parts.</span>
-</entry>
-</row>
 </tbody>
 
 
@@ -97,22 +72,22 @@
 </tgroup>
 </table></section>
 <para id="fs-idp80752496">Muscle cells are specialized for contraction. Muscles allow for motions such as walking, and they also facilitate bodily processes such as respiration and digestion. The body contains three types of muscle tissue: skeletal muscle, cardiac muscle, and smooth muscle (<link target-id="fig-ch38_04_01"/>).</para>
-<figure id="fig-ch38_04_01" class="ost-tag-lo-apbio-ch29-s04-lo01"><media id="fs-idm43075936" alt="The skeletal muscle cells are long and arranged in parallel bands that give the appearance of striations. Each cell has multiple nuclei. Smooth muscle cells have no striations and only one nuclei per cell. Cardiac muscles are striated but have only one nucleus.">
+<figure id="fig-ch38_04_01"><media id="fs-idm43075936" alt="The skeletal muscle cells are long and arranged in parallel bands that give the appearance of striations. Each cell has multiple nuclei. Smooth muscle cells have no striations and only one nuclei per cell. Cardiac muscles are striated but have only one nucleus.">
 <image mime-type="image/jpg" src="../../media/Figure_38_04_01.jpg" width="575"/>
 </media>
 <caption>The body contains three types of muscle tissue: skeletal muscle, smooth muscle, and cardiac muscle, visualized here using light microscopy. Skeletal muscle cells are long, cylindrical cells with multiple nuclei. Smooth muscle cells are short, tapered at each end, and have only one plump nucleus in each. Cardiac muscle cells are branched and striated, but short. The cytoplasm may branch, and they have one nucleus in the center of the cell. (credit: modification of work by NCI, NIH; scale-bar data from Matt Russell)</caption></figure><para id="fs-idp83949408"><emphasis>Skeletal muscle tissue</emphasis> forms skeletal muscles, which attach to bones or skin and control locomotion and any movement that can be consciously controlled. Because it can be controlled by thought, skeletal muscle is also called voluntary muscle. Skeletal muscles are long and cylindrical in appearance; when viewed under a microscope, skeletal muscle tissue has a striped or striated appearance. The striations are caused by the regular arrangement of contractile proteins (actin and myosin). <emphasis>Actin</emphasis> is a globular contractile protein that interacts with <emphasis>myosin</emphasis> for muscle contraction. Skeletal muscle also has multiple nuclei present in a single cell.</para>
 <para id="fs-idm38953616"><emphasis>Smooth muscle tissue</emphasis> occurs in the walls of hollow organs such as the intestines, stomach, and urinary bladder, and around passages such as the respiratory tract and blood vessels. Smooth muscle has no striations, is not under voluntary control, has only one nucleus per cell, is tapered at both ends, and is called involuntary muscle.</para>
 <para id="fs-idm194526608"><emphasis>Cardiac muscle tissue</emphasis> is only found in the heart, and cardiac contractions pump blood throughout the body and maintain blood pressure. Like skeletal muscle, cardiac muscle is striated, but unlike skeletal muscle, cardiac muscle cannot be consciously controlled and is called involuntary muscle. It has one nucleus per cell, is branched, and is distinguished by the presence of intercalated disks.</para>
-<section id="fs-idm71421024" class="ost-tag-lo-apbio-ch29-s04-lo01 ost-get-exercise">
+<section id="fs-idm71421024">
 <title>Skeletal Muscle Fiber Structure</title>
 <para id="fs-idm58173872">Each skeletal muscle fiber is a skeletal muscle cell. These cells are incredibly large, with diameters of up to 100  µm and lengths of up to 30 cm. The plasma membrane of a skeletal muscle fiber is called the <emphasis>sarcolemma</emphasis>. The sarcolemma is the site of action potential conduction, which triggers muscle contraction. Within each muscle fiber are <emphasis>myofibrils</emphasis>—long cylindrical structures that lie parallel to the muscle fiber. Myofibrils run the entire length of the muscle fiber, and because they are only approximately 1.2  µm in diameter, hundreds to thousands can be found inside one muscle fiber. They attach to the sarcolemma at their ends, so that as myofibrils shorten, the entire muscle cell contracts (<link target-id="fig-ch38_04_02"/>).</para>
-<figure id="fig-ch38_04_02" class="ost-tag-lo-apbio-ch29-s04-lo01"><media id="fs-idm105412080" alt="Illustration shows a long, tubular skeletal muscle cell that runs the length of a muscle fiber. Long, cylindrical bundles called myofibrils run the length of the cell. The myofibrils have a banded appearance.  A sarcoplasm exists around the myofibrils, and the sarcolemma surrounds everything.">
+<figure id="fig-ch38_04_02"><media id="fs-idm105412080" alt="Illustration shows a long, tubular skeletal muscle cell that runs the length of a muscle fiber. Long, cylindrical bundles called myofibrils run the length of the cell. The myofibrils have a banded appearance.  A sarcoplasm exists around the myofibrils, and the sarcolemma surrounds everything.">
 <image mime-type="image/jpg" src="../../media/Figure_38_04_02.jpg" width="575"/>
 </media>
 <caption>A skeletal muscle cell is surrounded by a plasma membrane called the sarcolemma with a cytoplasm called the sarcoplasm. A muscle fiber is composed of many fibrils, packaged into orderly units.</caption></figure>
 <para id="fs-idm158318192">The striated appearance of skeletal muscle tissue is a result of repeating bands of the proteins actin and myosin that are present along the length of myofibrils. Dark A bands and light I bands repeat along myofibrils, and the alignment of myofibrils in the cell causes the entire cell to appear striated or banded.</para>
 <para id="fs-idm193787136">Each I band has a dense line running vertically through the middle called a Z disc or Z line. The Z discs mark the border of units called <emphasis>sarcomeres</emphasis>, which are the functional units of skeletal muscle. One sarcomere is the space between two consecutive Z discs and contains one entire A band and two halves of an I band, one on either side of the A band. A myofibril is composed of many sarcomeres running along its length, and as the sarcomeres individually contract, the myofibrils and muscle cells shorten (<link target-id="fig-ch38_04_03"/>).</para>
-<figure id="fig-ch38_04_03" class="ost-tag-lo-apbio-ch29-s04-lo01"><media id="fs-idp75106608" alt="Illustration shows part of a tubular myofibril, which consists of many sarcomeres. Zigzagging lines, called Z lines, run perpendicular to the fiber. Each sarcomere starts at one Z line and ends at the next. A straight perpendicular line, called an M line, exists halfway between each Z line. Thick filaments extend out from the M lines, parallel to the length of the myofibril. Thin filaments extend from the Z lines, and extend into the space between the thick filaments.">
+<figure id="fig-ch38_04_03"><media id="fs-idp75106608" alt="Illustration shows part of a tubular myofibril, which consists of many sarcomeres. Zigzagging lines, called Z lines, run perpendicular to the fiber. Each sarcomere starts at one Z line and ends at the next. A straight perpendicular line, called an M line, exists halfway between each Z line. Thick filaments extend out from the M lines, parallel to the length of the myofibril. Thin filaments extend from the Z lines, and extend into the space between the thick filaments.">
 <image mime-type="image/jpg" src="../../media/Figure_B38_04_03-myofibril.jpg" width="320"/>
 </media>
 <caption>A sarcomere is the region from one Z line to the next Z line. Many sarcomeres are present in a myofibril, resulting in the striation pattern characteristic of skeletal muscle.</caption></figure>
@@ -129,15 +104,15 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-idm188124656" class="ost-tag-lo-apbio-ch29-s04-lo01 ost-get-exercise">
+<section id="fs-idm188124656">
 <title>Sliding Filament Model of Contraction</title>
 <para id="fs-idm92961376">For a muscle cell to contract, the sarcomere must shorten. However, thick and thin filaments—the components of sarcomeres—do not shorten. Instead, they slide by one another, causing the sarcomere to shorten while the filaments remain the same length. The sliding filament theory of muscle contraction was developed to fit the differences observed in the named bands on the sarcomere at different degrees of muscle contraction and relaxation. The mechanism of contraction is the binding of myosin to actin, forming cross-bridges that generate filament movement (<link target-id="fig-ch38_04_04"/>).</para>
-<figure id="fig-ch38_04_04" class="ost-tag-lo-apbio-ch29-s04-lo01"><media id="fs-idm192394144" alt="Part A of the illustration shows a relaxed muscle fiber. Two zigzagging Z lines extend from top to bottom. Thin actin filaments extend left and right from each Z line. Between the Z lines is a vertical M line. Thick myosin filaments extend left and right from the M line. The thick and thin filaments partially overlap. The A band represents the length that the thick filaments extend from both sides of the M line. The I band represents the part of the thin filaments that does not overlap with the thick filaments. Part B shows a contracted muscle fiber. In the contracted fiber, the thick and thin filaments completely overlap. The A band is the same length as in the uncontracted muscle, but the I band has shrunken to the width of the Z line.">
+<figure id="fig-ch38_04_04"><media id="fs-idm192394144" alt="Part A of the illustration shows a relaxed muscle fiber. Two zigzagging Z lines extend from top to bottom. Thin actin filaments extend left and right from each Z line. Between the Z lines is a vertical M line. Thick myosin filaments extend left and right from the M line. The thick and thin filaments partially overlap. The A band represents the length that the thick filaments extend from both sides of the M line. The I band represents the part of the thin filaments that does not overlap with the thick filaments. Part B shows a contracted muscle fiber. In the contracted fiber, the thick and thin filaments completely overlap. The A band is the same length as in the uncontracted muscle, but the I band has shrunken to the width of the Z line.">
 <image mime-type="image/jpg" src="../../media/Figure_B38_04_04-filaments.jpg" width="575"/>
 </media>
 <caption>When (a) a sarcomere (b) contracts, the Z lines move closer together and the I band gets smaller. The A band stays the same width and, at full contraction, the thin filaments overlap.</caption></figure><para id="fs-idm183990384">When a sarcomere shortens, some regions shorten whereas others stay the same length. A sarcomere is defined as the distance between two consecutive Z discs or Z lines; when a muscle contracts, the distance between the Z discs is reduced. The H zone—the central region of the A zone—contains only thick filaments and is shortened during contraction. The I band contains only thin filaments and also shortens. The A band does not shorten—it remains the same length—but A bands of different sarcomeres move closer together during contraction, eventually disappearing. Thin filaments are pulled by the thick filaments toward the center of the sarcomere until the Z discs approach the thick filaments. The zone of overlap, in which thin filaments and thick filaments occupy the same area, increases as the thin filaments move inward.</para>
 </section>
-<section id="fs-idm31740224" class="ost-tag-lo-apbio-ch29-s04-lo01 ost-get-exercise">
+<section id="fs-idm31740224">
 <title>ATP and Muscle Contraction</title>
 <para id="fs-idm103659600">The motion of muscle shortening occurs as myosin heads bind to actin and pull the actin inwards. This action requires energy, which is provided by ATP. Myosin binds to actin at a binding site on the globular actin protein. Myosin has another binding site for ATP at which enzymatic activity hydrolyzes ATP to ADP, releasing an inorganic phosphate molecule and energy.</para>
 <para id="fs-idp48454480">ATP binding causes myosin to release actin, allowing actin and myosin to detach from each other. After this happens, the newly bound ATP is converted to ADP and inorganic phosphate, P<sub>i</sub>. The enzyme at the binding site on myosin is called ATPase. The energy released during ATP hydrolysis changes the angle of the myosin head into a “cocked” position. The myosin head is then in a position for further movement, possessing potential energy, but ADP and P<sub>i</sub> are still attached.  If actin binding sites are covered and unavailable, the myosin will remain in the high energy configuration with ATP hydrolyzed, but still attached.</para>
@@ -184,12 +159,12 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-idp31333072" class="ost-tag-lo-apbio-ch29-s04-lo01 ost-get-exercise">
+<section id="fs-idp31333072">
     <title>Regulatory Proteins</title>
 <para id="fs-idm25000656">When a muscle is in a resting state, actin and myosin are separated. To keep actin from binding to the active site on myosin, regulatory proteins block the molecular binding sites. <emphasis>Tropomyosin</emphasis> blocks myosin binding sites on actin molecules, preventing cross-bridge formation and preventing contraction in a muscle without nervous input. <emphasis>Troponin</emphasis> binds to tropomyosin and helps to position it on the actin molecule; it also binds calcium ions.</para>
 <para id="fs-idm106373872">To enable a muscle contraction, tropomyosin must change conformation, uncovering the myosin-binding site on an actin molecule and allowing cross-bridge formation. This can only happen in the presence of calcium, which is kept at extremely low concentrations in the sarcoplasm. If present, calcium ions bind to troponin, causing conformational changes in troponin that allow tropomyosin to move away from the myosin binding sites on actin. Once the tropomyosin is removed, a cross-bridge can form between actin and myosin, triggering contraction. Cross-bridge cycling continues until either Ca<sup>2+</sup> ions or ATP are no longer available and tropomyosin again covers the binding sites on actin.</para>
 </section>
-<section id="fs-idm29815056" class="ost-tag-lo-apbio-ch29-s04-lo01 ost-get-exercise">
+<section id="fs-idm29815056">
     <title>Excitation–Contraction Coupling</title>
 <para id="fs-idm56103456">Excitation–contraction coupling is the link (transduction) between the action potential generated in the sarcolemma and the start of a muscle contraction. The trigger for calcium release from the sarcoplasmic reticulum into the sarcoplasm is a neural signal. Each skeletal muscle fiber is controlled by a motor neuron, which conducts signals from the brain or spinal cord to the muscle. The area of the sarcolemma on the muscle fiber that interacts with the neuron is called the <emphasis>motor end plate</emphasis>. The end of the neuron’s axon is called the synaptic terminal, and it does not actually contact the motor end plate. A small space called the synaptic cleft separates the synaptic terminal from the motor end plate. Electrical signals travel along the neuron’s axon, which branches through the muscle and connects to individual muscle fibers at a neuromuscular junction.</para>
 <para id="fs-idm72592000">The ability of cells to communicate electrically requires that the cells expend energy to create an electrical gradient across their cell membranes.  This charge gradient is carried by ions, which are differentially distributed across the membrane.  Each ion exerts an electrical influence and a concentration influence.  Just as milk will eventually mix with coffee without the need to stir, ions also distribute themselves evenly, if they are permitted to do so.  In this case, they are not permitted to return to an evenly mixed state.</para>
@@ -213,7 +188,7 @@
 </exercise>
 </note><para id="fs-idm92051152">After depolarization, the membrane returns to its resting state. This is called repolarization, during which voltage-gated sodium channels close. Potassium channels continue at 90% conductance. Because the plasma membrane sodium–potassium ATPase always transports ions, the resting state (negatively charged inside relative to the outside) is restored. The period immediately following the transmission of an impulse in a nerve or muscle, in which a neuron or muscle cell regains its ability to transmit another impulse, is called the refractory period. During the refractory period, the membrane cannot generate another action potential. . The refractory period allows the voltage-sensitive ion channels to return to their resting configurations. The sodium potassium ATPase continually moves Na<sup>+</sup> back out of the cell and K<sup>+</sup> back into the cell, and the K<sup>+</sup> leaks out leaving negative charge behind. Very quickly, the membrane repolarizes, so that it can again be depolarized.</para>
     </section>
-<section id="fs-idm104729504" class="ost-tag-lo-apbio-ch29-s04-lo01 ost-get-exercise">
+<section id="fs-idm104729504">
 <title>Control of Muscle Tension</title>
 <para id="fs-idp49742144">Neural control initiates the formation of actin–myosin cross-bridges, leading to the sarcomere shortening involved in muscle contraction. These contractions extend from the muscle fiber through connective tissue to pull on bones, causing skeletal movement. The pull exerted by a muscle is called tension, and the amount of force created by this tension can vary. This enables the same muscles to move very light objects and very heavy objects. In individual muscle fibers, the amount of tension produced depends on the cross-sectional area of the muscle fiber and the frequency of neural stimulation.</para>
 <para id="fs-idm160082032">The number of cross-bridges formed between actin and myosin determine the amount of tension that a muscle fiber can produce. Cross-bridges can only form where thick and thin filaments overlap, allowing myosin to bind to actin. If more cross-bridges are formed, more myosin will pull on actin, and more tension will be produced.</para>

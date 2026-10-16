@@ -20,40 +20,48 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167064928874">Much of the information in this section is an application of the material we explored in the Cell Communication chapter about cell communication and signaling pathways. Hormones are chemical signals (ligands) that mediate changes in target cells by binding to specific receptors. Even though hormones released by endocrine glands can travel long distances through the blood and come into contact with many different cell types, they only affect cells that possess the necessary receptors. Depending on the location of the receptor on the target cell and the chemical structure of the hormone, for example, whether or not it is lipid-soluble, hormones can mediate changes directly by binding to <emphasis>intracellular hormone receptors</emphasis> and modulating gene expression (transcription and translation), or indirectly by binding to cell surface receptors and simulating signaling pathways.</para>
 <para id="fs-id1167063087931" class="ost-reading-discard">The hormone binds to its receptor like a key fits a lock. Because a lipid-derived hormone such as a steroid hormone can diffuse across the membrane of the target cell, they bind to intracellular receptors residing in the cytoplasm or in the nucleus. The cell signaling pathways induced by steroid hormones regulate specific genes by acting as transcription regulators. In turn, this affects the amount of protein produced. Lipid-derived hormones that are not steroids, for example, vitamin D and thyroxin, bind to receptors located in the nucleus of the target cell.</para>
-<para id="fs-id1167065067029" class="ost-reading-discard">Because amino acid-derived hormones (with the exception of thyroxine) and polypeptide hormones are not lipid-soluble, they bind to <emphasis>plasma membrane hormone receptors</emphasis> located on the outer surface of the membrane. Unlike steroid hormones, they cannot act directly on DNA but activate a signaling pathway; this triggers intracellular activity and carries out the specific effects associated with the hormone. The hormone that initiated the signaling pathway is called a <emphasis>first messenger</emphasis>. In the case of the epinephrine signaling pathway, binding of the amino acid-derived hormone epinephrine to its receptor activates a G-protein which, in turn, activates cAMP, a second messenger, ultimately resulting in a cellular response such as the conversion of glycogen to glucose.</para><para id="fs-id1167066205375" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167065067029" class="ost-reading-discard">Because amino acid-derived hormones (with the exception of thyroxine) and polypeptide hormones are not lipid-soluble, they bind to <emphasis>plasma membrane hormone receptors</emphasis> located on the outer surface of the membrane. Unlike steroid hormones, they cannot act directly on DNA but activate a signaling pathway; this triggers intracellular activity and carries out the specific effects associated with the hormone. The hormone that initiated the signaling pathway is called a <emphasis>first messenger</emphasis>. In the case of the epinephrine signaling pathway, binding of the amino acid-derived hormone epinephrine to its receptor activates a G-protein which, in turn, activates cAMP, a second messenger, ultimately resulting in a cellular response such as the conversion of glycogen to glucose.</para>
+<para id="fs-id1167066205375" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 4.2 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167065893373" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.3 Signal transduction pathways link signal reception with a cellular response. Second left cell reads: Science Practice. Second right cell reads: 1.5: The student can re-express key elements of natural phenomena across multiple representations in the domain. Third left cell reads: Learning Objective. Third right cell reads: 3.36 The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.D</emphasis></entry>
-<entry class="ost-standards-description">Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-d-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.D.3 </emphasis></span>
-<span class="ost-standards-description">Signal transduction pathways link signal reception with a cellular response.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.5 </emphasis></span>
-<span class="ost-standards-description">The student can re-express key elements of natural phenomena across multiple representations in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-36">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.36 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe a model that expresses the key elements of signal transduction pathways by which a signal is converted to a cellular response.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>4.2 Introduction to Signal Transduction</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.2.B Describe the role of components of a signal transduction pathway in producing a cellular response.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.2.B.1 Signaling begins with the recognition of a chemical messenger-a ligand-by a receptor protein in a target cell.<newline/>
+i. The ligand-binding domain of a receptor recognizes a specific chemical messenger, which can be a peptide (protein) or a small molecule.<newline/>
+ii. G-protein-coupled receptors are an example of a receptor protein in eukaryotes.<newline/>
+iii, Receptors may be located on the surface of the target cell or in the cytoplasm or nucleus of the target cell.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.2.B.2 Signaling cascades relay signals from receptors to cell targets, often amplifying the incoming signals, resulting in the appropriate responses by the cell. Responses could include cell growth, secretion of molecules, or gene expression.<newline/>
+ii. Enzymes and second messengers such as cyclic AMP (cAMP) relay and amplify the intracellular signal.<newline/>
+iii. Hormones are an example of a signaling messenger that can travel long distances in the bloodstream.<newline/>
+iv. The binding of ligands to ligand-gated channels can cause the channels to open or close.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.A Concept Explanation- Describe biological concepts and processes.</entry>
+</row>
+
+
 </tbody>
 
 </tgroup>
 </table></section>
 <para id="fs-idp268044016">Hormones mediate changes in target cells by binding to specific <emphasis>hormone</emphasis> <emphasis>receptors</emphasis>. In this way, even though hormones circulate throughout the body and come into contact with many different cell types, they only affect cells that possess the necessary receptors. Receptors for a specific hormone may be found on many different cells or may be limited to a small number of specialized cells. For example, thyroid hormones act on many different tissue types, stimulating metabolic activity throughout the body. Cells can have many receptors for the same hormone but often also possess receptors for different types of hormones. The number of receptors that respond to a hormone determines the cell’s sensitivity to that hormone, and the resulting cellular response. Additionally, the number of receptors that respond to a hormone can change over time, resulting in increased or decreased cell sensitivity. In <emphasis>up-regulation</emphasis>, the number of receptors increases in response to prolonged low hormone levels, making the cell more sensitive to the hormone and allowing for more cellular activity. When the number of receptors decreases in response to rising hormone levels, called <emphasis>down-regulation</emphasis>, cellular activity is reduced.</para>
 <para id="fs-idp39453248">Receptor binding alters cellular activity and results in an increase or decrease in normal body processes. Depending on the location of the protein receptor on the target cell and the chemical structure of the hormone, hormones can mediate changes directly by binding to intracellular hormone receptors and modulating gene transcription, or indirectly by binding to cell surface receptors and stimulating signaling pathways.</para>
-<section id="fs-idm6952064" class="ost-tag-lo-apbio-ch28-s02-lo02 ost-get-exercise">
+<section id="fs-idm6952064">
 <title>Intracellular Hormone Receptors</title>
 <para id="fs-idp39011552">Lipid-derived (soluble) hormones such as steroid hormones diffuse across the membranes of the endocrine cell. Once outside the cell, they bind to transport proteins that keep them soluble in the bloodstream. At the target cell, the hormones are released from the carrier protein and diffuse across the lipid bilayer of the plasma membrane of cells. The steroid hormones pass through the plasma membrane of a target cell and adhere to intracellular receptors residing in the cytoplasm or in the nucleus. The cell signaling pathways induced by the steroid hormones regulate specific genes on the cell's DNA. The hormones and receptor complex act as transcription regulators by increasing or decreasing the synthesis of mRNA molecules of specific genes. This, in turn, determines the amount of corresponding protein that is synthesized by altering gene expression. This protein can be used either to change the structure of the cell or to produce enzymes that catalyze chemical reactions. In this way, the steroid hormone regulates specific cell processes as illustrated in <link target-id="fig-ch37_02_01"/>.</para>
 <note id="fs-idp99897760" class="visual-connection ost-tag-lo-apbio-ch28-s02-lo02 ost-assessed-feature"><label>Visual Connection</label>
@@ -72,10 +80,10 @@
 </problem>
 </exercise>
 </note><para id="fs-idp135634080">Other lipid-soluble hormones that are not steroid hormones, such as vitamin D and thyroxine, have receptors located in the nucleus. While thyroxine is mostly hydrophobic, its passage across the membrane is dependent on transporter protein. Vitamin D diffuses across both the plasma membrane and the nuclear envelope. Once in the cell, both hormones bind to receptors in the nucleus. The hormone-receptor complex stimulates transcription of specific genes.</para></section>
-<section id="fs-idp117931792" class="ost-tag-lo-apbio-ch28-s02-lo02 ost-get-exercise">
+<section id="fs-idp117931792">
 <title>Plasma Membrane Hormone Receptors</title>
 <para id="fs-idp78427184">Amino acid derived hormones and polypeptide hormones are not lipid-derived (lipid-soluble) and therefore cannot diffuse through the plasma membrane of cells. Lipid insoluble hormones bind to receptors on the outer surface of the plasma membrane, via plasma membrane hormone receptors. Unlike steroid hormones, lipid insoluble hormones do not directly affect the target cell because they cannot enter the cell and act directly on DNA. Binding of these hormones to a cell surface receptor results in activation of a signaling pathway; this triggers intracellular activity and carries out the specific effects associated with the hormone. In this way, nothing passes through the cell membrane; the hormone that binds at the surface remains at the surface of the cell while the intracellular product remains inside the cell. The hormone that initiates the signaling pathway is called a first messenger, which activates a second messenger in the cytoplasm, as illustrated in <link target-id="fig-ch37_02_02"/>.</para>
-<figure id="fig-ch37_02_02" class="ost-tag-lo-apbio-ch28-s02-lo02"><media id="fs-idp88457680" alt="Illustration shows epinephrine bound to the extracellular surface of a beta-adrenergic receptor. A G-protein associated with the intracellular surface of the receptor is activated when the GDP associated with it is replaced with GTP. The G protein activates the enzyme adenylyl cyclase, which converts ATP to cAMP, triggering a cellular response.">
+<figure id="fig-ch37_02_02"><media id="fs-idp88457680" alt="Illustration shows epinephrine bound to the extracellular surface of a beta-adrenergic receptor. A G-protein associated with the intracellular surface of the receptor is activated when the GDP associated with it is replaced with GTP. The G protein activates the enzyme adenylyl cyclase, which converts ATP to cAMP, triggering a cellular response.">
 <image mime-type="image/jpg" src="../../media/Figure_37_02_02.jpg" width="520"/>
 </media>
 <caption>The amino acid-derived hormones epinephrine and norepinephrine bind to beta-adrenergic receptors on the plasma membrane of cells. Hormone binding to receptor activates a G-protein, which in turn activates adenylyl cyclase, converting ATP to cAMP. cAMP is a second messenger that mediates a cell-specific response. An enzyme called phosphodiesterase breaks down cAMP, terminating the signal.</caption></figure><para id="fs-idp53679792">One very important second messenger is cyclic AMP (cAMP). When a hormone binds to its membrane receptor, a <emphasis>G-protein</emphasis> that is associated with the receptor is activated; G-proteins are proteins separate from receptors that are found in the cell membrane. When a hormone is not bound to the receptor, the G-protein is inactive and is bound to guanosine diphosphate, or GDP. When a hormone binds to the receptor, the G-protein is activated by binding guanosine triphosphate, or GTP, in place of GDP. After binding, GTP is hydrolysed by the G-protein into GDP and becomes inactive.</para><para id="fs-idp260294208">The activated G-protein in turn activates a membrane-bound enzyme called <emphasis>adenylyl cyclase</emphasis>. Adenylyl cyclase catalyzes the conversion of ATP to cAMP. cAMP, in turn, activates a group of proteins called protein kinases, which transfer a phosphate group from ATP to a substrate molecule in a process called phosphorylation. The phosphorylation of a substrate molecule changes its structural orientation, thereby activating it. These activated molecules can then mediate changes in cellular processes.</para>
@@ -88,7 +96,7 @@
 </note>
 <note id="fs-id1167065947690" class="os-teacher">
 <label>Teacher Support</label>
-<para id="fs-id1167065942201">The activity is an application of AP® Learning Objective 3.36 and Science Practice 1.5 because students are describing a model that expresses how different types of hormones and hormone-receptor complexes activate different cellular responses.</para>
+<para id="fs-id1167065942201">The activity is an application of AP<sup>®</sup> Learning Objective 3.36 and Science Practice 1.5 because students are describing a model that expresses how different types of hormones and hormone-receptor complexes activate different cellular responses.</para>
 </note>
 </note>
 <section id="fs-idp66110528" class="summary ost-reading-discard">

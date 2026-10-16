@@ -21,72 +21,41 @@
 <section id="fs-id1167067007049" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167066968329">Although cells and organisms require free energy to survive, they cannot spontaneously create energy, as stated in the Law of Conservation of Energy. Energy is available in different forms. For example, objects in motion possess kinetic energy, whereas objects that are not in motion possess potential energy. The chemical energy in molecules, such as glucose, is potential energy because when bonds break in chemical reactions, free energy is released. Free energy is a measure of energy that is available to do work. The free energy of a system changes during energy transfers such as chemical reactions, and this change is referred to as ΔG or Gibbs free energy. The ΔG of a reaction can be negative or positive, depending on whether the reaction releases energy (exergonic) or requires energy input (endergonic). All reactions require an input of energy called activation energy in order to reach the transition state at which they will proceed. (In another section, we will explore how enzymes speed up chemical reactions by lowering activation energy barriers.)</para>
-<para id="fs-id1167067199564" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167067193764" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.1 All living systems require constant input of free energy. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 2.1 The student is able to explain how biological systems use free energy based on empirical data that all organisms require constant energy input to maintain organization, to grow, and to reproduce." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167067199564" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 3.3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para><table id="fs-id1167067193764" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.1 All living systems require constant input of free energy. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 2.1 The student is able to explain how biological systems use free energy based on empirical data that all organisms require constant energy input to maintain organization, to grow, and to reproduce." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.1</emphasis></span>
-<span class="ost-standards-description">All living systems require constant input of free energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s02-aplo-2-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.1</emphasis></span>
-<span class="ost-standards-description">The student is able to explain how biological systems use free energy based on empirical data that all organisms require constant energy input to maintain organization, to grow, and to reproduce.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>3.3 Cellular Energy</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>A Describe the role of energy in living organisms.</entry>
 </row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.3.A.1 All living things require an input of energy.<newline/>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.1</emphasis></span>
-<span class="ost-standards-description">All living systems require constant input of free energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can justify claims with evidence.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s02-aplo-2-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.2</emphasis></span>
-<span class="ost-standards-description">The student is able to justify a scientific claim that free energy is required for living systems to maintain organization, to grow or to reproduce, but that multiple strategies exist in different living systems.</span>
-</entry>
+Exclusion Statement- Students will need to understand the concept of energy, but the equation for Gibbs free energy is beyond the scope of the AP<sup>®</sup> Exam.</entry>
 </row>
-</tbody>
-
-
-</tgroup>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.C Argumentation- Provide reasoning to justify a claim by connecting evidence to biological theories.</entry>
+</row>
+</tbody></tgroup>
 </table></section>
-<para id="fs-id1166846429211">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.5]</para><para id="fs-id2195131">Energy is defined as the ability to do work. As you’ve learned, energy exists in different forms. For example, electrical energy, light energy, and heat energy are all different types of energy. While these are all familiar types of energy that one can see or feel, there is another type of energy that is much less tangible. This energy is associated with something as simple as an object held above the ground. In order to appreciate the way energy flows into and out of biological systems, it is important to understand more about the different types of energy that exist in the physical world.</para>
-
-<section id="fs-id1167063523135" class="ost-tag-lo-apbio-ch06-s02-lo01 ost-tag-std-apbio-lo02 ost-get-exercise">
+<para id="fs-id1166846429211">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
+<section id="fs-id1167063523135" class="ost-tag-lo-apbio-ch06-s02-lo01 ost-tag-std-apbio-lo02">
 <title>Types of Energy</title>
 <para id="fs-id1437457">When an object is in motion, there is energy associated with that object. In the example of an airplane in flight, there is a great deal of energy associated with the motion of the airplane. This is because moving objects are capable of enacting a change, or doing work. Think of a wrecking ball. Even a slow-moving wrecking ball can do a great deal of damage to other objects. However, a wrecking ball that is not in motion is incapable of performing work. Energy associated with objects in motion is called <term id="term-00001">kinetic energy</term>. A speeding bullet, a walking person, the rapid movement of molecules in the air (which produces heat), and electromagnetic radiation like light all have kinetic energy.</para>
 <para id="fs-id2054126">Now what if that same motionless wrecking ball is lifted two stories above a car with a crane? If the suspended wrecking ball is unmoving, is there energy associated with it? The answer is yes. The suspended wrecking ball has energy associated with it that is fundamentally different from the kinetic energy of objects in motion. This form of energy results from the fact that there is the <emphasis effect="italics">potential</emphasis> for the wrecking ball to do work. If it is released, indeed it would do work. Because this type of energy refers to the potential to do work, it is called <term id="term-00002">potential energy</term>. Objects transfer their energy between kinetic and potential in the following way: As the wrecking ball hangs motionless, it has 0 kinetic and 100 percent potential energy. Once it is released, its kinetic energy begins to increase because it builds speed due to gravity. At the same time, as it nears the ground, it loses potential energy. Somewhere mid-fall it has 50 percent kinetic and 50 percent potential energy. Just before it hits the ground, the ball has nearly lost its potential energy and has near-maximal kinetic energy. Other examples of potential energy include the energy of water held behind a dam (<link target-id="fig-ch06_02_01"/>), or a person about to skydive out of an airplane.</para>
-<figure id="fig-ch06_02_01" class="ost-tag-lo-apbio-ch06-s02-lo02"><media id="fs-id1477773" alt="The photo on the left shows water behind a dam. The photo on the right shows a waterfall.">
+<figure id="fig-ch06_02_01"><media id="fs-id1477773" alt="The photo on the left shows water behind a dam. The photo on the right shows a waterfall.">
 <image mime-type="image/jpg" src="../../media/Figure_06_03_01ab.jpg" width="500"/>
 </media>
 <caption>Water behind a dam has potential energy. Moving water, such as in a waterfall or a rapidly flowing river, has kinetic energy. (credit “dam”: modification of work by "Pascal"/Flickr; credit “waterfall”: modification of work by Frank Gualtieri)</caption></figure><para id="fs-id2170204">Potential energy is not only associated with the location of matter (such as a child sitting on a tree branch), but also with the structure of matter. A spring on the ground has potential energy if it is compressed; so does a rubber band that is pulled taut. The very existence of living cells relies heavily on structural potential energy. On a chemical level, the bonds that hold the atoms of molecules together have potential energy. Remember that anabolic cellular pathways require energy to synthesize complex molecules from simpler ones, and catabolic pathways release energy when complex molecules are broken down. The fact that energy can be released by the breakdown of certain chemical bonds implies that those bonds have potential energy. In fact, there is potential energy stored within the bonds of all the food molecules we eat, which is eventually harnessed for use. This is because these bonds can release energy when broken. The type of potential energy that exists within chemical bonds, and is released when those bonds are broken, is called <term id="term-00003">chemical energy</term> (<link target-id="fig-ch06_02_02"/>). Chemical energy is responsible for providing living cells with energy from food. The release of energy is brought about by breaking the molecular bonds within fuel molecules.</para>
-<figure id="fig-ch06_02_02" class="ost-tag-lo-apbio-ch06-s02-lo02"><media id="fs-id2315555" alt="The molecular formula of octane (top), which is a chain of eight carbons and eighteen hydrogens, fuels a racecar speeding along a track (bottom).">
+<figure id="fig-ch06_02_02"><media id="fs-id2315555" alt="The molecular formula of octane (top), which is a chain of eight carbons and eighteen hydrogens, fuels a racecar speeding along a track (bottom).">
 <image mime-type="image/jpg" src="../../media/Figure_06_03_02ab.jpg" width="320"/>
 </media>
 <caption>The molecules in gasoline (octane, the chemical formula shown) contain chemical energy within the chemical bonds. This energy is transformed into kinetic energy that allows a car to race on a racetrack. (credit “car”: modification of work by Russell Trow)</caption></figure>
@@ -105,7 +74,7 @@
 </note></section>
 
 
-<section id="fs-id1167067193488" class="ost-tag-lo-apbio-ch06-s02-aplo-2-1 ost-tag-lo-apbio-ch06-s02-lo03 ost-get-exercise">
+<section id="fs-id1167067193488" class="ost-tag-lo-apbio-ch06-s02-aplo-2-1 ost-tag-lo-apbio-ch06-s02-lo03">
 <title>Free Energy</title>
 <para id="fs-id2051640">After learning that chemical reactions release energy when energy-storing bonds are broken, an important next question is how is the energy associated with chemical reactions quantified and expressed? How can the energy released from one reaction be compared to that of another reaction? A measurement of <term id="term-00004">free energy</term> is used to quantitate these energy transfers. Free energy is called Gibbs free energy (abbreviated with the letter G) after Josiah Willard Gibbs, the scientist who developed the measurement. According to the second law of thermodynamics, all energy transfers involve the loss of some amount of energy in an unusable form such as heat, resulting in entropy. Gibbs free energy specifically refers to the energy associated with a chemical reaction that is available after entropy is accounted for. In other words, Gibbs free energy is usable energy, or energy that is available to do work.</para><para id="fs-id1896127">Every chemical reaction involves a change in free energy, called delta G (∆G). The change in free energy can be calculated for any system that undergoes such a change, such as a chemical reaction. To calculate ∆G, subtract the amount of energy lost to entropy (denoted as ∆S) from the total energy change of the system. This total energy change in the system is called <term id="term-00005">enthalpy</term> and is denoted as ∆H . The formula for calculating ∆G  is as follows, where the symbol T refers to absolute temperature in Kelvin (degrees Celsius + 273):</para>
 <equation id="eip-327">
@@ -115,13 +84,13 @@
  </m:mrow>
 </m:math>
 </equation><para id="fs-id2335177">The standard free energy change of a chemical reaction is expressed as an amount of energy per mole of the reaction product (either in kilojoules or kilocalories, kJ/mol or kcal/mol; 1 kJ = 0.239 kcal) under standard pH, temperature, and pressure conditions. Standard pH, temperature, and pressure conditions are generally calculated at pH 7.0 in biological systems, 25 degrees Celsius, and 100 kilopascals (1 atm pressure), respectively.  It is important to note that cellular conditions vary considerably from these standard conditions, and so standard calculated ∆G  values for biological reactions will be different inside the cell.</para>
-<section id="fs-id1394781" class="ost-tag-lo-apbio-ch06-s02-lo04 ost-get-exercise">
+<section id="fs-id1394781">
 <title>Endergonic Reactions and Exergonic Reactions</title>
 <para id="fs-id1236680">If energy is released during a chemical reaction, then the resulting value from the above equation will be a negative number. In other words, reactions that release energy have a ∆G &lt; 0. A negative ∆G  also means that the products of the reaction have less free energy than the reactants, because they gave off some free energy during the reaction. Reactions that have a negative ∆G  and consequently release free energy are called <term id="term-00006">exergonic reactions</term>. Think: <emphasis effect="italics">ex</emphasis>ergonic means energy is <emphasis effect="italics">ex</emphasis>iting the system. These reactions are also referred to as spontaneous reactions, because they can occur without the addition of energy into the system. Understanding which chemical reactions are spontaneous and release free energy is extremely useful for biologists, because these reactions can be harnessed to perform work inside the cell. An important distinction must be drawn between the term spontaneous and the idea of a chemical reaction that occurs immediately. Contrary to the everyday use of the term, a spontaneous reaction is not one that suddenly or quickly occurs. The rusting of iron is an example of a spontaneous reaction that occurs slowly, little by little, over time.</para>
 <para id="fs-id1406190">If a chemical reaction requires an input of energy rather than releasing energy, then the ∆G  for that reaction will be a positive value. In this case, the products have more free energy than the reactants. Thus, the products of these reactions can be thought of as energy-storing molecules. These chemical reactions are called <term id="term-00007">endergonic reactions</term>, and they are non-spontaneous. An endergonic reaction will not take place on its own without the addition of free energy.</para>
 <para id="fs-id1235966">Let’s revisit the example of the synthesis and breakdown of the food molecule, glucose. Remember that the building of complex molecules, such as sugars, from simpler ones is an anabolic process and requires energy. Therefore, the chemical reactions involved in anabolic processes are endergonic reactions. On the other hand, the catabolic process of breaking sugar down into simpler molecules releases energy in a series of exergonic reactions. Like the example of rust above, the breakdown of sugar involves spontaneous reactions, but these reactions don’t occur instantaneously.  <link target-id="fig-ch06_02_03"/> shows some other examples of endergonic and exergonic reactions. Later sections will provide more information about what else is required to make even spontaneous reactions happen more efficiently.</para>
 <note id="fs-idp35744256" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
-<para id="fs-id1772017"><figure id="fig-ch06_02_03" class="ost-tag-lo-apbio-ch06-s02-lo04"><media id="fs-id2155472" alt="Four photos show (a) a compost pile, (b) a baby chick emerging from a fertilized egg, (c) sand art, and (d) a ball rolling downhill.">
+<para id="fs-id1772017"><figure id="fig-ch06_02_03"><media id="fs-id2155472" alt="Four photos show (a) a compost pile, (b) a baby chick emerging from a fertilized egg, (c) sand art, and (d) a ball rolling downhill.">
 <image mime-type="image/png" src="../../media/Figure_B06_03_05abcd_new.png" width="400"/>
 </media>
 <caption>Shown are some examples of endergonic processes (ones that require energy) and exergonic processes (ones that release energy). These include (a) a compost pile decomposing, (b) a chick developing from a fertilized egg, (c) sand art being destroyed, and (d) a ball rolling down a hill. (credit a: modification of work by Natalie Maynor; credit b: modification of work by USDA; credit c: modification of work by “Athlex”/Flickr; credit d: modification of work by Harry Malsch)</caption></figure></para>
@@ -131,7 +100,7 @@
 </para></problem>
 </exercise>
 </note><para id="fs-id1485321">An important concept in the study of metabolism and energy is that of chemical equilibrium. Most chemical reactions are reversible. They can proceed in both directions, releasing energy into their environment in one direction, and absorbing it from the environment in the other direction (<link target-id="fig-ch06_02_04"/>). The same is true for the chemical reactions involved in cell metabolism, such as the breaking down and building up of proteins into and from individual amino acids, respectively. Reactants within a closed system will undergo chemical reactions in both directions until a state of equilibrium is reached. This state of equilibrium is one of the lowest possible free energy and a state of maximal entropy. Energy must be put into the system to push the reactants and products away from a state of equilibrium. Either reactants or products must be added, removed, or changed. If a cell were a closed system, its chemical reactions would reach equilibrium, and it would die because there would be insufficient free energy left to perform the work needed to maintain life. In a living cell, chemical reactions are constantly moving towards equilibrium, but never reach it. This is because a living cell is an open system. Materials pass in and out, the cell recycles the products of certain chemical reactions into other reactions, and chemical equilibrium is never reached. In this way, living organisms are in a constant energy-requiring, uphill battle against equilibrium and entropy. This constant supply of energy ultimately comes from sunlight, which is used to produce nutrients in the process of photosynthesis.</para>
-<figure id="fig-ch06_02_04" class="ost-tag-lo-apbio-ch06-s02-lo03"><media id="fs-id1769482" alt="The two plots show the change in Gibbs free energy as reactants are converted to products. Gibbs free energy decreases with time for an exergonic reaction (left), and the reaction is spontaneous. Gibbs free energy increases with time for an exergonic reaction (right), and the reaction is not spontaneous">
+<figure id="fig-ch06_02_04"><media id="fs-id1769482" alt="The two plots show the change in Gibbs free energy as reactants are converted to products. Gibbs free energy decreases with time for an exergonic reaction (left), and the reaction is spontaneous. Gibbs free energy increases with time for an exergonic reaction (right), and the reaction is not spontaneous">
 <image mime-type="image/jpg" src="../../media/Figure_06_03_03-97ea.jpg" width="550"/>
 </media>
 <caption>Exergonic and endergonic reactions result in changes in Gibbs free energy. Exergonic reactions release energy; endergonic reactions require energy to proceed.</caption></figure></section>
@@ -141,7 +110,7 @@
 <label>Teacher Support</label>
 <para id="fs-id1167067038325">The concept or entropy can be difficult. Have the students survey their neighborhood for houses, sheds, store fronts, any structures that are deteriorating due to lack of maintenance. Also have them identify older homes, buildings that are in good shape and are actively maintained.</para></note>
 </section>
-<section id="fs-id1167067048072" class="ost-tag-lo-apbio-ch06-s02-lo03 ost-get-exercise"><title>Activation Energy</title><para id="fs-id1378392">There is another important concept that must be considered regarding endergonic and exergonic reactions. Even exergonic reactions require a small amount of energy input to get going before they can proceed with their energy-releasing steps. These reactions have a net release of energy, but still require some energy in the beginning. This small amount of energy input necessary for all chemical reactions to occur is called the <term id="term-00008">activation energy</term> (or free energy of activation) and is abbreviated E<sub>A</sub> (<link target-id="fig-ch06_02_05"/>).</para>
+<section id="fs-id1167067048072"><title>Activation Energy</title><para id="fs-id1378392">There is another important concept that must be considered regarding endergonic and exergonic reactions. Even exergonic reactions require a small amount of energy input to get going before they can proceed with their energy-releasing steps. These reactions have a net release of energy, but still require some energy in the beginning. This small amount of energy input necessary for all chemical reactions to occur is called the <term id="term-00008">activation energy</term> (or free energy of activation) and is abbreviated E<sub>A</sub> (<link target-id="fig-ch06_02_05"/>).</para>
 <para id="fs-id1439064">Why would an energy-releasing, negative ∆G reaction actually require some energy to proceed? The reason lies in the steps that take place during a chemical reaction. During chemical reactions, certain chemical bonds are broken and new ones are formed. For example, when a glucose molecule is broken down, bonds between the carbon atoms of the molecule are broken. Since these are energy-storing bonds, they release energy when broken. However, to get them into a state that allows the bonds to break, the molecule must be somewhat contorted. A small energy input is required to achieve this contorted state. This contorted state is called the <term id="term-00009">transition state</term>, and it is a high-energy, unstable state. For this reason, reactant molecules don’t last long in their transition state, but very quickly proceed to the next steps of the chemical reaction. Free energy diagrams illustrate the energy profiles for a given reaction. Whether the reaction is exergonic or endergonic determines whether the products in the diagram will exist at a lower or higher energy state than both the reactants and the products. However, regardless of this measure, the transition state of the reaction exists at a higher energy state than the reactants, and thus, E<sub>A</sub> is always positive.</para>
 <note id="fs-id1805336" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch06-s02-lo03"><label>Link to Learning</label>
 <para id="fs-id1942750">Watch an animation of the move from free energy to transition state at <link window="new" url="https://openstax.org/l/energy_reaction">this</link> site.</para>
@@ -159,7 +128,7 @@
 
 <note id="fs-id1721002" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
 <para id="fs-id1787601">
-<figure id="fig-ch06_02_05" class="ost-tag-lo-apbio-ch06-s02-lo03"><media id="fs-id2018830" alt="This plot shows the activation energy for an exergonic reaction. As the reaction proceeds, energy initially increases to overcome the activation energy. In a catalyzed reaction, the activation energy is much lower. The energy then decreases such that the Gibbs free energy of the products is less than that of the reactants. The activation energy is the peak of the energy plot minus the energy of the reactants. The Gibbs free energy (delta G) is the energy of the products minus the energy of the reactants.">
+<figure id="fig-ch06_02_05"><media id="fs-id2018830" alt="This plot shows the activation energy for an exergonic reaction. As the reaction proceeds, energy initially increases to overcome the activation energy. In a catalyzed reaction, the activation energy is much lower. The energy then decreases such that the Gibbs free energy of the products is less than that of the reactants. The activation energy is the peak of the energy plot minus the energy of the reactants. The Gibbs free energy (delta G) is the energy of the products minus the energy of the reactants.">
 <image mime-type="image/jpg" src="../../media/Figure_06_03_04.jpg" width="280"/>
 </media>
 <caption>Activation energy is the energy required for a reaction to proceed, and it is lower if the reaction is catalyzed. The horizontal axis of this diagram describes the sequence of events in time.</caption></figure></para>

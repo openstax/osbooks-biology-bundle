@@ -20,96 +20,77 @@
 
 <section id="fs-id1167064758275" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167062305841" class="ost-reading-discard">As was described previously, Mendel proposed that genes are inherited as pairs of alleles that behave in a dominant and recessive pattern. During meiosis, alleles segregate, or separate, such that each gamete is equally likely to receive either one of the two alleles present in the diploid individual. Mendel called this phenomenon the law of segregation, which can be demonstrated in a monohybrid cross. In addition, genes carried on different chromosomes sort into gametes independently of one another. This is Mendel’s law of independent assortment. This law can be demonstrated in a dihybrid cross involving two different traits located on different chromosomes. Punnett squares can be used to predict genotypes and phenotypes of offspring involving one or two genes.</para>
-<para id="fs-id1167066015213" class="ost-reading-discard">Although chromosomes sort independently into gametes during meiosis, Mendel’s law of independent assortment refers to genes, not chromosomes. In humans, single chromosomes may carry more than 1,000 genes. Genes located close together on the same chromosome are said to be linked genes. When genes are located in close proximity on the same chromosome, their alleles tend to be inherited together unless recombination occurs. This results in offspring ratios that violate Mendel’s law of independent assortment. Genes that are located far apart on the same chromosome are likely to assort independently. The rules of probability can help to sort this out (pun intended). The law states that alleles of different genes assort independently of one another during gamete formation.</para>
-<para id="fs-id1167066123333" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven Science Practices.</para>
+<para id="fs-id1167066015213" class="ost-reading-discard">Although chromosomes sort independently into gametes during meiosis, Mendel’s law of independent assortment refers to genes, not chromosomes. In humans, single chromosomes may carry more than 1,000 genes. Genes located close together on the same chromosome are said to be linked genes. When genes are located in close proximity on the same chromosome, their alleles tend to be inherited together unless recombination occurs. This results in offspring ratios that violate Mendel’s law of independent assortment. Genes that are located far apart on the same chromosome are likely to assort independently. In the case of pleiotrophy, a single gene is responsible for more than one trait. No independent assortment is possible for the traits resulting from a single gene. The rules of probability can help to sort this out (pun intended). The law states that alleles of different genes assort independently of one another during gamete formation.</para>
+<para id="para-00001">Extranuclear DNA is another example of inheritance that does not follow Mendelian rules of inheritance. Mitochondria and chloroplast are randomly divided into daughter cells. In both plants and animals female reproductive cells (ovule or egg) typically pass on these DNA containing organelles (mitochondria for animals, both mitochondria and chloroplast for plants). This example of maternal inheritance results in non-nuclear inheritance.</para>
+<para id="fs-id1167066123333" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 5.3 and 5.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167066021309" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.3 The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring. Second left cell reads: Science Practice. Second right cell reads: 2.2 The student can apply mathematical routines to quantities that describe natural phenomena. Third right cell reads: 3.14 The student is able to apply mathematical routines to determine Mendelian patterns of inheritance provided by data." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
-<tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<tbody><row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.3</emphasis></span>
-<span class="ost-standards-description">The chromosomal basis of inheritance provides an understanding of the pattern of passage (transmission) of genes from parent to offspring.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.2</emphasis></span>
-<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-03-aplo-3-14">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>3.14</emphasis></span>
-<span class="ost-standards-description">The student is able to apply mathematical routines to determine Mendelian patterns of inheritance provided by data.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.4</emphasis></span>
-<span class="ost-standards-description">The inheritance pattern of many traits cannot be explained by simple Mendelian genetics.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.5</emphasis></span>
-<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-03-aplo-3-15">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>3.15</emphasis></span>
-<span class="ost-standards-description">The student is able to explain deviations from Mendel’s model of the inheritance of traits.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>5.3 Mendelian Genetics</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.3.A Explain the inheritance of genes and traits as described by Mendel’s laws.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.3 A.1 Mendel’s laws of segregation and independent assortment can be applied to genes that are on different chromosomes.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.C Statistical Tests and Data Analysis- Perform chi-square hypothesis testing.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.4</emphasis></span>
-<span class="ost-standards-description">The inheritance pattern of many traits cannot be explained by simple Mendelian genetics.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.3</emphasis></span>
-<span class="ost-standards-description">The student can articulate the reasons that scientific explanations and theories are refined or replaced.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-03-aplo-3-16">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>3.16</emphasis></span>
-<span class="ost-standards-description">The student is able to explain how the inheritance patterns of many traits cannot be accounted for by Mendelian genetics.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>5.4 Non-Mendelian Genetics</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.4 A Explain deviations from Mendel’s model of the inheritance of traits.</entry>
+</row>
+<row>
+    <row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.4.A.1 Patterns of inheritance of many traits do not follow the ratios predicted by Mendel’s laws and can be identified by quantitative analysis, when the observed phenotypic ratios statistically differ from the predicted ratios.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.4.A.3 Pleiotrophy is a phenomenon in which the expression of a single gene results in multiple traits or effects; these traits therefore do not segregate independently.</entry>
+</row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.4.A.4 Some traits result from non-nuclear inheritance.<newline/>
+i. Chloroplast and mitochondria are randomly assorted to gametes and daughter cells; thus, traits determined by chloroplast and mitochondrial DNA do not follow simple Mendelian rules.<newline/>
+ii. In animals, mitochondria are usually transmitted by the egg and not by the sperm; thus, traits determined by the mitochondrial DNA are typically maternally inherited.<newline/>
+iii. In plants, mitochondria and chloroplasts are transmitted in the ovule and not pollen; as such, mitochondrial-determined and chloroplast-determined traits are typically maternally inherited.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.A Statistical Tests and Data Analysis- Perform mathematical calculations, including:<newline/>
+i. mathematical equations in the curriculum<newline/>
+ii. means<newline/>
+iii. rates<newline/>
+iv. ratios <newline/>
+v. percentages and percent changes</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.C Statistical Tests and Data Analysis- Perform chi-square hypothesis testing</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.4</emphasis></span>
-<span class="ost-standards-description">The inheritance pattern of many traits cannot be explained by simple Mendelian genetics.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.2</emphasis></span>
-<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-03-aplo-3-17">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>3.17</emphasis></span>
-<span class="ost-standards-description">The student is able to describe representations of an appropriate example of inheritance patterns that cannot be explained by Mendel’s model of the inheritance of traits.</span>
-</entry>
-</row>
 </tbody>
 
 
@@ -124,15 +105,14 @@
 <para id="fs-id1167065860526">Many students think that lethal or rare traits in human are always recessive. This is not the case. Huntington disease, which is fully expressed when people reach middle age, is a dominant trait. Dwarfism and polydactyly are examples of dominant traits that are not frequent in the population.</para>
 <para id="fs-id1167065867441">Many students also think that genetics is as simple as the examples we use to teach Mendelian genetics. In fact, most traits diverge from Mendelian genetics.</para>
 </note></note>
-<para id="fs-id1166848813346">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.11][APLO 3.15][APLO 3.14][APLO 3.17][APLO 3.12]</para><para id="fs-id1894767">Mendel generalized the results of his pea-plant experiments into four postulates, some of which are sometimes called “laws,” that describe the basis of dominant and recessive inheritance in diploid organisms. As you have learned, more complex extensions of Mendelism exist that do not exhibit the same F<sub>2</sub> phenotypic ratios (3:1). Nevertheless, these laws summarize the basics of classical genetics.</para>
+<para id="fs-id1166848813346">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
 </section>
-        <section id="fs-id2583739" class="ost-tag-lo-apbio-ch12-s03-lo01  ost-tag-lo-apbio-ch12-03-aplo-3-14 ost-get-exercise">
+        <section id="fs-id2583739" class="ost-tag-lo-apbio-ch12-s03-lo01  ost-tag-lo-apbio-ch12-03-aplo-3-14">
             <title>Pairs of Unit Factors, or Genes</title>
             <para id="fs-id1672163">Mendel proposed first that paired unit factors of heredity were transmitted faithfully from generation to generation by the dissociation and reassociation of paired factors during gametogenesis and fertilization, respectively. After he crossed peas with contrasting traits and found that the recessive trait resurfaced in the F<sub>2</sub> generation, Mendel deduced that hereditary factors must be inherited as discrete units. This finding contradicted the belief at that time that parental traits were blended in the offspring.</para>
         </section>
 
-        <section id="fs-id941837" class="ost-tag-lo-apbio-ch12-s03-lo01 ost-tag-lo-apbio-ch12-03-aplo-3-14 ost-get-exercise">
+        <section id="fs-id941837" class="ost-tag-lo-apbio-ch12-s03-lo01 ost-tag-lo-apbio-ch12-03-aplo-3-14">
             <title>Alleles Can Be Dominant or Recessive</title>
             <para id="fs-id1432196">Mendel’s <term id="term-00001">law of dominance</term> states that in a heterozygote, one trait will conceal the presence of another trait for the same characteristic. Rather than both alleles contributing to a phenotype, the dominant allele will be expressed exclusively. The recessive allele will remain “latent” but will be transmitted to offspring by the same manner in which the dominant allele is transmitted. The recessive trait will only be expressed by offspring that have two copies of this allele (<link target-id="fig-ch12_03_01"/>), and these offspring will breed true when self-crossed.</para>
             <para id="fs-id1790967">Since Mendel’s experiments with pea plants, other researchers have found that the law of dominance does not always hold true. Instead, several different patterns of inheritance have been found to exist.</para>
@@ -140,11 +120,11 @@
                 <image mime-type="image/jpg" src="../../media/Figure_12_03_01.jpg" width="250"/>
             </media>
                 <caption>The alligator in the photo expresses albinism, a recessive trait.</caption></figure></section>
-        <section id="fs-id2322286" class="ost-tag-lo-apbio-ch12-s03-lo01 ost-tag-lo-apbio-ch12-03-aplo-3-14 ost-get-exercise">
+        <section id="fs-id2322286" class="ost-tag-lo-apbio-ch12-s03-lo01 ost-tag-lo-apbio-ch12-03-aplo-3-14">
             <title>Equal Segregation of Alleles</title>
             <para id="fs-id2114874">Observing that true-breeding pea plants with contrasting traits gave rise to F<sub>1</sub> generations that all expressed the dominant trait and F<sub>2</sub> generations that expressed the dominant and recessive traits in a 3:1 ratio, Mendel proposed the <term id="term-00002">law of segregation</term>. This law states that paired unit factors (genes) must segregate equally into gametes such that offspring have an equal likelihood of inheriting either factor. For the F<sub>2</sub> generation of a monohybrid cross, the following three possible combinations of genotypes could result: homozygous dominant, heterozygous, or homozygous recessive. Because heterozygotes could arise from two different pathways (receiving one dominant and one recessive allele from either parent), and because heterozygotes and homozygous dominant individuals are phenotypically identical, the law supports Mendel’s observed 3:1 phenotypic ratio. The equal segregation of alleles is the reason we can apply the Punnett square to accurately predict the offspring of parents with known genotypes. The physical basis of Mendel’s law of segregation is the first division of meiosis, in which the homologous chromosomes with their different versions of each gene are segregated into daughter nuclei.  The role of the meiotic segregation of chromosomes in sexual reproduction was not understood by the scientific community during Mendel’s lifetime.</para>
         </section>
-        <section id="fs-id1805332" class="ost-get-exercise"><title>Independent Assortment</title><para id="fs-id846110">Mendel’s <term id="term-00003">law of independent assortment</term> states that genes do not influence each other with regard to the sorting of alleles into gametes, and every possible combination of alleles for every gene is equally likely to occur. The independent assortment of genes can be illustrated by the <term id="term-00004">dihybrid</term> cross, a cross between two true-breeding parents that express different traits for two characteristics. Consider the characteristics of seed color and seed texture for two pea plants, one that has green, wrinkled seeds (<emphasis effect="italics">yyrr</emphasis>) and another that has yellow, round seeds (<emphasis effect="italics">YYRR</emphasis>). Because each parent is homozygous, the law of segregation indicates that the gametes for the green/wrinkled plant all are <emphasis effect="italics">yr</emphasis>, and the gametes for the yellow/round plant are all <emphasis effect="italics">YR</emphasis>. Therefore, the F<sub>1</sub> generation of offspring all are <emphasis effect="italics">YyRr</emphasis> (<link target-id="fig-ch12_03_02"/>).</para>
+        <section id="fs-id1805332" class=""><title>Independent Assortment</title><para id="fs-id846110">Mendel’s <term id="term-00003">law of independent assortment</term> states that genes do not influence each other with regard to the sorting of alleles into gametes, and every possible combination of alleles for every gene is equally likely to occur. The independent assortment of genes can be illustrated by the <term id="term-00004">dihybrid</term> cross, a cross between two true-breeding parents that express different traits for two characteristics. Consider the characteristics of seed color and seed texture for two pea plants, one that has green, wrinkled seeds (<emphasis effect="italics">yyrr</emphasis>) and another that has yellow, round seeds (<emphasis effect="italics">YYRR</emphasis>). Because each parent is homozygous, the law of segregation indicates that the gametes for the green/wrinkled plant all are <emphasis effect="italics">yr</emphasis>, and the gametes for the yellow/round plant are all <emphasis effect="italics">YR</emphasis>. Therefore, the F<sub>1</sub> generation of offspring all are <emphasis effect="italics">YyRr</emphasis> (<link target-id="fig-ch12_03_02"/>).</para>
             <note id="fs-idp45309760" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch12-s03-lo01 ost-tag-lo-apbio-ch12-03-aplo-3-14"><label>Visual Connection</label>
                 <para id="fs-id2022479"><figure id="fig-ch12_03_02"><media id="fs-id2192724" alt="This illustration shows a dihybrid cross between pea plants. In the P generation, a plant that has the homozygous dominant phenotype of round, yellow peas is crossed with a plant with the homozygous recessive phenotype of wrinkled, green peas. The resulting F_{1} offspring have a heterozygous genotype and round, yellow peas. Self-pollination of the F_{1} generation results in F_{2} offspring with a phenotypic ratio of 9:3:3:1 for yellow round, green round, yellow wrinkled and green wrinkled peas, respectively.">
                     <image mime-type="image/jpg" src="../../media/Figure_12_03_02-ceb8.png" width="400"/>
@@ -163,7 +143,7 @@
             <para id="fs-id1787767">The physical basis for the law of independent assortment also lies in meiosis I, in which the different homologous pairs line up in random orientations. Each gamete can contain any combination of paternal and maternal chromosomes (and therefore the genes on them) because the orientation of tetrads on the metaphase plane is random.</para>
 
 
-            <section id="fs-id2229159" class="ost-tag-lo-apbio-ch12-s03-lo02 ost-tag-lo-apbio-ch12-03-aplo-3-14 ost-get-exercise">
+            <section id="fs-id2229159" class="ost-tag-lo-apbio-ch12-s03-lo02 ost-tag-lo-apbio-ch12-03-aplo-3-14">
                 <title>Forked-Line Method</title>
                 <para id="fs-id848714">When more than two genes are being considered, the Punnett-square method becomes unwieldy. For instance, examining a cross involving four genes would require a 16 × 16 grid containing 256 boxes. It would be extremely cumbersome to manually enter each genotype. For more complex crosses, the forked-line and probability methods are preferred.</para>
                 <para id="fs-id1771716">To prepare a forked-line diagram for a cross between F<sub>1</sub> heterozygotes resulting from a cross between <emphasis effect="italics">AABBCC</emphasis> and <emphasis effect="italics">aabbcc</emphasis> parents, we first create rows equal to the number of genes being considered, and then segregate the alleles in each row on forked lines according to the probabilities for individual monohybrid crosses (<link target-id="fig-ch12_03_03"/>). We then multiply the values along each forked path to obtain the F<sub>2</sub> offspring probabilities. Note that this process is a diagrammatic version of the product rule. The values along each forked pathway can be multiplied because each gene assorts independently. For a trihybrid cross, the F<sub>2</sub> phenotypic ratio is 27:9:9:9:3:3:3:1.</para>
@@ -172,14 +152,14 @@
                 </media>
                     <caption>The forked-line method can be used to analyze a trihybrid cross. Here, the probability for color in the F<sub>2</sub> generation occupies the top row (3 yellow:1 green). The probability for shape occupies the second row (3 round:1 wrinked), and the probability for height occupies the third row (3 tall:1 dwarf). The probability for each possible combination of traits is calculated by multiplying the probability for each individual trait. Thus, the probability of F<sub>2</sub> offspring having yellow, round, and tall traits is 3 × 3 × 3, or 27.</caption></figure></section>
 
-            <section id="fs-id1409024" class="ost-tag-lo-apbio-ch12-s03-lo02 ost-tag-lo-apbio-ch12-03-aplo-3-14 ost-get-exercise">
+            <section id="fs-id1409024" class="ost-tag-lo-apbio-ch12-s03-lo02 ost-tag-lo-apbio-ch12-03-aplo-3-14">
                 <title>Probability Method</title>
                 <para id="fs-id1506540">While the forked-line method is a diagrammatic approach to keeping track of probabilities in a cross, the probability method gives the proportions of offspring expected to exhibit each phenotype (or genotype) without the added visual assistance. Both methods make use of the product rule and consider the alleles for each gene separately. Earlier, we examined the phenotypic proportions for a trihybrid cross using the forked-line method; now we will use the probability method to examine the genotypic proportions for a cross with even more genes.</para>
                 <para id="fs-id1730879">For a trihybrid cross, writing out the forked-line method is tedious, albeit not as tedious as using the Punnett-square method. To fully demonstrate the power of the probability method, however, we can consider specific genetic calculations. For instance, for a tetrahybrid cross between individuals that are heterozygotes for all four genes, and in which all four genes are sorting independently and in a dominant and recessive pattern, what proportion of the offspring will be expected to be homozygous recessive for all four alleles? Rather than writing out every possible genotype, we can use the probability method. We know that for each gene, the fraction of homozygous recessive offspring will be 1/4. Therefore, multiplying this fraction for each of the four genes, (1/4) × (1/4) × (1/4) × (1/4), we determine that 1/256 of the offspring will be quadruply homozygous recessive.</para>
                 <para id="fs-id1956700">For the same tetrahybrid cross, what is the expected proportion of offspring that have the dominant phenotype at all four loci? We can answer this question using phenotypic proportions, but let’s do it the hard way—using genotypic proportions. The question asks for the proportion of offspring that are 1) homozygous dominant at <emphasis effect="italics">A</emphasis> or heterozygous at <emphasis effect="italics">A,</emphasis> and 2) homozygous at <emphasis effect="italics">B</emphasis> or heterozygous at <emphasis effect="italics">B</emphasis>, and so on. Noting the “or” and “and” in each circumstance makes clear where to apply the sum and product rules. The probability of a homozygous dominant at <emphasis effect="italics">A</emphasis> is 1/4 and the probability of a heterozygote at <emphasis effect="italics">A</emphasis> is 1/2. The probability of the homozygote or the heterozygote is 1/4 + 1/2 = 3/4 using the sum rule. The same probability can be obtained in the same way for each of the other genes, so that the probability of a dominant phenotype at <emphasis effect="italics">A</emphasis> and <emphasis effect="italics">B</emphasis> and <emphasis effect="italics">C</emphasis> and <emphasis effect="italics">D</emphasis> is, using the product rule, equal to 3/4 × 3/4 × 3/4 × 3/4, or 81/256. If you are ever unsure about how to combine probabilities, returning to the forked-line method should make it clear.</para>
             </section>
 
-            <section id="fs-id1696367" class="ost-tag-lo-apbio-ch12-s03-lo02 ost-tag-lo-apbio-ch12-03-aplo-3-14 ost-get-exercise">
+            <section id="fs-id1696367" class="ost-tag-lo-apbio-ch12-s03-lo02 ost-tag-lo-apbio-ch12-03-aplo-3-14">
                 <title>Rules for Multihybrid Fertilization</title>
                 <para id="fs-id1975218">Predicting the genotypes and phenotypes of offspring from given crosses is the best way to test your knowledge of Mendelian genetics. Given a multihybrid cross that obeys independent assortment and follows a dominant and recessive pattern, several generalized rules exist; you can use these rules to check your results as you work through genetics calculations (<link target-id="tab-ch12-03-01"/>). To apply these rules, first you must determine <emphasis effect="italics">n</emphasis>, the number of heterozygous gene pairs (the number of genes segregating two alleles each). For example, a cross between <emphasis effect="italics">AaBb</emphasis> and <emphasis effect="italics">AaBb</emphasis> heterozygotes has an <emphasis effect="italics">n</emphasis> of 2. In contrast, a cross between <emphasis effect="italics">AABb</emphasis> and <emphasis effect="italics">AABb</emphasis> has an <emphasis effect="italics">n</emphasis> of 1 because <emphasis effect="italics">A</emphasis> is not heterozygous.</para>
 
@@ -204,7 +184,7 @@
                         </tbody>
                     </tgroup>
                 </table></section>
-</section><section id="fs-id2018772" class="ost-tag-lo-apbio-ch12-s03-lo03 ost-tag-lo-apbio-ch12-03-aplo-3-15 ost-get-exercise"><title>Linked Genes Violate the Law of Independent Assortment</title><para id="fs-id1412466">Although all of Mendel’s pea characteristics behaved according to the law of independent assortment, we now know that some allele combinations are not inherited independently of each other. Genes that are located on separate non-homologous chromosomes will always sort independently. However, each chromosome contains hundreds or thousands of genes, organized linearly on chromosomes like beads on a string. The segregation of alleles into gametes can be influenced by <term id="term-00005">linkage</term>, in which genes that are located physically close to each other on the same chromosome are more likely to be inherited as a pair. However, because of the process of recombination, or “crossover,” it is possible for two genes on the same chromosome to behave independently, or as if they are not linked. To understand this, let’s consider the biological basis of gene linkage and recombination.</para>
+</section><section id="fs-id2018772" class="ost-tag-lo-apbio-ch12-s03-lo03 ost-tag-lo-apbio-ch12-03-aplo-3-15"><title>Linked Genes Violate the Law of Independent Assortment</title><para id="fs-id1412466">Although all of Mendel’s pea characteristics behaved according to the law of independent assortment, we now know that some allele combinations are not inherited independently of each other. Genes that are located on separate non-homologous chromosomes will always sort independently. However, each chromosome contains hundreds or thousands of genes, organized linearly on chromosomes like beads on a string. The segregation of alleles into gametes can be influenced by <term id="term-00005">linkage</term>, in which genes that are located physically close to each other on the same chromosome are more likely to be inherited as a pair. However, because of the process of recombination, or “crossover,” it is possible for two genes on the same chromosome to behave independently, or as if they are not linked. To understand this, let’s consider the biological basis of gene linkage and recombination.</para>
             <para id="fs-id1291437">Homologous chromosomes possess the same genes in the same linear order. The alleles may differ on homologous chromosome pairs, but the genes to which they correspond do not. In preparation for the first division of meiosis, homologous chromosomes replicate and synapse. Like genes on the homologs align with each other. At this stage, segments of homologous chromosomes exchange linear segments of genetic material (<link target-id="fig-ch12_03_04"/>). This process is called recombination, or crossover, and it is a common genetic process. Because the genes are aligned during recombination, the gene order is not altered. Instead, the result of recombination is that maternal and paternal alleles are combined onto the same chromosome. Across a given chromosome, several recombination events may occur, causing extensive shuffling of alleles.</para>
             <figure id="fig-ch12_03_04" class="ost-tag-lo-apbio-ch12-s03-lo03 ost-tag-lo-apbio-ch12-03-aplo-3-17"><media id="fs-id1974440" alt="This illustration shows a pair of homologous chromosomes. One of the pair has the alleles ABC and the other has the alleles abc. During meiosis, crossover occurs between two of the chromosomes and genetic material is exchanged, resulting in one recombinant chromosome that has the alleles ABc and another that has the alleles abC. The other two chromosomes are non-recombinant and have the same arrangement of genes as before meiosis.">
                 <image mime-type="image/jpg" src="../../media/Figure_12_03_04.jpg" width="280"/>
@@ -239,7 +219,7 @@
 </note>
 
 
-        <section id="fs-id2571501" class="ost-get-exercise">
+        <section id="fs-id2571501" class="">
             <title>Epistasis</title>
             <para id="fs-id2163324">Mendel’s studies in pea plants implied that the sum of an individual’s phenotype was controlled by genes (or as he called them, unit factors), such that every characteristic was distinctly and completely controlled by a single gene. In fact, single observable characteristics are almost always under the influence of multiple genes (each with two or more alleles) acting in unison. For example, at least eight genes contribute to eye color in humans.</para>
             <note id="fs-id1760153" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch12-s03-lo03 ost-tag-lo-apbio-ch12-03-aplo-3-17"><label>Link to Learning</label>

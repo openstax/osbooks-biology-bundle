@@ -21,33 +21,47 @@
 <para id="fs-id1167066029362">Structure and function in biology result from the presence of genetic information and the correct expression of this information. In the chapter on DNA structure and function, we explored how genes are translated into proteins, which in turn determine the nature of the cell. But how does a cell know when to “turn on” its DNA? With few exceptions, each cell in your body contains identical genetic information. If each cell has the same exact DNA make up, how is it that a liver cell differs from a nerve or muscle cell?</para>
 <para id="fs-id1167065947406">As we will discover, although each cell shares the same genome and DNA sequence, each cell does not express exactly the same genes. Many factors determine when and how genes are expressed in a given cell. Even the type of chromosome a gene is located on, like whether it is a sex chromosome or not, can determine its expression pattern, as can mutations or changes in DNA sequence and other external factors. In prokaryotes, gene expression is regulated primarily at the level of transcription, when DNA is copied into RNA. However, eukaryotes have evolved regulatory mechanisms in gene expression at multiple levels. In all cases, regulation of gene expression determines the type and amount of protein produced in the cell. Errors in regulatory processes can result in many human diseases and conditions, including cancer.</para>
 <para id="eip-777">Gene expression regulation occurs at different points in prokaryotes and eukaryotes. Prokaryotic organisms express their entire genome in every cell, but not necessarily all at the same time. In general, a gene is expressed only when its specific protein product is needed. Remember that each cell in an organism carries the same DNA as every other cell. Yet cells of eukaryotic organisms each express a unique subset of DNA depending on cell type. To express a protein, DNA is first transcribed into RNA, which is then translated into proteins. In prokaryotic cells, transcription and translation occur almost simultaneously. In eukaryotic cells, transcription occurs in the nucleus, separate from the translation that occurs in the cytoplasm along ribosomes attached to endoplasmic reticulum. As stated above, gene expression in prokaryotes is regulated at the level of transcription, whereas in eukaryotes, gene expression is regulated at multiple levels, including the epigenetic (DNA), transcriptional, pre- and post-transcriptional, and translational levels.</para><para id="fs-id1167065824686">The science of epigenetics studies heritable changes in the genome that do not affect the underlying DNA gene sequences.</para>
-<para id="fs-id1167065911676" class="ost-reading-discard">The content presented in this section supports the learning objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> learning objectives merge essential knowledge content with one or more of the seven science practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> exam questions.</para><table id="fs-id1167065977886" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.B.1 Gene regulation results in differential gene expression, leading to cell specialization Second left cell reads: Science Practice. Second right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Third left cell reads: Learning Objective. Third right cell reads: 3.18 The student is able to describe the connection between the regulation of gene expression and observed differences between different kinds of organisms." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167065911676" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 6.5 and 6.6 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+<table id="fs-id1167065977886" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.B.1 Gene regulation results in differential gene expression, leading to cell specialization Second left cell reads: Science Practice. Second right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Third left cell reads: Learning Objective. Third right cell reads: 3.18 The student is able to describe the connection between the regulation of gene expression and observed differences between different kinds of organisms." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.B</emphasis></entry>
-<entry class="ost-standards-description">Expression of genetic information involves cellular and molecular mechanisms.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.B.1 </emphasis></span>
-<span class="ost-standards-description">Gene regulation results in differential gene expression, leading to cell specialization</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
-<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch16-s01-aplo-3-18">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.18 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe the connection between the regulation of gene expression and observed differences between different kinds of organisms.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.5 Regulation of Gene Expression</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.5.A Describe the types of interactions that regulate gene expression.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.5.A.2 Epigenetic changes can affect gene expression through reversible modification of DNA or histones.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.5.A.3 The phenotype of a cell or an organism is determined by the combination of genes that are expressed and the levels at which they are expressed.<newline/>
+i. Observable cell differentiation results from the expression of genes for tissue-specific proteins.<newline/>
+iii. The function and amount of gene products determine the phenotype of organisms.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.A Make a scientific claim.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.6 Gene Expression and Cell Specialization</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.6.B Explain the connection between the regulation of gene expression and phenotypic differences in cells and organisms.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.6.B.1 Gene regulation results in differential gene expression and influences cell products and functions.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.B Argumentation- Support a claim with evidence from biological principles, concepts, processes, and data.</entry>
 </row>
 </tbody>
 
@@ -64,7 +78,7 @@
 <para id="fs-id1167065978209">Ask students what genes are present in the DNA in a muscle cell and skin cell. Ask them if the same genome is present in every cell in the body, how do the cells have different properties.  For example, discuss red blood cells, which lose their nucleus during development. <link window="new" url="https://openstax.org/l/32genereg">This video</link> gives an overview of gene regulation in prokaryotes and eukaryotes.</para>
 </note>
 
-<section id="fs-id2300410" class="ost-tag-lo-apbio-ch16-s01-lo01 ost-tag-lo-apbio-ch16-s01-aplo-3-18 ost-get-exercise">
+<section id="fs-id2300410" class="ost-tag-lo-apbio-ch16-s01-lo01 ost-tag-lo-apbio-ch16-s01-aplo-3-18">
 <title>Prokaryotic versus Eukaryotic Gene Expression</title>
 <para id="fs-id2011802">To understand how gene expression is regulated, we must first understand how a gene codes for a functional protein in a cell. The process occurs in both prokaryotic and eukaryotic cells, just in slightly different manners.</para>
 <para id="fs-id2988639">Prokaryotic organisms are single-celled organisms that lack a cell nucleus, and their DNA therefore floats freely in the cell cytoplasm. To synthesize a protein, the processes of transcription and translation occur almost simultaneously. When the resulting protein is no longer needed, transcription stops. As a result, the primary method to control what type of protein and how much of each protein is expressed in a prokaryotic cell is the regulation of DNA transcription. All of the subsequent steps occur automatically. When more protein is required, more transcription occurs. Therefore, in prokaryotic cells, the control of gene expression is mostly at the transcriptional level.</para>

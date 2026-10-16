@@ -22,78 +22,48 @@
 <para id="fs-id1167064900543">We have come to the last chapter in the text, and the journey has taken us from the origin of life on Earth to the exploration of the myriad and diverse organisms that currently inhabit our planet. Although some information in this chapter is not in scope for AP<sup>®</sup>, we must recognize how the activities of our own species, <emphasis effect="italics">Home sapiens</emphasis>, impact ecosystems and the species inhabiting them. By appreciating and protecting other species, we preserve our own. The inverse is also true.</para>
 <para id="fs-id1167065848471" class="ost-reading-discard">The exact number and kinds of species on Earth is unknown, but scientists estimate that there are about 8.7 million eukaryotic species, with only 1.5 million identified, named, and studied. The number of prokaryotes far exceeds these numbers. <emphasis>Biodiversity</emphasis> describes the number and variety of organisms in the biosphere.</para>
 <para id="fs-id1167065959442" class="ost-reading-discard">We have learned that evolution and speciation continue to occur, but Earth has experienced five mass <emphasis>extinctions</emphasis>—the elimination of major groups of species. For AP<sup>®</sup> you do not need to know the names, dates and causes of these extinctions; however understanding them will help you understand how biodiversity has changed over time.</para>
-<para id="fs-id1167062350085" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 and Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167062350085" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 7.11 and 8.6 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167064651112" summary="First Column First Row: Essential Knowledge Second Column Second Row: 1.C.1 Speciation and extinction have occurred throughout Earth’s history. First Column Second Row: Science Practice Second Column Second Row: 5.1 The student can analyze data to identify patterns or relationships. First Column Third Row: Learning Objective Second Column Third Row 1.20 The student is able to analyze data related to questions of speciation and extinction throughout the Earth’s history." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-lo-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1 </emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry></row>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>4. Systems Interactions: Biological systems interact, and these systems and their interactions exhibit complex properties.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.11 Variation in Populations</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.11.A Explain how the genetic diversity of a species or population affects its ability to withstand environmental pressures.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.11.A The level of variation in a population affects population dynamics.<newline/>
+i. The ability of a population to respond to changes in the environment is influenced by genetic diversity. Species and populations with little genetic diversity are at risk of decline or extinction.<newline/>
+ii. Genetically diverse populations are more resilient to environmental perturbation because they are more likely to contain individuals that can withstand the environmental pressure.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.C Argumentation- Provide reasoning to justify a claim by connecting evidence to biological theories.</entry>
+</row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-lo-apbio-1-c">
-<entry class="ost-standards-name"><emphasis>Enduring Understanding 1.C </emphasis></entry>
-<entry class="ost-standards-description">Life continues to evolve within a changing environment.</entry></row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-1-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.C.1 </emphasis></span>
-<span class="ost-standards-description">Speciation and extinction have occurred throughout Earth’s history.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-5-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.1 </emphasis></span>
-<span class="ost-standards-description">The student can analyze data to identify patterns or relationships.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-1-20">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.20 </emphasis></span>
-<span class="ost-standards-description">The student is able to analyze data related to questions of speciation and extinction throughout the Earth’s history.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>8.6 Biodiversity</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>8.6.A Describe the relationship between ecosystem diversity and its resilience to changes in the environment.</entry>
 </row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-1-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.C.1 </emphasis></span>
-<span class="ost-standards-description">Speciation and extinction have occurred throughout Earth’s history.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-4-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
-<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-1-21">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.21 </emphasis></span>
-<span class="ost-standards-description">The student is able to design a plan for collecting data to investigate the scientific claim that speciation and extinction have occurred throughout the Earth’s history.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.6.A.1 Natural and artificial ecosystems with fewer component parts, and with little diversity among the parts, are often less resilient to changes in the environment.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4 </emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-b">
-<entry class="ost-standards-name"><emphasis>Enduring Understanding 4.B </emphasis></entry>
-<entry class="ost-standards-description">Competition and cooperation are important aspects of biological systems.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-b-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.B.4 </emphasis></span>
-<span class="ost-standards-description">Distribution of local and global ecosystems changes over time.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.3 </emphasis></span>
-<span class="ost-standards-description">The student can articulate the reasons that scientific explanations and theories are refined or replaced.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-20">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.20 </emphasis></span>
-<span class="ost-standards-description">The student is able to explain how the distribution of ecosystems changes over time by identifying large-scale events that have resulted in these changes in the past.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
 </row>
+
+
 </tbody>
 
 
@@ -108,14 +78,14 @@
 <para id="fs-idp96560512">The Lake Victoria cichlids provide an example through which we can begin to understand biodiversity. The biologists studying cichlids in the 1980s discovered hundreds of cichlid species representing a variety of specializations to particular habitat types and specific feeding strategies: eating plankton floating in the water, scraping and then eating algae from rocks, eating insect larvae from the bottom, and eating the eggs of other species of cichlid. The cichlids of Lake Victoria are the product of an <emphasis>adaptive radiation</emphasis>. An adaptive radiation is a rapid (less than three million years in the case of the Lake Victoria cichlids) branching through speciation of a phylogenetic tree into many closely related species; typically, the species “radiate” into different habitats and niches. The Galápagos finches are an example of a modest adaptive radiation with 15 species. The cichlids of Lake Victoria are an example of a spectacular adaptive radiation that includes about 500 species.</para>
 <para id="fs-idp37380320">At the time biologists were making this discovery, some species began to quickly disappear. A culprit in these declines was a species of large fish that was introduced to Lake Victoria by fisheries to feed the people living around the lake. The Nile perch was introduced in 1963, but lay low until the 1980s when its populations began to surge. The Nile perch population grew by consuming cichlids, driving species after species to the point of extinction (the disappearance of a species). In fact, there were several factors that played a role in the extinction of perhaps 200 cichlid species in Lake Victoria: the Nile perch, declining lake water quality due to agriculture and land clearing on the shores of Lake Victoria, and increased fishing pressure. Scientists had not even catalogued all of the species present—so many were lost that were never named. The diversity is now a shadow of what it once was.</para>
 <para id="fs-idp37051280">The cichlids of Lake Victoria are a thumbnail sketch of contemporary rapid species loss that occurs all over Earth and is caused by human activity. Extinction is a natural process of macroevolution that occurs at the rate of about one out of 1 million species becoming extinct per year. The fossil record reveals that there have been five periods of mass extinction in history with much higher rates of species loss, and the rate of species loss today is comparable to those periods of mass extinction. However, there is a major difference between the previous mass extinctions and the current extinction we are experiencing: human activity. Specifically, three human activities have a major impact: destruction of habitat, introduction of exotic species, and over-harvesting. Predictions of species loss within the next century, a tiny amount of time on geological timescales, range from 10 percent to 50 percent. Extinctions on this scale have only happened five other times in the history of the planet, and they have been caused by cataclysmic events that changed the course of the history of life in each instance. Earth is now in one of those times.</para>
-<section id="fs-idm121429792" class="ost-tag-lo-apbio-ch38-s01-lo01 ost-get-exercise">
+<section id="fs-idm121429792">
 <title>Types of Biodiversity</title>
 <para id="fs-idm5432288">Scientists generally accept that the term biodiversity describes the number and kinds of species in a location or on the planet. Species can be difficult to define, but most biologists still feel comfortable with the concept and are able to identify and count eukaryotic species in most contexts. Biologists have also identified alternate measures of biodiversity, some of which are important for planning how to preserve biodiversity.</para>
 <para id="fs-idm79441456"><emphasis>Genetic diversity</emphasis> is one of those alternate concepts. Genetic diversity or variation is the raw material for adaptation in a species. A species’ future potential for adaptation depends on the genetic diversity held in the genomes of the individuals in populations that make up the species. The same is true for higher taxonomic categories. A genus with very different types of species will have more genetic diversity than a genus with species that look alike and have similar ecologies. If there were a choice between one of these genera of species being preserved, the one with the greatest potential for subsequent evolution is the most genetically diverse one. It would be ideal not to have to make such choices, but increasingly this may be the norm.</para>
 <para id="fs-idp1149472">Many genes code for proteins, which in turn carry out the metabolic processes that keep organisms alive and reproducing. Genetic diversity can be measured as <emphasis>chemical diversity</emphasis> in that different species produce a variety of chemicals in their cells, both the proteins as well as the products and byproducts of metabolism. This chemical diversity has potential benefit for humans as a source of pharmaceuticals, so it provides one way to measure diversity that is important to human health and welfare.</para>
 <para id="fs-idm76894352">Humans have generated diversity in domestic animals, plants, and fungi. This diversity is also suffering losses because of migration, market forces, and increasing globalism in agriculture, especially in heavily populated regions such as China, India, and Japan. The human population directly depends on this diversity as a stable food source, and its decline is troubling biologists and agricultural scientists.</para>
 <para id="fs-idm78242160">It is also useful to define <emphasis>ecosystem diversity</emphasis>, meaning the number of different ecosystems on the planet or in a given geographic area (<link target-id="fig-ch47_01_01"/>). Whole ecosystems can disappear even if some of the species might survive by adapting to other ecosystems. The loss of an ecosystem means the loss of interactions between species, the loss of unique features of coadaptation, and the loss of biological productivity that an ecosystem is able to create. An example of a largely extinct ecosystem in North America is the prairie ecosystem. Prairies once spanned central North America from the boreal forest in northern Canada down into Mexico. They are now all but gone, replaced by crop fields, pasture lands, and suburban sprawl. Many of the species survive, but the hugely productive ecosystem that was responsible for creating the most productive agricultural soils is now gone. As a consequence, soils are disappearing or must be maintained at greater expense.</para>
-<figure id="fig-ch47_01_01" class="ost-tag-lo-apbio-ch38-s01-lo01"><media id="fs-idp12088272" alt="Photo a shows a coral reef. Some of the coral is lobe-shaped, with bumpy pink protrusions, and the other coral has long, slender beige branches. Fish swim among the coral. Photo b shows a rolling prairie, with nothing but tall brown grass as far as the eye can see.">
+<figure id="fig-ch47_01_01"><media id="fs-idp12088272" alt="Photo a shows a coral reef. Some of the coral is lobe-shaped, with bumpy pink protrusions, and the other coral has long, slender beige branches. Fish swim among the coral. Photo b shows a rolling prairie, with nothing but tall brown grass as far as the eye can see.">
 <image mime-type="image/jpg" src="../../media/Figure_47_01_01abf.jpg" width="320"/>
 </media>
 
@@ -224,7 +194,7 @@
 <para id="fs-idm47887376">Biogeography is the study of the distribution of the world’s species—both in the past and in the present. The work of biogeographers is critical to understanding our physical environment, how the environment affects species, and how environmental changes impact the distribution of a species; it has also been critical to developing evolutionary theory. Biogeographers need to understand both biology and ecology. They also need to be well-versed in evolutionary studies, soil science, and climatology.</para>
 <para id="fs-idp91254864">There are three main fields of study under the heading of biogeography: ecological biogeography, historical biogeography (called paleobiogeography), and conservation biogeography. Ecological biogeography studies the current factors affecting the distribution of plants and animals. Historical biogeography, as the name implies, studies the past distribution of species. Conservation biogeography, on the other hand, is focused on the protection and restoration of species based upon known historical and current ecological information. Each of these fields considers both zoogeography and phytogeography—the past and present distribution of animals and plants.</para>
     </note><para id="fs-idm78927520">One of the oldest observed patterns in ecology is that species biodiversity in almost every taxonomic group increases as latitude declines. In other words, biodiversity increases closer to the equator (<link target-id="fig-ch47_01_02"/>).</para>
-<figure id="fig-ch47_01_02" class="ost-tag-lo-apbio-ch38-s01-lo01"><media id="fs-idm76117088" alt="The number of amphibian species in different areas is specified on a world map. The greatest number of species, 61-144, are found in the Amazon region of South America and in parts of Africa. Between 21 and 60 species are found in other parts of South America and Africa, and in the eastern United States and Southeast Asia. Other parts of the world have between 1 and 20 amphibian species, with the fewest species occurring at northern and southern latitudes. Generally, more amphibian species are found in warmer, wetter climates.">
+<figure id="fig-ch47_01_02"><media id="fs-idm76117088" alt="The number of amphibian species in different areas is specified on a world map. The greatest number of species, 61-144, are found in the Amazon region of South America and in parts of Africa. Between 21 and 60 species are found in other parts of South America and Africa, and in the eastern United States and Southeast Asia. Other parts of the world have between 1 and 20 amphibian species, with the fewest species occurring at northern and southern latitudes. Generally, more amphibian species are found in warmer, wetter climates.">
 <image mime-type="image/jpg" src="../../media/Figure_47_01_02.jpg" width="520"/>
 </media>
 <caption>This map illustrates the number of amphibian species across the globe and shows the trend toward higher biodiversity at lower latitudes. A similar pattern is observed for most taxonomic groups.</caption></figure><para id="fs-idm45874912">It is not yet clear why biodiversity increases closer to the equator, but hypotheses include the greater age of the ecosystems in the tropics versus temperate regions that were largely devoid of life or drastically impoverished during the last glaciation. The idea is that greater age provides more time for speciation. Another possible explanation is the increased energy the tropics receive from the sun versus the decreased energy that temperate and polar regions receive. It is not entirely clear how greater energy input could translate into more species. The complexity of tropical ecosystems may promote speciation by increasing the <emphasis>heterogeneity</emphasis>, or number of ecological niches, in the tropics relative to higher latitudes. The greater heterogeneity provides more opportunities for coevolution, specialization, and perhaps greater selection pressures leading to population differentiation. However, this hypothesis suffers from some circularity—ecosystems with more species encourage speciation, but how did they get more species to begin with? The tropics have been perceived as being more stable than temperate regions, which have a pronounced climate and day-length seasonality. The tropics have their own forms of seasonality, such as rainfall, but they are generally assumed to be more stable environments and this stability might promote speciation.</para>
@@ -233,12 +203,12 @@
 <section id="fs-idm151834176">
 <title>Conservation of Biodiversity</title>
 <para id="fs-idm84835360">In 1988, British environmentalist Norman Myers developed a conservation concept to identify areas rich in species and at significant risk for species loss: biodiversity hotspots. <emphasis>Biodiversity hotspots</emphasis> are geographical areas that contain high numbers of endemic species. The purpose of the concept was to identify important locations on the planet for conservation efforts, a kind of conservation triage. By protecting hotspots, governments are able to protect a larger number of species. The original criteria for a hotspot included the presence of 1500 or more endemic plant species and 70 percent of the area disturbed by human activity. There are now 34 biodiversity hotspots (<link target-id="fig-ch47_01_03"/>) containing large numbers of endemic species, which include half of Earth’s endemic plants.</para>
-<figure id="fig-ch47_01_03" class="ost-tag-lo-apbio-ch38-s01-lo01"><media id="fs-idm75196288" alt="Biodiversity hotspots are indicated on a world map. Most hotspots occur in coastal regions and on islands.">
+<figure id="fig-ch47_01_03"><media id="fs-idm75196288" alt="Biodiversity hotspots are indicated on a world map. Most hotspots occur in coastal regions and on islands.">
 <image mime-type="image/jpg" src="../../media/Figure_47_01_03.jpg" width="520"/>
 </media>
 <caption>Conservation International has identified 34 biodiversity hotspots, which cover only 2.3 percent of the Earth’s surface but have endemic to them 42 percent of the terrestrial vertebrate species and 50 percent of the world’s plants.</caption></figure></section>
 </section>
-<section id="fs-idm90874032" class="ost-tag-lo-apbio-ch38-s01-lo02 ost-get-exercise">
+<section id="fs-idm90874032">
 <title>Biodiversity Change through Geological Time</title>
 <para id="fs-idm146758992">The number of species on the planet, or in any geographical area, is the result of an equilibrium of two evolutionary processes that are ongoing: speciation and extinction. Both are natural “birth” and “death” processes of macroevolution. When speciation rates begin to outstrip extinction rates, the number of species will increase; likewise, the number of species will decrease when extinction rates begin to overtake speciation rates. Throughout Earth’s history, these two processes have fluctuated—sometimes leading to dramatic changes in the number of species on Earth as reflected in the fossil record (<link target-id="fig-ch47_01_04"/>).</para>
 <figure id="fig-ch47_01_04" class="ost-tag-lo-apbio-ch38-s01-lo02 ost-tag-lo-apbio-ch38-s01-lo03 ost-tag-lo-apbio-ch38-s01-aplo-4-20"><media id="fs-idm77310736" alt="The chart shows percent extinction intensity of eliminated marine genera versus time in millions of years before present. Extinction intensity spikes at boundaries between periods, including the end of the Ordovician which had 30 percent extinction occurrences of marine genera approximately 450 million years ago. The late Devonian had approximately 25 percent extinction occurrences of marine genera at roughly 375 million years ago. The end of the Permian had 50 percent extinction occurrences of marine genera approximately 250 million years ago. The end of the Triassic had roughly 30 percent extinction occurrences of marine genera 200 million years ago. And the end of the Cretaceous periods had over 30 percent extinction occurrences of marine genera roughly 70 million years ago.">
@@ -247,7 +217,7 @@
 
 <caption>Percent extinction occurrences of marine genera as reflected in the fossil record have fluctuated throughout Earth’s history. Sudden and dramatic losses of biodiversity, called mass extinctions, have occurred five times.</caption></figure><para id="fs-idm80530832">Paleontologists have identified five strata in the fossil record that appear to show sudden and dramatic (between 25–55% of genera and greater than half of all extant species disappearing from the fossil record) losses in biodiversity. These are called mass extinctions. There are many lesser, yet still dramatic, extinction events, but the five mass extinctions have attracted the most research. An argument can be made that the five mass extinctions are only the five most extreme events in a continuous series of large extinction events throughout the Phanerozoic (since 542 million years ago). In most cases, the hypothesized causes are still controversial; however, the most recent event seems clear.</para>
 
-<section id="fs-idm32097744" class="ost-tag-lo-apbio-ch38-s01-lo03"><title>The Five Mass Extinctions</title><para id="fs-idm70901264">The fossil record of the mass extinctions was the basis for defining periods of geological history, so they typically occur at the transition point between geological periods. The transition in fossils from one period to another reflects the dramatic loss of species and the gradual origin of new species. These transitions can be seen in the rock strata. <link target-id="tab-ch47_01_02"/> provides data on the five mass extinctions.</para>
+<section id="fs-idm32097744"><title>The Five Mass Extinctions</title><para id="fs-idm70901264">The fossil record of the mass extinctions was the basis for defining periods of geological history, so they typically occur at the transition point between geological periods. The transition in fossils from one period to another reflects the dramatic loss of species and the gradual origin of new species. These transitions can be seen in the rock strata. <link target-id="tab-ch47_01_02"/> provides data on the five mass extinctions.</para>
 <table id="tab-ch47_01_02" summary="" class="ost-tag-lo-apbio-ch38-s01-lo03 top-titled"><tgroup cols="1">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>

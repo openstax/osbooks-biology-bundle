@@ -20,86 +20,141 @@
 <section id="fs-id1167067133571" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167062332269"><emphasis>Population genetics</emphasis> studies microevolution by measuring changes in a population’s allele frequencies over time. (Remember that we studied genotypes and allele frequencies when we explored inheritance patterns proposed by Mendel.) For example, scientists examining allele frequencies in a pesticide resistance gene in mosquitoes at Equatorial Guinea found that the frequency of one resistance allele was 6.3%, while a second resistance allele’s frequency was 74.6%, and the non-resistance allele’s frequency was 19.0%. These three frequencies add up to 100%.<footnote id="fs-id1167066098216">Reddy, M. R., Godoy, A., Dion, K., Matias, A., Callender, K., Kiszewski, A. E., Slotman, M. A. (2013). Insecticide Resistance Allele Frequencies in <emphasis effect="italics">Anopheles gambiae</emphasis> before and after Anti-Vector Interventions in Continental Equatorial Guinea. <emphasis effect="italics">The American Journal of Tropical Medicine and Hygiene, 88</emphasis>(5), 897–907. doi:10.4269/ajtmh.12-0467</footnote> A population’s <emphasis>gene pool</emphasis> is the sum of all the alleles. If these frequencies do not change over time, the population is said to be in <emphasis>Hardy–Weinberg principle of equilibrium</emphasis>—a stable, non-evolving state. However, if a phenotype is favored by natural selection, allele frequencies can change. If this is the case, the population is evolving. Sometimes allele frequencies within a population change randomly with no advantage to the population over existing allele frequencies. This phenomenon is called <emphasis>genetic drift</emphasis>. An event that initiates an allele frequency change in an isolated part of the population, which is not typical of the original population, is called the <emphasis>founder effect</emphasis>. In <link document="m62870">Population Genetics</link>, we will explore how natural selection, random drift, and founder effects can lead to significant changes in the genome of a population.</para><para id="fs-id1167062403792" class="ost-reading-discard">Hardy–Weinberg equilibrium reflects a state of constancy in a population’s gene pool. In other words, allele frequencies remain stable from generation to generation if certain conditions are met: no mutations, no gene flow, random mating, no genetic drift, and no selection. Because these conditions are rarely met, allele frequencies are typically changing, reflecting evolution. The Hardy–Weinberg principle is represented by the mathematical equation <emphasis effect="italics">p<sup>2</sup> + 2pq + q<sup>2</sup> = 1</emphasis>, where <emphasis effect="italics">p</emphasis> represents the frequency of the dominant allele and <emphasis effect="italics">q</emphasis> represents the frequency of the recessive allele. Deviations from Hardy–Weinberg equilibrium allow us to measure microevolutionary shifts in a population when one or more of the Hardy–Weinberg parameters change. For example, if we go back to the study of the frequencies of alleles in a pesticide resistance gene, after an area was treated with pesticides for two years, the resistance alleles increased to 11.1% and 83.3%, respectively, while the non-resistance allele decreased to 5.6%. This indicates that microevolution was occurring.</para>
-<para id="fs-id1167065046742" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167065046742" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 6.7, 7.4, 7.5, and 7.11 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167065789893" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.A.1 Natural selection is a major mechanism of evolution. Second left cell reads: Science Practice. Second right cell reads: 1.5 The student can re-express key elements of natural phenomena across multiple representations in the domain. Third left cell reads: Learning Objective. Third right cell reads: 1.1 The student is able to convert a data set from a table of numbers that reflect a change in the genetic makeup of a population over time and to apply mathematical methods and conceptual understandings to investigate the cause(s) and effect(s) of this change." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.7 Mutations</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.7.C Explain how alterations in DNA sequences contribute to variation that can be subject to natural selection.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.7.C.1 Changes in genotype may affect phenotypes that are subject to natural selection. Genetic changes that enhance survival and reproduction can be selected for by environmental conditions.<newline/>
+iii. Reproductive processes that increase genetic variation are evolutionarily conserved and are shared by various organisms.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.C Visual Representations- Explain how biological models relate to larger principles, concepts, processes, systems, or theories.</entry>
+</row>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.4 Population Genetics</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.4.A Explain how random occurrences affect the genetic makeup of a population.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.4.A.1 Evolution is also driven by random occurrences.
+ii. Genetic drift is a change in allele frequencies attributable to a nonselective process occurring in small populations.<newline/>
+iv. The founder effect is a type of genetic drift that occurs when a population is separated from other members of the population. The frequency of genes and traits will shift based on the genes in this new founder population.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.4.B Describe the role of random processes in the evolution of specific populations.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.4.B.1 Random processes can lead to changes in the allele frequency in a population.<newline/>
+ii. Genetic drift can allow a small population to diverge from other populations of the same species.<newline/>
+iii. Gene flow between two populations prevents them from diverging into separate species.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.4.C Describe the change in the genetic makeup of a population over time</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.4.C.1 Changes in allele frequencies provide evidence for the occurrence of evolution in a population.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>3.B Questions and Methods- State the null hypothesis or predict the results of an experiment.</entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.A</emphasis></entry>
-<entry class="ost-standards-description">Change in the genetic makeup of a population over time is evolution.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.A.1</emphasis></span>
-<span class="ost-standards-description">Natural selection is a major mechanism of evolution.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.5 </emphasis></span>
-<span class="ost-standards-description">The student can re-express key elements of natural phenomena across multiple representations in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student is able to convert a data set from a table of numbers that reflect a change in the genetic makeup of a population over time and to apply mathematical methods and conceptual understandings to investigate the cause(s) and effect(s) of this change.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s01-aplo-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student is able to convert a data set from a table of numbers that reflect a change in the genetic makeup of a population over time and to apply mathematical methods and conceptual understandings to investigate the cause(s) and effect(s) of this change.</span>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.5 Hardy-Weinberg Equilibrium</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.5.A Describe the conditions under which allele and genotype frequencies will change in populations.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.5.A.1 The Hardy-Weinberg Equilibrium is a model for describing and predicting allele frequencies in a non-evolving population. Conditions for a population or an allele to be in Hardy-Weinberg equilibrium are:<newline/>
+i. A large population size<newline/>
+ii. No migration<newline/>
+iii. No new mutations<newline/>
+iv. Random mating<newline/>
+v. No natural selection<newline/>
+
+These conditions are never met, but they provide a valuable null hypothesis.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.5.A.2 Allele frequencies in a nonevolving population can be calculated from genotype frequencies.<newline/>
+
+<emphasis>Relevant Equations</emphasis><newline/>
+Hardy-Weinberg Equation-<newline/>
+p<sup>2</sup> + 2pq + q<sup>2</sup> = 1<newline/>
+p + q = 1<newline/>
+where:<newline/>
+p = frequency of allele 1 in the population<newline/>
+q = frequency of allele 2 in the population</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.C Concept Explanation- Explain biological concepts and processes in applied contexts.
 </entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.A.1 </emphasis></span>
-<span class="ost-standards-description">Natural selection is a major mechanism of evolution.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
-<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s01-aplo-1-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
-<span class="ost-standards-description">The student is able to evaluate evidence provided by data to qualitatively and quantitatively investigate the role of natural selection in evolution.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.A Statistical Tests and Data Analysis- Perform mathematical calculations, including:<newline/>
+i. mathematical equations in the curriculum<newline/>
+ii. means<newline/>
+iii. rates<newline/>
+iv. ratios <newline/>
+v. percentages and percent changes</entry>
+</row>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>4. Systems Interactions: Biological systems interact, and these systems and their interactions exhibit complex properties.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.11 Variations in Populations</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.11.A Explain how the genetic diversity of a species of population affects its ability to withstand environmental pressures.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.11.A.1 The level of variation in a population affects population dynamics.<newline/>
+iii. Alleles that are adaptive in one environmental condition may be deleterious in another because of different selective pressures.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.C Argumentation- Provide reasoning to justify a claim by connecting evidence to biological theories.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.A.1 </emphasis></span>
-<span class="ost-standards-description">Natural selection is a major mechanism of evolution.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch19-s01-aplo-1-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.3 </emphasis></span>
-<span class="ost-standards-description">The student is able to apply mathematical methods to data from a real or simulated population to predict what will happen to the population in the future.</span>
-</entry>
-</row>
+
+
 </tbody>
 
 
 
 
 </tgroup>
-</table><para id="fs-id1166850993518">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 1.1]</para></section>
+</table><para id="fs-id1166850993518">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
 <note id="fs-id1167066811303" class="os-teacher">
 <label>Teacher Support</label>
 <para id="fs-id1167063593915">A good video tutorial by Bozeman on Hardy–Weinberg can be found <link url="http://openstax.org/i/32hardy">here</link>.</para>
@@ -117,19 +172,19 @@
 </problem>
 </exercise>
 </note>
-<section id="fs-idm10186960" class="ost-tag-lo-apbio-ch19-s01-lo01 ost-tag-lo-apbio-ch19-s01-aplo-1-1 ost-get-exercise">
+<section id="fs-idm10186960" class="ost-tag-lo-apbio-ch19-s01-lo01 ost-tag-lo-apbio-ch19-s01-aplo-1-1">
 <title>Population Genetics</title>
 <para id="fs-idp38683264">Recall that a gene for a particular character may have several alleles, or variants, that code for different traits associated with that character. For example, in the ABO blood type system in humans, three alleles determine the particular blood-type carbohydrate on the surface of red blood cells. Each individual in a population of diploid organisms can only carry two alleles for a particular gene, but more than two may be present in the individuals that make up the population. Mendel followed alleles as they were inherited from parent to offspring. In the early twentieth century, biologists in a field of study known as population genetics began to study how selective forces change a population through changes in allele and genotypic frequencies.</para>
 <para id="fs-idp27127920">The <emphasis>allele frequency</emphasis> (or gene frequency) is the proportion of a specific allele within a population, relative to all other alleles of that gene that are present in the population. Until now we have discussed evolution as a change in the characteristics of a population of organisms, but behind that phenotypic change is genetic change. In population genetics, the term evolution is defined as a change in the frequency of an allele in a population. Using the ABO blood type system as an example, the frequency of one of the alleles, <emphasis effect="italics">I</emphasis><sup>A</sup>, is the number of copies of that allele divided by all the copies of the ABO gene in the population. For example, a study in Jordan<footnote id="fs-idp35882688">Sahar S. Hanania, Dhia S. Hassawi, and Nidal M. Irshaid, “Allele Frequency and Molecular Genotypes of ABO Blood Group System in a Jordanian Population,” <emphasis effect="italics">Journal of Medical Sciences</emphasis> 7 (2007): 51-58, doi:10.3923/jms.2007.51.58.</footnote> found a frequency of <emphasis effect="italics">I</emphasis><sup>A</sup> to be 26.1 percent. The <emphasis effect="italics">I</emphasis><sup>B</sup> and <emphasis effect="italics">I</emphasis><sup>0</sup> alleles made up 13.4 percent and 60.5 percent of the alleles respectively, and all of the frequencies added up to 100 percent. A change in this frequency over time would constitute evolution in the population.</para><para id="fs-idm114333808">The allele frequency within a given population can change depending on environmental factors; therefore, certain alleles become more widespread than others during the process of natural selection. Natural selection can alter the population’s genetic makeup; for example, if a given allele confers a phenotype that allows an individual to better survive or have more offspring. Because many of those offspring will also carry the beneficial allele, and often the corresponding phenotype, they will have more offspring of their own that also carry the allele, thus, perpetuating the cycle. Over time, the allele will spread throughout the population. Some alleles will quickly become fixed in this way, meaning that every individual of the population will carry the allele, while detrimental mutations may be swiftly eliminated if derived from a dominant allele from the gene pool. The gene pool is the sum of all the alleles in a population.</para>
 <para id="fs-idp48160560">Sometimes, allele frequencies within a population change randomly with no advantage to the population over existing allele frequencies. This phenomenon is called genetic drift. Natural selection and genetic drift usually occur simultaneously in populations and are not isolated events. It is hard to determine which process dominates because it is often nearly impossible to determine the cause of change in allele frequencies at each occurrence. An event that initiates an allele frequency change in an isolated part of the population, which is not typical of the original population, is called the founder effect. Natural selection, random drift, and founder effects can lead to significant changes in the genome of a population.</para>
 </section>
-<section id="fs-idm71601456" class="ost-tag-lo-apbio-ch19-s01-lo02 ost-tag-lo-apbio-ch19-s01-aplo-1-1 ost-get-exercise">
+<section id="fs-idm71601456" class="ost-tag-lo-apbio-ch19-s01-lo02 ost-tag-lo-apbio-ch19-s01-aplo-1-1">
 <title>Hardy–Weinberg Principle of Equilibrium</title>
 <para id="fs-idm129476160">In the early twentieth century, English mathematician Godfrey Hardy and German physician Wilhelm Weinberg stated the principle of equilibrium to describe the genetic makeup of a population. The theory, which later became known as the Hardy–Weinberg principle of equilibrium, states that a population’s allele and <emphasis>genotype frequencies</emphasis> are inherently stable—unless some kind of evolutionary force is acting upon the population, neither the allele nor the genotypic frequencies would change. The Hardy–Weinberg principle assumes conditions with no mutations, migration, emigration, or selective pressure for or against genotype, plus an infinite population; while no population can satisfy those conditions, the principle offers a useful model against which to compare real population changes.</para>
 <para id="fs-idm73454784">Working under this theory, population geneticists represent different alleles as different variables in their mathematical models. The variable p, for example, typically represents the frequency of the dominant allele, say Y for the trait of yellow in Mendel's peas. The variable q represents the frequency of the recessive allele, in this case y, that confers the color green. If these are the only two possible alleles for a given locus in the population, p + q = 1. In other words, all the p alleles and all the q alleles make up all of the alleles for that locus that are found in the population.</para>
 <para id="fs-idm40223024">But what ultimately interests most biologists is not the frequencies of different alleles, but the frequencies of the resulting genotypes, known as the population’s <emphasis>genetic structure</emphasis>, from which scientists can surmise the distribution of phenotypes. If the phenotype is observed, only the genotype of the homozygous recessive alleles can be known; the calculations provide an estimate of the remaining genotypes. Since each individual carries two alleles per gene, if the allele frequencies (p and q) are known, predicting the frequencies of these genotypes is a simple mathematical calculation to determine the probability of getting these genotypes if two alleles are drawn at random from the gene pool. So in the above scenario, an individual pea plant could be pp (YY), and thus produce yellow peas; pq (Yy), also yellow; or qq (yy), and thus producing green peas (<link target-id="fig-ch19_01_01"/>). In other words, the frequency of pp individuals is simply p<sup>2</sup>; the frequency of pq individuals is 2pq; and the frequency of qq individuals is q<sup>2</sup>. And, again, if p and q are the only two possible alleles for a given trait in the population, these genotypes frequencies will sum to one: p<sup>2</sup> + 2pq + q<sup>2</sup> = 1.</para>
 <note id="fs-idm33635456" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch19-s01-lo02 ost-tag-lo-apbio-ch19-s01-aplo-1-1"><label>Visual Connection</label>
-<para id="fs-idp104008800"><figure id="fig-ch19_01_01"><media id="fs-idm30317200" alt="The Hardy–Weinberg principle is used to predict the genotypic distribution of offspring in a given population. In the example given, pea plants have two different alleles for pea color. The dominant capital Y allele results in yellow pea color, and the recessive small y allele results in green pea color. The distribution of individuals in a population of 500 is given. Of the 500 individuals, 245 are homozygous dominant (capital Y capital Y) and produce yellow peas. 210 are heterozygous (capital Y small y) and also produce yellow peas. 45 are homozygous recessive (small y small y) and produce green peas. The frequencies of homozygous dominant, heterozygous, and homozygous recessive individuals are 0.49, 0.42, and 0.09, respectively.  Each of the 500 individuals provides two alleles to the gene pool, or 1000 total. The 245 homozygous dominant individuals provide two capital Y alleles to the gene pool, or 490 total. The 210 heterozygous individuals provide 210 capital Y and 210 small y alleles to the gene pool. The 45 homozygous recessive individuals provide two small y alleles to the gene pool, or 90 total. The number of capital Y alleles is 490 from homozygous dominant individuals plus 210 from homozygous recessive individuals, or 700 total. The number of small y alleles is 210 from heterozygous individuals plus 90 from homozygous recessive individuals, or 300 total.  The allelic frequency is calculated by dividing the number of each allele by the total number of alleles in the gene pool. For the capital Y allele, the allelic frequency is 700 divided by 1000, or 0.7; this allelic frequency is called p. For the small y allele the allelic frequency is 300 divided by 1000, or 0.3; the allelic frequency is called q.  Hardy–Weinberg analysis is used to determine the genotypic frequency in the offspring. The Hardy-Wienberg equation is p-squared plus 2pq plus q-squared equals 1. For the population given, the frequency is 0.7-squared plus 2 times .7 times .3 plus .3-squared equals one. The value for p-squared, 0.49, is the predicted frequency of homozygous dominant (capital Y capital Y) individuals. The value for 2pq, 0.42, is the predicted frequency of heterozygous (capital Y small y) individuals. The value for q-squared, .09, is the predicted frequency of homozygous recessive individuals. Note that the predicted frequency of genotypes in the offspring is the same as the frequency of genotypes in the parent population. If all the genotypic frequencies, .49 plus .42 plus .09, are added together, the result is one ">
+<para id="fs-idp104008800"><figure id="fig-ch19_01_01"><media id="fs-idm30317200" alt="The Hardy–Weinberg principle is used to predict the genotypic distribution of offspring in a given population. In the example given, pea plants have two different alleles for pea color. The dominant capital Y allele results in yellow pea color, and the recessive small y allele results in green pea color. The distribution of individuals in a population of 500 is given. Of the 500 individuals, 245 are homozygous dominant (capital Y capital Y) and produce yellow peas. 210 are heterozygous (capital Y small y) and also produce yellow peas. 45 are homozygous recessive (small y small y) and produce green peas. The frequencies of homozygous dominant, heterozygous, and homozygous recessive individuals are 0.49, 0.42, and 0.09, respectively.  Each of the 500 individuals provides two alleles to the gene pool, or 1000 total. The 245 homozygous dominant individuals provide two capital Y alleles to the gene pool, or 490 total. The 210 heterozygous individuals provide 210 capital Y and 210 small y alleles to the gene pool. The 45 homozygous recessive individuals provide two small y alleles to the gene pool, or 90 total. The number of capital Y alleles is 490 from homozygous dominant individuals plus 210 from homozygous recessive individuals, or 700 total. The number of small y alleles is 210 from heterozygous individuals plus 90 from homozygous recessive individuals, or 300 total.  The allelic frequency is calculated by dividing the number of each allele by the total number of alleles in the gene pool. For the capital Y allele, the allelic frequency is 700 divided by 1000, or 0.7; this allelic frequency is called p. For the small y allele the allelic frequency is 300 divided by 1000, or 0.3; the allelic frequency is called q.  Hardy–Weinberg analysis is used to determine the genotypic frequency in the offspring. The Hardy-Wienberg equation is p-squared plus 2pq plus q-squared equals 1. For the population given, the frequency is 0.7-squared plus 2 times .7 times .3 plus .3-squared equals one. The value for p-squared, 0.49, is the predicted frequency of homozygous dominant (capital Y capital Y) individuals. The value for 2pq, 0.42, is the predicted frequency of heterozygous (capital Y small y) individuals. The value for q-squared, .09, is the predicted frequency of homozygous recessive individuals. Note that the predicted frequency of genotypes in the offspring is the same as the frequency of genotypes in the parent population. If all the genotypic frequencies, .49 plus .42 plus .09, are added together, the result is one">
 <image mime-type="image/png" src="../../media/Figure_19_01_01.png" width="430"/>
 </media>
 <caption>When populations are in the Hardy–Weinberg equilibrium, the allelic frequency is stable from generation to generation and the distribution of alleles can be determined from the Hardy–Weinberg equation. If the allelic frequency measured in the field differs from the predicted value, scientists can make inferences about what evolutionary forces are at play.</caption></figure></para>

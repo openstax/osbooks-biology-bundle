@@ -55,135 +55,47 @@
 
  </m:mrow>
 </m:math></equation><para id="fs-id1167065763219" class="ost-reading-discard">The light-dependent reactions occur in the thylakoid membranes of chloroplasts, whereas the Calvin cycle occurs in the stroma of chloroplasts. Embedded in the thylakoid membranes are two photosystems (PS I and PS II), which are complexes of pigments that capture solar energy. Chlorophylls <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis> absorb violet, blue, and red wavelengths from the visible light spectrum and reflect green. The carotenoid pigments absorb violet-blue-green light and reflect yellow-to-orange light. Environmental factors such as day length and temperature influence which pigments predominant at certain times of the year. Although the two photosystems run simultaneously, it is easier to explore them separately. Let’s begin with photosystem II.</para>
-<para id="fs-id1167064710379" class="ost-reading-discard">A photon of light strikes the antenna pigments of PS II to initiate photosynthesis. In the noncyclic pathway, PS II captures photons at a slightly higher energy level than PS I. (Remember that shorter wavelengths of light carry more energy.) The absorbed energy travels to the reaction center of the antenna pigment that contains chlorophyll <emphasis effect="italics">a</emphasis> and boosts chlorophyll <emphasis effect="italics">a</emphasis> electrons to a higher energy level. The electrons are accepted by a primary electron acceptor protein and then pass to the electron transport chain also embedded in the thylakoid membrane. The energy absorbed in PS II is enough to oxidize (split) water, releasing oxygen into the atmosphere; the electrons released from the oxidation of water replace the electrons that were boosted from the reaction center chlorophyll. As the electrons from the reaction center chlorophyll pass through the series of electron carrier proteins, hydrogen ions (H<sup>+</sup>) are pumped across the membrane via chemiosmosis into the interior of the thylakoid. (If this sounds familiar, it should. We studied chemiosmosis in our exploration of cellular respiration in Cellular Respiration.) This action builds up a high concentration of H+ ions, and as they flow through ATP synthase, molecules of ATP are formed. These molecules of ATP will be used to provide free energy for the synthesis of carbohydrate in the Calvin cycle, the second stage of photosynthesis. The electron transport chain connects PS II and PS I. Similar to the events occurring in PS II, this second photosystem absorbs a second photon of light, resulting in the formation of a molecule of NADPH from NADP<sub>+</sub>. The energy carried in NADPH also is used to power the chemical reactions of the Calvin cycle.</para><para id="fs-id1167065655008" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and learning objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. The learning objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para><table id="fs-id1167065862940" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.2 Organisms use various strategies to capture and store free energy for use in biological processes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Science Practice. Third right cell reads: 3.1 The student can pose scientific questions. Fourth left cell reads: Learning Objective. Fourth right cell reads: 2.4 The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167064710379" class="ost-reading-discard">A photon of light strikes the antenna pigments of PS II to initiate photosynthesis. In the noncyclic pathway, PS II captures photons at a slightly higher energy level than PS I. (Remember that shorter wavelengths of light carry more energy.) The absorbed energy travels to the reaction center of the antenna pigment that contains chlorophyll <emphasis effect="italics">a</emphasis> and boosts chlorophyll <emphasis effect="italics">a</emphasis> electrons to a higher energy level. The electrons are accepted by a primary electron acceptor protein and then pass to the electron transport chain also embedded in the thylakoid membrane. The energy absorbed in PS II is enough to oxidize (split) water, releasing oxygen into the atmosphere; the electrons released from the oxidation of water replace the electrons that were boosted from the reaction center chlorophyll. As the electrons from the reaction center chlorophyll pass through the series of electron carrier proteins, hydrogen ions (H<sup>+</sup>) are pumped across the membrane via chemiosmosis into the interior of the thylakoid. (If this sounds familiar, it should. We studied chemiosmosis in our exploration of cellular respiration in Cellular Respiration.) This action builds up a high concentration of H+ ions, and as they flow through ATP synthase, molecules of ATP are formed. These molecules of ATP will be used to provide free energy for the synthesis of carbohydrate in the Calvin cycle, the second stage of photosynthesis. The electron transport chain connects PS II and PS I. Similar to the events occurring in PS II, this second photosystem absorbs a second photon of light, resulting in the formation of a molecule of NADPH from NADP<sub>+</sub>. The energy carried in NADPH also is used to power the chemical reactions of the Calvin cycle.</para><para id="fs-id1167065655008" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 3.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para><table id="fs-id1167065862940" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.2 Organisms use various strategies to capture and store free energy for use in biological processes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Science Practice. Third right cell reads: 3.1 The student can pose scientific questions. Fourth left cell reads: Learning Objective. Fourth right cell reads: 2.4 The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.2</emphasis></span>
-<span class="ost-standards-description">The light-independent reactions of photosynthesis in eukaryotes involve a series of reactions that capture free energy present in light.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4</emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s02-aplo-2-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.4</emphasis></span>
-<span class="ost-standards-description">The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>3.4 Photosynthesis</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>3.4.B Explain how cells capture energy from light and transfer it to biological molecules for storage and use.</entry>
 </row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.4.B.1 Electron transport chain (ETC) reactions occur in chloroplast, in mitochondria, and across prokaryotic plasma membranes. In photosynthesis, electrons that pass through the thylakoid membrane are picked up and ultimately transferred to NADP+ reducing it to NADPH in photosystem I.<newline/>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.2</emphasis></span>
-<span class="ost-standards-description">The light-independent reactions of photosynthesis in eukaryotes involve a series of reactions that capture free energy present in light. </span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s02-aplo-2-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.5</emphasis></span>
-<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store, or use free energy.</span>
-</entry>
+Exclusion Statement- The full names of the specific electron carriers in the electron transport chain are beyond the scope of the AP<sup>®</sup> Exam.<newline/>
+
+Exclusion Statement- Specific steps, names of enzymes and intermediates of the pathways for these processes are beyond the scope of this course and the AP<sup>®</sup> Exam.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.4.B.2 During photosynthesis, chlorophylls absorb energy from light, boosting electrons to a higher energy level in photosystems I and II. Water then splits, supplying electrons to replace those lost from photosystem II.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.2</emphasis></span>
-<span class="ost-standards-description">Chloroplasts are specialized organelles that capture energy through photosynthesis.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4</emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s02-aplo-4-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>4.4</emphasis></span>
-<span class="ost-standards-description">The student is able to make a prediction about the interactions of subcellular organelles.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.4.B.3 Photosystem I and II are embedded in the thylakoid membranes of chloroplasts and are connected by the transfer of electrons through an ETC.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.2</emphasis></span>
-<span class="ost-standards-description">Chloroplasts are specialized organelles that capture energy through photosynthesis.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s02-aplo-4-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>4.5</emphasis></span>
-<span class="ost-standards-description">The student is able to construct explanations based on scientific evidence as to how interactions of subcellular structures provide essential functions.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.4.B.4 When electrons are transferred between molecules in a series of oxidation/reduction reactions as they pass through the ETC, an electrochemical gradient of protons (hydrogen ions) is established across the thylakoid membrane. The membrane separates a region of low proton concentration from a region of high proton concentration inside the thylakoid membrane.</entry>
 </row>
-
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.2</emphasis></span>
-<span class="ost-standards-description">Chloroplasts are specialized organelles that capture energy through photosynthesis.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4</emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s02-aplo-4-6">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>4.6</emphasis></span>
-<span class="ost-standards-description">The student is able to use representations and models to analyze situations qualitatively to describe how interactions of subcellular structures, which possess specialized functions, provide essential functions.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.4.B.5 The formation of the proton gradient is linked to the synthesis of ATP from ADP and inorganic phosphate via ATP synthase. The flow of protons back through membrane-bound ATP synthase by chemiosmosis drives the formation of ATP from ADP and inorganic phosphate; This is known as photophosphorylation.</entry>
 </row>
-</tbody>
-
-
-
-
-
-
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.B Argmentation- Support a claim with evidence from biological principles, concepts, processes, and data.</entry>
+</row></tbody>
 </tgroup>
 </table></section><note id="fs-id1167066055401" class="os-teacher">
 <label>Teacher Support</label>
@@ -193,14 +105,13 @@
 </para>
 </note>
 </note>
-<para id="fs-id1166848676663">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.5][APLO 2.16][APLO 2.18][APLO 1.9][APLO 1.32][APLO 4.14][APLO 2.2][APLO 2.3][APLO 2.23][APLO 1.15][APLO 1.29]</para><para id="fs-idm88490128">How can light be used to make food? When a person turns on a lamp, electrical energy becomes light energy. Like all other forms of kinetic energy, light can travel, change form, and be harnessed to do work. In the case of photosynthesis, light energy is converted into chemical energy, which photoautotrophs use to build carbohydrate molecules (<link target-id="fig-ch08_02_01"/>). However, autotrophs only use a few specific components of sunlight.</para>
-<figure id="fig-ch08_02_01" class="ost-tag-lo-apbio-ch08-s01-lo01"><media id="fs-idm92191472" alt="A photo shows the silhouette of a grassy plant against the sun at sunset.">
+<para id="fs-id1166848676663">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
+<figure id="fig-ch08_02_01"><media id="fs-idm92191472" alt="A photo shows the silhouette of a grassy plant against the sun at sunset.">
 <image mime-type="image/jpg" src="../../media/Figure_08_02_01-c52d.jpg" width="295"/>
 </media>
 
 <caption>Photoautotrophs can capture light energy from the sun, converting it into the chemical energy used to build food molecules. (credit: Gerry Atwell)</caption></figure>
-<section id="fs-idp36564064" class="ost-tag-lo-apbio-ch08-s02-lo01 ost-tag-lo-apbio-ch08-s02-aplo-2-4 ost-get-exercise">
+<section id="fs-idp36564064" class="ost-tag-lo-apbio-ch08-s02-lo01 ost-tag-lo-apbio-ch08-s02-aplo-2-4">
 <title>What Is Light Energy?</title>
 
 <note id="fs-id1167065020907" class="os-teacher">
@@ -211,7 +122,7 @@
 
 
 <para id="fs-idm194396816">The sun emits an enormous amount of electromagnetic radiation (solar energy). Humans can see only a fraction of this energy, which portion is therefore referred to as “visible light.” The manner in which solar energy travels is described as waves. Scientists can determine the amount of energy of a wave by measuring its <term id="term-00001">wavelength</term>, the distance between consecutive points of a wave. A single wave is measured from two consecutive points, such as from crest to crest or from trough to trough (<link target-id="fig-ch08_02_02"/>).</para>
-<figure id="fig-ch08_02_02" class="ost-tag-lo-apbio-ch08-s02-lo01"><media id="fs-idm128612944" alt="The illustration shows two waves. The distance between the crests (or troughs) is the wavelength.">
+<figure id="fig-ch08_02_02"><media id="fs-idm128612944" alt="The illustration shows two waves. The distance between the crests (or troughs) is the wavelength.">
 <image mime-type="image/jpg" src="../../media/Figure_08_02_02-f0bf.jpg" width="320"/>
 </media>
 
@@ -225,7 +136,7 @@
 </section>
 
 
-<section id="fs-idm82071776" class="ost-tag-lo-apbio-ch08-s02-lo02 ost-get-exercise"><title>Absorption of Light</title><note id="fs-id1167066123168" class="os-teacher">
+<section id="fs-idm82071776"><title>Absorption of Light</title><note id="fs-id1167066123168" class="os-teacher">
 <label>Teacher Support</label>
 <para id="fs-id1167065730005">Stress the differences in the amount of energy at each wavelength, and the usefulness of the wavelengths for energy capture. Discuss what is in a “grow light” (artificial light source for plants grown indoors).</para>
 </note>
@@ -240,7 +151,7 @@
 
 <caption>The colors of visible light do not carry the same amount of energy. Violet has the shortest wavelength and therefore carries the most energy, whereas red has the longest wavelength and carries the least amount of energy. (credit: modification of work by NASA)</caption></figure>
 </section>
-<section id="fs-idm123511168" class="ost-tag-lo-apbio-ch08-s02-lo02 ost-get-exercise">
+<section id="fs-idm123511168">
 <title>Understanding Pigments</title>
 <note id="fs-id1167065808558" class="os-teacher">
 <label>Teacher Support</label>
@@ -254,13 +165,13 @@
 </media>
 
 <caption>(a) Chlorophyll <emphasis effect="italics">a</emphasis>, (b) chlorophyll <emphasis effect="italics">b</emphasis>, and (c) <emphasis effect="italics">β</emphasis>-carotene are hydrophobic organic pigments found in the thylakoid membrane. Chlorophyll <emphasis effect="italics">a</emphasis> and <emphasis effect="italics">b</emphasis>, which are identical except for the part indicated in the red box, are responsible for the green color of leaves. <emphasis effect="italics">β</emphasis>-carotene is responsible for the orange color in carrots. Each pigment has (d) a unique absorbance spectrum.</caption></figure><para id="fs-idm186915168">Many photosynthetic organisms have a mixture of pigments; using them, the organism can absorb energy from a wider range of wavelengths. Not all photosynthetic organisms have full access to sunlight. Some organisms grow underwater where light intensity and quality decrease and change with depth. Other organisms grow in competition for light. Plants on the rainforest floor must be able to absorb any bit of light that comes through, because the taller trees absorb most of the sunlight and scatter the remaining solar radiation (<link target-id="fig-ch08_02_06"/>).</para>
-<figure id="fig-ch08_02_06" class="ost-tag-lo-apbio-ch08-s02-lo01"><media id="fs-idm168490976" alt="The photo shows undergrowth in a forest.">
+<figure id="fig-ch08_02_06"><media id="fs-idm168490976" alt="The photo shows undergrowth in a forest.">
 <image mime-type="image/jpg" src="../../media/Figure_08_02_06.jpg" width="380"/>
 </media>
 <caption>Plants that commonly grow in the shade have adapted to low levels of light by changing the relative concentrations of their chlorophyll pigments. (credit: Jason Hollinger)</caption></figure><para id="fs-idm160247200">When studying a photosynthetic organism, scientists can determine the types of pigments present by generating absorption spectra. An instrument called a <term id="term-00007">spectrophotometer</term> can differentiate which wavelengths of light a substance can absorb. Spectrophotometers measure transmitted light and compute from it the absorption. By extracting pigments from leaves and placing these samples into a spectrophotometer, scientists can identify which wavelengths of light an organism can absorb. Additional methods for the identification of plant pigments include various types of chromatography that separate the pigments by their relative affinities to solid and mobile phases.</para>
 </section>
 
-<section id="fs-idm30660704" class="ost-tag-lo-apbio-ch08-s02-lo03 ost-tag-lo-apbio-ch08-s02-aplo-4-5 ost-get-exercise">
+<section id="fs-idm30660704" class="ost-tag-lo-apbio-ch08-s02-lo03 ost-tag-lo-apbio-ch08-s02-aplo-4-5">
 <title>How Light-Dependent Reactions Work</title>
 
 <note id="fs-id1167065867519" class="os-teacher">
@@ -298,7 +209,7 @@
 <para id="fs-idm135716528">The reaction center contains a pair of chlorophyll <emphasis effect="italics">a</emphasis> molecules with a special property. Those two chlorophylls can undergo oxidation upon excitation; they can actually give up an electron in a process called a <term id="term-00015">photoact</term>. It is at this step in the reaction center, this step in photosynthesis, that light energy is converted into an excited electron. All of the subsequent steps involve getting that electron onto the energy carrier NADPH for delivery to the Calvin cycle where the electron is deposited onto carbon for long-term storage in the form of a carbohydrate.PSII and PSI are two major components of the photosynthetic <term id="term-00016">electron transport chain</term>, which also includes the <term id="term-00017">cytochrome complex</term>. The cytochrome complex, an enzyme composed of two protein complexes, transfers the electrons from the carrier molecule plastoquinone (Pq) to the protein plastocyanin (Pc), thus enabling both the transfer of protons across the thylakoid membrane and the transfer of electrons from PSII to PSI.
 </para><para id="fs-idm101449600">The reaction center of PSII (called <term id="term-00018">P680</term>) delivers its high-energy electrons, one at a time, to the <term id="term-00019">primary electron acceptor</term>, and through the electron transport chain (Pq to cytochrome complex to plastocyanine) to PSI. P680’s missing electron is replaced by extracting a low-energy electron from water; thus, water is split and PSII is re-reduced after every photoact. Splitting one H<sub>2</sub>O molecule releases two electrons, two hydrogen atoms, and one atom of oxygen. Splitting two molecules is required to form one molecule of diatomic O<sub>2</sub> gas. About 10 percent of the oxygen is used by mitochondria in the leaf to support oxidative phosphorylation. The remainder escapes to the atmosphere where it is used by aerobic organisms to support respiration.</para><para id="fs-idm16256512">As electrons move through the proteins that reside between PSII and PSI, they lose energy. That energy is used to move hydrogen atoms from the stromal side of the membrane to the thylakoid lumen. Those hydrogen atoms, plus the ones produced by splitting water, accumulate in the thylakoid lumen and will be used to synthesize ATP in a later step. Because the electrons have lost energy prior to their arrival at PSI, they must be re-energized by PSI, hence, another photon is absorbed by the PSI antenna. That energy is relayed to the PSI reaction center (called <term id="term-00020">P700</term>). P700 is oxidized and sends a high-energy electron to NADP<sup>+</sup> to form NADPH. Thus, PSII captures the energy to create proton gradients to make ATP, and PSI captures the energy to reduce NADP<sup>+</sup> into NADPH. The two photosystems work in concert, in part, to guarantee that the production of NADPH will roughly equal the production of ATP. Other mechanisms exist to fine tune that ratio to exactly match the chloroplast’s constantly changing energy needs.</para>
 
-<section id="fs-idm202200336" class="ost-get-exercise">
+<section id="fs-idm202200336" class="">
 <title>Generating an Energy Carrier: ATP</title>
 
 <note id="fs-id1167065764047" class="os-teacher">

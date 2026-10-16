@@ -21,122 +21,63 @@
 <section id="fs-id1167067202809" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167067053746">Nucleic acids (DNA and RNA) comprise the fourth group of biological macromolecules and contain phosphorus (P) in addition to carbon, hydrogen, oxygen, and nitrogen. Conserved through evolution in all organisms, nucleic acids store and transmit hereditary information. As will be explored in more detail in Chapters 14-17, DNA contains the instructions for the synthesis of proteins by dictating the sequences of amino acids in polypeptides through processes known as transcription and translation. Nucleic acids are made up of nucleotides; in turn, each nucleotide consists of a pentose sugar (deoxyribose in DNA and ribose in RNA), a nitrogenous base (adenine, cytosine, guanine, and thymine or uracil), and a phosphate group. DNA carries the genetic blueprint of the cell that is passed from parent to offspring via cell division. DNA has a double-helical structure with the two strands running in opposite directions (antiparallel), connected by hydrogen bonds and complementary to each other. In DNA, purines pair with pyrimidines: adenine pairs with thymine (A-T), and cytosine pairs with guanine (C-G). In RNA, uracil replaces thymine to pair with adenine (U-A). RNA also differs from DNA in that it is single-stranded and has many forms, such as messenger RNA (mRNA), ribosomal RNA (rRNA), and transfer RNA (tRNA) that all participate in the synthesis of proteins. MicroRNAs (miRNAs) regulate the use of mRNA. The flow of genetic information is usually DNA → RNA → protein, also known as the Central Dogma of Life.</para>
-<para id="fs-id1167066809227" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 3 and Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
+<para id="fs-id1167066809227" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 1.2 and 1.6 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167066828590" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 6.5 The student can evaluate alternative scientific explanations. Third left cell reads: Learning Objective. Third right cell reads: 3.1 The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce , and maintain dynamic homeostasis.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1 </emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.5 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s05-aplo-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information.</span>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>1.2 Elements of Life</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>1.2.A Describe the composition of macromolecules required by living organisms.
 </entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
 </entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1 </emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
+<entry>1.2.A.1 Atoms and molecules from the environment are necessary to build new molecules. Carbon, hydrogen, and oxygen are the most prevalent elements used to build biological molecules such as carbohydrates, proteins, lipids, and nucleic acids. Additionally:<newline/>
+iii.  Nitrogen is used in the building of nucleic acids.</entry></row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.A Visual Representation- Describe characteristics of visual representations of biological concepts and processes.
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s05-aplo-3-6">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.6 </emphasis></span>
-<span class="ost-standards-description">The student can predict how a change in a specific DNA or RNA sequence can result in changes in gene expression.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>1.6 Nucleic Acids</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>1.6.A Describe the structure and function of DNA and RNA.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
 </entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.1 </emphasis></span>
-<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
-<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s05-aplo-4-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.1 </emphasis></span>
-<span class="ost-standards-description">The student is able to explain the connection between the sequence and the subcomponents of a biological polymer and its properties.</span>
+<entry>1.6.A.1 In nucleic acids (DNA and RNA), biological information is encoded in sequences of nucleotide monomers. Each nucleotide has the following structural components: a five-carbon sugar (deoxyribose or ribose), a phosphate, and a nitrogenous base (adenine, thymine, guanine, cytosine, or uracil).</entry></row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
 </entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<entry>1.6.A.2 Nucleic acids have a linear sequence of nucleotides that have ends, defined by the 3’ (three prime) hydroxyl and the 5’ (five prime) phosphates of the sugar in the nucleotide. During nucleic acid synthesis, nucleotides are added to the 3’ end of the growing strand, resulting in the formation of covalent bonds between nucleotides.<newline/>
+Exclusion Statement: The molecular structure of specific nucleotides is beyond the scope of the AP<sup>®</sup> Exam.
+</entry></row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
 </entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.1 </emphasis></span>
-<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.3 </emphasis></span>
-<span class="ost-standards-description">The student can refine representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s05-aplo-4-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
-<span class="ost-standards-description">The student is able to refine representations and models to explain how the subcomponents of a biological polymer and their sequence determine the properties of that polymer.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.1 </emphasis></span>
-<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.1 </emphasis></span>
-<span class="ost-standards-description">The student can justify claims with evidence.</span>
-</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis/></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s05-aplo-4-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.3 </emphasis></span>
-<span class="ost-standards-description">The student is able to use models to predict and justify that changes in the subcomponents of a biological polymer affect the functionality of the molecules.</span>
-</entry>
-</row>
+<entry>1.6.A.3 DNA is structured as an antiparallel double helix, with two strands of nucleotides running in opposite 5’ to 3’ orientation. In DNA, adenine nucleotides pair with thymine nucleotides via hydrogen bonds (A-T), and cytosine nucleotides pair with guanine nucleotides via hydrogen bonds (C-G). In RNA, adenine pairs with uracil (A-U).</entry></row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>1.6.A.4 Structural differences between DNA and RNA include:<newline/>
+i. DNA contains the sugar deoxyribose, and RNA contains the sugar ribose.<newline/>
+ii. DNA contains the nitrogenous base thymine, and RNA contains the nitrogenous base uracil.<newline/>
+iii. DNA is typically double stranded, while RNA is typically single stranded.</entry></row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.A Visual Representations- Describe characteristics of visual representations of biological concepts and processes.</entry></row>
 </tbody>
 </tgroup>
 </table></section>
@@ -160,8 +101,7 @@
 <para id="fs-id1167067066451">Some viruses contain double stranded RNA, but plants and animals do not.</para>
 </note>
 </note>
-<para id="fs-id1166848945565">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.1] [APLO 4.17]</para><section id="fs-id1167067066457" class="ost-tag-lo-apbio-ch03-s05-lo01 ost-get-exercise">
+<para id="fs-id1166848945565">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam. </para><section id="fs-id1167067066457">
 
 <title>DNA and RNA</title>
 <para id="fs-id1876142"><term id="term-00001">Nucleic acids</term> are the most important macromolecules for the continuity of life. They carry the genetic blueprint of a cell and carry instructions for the functioning of the cell.</para>
@@ -175,7 +115,7 @@
 </media>
 <caption>A nucleotide is made up of three components: a nitrogenous base, a pentose sugar, and one or more phosphate groups. Carbon residues in the pentose are numbered 1′ through 5′ (the prime distinguishes these residues from those in the base, which are numbered without using a prime notation). The base is attached to the 1′ position of the ribose, and the phosphate is attached to the 5′ position. When a polynucleotide is formed, the 5′ phosphate of the incoming nucleotide attaches to the 3′ hydroxyl group at the end of the growing chain. Two types of pentose are found in nucleotides, deoxyribose (found in DNA) and ribose (found in RNA). Deoxyribose is similar in structure to ribose, but it has an H instead of an OH at the 2′ position. Bases can be divided into two categories: purines and pyrimidines. Purines have a double ring structure, and pyrimidines have a single ring.</caption></figure><para id="fs-id1582478">The nitrogenous bases, important components of nucleotides, are organic molecules and are so named because they contain carbon and nitrogen. They are bases because they contain an amino group that has the potential of binding an extra hydrogen, thus decreasing the hydrogen ion concentration in its environment, making it more basic. Each nucleotide in DNA contains one of four possible nitrogenous bases: adenine (A), guanine (G) cytosine (C), and thymine (T).</para><para id="fs-id1354194">Adenine and guanine are classified as <term id="term-00007">purines</term>. The primary structure of a purine is two carbon-nitrogen rings. Cytosine, thymine, and uracil are classified as <term id="term-00008">pyrimidines</term> which have a single carbon-nitrogen ring as their primary structure (<link target-id="fs-id1167066825544"/>). Each of these basic carbon-nitrogen rings has different functional groups attached to it. In molecular biology shorthand, the nitrogenous bases are simply known by their symbols A, T, G, C, and U. DNA contains A, T, G, and C whereas RNA contains A, U, G, and C.</para><para id="fs-id1445473">The pentose sugar in DNA is deoxyribose, and in RNA, the sugar is ribose (<link target-id="fs-id1167066825544"/>). The difference between the sugars is the presence of the hydroxyl group on the second carbon of the ribose and hydrogen on the second carbon of the deoxyribose. The carbon atoms of the sugar molecule are numbered as 1′, 2′, 3′, 4′, and 5′ (1′ is read as “one prime”). The phosphate residue is attached to the hydroxyl group of the 5′ carbon of one sugar and the hydroxyl group of the 3′ carbon of the sugar of the next nucleotide, which forms a 5′–3′ <term id="term-00009">phosphodiester</term> linkage. The phosphodiester linkage is not formed by simple dehydration reaction like the other linkages connecting monomers in macromolecules: its formation involves the removal of two phosphate groups. A polynucleotide may have thousands of such phosphodiester linkages.</para></section>
 
-<section id="fs-id1167067061590" class="ost-tag-lo-apbio-ch03-s05-lo02 ost-get-exercise">
+<section id="fs-id1167067061590">
 
 <title>DNA Double-Helix Structure</title>
 <para id="fs-id2188236">DNA has a double-helix structure (<link target-id="fs-id1167067174426"/>). The sugar and phosphate lie on the outside of the helix, forming the backbone of the DNA. The nitrogenous bases are stacked in the interior, like the steps of a staircase, in pairs; the pairs are bound to each other by hydrogen bonds. Every base pair in the double helix is separated from the next base pair by 0.34 nm. The two strands of the helix run in opposite directions, meaning that the 5′ carbon end of one strand will face the 3′ carbon end of its matching strand. (This is referred to as antiparallel orientation and is important to DNA replication and in many nucleic acid interactions.)</para><figure id="fs-id1167067174426" class="ost-tag-lo-apbio-ch03-s05-lo02 ost-tag-lo-apbio-ch03-s05-aplo-4-1 ost-tag-lo-apbio-ch03-s05-aplo-4-2">
@@ -201,7 +141,7 @@
 </note></section>
 
 
-<section id="fs-id1167066847501" class="ost-tag-lo-apbio-ch03-s05-lo03 ost-get-exercise">
+<section id="fs-id1167066847501">
 <title>RNA</title>
 <para id="fs-id2229626">Ribonucleic acid, or RNA, is mainly involved in the process of protein synthesis under the direction of DNA. RNA is usually single-stranded and is made of ribonucleotides that are linked by phosphodiester bonds. A ribonucleotide in the RNA chain contains ribose (the pentose sugar), one of the four nitrogenous bases (A, U, G, and C), and the phosphate group.</para>
 <para id="fs-id2626112">There are four major types of RNA: messenger RNA (mRNA), ribosomal RNA (rRNA), transfer RNA (tRNA), and microRNA (miRNA). The first, mRNA, carries the message from DNA, which controls all of the cellular activities in a cell. If a cell requires a certain protein to be synthesized, the gene for this product is turned “on” and the messenger RNA is synthesized in the nucleus. The RNA base sequence is complementary to the coding sequence of the DNA from which it has been copied. However, in RNA, the base T is absent and U is present instead. If the DNA strand has a sequence AATTGCGC, the sequence of the complementary RNA is UUAACGCG. In the cytoplasm, the mRNA interacts with ribosomes and other cellular machinery (<link target-id="fs-id1167067199541"/>).</para><figure id="fs-id1167067199541" class="ost-tag-lo-apbio-ch03-s05-lo03 ost-tag-lo-apbio-ch03-s05-aplo-4-1 ost-tag-lo-apbio-ch03-s05-aplo-4-2">
@@ -211,7 +151,7 @@
 </media>
 
 <caption>A ribosome has two parts: a large subunit and a small subunit. The mRNA sits in between the two subunits. A tRNA molecule recognizes a codon on the mRNA, binds to it by complementary base pairing, and adds the correct amino acid to the growing peptide chain.</caption></figure><para id="fs-id1813318">The mRNA is read in sets of three bases known as codons. Each codon codes for a single amino acid. In this way, the mRNA is read and the protein product is made. <term id="term-00010">Ribosomal RNA (rRNA)</term> is a major constituent of ribosomes on which the mRNA binds. The rRNA ensures the proper alignment of the mRNA and the ribosomes; the rRNA of the ribosome also has an enzymatic activity (peptidyl transferase) and catalyzes the formation of the peptide bonds between two aligned amino acids. <term id="term-00011">Transfer RNA (tRNA)</term> is one of the smallest of the four types of RNA, usually 70–90 nucleotides long. It carries the correct amino acid to the site of protein synthesis. It is the base pairing between the tRNA and mRNA that allows for the correct amino acid to be inserted in the polypeptide chain. microRNAs are the smallest RNA molecules and their role involves the regulation of gene expression by interfering with the expression of certain mRNA messages. <link target-id="tab-ch03-05-01"/> summarizes features of DNA and RNA.</para>
-<table id="tab-ch03-05-01" summary="" class="ost-tag-lo-apbio-ch03-s05-lo01 ost-get-exercise top-titled">
+<table id="tab-ch03-05-01" summary="" class="ost-tag-lo-apbio-ch03-s05-lo01  top-titled">
 <tgroup cols="1">
 <colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
@@ -358,8 +298,7 @@
 </figure><para id="fs-id1166168433119">The interactions between nucleobase molecules are strong enough to produce the association of pairs observed in Chargaffs data. However, these pairs are bonded by much weaker hydrogen bonds,   chemical bonds within the molecules.</para>
 <para id="fs-id1166168459587">Demonstrating an understanding of the replication of DNA requires the ability to explain how the two polymer strands of the double helix interact and grow. To retrieve information from DNA, the strands must be separated. The proteins that perform that task interact with the polymer without forming new chemical bonds. In their paper (Watson and Crick, <emphasis effect="italics">Nature</emphasis>, 3, 1953) announcing the structure of the polymer that we consider in this problem, Watson and Crick stated, It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material.</para>
 <para id="fs-id1166173368866">Eschenmoser and Lowenthal (<emphasis effect="italics">Chemical Society Reviews</emphasis>, 21, 1992) asked why the 5-carbon sugar ribose is used in DNA when the 6-carbon sugar glucose is so common in biological systems. To answer the question, they synthesized polymeric chains with this alternative form of sugar. They discovered that the strength of the interaction between pairs of nucleobases increased in the new material. Paired strands of hexose-based polymers were more stable.</para>
-<para id="fs-id1166168141929">The AP Biology Curriculum Framework (College Board, 2012) states, The double-stranded structure of DNA provides a simple and elegant solution for the transmission of heritable information to the next generation; by using each strand as a template, existing information can be preserved and duplicated with high fidelity within the replication process. However, the process of replication is imperfect.</para>
-<para id="fs-id1166173611984">B. <emphasis>Explain</emphasis> why the weaker interaction observed by Eschenmoser and Lowenthal, and the acknowledgement in the Framework that replication is imperfect, support the claim implied by Watson and Crick that DNA is the source of heritable information.</para>
+<para id="fs-id1166173611984">B. <emphasis>Explain</emphasis> why the weaker interaction observed by Eschenmoser and Lowenthal, and the knowledge that replication is not perfect, support the claim implied by Watson and Crick that DNA is the source of heritable information.</para>
 </problem>
 </exercise></section>
  </content>

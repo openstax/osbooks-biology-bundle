@@ -17,56 +17,61 @@
 </list>
 </section>
 <section id="fs-id1167067031262" class="ap-connection">
-<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066807291">Genetics is the science of heredity. Austrian monk Gregor Mendel set the framework for genetics long before chromosomes or genes had been identified, at a time when meiosis was not well understood. Working with garden peas, Mendel found that crosses between true-breeding parents (P) that differed in one trait (e.g., color: green peas versus yellow peas) produced first generation (F1) offspring that all expressed the trait of one parent (e.g., all green or all yellow). Mendel used the term dominant to refer to the trait that was observed, and recessive to denote that non-expressed trait, or the trait that had “disappeared” in this first generation. When the F1 offspring were crossed with each other, the F2 offspring exhibited both traits in a 3:1 ratio. Other crosses (e.g., height: tall plants versus short plants) generated the same 3:1 ratio (in this example, tall to short) in the F2 offspring. By mathematically examining sample sizes, Mendel showed that genetic crosses behaved according to the laws of probability, and that the traits were inherited as independent events. In other words, Mendel used statistical methods to build his model of inheritance.</para><para id="fs-id1167067142063">As you have likely noticed, the AP Biology course emphasizes the application of mathematics. Two rules of probability can be used to find the expected proportions of different traits in offspring from different crosses. To find the probability of two or more independent events (events where the outcome of one event has no influence on the outcome of the other event) occurring together, apply the product rule and <emphasis effect="italics">multiply</emphasis> the probabilities of the individual events. To find the probability that one of two or more events occur, apply the sum rule and <emphasis effect="italics">add</emphasis> their probabilities together.</para><para id="fs-id1167066862661" class="ost-reading-discard">The content presented in this section supports the learning objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> learning objectives merge essential knowledge content with one or more of the seven science practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> exam questions.</para><table id="fs-id1167067073469" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.3 The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Learning Objective. Third right cell reads: 3.13 The student is able to pose questions about ethical, social, or medical issues surrounding human genetic disorders." class="unnumbered column-header ost-reading-discard"><label/>
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066807291">Genetics is the science of heredity. Austrian monk Gregor Mendel set the framework for genetics long before chromosomes or genes had been identified, at a time when meiosis was not well understood. Working with garden peas, Mendel found that crosses between true-breeding parents (P) that differed in one trait (e.g., color: green peas versus yellow peas) produced first generation (F1) offspring that all expressed the trait of one parent (e.g., all green or all yellow). Mendel used the term dominant to refer to the trait that was observed, and recessive to denote that non-expressed trait, or the trait that had “disappeared” in this first generation. When the F1 offspring were crossed with each other, the F2 offspring exhibited both traits in a 3:1 ratio. Other crosses (e.g., height: tall plants versus short plants) generated the same 3:1 ratio (in this example, tall to short) in the F2 offspring. By mathematically examining sample sizes, Mendel showed that genetic crosses behaved according to the laws of probability, and that the traits were inherited as independent events. In other words, Mendel used statistical methods to build his model of inheritance.</para><para id="fs-id1167067142063">As you have likely noticed, the AP Biology course emphasizes the application of mathematics. Two rules of probability can be used to find the expected proportions of different traits in offspring from different crosses. To find the probability of two or more independent events (events where the outcome of one event has no influence on the outcome of the other event) occurring together, apply the product rule and <emphasis effect="italics">multiply</emphasis> the probabilities of the individual events. To find the probability that one of two or more events occur, apply the sum rule and <emphasis effect="italics">add</emphasis> their probabilities together.</para><para id="fs-id1167066862661" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 5.3 and 5.5 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+<table id="fs-id1167067073469" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.3 The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Learning Objective. Third right cell reads: 3.13 The student is able to pose questions about ethical, social, or medical issues surrounding human genetic disorders." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.3</emphasis></span>
-<span class="ost-standards-description">The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-s01-aplo-3-13">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.13</emphasis></span>
-<span class="ost-standards-description">The student is able to pose questions about ethical, social, or medical issues surrounding human genetic disorders.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.3</emphasis></span>
-<span class="ost-standards-description">The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.2</emphasis></span>
-<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-s01-aplo-3-14">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.14</emphasis></span>
-<span class="ost-standards-description">The student is able to apply mathematical routines to determine Mendelian patterns of inheritance provided by data sets.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>5.3 Mendelian Genetics</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.3.A Explain the inheritance of genes and traits as described by Mendel’s laws.</entry>
 </row>
-</tbody>
-
-
-</tgroup>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.3 A.1 Mendel’s laws of segregation and independent assortment can be applied to genes that are on different chromosomes.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.3.A.2 In most cases, fertilization involves the fusion of two haploid gametes, restoring the diploid number of chromosomes and increasing genetic variation in populations by creating new combinations of alleles in the zygote.<newline/>
+i. Rules of probability can be applied to analyze the passing of single-gene traits from parent to offspring.<newline/>
+ii. Monohybrid, dihybrid, and test crosses can be used to determine whether alleles are dominant or recessive.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.C Statistical Tests and Data Analysis- Perform chi-square hypothesis testing.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
+</row>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>4. Systems Interactions: Biological systems interact, and these systems and their interactions exhibit complex properties.</entry>
+</row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>5.5 Environmental Effects on Phenotype</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.5.A Explain how the same genotype can result in multiple phenotypes under different environmental conditions.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.5.A.1 Environmental conditions influence gene expression and can lead to phenotypic plasticity (e.g., the ability of individual genotypes to produce different phenotypes.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.C Concept Explanation- Explain biological concepts and processes in applied contexts.</entry>
+</row>
+</tbody></tgroup>
 </table></section>
 <note id="fs-id1167066841110" class="os-teacher">
 <label>Teacher Support</label>
@@ -145,11 +150,11 @@
 </media>
 
 <caption>Johann Gregor Mendel is considered the father of genetics.</caption></figure><para id="fs-id1582421">Johann Gregor Mendel (1822–1884) (<link target-id="fig-ch12_01_01"/>) was a lifelong learner, teacher, scientist, and man of faith. As a young adult, he joined the Augustinian Abbey of St. Thomas in Brno in what is now the Czech Republic. Supported by the monastery, he taught physics, botany, and natural science courses at the secondary and university levels. In 1856, he began a decade-long research pursuit involving inheritance patterns in honeybees and plants, ultimately settling on pea plants as his primary <term id="term-00001">model system</term> (a system with convenient characteristics used to study a specific biological phenomenon to be applied to other systems). In 1865, Mendel presented the results of his experiments with nearly 30,000 pea plants to the local Natural History Society. He demonstrated that traits are transmitted faithfully from parents to offspring independently of other traits and in dominant and recessive patterns. In 1866, he published his work, <emphasis effect="italics">Experiments in Plant Hybridization,</emphasis><footnote id="fs-id2026365">Johann Gregor Mendel, <emphasis effect="italics">Versuche über Pflanzenhybriden Verhandlungen des naturforschenden Vereines in Brünn, Bd. IV für das Jahr</emphasis>, 1865 Abhandlungen, 3–47. [go here for the English translation <link url="https://openstax.org/l/32mendelPlain">here</link>] </footnote> in the proceedings of the Natural History Society of Brünn.</para><para id="fs-id2491606">Mendel’s work went virtually unnoticed by the scientific community that believed, incorrectly, that the process of inheritance involved a blending of parental traits that produced an intermediate physical appearance in offspring; this hypothetical process appeared to be correct because of what we know now as continuous variation. <term id="term-00002">Continuous variation</term> results from the action of many genes to determine a characteristic like human height. Offspring appear to be a “blend” of their parents’ traits when we look at characteristics that exhibit continuous variation. The <term id="term-00003">blending theory of inheritance</term> asserted that the original parental traits were lost or absorbed by the blending in the offspring, but we now know that this is not the case. Mendel was the first researcher to see it. Instead of continuous characteristics, Mendel worked with traits that were inherited in distinct classes (specifically, violet versus white flowers); this is referred to as <term id="term-00004">discontinuous variation</term>. Mendel’s choice of these kinds of traits allowed him to see experimentally that the traits were not blended in the offspring, nor were they absorbed, but rather that they kept their distinctness and could be passed on. In 1868, Mendel became abbot of the monastery and exchanged his scientific pursuits for his pastoral duties. He was not recognized for his extraordinary scientific contributions during his lifetime. In fact, it was not until 1900 that his work was rediscovered, reproduced, and revitalized by scientists on the brink of discovering the chromosomal basis of heredity.</para>
-<section id="fs-id2574310" class="ost-tag-lo-apbio-ch12-s01-lo01 ost-tag-lo-apbio-ch12-s01-aplo-3-14 ost-get-exercise">
+<section id="fs-id2574310" class="ost-tag-lo-apbio-ch12-s01-lo01 ost-tag-lo-apbio-ch12-s01-aplo-3-14">
 <title>Mendel’s Model System</title>
 <para id="fs-id2196762">Mendel’s seminal work was accomplished using the garden pea, <emphasis effect="italics">Pisum sativum</emphasis>, to study inheritance. This species naturally self-fertilizes, such that pollen encounters ova within individual flowers. The flower petals remain sealed tightly until after pollination, preventing pollination from other plants. The result is highly inbred, or “true-breeding,” pea plants. These are plants that always produce offspring that look like the parent. By experimenting with true-breeding pea plants, Mendel avoided the appearance of unexpected traits in offspring that might occur if the plants were not true breeding. The garden pea also grows to maturity within one season, meaning that several generations could be evaluated over a relatively short time. Finally, large quantities of garden peas could be cultivated simultaneously, allowing Mendel to conclude that his results did not come about simply by chance.</para>
 </section>
-<section id="fs-id1799593" class="ost-tag-lo-apbio-ch12-s01-lo01 ost-tag-lo-apbio-ch12-s01-aplo-3-14 ost-get-exercise">
+<section id="fs-id1799593" class="ost-tag-lo-apbio-ch12-s01-lo01 ost-tag-lo-apbio-ch12-s01-aplo-3-14">
 <title>Mendelian Crosses</title>
 <para id="fs-id2339300">Mendel performed <term id="term-00005">hybridizations</term>, which involve mating two true-breeding individuals that have different traits. In the pea, which is naturally self-pollinating, this is done by manually transferring pollen from the anther of a mature pea plant of one variety to the stigma of a separate mature pea plant of the second variety. In plants, pollen carries the male gametes (sperm) to the stigma, a sticky organ that traps pollen and allows the sperm to move down the pistil to the female gametes (ova) below. To prevent the pea plant that was receiving pollen from self-fertilizing and confounding his results, Mendel painstakingly removed all of the anthers from the plant’s flowers before they had a chance to mature.</para>
 <para id="fs-id2739398">Plants used in first-generation crosses were called <term id="term-00006">P<sub>0</sub></term>, or parental generation one, plants (<link target-id="fig-ch12_01_02"/>). Mendel collected the seeds belonging to the P<sub>0</sub> plants that resulted from each cross and grew them the following season. These offspring were called the <term id="term-00007">F<sub>1</sub></term>, or the first filial (<emphasis effect="italics">filial </emphasis>= offspring, daughter or son), generation. Once Mendel examined the characteristics in the F<sub>1</sub> generation of plants, he allowed them to self-fertilize naturally. He then collected and grew the seeds from the F<sub>1</sub> plants to produce the <term id="term-00008">F<sub>2</sub></term>, or second filial, generation. Mendel’s experiments extended beyond the F<sub>2</sub> generation to the F<sub>3</sub> and F<sub>4 </sub>generations, and so on, but it was the ratio of characteristics in the P<sub>0</sub>−F<sub>1</sub>−F<sub>2</sub> generations that were the most intriguing and became the basis for Mendel’s postulates.</para>
@@ -159,7 +164,7 @@
 </media>
 <caption>In one of his experiments on inheritance patterns, Mendel crossed plants that were true-breeding for violet flower color with plants true-breeding for white flower color (the P generation). The resulting hybrids in the F<sub>1</sub> generation all had violet flowers. In the F<sub>2</sub> generation, approximately three quarters of the plants had violet flowers, and one quarter had white flowers.</caption></figure>
 </section>
-<section id="fs-id1396419" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14 ost-get-exercise">
+<section id="fs-id1396419" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14">
 <title>Garden Pea Characteristics Revealed the Basics of Heredity</title>
 <para id="fs-id1373802">In his 1865 publication, Mendel reported the results of his crosses involving seven different characteristics, each with two contrasting traits. A <term id="term-00009">trait</term> is defined as a variation in the physical appearance of a heritable characteristic. The characteristics included plant height, seed texture, seed color, flower color, pea pod size, pea pod color, and flower position. For the characteristic of flower color, for example, the two contrasting traits were white versus violet. To fully examine each characteristic, Mendel generated large numbers of F<sub>1 </sub>and F<sub>2</sub> plants, reporting results from 19,959 F<sub>2</sub> plants alone. His findings were consistent.</para>
 <para id="fs-id2000007">What results did Mendel find in his crosses for flower color? First, Mendel confirmed that he had plants that bred true for white or violet flower color. Regardless of how many generations Mendel examined, all self-crossed offspring of parents with white flowers had white flowers, and all self-crossed offspring of parents with violet flowers had violet flowers. In addition, Mendel confirmed that, other than flower color, the pea plants were physically identical.</para>
@@ -253,10 +258,10 @@
 <note id="fs-id1167066939580" class="os-teacher"><label>Teacher Support</label>
 <para id="fs-id1167067084787">This question is an application of Learning Objectives 3.14 and Science Practice 2.2 because students are applying a mathematical routine (probability) to determine a Mendelian pattern of inheritance.</para>
 <note id="fs-id1167067070782"><title>Possible answer:</title> 100% would be yellow seeds. The dominant trait is the only one displayed in F1.</note>
-</note><section id="fs-id2003118" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14 ost-get-exercise">
+</note><section id="fs-id2003118" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14">
 <title>Probability Basics</title>
 <para id="fs-id1771773">Probabilities are mathematical measures of likelihood. The empirical probability of an event is calculated by dividing the number of times the event occurs by the total number of opportunities for the event to occur. It is also possible to calculate theoretical probabilities by dividing the number of times that an event is expected to occur by the number of times that it could occur. Empirical probabilities come from observations, like those of Mendel. Theoretical probabilities come from knowing how the events are produced and assuming that the probabilities of individual outcomes are equal. A probability of one for some event indicates that it is guaranteed to occur, whereas a probability of zero indicates that it is guaranteed not to occur. An example of a genetic event is a round seed produced by a pea plant. In his experiment, Mendel demonstrated that the probability of the event “round seed” occurring was one in the F<sub>1</sub> offspring of true-breeding parents, one of which has round seeds and one of which has wrinkled seeds. When the F<sub>1</sub> plants were subsequently self-crossed, the probability of any given F<sub>2</sub> offspring having round seeds was now three out of four. In other words, in a large population of F<sub>2</sub> offspring chosen at random, 75 percent were expected to have round seeds, whereas 25 percent were expected to have wrinkled seeds. Using large numbers of crosses, Mendel was able to calculate probabilities and use these to predict the outcomes of other crosses.</para></section>
-<section id="fs-id1805576" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14 ost-get-exercise">
+<section id="fs-id1805576" class="ost-tag-lo-apbio-ch12-s01-lo02 ost-tag-lo-apbio-ch12-s01-aplo-3-14">
 <title>The Product Rule and Sum Rule</title>
 <para id="fs-id1798638">Mendel demonstrated that the pea-plant characteristics he studied were transmitted as discrete units from parent to offspring. As will be discussed, Mendel also determined that different characteristics, like seed color and seed texture, were transmitted independently of one another and could be considered in separate probability analyses. For instance, performing a cross between a plant with green, wrinkled seeds and a plant with yellow, round seeds still produced offspring that had a 3:1 ratio of green:yellow seeds (ignoring seed texture) and a 3:1 ratio of round:wrinkled seeds (ignoring seed color). The characteristics of color and texture did not influence each other.</para>
 <para id="fs-id1780876">The <term id="term-00013">product rule</term> of probability can be applied to this phenomenon of the independent transmission of characteristics. The product rule states that the probability of two independent events occurring together can be calculated by multiplying the individual probabilities of each event occurring alone. To demonstrate the product rule, imagine that you are rolling a six-sided die (D) and flipping a penny (P) at the same time. The die may roll any number from 1–6 (D<sub>#</sub>), whereas the penny may turn up heads (P<sub>H</sub>) or tails (P<sub>T</sub>). The outcome of rolling the die has no effect on the outcome of flipping the penny and vice versa. There are 12 possible outcomes of this action (<link target-id="tab-ch12-01-02"/>), and each event is expected to occur with equal probability.</para>

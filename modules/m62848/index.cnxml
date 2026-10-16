@@ -20,91 +20,60 @@
 <section id="fs-id1167067215973" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167063730167">To start transcription, general transcription factors must first bind to a specific area on the DNA called the TATA box and then recruit RNA polymerase to that location. In addition, other areas on the DNA called enhancer regions help augment transcription. Transcription factors can bind to enhancer regions to increase or prevent transcription.</para>
-<para id="fs-id1167067111954" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices</para>
+<para id="fs-id1167067111954" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 6.5 and 6.6 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167067217009" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.B.1 Gene regulation results in differential gene expression, leading to cell specialization. Second left cell reads: Science Practice. Second right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Third left cell reads: Learning Objective. Third right cell reads: 3.18 The student is able to describe the connection between the regulation of gene expression and observed differences between different kinds of organisms." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.5 Regulation of Gene Expression</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.5.A Describe the types of interactions that regulate gene expression</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.5.A.1 Regulatory sequences are stretches of DNA that interact with regulatory proteins to control transcription. Some genes are constitutively expressed, and others are inducible.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.5.A.3 The phenotype of a cell or an organism is determined by the combination of genes that are expressed and the levels at which they are expressed.<newline/>
+ii. Induction of transcription factors during development results in sequential gene expression.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.5.B Explain how the location of regulatory sequences relates to their function.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.5.B.1 Both prokaryotes and eukaryotes have groups of genes that are coordinately regulated.<newline/>
+ii. In eukaryotes, groups of genes may be influenced by the same transcription factors to coordinately regulate expression.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.A Argumentation- Make a scientific claim.</entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.B</emphasis></entry>
-<entry class="ost-standards-description">Expression of genetic information involves cellular and molecular mechanisms.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.B.1 </emphasis></span>
-<span class="ost-standards-description">Gene regulation results in differential gene expression, leading to cell specialization</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
-<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales. </span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch16-s04-aplo-3-18">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.18 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe the connection between the regulation of gene expression and observed differences between different kinds of organisms</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.6 Gene Expression and Cell Specialization</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.6.A Explain how the binding of transcription factors to promoter regions affects gene expression and the phenotype of the organism.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.B.1 </emphasis></span>
-<span class="ost-standards-description">Gene regulation results in differential gene expression, leading to cell specialization</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
-<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch16-s04-aplo-3-19">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.19 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe the connection between the regulation of gene expression and observed differences between individuals in a population</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.6.A.1 RNA polymerase ans transcription factors bind to promoters or enhancer DNA sequences to initiate transcription. The sequences can be upstream or downstream of the transcription start site.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.B.1 </emphasis></span>
-<span class="ost-standards-description">Gene regulation results in differential gene expression, leading to cell specialization.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch16-s04-aplo-3-20">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.20 </emphasis></span>
-<span class="ost-standards-description">The student is able to explain how the regulation of gene expression is essential for the processes and structures that support efficient cell function.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.6.A.2 Negative regulatory molecules inhibit gene expression by binding to DNA and blocking transcription.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.B.1 </emphasis></span>
-<span class="ost-standards-description">1 Gene regulation results in differential gene expression, leading to cell specialization.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch16-s04-aplo-2-21">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.21 </emphasis></span>
-<span class="ost-standards-description">The student can use representations to describe how gene regulation influences cell products and function.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.B Argumentation- Support a claim with evidence from biological principles, concepts, processes, and data.</entry>
 </row>
 </tbody>
 
@@ -117,8 +86,7 @@
 <label>Teacher Support</label>
 <para id="fs-id1167067154544">Have students create a visual representation using colored paper that shows DNA transcription and the role of enhancers and repressors in transcription.</para>
 </note>
-<para id="fs-id1166851172344">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.18]</para><para id="fs-id2745728">Like prokaryotic cells, the transcription of genes in eukaryotes requires the actions of an RNA polymerase to bind to a sequence upstream of a gene to initiate transcription. However, unlike prokaryotic cells, the eukaryotic RNA polymerase requires other proteins, or transcription factors, to facilitate transcription initiation. Transcription factors are proteins that bind to the promoter sequence and other regulatory sequences to control the transcription of the target gene. RNA polymerase by itself cannot initiate transcription in eukaryotic cells. Transcription factors must bind to the promoter region first and recruit RNA polymerase to the site for transcription to be established.</para>
+<para id="fs-id1166851172344">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
 <para id="fs-id1166170586361">The activity of transcription factors can regulate differential gene expression in cells, resulting in the development of different cell products and functions. For example, scientists have found that primary sexual characteristics is regulated by several genes <link target-id="ep-123"/>. In the fruit fly <emphasis effect="italics">Drosophila</emphasis>, the <emphasis effect="italics">slx</emphasis> gene determines sex. This gene is expressed when the organism has two copies of the X chromosome. The gene product for <emphasis effect="italics">slx</emphasis> binds to the mRNA of the <emphasis effect="italics">tra</emphasis> gene and regulates its splicing. In the presence of <emphasis effect="italics">slx</emphasis>, <emphasis effect="italics">tra</emphasis> is spliced into its female form and influences the expression of <emphasis effect="italics">dsx</emphasis> and <emphasis effect="italics">fru</emphasis> to result in female sexual characteristics. In the absence of <emphasis effect="italics">slx</emphasis>, <emphasis effect="italics">tra</emphasis> is spliced into its male form and male sexual characteristics result.</para>
 <figure id="ep-123"><media id="fs-id1166174739674" alt="The left diagram is titled 2 X colon 2 A. It is a flow chart that begins at the top with s x l. There is a downward arrow under s x l that leads to 2 other boxes. An arrow also loops back to s x l. The two boxes under the downward arrow are labelled t r a on the left and t r a 2 on the right. A single line stretches downward from between the two boxes and then divides into two lines. The left branch goes to a label d s x. This, in turn, has a downward arrow to a box labelled d s x F. Under the d s x F box, there are two additional arrows. The left arrow points to the label Female body. The right arrow points to the label Female nervous system and female behavior. Going back up to the single line that splits into two, the right branch goes to a labeled f r u F. This, in turn, has a downward arrow pointing to the label Female nervous system and female behavior. At the very bottom of the diagram, the previously mentioned labels Female body and Female nervous system and female behavior are enclosed in a bracket with the label Female sexual characteristics. The right diagram is titled 1 X colon 2 A. The left branch of the diagram starts with the label d s x, which has a downward pointing arrow to the box d s x M. From this box, one arrow points downward to the label Male body. A second arrow points to the right to the label Male nervous system and male behavior. This label also has a left arrow pointing back to the Male body label. The right branch of the diagram starts with the label f r u, which has a downward pointing arrow to the box f r u M. This box, in turn, has a downward pointing arrow to the label Male nervous system and male behavior. At the very bottom of the diagram, the previously mentioned labels Male body and Male nervous system and male behavior are enclosed in a bracket with the label Male sexual characteristics.">
 <image mime-type="image/jpg" src="../../media/OSX_BiologyTEA_Figure_16_04_01.jpg" width="400"/>
@@ -132,7 +100,7 @@
 </para>
 </problem>
 </exercise>
-</note><section id="fs-id1967852" class="ost-tag-lo-apbio-ch16-s04-lo01 ost-tag-lo-apbio-ch16-s04-aplo-3-18 ost-tag-lo-apbio-ch16-s04-aplo-3-19 ost-tag-lo-apbio-ch16-s04-aplo-3-20 ost-tag-lo-apbio-ch16-s04-aplo-3-21 ost-get-exercise">
+</note><section id="fs-id1967852" class="ost-tag-lo-apbio-ch16-s04-lo01 ost-tag-lo-apbio-ch16-s04-aplo-3-18 ost-tag-lo-apbio-ch16-s04-aplo-3-19 ost-tag-lo-apbio-ch16-s04-aplo-3-20 ost-tag-lo-apbio-ch16-s04-aplo-3-21">
 <title>The Promoter and the Transcription Machinery</title>
 <para id="fs-id1645226">Genes are organized to make the control of gene expression easier. The promoter region is immediately upstream of the coding sequence. This region can be short (only a few nucleotides in length) or quite long (hundreds of nucleotides long). The longer the promoter, the more available space for proteins to bind. This also adds more control to the transcription process. The length of the promoter is gene-specific and can differ dramatically between genes. Consequently, the level of control of gene expression can also differ quite dramatically between genes. The purpose of the promoter is to bind transcription factors that control the initiation of transcription.</para>
     <para id="fs-id2904783">Within the promoter region, just upstream of the transcriptional start site, resides the TATA box. This box is simply a repeat of thymine and adenine dinucleotides (literally, TATA repeats). RNA polymerase binds to the transcription initiation complex, allowing transcription to occur. To initiate transcription, a transcription factor (TFIID) is the first to bind to the TATA box. Binding of TFIID recruits other transcription factors, including TFIIB, TFIIE, TFIIF, and TFIIH to the TATA box. Once this complex is assembled, RNA polymerase can bind to its upstream sequence. When bound along with the transcription factors, RNA polymerase is phosphorylated. This releases part of the protein from the DNA to activate the transcription initiation complex and places RNA polymerase in the correct orientation to begin transcription; DNA-bending protein brings the enhancer, which can be quite a distance from the gene, in contact with transcription factors and mediator proteins (<link target-id="fig-ch16_04_01"/>).</para>
@@ -142,12 +110,12 @@
 </media>
 <caption>An enhancer is a DNA sequence that promotes transcription. Each enhancer is made up of short DNA sequences called distal control elements. Activators bound to the distal control elements interact with mediator proteins and transcription factors. Two different genes may have the same promoter but different distal control elements, enabling differential gene expression.</caption></figure><para id="fs-id1911410">In addition to the general transcription factors, other transcription factors can bind to the promoter to regulate gene transcription. These transcription factors bind to the promoters of a specific set of genes. They are not general transcription factors that bind to every promoter complex, but are recruited to a specific sequence on the promoter of a specific gene. There are hundreds of transcription factors in a cell that each bind specifically to a particular DNA sequence motif. When transcription factors bind to the promoter just upstream of the encoded gene, it is referred to as a <term id="term-00001"><emphasis effect="italics">cis</emphasis>-acting element</term>, because it is on the same chromosome just next to the gene. The region that a particular transcription factor binds to is called the <term id="term-00002">transcription factor binding site</term>. Transcription factors respond to environmental stimuli that cause the proteins to find their binding sites and initiate transcription of the gene that is needed.</para>
 </section>
-<section id="fs-id2571418" class="ost-tag-lo-apbio-ch16-s04-lo01 ost-tag-lo-apbio-ch16-s04-aplo-3-18 ost-tag-lo-apbio-ch16-s04-aplo-3-19 ost-tag-lo-apbio-ch16-s04-aplo-3-20 ost-tag-lo-apbio-ch16-s04-aplo-3-21 ost-get-exercise">
+<section id="fs-id2571418" class="ost-tag-lo-apbio-ch16-s04-lo01 ost-tag-lo-apbio-ch16-s04-aplo-3-18 ost-tag-lo-apbio-ch16-s04-aplo-3-19 ost-tag-lo-apbio-ch16-s04-aplo-3-20 ost-tag-lo-apbio-ch16-s04-aplo-3-21">
 <title>Enhancers and Transcription</title>
 <para id="fs-id2700899">In some eukaryotic genes, there are regions that help increase or enhance transcription. These regions, called <term id="term-00003">enhancers</term>, are not necessarily close to the genes they enhance. They can be located upstream of a gene, within the coding region of the gene, downstream of a gene, or may be thousands of nucleotides away.</para>
     <para id="fs-id2373880">Enhancer regions are binding sequences, or sites, for transcription factors. When a DNA-bending protein binds, the shape of the DNA changes (<link target-id="fig-ch16_04_01"/>). This shape change allows for the interaction of the activators bound to the enhancers with the transcription factors bound to the promoter region and the RNA polymerase. Whereas DNA is generally depicted as a straight line in two dimensions, it is actually a three-dimensional object. Therefore, a nucleotide sequence thousands of nucleotides away can fold over and interact with a specific promoter.</para>
 </section>
-<section id="fs-id685962" class="ost-tag-lo-apbio-ch16-s04-lo01 ost-tag-lo-apbio-ch16-s04-aplo-3-18 ost-tag-lo-apbio-ch16-s04-aplo-3-19 ost-tag-lo-apbio-ch16-s04-aplo-3-20 ost-tag-lo-apbio-ch16-s04-aplo-3-21 ost-get-exercise">
+<section id="fs-id685962" class="ost-tag-lo-apbio-ch16-s04-lo01 ost-tag-lo-apbio-ch16-s04-aplo-3-18 ost-tag-lo-apbio-ch16-s04-aplo-3-19 ost-tag-lo-apbio-ch16-s04-aplo-3-20 ost-tag-lo-apbio-ch16-s04-aplo-3-21">
 <title>Turning Genes Off: Transcriptional Repressors</title>
 <para id="fs-id1797856">Like prokaryotic cells, eukaryotic cells also have mechanisms to prevent transcription. Transcriptional repressors can bind to promoter or enhancer regions and block transcription. Like the transcriptional activators, repressors respond to external stimuli to prevent the binding of activating transcription factors.</para>
 

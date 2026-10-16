@@ -18,80 +18,48 @@
 <section id="fs-id1167065943450" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167064881650">The number, size, shape, and banding patterns of chromosomes make them easily identifiable in a karyogram and allows for the assessment of many chromosomal abnormalities. Although the cell cycle, mitosis, and meiosis are highly regulated to prevent errors, the processes are not perfect. One example is the failure of homologous chromosomes or sister chromatids to separate properly during meiosis I or meiosis II (a phenomenon referred to as nondisjunction). This results in gametes with too many or too few chromosomes. Disorders in chromosome number (aneuploidy) are typically lethal to the embryo, although a few trisomic genotypes are viable (e.g., Down syndrome). Because of X inactivation, aberrations in sex chromosomes typically have milder phenotypic effects (e.g., Turner syndrome) than aneuploidy. Sometimes segments of chromosome are duplicated, deleted, or rearranged by inversion or translocation. These aberrations can result in problematic phenotypic effects. Diagnostic testing can detect many of these chromosomal disorders in individuals well before birth, resulting in medical, ethical, and civic issues, such as the right to privacy.</para>
 <para id="fs-id1167065729944">A condition in which an organism has more than the normal number of chromosome sets (two for diploid species) is called polyploidy. Polyploidy resulting in odd numbers of chromosomes is rare because it results in sterile organisms. One set of chromosomes has no pair so meiosis cannot proceed normally. In contrast, polyploidy resulting in even chromosome numbers is very common in the plant kingdom. Polyploid plants tend to be larger and more robust than individuals with the normal number of chromosomes.</para>
-<para id="fs-id1167066091891" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
+<para id="fs-id1167066091891" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 5.2 and 6.7 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167065742358" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.2 In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 3.9 The student is able to construct an explanation, using visual representations or narratives, as to how DNA in chromosomes is transmitted to the next generation via mitosis, or meiosis followed by fertilization." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+  <row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge </emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.2 </emphasis></span>
-<span class="ost-standards-description"> In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice </emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description"> The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch13-s01-aplo-3-9">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective </emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.9 </emphasis></span>
-<span class="ost-standards-description"> The student is able to construct an explanation, using visual representations or narratives, as to how DNA in chromosomes is transmitted to the next generation via mitosis, or meiosis followed by fertilization.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>5.2 Meiosis and Genetic Diversity</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.2.A Explain how the process of meiosis generates genetic diversity.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.2.A.1 Correct separation of the homologous chromosomes in meiosis I and sister chromatids in meiosis II ensures that each gamete receives a haploid (1n) set of chromosomes that comprises an assortment of both maternal and paternal chromosomes. When incorrect separation occurs (nondisjunction), gametes are no longer haploid.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>3.A Questions and Methods- Identify or pose a testable question based on an observation, data, or a model.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.7 Mutations</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.7.B Explain how changes in genotype may result in changes in phenotype.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.7.B.2 Errors in mitosis or meiosis can result in changes in phenotype.<newline/>
+i. Changes in chromosome number resulting from nondisjunction often result in new phenotypes caused by triploidy (aneuploidy).<newline/>
+ii. Changes in chromosome number often results in disorders with developmental limitations.<newline/>
+iii. Alterations in chromosome structure lead to genetic disorders.<newline/>
+
+Exclusion statement- Knowledge of specific disorders related to changes in chromosome number is beyond the scope of the AP<sup>®</sup> Exam.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.C Visual Representations-Explain how biological models relate to larger principles, concepts, processes, systems, or theories.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge </emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.3 </emphasis></span>
-<span class="ost-standards-description"> The chromosomal basis of inheritance provides an understanding of the pattern of passage (transmission) of genes from parent to offspring.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice </emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description"> The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch13-s01-aplo-3-13">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective </emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.13 </emphasis></span>
-<span class="ost-standards-description"> The student is able to pose questions about ethical, social or medical issues surrounding human genetic disorders.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.C</emphasis></entry>
-<entry class="ost-standards-description">The processing of genetic information is imperfect and is a source of genetic variation.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge </emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.3 </emphasis></span>
-<span class="ost-standards-description"> Changes in genotype can result in changes in phenotype.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice </emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description"> The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch13-s01-aplo-3-24">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective </emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.24 </emphasis></span>
-<span class="ost-standards-description"> The student is able to predict how a change in genotype, when expressed as a phenotype, provides a variation that can be subject to natural selection.</span>
-</entry>
-</row>
 </tbody>
 
 
@@ -108,7 +76,7 @@
 </note>
 
 <para id="fs-id1634546">Inherited disorders can arise when chromosomes behave abnormally during meiosis. Chromosome disorders can be divided into two categories: abnormalities in chromosome number and chromosomal structural rearrangements. Because even small segments of chromosomes can span many genes, chromosomal disorders are characteristically dramatic and often fatal.</para>
-<section id="fs-id2936109" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24 ost-get-exercise">
+<section id="fs-id2936109" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24">
 <title>Identification of Chromosomes</title>
 <para id="fs-id1433202">The isolation and microscopic observation of chromosomes forms the basis of cytogenetics and is the primary method by which clinicians detect chromosomal abnormalities in humans. A <term id="term-00001">karyotype</term> is the number and appearance of chromosomes, and includes their length, banding pattern, and centromere position. To obtain a view of an individual’s karyotype, cytologists photograph the chromosomes and then cut and paste each chromosome into a chart, or <term id="term-00002">karyogram</term>, also known as an ideogram (<link target-id="fig-ch13_02_01"/>).</para>
 <figure id="fig-ch13_02_01" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24">
@@ -123,7 +91,7 @@
 <para id="fs-id1806671">At its most basic, the karyogram may reveal genetic abnormalities in which an individual has too many or too few chromosomes per cell. Examples of this are Down Syndrome, which is identified by a third copy of chromosome 21, and Turner Syndrome, which is characterized by the presence of only one X chromosome in women instead of the normal two. Geneticists can also identify large deletions or insertions of DNA. For instance, Jacobsen Syndrome—which involves distinctive facial features as well as heart and bleeding defects—is identified by a deletion on chromosome 11. Finally, the karyotype can pinpoint <term id="term-00004">translocations</term>, which occur when a segment of genetic material breaks from one chromosome and reattaches to another chromosome or to a different part of the same chromosome.</para>
 <para id="fs-id1419233">During Mendel’s lifetime, inheritance was an abstract concept that could only be inferred by performing crosses and observing the traits expressed by offspring. By observing a karyogram, today’s geneticists can actually visualize the chromosomal composition of an individual to confirm or predict genetic abnormalities in offspring, even before birth.</para>
 </note></section>
-<section id="fs-id2334526" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24 ost-get-exercise">
+<section id="fs-id2334526" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24">
 <title>Disorders in Chromosome Number</title>
 <para id="fs-id1464025">Of all of the chromosomal disorders, abnormalities in chromosome number are the most obviously identifiable from a karyogram. Disorders of chromosome number include the duplication or loss of entire chromosomes, as well as changes in the number of complete sets of chromosomes. They are caused by <term id="term-00005">nondisjunction</term>, which occurs when pairs of homologous chromosomes or sister chromatids fail to separate during meiosis. Misaligned or incomplete synapsis, or a dysfunction of the spindle apparatus that facilitates chromosome migration, can cause nondisjunction. The risk of nondisjunction occurring increases with the age of the parents.</para>
 <para id="fs-id1772407">Nondisjunction can occur during either meiosis I or II, with differing results (<link target-id="fig-ch13_02_02"/>). If homologous chromosomes fail to separate during meiosis I, the result is two gametes that lack that particular chromosome and two gametes with two copies of the chromosome. If sister chromatids fail to separate during meiosis II, the result is one gamete that lacks that chromosome, two normal gametes with one copy of the chromosome, and one gamete with two copies of the chromosome.</para>
@@ -144,7 +112,7 @@
 </exercise>
 
 </note></section>
-<section id="fs-id2187324" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-13 ost-tag-lo-apbio-ch13-s01-aplo-3-24 ost-get-exercise">
+<section id="fs-id2187324" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-13 ost-tag-lo-apbio-ch13-s01-aplo-3-24">
 <title>Aneuploidy</title>
 <para id="fs-id2115503">An individual with the appropriate number of chromosomes for their species is called <term id="term-00006">euploid</term>; in humans, euploidy corresponds to 22 pairs of autosomes and one pair of sex chromosomes. An individual with an error in chromosome number is described as <term id="term-00007">aneuploid</term>, a term that includes <term id="term-00008">monosomy</term> (loss of one chromosome) or <term id="term-00009">trisomy</term> (gain of an extraneous chromosome). Monosomic human zygotes missing any one copy of an autosome invariably fail to develop to birth because they lack essential genes. This underscores the importance of “gene dosage” in humans. Most autosomal trisomies also fail to develop to birth; however, duplications of some of the smaller chromosomes (13, 15, 18, 21, or 22) can result in offspring that survive for several weeks to many years. Trisomic individuals suffer from a different type of genetic imbalance: an excess in gene dose. Individuals with an extra chromosome may synthesize an abundance of the gene products encoded by that chromosome. This extra dose (150 percent)  of specific genes can lead to a number of functional challenges and often precludes development. The most common trisomy among viable births is that of chromosome 21, which corresponds to Down Syndrome. Individuals with this inherited disorder are characterized by short stature and stunted digits, facial distinctions that include a broad skull and large tongue, and significant developmental delays. The incidence of Down syndrome is correlated with maternal age; older women are more likely to become pregnant with fetuses carrying the trisomy 21 genotype (<link target-id="fig-ch13_02_03"/>).</para>
 <figure id="fig-ch13_02_03" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-13 ost-tag-lo-apbio-ch13-s01-aplo-3-24"><media id="fs-id2338862" alt="This graph shows the risk of Down syndrome in the fetus with increasing maternal age. Risk dramatically increases past a maternal age of 35.">
@@ -163,7 +131,7 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-id1645084" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24 ost-get-exercise">
+<section id="fs-id1645084" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24">
 <title>Polyploidy</title>
 <para id="fs-id1807698">An individual with more than the correct number of chromosome sets (two for diploid species) is called <term id="term-00010">polyploid</term>. For instance, fertilization of an abnormal diploid egg with a normal haploid sperm would yield a triploid zygote. Polyploid animals are extremely rare, with only a few examples among the flatworms, crustaceans, amphibians, fish, and lizards. Polyploid animals are sterile because meiosis cannot proceed normally and instead produces mostly aneuploid daughter cells that cannot yield viable zygotes. Rarely, polyploid animals can reproduce asexually by haplodiploidy, in which an unfertilized egg divides mitotically to produce offspring. In contrast, polyploidy is very common in the plant kingdom, and polyploid plants tend to be larger and more robust than euploids of their species (<link target-id="fig-ch13_02_04"/>).</para>
 <figure id="fig-ch13_02_04" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24">
@@ -172,7 +140,7 @@
 </media>
 <caption>As with many polyploid plants, this triploid orange daylily (<emphasis effect="italics">Hemerocallis fulva</emphasis>) is particularly large and robust, and grows flowers with triple the number of petals of its diploid counterparts. (credit: Steve Karg)</caption></figure>
 </section>
-<section id="fs-id1727981" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-13 ost-tag-lo-apbio-ch13-s01-aplo-3-24 ost-get-exercise">
+<section id="fs-id1727981" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-13 ost-tag-lo-apbio-ch13-s01-aplo-3-24">
 <title>Sex Chromosome Nondisjunction in Humans</title>
 <para id="fs-id1407411">Humans display dramatic deleterious effects with autosomal trisomies and monosomies. Therefore, it may seem counterintuitive that human females and males can function normally, despite carrying different numbers of the X chromosome. Rather than a gain or loss of autosomes, variations in the number of sex chromosomes are associated with relatively mild effects. In part, this occurs because of a molecular process called <term id="term-00011">X inactivation</term>. Early in development, when female mammalian embryos consist of just a few thousand cells (relative to trillions in the newborn), one X chromosome in each cell inactivates by tightly condensing into a quiescent (dormant) structure called a Barr body. The chance that an X chromosome (maternally or paternally derived) is inactivated in each cell is random, but once the inactivation occurs, all cells derived from that one will have the same inactive X chromosome or Barr body. By this process, females compensate for their double genetic dose of X chromosome. In so-called “tortoiseshell” cats, embryonic X inactivation is observed as color variegation (<link target-id="fig-ch13_02_05"/>). Females that are heterozygous for an X-linked coat color gene will express one of two different coat colors over different regions of their body, corresponding to whichever X chromosome is inactivated in the embryonic cell progenitor of that region.</para>
 <figure id="fig-ch13_02_05" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24"><media id="fs-id1396255" alt="Photo shows a tortoiseshell cat with orange and black fur.">
@@ -181,7 +149,7 @@
 <caption>In cats, the gene for coat color is located on the X chromosome. In the embryonic development of female cats, one of the two X chromosomes is randomly inactivated in each cell, resulting in a tortoiseshell pattern if the cat has two different alleles for coat color. Male cats, having only one X chromosome, never exhibit a tortoiseshell coat color. (credit: Michael Bodega)</caption></figure><para id="fs-id1635254">An individual carrying an abnormal number of X chromosomes will inactivate all but one X chromosome in each of her cells. However, even inactivated X chromosomes continue to express a few genes, and X chromosomes must reactivate for the proper maturation of female ovaries. As a result, X-chromosomal abnormalities are typically associated with mild mental and physical defects, as well as sterility. If the X chromosome is absent altogether, the individual will not develop in utero.</para>
 <para id="fs-id2114479">Several errors in sex chromosome number have been characterized. Individuals with three X chromosomes, called triplo-X, are phenotypically female but express developmental delays and reduced fertility. The XXY genotype, corresponding to one type of Klinefelter syndrome, corresponds to phenotypically male individuals with small testes, enlarged breasts, and reduced body hair. More complex types of Klinefelter syndrome exist in which the individual has as many as five X chromosomes. In all types, every X chromosome except one undergoes inactivation to compensate for the excess genetic dosage. This can be seen as several Barr bodies in each cell nucleus. Turner syndrome, characterized as an X0 genotype (i.e., only a single sex chromosome), corresponds to a phenotypically female individual with short stature, webbed skin in the neck region, hearing and cardiac impairments, and sterility.</para>
 </section>
-<section id="fs-id1447048" class="ost-get-exercise">
+<section id="fs-id1447048" class="">
 <title>Duplications and Deletions</title>
 <para id="fs-id1727613">In addition to the loss or gain of an entire chromosome, a chromosomal segment may be duplicated or lost. Duplications and deletions often produce offspring that survive but exhibit physical and mental abnormalities. Duplicated chromosomal segments may fuse to existing chromosomes or may be free in the nucleus. Cri-du-chat (from the French for “cry of the cat”) is a syndrome associated with nervous system abnormalities and identifiable physical features that result from a deletion of most of 5p (the small arm of chromosome 5) (<link target-id="fig-ch13_02_06"/>). Infants with this genotype emit a characteristic high-pitched cry on which the disorder’s name is based.</para>
 <figure id="fig-ch13_02_06" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-13 ost-tag-lo-apbio-ch13-s01-aplo-3-24">
@@ -190,10 +158,10 @@
 </media>
 <caption>This individual with cri-du-chat syndrome is shown at ages eight months, two years, four years, and nine years of age. (credit: Paola Cerruti Mainardi)</caption></figure>
 </section>
-<section id="fs-id1302118" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24 ost-get-exercise">
+<section id="fs-id1302118" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24">
 <title>Chromosomal Structural Rearrangements</title>
 <para id="fs-id1447372">Cytologists have characterized numerous structural rearrangements in chromosomes, but chromosome inversions and translocations are the most common. Both are identified during meiosis by the adaptive pairing of rearranged chromosomes with their former homologs to maintain appropriate gene alignment. If the genes carried on two homologs are not oriented correctly, a recombination event could result in the loss of genes from one chromosome and the gain of genes on the other. This would produce aneuploid gametes.</para>
-<section id="fs-id1153236" class="ost-get-exercise">
+<section id="fs-id1153236" class="">
 <title>Chromosome Inversions</title>
 <para id="fs-id1777950">A <term id="term-00012">chromosome inversion</term> is the detachment, 180° rotation, and reinsertion of part of a chromosome. Inversions may occur in nature as a result of mechanical shear, or from the action of transposable elements (special DNA sequences capable of facilitating the rearrangement of chromosome segments with the help of enzymes that cut and paste DNA sequences). Unless they disrupt a gene sequence, inversions only change the orientation of genes and are likely to have more mild effects than aneuploid errors. However, altered gene orientation can result in functional changes because regulators of gene expression could be moved out of position with respect to their targets, causing aberrant levels of gene products.</para>
 <para id="fs-id2018699">An inversion can be <term id="term-00013">pericentric</term> and include the centromere, or <term id="term-00014">paracentric</term> and occur outside of the centromere (<link target-id="fig-ch13_02_07"/>). A pericentric inversion that is asymmetric about the centromere can change the relative lengths of the chromosome arms, making these inversions easily identifiable.</para>
@@ -218,7 +186,7 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-id1407439" class="ost-get-exercise">
+<section id="fs-id1407439" class="">
 <title>Translocations</title>
 <para id="fs-id1447508">A <term id="term-00015">translocation</term> occurs when a segment of a chromosome dissociates and reattaches to a different, nonhomologous chromosome. Translocations can be benign or have devastating effects depending on how the positions of genes are altered with respect to regulatory sequences. Reciprocal translocations result from the exchange of chromosome segments between two nonhomologous chromosomes such that there is no gain or loss of genetic information (<link target-id="fig-ch13_02_09"/>).</para>
 <figure id="fig-ch13_02_09" class="ost-tag-lo-apbio-ch13-s02-lo01 ost-tag-lo-apbio-ch13-s01-aplo-3-24"><media id="fs-id1293714" alt="Illustration shows a reciprocal translocation in which DNA is transferred from one chromosome to another. No genetic information is gained or lost in the process.">

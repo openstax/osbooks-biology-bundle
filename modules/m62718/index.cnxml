@@ -17,47 +17,51 @@
 <item class="ost-learning-objective-def ost-tag-lo-apbio-ch01-s02-lo03">Recognize and interpret a phylogenetic tree</item>
 </list>
 </section>
-<section id="fs-id1167066854039" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066831692">The AP<sup>®</sup> Biology curriculum is organized around four major themes called the Big Ideas that apply to all levels of biological organization—from molecules and cells to populations and ecosystems. Each Big Idea identifies key concepts called Enduring Understandings, and Essential Knowledges, along with supporting examples. Simple descriptions define the focus of each Big Idea: Big Idea 1, Evolution; Big Idea 2, Energy and Homeostasis; Big Idea 3, Information and Communication; and Big Idea 4, Systems and Interactions. Evolution explains both the unity and diversity of life, Big Idea 1, and all organisms require energy and molecules to carry out life functions, such as growth and reproduction, Big Idea 2. Living systems also store, transmit, and respond to information, from DNA sequences to nerve impulses and behaviors, Big Idea 3. All biological systems interact, and these interactions result in emergent properties and characteristics unique to life, Big Idea 4.</para><para id="fs-id1167066856741">The redesigned AP<sup>®</sup> Biology course also emphasizes the investigative practices that students should master. Scientific inquiry usually uses a series of steps to gain new knowledge. The scientific method begins with an observation and follows with a hypothesis to explain the observation; then experiments are conducted to test the hypothesis, gather results, and draw conclusions from data. The AP<sup>®</sup> program has identified seven major categories of Science Practices, which can be described by short phrases: using representations and models to communicate information and solve problems; using mathematics appropriately; engaging in questioning; planning and implementing data collection strategies; analyzing and evaluating data; justifying scientific explanations; and connecting concepts. A Learning Objective merges content with one or more of the seven Science Practices.</para><para id="fs-id1167066961369" class="ost-reading-discard">The information presented and the examples highlighted in this section support concepts and Learning Objectives outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
+<section id="fs-id1167066854039" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066831692">The AP<sup>®</sup> Biology curriculum is organized around four major themes called the Big Ideas that apply to all levels of biological organization-from molecules and cells to populations and ecosystems. Simple descriptions define the focus of each Big Idea: Big Idea 1, Evolution; Big Idea 2, Energetics; Big Idea 3, Information Storage and Transmission; and Big Idea 4, Systems Interactions. The curriculum is divided into eight content units each made up of topics. Topics are broken into Learning Objectives composed of Essential Knowledge Statements. Each topic has one or more suggested Science Practice that can be used as a lens to focus the content.</para>
+
+<para id="para-00001">The AP<sup>®</sup> Biology program has identified six major categories of Science Practices, which can be described by the short phrases: concept explanation, visual representation, questions and methods, representing and describing data, statistical tests and data analysis, and argumentation. All content is taught through one or more Science Practice.</para>
+
+<para id="para-00002">Section 1.2 provides an overview of biology. This overview touches on the four big ideas in AP<sup>®</sup> Biology. The information presented and examples highlighted in this section also support concepts and Learning Objectives outlined in Topic 7.7 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167067111161" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Learning Objective. Third right cell reads: 1.14 The student is able to pose scientific questions that correctly identify essential properties of share, core life processes that provide insights into the history of life on Earth." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
 <row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry></row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry></row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
-<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry><emphasis>Topic</emphasis></entry>
+<entry>7.7 Common Ancestry</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.7. A Describe structural and functional evidence on cellular and molecular levels that provide evidence for the common ancestry of all eukaryotes.
+</entry></row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>1.2.A.1 Atoms and molecules from the environment are necessary to build new molecules. Carbon, hydrogen, and oxygen are the most prevalent elements used to build biological molecules such as carbohydrates, proteins, lipids, and nucleic acids. Additionally: <newline/>
+i. Sulfur is used in the building of proteins.<newline/>
+ii. Phosphorus is used in the building of phospholipids (a type of lipid) and nucleic acids.<newline/>
+iii. Nitrogen is used in the building of nucleic acids.
+</entry></row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.A Visual Representations- Describe characteristics of visual representations of biological concepts and processes.
+</entry></row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.B.1</emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch01-s02-aplo-1-14">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.14</emphasis></span>
-<span class="ost-standards-description ost-tag-lo-apbio-ch01-s02-aplo-1-14">The student is able to pose scientific questions that correctly identify essential properties of share, core life processes that provide insights into the history of life on Earth.</span>
-</entry></row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.B.1</emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span><emphasis>1.B.1</emphasis></span>
+<span>Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.3</emphasis></span>
-<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry><span><emphasis>5.3</emphasis></span>
+<span>The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch01-s02-aplo-1-18">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.18</emphasis></span>
-<span class="ost-standards-description ost-tag-lo-apbio-ch01-s02-aplo-1-18">The student is able to evaluate evidence provided by a data set in conjunction with a phylogenetic tree or simply cladogram to determine evolutionary history and speciation.</span>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry><span><emphasis>1.18</emphasis></span>
+<span>The student is able to evaluate evidence provided by a data set in conjunction with a phylogenetic tree or simply cladogram to determine evolutionary history and speciation.</span>
 </entry></row>
 </tbody>
 
@@ -68,8 +72,8 @@
 
 <para id="fs-id1808646">Biology is the science that studies life, but what exactly is life? This may sound like a silly question with an obvious response, but it is not always easy to define life. For example, a branch of biology called virology studies viruses, which exhibit some of the characteristics of living entities but lack others. It turns out that although viruses can attack living organisms, cause diseases, and even reproduce, they do not meet the criteria that biologists use to define life. Consequently, virologists are not biologists, strictly speaking. Similarly, some biologists study the early molecular evolution that gave rise to life; since the events that preceded life are not biological events, these scientists are also excluded from biology in the strict sense of the term.</para>
 <para id="fs-id2248548">From its earliest beginnings, biology has wrestled with three questions: What are the shared properties that make something “alive”? And once we know something is alive, how do we find meaningful levels of organization in its structure? And, finally, when faced with the remarkable diversity of life, how do we organize the different kinds of organisms so that we can better understand them? As new organisms are discovered every day, biologists continue to seek answers to these and other questions.</para>
-<section id="fs-id1167066807179" class="ost-tag-lo-apbio-ch01-s02-lo01 ost-tag-lo-apbio-ch01-s02-aplo-1-14 ost-get-exercise"><title>Properties of Life</title><para id="fs-id2137494">All living organisms share several key characteristics or functions: order, sensitivity or response to the environment, reproduction, adaptation, growth and development, regulation/homeostasis, energy processing, and evolution. When viewed together, these eight characteristics serve to define life.</para>
-<section id="fs-id2008387" class="ost-get-exercise">
+<section id="fs-id1167066807179" class="ost-tag-lo-apbio-ch01-s02-lo01 ost-tag-lo-apbio-ch01-s02-aplo-1-14"><title>Properties of Life</title><para id="fs-id2137494">All living organisms share several key characteristics or functions: order, sensitivity or response to the environment, reproduction, adaptation, growth and development, regulation/homeostasis, energy processing, and evolution. When viewed together, these eight characteristics serve to define life.</para>
+<section id="fs-id2008387" class="">
 <title>Order</title>
 <figure id="fs-id1167067216956" class="ost-tag-lo-apbio-ch01-s02-lo01 ost-tag-lo-apbio-ch01-s02-aplo-1-14">
 <media id="fs-id1430603" alt="A photo shows a light-colored toad covered in bright green spots.">
@@ -78,7 +82,7 @@
     <caption>A toad represents a highly organized structure consisting of cells, tissues, organs, and organ systems. (credit: “Ivengo”/Wikimedia Commons)</caption></figure>
 <para id="fs-id1477381">Organisms are highly organized, coordinated structures that consist of one or more cells. Even very simple, single-celled organisms are remarkably complex: inside each cell, atoms make up molecules; these in turn make up cell organelles and other cellular inclusions. In multicellular organisms (<link target-id="fs-id1167067216956"/>), similar cells form tissues. Tissues, in turn, collaborate to create organs (body structures with a distinct function). Organs work together to form organ systems.</para>
 </section>
-<section id="fs-id2853936" class="ost-get-exercise">
+<section id="fs-id2853936" class="">
 <title>Sensitivity or Response to Stimuli</title>
 <figure id="fs-id1167066861418" class="ost-tag-lo-apbio-ch01-s02-lo01 ost-tag-lo-apbio-ch01-s02-aplo-1-14">
 <media id="fs-id3057254" alt="A photograph of the Mimosa pudica shows a plant with many tiny leaves connected to a central stem. Four of these stems connect together.">
@@ -95,13 +99,13 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-id1794075" class="ost-get-exercise">
+<section id="fs-id1794075" class="">
 <title>Reproduction</title>
 <para id="fs-id1397107">Single-celled organisms reproduce by first duplicating their DNA, and then dividing it equally as the cell prepares to divide to form two new cells. Multicellular organisms often produce specialized reproductive germline cells that will form new individuals. When reproduction occurs, genes containing DNA are passed along to an organism’s offspring. These genes ensure that the offspring will belong to the same species and will have similar characteristics, such as size and shape.</para>
 </section>
 <section id="eip-23"><title>Adaptation</title><para id="eip-374">
 All living organisms exhibit a “fit” to their environment. Biologists refer to this fit as adaptation, and it is a consequence of evolution by natural selection, which operates in every lineage of reproducing organisms. Examples of adaptations are diverse and unique, from heat-resistant Archaea that live in boiling hotsprings to the tongue length of a nectar-feeding moth that matches the size of the flower from which it feeds. All adaptations enhance the reproductive potential of the individuals exhibiting them, including their ability to survive to reproduce. Adaptations are not constant. As an environment changes, natural selection causes the characteristics of the individuals in a population to track those changes.
-</para></section><section id="fs-id2890560" class="ost-get-exercise">
+</para></section><section id="fs-id2890560" class="">
 <title>Growth and Development</title>
 <para id="fs-id1962069">Organisms grow and develop following specific instructions coded for by their genes. These genes provide instructions that will direct cellular growth and development, ensuring that a species’ young (<link target-id="fs-id1167066863831"/>) will grow up to exhibit many of the same characteristics as its parents.</para>
 <figure id="fs-id1167066863831" class="ost-tag-lo-apbio-ch01-s02-lo01 ost-tag-lo-apbio-ch01-s02-aplo-1-14">
@@ -109,14 +113,14 @@ All living organisms exhibit a “fit” to their environment. Biologists refer 
     <image mime-type="image/jpg" src="../../media/Figure_01_02_11.jpg" width="320"/>
 </media>
     <caption>Although no two look alike, these kittens have inherited genes from both parents and share many of the same characteristics. (credit: Rocky Mountain Feline Rescue)</caption></figure></section>
-<section id="fs-id1470518" class="ost-get-exercise">
+<section id="fs-id1470518" class="">
 <title>Regulation/Homeostasis</title>
 <para id="fs-id2195734">Even the smallest organisms are complex and require multiple regulatory mechanisms to coordinate internal functions, respond to stimuli, and cope with environmental stresses. <term id="term-00001">Homeostasis</term> (literally, “steady state”) refers to the relatively stable internal environment required to maintain life. Two examples of internal functions regulated in an organism are nutrient transport and blood flow. Organs (groups of tissues working together) perform specific functions, such as carrying oxygen throughout the body, removing wastes, delivering nutrients to every cell, and cooling the body.</para><figure id="fs-id1167066810166" class="ost-tag-lo-apbio-ch01-s02-lo01 ost-tag-lo-apbio-ch01-s02-aplo-1-14">
 <media id="fs-id1582545" alt="The photo shows a white, furry polar bear.">
     <image mime-type="image/jpg" src="../../media/Figure_01_02_12.jpg" width="320"/>
 </media>
     <caption>Polar bears (<emphasis effect="italics">Ursus maritimus</emphasis>) and other mammals living in ice-covered regions maintain their body temperature by generating heat and reducing heat loss through thick fur and a dense layer of fat under their skin. (credit: “longhorndave”/Flickr)</caption></figure><para id="fs-id2853902">In order to function properly, cells require appropriate conditions such as proper temperature, pH, and appropriate concentration of diverse chemicals. These conditions may, however, change from one moment to the next. Organisms are able to maintain homeostatic internal conditions within a narrow range almost constantly, despite environmental changes, by activation of regulatory mechanisms. For example, an organism needs to regulate body temperature through the thermoregulation process. Organisms that live in cold climates, such as the polar bear (<link target-id="fig-ch01_02_04" document="m45421"/>), have body structures that help them withstand low temperatures and conserve body heat. Structures that aid in this type of insulation include fur, feathers, blubber, and fat. In hot climates, organisms have methods (such as perspiration in humans or panting in dogs) that help them to shed excess body heat.</para></section>
-<section id="fs-id1695658" class="ost-get-exercise">
+<section id="fs-id1695658" class="">
 <title>Energy Processing</title>
 <figure id="fs-id1167067039052" class="ost-tag-lo-apbio-ch01-s02-lo01 ost-tag-lo-apbio-ch01-s02-aplo-1-14">
 <media id="fs-id2918795" alt="Photo shows a California condor in flight with a tag on its wing.">
@@ -163,7 +167,7 @@ The diversity of life on Earth is a result of mutations, or random changes in he
 
 
 
-<section id="fs-id1167067050393" class="ost-tag-lo-apbio-ch01-s02-lo02 ost-tag-lo-apbio-ch01-s02-aplo-1-14 ost-get-exercise">
+<section id="fs-id1167067050393" class="ost-tag-lo-apbio-ch01-s02-lo02 ost-tag-lo-apbio-ch01-s02-aplo-1-14">
 <title>Levels of Organization of Living Things</title>
 <para id="fs-id1850530">Living things are highly organized and structured, following a hierarchy that can be examined on a scale from small to large. The <term id="term-00002">atom</term> is the smallest and most fundamental unit of matter that retains the properties of an element.. It consists of a nucleus surrounded by electrons. Atoms form molecules. A <term id="term-00003">molecule</term> is a chemical structure consisting of at least two atoms held together by one or more chemical bonds. Many molecules that are biologically important are <term id="term-00004">macromolecules</term>, large molecules that are typically formed by polymerization (a polymer is a large molecule that is made by combining smaller units called monomers, which are simpler than macromolecules). An example of a macromolecule is deoxyribonucleic acid (DNA) (<link target-id="fs-id1167066848558"/>), which contains the instructions for the structure and functioning of all living organisms.</para><figure id="fs-id1167066848558" class="ost-tag-lo-apbio-ch01-s02-lo02 ost-tag-lo-apbio-ch01-s02-aplo-1-14">
 <media id="fs-id1288287" alt="Molecular model depicts a DNA molecule, showing its double helix structure.">
@@ -200,7 +204,7 @@ The diversity of life on Earth is a result of mutations, or random changes in he
 </note>
 
 
-<section id="fs-id1167066807448" class="ost-tag-lo-apbio-ch01-s02-lo02 ost-tag-lo-apbio-ch01-s02-aplo-1-18 ost-get-exercise">
+<section id="fs-id1167066807448" class="ost-tag-lo-apbio-ch01-s02-lo02 ost-tag-lo-apbio-ch01-s02-aplo-1-18">
 <title>The Diversity of Life</title>
 <para id="fs-id1957422">The fact that biology, as a science, has such a broad scope has to do with the tremendous diversity of life on earth. The source of this diversity is <term id="term-00017">evolution</term>, the process of gradual change during which new species arise from older species. Evolutionary biologists study the evolution of living things in everything from the microscopic world to ecosystems.</para>
 <para id="fs-id2199492">The evolution of various life forms on Earth can be summarized in a phylogenetic tree (<link target-id="fs-id1167066867652"/>). A <term id="term-00018">phylogenetic tree</term> is a diagram showing the evolutionary relationships among biological species based on similarities and differences in genetic or physical traits or both. A phylogenetic tree is composed of nodes and branches. The internal nodes represent ancestors and are points in evolution when, based on scientific evidence, an ancestor is thought to have diverged to form two new species. In some phylogenetic trees, the length of each branch might be proportional to the time elapsed since the split.</para>
@@ -262,11 +266,11 @@ The diversity of life on Earth is a result of mutations, or random changes in he
 
 
 
-<section id="fs-id1998058" class="ost-get-exercise">
+<section id="fs-id1998058" class="">
 <title>Branches of Biological Study</title>
 <para id="fs-id1908444">The scope of biology is broad and therefore contains many branches and subdisciplines. Biologists may pursue one of those subdisciplines and work in a more focused field. For instance, <term id="term-00019">molecular biology</term> and <term id="term-00020">biochemistry</term> study biological processes at the molecular and chemical level, including interactions among molecules such as DNA, RNA, and proteins, as well as the way they are regulated. <term id="term-00021">Microbiology</term>, the study of microorganisms, is the study of the structure and function of organisms that cannot be seen with the naked eye. It is quite a broad branch itself, and depending on the subject of study, there are also microbial physiologists, ecologists, and geneticists, among others.</para>
 <note id="fs-id2681692" class="career ost-feature"><title>Forensic Scientist</title><para id="fs-id1808500">Forensic science is the application of science to answer questions related to the law. Biologists as well as chemists and biochemists can be forensic scientists. Forensic scientists provide scientific evidence for use in courts, and their job involves examining trace materials associated with crimes. Interest in forensic science has increased in the last few years, possibly because of popular television shows that feature forensic scientists on the job. Also, the development of molecular techniques and the establishment of DNA databases have expanded the types of work that forensic scientists can do. Their work involves analyzing samples such as hair, blood, and other body fluids and also processing DNA (<link target-id="fs-id1167067044694"/>) found in many different environments and materials. Forensic scientists also analyze other biological evidence left at crime scenes, such as insect larvae or pollen grains. Students who want to pursue careers in forensic science will most likely be required to take chemistry and biology courses as well as some intensive math courses.</para>
-<figure id="fs-id1167067044694" class="ost-tag-lo-apbio-ch01-s02-lo02">
+<figure id="fs-id1167067044694">
 <media id="fs-id1403303" alt="Photo depicts a scientist working in the lab.">
     <image mime-type="image/jpg" src="../../media/Figure_01_02_19.jpg" width="320"/>
 </media>

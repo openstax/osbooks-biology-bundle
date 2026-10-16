@@ -20,44 +20,49 @@
 
 <section id="fs-id1167067294872" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167063775066">DNA polymerase is an efficient enzyme but it can make mistakes while adding nucleotides during replication. It edits the DNA by proofreading every newly added base. An incorrect base is removed and replaced by the correct base. If a base remains mismatched, special repair enzymes can often recognize the wrongly incorporated base, excise it from the DNA, and replace it with the correct base. Most mistakes are corrected, but if they are not they may result in a mutation, which is defined as a permanent change in a DNA sequence. A mutation can be passed to daughter cells through DNA replication and cell division. There are several types of DNA mutations, including substitution, deletion, insertion, and translocation. Mutations in repair genes may lead to serious consequences, such as cancer. Mutations can be induced by environmental factors, such as UV radiation, or they can occur spontaneously. (We will explore the effects of mutation in more detail in a later chapter. Remember that mutations are not always detrimental. They can be beneficial, too. Changes in DNA increase genetic variation—the foundation of evolution by natural selection.)</para>
-<para id="fs-id1167066852236" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
-
-<para id="fs-id1167063558201" class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<span class="ost-standards-name"><emphasis>Big Idea 3 </emphasis></span>
-<span class="ost-standards-description">Living systems store, retrieve, transmit, and respond to information essential to life processes.</span>
-</para>
-<para id="fs-id1167066878788" class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c">
-<span class="ost-standards-name"><emphasis>Enduring Understanding 3.C </emphasis></span>
-<span class="ost-standards-description">The processing of genetic information is imperfect and is a source of genetic variation.</span>
-</para>
+<para id="fs-id1167066852236" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 6.7 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 
 <table id="fs-id1167067176660" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.C.1 Changes in genotype can result in changes in phenotype. Second left cell reads: Science Practice. Second right cell reads: 6.4 The student can make claims and predictions about natural phenomena based on scientific theories and models. Third left cell reads: Science Practice. Third right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Fourth left cell reads: Learning Objective. Fourth right cell reads: 3.24 The student is able to predict how a change in genotype, when expressed as a phenotype, provides a variation that can be subject to natural selection." class="unnumbered column-header ost-reading-discard">
 <label/>
 <tgroup cols="2">
 <colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>3.C.1 </emphasis></span>
-<span class="ost-standards-description">Changes in genotype can result in changes in phenotype.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s06-aplo-3-24">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.24 </emphasis></span>
-<span class="ost-standards-description">The student is able to predict how a change in genotype, when expressed as a phenotype, provides a variation that can be subject to natural selection.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>6.7 Mutations</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.7.A Describe the various types of mutation.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.7.A.1 Alterations in a DNA sequence are mutations that can cause changes in the type or amount of the protein produced and the consequent phenotype. DNA mutations can be beneficial, detrimental, or neutral based on the effect or the lack of effect  they have on the resulting nucleic acid or protein and the phenotypes that are conferred by the protein. <newline/>
+i. Point mutations occur when one nucleotide has been substituted for a different nucleotide.<newline/>
+ii. Frameshift mutations occur when one or more nucleotides are inserted or deleted, causing the reading frame to be shifted.<newline/>
+iii. Nonsense mutations occur when there is a point mutation that causes a premature stop.
+iv. Silent mutations occur when the change in the nucleotide sequence has no effect on the amino acid sequence.<newline/>
+
+Exclusion statement- Knowledge of specific mutations and their effects is beyond the scope of the AP<sup>®</sup> Exam.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.7.B Explain how changes in genotype may result in changes in phenotype.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.7.B.1 Errors in DNA replication or DNA repair mechanisms as well as external factors, including radiation and reactive chemicals, can cause random mutations in the DNA.<newline/>
+i. Whether a mutation is beneficial, detrimental, or neutral depends on the environmental context.<newline/>
+ii. Mutations are a source of genetic variation.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.C Visual Representations-Explain how biological models relate to larger principles, concepts, processes, systems, or theories.</entry>
+</row>
+
+
 </tbody>
 </tgroup>
 </table>
@@ -67,20 +72,20 @@
 <tgroup cols="2">
 <colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.C.1 </emphasis></span>
-<span class="ost-standards-description">Changes in genotype can result in changes in phenotype.</span>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span><emphasis>3.C.1 </emphasis></span>
+<span>Changes in genotype can result in changes in phenotype.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry><span><emphasis>1.1 </emphasis></span>
+<span>The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s06-aplo-3-25">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.25 </emphasis></span>
-<span class="ost-standards-description">The student can create a visual representation to illustrate how changes in a DNA nucleotide sequence can result in a change in the polypeptide produced.</span>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry><span><emphasis>3.25 </emphasis></span>
+<span>The student can create a visual representation to illustrate how changes in a DNA nucleotide sequence can result in a change in the polypeptide produced.</span>
 </entry>
 </row>
 </tbody>
@@ -92,20 +97,20 @@
 <tgroup cols="2">
 <colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.C.2 </emphasis></span>
-<span class="ost-standards-description">Biological systems have multiple processes that increase genetic variation.</span>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span><emphasis>3.C.2 </emphasis></span>
+<span>Biological systems have multiple processes that increase genetic variation.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry><span><emphasis>6.2 </emphasis></span>
+<span>The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s06-aplo-3-28">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.28 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct an explanation of the multiple processes that increase variation within a population.</span>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry><span><emphasis>3.28 </emphasis></span>
+<span>The student is able to construct an explanation of the multiple processes that increase variation within a population.</span>
 </entry>
 </row>
 </tbody>
@@ -122,7 +127,7 @@
 
 <para id="fs-id1976493">DNA replication is a highly accurate process, but mistakes can occasionally occur, such as a DNA polymerase inserting a wrong base. Uncorrected mistakes may sometimes lead to serious consequences, such as cancer. Repair mechanisms correct the mistakes. In rare cases, mistakes are not corrected, leading to mutations; in other cases, repair enzymes are themselves mutated or defective.</para>
 <para id="fs-id2348700">Most of the mistakes during DNA replication are promptly corrected by DNA polymerase by proofreading the base that has been just added (<link target-id="fig-ch14_06_01"/>). In <term id="term-00001">proofreading</term>, the DNA pol reads the newly added base before adding the next one, so a correction can be made. The polymerase checks whether the newly added base has paired correctly with the base in the template strand. If it is the right base, the next nucleotide is added. If an incorrect base has been added, the enzyme makes a cut at the phosphodiester bond and releases the wrong nucleotide. This is performed by the exonuclease action of DNA pol III. Once the incorrect nucleotide has been removed, a new one will be added again.</para>
-<figure id="fig-ch14_06_01" class="ost-tag-lo-apbio-ch14-s06-lo02">
+<figure id="fig-ch14_06_01">
 <media id="fs-id2321057" alt="Illustration shows DNA polymerase replicating a strand of DNA. The enzyme has accidentally inserted G opposite A, resulting in a bulge. The enzyme backs up to fix the error.">
 <image mime-type="image/jpg" src="../../media/Figure_14_06_01.jpg" width="320"/>
 </media>

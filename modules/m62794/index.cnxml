@@ -18,86 +18,42 @@
 </list>
 </section>
 
-<section id="fs-id1167067069156" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167063483248">As we learned in Chapter 7, all living organisms, from simple bacteria to complex plants and animals, require free energy to carry out cellular processes, such as growth and reproduction. Organisms use various strategies to capture, store, transform, and transfer free energy, including photosynthesis. Photosynthesis allows organisms to access enormous amounts of free energy from the sun and transform it to the chemical energy of sugars. Although all organisms carry out some form of cellular respiration, only certain organisms, called photoautotrophs, can perform photosynthesis. Examples of photoautotrophs include plants, algae, some unicellular eukaryotes, and cyanobacteria. They require the presence of chlorophyll, a specialized pigment that absorbs certain wavelengths of the visible light spectrum to harness free energy from the sun. Photosynthesis is a process where components of water and carbon dioxide are used to assemble carbohydrate molecules and where oxygen waste products are released into the atmosphere. In eukaryotes, the reactions of photosynthesis occur in chloroplasts; in prokaryotes, such as cyanobacteria, the reactions are less localized and occur within membranes and in the cytoplasm. (The structural features of the chloroplast that participate in photosynthesis will be explored in more detail later in The Light-Dependent Reactions of Photosynthesis and Using Light Energy to Make Organic Molecules.) Although photosynthesis and cellular respiration evolved as independent processes—with photosynthesis creating an oxidizing atmosphere early in Earth’s history—today they are interdependent. As we studied in Cellular Respiration, aerobic cellular respiration taps into the oxidizing ability of oxygen to synthesize the organic compounds that are used to power cellular processes.</para><para id="fs-id1167066821576" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and learning objectives outlined in Big Idea 1 and Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. The learning objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para><table id="fs-id1167066875636" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Structural and functional evidence supports the relatedness of all domains, with organisms shared many conserved core processes. Second left cell reads: Science Practice. Second right cell reads: 6.1 The student can justify claims with evidence. Third left cell reads: Learning Objective. Third right cell reads: 1.15 The student is able to describe specific examples of conserved core biological processes and features shared by all domains s or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms." class="unnumbered column-header ost-reading-discard"><label/>
+<section id="fs-id1167067069156" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167063483248">As we learned in Chapter 7, all living organisms, from simple bacteria to complex plants and animals, require free energy to carry out cellular processes, such as growth and reproduction. Organisms use various strategies to capture, store, transform, and transfer free energy, including photosynthesis. Photosynthesis allows organisms to access enormous amounts of free energy from the sun and transform it to the chemical energy of sugars. Although all organisms carry out some form of cellular respiration, only certain organisms, called photoautotrophs, can perform photosynthesis. Examples of photoautotrophs include plants, algae, some unicellular eukaryotes, and cyanobacteria. They require the presence of chlorophyll, a specialized pigment that absorbs certain wavelengths of the visible light spectrum to harness free energy from the sun. Photosynthesis is a process where components of water and carbon dioxide are used to assemble carbohydrate molecules and where oxygen waste products are released into the atmosphere. In eukaryotes, the reactions of photosynthesis occur in chloroplasts; in prokaryotes, such as cyanobacteria, the reactions are less localized and occur within membranes and in the cytoplasm. (The structural features of the chloroplast that participate in photosynthesis will be explored in more detail later in The Light-Dependent Reactions of Photosynthesis and Using Light Energy to Make Organic Molecules.) Although photosynthesis and cellular respiration evolved as independent processes—with photosynthesis creating an oxidizing atmosphere early in Earth’s history—today they are interdependent. As we studied in Cellular Respiration, aerobic cellular respiration taps into the oxidizing ability of oxygen to synthesize the organic compounds that are used to power cellular processes.</para><para id="fs-id1167066821576" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 3.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para><table id="fs-id1167066875636" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Structural and functional evidence supports the relatedness of all domains, with organisms shared many conserved core processes. Second left cell reads: Science Practice. Second right cell reads: 6.1 The student can justify claims with evidence. Third left cell reads: Learning Objective. Third right cell reads: 1.15 The student is able to describe specific examples of conserved core biological processes and features shared by all domains s or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
-<tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+<tbody><row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
-<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>3.4 Photosynthesis</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>3.4.A Describe the photosynthetic processes and structural features of the chloroplast that allow organisms to capture and store energy.<newline/>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1</emphasis></span>
-<span class="ost-standards-description">Structural and functional evidence supports the relatedness of all domains, with organisms shared many conserved core processes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.1</emphasis></span>
-<span class="ost-standards-description">The student can justify claims with evidence.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s01-aplo-1-15">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>1.15</emphasis></span>
-<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains s or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
-</entry>
+Exclusion Statement- Memorization of the steps in the Calvin cycle, the structure of the molecules, and the names of the enzymes involved, with the exception of ATP synthase, is beyond the scope of the AP<sup>®</sup> Exam.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.4.A.1 Photosynthesis is the series of reactions that use carbon dioxide (CO<sub>2</sub>), water (H<sub>2</sub>O), and light energy to make carbohydrates and oxygen (O<sub>2</sub>).<newline/>
+i. Photosynthetic organisms capture energy from the sun and produce sugars that can be used in biological processes or stored.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.2</emphasis></span>
-<span class="ost-standards-description">Organisms use various strategies to capture and store free energy for use in biological processes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4</emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s01-aplo-2-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.4</emphasis></span>
-<span class="ost-standards-description">The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.4.A.2 Stroma and thylakoids are found within the chloroplast.<newline/>
+i. The stoma is the fluid within the inner chloroplast membrane and outside the thylakoid. The carbon fixation (Calvin cycle) reactions of photosynthesis occur in the stroma.<newline/>
+ii. The thylakoid membranes contain chlorophyll pigments organized into two photosystems, as well as electron transport proteins.<newline/>
+iii. Thylakoids are organized in stacks called grana. The light reactions of photosynthesis occur in the grana.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.4.A.3 The light reactions of photosynthesis in eukaryotes involve a series of coordinated reaction pathways that capture energy present in light to yield ATP and NADPH, which power the production of organic molecules in the Calvin cycle. This provides energy for metabolic processes.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.B Argumentation- Support a claim with evidence from biological principles, concepts, processes, and data.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.2</emphasis></span>
-<span class="ost-standards-description">Organisms use various strategies to capture and store free energy for use in biological processes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch08-s01-aplo-2-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.5</emphasis></span>
-<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store, or use free energy.</span>
-</entry>
-</row>
+
 </tbody>
 
 
@@ -109,7 +65,7 @@
 <para id="fs-id1167066885564">Use this first part of the chapter to present an overview that will be filled out and completed in the later two portions. This will introduce the students to the biochemistry that they need to know and give them a chance to build up their understanding of the material.</para>
 </note>
 
-<section id="fs-id1167065863632" class="ost-tag-lo-apbio-ch08-s01-lo01 ost-tag-lo-apbio-ch08-s01-aplo-1-15 ost-get-exercise">
+<section id="fs-id1167065863632" class="ost-tag-lo-apbio-ch08-s01-lo01 ost-tag-lo-apbio-ch08-s01-aplo-1-15">
 <title>Importance of Photosynthesis</title>
 <note id="fs-id1167067070240" class="os-teacher">
 <label>Teacher Support</label>
@@ -122,7 +78,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_08_01_01-7a57.jpg" width="550"/>
 </media>
 
-<caption>Photoautotrophs including (a) plants, (b) algae, and (c) cyanobacteria synthesize their organic compounds via photosynthesis using sunlight as an energy source. Cyanobacteria and planktonic algae can grow over enormous areas in water, at times completely covering the surface. In a (d) deep sea vent, chemoautotrophs, such as these (e) thermophilic bacteria, capture energy from inorganic compounds to produce organic compounds. The ecosystem surrounding the vents has a diverse array of animals, such as tubeworms, crustaceans, and octopi that derive energy from the bacteria. (credit a: modification of work by Steve Hillebrand, U.S. Fish and Wildlife Service; credit b: modification of work by "eutrophication&amp;hypoxia"/Flickr; credit c: modification of work by NASA; credit d: University of Washington, NOAA; credit e: modification of work by Mark Amend, West Coast and Polar Regions Undersea Research Center, UAF, NOAA)</caption></figure><para id="fs-idm88222304">The importance of photosynthesis is not just that it can capture sunlight’s energy. A lizard sunning itself on a cold day can use the sun’s energy to warm up. Photosynthesis is vital because it evolved as a way to store the energy in solar radiation (the “photo-” part) as energy in the carbon-carbon bonds of carbohydrate molecules (the “-synthesis” part). Those carbohydrates are the energy source that heterotrophs use to power the synthesis of ATP via respiration. Therefore, photosynthesis powers 99 percent of Earth’s ecosystems. When a top predator, such as a wolf, preys on a deer (<link target-id="fig-ch08_01_02"/>), the wolf is at the end of an energy path that went from nuclear reactions on the surface of the sun, to light, to photosynthesis, to vegetation, to deer, and finally to wolf.</para><figure id="fig-ch08_01_02" class="ost-tag-lo-apbio-ch08-s01-lo01"><media id="fs-idm32549792" alt="A photo shows deer running through tall grass beside a forest.">
+<caption>Photoautotrophs including (a) plants, (b) algae, and (c) cyanobacteria synthesize their organic compounds via photosynthesis using sunlight as an energy source. Cyanobacteria and planktonic algae can grow over enormous areas in water, at times completely covering the surface. In a (d) deep sea vent, chemoautotrophs, such as these (e) thermophilic bacteria, capture energy from inorganic compounds to produce organic compounds. The ecosystem surrounding the vents has a diverse array of animals, such as tubeworms, crustaceans, and octopi that derive energy from the bacteria. (credit a: modification of work by Steve Hillebrand, U.S. Fish and Wildlife Service; credit b: modification of work by "eutrophication&amp;hypoxia"/Flickr; credit c: modification of work by NASA; credit d: University of Washington, NOAA; credit e: modification of work by Mark Amend, West Coast and Polar Regions Undersea Research Center, UAF, NOAA)</caption></figure><para id="fs-idm88222304">The importance of photosynthesis is not just that it can capture sunlight’s energy. A lizard sunning itself on a cold day can use the sun’s energy to warm up. Photosynthesis is vital because it evolved as a way to store the energy in solar radiation (the “photo-” part) as energy in the carbon-carbon bonds of carbohydrate molecules (the “-synthesis” part). Those carbohydrates are the energy source that heterotrophs use to power the synthesis of ATP via respiration. Therefore, photosynthesis powers 99 percent of Earth’s ecosystems. When a top predator, such as a wolf, preys on a deer (<link target-id="fig-ch08_01_02"/>), the wolf is at the end of an energy path that went from nuclear reactions on the surface of the sun, to light, to photosynthesis, to vegetation, to deer, and finally to wolf.</para><figure id="fig-ch08_01_02"><media id="fs-idm32549792" alt="A photo shows deer running through tall grass beside a forest.">
 <image mime-type="image/jpg" src="../../media/Figure_08_01_02-266c.jpg" width="320"/>
 </media>
 
@@ -155,7 +111,7 @@
 </note>
 </section>
 
-<section id="fs-idp42926384" class="ost-tag-lo-apbio-ch08-s01-lo02 ost-tag-lo-apbio-ch08-s01-aplo-2-5 ost-get-exercise">
+<section id="fs-idp42926384" class="ost-tag-lo-apbio-ch08-s01-lo02 ost-tag-lo-apbio-ch08-s01-aplo-2-5">
 <title>Main Structures and Summary of Photosynthesis</title>
 <para id="fs-idm107168592">Photosynthesis is a multi-step process that requires sunlight, carbon dioxide (which is low in energy), and water as substrates (<link target-id="fig-ch08_01_03"/>). After the process is complete, it releases oxygen and produces glyceraldehyde-3-phosphate (G3P), simple carbohydrate molecules (which are high in energy) that can subsequently be converted into glucose, sucrose, or any of dozens of other sugar molecules. These sugar molecules contain energy and the energized carbon that all living things need to survive.</para>
 <figure id="fig-ch08_01_03" class="ost-tag-lo-apbio-ch08-s01-lo02 ost-tag-lo-apbio-ch08-s01-lo03 ost-tag-lo-apbio-ch08-s01-aplo-2-5"><media id="fs-idm19845344" alt="Photo of a tree. Arrows indicate that the tree uses carbon dioxide, water, and sunlight to make sugars and oxygen.">
@@ -195,7 +151,7 @@
 
 
 
-<section id="fs-idp19796064" class="ost-tag-lo-apbio-ch08-s01-lo02 ost-tag-lo-apbio-ch08-s01-lo03 ost-get-exercise">
+<section id="fs-idp19796064" class="ost-tag-lo-apbio-ch08-s01-lo02 ost-tag-lo-apbio-ch08-s01-lo03">
 <title>The Two Parts of Photosynthesis</title>
 
 <note id="fs-id1167066811425" class="os-teacher">
@@ -224,7 +180,7 @@
 
 <note id="fs-idp103890080" class="ap-everyday ost-assessed-feature"><label>Everyday Connections for AP<sup>®</sup> Courses</label>
 <para id="eip-id1164468595750"><title>Photosynthesis at the Grocery Store</title></para>
-<figure id="fig-ch08_01_07" class="ost-tag-lo-apbio-ch08-s01-lo03"><media id="fs-idm141120128" alt="A photo shows people shopping in a grocery store.">
+<figure id="fig-ch08_01_07"><media id="fs-idm141120128" alt="A photo shows people shopping in a grocery store.">
 <image mime-type="image/jpg" src="../../media/Figure_08_01_07.jpg" width="320"/>
 </media>
 

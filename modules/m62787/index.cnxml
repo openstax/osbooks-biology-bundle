@@ -19,88 +19,46 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167065939188">All organisms, from simple bacteria and yeast to complex plants and animals, carry out some form of cellular respiration to capture and supply free energy for cellular processes. Although cellular respiration and photosynthesis evolved as independent processes, today they are interdependent. The products of photosynthesis, carbohydrates and oxygen gas, are used during cellular respiration. Likewise, the byproduct of cellular respiration, CO<sub>2</sub> gas, is used during photosynthesis. Glycolysis is the first pathway used in the breakdown of glucose to extract free energy. Used by nearly all organisms on earth today, glycolysis likely evolved as one of the first metabolic pathways. It is important to note that glycolysis occurs in the cytoplasm of both prokaryotic and eukaryotic cells. (Remember that only eukaryotic cells have mitochondria.)</para>
 <para id="fs-id1167065800953">Like all metabolic pathways, glycolysis occurs in steps or stages. In the first stage, the six-carbon ring of glucose is prepared for cleavage (“splitting”) into two three-carbon molecules by investing two molecules of ATP to energize the separation. (Don’t worry; the cell will get the investment of ATP back. It’s like the stock market: You have to invest money to, hopefully, make money!) As glucose is metabolized further, bonds are rearranged through a series of enzyme-catalyzed steps, and free energy is released to form ATP from ADP and free phosphate molecules. The availability of enzymes can affect the rate of glucose metabolism. Two molecules of pyruvate are ultimately produced. High-energy electrons and hydrogen atoms pass to NAD<sup>+</sup>, reducing it to NADH. Although two molecules of ATP were invested to destabilize glucose at the beginning of the process, four molecules of ATP are formed by substrate-level phosphorylation, resulting in a net gain of two ATP and two NADH molecules for the cell.</para>
-<para id="fs-id1167065854867" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 1 and Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167065793044" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Third left cell reads: Learning Objective. Third right cell reads: 1.15 The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167065854867" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 3.5 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para><table id="fs-id1167065793044" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Third left cell reads: Learning Objective. Third right cell reads: 1.15 The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
-<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>3.5 Cellular Respiration</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>3.5.A Describe the processes and structural features of mitochondria that allow organisms to use energy stored in biological macromolecules.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.5.A.1 Cellular respiration uses energy from biological macromolecules to synthesize ATP. Respiration and fermentation are characteristics of all forms of life.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>3.5.B Explain how cells obtain energy form biological macromolecules in order to power cellular functions.<newline/>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s02-aplo-1-15">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.15 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
+Exclusion Statement- Memorization of the steps in glycolysis and the Krebs cycle, and of the structures of the molecules and the names of the enzymes involved, is beyond the scope of this course and the AP<sup>®</sup> Exam.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.5.B.1 Glycolysis is a biochemical pathway that releases the energy in glucose molecules to form ATP (from ADP and inorganic phosphate), NADH (from NAD+), and pyruvate.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>4.A Representing and Describing Data- Construct a graph to represent the data, including: x-y graphs (bar, histogram, line, log scale, dual y), scatter plot, box and whisker plot, and pie chart. The graph should include the following components:<newline/>
+i. Type of graph appropriate for the data<newline/>
+ii. Axis labeling, including appropriate units and legend<newline/>
+iii. Scaling<newline/>
+iv. Accurately plotted data (including error bars when appropriate)<newline/>
+v. trend line (when appropriate)
 </entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.2 </emphasis></span>
-<span class="ost-standards-description">Organisms capture and store free energy for use in biological processes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s02-aplo-2-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.4 </emphasis></span>
-<span class="ost-standards-description">The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.2 </emphasis></span>
-<span class="ost-standards-description">Organisms capture and store free energy for use in biological processes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s02-aplo-2-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.5 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store, or use free energy.</span>
-</entry>
-</row>
-</tbody>
-
-
-
-
-</tgroup>
+</tbody></tgroup>
 </table></section>
 
 <note id="fs-id1167066142524" class="os-teacher">
@@ -109,7 +67,7 @@
 <para id="fs-id1167065885222">Introduce the process of glycolysis using visuals such as this <link window="new" url="https://openstax.org/l/32glycolysis">video</link>.</para></note>
 
 <para id="fs-id1392597">You have read that nearly all of the energy used by living cells comes to them in the bonds of the sugar, glucose. <term id="term-00001">Glycolysis</term> is the first step in the breakdown of glucose to extract energy for cellular metabolism. Nearly all living organisms carry out glycolysis as part of their metabolism. The process does not use oxygen and is therefore <term id="term-00002">anaerobic</term>. Glycolysis takes place in the cytoplasm of both prokaryotic and eukaryotic cells. Glucose enters heterotrophic cells in two ways. One method is through secondary active transport in which the transport takes place against the glucose concentration gradient. The other mechanism uses a group of integral proteins called GLUT proteins, also known as glucose transporter proteins. These transporters assist in the facilitated diffusion of glucose.</para><para id="fs-id2054513">Glycolysis begins with the six carbon ring-shaped structure of a single glucose molecule and ends with two molecules of a three-carbon keto acid called <term id="term-00003">pyruvate</term>. Glycolysis consists of two distinct phases. The first part of the glycolysis pathway traps the glucose molecule in the cell and uses energy to modify it so that the six-carbon sugar molecule can be split evenly into the two three-carbon molecules. The second part of glycolysis extracts energy from the molecules and stores it in the form of ATP and NADH, the reduced form of NAD<sup>+</sup>.</para>
-<section id="fs-id2221367" class="ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15 ost-get-exercise">
+<section id="fs-id2221367" class="ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15">
 <title>First Half of Glycolysis (Energy-Requiring Steps)</title>
     <para id="fs-id2883758">Step 1. The first step in glycolysis (<link target-id="fig-ch07_02_01"/>) is catalyzed by hexokinase, an enzyme with broad specificity that catalyzes the phosphorylation of six-carbon sugars. Hexokinase phosphorylates glucose using ATP as the source of the phosphate, producing glucose-6-phosphate, a more reactive form of glucose. This reaction prevents the phosphorylated glucose molecule from continuing to interact with the GLUT proteins, and it can no longer leave the cell because the negatively charged phosphate will not allow it to cross the hydrophobic interior of the plasma membrane.</para>
 <para id="fs-id1595819">Step 2. In the second step of glycolysis, an isomerase converts glucose-6-phosphate into one of its isomers, fructose-6-phosphate. An <term id="term-00004">isomerase</term> is an enzyme that catalyzes the conversion of a molecule into one of its isomers. (This change from phosphoglucose to phosphofructose allows the eventual split of the sugar into two three-carbon molecules.).</para>
@@ -118,7 +76,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_07_02_01-0ee2.jpg" width="600"/>
 </media>
 <caption>The first half of glycolysis uses two ATP molecules in the phosphorylation of glucose, which is then split into two three-carbon molecules.</caption></figure></section>
-<section id="fs-id1412882" class="ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15 ost-get-exercise">
+<section id="fs-id1412882" class="ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15">
 <title>Second Half of Glycolysis (Energy-Releasing Steps)</title>
 <para id="fs-id3053333">So far, glycolysis has cost the cell two ATP molecules and produced two small, three-carbon sugar molecules. Both of these molecules will proceed through the second half of the pathway, and sufficient energy will be extracted to pay back the two ATP molecules used as an initial investment and produce a profit for the cell of two additional ATP molecules and two even higher-energy NADH molecules.</para>
 <para id="fs-id2583910">Step 6. The sixth step in glycolysis (<link target-id="fig-ch07_02_02"/>) oxidizes the sugar (glyceraldehyde-3-phosphate), extracting high-energy electrons, which are picked up by the electron carrier NAD<sup>+</sup>, producing NADH. The sugar is then phosphorylated by the addition of a second phosphate group, producing 1,3-bisphosphoglycerate. Note that the second phosphate group does not require another ATP molecule.</para>
@@ -160,7 +118,7 @@
 </exercise>
 </note>
 
-<section id="fs-id2988639" class="ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15 ost-get-exercise">
+<section id="fs-id2988639" class="ost-tag-lo-apbio-ch07-s02-lo01 ost-tag-lo-apbio-ch07-s02-aplo-2-4 ost-tag-lo-apbio-ch07-s02-aplo-2-5 ost-tag-lo-apbio-ch07-s02-aplo-1-15">
 <title>Outcomes of Glycolysis</title>
 <para id="fs-id2726679">Glycolysis starts with glucose and ends with two pyruvate molecules, a total of four ATP molecules and two molecules of NADH. Two ATP molecules were used in the first half of the pathway to prepare the six-carbon ring for cleavage, so the cell has a net gain of two ATP molecules and 2 NADH molecules for its use. If the cell cannot catabolize the pyruvate molecules further, it will harvest only two ATP molecules from one molecule of glucose. Mature mammalian red blood cells are not capable of <term id="term-00005">aerobic respiration</term>—the process in which organisms convert energy in the presence of oxygen—and glycolysis is their sole source of ATP. If glycolysis is interrupted, these cells lose their ability to maintain their sodium-potassium pumps, and eventually, they die.</para>
 <para id="fs-id1447450">The last step in glycolysis will not occur if pyruvate kinase, the enzyme that catalyzes the formation of pyruvate, is not available in sufficient quantities. In this situation, the entire glycolysis pathway will proceed, but only two ATP molecules will be made in the second half. Thus, pyruvate kinase is a rate-limiting enzyme for glycolysis.	</para>

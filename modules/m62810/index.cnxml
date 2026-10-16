@@ -25,60 +25,81 @@
 <para id="fs-id1167063726159">Sexual reproduction requires that diploid (2<emphasis effect="italics">n</emphasis>) organisms produce haploid (1<emphasis effect="italics">n</emphasis>) cells through meiosis and that these haploid cells fuse to form new, diploid offspring. The union of these two haploid cells, one from each parent, is fertilization. Although the processes of meiosis and mitosis share similarities, their end products are different. Recall that eukaryotic DNA is contained in chromosomes, and that chromosomes occur in homologous pairs (homologues). At fertilization, the male parent contributes one member of each homologous pair to the offspring, and the female parent contributes the other. With the exception of the sex chromosomes, homologous chromosomes contain the same genes, but these genes can have different variations, called alleles. (For example, you might have inherited an allele for brown eyes from your father and an allele for blue eyes from your mother.) As in mitosis, homologous chromosomes are duplicated during the S-stage (synthesis) of interphase. However, unlike mitosis, in which there is just one nuclear division, meiosis has two complete rounds of nuclear division—meiosis I and meiosis II. These result in four nuclei and (usually) four daughter cells, each with half the number of chromosomes as the parent cell (1<emphasis effect="italics">n</emphasis>). The first division, meiosis I, separates homologous chromosomes, and the second division, meiosis II, separates chromatids. (Remember: during meiosis, DNA replicates ONCE but divides TWICE, whereas in mitosis, DNA replicates ONCE but divides only ONCE.).</para>
 <para id="fs-id1167067199940">Although mitosis and meiosis are similar in many ways, they have different outcomes. The main difference is in the type of cell produced: mitosis produces identical cells, allowing growth or repair of tissues; meiosis generates reproductive cells, or gametes. Gametes, often called sex cells, unite with other sex cells to produce new, unique organisms.</para>
 <para id="fs-id1167067193423">Genetic variation occurs during meiosis I, in which homologous chromosomes pair and exchange non-sister chromatid segments (crossover). Here the homologous chromosomes separate into different nuclei, causing a reduction in “ploidy.” During meiosis II—which is more similar to a mitotic division—the chromatids separate and segregate into four haploid sex cells. However, because of crossover, the resultant daughter cells do not contain identical genomes. As in mitosis, external factors and internal signals regulate the meiotic cell cycle. As we will explore in more detail in a later chapter, errors in meiosis can cause genetic disorders, such as Down syndrome.</para>
-<para id="fs-id1167067040844" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and learning objectives outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The learning objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para><table id="fs-id1167067202144" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.2 In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 3.9 The student is able to construct an explanation, using visual representations or narratives, as to how DNA in chromosomes is transmitted to the next generation via mitosis, or meiosis followed by fertilization." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167067040844" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 5.1 and 5.2 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+<table id="fs-id1167067202144" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.2 In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 3.9 The student is able to construct an explanation, using visual representations or narratives, as to how DNA in chromosomes is transmitted to the next generation via mitosis, or meiosis followed by fertilization." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
-<tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<tbody><row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>5.1 Meiosis</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.1.A Explain how meiosis results in the transmission of chromosomes from one generation to the next.
 </entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.2</emphasis></span>
-<span class="ost-standards-description">In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch11-s01-aplo-3-9">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.1.A.1 Meiosis is a process that ensures the formation of haploid gamete cells, sometimes referred to as daughter cells, in sexually reproducing diploid organisms.
 </entry>
-<entry><span class="ost-standards-name"><emphasis>3.9</emphasis></span>
-<span class="ost-standards-description">The student is able to construct an explanation, using visual representations or narratives, as to how DNA in chromosomes is transmitted to the next generation via mitosis, or meiosis followed by fertilization.</span>
-</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.1.A.2 Meiosis I involves the following steps:<newline/>
+i. Prophase I: Homologous chromosomes pair up and condense, synapsis occurs and then chiasmata may form, meiotic spindle begins to form, centrosomes move to the opposite poles of the cell, and the nuclear envelope  breaks down.<newline/>
+ii.  Metaphase I: Meiotic spindle fibers align homologous pairs of chromosomes along the equator of the cell at the metaphase plate.<newline/>
+iii. Anaphase I: Homologous chromosomes separate, while sister chromatids remain attached, as meiotic spindle fibers pull chromosomes toward poles.<newline/>
+iv. Telophase I: Meiotic spindle breaks down, a new nuclear envelope develops, a cleavage furrow (animal cell) or cell plate (plant cell) forms, and cytokinesis occurs. Two haploid daughter cells are formed (at the end of meiosis I).</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.1.A.3 Meiosis II involves the following steps:<newline/>
+i. Prophase II: Meiotic spindle forms; sister chromatids connected at the centromere attach to meiotic spindle.<newline/>
+ii. Metaphase II: Chromosomes align along the metaphase plate; the kinetochore of each chromatid is attached to a microtubule extending from the poles.<newline/>
+iii. Anaphase II: Proteins at the centromeres break down, and sister chromatids are pulled apart and toward opposite poles in the cell.<newline/>
+iv.  Telophase II: Meiotic spindle breaks down, a new nuclear envelope develops, a cleavage furrow (animal cell) or a cell plate (plant cell) forms, chromatids begin to decondense, and cytokinesis occurs. Four haploid daughter cells are formed, each with an unduplicated chromatid.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.1.B Describe similarities and differences between the phases and outcomes of mitosis and meiosis.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.1.B.1 Mitosis and meiosis are similar in the use of a spindle apparatus to move chromosomes but differ in the number of cells produced and the genetic content of the daughter cells.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.B Concept Explanation- Explain biological concepts and processes.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.2</emphasis></span>
-<span class="ost-standards-description">In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.1</emphasis></span>
-<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch11-s01-aplo-3-10">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>3.10</emphasis></span>
-<span class="ost-standards-description">The student is able to represent the connection between meiosis and increased genetic diversity necessary for evolution.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>5.2 Meiosis and Genetic Diversity</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.2.A Explain how the process of meiosis generates genetic diversity.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.2.A.1 Correct separation of the homologous chromosomes in meiosis I and sister chromatids in meiosis II ensures that each gamete receives a haploid (1n) set of chromosomes that comprises an assortment of both maternal and paternal chromosomes. When incorrect separation occurs (nondisjunction), gametes are no longer haploid.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.2.A.2 During prophase I of meiosis, non-sister chromatids exchange genetic material via a process called crossing over (recombination), which increases genetic diversity among the resultant gametes.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.2.A.3 Sexual reproduction in eukaryotes increases genetic variation, including crossing over, random assortment of chromosomes during meiosis, and subsequent fertilization of gametes.<newline/>
+
+Exclusion statement-  Knowledge of the details of  sexual reproduction cycles in various plants and animals is beyond the scope of the AP<sup>®</sup> Exam. </entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>3.A Questions and Methods- Identify or pose a testable question based on an observation, data, or a model.</entry>
 </row>
 </tbody>
-
-
 </tgroup>
-</table><para id="fs-id1166849868652">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 1.9][APLO 2.15][APLO 2.39][APLO 3.11][APLO 3.9]</para></section>
+</table><para id="fs-id1166849868652">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
 
 <note id="fs-id1167063567822" class="os-teacher">
 <label>Teacher Support</label>
@@ -99,12 +120,12 @@
 <para id="fs-id1167067102424">Comparing meiosis and mitosis should be a review of the two processes, with a reinforcement of the similarities and differences.</para>
 </note>
 
-<section id="fs-id1167066835423" class="ost-tag-lo-apbio-ch11-s01-lo01 ost-tag-lo-apbio-ch11-s01-lo04 ost-tag-lo-apbio-ch11-s01-aplo-3-9 ost-get-exercise">
+<section id="fs-id1167066835423" class="ost-tag-lo-apbio-ch11-s01-lo01 ost-tag-lo-apbio-ch11-s01-lo04 ost-tag-lo-apbio-ch11-s01-aplo-3-9">
 <title>Meiosis I</title>
 <para id="fs-id1419274">Meiosis is preceded by an interphase consisting of the G<sub>1</sub>, S, and G<sub>2</sub> phases, which are nearly identical to the phases preceding mitosis. The G<sub>1</sub> phase, which is also called the first gap phase, is the first phase of the interphase and is focused on cell growth. The S phase is the second phase of interphase, during which the DNA of the chromosomes is replicated. Finally, the G<sub>2</sub> phase, also called the second gap phase, is the third and final phase of interphase; in this phase, the cell undergoes the final preparations for meiosis.</para>
 <para id="fs-id1267021">During DNA duplication in the S phase, each chromosome is replicated to produce two identical copies, called sister chromatids, that are held together at the centromere by <term id="term-00006">cohesin</term> proteins. Cohesin holds the chromatids together until anaphase II. The centrosomes, which are the structures that organize the microtubules of the meiotic spindle, also replicate. This prepares the cell to enter prophase I, the first meiotic phase.</para>
 
-<section id="fs-id1167066955844" class="ost-tag-lo-apbio-ch11-s01-aplo-3-10 ost-tag-lo-apbio-ch11-s01-aplo-3-28 ost-get-exercise">
+<section id="fs-id1167066955844" class="ost-tag-lo-apbio-ch11-s01-aplo-3-10 ost-tag-lo-apbio-ch11-s01-aplo-3-28">
 <title>Prophase I</title>
 <para id="fs-id1340707">Early in prophase I, before the chromosomes can be seen clearly microscopically, the homologous chromosomes are attached at their tips to the nuclear envelope by proteins. As the nuclear envelope begins to break down, the proteins associated with homologous chromosomes bring the pair close to each other.  Recall that, in mitosis, homologous chromosomes do not pair together. In mitosis, homologous chromosomes line up end-to-end so that when they divide, each daughter cell receives a sister chromatid from both members of the homologous pair. The <term id="term-00007">synaptonemal complex</term>, a lattice of proteins between the homologous chromosomes, first forms at specific locations and then spreads to cover the entire length of the chromosomes. The tight pairing of the homologous chromosomes is called <term id="term-00008">synapsis</term>. In synapsis, the genes on the chromatids of the homologous chromosomes are aligned precisely with each other. The synaptonemal complex supports the exchange of chromosomal segments between non-sister homologous chromatids, a process called crossing over. Crossing over can be observed visually after the exchange as <term id="term-00009">chiasmata</term> (singular = chiasma) (<link target-id="fig-ch11-01-01"/>).</para><para id="fs-id1668056">In species such as humans, even though the X and Y sex chromosomes are not homologous (most of their genes differ), they have a small region of homology that allows the X and Y chromosomes to pair up during prophase I. A partial synaptonemal complex develops only between the regions of homology.</para>
 <figure id="fig-ch11-01-01" class="ost-tag-lo-apbio-ch11-s01-lo01 ost-tag-lo-apbio-ch11-s01-aplo-3-10"><media id="fs-id1645403" alt="This illustration depicts two pairs of sister chromatids joined together to form homologous chromosomes. The chromatids are pinched together at the centromere and held together by the kinetochore. A protein lattice called a synaptonemal complex fuses the homologous chromosomes together along their entire length.">
@@ -118,10 +139,10 @@
 </media>
 
 <caption>Crossover occurs between non-sister chromatids of homologous chromosomes. The result is an exchange of genetic material between homologous chromosomes.</caption></figure></section>
-<section id="fs-id1662346" class="ost-get-exercise">
+<section id="fs-id1662346" class="">
 <title>Prometaphase I</title>
 <para id="fs-id1461481">The key event in prometaphase I is the attachment of the spindle fiber microtubules to the kinetochore proteins at the centromeres. Kinetochore proteins are multiprotein complexes that bind the centromeres of a chromosome to the microtubules of the mitotic spindle. Microtubules grow from centrosomes placed at opposite poles of the cell. The microtubules move toward the middle of the cell and attach to one of the two fused homologous chromosomes. The microtubules attach at each chromosomes' kinetochores. With each member of the homologous pair attached to opposite poles of the cell, in the next phase, the microtubules can pull the homologous pair apart. A spindle fiber that has attached to a kinetochore is called a kinetochore microtubule. At the end of prometaphase I, each tetrad is attached to microtubules from both poles, with one homologous chromosome facing each pole. The homologous chromosomes are still held together at chiasmata. In addition, the nuclear membrane has broken down entirely.</para></section>
-<section id="fs-id1195147" class="ost-tag-lo-apbio-ch11-s01-aplo-3-10 ost-tag-lo-apbio-ch11-s01-aplo-3-28 ost-get-exercise">
+<section id="fs-id1195147" class="ost-tag-lo-apbio-ch11-s01-aplo-3-10 ost-tag-lo-apbio-ch11-s01-aplo-3-28">
 <title>Metaphase I</title>
 <para id="fs-id1417670">During metaphase I, the homologous chromosomes are arranged in the center of the cell with the kinetochores facing opposite poles.  The homologous pairs orient themselves randomly at the equator. For example, if the two homologous members of chromosome 1 are labeled a and b, then the chromosomes could line up a-b, or b-a. This is important in determining the genes carried by a gamete, as each will only receive one of the two homologous chromosomes. Recall that homologous chromosomes are not identical. They contain slight differences in their genetic information, causing each gamete to have a unique genetic makeup.</para><para id="fs-id1953443">This randomness is the physical basis for the creation of the second form of genetic variation in offspring. Consider that the homologous chromosomes of a sexually reproducing organism are originally inherited as two separate sets, one from each parent. Using humans as an example, one set of 23 chromosomes is present in the egg donated by the mother. The father provides the other set of 23 chromosomes in the sperm that fertilizes the egg. Every cell of the multicellular offspring has copies of the original two sets of homologous chromosomes. In prophase I of meiosis, the homologous chromosomes form the tetrads. In metaphase I, these pairs line up at the midway point between the two poles of the cell to form the metaphase plate. Because there is an equal chance that a microtubule fiber will encounter a maternally or paternally inherited chromosome, the arrangement of the tetrads at the metaphase plate is random. Any maternally inherited chromosome may face either pole. Any paternally inherited chromosome may also face either pole. The orientation of each tetrad is independent of the orientation of the other 22 tetrads.</para>
 <para id="fs-id1311003">This event—the random (or independent) assortment of homologous chromosomes at the metaphase plate—is the second mechanism that introduces variation into the gametes or spores. In each cell that undergoes meiosis, the arrangement of the tetrads is different. The number of variations is dependent on the number of chromosomes making up a set. There are two possibilities for orientation at the metaphase plate; the possible number of alignments therefore equals 2<emphasis effect="italics">n</emphasis>, where <emphasis effect="italics">n</emphasis> is the number of chromosomes per set. Humans have 23 chromosome pairs, which results in over eight million (2<sup><emphasis effect="italics">23</emphasis></sup>) possible genetically-distinct gametes. This number does not include the variability that was previously created in the sister chromatids by crossover. Given these two mechanisms, it is highly unlikely that any two haploid cells resulting from meiosis will have the same genetic composition (<link target-id="fig-ch11-01-03"/>).</para><para id="fs-id1021412">To summarize the genetic consequences of meiosis I, the maternal and paternal genes are recombined by crossover events that occur between each homologous pair during prophase I. In addition, the random assortment of tetrads on the metaphase plate produces a unique combination of maternal and paternal chromosomes that will make their way into the gametes.</para>
@@ -130,11 +151,11 @@
 </media>
 
 <caption>Random, independent assortment during metaphase I can be demonstrated by considering a cell with a set of two chromosomes (<emphasis effect="italics">n</emphasis> = 2). In this case, there are two possible arrangements at the equatorial plane in metaphase I. The total possible number of different gametes is 2<emphasis effect="italics">n</emphasis>, where <emphasis effect="italics">n</emphasis> equals the number of chromosomes in a set. In this example, there are four possible genetic combinations for the gametes. With <emphasis effect="italics">n</emphasis> = 23 in human cells, there are over 8 million possible combinations of paternal and maternal chromosomes.</caption></figure></section>
-<section id="fs-id1463196" class="ost-get-exercise">
+<section id="fs-id1463196" class="">
 <title>Anaphase I</title>
 <para id="fs-id1969953">In anaphase I, the microtubules pull the linked chromosomes apart. The sister chromatids remain tightly bound together at the centromere. The chiasmata are broken in anaphase I as the microtubules attached to the fused kinetochores pull the homologous chromosomes apart (<link target-id="fig-ch11-01-04"/>).</para>
 </section>
-<section id="fs-id1458977" class="ost-get-exercise"><title>Telophase I and Cytokinesis</title><para id="fs-id1664445">In telophase, the separated chromosomes arrive at opposite poles. The remainder of the typical telophase events may or may not occur, depending on the species. In some organisms, the chromosomes decondense and nuclear envelopes form around the chromatids in telophase I. In other organisms, cytokinesis—the physical separation of the cytoplasmic components into two daughter cells—occurs without reformation of the nuclei. In nearly all species of animals and some fungi, cytokinesis separates the cell contents via a cleavage furrow (constriction of the actin ring that leads to cytoplasmic division). In plants, a cell plate is formed during cell cytokinesis by Golgi vesicles fusing at the metaphase plate. This cell plate will ultimately lead to the formation of cell walls that separate the two daughter cells.</para>
+<section id="fs-id1458977" class=""><title>Telophase I and Cytokinesis</title><para id="fs-id1664445">In telophase, the separated chromosomes arrive at opposite poles. The remainder of the typical telophase events may or may not occur, depending on the species. In some organisms, the chromosomes decondense and nuclear envelopes form around the chromatids in telophase I. In other organisms, cytokinesis—the physical separation of the cytoplasmic components into two daughter cells—occurs without reformation of the nuclei. In nearly all species of animals and some fungi, cytokinesis separates the cell contents via a cleavage furrow (constriction of the actin ring that leads to cytoplasmic division). In plants, a cell plate is formed during cell cytokinesis by Golgi vesicles fusing at the metaphase plate. This cell plate will ultimately lead to the formation of cell walls that separate the two daughter cells.</para>
 <para id="fs-id1321580">Two haploid cells are the end result of the first meiotic division. The cells are haploid because at each pole, there is just one of each pair of the homologous chromosomes. Therefore, only one full set of the chromosomes is present. This is why the cells are considered haploid—there is only one chromosome set, even though each homolog still consists of two sister chromatids.  Recall that sister chromatids are merely duplicates of one of the two homologous chromosomes (except for changes that occurred during crossing over). In meiosis II, these two sister chromatids will separate, creating four haploid daughter cells. </para>
 <note id="fs-id1340075" class="interactive ost-tag-lo-apbio-ch11-s01-lo01 ost-tag-lo-apbio-ch11-s01-aplo-3-9 ost-assessed-feature"><label>Link to Learning</label>
 
@@ -149,28 +170,28 @@
 </exercise>
 </note></section></section>
 
-<section id="fs-id1459778" class="ost-tag-lo-apbio-ch11-s01-lo01 ost-tag-lo-apbio-ch11-s01-lo04 ost-tag-lo-apbio-ch11-s01-aplo-3-9 ost-get-exercise"><title>Meiosis II</title>
-<para id="fs-id1447227">In some species, cells enter a brief interphase, or <term id="term-00013">interkinesis</term>, before entering meiosis II. Interkinesis lacks an S phase, so chromosomes are not duplicated. The two cells produced in meiosis I go through the events of meiosis II in synchrony. During meiosis II, the sister chromatids within the two daughter cells separate, forming four new haploid gametes. The mechanics of meiosis II is similar to mitosis, except that each dividing cell has only one set of homologous chromosomes. Therefore, each cell has half the number of sister chromatids to separate out as a diploid cell undergoing mitosis.</para><section id="fs-id1357838" class="ost-get-exercise">
+<section id="fs-id1459778" class="ost-tag-lo-apbio-ch11-s01-lo01 ost-tag-lo-apbio-ch11-s01-lo04 ost-tag-lo-apbio-ch11-s01-aplo-3-9"><title>Meiosis II</title>
+<para id="fs-id1447227">In some species, cells enter a brief interphase, or <term id="term-00013">interkinesis</term>, before entering meiosis II. Interkinesis lacks an S phase, so chromosomes are not duplicated. The two cells produced in meiosis I go through the events of meiosis II in synchrony. During meiosis II, the sister chromatids within the two daughter cells separate, forming four new haploid gametes. The mechanics of meiosis II is similar to mitosis, except that each dividing cell has only one set of homologous chromosomes. Therefore, each cell has half the number of sister chromatids to separate out as a diploid cell undergoing mitosis.</para><section id="fs-id1357838" class="">
 <title>Prophase II</title>
 <para id="fs-id1371327">If the chromosomes decondensed in telophase I, they condense again. If nuclear envelopes were formed, they fragment into vesicles. The centrosomes that were duplicated during interkinesis move away from each other toward opposite poles, and new spindles are formed.</para>
 </section>
-<section id="fs-id1300636" class="ost-get-exercise">
+<section id="fs-id1300636" class="">
 <title>Prometaphase II</title>
 <para id="fs-id1461181">The nuclear envelopes are completely broken down, and the spindle is fully formed. Each sister chromatid forms an individual kinetochore that attaches to microtubules from opposite poles.</para>
 </section>
-<section id="fs-id806351" class="ost-get-exercise">
+<section id="fs-id806351" class="">
 <title>Metaphase II</title>
 <para id="fs-id1416911">The sister chromatids are maximally condensed and aligned at the equator of the cell.</para>
 </section>
-<section id="fs-id1220173" class="ost-get-exercise">
+<section id="fs-id1220173" class="">
 <title>Anaphase II</title>
 <para id="fs-id1488854">The sister chromatids are pulled apart by the kinetochore microtubules and move toward opposite poles. Non-kinetochore microtubules elongate the cell.</para>
-<figure id="fig-ch11-01-04" class="ost-tag-lo-apbio-ch11-s01-lo01 ost-tag-lo-apbio-ch11-s01-lo04 ost-tag-lo-apbio-ch11-s01-aplo-3-9 "><media id="fs-id1249298" alt="This illustration compares chromosome alignment in meiosis I and meiosis II. In prometaphase I, homologous pairs of chromosomes are held together by chiasmata. In anaphase I, the homologous pair separates and the connections at the chiasmata are broken, but the sister chromatids remain attached at the centromere. In prometaphase II, the sister chromatids are held together at the centromere. In anaphase II, the centromere connections are broken and the sister chromatids separate.">
+<figure id="fig-ch11-01-04" class="ost-tag-lo-apbio-ch11-s01-lo01 ost-tag-lo-apbio-ch11-s01-lo04 ost-tag-lo-apbio-ch11-s01-aplo-3-9"><media id="fs-id1249298" alt="This illustration compares chromosome alignment in meiosis I and meiosis II. In prometaphase I, homologous pairs of chromosomes are held together by chiasmata. In anaphase I, the homologous pair separates and the connections at the chiasmata are broken, but the sister chromatids remain attached at the centromere. In prometaphase II, the sister chromatids are held together at the centromere. In anaphase II, the centromere connections are broken and the sister chromatids separate.">
 <image mime-type="image/jpg" src="../../media/Figure_11_01_04.jpg" width="550"/>
 </media>
 
 <caption>The process of chromosome alignment differs between meiosis I and meiosis II. In prometaphase I, microtubules attach to the fused kinetochores of homologous chromosomes, and the homologous chromosomes are arranged at the midpoint of the cell in metaphase I. In anaphase I, the homologous chromosomes are separated. In prometaphase II, microtubules attach to the kinetochores of sister chromatids, and the sister chromatids are arranged at the midpoint of the cells in metaphase II. In anaphase II, the sister chromatids are separated.</caption></figure></section>
-<section id="fs-id1470624" class="ost-get-exercise">
+<section id="fs-id1470624" class="">
 <title>Telophase II and Cytokinesis</title>
 <para id="fs-id1282360">The chromosomes arrive at opposite poles and begin to decondense. Nuclear envelopes form around the chromosomes. Cytokinesis separates the two cells into four unique haploid cells. At this point, the newly formed nuclei are both haploid. The cells produced are genetically unique because of the random assortment of paternal and maternal homologs and because of the recombining of maternal and paternal segments of chromosomes (with their sets of genes) that occurs during crossover. The entire process of meiosis is outlined in <link target-id="fig-ch11-01-05"/>.</para>
 <figure id="fig-ch11-01-05" class="ost-tag-lo-apbio-ch11-s01-lo02 ost-tag-lo-apbio-ch11-s01-aplo-3-10 ost-tag-lo-apbio-ch11-s01-aplo-3-28"><media id="fs-id1848286" alt="This illustration outlines the stages of meiosis. In interphase, before meiosis begins, the chromosomes are duplicated. Meiosis I then proceeds through several stages. In prophase I, the chromosomes begin to condense and the nuclear envelope fragments. Homologous pairs of chromosomes line up, and chiasmata form between them. Crossing over occurs at the chiasmata. Spindle fibers emerge from the centrosomes. In prometaphase I, homologous chromosomes attach to the spindle microtubules. In metaphase I, homologous chromosomes line up at the metaphase plate. In anaphase I, the spindle microtubules pull the homologous pairs of chromosomes apart. In telophase I and cytokinesis, the sister chromatids arrive at the poles of the cell and begin to decondense. The nuclear envelope begins to form again, and cell division occurs. Meiosis II then proceeds through several stages. In prophase II, the sister chromatids condense and the nuclear envelope fragments. A new spindle begins to form. In prometaphase II, the sister chromatids become attached to the kinetochore. In metaphase II, the sister chromatids line up at the metaphase plate. In anaphase II, the sister chromatids are pulled apart by the shortening spindles. In telophase II and cytokinesis, the nuclear envelope forms again and cell division occurs, resulting in four haploid daughter cells.">
@@ -179,7 +200,7 @@
 
 <caption>An animal cell with a diploid number of four (2<emphasis effect="italics">n </emphasis>= 4) proceeds through the stages of meiosis to form four haploid daughter cells.</caption></figure></section>
 </section>
-<section id="fs-id1267128" class="ost-tag-lo-apbio-ch11-s01-lo03 ost-tag-lo-apbio-ch11-s01-aplo-3-10 ost-get-exercise">
+<section id="fs-id1267128" class="ost-tag-lo-apbio-ch11-s01-lo03 ost-tag-lo-apbio-ch11-s01-aplo-3-10">
 <title>Comparing Meiosis and Mitosis</title>
 <para id="fs-id850564">Mitosis and meiosis are both forms of division of the nucleus in eukaryotic cells. They share some similarities, but also exhibit distinct differences that lead to very different outcomes (<link target-id="fig-ch11-01-06"/>). Mitosis is a single nuclear division that results in two nuclei that are usually partitioned into two new cells. The nuclei resulting from a mitotic division are genetically identical to the original nucleus. They have the same number of sets of chromosomes, one set in the case of haploid cells and two sets in the case of diploid cells. In most plants and all animal species, it is typically diploid cells that undergo mitosis to form new diploid cells. In contrast, meiosis consists of two nuclear divisions resulting in four nuclei that are usually partitioned into four new cells. The nuclei resulting from meiosis are not genetically identical and they contain one chromosome set only. This is half the number of chromosome sets in the original cell, which is diploid.</para>
 <para id="fs-id1322104">The main differences between mitosis and meiosis occur in meiosis I, which is a very different nuclear division than mitosis. In meiosis I, the homologous chromosome pairs become associated with each other, are bound together with the synaptonemal complex, develop chiasmata and undergo crossover between sister chromatids, and line up along the metaphase plate in tetrads with kinetochore fibers from opposite spindle poles attached to each kinetochore of a homolog in a tetrad. All of these events occur only in meiosis I.</para>

@@ -22,108 +22,53 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167062389883">Animals must be able to maintain homeostasis—the ability to maintain dynamic equilibrium around a set point—while also being able to respond to changing conditions. For example, as an endotherm, your body temperature remains fairly constant around 37◦C or 98.6◦F. If your temperature climbs above the set point, you sweat to cool off; if your temperature drops below the set point, you shiver to warm up. Your blood glucose levels also remain fairly constant because the liver removes glucose from the blood and converts it to glycogen; when the body cells require glucose, glycogen is broken down. (You can probably hypothesize how your liver will respond if you eat a dozen jelly donuts!) The failure to maintain homeostasis can be detrimental and can even cause death. Consequently, <emphasis>negative</emphasis> and/or <emphasis>positive feedback loops</emphasis> regulate homeostasis.</para>
 <para id="fs-id1167062405957" class="ost-reading-discard">Negative feedback mechanisms result in slight fluctuations above and below the set point. For example, if you were to consume a dozen jelly donuts, your blood sugar level would rise, and your pancreas would release insulin, a hormone involved in the conversion of glucose to glycogen, thus returning your blood glucose level to its appropriate set point. By comparison, <emphasis>positive feedback</emphasis> amplifies responses in the same direction, with the variable initiating the response moving the system even further away from the set point. There are fewer examples of positive feedback, but one is the onset of labor in childbirth when uterine contractions increase in strength with the secretion of oxytocin, another hormone. However, the loss of internal equilibrium due to positive feedback can be detrimental; for example, a small area of damaged heart tissue can precipitate a heart attack which, in turn, damages even more cardiac muscle.</para>
-<para id="fs-id1167064791877" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 of the AP Biology® Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven Science Practices.</para>
+<para id="fs-id1167064791877" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 3.5 and 4.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167064648322" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.C.1 Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes. Second left cell reads: Science Practice. Second right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Third left cell reads: Learning Objective. Third right cell reads: 2.16 The student is able to connect how organisms use negative feedback to maintain their internal environments." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.C</emphasis></entry>
-<entry class="ost-standards-description">Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-16">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.16 </emphasis></span>
-<span class="ost-standards-description">The student is able to connect how organisms use negative feedback to maintain their internal environments.</span>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>3.5 Cellular Respiration</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>3.5.A Describe the processes and structural features of mitochondria that allow organisms to use energy stored in biological macromolecules.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.5.A.3 The ETC transfers electrons in a series of oxidation-reduction reactions that establish an electrochemical gradient across membranes.
+iv. In aerobic cellular respiration, decoupling oxidative phosphorylation from electron transport generates heat. This heat can be used by endothermic organisms to regulate body temperature.
+
+Exclusion statement-Specific steps, names of enzymes, and intermediates of the pathways for these processes are beyond the scope of this course and the AP<sup>®</sup> Exam.
 </entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-5-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-17">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.17 </emphasis></span>
-<span class="ost-standards-description">The student is able to evaluate data that show the effect(s) of changes in concentrations of key molecules on negative feedback mechanisms.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>4.A Representing and Describing Data- Construct a graph to represent the data, including: x-y graphs (bar, histogram, line, log scale, dual y), scatter plot, box and whisker plot, and pie chart. The graph should include the following components:<newline/>
+i. Type of graph appropriate for the data<newline/>
+ii. Axis labeling, including appropriate units and legend<newline/>
+iii. Scaling<newline/>
+iv. Accurately plotted data (including error bars when appropriate)<newline/>
+v. trend line (when appropriate)</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-18">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.18 </emphasis></span>
-<span class="ost-standards-description">The student is able to make predictions about how organisms use negative feedback mechanisms to maintain their international environments.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>4.4 Feedback</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.4.A Explain how positive and negative feedback helps maintain homeostasis</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-19">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.19 </emphasis></span>
-<span class="ost-standards-description">The student is able to make predictions about how positive feedback mechanisms amplify activities and processes in organisms based on scientific theories and models.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.4.A.1 Organisms use feedback mechanisms to maintain their internal environments in response to internal and external changes.<newline/>
+i. Negative feedback mechanisms maintain homeostasis by reducing the initial stimulus to regulate physiological processes. If a system is perturbed or disrupted, negative feedback mechanisms return the system back to its target setpoint. These processes operate at the molecular, cellular, and organismal levels.<newline/>
+ii. Positive feedback mechanisms amplify responses and processes in biological organisms. The variable initiating the response is moved further away from the initial set point. Amplification occurs when the stimulus is further intensified, which, in turn, initiates an additional response that produces system change.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.1 </emphasis></span>
-<span class="ost-standards-description">The student can justify claims with evidence.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-20">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.20 </emphasis></span>
-<span class="ost-standards-description">The student is able to justify that positive feedback mechanisms amplify responses in organisms.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
 </row>
 </tbody>
 
@@ -134,10 +79,10 @@
 </tgroup>
 </table></section>
 <para id="fs-idp55676512">Animal organs and organ systems constantly adjust to internal and external changes through a process called homeostasis (“steady state”). These changes might be in the level of glucose or calcium in blood or in external temperatures. Homeostasis means to maintain dynamic equilibrium in the body. It is dynamic because it is constantly adjusting to the changes that the body’s systems encounter. It is equilibrium because body functions are kept within specific ranges. Even an animal that is apparently inactive is maintaining this homeostatic equilibrium.</para>
-<section id="fs-idm72988560" class="ost-tag-lo-apbio-ch24-s03-lo01 ost-get-exercise">
+<section id="fs-idm72988560">
 <title>Homeostatic Process</title>
 <para id="fs-idp90311888">The goal of homeostasis is the maintenance of equilibrium around a point or value called a set point. While there are normal fluctuations from the set point, the body’s systems will usually attempt to go back to this point. A change in the internal or external environment is called a stimulus and is detected by a receptor; the response of the system is to adjust the deviation parameter toward the set point. For instance, if the body becomes too warm, adjustments are made to cool the animal. If the blood’s glucose rises after a meal, adjustments are made to lower the blood glucose level by getting the nutrient into tissues that need it or to store it for later use.</para></section>
-<section id="fs-idp78091184" class="ost-tag-lo-apbio-ch24-s03-lo02 ost-get-exercise">
+<section id="fs-idp78091184">
 <title>Control of Homeostasis</title>
 <para id="fs-idm41037936">When a change occurs in an animal’s environment, an adjustment must be made. The receptor senses the change in the environment, then sends a signal to the control center (in most cases, the brain) which in turn generates a response that is signaled to an effector. The effector is a muscle (that contracts or relaxes) or a gland that secretes. Homeostasis is maintained by negative feedback loops. Positive feedback loops actually push the organism further out of homeostasis, but may be necessary for life to occur. Homeostasis is controlled by the nervous and endocrine system of mammals.</para>
 <section id="fs-idp123894688" class="ost-tag-lo-apbio-ch24-s03-lo03 ost-tag-lo-apbio-ch24-s03-aplo-2-16 ost-tag-lo-apbio-ch24-s03-aplo-2-17 ost-tag-lo-apbio-ch24-s03-aplo-2-18">
@@ -166,7 +111,7 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-idp122812848" class="ost-tag-lo-apbio-ch24-s03-lo03">
+<section id="fs-idp122812848">
 <title>Set Point</title>
 <para id="fs-idp46548080">It is possible to adjust a system’s set point. When this happens, the feedback loop works to maintain the new setting. An example of this is blood pressure: over time, the normal or set point for blood pressure can increase as a result of continued increases in blood pressure. The body no longer recognizes the elevation as abnormal and no attempt is made to return to the lower set point. The result is the maintenance of an elevated blood pressure that can have harmful effects on the body. Medication can lower blood pressure and lower the set point in the system to a more healthy level. This is called a process of <emphasis>alteration</emphasis> of the set point in a feedback loop.</para>
 <para id="fs-idp51301552">Changes can be made in a group of body organ systems in order to maintain a set point in another system. This is called <emphasis>acclimatization</emphasis>. This occurs, for instance, when an animal migrates to a higher altitude than it is accustomed to. In order to adjust to the lower oxygen levels at the new altitude, the body increases the number of red blood cells circulating in the blood to ensure adequate oxygen delivery to the tissues. Another example of acclimatization is animals that have seasonal changes in their coats: a heavier coat in the winter ensures adequate heat retention, and a light coat in summer assists in keeping body temperature from rising to harmful levels.</para>
@@ -194,7 +139,7 @@
 <para id="fs-id1167064909960">Negative feedback loops maintain the levels of some variable near a set point. In diabetes, a rise in blood glucose does not signal the production of insulin, which would normally lower blood glucose back to the set point. The Think About It question is an application of AP<sup>®</sup> Learning Objective 2.16 and Science Practice 7.2 and Learning Objective 2.17 and Science Practice 5.3 because students are connecting negative feedback to the regulation of homeostasis and then, using blood sugar levels in humans as an example, explaining how a change in a negative feedback mechanism can have a deleterious effect.</para>
 </note>
 </section>
-<section id="fs-idm77157600" class="ost-tag-lo-apbio-ch24-s03-lo04 ost-get-exercise">
+<section id="fs-idm77157600">
 <title>Homeostasis: Thermoregulation</title>
 <para id="fs-idm95344448">Body temperature affects body activities. Generally, as body temperature rises, enzyme activity rises as well. For every ten degree centigrade rise in temperature, enzyme activity doubles, up to a point. Body proteins, including enzymes, begin to denature and lose their function with high heat (around 50<sup>o</sup>C for mammals). Enzyme activity will decrease by half for every ten degree centigrade drop in temperature, to the point of freezing, with a few exceptions. Some fish can withstand freezing solid and return to normal with thawing.</para>
 <note id="fs-idp31716480" class="interactive ost-tag-lo-apbio-ch24-s03-lo04 ost-assessed-feature"><label>Link to Learning</label>
@@ -208,9 +153,9 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-idm20890400" class="ost-tag-lo-apbio-ch24-s03-lo04 ost-get-exercise"><title>Endotherms and Ectotherms</title><para id="fs-idm10383264">
+<section id="fs-idm20890400"><title>Endotherms and Ectotherms</title><para id="fs-idm10383264">
 Animals can be divided into two groups: some maintain a constant body temperature in the face of differing environmental temperatures, while others have a body temperature that is the same as their environment and thus varies with the environment. Animals that rely on external temperatures to set their body temperature are ectotherms. This group has been called cold-blooded, but the term may not apply to an animal in the desert with a very warm body temperature. In contrast to ectotherms, poikilotherms are animals with constantly varying internal temperatures. An animal that maintains a constant body temperature in the face of environmental changes is called a homeotherm. Endotherms are animals that rely on internal sources for maintenance of relatively constant body temperature in varying environmental temperatures. These animals are able to maintain a level of metabolic activity in cooler external temperatures, which an ectotherm cannot due to differing enzyme levels of activity. It is worth mentioning that some ectotherms and poikilotherms have relatively constant body temperatures due to the constant environmental temperatures in their habitats. These animals are so-called ectothermic homeotherms, like some deep sea fish species.</para>
-<figure id="fig-ch33_03_03" class="ost-tag-lo-apbio-ch24-s03-lo04"><media id="fs-idm102598448" alt="Photo A shows the sun. Photo B shows a sweaty person. Photo C shows a lion with its mane blowing in the wind. Photo D shows a person holding a steaming hot drink.">
+<figure id="fig-ch33_03_03"><media id="fs-idm102598448" alt="Photo A shows the sun. Photo B shows a sweaty person. Photo C shows a lion with its mane blowing in the wind. Photo D shows a person holding a steaming hot drink.">
 <image mime-type="image/jpg" src="../../media/Figure_33_03_03.jpg" width="475"/>
 </media>
 <caption>Heat can be exchanged by four mechanisms: (a) radiation, (b) evaporation, (c) convection, or (d) conduction. (credit b: modification of work by “Kullez”/Flickr; credit c: modification of work by Chad Rosenthal; credit d: modification of work by “stacey.d”/Flickr)</caption></figure></section>
@@ -227,15 +172,15 @@ Animals can be divided into two groups: some maintain a constant body temperatur
 </para>
 </problem>
 </exercise>
-</note><section id="fs-idp78016032" class="ost-tag-lo-apbio-ch24-s03-lo04 ost-get-exercise">
+</note><section id="fs-idp78016032">
 <title>Heat Conservation and Dissipation</title><para id="fs-idp90314048">Animals conserve or dissipate heat in a variety of ways. In certain climates, endothermic animals have some form of insulation, such as fur, fat, feathers, or some combination thereof. Thick fur and feathers trap a layer of air that helps to provide thermal insulation. Polar bears and seals live and swim in a subfreezing environment and yet maintain a constant, warm, body temperature. The arctic fox, for example, uses its fluffy tail as extra insulation when it curls up to sleep in cold weather. Mammals have a residual effect from shivering and increased muscle activity: arrector pili muscles cause “goose bumps,” causing small hairs to stand up when the individual is cold; this has the intended effect of increasing body temperature. Mammals use layers of fat to achieve the same end. Loss of significant amounts of body fat will compromise an individual’s ability to conserve heat.</para>
 <para id="fs-idm92432784">Endotherms use their circulatory systems to help maintain body temperature. Vasodilation brings more blood and heat to the body surface, facilitating radiation and evaporative heat loss, which helps to cool the body. Vasoconstriction reduces blood flow in peripheral blood vessels, forcing blood toward the core and the vital organs found there, and conserving heat. Some animals have adaptations to their circulatory system that enable them to transfer heat from arteries to veins, warming blood returning to the heart. This is called a countercurrent heat exchange; it prevents the cold venous blood from cooling the heart and other internal organs. This adaptation can be shut down in some animals to prevent overheating the internal organs. The countercurrent adaptation is found in many animals, including dolphins, sharks, bony fish, bees, and hummingbirds. In contrast, similar adaptations can help cool endotherms when needed, such as dolphin flukes and elephant ears.</para>
 <para id="fs-idm52152832">Some ectothermic animals use changes in their behavior to help regulate body temperature. For example, a desert ectothermic animal may simply seek cooler areas during the hottest part of the day in the desert to keep from getting too warm. The same animals may climb onto rocks to capture heat during a cold desert night. Some animals seek water to aid evaporation in cooling them, as seen with reptiles. Other ectotherms use group activity such as the activity of bees to warm a hive to survive winter.</para>
 <para id="fs-idp157215920">Many animals, especially mammals, use metabolic waste heat as a heat source. When muscles are contracted, most of the energy from the ATP used in muscle actions is wasted energy that translates into heat. Severe cold elicits a shivering reflex that generates heat for the body. Many species also have a type of adipose tissue called brown fat that specializes in generating heat.</para>
 </section>
-<section id="fs-idm38804400" class="ost-tag-lo-apbio-ch24-s03-lo04 ost-get-exercise"><title>Neural Control of Thermoregulation</title><para id="fs-idp9246720">The nervous system is important to <emphasis>thermoregulation</emphasis>, as illustrated in <link target-id="fig-ch33_03_03"/>. The processes of homeostasis and temperature control are centered in the hypothalamus of the advanced animal brain.</para>
+<section id="fs-idm38804400"><title>Neural Control of Thermoregulation</title><para id="fs-idp9246720">The nervous system is important to <emphasis>thermoregulation</emphasis>, as illustrated in <link target-id="fig-ch33_03_03"/>. The processes of homeostasis and temperature control are centered in the hypothalamus of the advanced animal brain.</para>
 <note id="fs-idm96777840" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
-<para id="fs-idp126309200"><figure id="fig-ch33_03_04" class="ost-tag-lo-apbio-ch24-s03-lo04"><media id="fs-idm1656048" alt="Flow chart shows how normal body temperature is maintained. If the body temperature rises, blood vessels dilate, resulting in loss of heat to the environment. Sweat glands secrete fluid. As this fluid evaporates, heat is lost from the body. As a result, the body temperature falls to normal body temperature. If body temperature falls, blood vessels constrict so that heat is conserved. Sweat glands do not secrete fluid. Shivering (involuntary contraction of muscles) releases heat which warms the body. Heat is retained, and body temperature increases to normal.">
+<para id="fs-idp126309200"><figure id="fig-ch33_03_04"><media id="fs-idm1656048" alt="Flow chart shows how normal body temperature is maintained. If the body temperature rises, blood vessels dilate, resulting in loss of heat to the environment. Sweat glands secrete fluid. As this fluid evaporates, heat is lost from the body. As a result, the body temperature falls to normal body temperature. If body temperature falls, blood vessels constrict so that heat is conserved. Sweat glands do not secrete fluid. Shivering (involuntary contraction of muscles) releases heat which warms the body. Heat is retained, and body temperature increases to normal.">
 <image mime-type="image/png" src="../../media/Figure_33_03_04.png" width="380"/>
 </media>
 <caption>The body is able to regulate temperature in response to signals from the nervous system.</caption></figure></para>

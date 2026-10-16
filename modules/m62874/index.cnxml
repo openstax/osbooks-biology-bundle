@@ -22,91 +22,46 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167066097852">In prior chapters we explored how all organisms on Earth, extant and extinct, evolved from common ancestry. Supporting this claim are core features and processes, such as a common genetic code and metabolic pathways, which evolved billions of years ago and are widely distributed among organisms living today. The evolutionary history and relationship of an organism or a group of organisms is called <emphasis>phylogeny</emphasis>. Scientists often construct <emphasis>phylogenetic trees</emphasis> based on evidence drawn from multiple disciplines to illustrate evolutionary pathways and connections among organisms.</para>
 <para id="fs-id1167065839074" class="ost-reading-discard">Scientists historically organized Earth’s millions of species into a hierarchical <emphasis>taxonomic classification system</emphasis> from the most inclusive category to the most specific: domain, kingdom, phylum, class, order, family, genus, and species. The traditional five-kingdom system that you might have studied in middle school was expanded (and reorganized) to include three domains: Bacteria, Archaea, and Eukarya, with prokaryotes divided between Bacteria or Archaea depending on their molecular genetic machinery, and protists, fungi, plants, and animals grouped in Eukarya. Today, however, phylogenetic trees provide more specific information about evolutionary history and relationships among organisms. (For the purpose of AP<sup>®</sup>, you do not have to memorize the taxonomic levels. However, it is important to reiterate that taxonomy is a tool to organize the millions of organisms on Earth, similar to how items in a grocery store or mall shop are organized into different departments. Like new products, organisms are often shifted among their taxonomic groups!)</para>
-<para id="fs-id1167065854748" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167065854748" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 7.9 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167062410746" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Learning Objective. Third right cell reads: 1.14 The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insights into the history of life on Earth." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
-<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s01-aplo-1-14">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.14 </emphasis></span>
-<span class="ost-standards-description">The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insight into the history of life on Earth.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.9 Phylogeny</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.9.A Describe the types of evidence that can be used to infer an evolutionary relationship.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s01-aplo-1-15">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.15 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.9.A.1 Phylogenetic trees and cladograms show hypothetical evolutionary relationships among lineages that can be tested.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.9.A.2 Phylogenetic trees show the amount of change over time calibrated by fossils or a molecular clock, whereas cladograms do not show time scale or the evolutionary difference between groups.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.9.B Explain how phylogenetic trees and cladograms can be used to infer evolutionary relatedness.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.9.B.1 Phylogenetic trees and cladograms can be used to illustrate speciation that has occurred. The nodes on a tree represent the most common ancestor of any two groups or lineages.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.9.B.3 Phylogenetic trees and cladograms represent hypotheses that are constantly being revised based on evidence.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.D Visual Representations- Represent relationships within biological models, including mathematical models, diagrams, flowcharts, and systems.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.1 </emphasis></span>
-<span class="ost-standards-description">The student can justify claims with evidence.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s01-aplo-1-16">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.16 </emphasis></span>
-<span class="ost-standards-description">The student is able to justify the scientific claim that organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry>
-</row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.2 </emphasis></span>
-<span class="ost-standards-description">Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s01-aplo-1-17">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.17 </emphasis></span>
-<span class="ost-standards-description">The student is able to pose scientific questions about a group of organisms whose relatedness is described by a phylogenetic tree or cladogram.</span>
-</entry>
-</row>
 </tbody>
 
 
@@ -114,8 +69,8 @@
 
 </tgroup>
 </table></section>
-<para id="fs-id1166851058565">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 1.20][APLO 1.26]</para><section id="fs-idm3522544" class="ost-tag-lo-apbio-ch20-s01-lo02 ost-tag-lo-apbio-ch20-s01-lo04 ost-tag-lo-apbio-ch20-s01-aplo-1-17 ost-tag-lo-apbio-ch20-s01-aplo-1-15 ost-get-exercise">
+<para id="fs-id1166851058565">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
+<section id="fs-idm3522544" class="ost-tag-lo-apbio-ch20-s01-lo02 ost-tag-lo-apbio-ch20-s01-lo04 ost-tag-lo-apbio-ch20-s01-aplo-1-17 ost-tag-lo-apbio-ch20-s01-aplo-1-15">
 <title>Phylogenetic Trees</title>
 <para id="fs-idp113710944">Scientists use a tool called a phylogenetic tree to show the evolutionary pathways and connections among organisms. A phylogenetic tree is a diagram used to reflect evolutionary relationships among organisms or groups of organisms. Scientists consider phylogenetic trees to be a hypothesis of the evolutionary past since one cannot go back to confirm the proposed relationships. In other words, a “tree of life” can be constructed to illustrate when different organisms evolved and to show the relationships among different organisms (<link target-id="fig-ch20_01_01"/>).</para>
 <para id="fs-idm25303200">Unlike a taxonomic classification diagram, a phylogenetic tree can be read like a map of evolutionary history. Many phylogenetic trees have a single lineage at the base representing a common ancestor. Scientists call such trees <emphasis>rooted</emphasis>, which means there is a single ancestral lineage (typically drawn from the bottom or left) to which all organisms represented in the diagram relate. Notice in the rooted phylogenetic tree that the three domains— Bacteria, Archaea, and Eukarya—diverge from a single point and branch off. The small branch that plants and animals (including humans) occupy in this diagram shows how recent and miniscule these groups are compared with other organisms. Unrooted trees don’t show a common ancestor but do show relationships among species.</para>
@@ -124,7 +79,7 @@
 </media>
 
 <caption>Both of these phylogenetic trees shows the relationship of the three domains of life—Bacteria, Archaea, and Eukarya—but the (a) rooted tree attempts to identify when various species diverged from a common ancestor while the (b) unrooted tree does not. (credit a: modification of work by Eric Gaba)</caption></figure><para id="fs-idp19669120">In a rooted tree, the branching indicates evolutionary relationships (<link target-id="fig-ch20_01_02"/>). The point where a split occurs, called a <emphasis>branch point</emphasis>, represents where a single lineage evolved into a distinct new one. A lineage that evolved early from the root and remains unbranched is called <emphasis>basal taxon</emphasis>. When two lineages stem from the same branch point, they are called <emphasis>sister taxa</emphasis>. A branch with more than two lineages is called a <emphasis>polytomy</emphasis> and serves to illustrate where scientists have not definitively determined all of the relationships. It is important to note that although sister taxa and polytomy do share an ancestor, it does not mean that the groups of organisms split or evolved from each other. Organisms in two taxa may have split apart at a specific branch point, but neither taxa gave rise to the other.</para>
-<figure id="fig-ch20_01_02" class="ost-tag-lo-apbio-ch20-s01-lo014">
+<figure id="fig-ch20_01_02">
 <media id="fs-idp26223648" alt="Illustration shows a phylogenetic tree that starts at a root, indicating that all organisms on the tree share a common ancestor. Shortly after the root, the tree branches out. One branch gives rise to a single, basal lineage, and the other gives rise to all other organisms on the tree. The next branch forks at one point into four different lineages, an example of polytomy. The final branch gives rise to two lineages, an example of sister taxa.">
 <image mime-type="image/jpg" src="../../media/Figure_20_01_02.jpg" width="320"/>
 </media>
@@ -133,7 +88,7 @@
 <para id="fs-idp119151024">The diagrams above can serve as a pathway to understanding evolutionary history. The pathway can be traced from the origin of life to any individual species by navigating through the evolutionary branches between the two points.  Also, by starting with a single species and tracing back towards the "trunk" of the tree, one can discover that species' ancestors, as well as where lineages share a common ancestry. In addition, the tree can be used to study entire groups of organisms.</para><para id="fs-idp51522928">Another point to mention on phylogenetic tree structure is that rotation at branch points does not change the information. For example, if a branch point was rotated and the taxon order changed, this would not alter the information because the evolution of each taxon from the branch point was independent of the other.</para>
 <para id="fs-idp20620384">Many disciplines within the study of biology contribute to understanding how past and present life evolved over time; these disciplines together contribute to building, updating, and maintaining the “tree of life.” Information is used to organize and classify organisms based on evolutionary relationships in a scientific field called <emphasis>systematics</emphasis>. Data may be collected from fossils, from studying the structure of body parts or molecules used by an organism, and by DNA analysis. By combining data from many sources, scientists can put together the phylogeny of an organism; since phylogenetic trees are hypotheses, they will continue to change as new types of life are discovered and new information is learned.</para>
 </section>
-<section id="fs-idp66539744" class="ost-tag-lo-apbio-ch20-s01-aplo-1-16 ost-get-exercise">
+<section id="fs-idp66539744" class="ost-tag-lo-apbio-ch20-s01-aplo-1-16">
 <title>Limitations of Phylogenetic Trees</title>
 <para id="fs-idp15260000">It may be easy to assume that more closely related organisms look more alike, and while this is often the case, it is not always true. If two closely related lineages evolved under significantly varied surroundings or after the evolution of a major new adaptation, it is possible for the two groups to appear more different than other groups that are not as closely related. For example, the phylogenetic tree in <link target-id="fig-ch20_01_03"/> shows that lizards and rabbits both have amniotic eggs, whereas frogs do not; yet lizards and frogs appear more similar than lizards and rabbits.</para>
 <figure id="fig-ch20_01_03" class="ost-tag-lo-apbio-ch20-s01-lo03 ost-tag-lo-apbio-ch20-s01-aplo-1-17">
@@ -167,11 +122,11 @@
 <item>This question is an application of AP<sup>®</sup> Learning Objective 1.14 and Science Practice 3.1 and Learning Objective 1.17 and Science Practice 3.1 because students must pose questions about evolutionary history before they can answer them.</item>
 <item>Phylogenetic trees approximate the passing of time by the lengths of their branches. Longer branches mean that more time has passed since the organisms shared a common ancestor. Thus, a phylogenetic tree not only shows evolutionary relationships among organisms, but also how long ago the divergence from the common ancestor occurred.</item>
 </list></note></note>
-<section id="fs-idm96444544" class="ost-tag-lo-apbio-ch20-s01-lo02 ost-tag-lo-apbio-ch20-s01-lo03 ost-get-exercise">
+<section id="fs-idm96444544" class="ost-tag-lo-apbio-ch20-s01-lo02 ost-tag-lo-apbio-ch20-s01-lo03">
 <title>The Levels of Classification</title>
 <para id="fs-idp20465712"><emphasis>Taxonomy</emphasis> (which literally means “arrangement law”) is the science of classifying organisms to construct internationally shared classification systems with each organism placed into more and more inclusive groupings. Think about how a grocery store is organized. One large space is divided into departments, such as produce, dairy, and meats. Then each department further divides into aisles, then each aisle into categories and brands, and then finally a single product. This organization from larger to smaller, more specific categories is called a hierarchical system.</para>
 <para id="fs-idp56936704">The taxonomic classification system (also called the Linnaean system after its inventor, Carl Linnaeus, a Swedish botanist, zoologist, and physician) uses a hierarchical model. Moving from the point of origin, the groups become more specific, until one branch ends as a single species. For example, after the common beginning of all life, scientists divide organisms into three large categories called a domain: Bacteria, Archaea, and Eukarya. Within each domain is a second category called a <emphasis>kingdom</emphasis>. After kingdoms, the subsequent categories of increasing specificity are: <emphasis>phylum</emphasis>, <emphasis>class</emphasis>, <emphasis>order</emphasis>, <emphasis>family</emphasis>, <emphasis>genus</emphasis>, and <emphasis>species</emphasis> (<link target-id="CNX_AP_Bio_20_01_02ab"/>).</para>
-<figure id="CNX_AP_Bio_20_01_02ab" class="ost-tag-lo-apbio-ch20-s01-lo02"><media id="fs-idp58064352" alt="The illustration shows the classification of a dog, which belongs in the domain Eukarya, kingdom Animalia, phylum Chordata, class Mammalia, order Carnivora, family Canidae, genus Canis, species Canis lupus, and the subspecies is Canis lupus familiaris.">
+<figure id="CNX_AP_Bio_20_01_02ab"><media id="fs-idp58064352" alt="The illustration shows the classification of a dog, which belongs in the domain Eukarya, kingdom Animalia, phylum Chordata, class Mammalia, order Carnivora, family Canidae, genus Canis, species Canis lupus, and the subspecies is Canis lupus familiaris.">
 <image mime-type="image/jpg" src="../../media/CNX_AP_Bio_20_01_02ab.jpg"/>
 </media>
 

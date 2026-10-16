@@ -21,239 +21,41 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167063715313">To build phylogenetic trees, scientists must collect accurate information that allows them to make evolutionary connections among organisms. Using morphological and molecular data, scientists identify both homologous and analogous characteristics and genes. (In a prior chapter we explored the differences between homologous and analogous traits and how they relate to convergent and divergent evolution.) Similarities among organisms stem either from shared ancestral history (homologies) or from separate evolutionary paths (analogies). <emphasis>Cladograms</emphasis> are constructed by using shared derived traits to distinguish different groups of species from one another. For example, lizards, rabbits and humans all descended from a common ancestor that had an amniotic egg; thus, lizards, rabbits, and humans all belong to the same clade. Vertebrata is a larger clade that also includes fish, lamprey, and lancelets. The closer two species or groups are located to each on a phylogenetic tree or cladogram, they more recently they shared a common ancestor. With the influx of new information, scientists can revise phylogenetic trees; for example, computer programs, such as one called BLAST, which helps determine relatedness using DNA sequencing. Typically, a phylogenetic tree is constructed with the simplest explanation of evolutionary history (maximum <emphasis>parsimony</emphasis>) and the fewest number of evolutionary steps.</para>
 <para id="fs-id1167066959667" class="ost-reading-discard">Understanding phylogeny extends far beyond understanding the evolutionary history of species on Earth. For botanists, phylogeny acts as a guide to discovering new plants that can be used to make food, medicine, and clothing. For doctors, phylogenies provide information about the origin of diseases and how to treat them, for example, HIV/AIDS.</para>
-<para id="fs-id1167063524974" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167063524974" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 7.9 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.
+</para>
 <table id="fs-id1167067186221" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.A.4 Biological evolution is supported by scientific evidence from many disciplines, including mathematics. Second left cell reads: Science Practice. Second right cell reads: 5.3 The student can evaluate the evidence provided by data sets in relation to a particular scientific question. Third left cell reads: Learning Objective. Third right cell reads: 1.9 The student is able to evaluate evidence provided by data from many scientific disciplines that support biological evolution." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+  <row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.9 Phylogeny</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.9.A Describe the types of evidence that can be used to infer an evolutionary relationship.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.9.A.3 Traits that are either gained or lost during evolution can be used to construct phylogentis trees and cladograms. The out-group represents the lineage that is least closely related to the remainder of the organisms in the phylogenetic tree or cladogram.<newline/>
+i. Shared derived characters can be present in more than one lineage and indicate common ancestry.<newline/>
+ii. Molecular data typically provide more accurate and reliable evidence than morphological traits in the construction of phylogenetic trees or cladograms.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.9.B Explain how phylogenetic trees and cladograms can be used to infer to infer evolutionary relatedness.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.9.B.2 Phylogenetic trees and cladograms can be constructed from morphological similarities of living or fossil species and from DNA and protein sequence similarities</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.D Visual Representations- Represent relationships within biological models, including mathematical models, diagrams, flowcharts, and systems.</entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.A</emphasis></entry>
-<entry class="ost-standards-description">Change in the genetic makeup of a population over time is evolution.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.A.4 </emphasis></span>
-<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-9">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.9 </emphasis></span>
-<span class="ost-standards-description">The student is able to evaluate evidence provided by data from many scientific disciplines that support biological evolution.</span>
-</entry>
-</row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.A.4 </emphasis></span>
-<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.2 </emphasis></span>
-<span class="ost-standards-description">The student can refine observations and measurements based on data analysis.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-10">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.10 </emphasis></span>
-<span class="ost-standards-description">The student is able to refine evidence based on data from many scientific disciplines that support biological evolution.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.A.4 </emphasis></span>
-<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-4-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
-<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-11">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.11 </emphasis></span>
-<span class="ost-standards-description">The student is able to design a plan to answer scientific questions regarding how organisms have changed over time using information from morphology, biochemistry, and geology.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.A.4 </emphasis></span>
-<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
-<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-12">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.12 </emphasis></span>
-<span class="ost-standards-description">The student is able to connect scientific evidence from many scientific disciplines to support the modern concept of evolution.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.A.4 </emphasis></span>
-<span class="ost-standards-description">Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span></entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.1 </emphasis></span>
-<span class="ost-standards-description">The student can justify the selection of a mathematical routine to solve problems.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-13">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.13 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct and/or justify mathematical models, diagrams or simulations that represent processes of biological evolution.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
-<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-14">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.14 </emphasis></span>
-<span class="ost-standards-description">The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insight into the history of life on Earth.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-15">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.15 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.1 </emphasis></span>
-<span class="ost-standards-description">The student can justify claims with evidence.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-16">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.16 </emphasis></span>
-<span class="ost-standards-description">The student is able to justify the scientific claim that organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.2 </emphasis></span>
-<span class="ost-standards-description">Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-17">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.17 </emphasis></span>
-<span class="ost-standards-description">The student is able to pose scientific questions about a group of organisms whose relatedness is described by a phylogenetic tree or cladogram.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.2 </emphasis></span>
-<span class="ost-standards-description">Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-18">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.18 </emphasis></span>
-<span class="ost-standards-description">The student is able to evaluate evidence provided by a data set in conjunction with a phylogenetic tree or simple cladogram to determine evolutionary history and speciation.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.2 </emphasis></span>
-<span class="ost-standards-description">Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span></entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.1 </emphasis></span>
-<span class="ost-standards-description">The student can justify the selection of a mathematical routine to solve problems.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s02-aplo-1-19">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.19 </emphasis></span>
-<span class="ost-standards-description">The student is able to create a phylogenetic tree or simple cladogram that correctly represents evolutionary history and speciation from a provided data set.</span>
-</entry>
-</row>
 </tbody>
 
 
@@ -261,10 +63,9 @@
 
 </tgroup>
 </table></section>
-<para id="fs-id1166849933756">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 1.15][APLO 1.16][APLO 1.18][APLO 1.17][APLO 1.19][APLO 1.26]</para><section id="fs-idp96162000" class="ost-tag-lo-apbio-ch20-s02-lo01 ost-tag-lo-apbio-ch20-s02-aplo-1-9 ost-get-exercise">
+<para id="fs-id1166849933756">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para><section id="fs-idp96162000" class="ost-tag-lo-apbio-ch20-s02-lo01 ost-tag-lo-apbio-ch20-s02-aplo-1-9">
 <title>Two Options for Similarities</title>
-<para id="fs-idp56426176">In general, organisms that share similar physical features and genomes tend to be more closely related than those that do not. Such features that overlap both morphologically (in form) and genetically are referred to as homologous structures; they stem from developmental similarities that are based on evolution. For example, the bones in the wings of bats and birds have homologous structures. This is an example of morphological <term id="term-00001">homology</term> (<link target-id="fig-ch20_02_01"/>).</para><figure id="fig-ch20_02_01" class="ost-tag-lo-apbio-ch20-s02-lo01"><media id="fs-idp86426144" alt="Photo a shows a bird in flight with a corresponding drawing of a bird wing. Photo b is a bat in flight with a corresponding drawing of a bat wing. Both the bird wing and the bat wing share common bones, analogous to the bones in the arms and fingers of humans. However, in the bat wing, the finger bones are long and separate and form a scaffolding on which the wing’s membrane is stretched. In the bird wing, the finger bones are short and fused together at the front of the wing.">
+<para id="fs-idp56426176">In general, organisms that share similar physical features and genomes tend to be more closely related than those that do not. Such features that overlap both morphologically (in form) and genetically are referred to as homologous structures; they stem from developmental similarities that are based on evolution. For example, the bones in the wings of bats and birds have homologous structures. This is an example of morphological <term id="term-00001">homology</term> (<link target-id="fig-ch20_02_01"/>).</para><figure id="fig-ch20_02_01"><media id="fs-idp86426144" alt="Photo a shows a bird in flight with a corresponding drawing of a bird wing. Photo b is a bat in flight with a corresponding drawing of a bat wing. Both the bird wing and the bat wing share common bones, analogous to the bones in the arms and fingers of humans. However, in the bat wing, the finger bones are long and separate and form a scaffolding on which the wing’s membrane is stretched. In the bird wing, the finger bones are short and fused together at the front of the wing.">
 <image mime-type="image/jpg" src="../../media/Figure_20_02_01-5b8b.jpg" width="440"/>
 </media>
 
@@ -272,7 +73,7 @@
 <section id="fs-idm9365056">
 <title>Misleading Appearances</title>
 <para id="fs-idp88564512">Some organisms may be very closely related, even though a minor genetic change caused a major morphological difference to make them look quite different. Similarly, unrelated organisms may be distantly related, but appear very much alike. This usually happens because both organisms share common adaptations that evolved within similar environmental conditions. When similar characteristics occur because of environmental constraints and not due to a close evolutionary relationship, it is called an <emphasis>analogy</emphasis> or homoplasy. For example, insects use wings to fly like bats and birds, but the wing structure and embryonic origin is completely different. These are called analogous structures (<link target-id="fig-ch20_02_02abc"/>).</para><para id="fs-idp46122432">Similar traits can be either homologous or analogous. Homologous structures share a similar embryonic origin; analogous organs have a similar function. For example, the bones in the front flipper of a whale are homologous to the bones in the human arm. These structures are not analogous. The wings of a butterfly and the wings of a bird are analogous but not homologous. Some structures are both analogous and homologous: the wings of a bird and the wings of a bat are both homologous and analogous. Scientists must determine which type of similarity a feature exhibits to decipher the phylogeny of the organisms being studied.</para>
-<figure id="fig-ch20_02_02abc" class="ost-tag-lo-apbio-ch20-s02-lo01"><media id="fs-idp100913104" alt="Photo a shows a bat wing, photo b shows a bird wing, and photo c shows a honeybee wing, and all three are similar in overall shape. However, the bird wing and bat wing are both made from homologous bones that are similar in appearance. The honeybee wing is made of a thin, membranous material rather than bone.">
+<figure id="fig-ch20_02_02abc"><media id="fs-idp100913104" alt="Photo a shows a bat wing, photo b shows a bird wing, and photo c shows a honeybee wing, and all three are similar in overall shape. However, the bird wing and bat wing are both made from homologous bones that are similar in appearance. The honeybee wing is made of a thin, membranous material rather than bone.">
 <image mime-type="image/jpg" src="../../media/Figure_20_02_02-6526.jpg" width="450"/>
 </media>
 
@@ -312,11 +113,11 @@
 </note>
 </section>
 </section>
-<section id="fs-idp96526336" class="ost-tag-lo-apbio-ch20-s02-lo02 ost-tag-lo-apbio-ch20-s02-aplo-1-18 ost-tag-lo-apbio-ch20-s02-aplo-1-17 ost-get-exercise">
+<section id="fs-idp96526336" class="ost-tag-lo-apbio-ch20-s02-lo02 ost-tag-lo-apbio-ch20-s02-aplo-1-18 ost-tag-lo-apbio-ch20-s02-aplo-1-17">
 <title>Building Phylogenetic Trees</title>
 <para id="fs-idp47865664">How do scientists construct phylogenetic trees? After the homologous and analogous traits are sorted, scientists often organize the homologous traits using a system called <emphasis>cladistics</emphasis>. This system sorts organisms into clades: groups of organisms that descended from a single ancestor. For example, in <link target-id="fig-ch20_02_04"/>, all of the organisms in the orange region evolved from a single ancestor that had amniotic eggs. Consequently, all of these organisms also have amniotic eggs and make a single clade, also called a <emphasis>monophyletic group</emphasis>. Clades must include all of the descendants from a branch point.</para>
 <note id="fs-idp98199440" class="visual-connection ost-tag-lo-apbio-ch20-s02-aplo-1-11 ost-assessed-feature">
-<figure id="fig-ch20_02_04" class="ost-tag-lo-apbio-ch20-s02-lo02"><media id="fs-idp125310304" alt="The illustration shows the V-shaped Vertebrata clade, which includes lampreys, fish, lizards, rabbits, and humans. Lampreys are at the left tip of the V, and humans are at the right tip. Three more lines are drawn parallel to the lamprey line; each of these lines starts further up the right arm of the V than the last. At the end of each line, from left to right, are fish, lizards, and rabbits. Lizards, rabbits, and humans are in the clade Amniota, which form a small V nested in the upper right-hand corner of the V-shaped Vertebrata clade.">
+<figure id="fig-ch20_02_04"><media id="fs-idp125310304" alt="The illustration shows the V-shaped Vertebrata clade, which includes lampreys, fish, lizards, rabbits, and humans. Lampreys are at the left tip of the V, and humans are at the right tip. Three more lines are drawn parallel to the lamprey line; each of these lines starts further up the right arm of the V than the last. At the end of each line, from left to right, are fish, lizards, and rabbits. Lizards, rabbits, and humans are in the clade Amniota, which form a small V nested in the upper right-hand corner of the V-shaped Vertebrata clade.">
 <image mime-type="image/jpg" src="../../media/Figure_20_02_04-43b5.jpg"/>
 </media>
 
@@ -333,7 +134,7 @@
 </note>
 <para id="fs-idp86169680">Clades can vary in size depending on which branch point is being referenced. The important factor is that all of the organisms in the clade or monophyletic group stem from a single point on the tree. This can be remembered because monophyletic breaks down into “mono,” meaning one, and “phyletic,” meaning evolutionary relationship. <link target-id="fig-ch20_02_05"/> shows various examples of clades. Notice how each clade comes from a single point, whereas the non-clade groups show branches that do not share a single point.</para>
 <note id="fs-idp34398416" class="visual-connection ost-assessed-feature">
-<figure id="fig-ch20_02_05" class="ost-tag-lo-apbio-ch20-s02-lo02">
+<figure id="fig-ch20_02_05">
 <media id="fs-idp15258080" alt="Illustrations show a phylogenetic tree that includes eukaryotic species. A central line represents the trunk of the tree. From this trunk, various groups branch. In order from the bottom, these are diplomonads, microsporidia, trichomonads, flagellates, entamoebae, slime molds, and ciliates. At the top of the tree, animals, fungi and plants all branch from the same point and are shaded to show that they belong in the same clade. Flagellates are on a branch by themselves, and they also form their own clade and are shaded to show this. In another image, Flagellates and ciliates are shaded to show that they branch from different points on the tree and are not considered clades. Likewise, a grouping of animals and plants but not fungi would not be considered a clade. A clade cannot exclude a branch originating at the same point as the others.">
 <image mime-type="image/jpg" src="../../media/Figure_20_02_05.jpg" width="400"/>
 </media>

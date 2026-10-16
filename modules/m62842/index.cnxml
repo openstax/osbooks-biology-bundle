@@ -21,38 +21,79 @@
 
 <section id="fs-id1167067114788" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167063734399">Scientists discovered a strand of mRNA translated into a sequence of amino acids (polypeptide) shorter than the mRNA molecule transcribed from DNA. Before the information in eukaryotic mRNA is translated into protein, it is modified or edited in several ways. A 5′ methylguanosine (or GTP) cap and a 3′ poly-A tail are added to protect mature mRNA from degradation and allow its export from the nucleus. Pre-mRNAs also undergo splicing, in which introns are removed and exons are reconnected. Exons can be reconnected in different sequences, a phenomenon referred to as alternative gene splicing, which allows a single eukaryotic gene to code for different proteins. (We will explore the significance of alternative gene splicing in more detail in other chapters.)</para>
-<para id="fs-id1167066967764" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
+<para id="fs-id1167066967764" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 6.3, 7.7, and 7.12 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 
 <table id="fs-id1167067300251" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 6.5 The student can evaluate alternative scientific explanations. Third left cell reads: Learning Objective. Third right cell reads: 3.1 The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1</emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.5</emphasis></span>
-<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch15-s04-aplo-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
-<span class="ost-standards-description">The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>Transcription and RNA Processing</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.3.A Describe the mechanism by which genetic information flows from DNA to RNA to protein.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.3.A.1 The sequence of the RNA bases, together with the structure of the RNA molecule, determines RNA function.<newline/>
+ii. Distinct transfer RNA (tRNA) molecules bind specific amino acids and have anticodon sequences that base pair with the codons of mRNA. tRNA is recruited to the ribosome during translation to generate the primary peptide sequence based on the mRNA sequence.<newline/>
+iii. Ribosomal RNA (rRNA) molecules are functional building blocks of ribosomes.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.3.A.4 In eukaryotic cells the mRNA transcript undergoes a series of enzyme-mediated modifications.<newline/>
+i. The addition of a poly-A tail makes mRNA more stable.<newline/>
+ii. The addition of a GTP cap helps with ribosomal recognition.<newline/>
+iii. The excision of introns, along with the splicing and retention of exons, generates different versions of the resulting mature mRNA molecules. This process is known as alternative splicing.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.B Visual Representations- Explain relationships between characteristics of biological models in both theoretical and applied contexts.</entry>
+</row>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.7 Common Ancestry</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.7.A  Describe structural and functional evidence on cellular and molecular levels that provide evidence for the common ancestry of all eukaryotes.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.7.A.1 Structural and functional evidence indicates common ancestry of all eukaryotes. This evidence includes:<newline/>
+iii. Genes that contain introns</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
+</row>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>4. Systems Interactions: Biological systems interact, and these systems and their interactions exhibit complex properties.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.12 Origins of Life on Earth</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.12.A Describe the scientific evidence that supports models of the origin of life on Earth.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.12.A.2 The RNA world hypothesis proposes that RNA could have been the earliest genetic material. There are three assumptions:<newline/>
+i. At some point in time, genetic continuity was assured by the replication of RNA.<newline/>
+ii. Base-pairing is necessary for replication<newline/>
+iii. Genetically encoded proteins were not involved as catalysts.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>3.B Questions and Methods- State the null hypothesis or predict the results of an experiment.</entry>
 </row>
 </tbody>
-
 </tgroup>
 </table></section>
 <note id="fs-id1167067196917" class="os-teacher"><label>Teacher Support</label>
@@ -63,7 +104,7 @@
 </note>
 </note><para id="fs-id2263546">After transcription, eukaryotic pre-mRNAs must undergo several processing steps before they can be translated. Eukaryotic (and prokaryotic) tRNAs and rRNAs also undergo processing before they can function as components in the protein synthesis machinery.</para>
 
-<section id="fs-id1983488" class="ost-tag-lo-apbio-ch15-s04-lo01 ost-tag-lo-apbio-ch15-s04-aplo-3-1 ost-get-exercise">
+<section id="fs-id1983488" class="ost-tag-lo-apbio-ch15-s04-lo01 ost-tag-lo-apbio-ch15-s04-aplo-3-1">
 <title>mRNA Processing</title>
 <para id="fs-id2186668">The eukaryotic pre-mRNA undergoes extensive processing before it is ready to be translated. The additional steps involved in eukaryotic mRNA maturation create a molecule with a much longer half-life than a prokaryotic mRNA. Eukaryotic mRNAs last for several hours, whereas the typical <emphasis effect="italics">E. coli</emphasis> mRNA lasts no more than five seconds.</para>
 <para id="fs-id2262076">Pre-mRNAs are first coated in RNA-stabilizing proteins; these protect the pre-mRNA from degradation while it is processed and exported out of the nucleus. The three most important steps of pre-mRNA processing are the addition of stabilizing and signaling factors at the 5' and 3' ends of the molecule, and the removal of intervening sequences that do not specify the appropriate amino acids. In rare cases, the mRNA transcript can be “edited” after it is transcribed.</para>
@@ -82,17 +123,17 @@
 </para>
 </problem>
 </exercise>
-</note><section id="fs-id2349302" class="ost-tag-lo-apbio-ch15-s04-lo01 ost-tag-lo-apbio-ch15-s04-aplo-3-1 ost-get-exercise">
+</note><section id="fs-id2349302" class="ost-tag-lo-apbio-ch15-s04-lo01 ost-tag-lo-apbio-ch15-s04-aplo-3-1">
 <title>5' Capping</title>
 <para id="fs-id2196807">While the pre-mRNA is still being synthesized, a <term id="term-00002">7-methylguanosine cap</term> is added to the 5' end of the growing transcript by a phosphate linkage. This moiety (functional group) protects the nascent mRNA from degradation. In addition, factors involved in protein synthesis recognize the cap to help initiate translation by ribosomes.</para>
 </section>
 
-<section id="fs-id1422041" class="ost-tag-lo-apbio-ch15-s04-lo01 ost-tag-lo-apbio-ch15-s04-aplo-3-1 ost-get-exercise">
+<section id="fs-id1422041" class="ost-tag-lo-apbio-ch15-s04-lo01 ost-tag-lo-apbio-ch15-s04-aplo-3-1">
 <title>3' Poly-A Tail</title>
 <para id="fs-id2229067">Once elongation is complete, the pre-mRNA is cleaved by an endonuclease between an AAUAAA consensus sequence and a GU-rich sequence, leaving the AAUAAA sequence on the pre-mRNA. An enzyme called poly-A polymerase then adds a string of approximately 200 A residues, called the <term id="term-00003">poly-A tail</term>. This modification further protects the pre-mRNA from degradation and signals the export of the cellular factors that the transcript needs to the cytoplasm.</para>
 </section>
 
-<section id="fs-id2195071" class="ost-get-exercise">
+<section id="fs-id2195071" class="">
 <title>Pre-mRNA Splicing</title>
 <para id="fs-id2914078">Eukaryotic genes are composed of <term id="term-00004">exons</term>, which correspond to protein-coding sequences (<emphasis effect="italics">ex-</emphasis>on signifies that they are <emphasis effect="italics">ex</emphasis>pressed), and <emphasis effect="italics">int</emphasis>ervening sequences called <term id="term-00005">introns</term> (<emphasis effect="italics">int-</emphasis>ron denotes their <emphasis effect="italics">int</emphasis>ervening role), which may be involved in gene regulation but are removed from the pre-mRNA during processing. Intron sequences in mRNA do not encode functional proteins.</para>
 <para id="fs-id2098378">The discovery of introns came as a surprise to researchers in the 1970s who expected that pre-mRNAs would specify protein sequences without further processing, as they had observed in prokaryotes. The genes of higher eukaryotes very often contain one or more introns. These regions may correspond to regulatory sequences; however, the biological significance of having many introns or having very long introns in a gene is unclear. It is possible that introns slow down gene expression because it takes longer to transcribe pre-mRNAs with lots of introns. Alternatively, introns may be nonfunctional sequence remnants left over from the fusion of ancient genes throughout evolution. This is supported by the fact that separate exons often encode separate protein subunits or domains. For the most part, the sequences of introns can be mutated without ultimately affecting the protein product.</para>
@@ -127,7 +168,7 @@
 </note></section>
 </section>
 
-<section id="fs-id1650543" class="ost-tag-lo-apbio-ch15-s04-lo02 ost-tag-lo-apbio-ch15-s04-aplo-3-1 ost-get-exercise">
+<section id="fs-id1650543" class="ost-tag-lo-apbio-ch15-s04-lo02 ost-tag-lo-apbio-ch15-s04-aplo-3-1">
 <title>Processing of tRNAs and rRNAs</title>
 <para id="fs-id2644904">The tRNAs and rRNAs are structural molecules that have roles in protein synthesis; however, these RNAs are not themselves translated. Pre-rRNAs are transcribed, processed, and assembled into ribosomes in the nucleolus. Pre-tRNAs are transcribed and processed in the nucleus and then released into the cytoplasm where they are linked to free amino acids for protein synthesis.</para>
 <para id="fs-id2595368">Most of the tRNAs and rRNAs in eukaryotes and prokaryotes are first transcribed as a long precursor molecule that spans multiple rRNAs or tRNAs. Enzymes then cleave the precursors into subunits corresponding to each structural RNA. Some of the bases of pre-rRNAs are methylated; that is, a –CH<sub>3</sub> moiety (methyl functional group) is added for stability. Pre-tRNA molecules also undergo methylation. As with pre-mRNAs, subunit excision occurs in eukaryotic pre-RNAs destined to become tRNAs or rRNAs.</para>

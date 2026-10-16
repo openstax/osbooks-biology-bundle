@@ -22,108 +22,32 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167067107188">All living systems, from simple cells to complex ecosystems, require free energy to conduct cell processes such as growth and reproduction.</para>
 <para id="fs-id1167067006666" class="ost-reading-discard">Organisms have evolved various strategies to capture, store, transform, and transfer free energy. A cells metabolism refers to the chemical reactions that occur within it. Some metabolic reactions involve the breaking down of complex molecules into simpler ones with a release of energy (catabolism), whereas other metabolic reactions require energy to build complex molecules (anabolism). A central example of these pathways is the synthesis and breakdown of glucose.</para>
-<para id="fs-id1167067209971" class="ost-reading-discard">The content presented in this section supports the Learning Objectives outlined in Big Idea 1 and Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework listed below. The AP<sup>®</sup> Learning Objectives merge Essential Knowledge content with one or more of the seven Science Practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> exam questions.</para><table id="fs-id1167063526912" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Learning Objective. Third right cell reads: 1.14 The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insight into the history of life on Earth." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167067209971" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 3.3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para><table id="fs-id1167063526912" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Learning Objective. Third right cell reads: 1.14 The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insight into the history of life on Earth." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
-<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s01-aplo-1-14">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>1.14</emphasis></span>
-<span class="ost-standards-description">The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insight into the history of life on Earth.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>3.3 Cellular Energy</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>3.3.B Explain how shared, conserved, and fundamental processes and features support the concept of  common ancestry for all organisms.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2</emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s01-aplo-1-15">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>1.15</emphasis></span>
-<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.3.B.1 Core metabolic pathways (e.g. glycolysis, oxidative phosphorylation) are conserved across currently recognized domains (Archaea, Bacteria, and Eukarya).</entry>
 </row>
-
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.1</emphasis></span>
-<span class="ost-standards-description">The student can justify claims with evidence.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s01-aplo-1-16">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>1.16</emphasis></span>
-<span class="ost-standards-description">The student is able to justify the scientific claim that organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
-</row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.1 </emphasis></span>
-<span class="ost-standards-description">All living systems require a constant input of free energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch06-s01-aplo-2-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.1</emphasis></span>
-<span class="ost-standards-description">The student is able to explain how biological systems use free energy based on empirical data that all organisms require constant energy input to maintain organization, to grow and to reproduce.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.C Argumentation- Provide reasoning to justify a claim by connecting evidence to biological theories.</entry>
 </row>
 </tbody>
 
 
 </tgroup>
-</table><para id="fs-id1166849079597">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.1][APLO 2.3][APLO 4.3][APLO 4.15][APLO 4.17][APLO 2.21]</para></section>
+</table><para id="fs-id1166849079597">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
 
 <note id="fs-id1167067108238" class="os-teacher">
 <label>Teacher Support</label>
@@ -136,7 +60,7 @@
 <image mime-type="image/jpg" src="../../media/Figure_06_01_01.jpg" width="350"/>
 </media>
 <caption>Most life forms on earth get their energy from the sun. Plants use photosynthesis to capture sunlight, and herbivores eat those plants to obtain energy. Carnivores eat the herbivores, and decomposers digest plant and animal matter.</caption></figure>
-<section id="fs-id1380783" class="ost-get-exercise">
+<section id="fs-id1380783" class="">
 <title>Metabolism of Carbohydrates</title>
 <para id="fs-id2308681">The metabolism of sugar (a simple carbohydrate) is a classic example of the many cellular processes that use and produce energy. Living things consume sugar as a major energy source, because sugar molecules have a great deal of energy stored within their bonds. The breakdown of glucose, a simple sugar, is described by the equation:</para>
 <equation id="eip-942"><m:math display="block">
@@ -224,7 +148,7 @@
 <para id="fs-id1167067082791">Ask the students where the energy used for metabolism comes from. Have them trace the energy back to the plants and light energy that the plants convert to sugars. Begin to introduce the interactions between carbohydrate metabolism, lipids, and proteins. Ask them what the ultimate end of the energy is (heat).</para>
 </note>
 
-<section id="fs-id1167067232510" class="ost-tag-lo-apbio-ch06-s01-lo01 ost-get-exercise"><title>Metabolic Pathways</title><para id="fs-id1167067154374">The processes of making and breaking down sugar molecules illustrate two types of metabolic pathways. A metabolic pathway is a series of interconnected biochemical reactions that convert a substrate molecule or molecules, step-by-step, through a series of metabolic intermediates, eventually yielding a final product or products. In the case of sugar metabolism, the first metabolic pathway synthesized sugar from smaller molecules, and the other pathway broke sugar down into smaller molecules. These two opposite processes—the first requiring energy and the second producing energy—are referred to as anabolic (building) and catabolic (breaking down) pathways, respectively. Consequently, metabolism is composed of building (anabolism) and degradation (catabolism).</para>
+<section id="fs-id1167067232510"><title>Metabolic Pathways</title><para id="fs-id1167067154374">The processes of making and breaking down sugar molecules illustrate two types of metabolic pathways. A metabolic pathway is a series of interconnected biochemical reactions that convert a substrate molecule or molecules, step-by-step, through a series of metabolic intermediates, eventually yielding a final product or products. In the case of sugar metabolism, the first metabolic pathway synthesized sugar from smaller molecules, and the other pathway broke sugar down into smaller molecules. These two opposite processes—the first requiring energy and the second producing energy—are referred to as anabolic (building) and catabolic (breaking down) pathways, respectively. Consequently, metabolism is composed of building (anabolism) and degradation (catabolism).</para>
 
 <note id="fs-id1167066869004" class="os-teacher">
 <label>Teacher Support</label>
@@ -234,7 +158,7 @@
 
 <note id="fs-id2024491" class="evolution ost-assessed-feature"><title>Evolution of Metabolic Pathways</title>
 <para id="fs-id1167064914784">
-<figure id="fig-ch06_01_03" class="  "><media id="fs-id2162858" alt="At the base of the evolutionary tree is the prokaryotic ancestor. This ancestor gave rise to archaebacteria, eubacteria, and Protista, which in turn gave rise to plants, fungi, and animals.">
+<figure id="fig-ch06_01_03" class=" "><media id="fs-id2162858" alt="At the base of the evolutionary tree is the prokaryotic ancestor. This ancestor gave rise to archaebacteria, eubacteria, and Protista, which in turn gave rise to plants, fungi, and animals.">
 <image mime-type="image/jpg" src="../../media/Figure_06_01_04.jpg" width="450"/>
 </media>
 <caption>This tree shows the evolution of the various branches of life. The vertical dimension is time. Early life forms, in blue, used anaerobic metabolism to obtain energy from their surroundings.</caption></figure></para>
@@ -249,7 +173,7 @@
 </note>
 
 
-<section id="fs-id1167067088745" class="ost-tag-lo-apbio-ch06-s01-lo02 ost-tag-lo-apbio-ch06-s01-aplo-2-1 ost-get-exercise">
+<section id="fs-id1167067088745" class="ost-tag-lo-apbio-ch06-s01-lo02 ost-tag-lo-apbio-ch06-s01-aplo-2-1">
 <title>Anabolic and Catabolic Pathways</title>
 <para id="fs-id1167067072843"><term id="term-00003">Anabolic</term> pathways require an input of energy to synthesize complex molecules from simpler ones. Synthesizing sugar from CO<sub>2</sub> is one example. Other examples are the synthesis of large proteins from amino acid building blocks, and the synthesis of new DNA strands from nucleic acid building blocks. These biosynthetic processes are critical to the life of the cell, take place constantly, and demand energy provided by ATP and other high-energy molecules like NADH (nicotinamide adenine dinucleotide) and NADPH (<link target-id="fig-ch06_01_04"/>).</para>
 <para id="fs-id2315426">ATP is an important molecule for cells to have in sufficient supply at all times. The breakdown of sugars illustrates how a single molecule of glucose can store enough energy to make a great deal of ATP, 36 to 38 molecules. This is a <term id="term-00004">catabolic</term> pathway. Catabolic pathways involve the degradation (or breakdown) of complex molecules into simpler ones. Molecular energy stored in the bonds of complex molecules is released in catabolic pathways and harvested in such a way that it can be used to produce ATP. Other energy-storing molecules, such as fats, are also broken down through similar catabolic reactions to release energy and make ATP (<link target-id="fig-ch06_01_04"/>).</para>

@@ -21,135 +21,77 @@
 <section id="fs-id1167064979970" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167065870525">Life in an ecosystem is often about the competition for limited resources, a characteristic of the theory of natural selection. Competition in communities (all living things within a specific habitat) is observed both within species and among different species. The resources for which organisms compete include organic material from living or previously living organisms, sunlight, and mineral nutrients, which provide the energy for living processes and the matter to make up organisms’ physical structures. Other critical factors influencing community dynamics are the components of its physical and geographic environment: a habitat’s latitude, amount of rainfall, topography (elevation), and available species. These are all important environmental variables that determine which organisms can exist within a particular area.</para>
-<para id="fs-id1167064941372" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 and Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167064941372" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 8.2 and 8.5 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167065952744" summary="Table with two columns and three rows. Column 1 Row 1: Essential Knowledge. Column 2 Row 1: 2.A.1 All living systems require constant input of free energy. Column 1 Row 2: Science Practice. Column 2 Row 2: 6.4 The student can make claims and predictions about natural phenomena based on scientific theories and models. Column 1 Row 3: Learning Objective. Column 2 Row 3: 2.3 The student is able to predict how changes in free energy availability affect organisms, populations, and ecosystems." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.1 </emphasis></span>
-<span class="ost-standards-description">All living systems require constant input of free energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.3 </emphasis></span>
-<span class="ost-standards-description">The student is able to predict how changes in free energy availability affect organisms, populations, and ecosystems.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.D</emphasis></entry>
-<entry class="ost-standards-description">Growth and dynamic homeostasis of a biological system are influenced by changes in the system’s environment.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.D.1 </emphasis></span>
-<span class="ost-standards-description">All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-5-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.1 </emphasis></span>
-<span class="ost-standards-description">The student can analyze data to identify patterns or relationships.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-24">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.24 </emphasis></span>
-<span class="ost-standards-description">The student is able to analyze data to identify possible patterns and relationships between a biotic or abiotic factor and a biological system, including an ecosystem.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>8.2 Energy Flow Through Ecosystems</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>8.2.B Explain how energy flows and matter cycles through trophic levels.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry></row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-6">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.6 </emphasis></span>
-<span class="ost-standards-description">Interactions among living systems and with their environment result in the movement of matter and energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-2-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
-<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-14">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.14 </emphasis></span>
-<span class="ost-standards-description">The student is able to apply mathematical routines to quantities that describe interactions among living systems and their environment, which result in the movement of matter and energy.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.2.B.2 Energy flows through ecosystems, while matter and nutrients cycle between the environment and organisms via biogeochemical cycles. The cycles are essential for life, and each cycle demonstrates the conservation of matter. The cycles are interdependent.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>8.2.C. Explain how changes in energy availability affect populations, communities, and ecosystems.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.2.C.1 Changes in energy availability can result in changes in population size.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.2.C.2 Changes in energy availability can result in disruptions to an ecosystem.<newline/>
+i. A change in energy resources such as sunlight can affect the number and size of the trophic levels. Trophic levels include producers; primary, secondary, tertiary, and quaternary consumers; and decomposers.<newline/>
+ii. A change in the biomass or number of producers in a given geographic area can affect the number and size of other trophic levels.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.D Argumentation- Explain the relationship between experimental results and larger biological concepts, processes, or theories.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-6">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.6 </emphasis></span>
-<span class="ost-standards-description">Interactions among living systems and with their environment result in the movement of matter and energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-15">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.15 </emphasis></span>
-<span class="ost-standards-description">The student is able to use visual representations to analyze situations or solve problems qualitatively to illustrate how interactions among living systems and with their environment result in the movement of matter and energy.</span>
-</entry>
+
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>8.5 Community Ecology</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>8.5.B Explain how interactions within and among populations influence community structure.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.5.B.2 Interactions among populations determine how they access energy and matter within a community.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.B Statistical Tests and Data Analysis-Use confidence intervals and error bars to estimate whether sample means are statistically different.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-6">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.6 </emphasis></span>
-<span class="ost-standards-description">Interactions among living systems and with their environment result in the movement of matter and energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-4-16">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.16 </emphasis></span>
-<span class="ost-standards-description">The student is able to predict the effects of a change of matter or energy availability on communities and ecosystems.</span>
-</entry>
-</row>
+
 </tbody>
 </tgroup>
 </table></section>
 <para id="fs-idp199579968">An <emphasis>ecosystem</emphasis> is a community of living organisms and their interactions with their abiotic (non-living) environment. Ecosystems can be small, such as the tide pools found near the rocky shores of many oceans, or large, such as the Amazon Rainforest in Brazil (<link target-id="fig-ch46_01_01"/>).</para>
-<figure id="fig-ch46_01_01" class="ost-tag-lo-apbio-ch37-s01-lo01"><media id="fs-idp214455888" alt="Left photo shows a rocky tide pool with seaweed and snails. Right photo shows the Amazon Rainforest.">
+<figure id="fig-ch46_01_01"><media id="fs-idp214455888" alt="Left photo shows a rocky tide pool with seaweed and snails. Right photo shows the Amazon Rainforest.">
 <image mime-type="image/jpg" src="../../media/Figure_46_01_01ab.jpg" width="485"/>
 </media>
 <caption>A (a) tidal pool ecosystem in Matinicus Island in Maine is a small ecosystem, while the (b) Amazon Rainforest in Brazil is a large ecosystem. (credit a: modification of work by “takomabibelot”/Flickr; credit b: modification of work by Ivan Mlinaric)</caption></figure><para id="fs-idp232513760">There are three broad categories of ecosystems based on their general environment: freshwater, ocean water, and terrestrial. Within these broad categories are individual ecosystem types based on the organisms present and the type of environmental habitat.</para>
 <para id="fs-idp310495488">Ocean ecosystems are the most common, comprising 75 percent of the Earth's surface and consisting of three basic types: shallow ocean, deep ocean water, and deep ocean surfaces (the low depth areas of the deep oceans). The shallow ocean ecosystems include extremely biodiverse coral reef ecosystems, and the deep ocean surface is known for its large numbers of plankton and krill (small crustaceans) that support it. These two environments are especially important to aerobic respirators worldwide as the phytoplankton perform 40 percent of all photosynthesis on Earth. Although not as diverse as the other two, deep ocean ecosystems contain a wide variety of marine organisms. Such ecosystems exist even at the bottom of the ocean where light is unable to penetrate through the water.</para>
 <para id="fs-idp301885600">Freshwater ecosystems are the rarest, occurring on only 1.8 percent of the Earth's surface. Lakes, rivers, streams, and springs comprise these systems; they are quite diverse, and they support a variety of fish, amphibians, reptiles, insects, phytoplankton, fungi, and bacteria.</para>
 <para id="fs-idp101656400">Terrestrial ecosystems, also known for their diversity, are grouped into large categories called biomes, such as tropical rain forests, savannas, deserts, coniferous forests, deciduous forests, and tundra. Grouping these ecosystems into just a few biome categories obscures the great diversity of the individual ecosystems within them. For example, there is great variation in desert vegetation: the saguaro cacti and other plant life in the Sonoran Desert, in the United States, are relatively abundant compared to the desolate rocky desert of Boa Vista, an island off the coast of Western Africa (<link target-id="fig-ch46_01_02"/>).</para>
-<figure id="fig-ch46_01_02" class="ost-tag-lo-apbio-ch37-s01-lo01"><media id="fs-idp128871760" alt="Photo (a) shows saguaro cacti that look like telephone poles with arms extended from them. Photo (b) shows a barren plain of red soil littered with rocks.">
+<figure id="fig-ch46_01_02"><media id="fs-idp128871760" alt="Photo (a) shows saguaro cacti that look like telephone poles with arms extended from them. Photo (b) shows a barren plain of red soil littered with rocks.">
 <image mime-type="image/jpg" src="../../media/Figure_46_01_02ab.jpg" width="485"/>
 </media>
 <caption>Desert ecosystems, like all ecosystems, can vary greatly. The desert in (a) Saguaro National Park, Arizona, has abundant plant life, while the rocky desert of (b) Boa Vista island, Cape Verde, Africa, is devoid of plant life. (credit a: modification of work by Jay Galvin; credit b: modification of work by Ingo Wölbern)</caption></figure><para id="fs-idp183213280">Ecosystems are complex with many interacting parts. They are routinely exposed to various disturbances, or changes in the environment that effect their compositions: yearly variations in rainfall and temperature and the slower processes of plant growth, which may take several years. Many of these disturbances are a result of natural processes. For example, when lightning causes a forest fire and destroys part of a forest ecosystem, the ground is eventually populated by grasses, then by bushes and shrubs, and later by mature trees, restoring the forest to its former state. The impact of environmental disturbances caused by human activities is as important as the changes wrought by natural processes. Human agricultural practices, air pollution, acid rain, global deforestation, overfishing, eutrophication, oil spills, and illegal dumping on land and into the ocean are all issues of concern to conservationists.</para>
 <para id="fs-idp337391248"><emphasis>Equilibrium</emphasis> is the steady state of an ecosystem where all organisms are in balance with their environment and with each other. In ecology, two parameters are used to measure changes in ecosystems: resistance and resilience. The ability of an ecosystem to remain at equilibrium in spite of disturbances is called <emphasis>resistance</emphasis>. The speed at which an ecosystem recovers equilibrium after being disturbed, called its <emphasis>resilience</emphasis>. Ecosystem resistance and resilience are especially important when considering human impact. The nature of an ecosystem may change to such a degree that it can lose its resilience entirely. This process can lead to the complete destruction or irreversible altering of the ecosystem.</para>
-<section id="fs-idp121534288" class="ost-tag-lo-apbio-ch37-s01-lo04 ost-get-exercise"><title>Food Chains and Food Webs</title><para id="fs-idp71863504">The term “food chain” is sometimes used metaphorically to describe human social situations. In this sense, food chains are thought of as a competition for survival, such as “who eats whom?” Someone eats and someone is eaten. Therefore, it is not surprising that in our competitive  “dog-eat-dog” society, individuals who are considered successful are seen as being at the top of the food chain, consuming all others for their benefit, whereas the less successful are seen as being at the bottom.</para>
+<section id="fs-idp121534288"><title>Food Chains and Food Webs</title><para id="fs-idp71863504">The term “food chain” is sometimes used metaphorically to describe human social situations. In this sense, food chains are thought of as a competition for survival, such as “who eats whom?” Someone eats and someone is eaten. Therefore, it is not surprising that in our competitive  “dog-eat-dog” society, individuals who are considered successful are seen as being at the top of the food chain, consuming all others for their benefit, whereas the less successful are seen as being at the bottom.</para>
 <para id="fs-idp77933184">The scientific understanding of a food chain is more precise than in its everyday usage. In ecology, a <emphasis>food chain</emphasis> is a linear sequence of organisms through which nutrients and energy pass: primary producers, primary consumers, and higher-level consumers are used to describe ecosystem structure and dynamics. There is a single path through the chain. Each organism in a food chain occupies what is called a <emphasis>trophic level</emphasis>. Depending on their role as producers or consumers, species or groups of species can be assigned to various trophic levels.</para>
 <para id="fs-idp199093264">In many ecosystems, the bottom of the food chain consists of photosynthetic organisms (plants and/or phytoplankton), which are called <emphasis>primary producers</emphasis>. The organisms that consume the primary producers are herbivores: the <emphasis>primary consumers</emphasis>. <emphasis>Secondary consumers</emphasis> are usually carnivores that eat the primary consumers. <emphasis>Tertiary consumers</emphasis> are carnivores that eat other carnivores. Higher-level consumers feed on the next lower trophic levels, and so on, up to the organisms at the top of the food chain: the <emphasis>apex consumers</emphasis>. In the Lake Ontario food chain shown in <link target-id="fig-ch46_01_03"/>, the Chinook salmon is the apex consumer at the top of this food chain.</para><figure id="fig-ch46_01_03" class="ost-tag-lo-apbio-ch37-s01-lo04 ost-tag-lo-apbio-ch37-s01-aplo-4-15"><media id="fs-idp197101600" alt="In this illustration the bottom trophic level is the primary producer, which is green algae. The primary consumers are mollusks, or snails. The secondary consumers are small fish called slimy sculpin. The tertiary and apex consumer is Chinook salmon.">
 <image mime-type="image/jpg" src="../../media/Figure_46_01_03.jpg" width="280"/>
@@ -192,7 +134,7 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-idp198781888" class="ost-tag-lo-apbio-ch37-s01-lo02 ost-tag-lo-apbio-ch37-s01-lo03 ost-get-exercise">
+<section id="fs-idp198781888" class="ost-tag-lo-apbio-ch37-s01-lo02 ost-tag-lo-apbio-ch37-s01-lo03">
 <title>Research into Ecosystem Dynamics: Ecosystem Experimentation and Modeling</title>
 <para id="fs-idp222863024">The study of the changes in ecosystem structure caused by changes in the environment (disturbances) or by internal forces is called <emphasis>ecosystem dynamics</emphasis>. Ecosystems are characterized using a variety of research methodologies. Some ecologists study ecosystems using controlled experimental systems, while some study entire ecosystems in their natural state, and others use both approaches.</para>
 <para id="fs-idp225162928">A <emphasis>holistic ecosystem model</emphasis> attempts to quantify the composition, interaction, and dynamics of entire ecosystems; it is the most representative of the ecosystem in its natural state. A food web is an example of a holistic ecosystem model. However, this type of study is limited by time and expense, as well as the fact that it is neither feasible nor ethical to do experiments on large natural ecosystems. To quantify all different species in an ecosystem and the dynamics in their habitat is difficult, especially when studying large habitats such as the Amazon Rainforest, which covers 1.4 billion acres (5.5 million km<sup>2</sup>) of the Earth’s surface.</para>

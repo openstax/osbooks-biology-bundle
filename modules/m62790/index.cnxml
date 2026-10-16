@@ -19,56 +19,35 @@
 <section id="fs-id1167065883707" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167066020805">As was previously stated, under aerobic conditions cellular respiration can yield 36-38 ATP molecules. If oxygen is not present, ATP is only produced by substrate-level phosphorylation. Without oxygen, organisms must use another electron acceptor. Most organisms will use some form of fermentation to accomplish the regeneration of NAD<sup>+ </sup>to ensure the continuation of glycolysis. In alcohol fermentation, pyruvate from glycolysis is converted to ethyl alcohol; during lactic acid fermentation, pyruvate is reduced to form lactate as an end-product. Without fermentation and anaerobic respiration, we wouldn’t have yogurt or soy sauce. Nor would our muscle cells cramp from the buildup of lactate when we exercise vigorously and oxygen is scarce.</para>
-<para id="fs-id1167064746840">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework, as shown in the table. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167064845867" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.2 Organisms capture and store free energy for use in biological processes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Science Practice. Third right cell reads: 3.1 The student can pose scientific questions. Fourth left cell reads: Learning Objective. Fourth right cell reads: 2.4 The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167064746840">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 3.5 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para><table id="fs-id1167064845867" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.A.2 Organisms capture and store free energy for use in biological processes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Science Practice. Third right cell reads: 3.1 The student can pose scientific questions. Fourth left cell reads: Learning Objective. Fourth right cell reads: 2.4 The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
-<tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+<tbody><row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.A</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and maintenance of living systems require free energy and matter.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.2 </emphasis></span>
-<span class="ost-standards-description">Organisms capture and store free energy for use in biological processes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s05-aplo-2-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.4 </emphasis></span>
-<span class="ost-standards-description">The student is able to use representations to pose scientific questions about what mechanisms and structural features allow organisms to capture, store, and use free energy.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>3.5 Cellular Respiration</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>3.5.B Explain how cells obtain energy from biological macromolecules in order to power cellular functions.<newline/>
+
+Exclusion Statement- Memorization of the steps in glycolysis and the Krebs cycle, and of the structures of the molecules and the names of the enzymes involved, is beyond the scope of this course and the AP<sup>®</sup> Exam.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.5.B.6 Fermentation allows glycolysis to proceed in the absence of oxygen and produces organic molecules such as alcohol and lactic acid.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>4.A Representing and Describing Data- Construct a graph to represent the data, including: x-y graphs (bar, histogram, line, log scale, dual y), scatter plot, box and whisker plot, and pie chart. The graph should include the following components:<newline/>
+i. Type of graph appropriate for the data<newline/>
+ii. Axis labeling, including appropriate units and legend<newline/>
+iii. Scaling<newline/>
+iv. Accurately plotted data (including error bars when appropriate)<newline/>
+v. trend line (when appropriate)</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.A.2 </emphasis></span>
-<span class="ost-standards-description">Organisms capture and store free energy for use in biological processes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch07-s05-aplo-2-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.5 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct explanations of the mechanisms and structural features of cells that allow organisms to capture, store, or use free energy.</span>
-</entry>
-</row>
+
 </tbody>
 
 
@@ -80,8 +59,7 @@
 <para id="fs-id1167065707865">Students may not realize that fermentation functions to regenerate NAD<sup>+</sup>; students may think that fermentation only functions to produce additional ATP. Fermentation can produce ATP as long as there is enough NAD<sup>+</sup> to accept electrons. Without NAD<sup>+</sup> regeneration from NADH, glycolysis will deplete NAD<sup>+</sup> and come to a stop.</para>
 </note>
 </note>
-<para id="fs-id1166848777881">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.21][APLO 2.24][APLO 4.14][APLO 4.26]</para><para id="fs-id1982002">In aerobic respiration, the final electron acceptor is an oxygen molecule, O<sub>2</sub>. If aerobic respiration occurs, then ATP will be produced using the energy of high-energy electrons carried by NADH or FADH<sub>2 </sub>to the electron transport chain. If aerobic respiration does not occur, NADH must be reoxidized to NAD<sup>+</sup> for reuse as an electron carrier for the glycolytic pathway to continue. How is this done? Some living systems use an organic molecule as the final electron acceptor. Processes that use an organic molecule to regenerate NAD<sup>+</sup> from NADH are collectively referred to as <term id="term-00001">fermentation</term>. In contrast, in some living systems, the electron transport chain (ETC) uses an inorganic molecule as a final electron acceptor, which is called <term id="term-00002">anaerobic cellular respiration</term>. Both processes allow organisms to convert energy for their use in the absence of oxygen.</para>
+<para id="fs-id1166848777881">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
 <note id="fs-id1785709" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch07-s05-lo01 ost-tag-lo-apbio-ch07-s05-aplo-2-4 ost-tag-lo-apbio-ch07-s05-aplo-2-5"><label>Link to Learning</label>
    <para id="fs-id1957291">Visit this <link window="new" url="https://openstax.org/l/fermentation">site</link> to see fermentation in action.</para>
    
@@ -94,7 +72,7 @@
    </exercise>
    </note>
 
-<section id="fs-id1986553" class="ost-tag-lo-apbio-ch07-s05-lo01 ost-tag-lo-apbio-ch07-s05-aplo-2-4 ost-tag-lo-apbio-ch07-s05-aplo-2-5 ost-get-exercise">
+<section id="fs-id1986553" class="ost-tag-lo-apbio-ch07-s05-lo01 ost-tag-lo-apbio-ch07-s05-aplo-2-4 ost-tag-lo-apbio-ch07-s05-aplo-2-5">
 <title>Anaerobic Cellular Respiration</title>
 <para id="fs-id1451059">Certain prokaryotes, including some species of bacteria and Archaea, use anaerobic respiration. For example, the group of Archaea called methanogens reduces carbon dioxide to methane to oxidize NADH. These microorganisms are found in soil and in the digestive tracts of ruminants, such as cows and sheep. Similarly, sulfate-reducing bacteria and Archaea, most of which are anaerobic (<link target-id="fig-ch07_05_01"/>), reduce sulfate to hydrogen sulfide to regenerate NAD<sup>+</sup> from NADH.</para><figure id="fig-ch07_05_01" class="ost-tag-lo-apbio-ch07-s05-lo01 ost-tag-lo-apbio-ch07-s05-aplo-2-4 ost-tag-lo-apbio-ch07-s05-aplo-2-5"><media id="fs-id1975018" alt="This photo shows a bloom of green bacteria in water.">
 <image mime-type="image/jpg" src="../../media/Figure_07_05_01.jpg" width="400"/>
@@ -102,7 +80,7 @@
 <caption>The green color seen in these coastal waters is from an eruption of hydrogen sulfide-producing bacteria. These anaerobic, sulfate-reducing bacteria release hydrogen sulfide gas as they decompose algae in the water. (credit: modification of work by NASA/Jeff Schmaltz, MODIS Land Rapid Response Team at NASA GSFC, Visible Earth Catalog of NASA images)</caption></figure>
 
 
-<section id="fs-id2121627" class="ost-get-exercise">
+<section id="fs-id2121627" class="">
 <title>Lactic Acid Fermentation</title>
 <para id="fs-id2077122">The fermentation method used by animals and certain bacteria, like those in yogurt, is lactic acid fermentation (<link target-id="fig-ch07_05_02"/>). This type of fermentation is used routinely in mammalian red blood cells and in skeletal muscle that has an insufficient oxygen supply to allow aerobic respiration to continue (that is, in muscles used to the point of fatigue). In muscles, lactic acid accumulation must be removed by the blood circulation and the lactate brought to the liver for further metabolism. The chemical reactions of lactic acid fermentation are the following:</para>
 <equation id="eip-345"><m:math display="block">
@@ -136,7 +114,7 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-id2025525" class="ost-get-exercise"><title>Alcohol Fermentation</title><para id="fs-id2988639">Another familiar fermentation process is alcohol fermentation (<link target-id="fig-ch07_05_03"/>) that produces ethanol, an alcohol. The first chemical reaction of alcohol fermentation is the following (CO<sub>2</sub> does not participate in the second reaction):</para><equation id="eip-10"><m:math display="block">
+<section id="fs-id2025525" class=""><title>Alcohol Fermentation</title><para id="fs-id2988639">Another familiar fermentation process is alcohol fermentation (<link target-id="fig-ch07_05_03"/>) that produces ethanol, an alcohol. The first chemical reaction of alcohol fermentation is the following (CO<sub>2</sub> does not participate in the second reaction):</para><equation id="eip-10"><m:math display="block">
    <m:mrow>
    <m:mtext>pyruvic acid</m:mtext><m:mo>+</m:mo><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup>
    <m:mo stretchy="false">→</m:mo>
@@ -164,7 +142,7 @@
 <figure id="fig-ch07_05_03" class="ost-tag-lo-apbio-ch07-s05-lo01 ost-tag-lo-apbio-ch07-s05-aplo-2-4 ost-tag-lo-apbio-ch07-s05-aplo-2-5"><media id="fs-id1797657" alt="This photo shows large cylindrical fermentation tanks stacked one on top of the other.">
 <image mime-type="image/jpg" src="../../media/Figure_07_05_03.jpg" width="350"/>
 </media>
-<caption>Fermentation of grape juice produces CO<sub>2</sub> as a byproduct. Fermentation tanks have valves so that the pressure inside the tanks created by the carbon dioxide produced can be released.</caption></figure></section><section id="fs-id811872" class="ost-get-exercise">
+<caption>Fermentation of grape juice produces CO<sub>2</sub> as a byproduct. Fermentation tanks have valves so that the pressure inside the tanks created by the carbon dioxide produced can be released.</caption></figure></section><section id="fs-id811872" class="">
 <title>Other Types of Fermentation</title>
 <para id="fs-id2317124">Other fermentation methods occur in bacteria. Many prokaryotes are facultatively anaerobic. This means that they can switch between aerobic respiration and fermentation, depending on the availability of oxygen. Certain prokaryotes, like <emphasis effect="italics">Clostridia</emphasis>, are obligate anaerobes. Obligate anaerobes live and grow in the absence of molecular oxygen. Oxygen is a poison to these microorganisms and kills them on exposure. It should be noted that most forms of fermentation produce gas (an exception is lactic acid fermentation which, in most cases, does not result in gas production). The production of particular types of gas is used as an indicator of the fermentation of specific carbohydrates, which plays a role in the laboratory identification of the bacteria. Various methods of fermentation are used by assorted organisms to ensure an adequate supply of NAD<sup>+</sup> for the sixth step in glycolysis. Without these pathways, that step would not occur and no ATP would be harvested from the breakdown of glucose.</para>
 </section>
