@@ -94,7 +94,15 @@ ii. The Na+/K+ pump and ATPase contribute to the maintenance of the membrane pot
 </para>
 </problem>
 </exercise>
-</note></section>
+</note>
+<figure id="fs-idm491659440">
+  <title/>
+  <media id="fs-idm702493232" alt="This illustration shows a membrane bilayer with a potassium channel called a proton pump embedded in it. Hydrogen ions flow out of the cell through a proton pump, then back into the cell as part of the sucrose-proton cotransporter. Sucrose flows with the protons from the lower concentration outside the cell to the higher concentration inside the cell, which is against the concentration gradient.">
+    <image mime-type="image/png" src="../../media/gradient.png"/>
+  </media>
+<caption>Proton Gradient provides energy for a secondary active transporter. The proton pump creates an electrochemical gradient of protons (hydrogen ions, H+) using ATP to drive primary active transport. This gradient allows for cotransport/secondary transport of sucrose against its concentration gradient as protons come down their concentration gradient via their membrane cotransporter protein. Credit: Rao, A. Tag, A. and Ryan, K. Department of Biology, Texas A&amp;M University.</caption>
+</figure>
+</section>
 
 
 
