@@ -32,7 +32,8 @@
 <image mime-type="image/png" src="../../media/Figure_05_04_02.png" width="320"/>
 </media>
 
-<caption>In pinocytosis, the cell membrane invaginates, surrounds a small volume of fluid, and pinches off. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id1511146">A variation of pinocytosis is <term id="term-00004">potocytosis</term>. This process uses a coating protein, <term id="term-00005">caveolin</term>, on the plasma membrane's cytoplasmic side, which performs a similar function to clathrin. The cavities in the plasma membrane that form the vacuoles have membrane receptors and lipid rafts in addition to caveolin. The vacuoles or vesicles formed in caveolae (singular caveola) are smaller than those in pinocytosis. Potocytosis brings small molecules into the cell and transports them through the cell for their release on the other side, a process we call transcytosis. In some cases, the caveolae deliver their cargo to membranous organelles like the ER.</para></section>
+<caption>In pinocytosis, the cell membrane invaginates, surrounds a small volume of fluid, and pinches off. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure>
+<para id="fs-id1511146">A variation of pinocytosis is <term id="term-00004">potocytosis</term>. This process uses a coating protein, <term id="term-00005">caveolin</term>, on the plasma membrane's cytoplasmic side, which performs a similar function to clathrin. The cavities in the plasma membrane that form the vacuoles have membrane receptors and lipid rafts in addition to caveolin. The vacuoles or vesicles formed in caveolae (singular caveola) are smaller than those in pinocytosis. Potocytosis brings small molecules into the cell and transports them through the cell for their release on the other side, a process we call transcytosis. In some cases, the caveolae deliver their cargo to membranous organelles like the ER.</para></section>
 <section id="fs-id2059707">
 <title>Receptor-mediated Endocytosis</title>
 <para id="fs-id2163521">A targeted variation of endocytosis employs receptor proteins in the plasma membrane that have a specific binding affinity for certain substances (<link target-id="fig-ch05_04_03"/>).</para>
@@ -55,7 +56,8 @@
 <image mime-type="image/png" src="../../media/Figure_05_04_04.png" width="380"/>
 </media>
 
-<caption>In exocytosis, vesicles containing substances fuse with the plasma membrane. The contents then release to the cell's exterior. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><table id="tab-ch05_04_01" summary="This table provides a list of types of molecular transport in cells, whether the method is passive or active, and the types of materials transported for each." class="top-titled">
+<caption>In exocytosis, vesicles containing substances fuse with the plasma membrane. The contents then release to the cell's exterior. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure>
+<table id="tab-ch05_04_01" summary="This table provides a list of types of molecular transport in cells, whether the method is passive or active, and the types of materials transported for each." class="top-titled">
 <tgroup cols="3"><colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
 <colspec colnum="3" colname="col3"/>
