@@ -58,28 +58,33 @@
 </figure></section>
 <section id="fs-id1744740">
 <title>Tight Junctions</title>
-<para id="fs-id1754058">A <term id="term-00003">tight junction</term> is a watertight seal between two adjacent animal cells (<link target-id="fig-ch04-06-03"/>). The cells are held tightly against each other by proteins (predominantly two proteins called claudins and occludins).</para><figure id="fig-ch04-06-03"><media id="fs-id1672751" alt="This illustration shows two cell membranes joined together by a matrix of tight junctions.">
-<image mime-type="image/jpg" src="../../media/Figure_04_06_03.jpg" width="300"/>
+<para id="fs-id1754058">A <term id="term-00003">tight junction</term> is a watertight seal between two adjacent animal cells (<link target-id="fig-ch04-06-03"/>). The cells are held tightly against each other by proteins (predominantly two proteins called claudins and occludins).</para>
+<figure id="fig-ch04-06-03"><media id="fs-id1672751" alt="This illustration shows two cell membranes joined together by a matrix of tight junctions.">
+<image mime-type="image/png" src="../../media/Figure_04_06_03.png" width="375"/>
 </media>
-
-<caption>Tight junctions form watertight connections between adjacent animal cells. Proteins create tight junction adherence. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id1616827">This tight adherence prevents materials from leaking between the cells; tight junctions are typically found in epithelial tissues that line internal organs and cavities, and comprise most of the skin. For example, the tight junctions of the epithelial cells lining your urinary bladder prevent urine from leaking out into the extracellular space.</para>
+<caption>Tight junctions form watertight connections between adjacent animal cells. Proteins create tight junction adherence. (credit: modification of work by Mariana Ruiz Villareal)</caption>
+</figure>
+<para id="fs-id1616827">This tight adherence prevents materials from leaking between the cells; tight junctions are typically found in epithelial tissues that line internal organs and cavities, and comprise most of the skin. For example, the tight junctions of the epithelial cells lining your urinary bladder prevent urine from leaking out into the extracellular space.</para>
 </section>
 <section id="fs-id1443008">
 <title>Desmosomes</title>
 <para id="fs-id1209961">Also found only in animal cells are <term id="term-00004">desmosomes</term>, which act like spot welds between adjacent epithelial cells (<link target-id="fig-ch04-06-04"/>). Short proteins called cadherins in the plasma membrane connect to intermediate filaments to create desmosomes. The cadherins join two adjacent cells together and maintain the cells in a sheet-like formation in organs and tissues that stretch, like the skin, heart, and muscles.</para>
-<figure id="fig-ch04-06-04"><media id="fs-id1662170" alt="This illustration shows two cells fused together by a desmosome. Cadherins extend from each cell and join the two cells together. Intermediate filaments connect to cadherins on the inside of the cell.">
-<image mime-type="image/jpg" src="../../media/Figure_04_06_04.jpg" width="300"/>
-</media>
 
-<caption>A desmosome forms a very strong spot weld between cells. It is created by the linkage of cadherins and intermediate filaments. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure></section>
+<figure id="fig-ch04-06-04"><media id="fs-id1662170" alt="This illustration shows two cells fused together by a desmosome. Cadherins extend from each cell and join the two cells together. Intermediate filaments connect to cadherins on the inside of the cell.">
+<image mime-type="image/png" src="../../media/Figure_04_06_04.png" width="445"/>
+</media>
+<caption>A desmosome forms a very strong spot weld between cells. Linking cadherins and intermediate filaments create it. (credit: modification of work by Mariana Ruiz Villareal)</caption>
+</figure></section>
 <section id="fs-id1676239" class="">
 <title>Gap Junctions</title>
 <para id="fs-id1688936"><term id="term-00005">Gap junctions</term> in animal cells are like plasmodesmata in plant cells in that they are channels between adjacent cells that allow for the transport of ions, nutrients, and other substances that enable cells to communicate (<link target-id="fig-ch04-06-05"/>). Structurally, however, gap junctions and plasmodesmata differ.</para>
+<!--fix this one-->
 <figure id="fig-ch04-06-05"><media id="fs-id1603907" alt="This illustration shows two cells joined together with protein pores called gap junctions that allow water and small molecules to pass through.">
-<image mime-type="image/jpg" src="../../media/Figure_04_06_05.jpg" width="300"/>
+<image mime-type="image/png" src="../../media/Figure_04_06_05.png" width="430"/>
 </media>
-
-<caption>A gap junction is a protein-lined pore that allows water and small molecules to pass between adjacent animal cells. (credit: modification of work by Mariana Ruiz Villareal)</caption></figure><para id="fs-id801287">Gap junctions develop when a set of six proteins (called connexins) in the plasma membrane arrange themselves in an elongated donut-like configuration called a connexon. When the pores (“doughnut holes”) of connexons in adjacent animal cells align, a channel between the two cells forms. Gap junctions are particularly important in cardiac muscle: The electrical signal for the muscle to contract is passed efficiently through gap junctions, allowing the heart muscle cells to contract in tandem.</para>
+<caption>A gap junction is a protein-lined pore that allows water and small molecules to pass between adjacent animal cells. (credit: modification of work by Mariana Ruiz Villareal)</caption>
+</figure>
+<para id="fs-id801287">Gap junctions develop when a set of six proteins (called connexins) in the plasma membrane arrange themselves in an elongated donut-like configuration called a connexon. When the pores (“doughnut holes”) of connexons in adjacent animal cells align, a channel between the two cells forms. Gap junctions are particularly important in cardiac muscle: The electrical signal for the muscle to contract is passed efficiently through gap junctions, allowing the heart muscle cells to contract in tandem.</para>
 <note id="fs-id1870043" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch04-s06-lo02">
 
 <para id="fs-id1961754">To conduct a virtual microscopy lab and review the parts of a cell, work through the steps of this <link window="new" url="https://openstax.org/l/microscopy_lab">interactive assignment</link>.</para>
