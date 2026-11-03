@@ -53,8 +53,8 @@
 <image mime-type="image/jpg" src="../../media/Figure_06_05_05-d31b.jpg" width="400"/>
 </media>
 
-<caption>Allosteric inhibitors modify the enzyme's active site so that substrate binding is reduced or prevented. In contrast, allosteric activators modify the enzyme's active site so that the affinity for the substrate increases. Credit: Rao, A., Hawkins, A., Fletcher, S. and Tag, A.
-Department of Biology, Texas A&amp;M University.</caption></figure><note id="fs-id1975059" class="everyday"><title>Drug Discovery by Looking for Inhibitors of Key Enzymes in Specific Pathways</title>
+<caption>Allosteric inhibitors modify the enzyme's active site so that substrate binding is reduced or prevented. In contrast, allosteric activators modify the enzyme's active site so that the affinity for the substrate increases. Credit: Rao, A., Hawkins, A., Fletcher, S. and Tag, A. Department of Biology, Texas A&amp;M University.</caption></figure>
+<note id="fs-id1975059" class="everyday"><title>Drug Discovery by Looking for Inhibitors of Key Enzymes in Specific Pathways</title>
 <figure id="fig-ch06_05_05"><media id="fs-id1443107" alt="This photo shows several red capsule pills.">
 <image mime-type="image/jpg" src="../../media/Figure_06_05_08.jpg" width="300"/>
 </media>
@@ -83,11 +83,8 @@ Department of Biology, Texas A&amp;M University.</caption></figure><note id="fs-
 </media>
 
 <caption>Metabolic pathways are a series of reactions that multiple enzymes catalyze. Feedback inhibition, where the pathway's end product inhibits an upstream step, is an important regulatory mechanism in cells. Metabolic pathways are a series of reactions catalyzed by
-multiple enzymes (Intermediates A – D, Enzymes 1 – 5). Feedback inhibition occurs when the pathway's end product (here isoleucine) inhibits an upstream
-enzyme (indicated by red bar). In this example, isoleucine will bind to Threonine Deaminase (at the allosteric site) and prevent threonine from binding to
-this enzyme’s active site, effectively blocking this metabolic pathway. When isoleucine levels decrease, Threonine will then bind to Threonine Deaminase’s
-active site and the metabolic pathway will resume. This is an important regulatory mechanism in cells to inhibit the overproduction of a product. Credit:
-Rao, A., Ryan, K., Tag, A., Hawkins, A. and Fletcher S. Department of Biology, Texas A&amp;M University.</caption></figure><para id="fs-id2115837">Producing both amino acids and nucleotides is controlled through feedback inhibition. Additionally, ATP is an allosteric regulator of some of the enzymes involved in sugar's catabolic breakdown, the process that produces ATP. In this way, when ATP is abundant, the cell can prevent its further production. Remember that ATP is an unstable molecule that can spontaneously dissociate into ADP and inorganic phosphate. If too much ATP were present in a cell, much of it would go to waste. Alternatively, ADP serves as a positive allosteric regulator (an allosteric activator) for some of the same enzymes that ATP inhibits. Thus, when relative ADP levels are high compared to ATP, the cell is triggered to produce more ATP through sugar catabolism.</para></section>
+multiple enzymes (Intermediates A – D, Enzymes 1 – 5). Feedback inhibition occurs when the pathway's end product (here isoleucine) inhibits an upstream enzyme (indicated by red bar). In this example, isoleucine will bind to Threonine Deaminase (at the allosteric site) and prevent threonine from binding to this enzyme’s active site, effectively blocking this metabolic pathway. When isoleucine levels decrease, Threonine will then bind to Threonine Deaminase’s active site and the metabolic pathway will resume. This is an important regulatory mechanism in cells to inhibit the overproduction of a product. Credit: Rao, A., Ryan, K., Tag, A., Hawkins, A. and Fletcher S. Department of Biology, Texas A&amp;M University.</caption></figure>
+<para id="fs-id2115837">Producing both amino acids and nucleotides is controlled through feedback inhibition. Additionally, ATP is an allosteric regulator of some of the enzymes involved in sugar's catabolic breakdown, the process that produces ATP. In this way, when ATP is abundant, the cell can prevent its further production. Remember that ATP is an unstable molecule that can spontaneously dissociate into ADP and inorganic phosphate. If too much ATP were present in a cell, much of it would go to waste. Alternatively, ADP serves as a positive allosteric regulator (an allosteric activator) for some of the same enzymes that ATP inhibits. Thus, when relative ADP levels are high compared to ATP, the cell is triggered to produce more ATP through sugar catabolism.</para></section>
 </section>
 <section id="fs-id2348636" class="summary">
 <title>Section Summary</title>

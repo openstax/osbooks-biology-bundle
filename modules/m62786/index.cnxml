@@ -60,6 +60,12 @@ v. trend line (when appropriate)</entry>
 </note>
 
 <para id="fs-id1894837">Energy conversion within a cell involves many coordinated chemical pathways. Most of these pathways are combinations of oxidation and reduction reactions. Oxidation and reduction occur in tandem. An oxidation reaction strips an electron from an atom in a compound, and the addition of this electron to another compound is a reduction reaction. Because oxidation and reduction usually occur together, these pairs of reactions are called oxidation reduction reactions, or <term id="term-00001">redox reactions</term>.</para>
+<figure id="fs-idm924187536"><media id="fs-idm921329440" alt="A progression of oxidation and reduction. The illustration shows that as methane loses electrons as it passes through oxidation processes, first becoming methanol, then formaldehyde, then formic acid, then carbon dioxide. The illustration shows that if the reverse occurred, and carbon dioxide progressed to methane, it would be adding electrons and going through reduction.">
+    <image mime-type="image/png" src="../../media/Figure_07_01_00.png"/>
+  </media>
+
+<caption>Stages of oxidation/reduction of a single carbon. Electrons are lost from carbon as methane is oxidized to carbon dioxide. The loss of electrons is also accompanied by the loss of energy. Electrons are gained during the reduction of carbon dioxide to methane. The gain of an electron is accompanied by a gain in potential energy and often by the addition of a proton (H<sup>+</sup>). Credit: Ryan, K., Rao, A.and Fletcher, S. Department of Biology, Texas A&amp;M University.</caption></figure>
+
 <section id="fs-id1798739" class="ost-tag-lo-apbio-ch07-s01-lo01 ost-tag-lo-apbio-ch07-s01-aplo-2-04 ost-tag-lo-apbio-ch07-s01-aplo-2-05">
 <title>Electrons and Energy</title>
 <para id="fs-id3112918">The removal of an electron from a molecule, oxidizing it, results in a decrease in potential energy in the oxidized compound. However, the electron (sometimes as part of a hydrogen atom) does not remain unbonded in the cytoplasm of a cell. Rather, the electron is shifted to a second compound, reducing the second compound. The shift of an electron from one compound to another removes some potential energy from the first compound (the oxidized compound) and increases the potential energy of the second compound (the reduced compound). The transfer of electrons between molecules is important because most of the energy stored in atoms and used to fuel cell functions is in the form of high-energy electrons. The transfer of energy in the form of electrons allows the cell to transfer and use energy in an incremental fashion—in small packages rather than in a single, destructive burst. This chapter focuses on the extraction of energy from food; you will see that as you track the path of the transfers, you are tracking the path of electrons moving through metabolic pathways.</para>
@@ -197,10 +203,13 @@ v. trend line (when appropriate)</entry>
 <section id="fs-id2195071" class="">
 <title>Substrate Phosphorylation</title>
 <para id="fs-id1451024">ATP is generated through two mechanisms during the breakdown of glucose. A few ATP molecules are generated (that is, regenerated from ADP) as a direct result of the chemical reactions that occur in the catabolic pathways. A phosphate group is removed from an intermediate reactant in the pathway, and the free energy of the reaction is used to add the third phosphate to an available ADP molecule, producing ATP (<link target-id="fig-ch07_01_03"/>). This very direct method of phosphorylation is called <term id="term-00004">substrate-level phosphorylation</term>.</para>
-<figure id="fig-ch07_01_03" class="ost-tag-lo-apbio-ch07-s01-lo02 ost-tag-lo-apbio-ch07-s01-aplo-2-4 ost-tag-lo-apbio-ch07-s01-aplo-2-5"><media id="fs-id1414909" alt="This illustration shows a substrate-level phosphorylation reaction in which the gamma phosphate of ATP is attached to a protein.">
-<image mime-type="image/jpg" src="../../media/Figure_07_01_03-2540.jpg" width="350"/>
+<figure id="fig-ch07_01_03"><media id="fs-id1414909" alt="This illustration shows a substrate-level phosphorylation reaction in which the gamma phosphate of A T P is attached to a protein. The substrate, phosphate group, and A D P bind to an enzyme. And the result is the product and A T P.">
+<image mime-type="image/jpg" src="../../media/Figure_07_01_03-372c.jpg" width="350"/>
 </media>
-<caption>In a substrate phosphorylation reaction, a phosphate group is removed from an intermediate reactant and it is attached to ADP, forming a molecule of ATP.</caption></figure></section>
+<caption>In phosphorylation reactions, the gamma (third) phosphate of ATP is attached to a protein. In substrate-level phosphorylation, a
+phosphate group that is covalently attached to another molecule is transferred to ADP to form ATP. Credit: Rao, A., Ryan, K. and Fletcher, S. Department of
+Biology, Texas A&amp;M University.</caption></figure>
+</section>
 <section id="fs-id2019618" class="">
 <title>Oxidative Phosphorylation</title>
        <para id="fs-id2065719">Most of the ATP generated during glucose catabolism, however, is derived from a much more complex process, chemiosmosis, which takes place in mitochondria (<link target-id="fig-ch07_01_04"/>) within a eukaryotic cell or the plasma membrane of a prokaryotic cell. <term id="term-00005">Chemiosmosis</term>, a process of ATP production in cellular metabolism, is used to generate 90 percent of the ATP made during glucose catabolism and is also the method used in the light reactions of photosynthesis to harness the energy of sunlight. The production of ATP using the process of chemiosmosis is called <term id="term-00006">oxidative phosphorylation</term> because of the involvement of oxygen in the process.</para>
