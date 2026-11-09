@@ -159,17 +159,17 @@
      <entry/>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00008">Topic 1.1 Structure of Water and Hydrogen Bonding</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00008">Topic 1.1 Structure of Water and Hydrogen Bonding</para></entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00009">1.1</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00009">1.1</para></entry>
      <entry>2.2</entry>
      <entry>1.1.A.1.i</entry>
      <entry>
       <para id="para-00010">Sec 2.1 Atoms, Isotopes, Ions, and Molecules: The Building Blocks</para>
       <para id="para-00011">Sec 2.2 Water</para>
      </entry>
-     <entry morerows="3">
+     <entry valign="top" morerows="3">
       <para id="para-00012">2:3</para>
       <para id="para-00013">2:9</para>
       <para id="para-00014">2:22</para>
@@ -195,10 +195,10 @@
      <entry>Sec 2.2 Water</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00018">Topic 1.2 Elements of Life</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00018">Topic 1.2 Elements of Life</para></entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00019">1.2</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00019">1.2</para></entry>
      <entry>
       <para id="para-00020">2.1</para>
       <para id="para-00021">2.3</para>
@@ -211,7 +211,7 @@
       <para id="para-00025">(Needed chemistry background)</para>
       <para id="para-00026">Much of the content after “Hydrocarbons” is beyond the scope of the course.</para>
      </entry>
-     <entry morerows="3">
+     <entry valign="top" morerows="3">
       <para id="para-00027">2:26</para>
       <para id="para-00028">2:31</para>
      </entry>
@@ -250,14 +250,14 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00041">Topic 1.3 Introduction to Macromolecules</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00041">Topic 1.3 Introduction to Macromolecules</para></entry>
     </row>
     <row>
-     <entry morerows="1"><para id="para-00042">1.3</para></entry>
+     <entry valign="top" morerows="1"><para id="para-00042">1.3</para></entry>
      <entry>3.1</entry>
      <entry>1.3.A.1</entry>
      <entry>Section 3.1 Synthesis of Biological Macromolecules</entry>
-     <entry morerows="1">
+     <entry valign="top" morerows="1">
       <para id="para-00043">3:1</para>
       <para id="para-00044">3:3</para>
       <para id="para-00045">3:5</para>
@@ -271,7 +271,7 @@
      <entry>Section 3.1 Synthesis of Biological Macromolecules</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00048">Topic 1.4 Carbohydrates</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00048">Topic 1.4 Carbohydrates</para></entry>
     </row>
     <row>
      <entry>1.4</entry>
@@ -286,14 +286,14 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00053">Topic 1.5 Lipids</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00053">Topic 1.5 Lipids</para></entry>
     </row>
     <row>
-     <entry morerows="7"><para id="para-00054">1.5</para></entry>
+     <entry valign="top" morerows="7"><para id="para-00054">1.5</para></entry>
      <entry>3.3</entry>
      <entry>1.5.A.1.i</entry>
      <entry>Section 3.3 Lipids</entry>
-     <entry morerows="7">
+     <entry valign="top" morerows="7">
       <para id="para-00055">3:12</para>
       <para id="para-00056">3:13</para>
       <para id="para-00057">3:14</para>
@@ -342,10 +342,10 @@
      <entry>Section 3.3 Lipids</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00064">Topic 1.6 Nucleic Acids</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00064">Topic 1.6 Nucleic Acids</para></entry>
     </row>
     <row>
-     <entry morerows="5"><para id="para-00065">1.6</para></entry>
+     <entry valign="top" morerows="5"><para id="para-00065">1.6</para></entry>
      <entry>
       <para id="para-00066">3.5</para>
       <para id="para-00067">14.2</para>
@@ -355,7 +355,7 @@
       <para id="para-00068">Section 3.5 Nucleic Acids</para>
       <para id="para-00069">Section 14.2</para>
      </entry>
-     <entry morerows="5">
+     <entry valign="top" morerows="5">
       <para id="para-00070">3:33</para>
       <para id="para-00071">3:34</para>
       <para id="para-00072">3:35</para>
@@ -418,14 +418,14 @@
      <entry>Section 3.5 Nucleic Acids</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00095">Topic 1.7 Proteins</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00095">Topic 1.7 Proteins</para></entry>
     </row>
     <row>
-     <entry morerows="5"><para id="para-00096">1.7</para></entry>
+     <entry valign="top" morerows="5"><para id="para-00096">1.7</para></entry>
      <entry>3.4</entry>
      <entry>1.7.A.1</entry>
      <entry>Section 3.4 Proteins</entry>
-     <entry morerows="5">
+     <entry valign="top" morerows="5">
       <para id="para-00097">3:26</para>
       <para id="para-00098">3:27</para>
       <para id="para-00099">3:28</para>
@@ -463,10 +463,10 @@
      <entry>Section 3.4 Proteins</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00106">Topic 2.1 Cell Structure and Function</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00106">Topic 2.1 Cell Structure and Function</para></entry>
     </row>
     <row>
-     <entry morerows="11"><para id="para-00107">2.1</para></entry>
+     <entry valign="top" morerows="11"><para id="para-00107">2.1</para></entry>
      <entry>4</entry>
      <entry/>
      <entry>
@@ -475,7 +475,7 @@
        study.
       </para>
      </entry>
-     <entry morerows="11">
+     <entry valign="top" morerows="11">
       <para id="para-00109">4:7</para>
       <para id="para-00110">4:9</para>
       <para id="para-00111">4:14</para>
@@ -554,17 +554,17 @@
      <entry>Section 4.3 Eukaryotic Cells</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-00126">Topic 2.2 Cell Size</para>
       <para id="para-00127">Book Content Supports Investigation 4: Diffusion and Osmosis in AP® Biology Investigative Labs</para>
      </entry>
     </row>
     <row>
-     <entry morerows="5"><para id="para-00128">2.2</para></entry>
+     <entry valign="top" morerows="5"><para id="para-00128">2.2</para></entry>
      <entry>4.1</entry>
      <entry>2.2.A.1</entry>
      <entry>Section 4.2 Prokaryotic Cells</entry>
-     <entry morerows="5">
+     <entry valign="top" morerows="5">
       <para id="para-00129">4:10</para>
       <para id="para-00130">4:32</para>
       <para id="para-00131">4:46</para>
@@ -600,14 +600,14 @@
      <entry>Section 24.1Animal Form and Function</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00136">Topic 2.3 Plasma Membrane</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00136">Topic 2.3 Plasma Membrane</para></entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00137">2.3</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00137">2.3</para></entry>
      <entry>5.1</entry>
      <entry>2.3.A.1</entry>
      <entry>Section 5.1 Components and Structure</entry>
-     <entry morerows="3">
+     <entry valign="top" morerows="3">
       <para id="para-00138">4:51</para>
       <para id="para-00139">5:1</para>
       <para id="para-00140">5:3</para>
@@ -634,14 +634,14 @@
      <entry>Section 5.1 Components and Structure</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00146">Topic 2.4 Membrane Permeability</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00146">Topic 2.4 Membrane Permeability</para></entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00147">2.4</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00147">2.4</para></entry>
      <entry>5.1</entry>
      <entry>2.4.A.1</entry>
      <entry>Section 5.1 Components and Structure</entry>
-     <entry morerows="3">
+     <entry valign="top" morerows="3">
       <para id="para-00148">4:31</para>
       <para id="para-00149">4:33</para>
       <para id="para-00150">5:2</para>
@@ -663,10 +663,10 @@
      <entry>Section 22.1 Prokaryotic Diversity</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00151">Topic 2.5 Membrane Transport</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00151">Topic 2.5 Membrane Transport</para></entry>
     </row>
     <row>
-     <entry morerows="4"><para id="para-00152">2.5</para></entry>
+     <entry valign="top" morerows="4"><para id="para-00152">2.5</para></entry>
      <entry>
       <para id="para-00153">5.2</para>
       <para id="para-00154">30.1</para>
@@ -678,7 +678,7 @@
       <para id="para-00157">Section 30.1 Systems of Gas Exchange</para>
       <para id="para-00158">Section 30.4 Transport of Gases in Human Bodily Fluids</para>
      </entry>
-     <entry morerows="4">
+     <entry valign="top" morerows="4">
       <para id="para-00159">5:16</para>
       <para id="para-00160">5:35</para>
       <para id="para-00161">5:41</para>
@@ -713,10 +713,10 @@
      <entry>Section 5.4Bulk Transport</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00168">Topic 2.6 Facilitated Diffusion</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00168">Topic 2.6 Facilitated Diffusion</para></entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00169">2.6</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00169">2.6</para></entry>
      <entry>
       <para id="para-00170">5.2</para>
       <para id="para-00171">29.4</para>
@@ -726,7 +726,7 @@
       <para id="para-00172">Section 5.2 Passive Transport</para>
       <para id="para-00173">Section 29.4 Excitation-Contraction Coupling</para>
      </entry>
-     <entry morerows="3">
+     <entry valign="top" morerows="3">
       <para id="para-00174">5:7</para>
       <para id="para-00175">5:9</para>
       <para id="para-00176">5:10</para>
@@ -760,13 +760,13 @@
      <entry>Section 5.2 Passive Transport</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-00187">Topic 2.7 Tonicity and Osmoregulation</para>
       <para id="para-00188">Book Content Supports Investigation 4: Diffusion and Osmosis in AP® Biology Investigative Labs</para>
      </entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00189">2.7</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00189">2.7</para></entry>
      <entry/>
      <entry/>
      <entry>Readings for this topic support Lab 4</entry>
@@ -782,7 +782,7 @@
       <para id="para-00192">Section 5.2 Passive Transport</para>
       <para id="para-00193">Section 32.1 Osmoregulation and Osmotic Balance</para>
      </entry>
-     <entry morerows="2">
+     <entry valign="top" morerows="2">
       <para id="para-00194">5:22</para>
       <para id="para-00195">5:23</para>
       <para id="para-00196">5:33</para>
@@ -812,10 +812,10 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00205">Topic 2.8 Mechanisms of Transport</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00205">Topic 2.8 Mechanisms of Transport</para></entry>
     </row>
     <row>
-     <entry morerows="1"><para id="para-00206">2.8</para></entry>
+     <entry valign="top" morerows="1"><para id="para-00206">2.8</para></entry>
      <entry>
       <para id="para-00207">5.3</para>
       <para id="para-00208">29.4</para>
@@ -825,7 +825,7 @@
       <para id="para-00209">Section 5.3 Active Transport</para>
       <para id="para-00210">Section 29.4 Muscle Contraction and Locomotion (Excitation-Contraction Coupling)</para>
      </entry>
-     <entry morerows="1">
+     <entry valign="top" morerows="1">
       <para id="para-00211">5:24</para>
       <para id="para-00212">5:34</para>
      </entry>
@@ -844,10 +844,10 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00219">Topic 2.9 Cell Compartmentalization</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00219">Topic 2.9 Cell Compartmentalization</para></entry>
     </row>
     <row>
-     <entry morerows="1"><para id="para-00220">2.9</para></entry>
+     <entry valign="top" morerows="1"><para id="para-00220">2.9</para></entry>
      <entry>
       <para id="para-00221">4.3</para>
       <para id="para-00222">4.4</para>
@@ -860,7 +860,7 @@
       <para id="para-00224">Section 4.3 Eukaryotic Cells</para>
       <para id="para-00225">Section 4.4 The Endomembrane System and Proteins</para>
      </entry>
-     <entry morerows="1"/>
+     <entry valign="top" morerows="1"/>
     </row>
     <row>
      <entry>
@@ -874,10 +874,10 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00230">Topic 2.10 Origins of Cell Compartmentalizations</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00230">Topic 2.10 Origins of Cell Compartmentalizations</para></entry>
     </row>
     <row>
-     <entry morerows="2"><para id="para-00231">2.10</para></entry>
+     <entry valign="top" morerows="2"><para id="para-00231">2.10</para></entry>
      <entry>
       <para id="para-00232">4.3 </para>
       <para id="para-00233">20.3</para>
@@ -890,7 +890,7 @@
       <para id="para-00235">Section 4.3 Eukaryotic Cells (Evolution Connection: Endosymbiosis)</para>
       <para id="para-00236">Section 20.3 Perspectives on the Phylogenetic Tree (Genome Fusion and the Evolution of Eukaryotes)</para>
      </entry>
-     <entry morerows="2">
+     <entry valign="top" morerows="2">
       <para id="para-00237">4:34</para>
       <para id="para-00238">4:35</para>
       <para id="para-00239">4:60</para>
@@ -908,17 +908,17 @@
      <entry>Section 4.4 The Endomembrane System and Proteins</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-00241">Topic 3.1 Enzymes</para>
       <para id="para-00242">Book Content Supports Investigation 13: Enzyme Activity in AP® Biology Investigative Labs</para>
      </entry>
     </row>
     <row>
-     <entry morerows="1"><para id="para-00243">3.1</para></entry>
+     <entry valign="top" morerows="1"><para id="para-00243">3.1</para></entry>
      <entry>6.5</entry>
      <entry>3.1.A.1</entry>
      <entry>Section 6.5 Enzymes</entry>
-     <entry morerows="1">
+     <entry valign="top" morerows="1">
       <para id="para-00244">6:26</para>
       <para id="para-00245">6:27</para>
       <para id="para-00246">6:28</para>
@@ -935,14 +935,14 @@
      <entry>Section 6.5 Enzymes</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00252">Topic 3.2 Environmental Impacts on Enzyme Function</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00252">Topic 3.2 Environmental Impacts on Enzyme Function</para></entry>
     </row>
     <row>
-     <entry morerows="5"><para id="para-00253">3.2</para></entry>
+     <entry valign="top" morerows="5"><para id="para-00253">3.2</para></entry>
      <entry>6.5</entry>
      <entry>3.2.A.1.i</entry>
      <entry>Section 6.5 Enzymes</entry>
-     <entry morerows="5">
+     <entry valign="top" morerows="5">
       <para id="para-00254">6:24</para>
       <para id="para-00255">6:25</para>
       <para id="para-00256">6:56</para>
@@ -982,10 +982,10 @@
      <entry>Section 6.5 Enzymes</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00259">Topic 3.3 Cellular Energy</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00259">Topic 3.3 Cellular Energy</para></entry>
     </row>
     <row>
-     <entry morerows="5"><para id="para-00260">3.3</para></entry>
+     <entry valign="top" morerows="5"><para id="para-00260">3.3</para></entry>
      <entry>
       <para id="para-00261">6.2</para>
       <para id="para-00262">6.3</para>
@@ -995,7 +995,7 @@
       <para id="para-00263">Section 6.2 Potential, Kinetic, Free, and Activation Energy</para>
       <para id="para-00264">Section 6.3 The Laws of Thermodynamics</para>
      </entry>
-     <entry morerows="5">
+     <entry valign="top" morerows="5">
       <para id="para-00265">6:6</para>
       <para id="para-00266">6:8</para>
       <para id="para-00267">6.22</para>
@@ -1058,17 +1058,17 @@
      <entry>Section 6.1 Energy and Metabolism</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-00288">Topic 3.4 Photosynthesis</para>
       <para id="para-00289">Book Content Supports Investigation 5: Photosynthesis in AP® Biology Investigative Labs</para>
      </entry>
     </row>
     <row>
-     <entry morerows="13"><para id="para-00290">3.4</para></entry>
+     <entry valign="top" morerows="13"><para id="para-00290">3.4</para></entry>
      <entry>8.1</entry>
      <entry>3.4.A.1.i</entry>
      <entry>Section 8.1 Overview of Photosynthesis</entry>
-     <entry morerows="13">
+     <entry valign="top" morerows="13">
       <para id="para-00291">6:9</para>
       <para id="para-00292">6:20</para>
       <para id="para-00293">6:54</para>
@@ -1183,13 +1183,13 @@
      <entry>Section 8.3 Using Light to Make Organic Molecules</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-00332">Topic 3.5 Cellular Respiration</para>
       <para id="para-00333">Book Content Supports Investigation 6: Cellular Respiration in AP® Biology Investigative Labs</para>
      </entry>
     </row>
     <row>
-     <entry morerows="11"><para id="para-00334">3.5</para></entry>
+     <entry valign="top" morerows="11"><para id="para-00334">3.5</para></entry>
      <entry>
       <para id="para-00335">7.1</para>
       <para id="para-00336">7.2</para>
@@ -1208,7 +1208,7 @@
       <para id="para-00341">Section 7.2 Glycolysis</para>
       <para id="para-00342">Section 7.6 Connections of Carbohydrate, Protein, and Lipid Metabolic Pathways</para>
      </entry>
-     <entry morerows="11">
+     <entry valign="top" morerows="11">
       <para id="para-00343">6:1</para>
       <para id="para-00344">6:2</para>
       <para id="para-00345">6:4</para>
@@ -1302,10 +1302,10 @@
      <entry>Section 7.5 Metabolism without Oxygen</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00378">Topic 4.1 Cell Communication</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00378">Topic 4.1 Cell Communication</para></entry>
     </row>
     <row>
-     <entry morerows="2"><para id="para-00379">4.1</para></entry>
+     <entry valign="top" morerows="2"><para id="para-00379">4.1</para></entry>
      <entry>
       <para id="para-00380">9.1</para>
       <para id="para-00381">9.4</para>
@@ -1317,7 +1317,7 @@
       <para id="para-00384">Section 9.4 Signaling in Single-Celled Organisms</para>
       <para id="para-00385">Section 28.1Types of Hormones</para>
      </entry>
-     <entry morerows="2">
+     <entry valign="top" morerows="2">
       <para id="para-00386">9:2</para>
       <para id="para-00387">9:30</para>
      </entry>
@@ -1347,14 +1347,14 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00398">Topic 4.2 Introduction to Signal Transduction</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00398">Topic 4.2 Introduction to Signal Transduction</para></entry>
     </row>
     <row>
-     <entry morerows="8"><para id="para-00399">4.2</para></entry>
+     <entry valign="top" morerows="8"><para id="para-00399">4.2</para></entry>
      <entry>9.2</entry>
      <entry>4.2.A.1</entry>
      <entry>Section 9.2 Propagation of the Signal</entry>
-     <entry morerows="8">
+     <entry valign="top" morerows="8">
       <para id="para-00400">9:1</para>
       <para id="para-00401">9:3</para>
       <para id="para-00402">9:4</para>
@@ -1447,14 +1447,14 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00436">Topic 4.3 Signal Transduction Pathways</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00436">Topic 4.3 Signal Transduction Pathways</para></entry>
     </row>
     <row>
-     <entry morerows="2"><para id="para-00437">4.3</para></entry>
+     <entry valign="top" morerows="2"><para id="para-00437">4.3</para></entry>
      <entry>9.3</entry>
      <entry>4.3.A.1</entry>
      <entry>Section 9.3 Response to the Signal</entry>
-     <entry morerows="2">
+     <entry valign="top" morerows="2">
       <para id="para-00438">9:5</para>
       <para id="para-00439">9:13</para>
       <para id="para-00440">9:15</para>
@@ -1479,10 +1479,10 @@
      <entry>Section 9.3 Response to the Signal</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00449">Topic 4.4 Feedback</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00449">Topic 4.4 Feedback</para></entry>
     </row>
     <row>
-     <entry morerows="1"><para id="para-00450">4.4</para></entry>
+     <entry valign="top" morerows="1"><para id="para-00450">4.4</para></entry>
      <entry>
       <para id="para-00451">7.7</para>
       <para id="para-00452">24.3</para>
@@ -1496,7 +1496,7 @@
       <para id="para-00457">Section 28.3 Regulation of Body Processes</para>
       <para id="para-00458">Section 28.4 Regulation of Hormone Production</para>
      </entry>
-     <entry morerows="1">
+     <entry valign="top" morerows="1">
       <para id="para-00459">9:19</para>
       <para id="para-00460">10:42</para>
      </entry>
@@ -1517,7 +1517,7 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-00469">Topic 4.5 Cell Cycle</para>
       <para id="para-00470">
        Book Content Supports Investigation 7: Cell Division: Mitosis and Meiosis in AP® Biology Investigative
@@ -1526,7 +1526,7 @@
      </entry>
     </row>
     <row>
-     <entry morerows="13">
+     <entry valign="top" morerows="13">
       <para id="para-00471">4.5</para>
       
      </entry>
@@ -1538,7 +1538,7 @@
       </para>
       <para id="para-00473">Section 10.1 Cell Division</para>
      </entry>
-     <entry morerows="13">
+     <entry valign="top" morerows="13">
       <para id="para-00474">10:1</para>
       <para id="para-00475">10:5</para>
       <para id="para-00476">10:6</para>
@@ -1623,10 +1623,10 @@
      <entry>Section 10.2 The Cell Cycle</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00490">Topic 4.6 Regulation of Cell Cycle</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00490">Topic 4.6 Regulation of Cell Cycle</para></entry>
     </row>
     <row>
-     <entry morerows="2"><para id="para-00491">4.6</para></entry>
+     <entry valign="top" morerows="2"><para id="para-00491">4.6</para></entry>
      <entry>
       <para id="para-00492">10.3</para>
       <para id="para-00493">16.7</para>
@@ -1636,7 +1636,7 @@
       <para id="para-00494">Section 10.3 Control of the Cell Cycle</para>
       <para id="para-00495">Section 16.7 Cancer and Gene Regulation</para>
      </entry>
-     <entry morerows="2">
+     <entry valign="top" morerows="2">
       <para id="para-00496">9:14</para>
       <para id="para-00497">10:10</para>
       <para id="para-00498">10:11</para>
@@ -1675,7 +1675,7 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-00515">Topic 5.1 Meiosis</para>
       <para id="para-00516">
        Book Content Supports Investigation 7: Cell Division: Mitosis and Meiosis in AP® Biology Investigative
@@ -1684,13 +1684,13 @@
      </entry>
     </row>
     <row>
-     <entry morerows="9"><para id="para-00517">5.1</para></entry>
+     <entry valign="top" morerows="9"><para id="para-00517">5.1</para></entry>
      <entry>11.1</entry>
      <entry>5.1.A.1</entry>
      <entry>
       <para id="para-00518">Section 11.1 The Process of Meiosis (Read Section 4.5 for background on microtubules.)</para>
      </entry>
-     <entry morerows="9">
+     <entry valign="top" morerows="9">
       <para id="para-00519">11:1</para>
       <para id="para-00520">11.2</para>
       <para id="para-00521">11:3</para>
@@ -1751,10 +1751,10 @@
      <entry>Section 11.1 The Process of Meiosis</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00530">Topic 5.2 Meiosis and Genetic Diversity</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00530">Topic 5.2 Meiosis and Genetic Diversity</para></entry>
     </row>
     <row>
-     <entry morerows="2"><para id="para-00531">5.2</para></entry>
+     <entry valign="top" morerows="2"><para id="para-00531">5.2</para></entry>
      <entry>
       <para id="para-00532">11.1</para>
       <para id="para-00533">13.2</para>
@@ -1764,7 +1764,7 @@
       <para id="para-00534">Section 11.1 The Process of Meiosis</para>
       <para id="para-00535">Section 13.2 Chromosomal Basis of Inherited Disorders</para>
      </entry>
-     <entry morerows="2">
+     <entry valign="top" morerows="2">
       <para id="para-00536">10:37</para>
       <para id="para-00537">11:11</para>
       <para id="para-00538">11:15</para>
@@ -1798,10 +1798,10 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00553">Topic 5.3 Mendelian Genetics</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00553">Topic 5.3 Mendelian Genetics</para></entry>
     </row>
     <row>
-     <entry morerows="5"><para id="para-00554">5.3</para></entry>
+     <entry valign="top" morerows="5"><para id="para-00554">5.3</para></entry>
      <entry>
       <para id="para-00555">12.1</para>
       <para id="para-00556">12.3</para>
@@ -1811,7 +1811,7 @@
       <para id="para-00557">Section 12.1 Mendel’s Experiments and the Laws of Probability</para>
       <para id="para-00558">Section 12.3 Laws of Inheritance</para>
      </entry>
-     <entry morerows="5">
+     <entry valign="top" morerows="5">
       <para id="para-00559">12:3</para>
       <para id="para-00560">12:4</para>
       <para id="para-00561">12:5</para>
@@ -1876,10 +1876,10 @@
      <entry>Section 12.2 Characteristics and Traits</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00591">Topic 5.4 Non-Mendelian Genetics</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00591">Topic 5.4 Non-Mendelian Genetics</para></entry>
     </row>
     <row>
-     <entry morerows="7"><para id="para-00592">5.4</para></entry>
+     <entry valign="top" morerows="7"><para id="para-00592">5.4</para></entry>
      <entry>
       <para id="para-00593">13.1</para>
       <para id="para-00594">17.2</para>
@@ -1889,7 +1889,7 @@
       <para id="para-00595">Section 13.1 Chromosomal Theory and Genetic Linkage</para>
       <para id="para-00596">Section 17.2 Mapping Genomes</para>
      </entry>
-     <entry morerows="7">
+     <entry valign="top" morerows="7">
       <para id="para-00597">12:19</para>
       <para id="para-00598">12:24</para>
       <para id="para-00599">12:33</para>
@@ -1959,7 +1959,7 @@
      <entry>Section 12.3 Laws of Inheritance</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00626">Topic 5.5 Environmental Effects on Phenotype</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00626">Topic 5.5 Environmental Effects on Phenotype</para></entry>
     </row>
     <row>
      <entry>5.5</entry>
@@ -1969,17 +1969,17 @@
      <entry>14:64</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00627">Topic 6.1 DNA and RNA Structure</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00627">Topic 6.1 DNA and RNA Structure</para></entry>
     </row>
     <row>
-     <entry morerows="5"><para id="para-00628">6.1</para></entry>
+     <entry valign="top" morerows="5"><para id="para-00628">6.1</para></entry>
      <entry>14.2</entry>
      <entry>6.1.A.1.i</entry>
      <entry>
       <para id="para-00629">Section 14.1 Historical Basis of Modern Understanding (Read for Unit 6 introduction and context.)</para>
       <para id="para-00630">Section 14.2 DNA Structure and Sequencing</para>
      </entry>
-     <entry morerows="5">
+     <entry valign="top" morerows="5">
       <para id="para-00631">14:5</para>
       <para id="para-00632">14:6</para>
       <para id="para-00633">14.7</para>
@@ -2021,16 +2021,16 @@
      <entry>Section 14.2 DNA Structure and Sequencing</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00642">Topic 6.2 DNA Replication</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00642">Topic 6.2 DNA Replication</para></entry>
     </row>
     <row>
-     <entry morerows="6"><para id="para-00643">6.2</para></entry>
+     <entry valign="top" morerows="6"><para id="para-00643">6.2</para></entry>
      <entry>14.4</entry>
      <entry>6.2.A.1.i</entry>
      <entry>
       <para id="para-00644">Section 14.4 DNA Replication in Prokaryotes (Read 14.3 for introduction and context)</para>
      </entry>
-     <entry morerows="6">
+     <entry valign="top" morerows="6">
       <para id="para-00645">14:16</para>
       <para id="para-00646">14:19</para>
       <para id="para-00647">14:21</para>
@@ -2083,14 +2083,14 @@
      <entry>Section 14.4 DNA Replication in Prokaryotes</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00664">Topic 6.3 Transcription and RNA Processing</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00664">Topic 6.3 Transcription and RNA Processing</para></entry>
     </row>
     <row>
-     <entry morerows="7"><para id="para-00665">6.3</para></entry>
+     <entry valign="top" morerows="7"><para id="para-00665">6.3</para></entry>
      <entry>15.1</entry>
      <entry>6.3.A.1.i</entry>
      <entry>Section 15.1 The Genetic Code</entry>
-     <entry morerows="7">
+     <entry valign="top" morerows="7">
       <para id="para-00666">14:62</para>
       <para id="para-00667">15:1</para>
       <para id="para-00668">15:3</para>
@@ -2174,14 +2174,14 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00705">Topic 6.4 Translation</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00705">Topic 6.4 Translation</para></entry>
     </row>
     <row>
-     <entry morerows="10"><para id="para-00706">6.4</para></entry>
+     <entry valign="top" morerows="10"><para id="para-00706">6.4</para></entry>
      <entry>15.5</entry>
      <entry>6.4.A.1</entry>
      <entry>Section 15.5 Ribosomes and Protein Synthesis</entry>
-     <entry morerows="10">
+     <entry valign="top" morerows="10">
       <para id="para-00707">15:21</para>
       <para id="para-00708">15:22</para>
       <para id="para-00709">15:23</para>
@@ -2268,14 +2268,14 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00734">Topic 6.5 Regulation of Gene Expression</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00734">Topic 6.5 Regulation of Gene Expression</para></entry>
     </row>
     <row>
-     <entry morerows="5"><para id="para-00735">6.5</para></entry>
+     <entry valign="top" morerows="5"><para id="para-00735">6.5</para></entry>
      <entry>16.4</entry>
      <entry>6.5.A.1</entry>
      <entry>Section 16.4 Eukaryotic Transcriptional Gene Regulation</entry>
-     <entry morerows="5">
+     <entry valign="top" morerows="5">
       <para id="para-00736">16:1</para>
       <para id="para-00737">16:2</para>
       <para id="para-00738">16:3</para>
@@ -2338,14 +2338,14 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00766">Topic 6.6 Gene Expression and Cell Specialization</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00766">Topic 6.6 Gene Expression and Cell Specialization</para></entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00767">6.6</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00767">6.6</para></entry>
      <entry>16.4</entry>
      <entry>6.6.A.1</entry>
      <entry>Section 16.4 Eukaryotic Transcriptional Gene Regulation</entry>
-     <entry morerows="3">
+     <entry valign="top" morerows="3">
       <para id="para-00768">15:12</para>
       <para id="para-00769">16:9</para>
       <para id="para-00770">16:11</para>
@@ -2383,14 +2383,14 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00782">Topic 6.7 Mutations</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00782">Topic 6.7 Mutations</para></entry>
     </row>
     <row>
-     <entry morerows="11"><para id="para-00783">6.7</para></entry>
+     <entry valign="top" morerows="11"><para id="para-00783">6.7</para></entry>
      <entry>14.6</entry>
      <entry>6.7.A.1.i</entry>
      <entry>Section 14.6 DNA Repair</entry>
-     <entry morerows="11">
+     <entry valign="top" morerows="11">
       <para id="para-00784">14:2</para>
       <para id="para-00785">14:29</para>
       <para id="para-00786">14:30</para>
@@ -2466,7 +2466,7 @@
      <entry>Section 20.3 Perspectives on the Phylogenetic Tree</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-00800">Topic 6.8 Biotechnology</para>
       <para id="para-00801">Book Content Supports the following labs in AP® Biology Investigative Labs</para>
       <para id="para-00802">•Investigation 3: Comparing DNA Sequences to Understand Evolutionary Relationships with BLAST</para>
@@ -2475,7 +2475,7 @@
      </entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00805">6.8</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00805">6.8</para></entry>
      <entry>
       <para id="para-00806">14.2</para>
       <para id="para-00807">17.1</para>
@@ -2485,7 +2485,7 @@
       <para id="para-00808">Section 14.2 DNA Structure and Sequencing</para>
       <para id="para-00809">Section 17.1 Biotechnology</para>
      </entry>
-     <entry morerows="3">
+     <entry valign="top" morerows="3">
       <para id="para-00810">14:56</para>
       <para id="para-00811">14:61</para>
       <para id="para-00812">17:2</para>
@@ -2513,14 +2513,14 @@
      <entry>Section 14.2 DNA Structure and Sequencing</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00819">Topic 7.1 Introduction to Natural Selection</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00819">Topic 7.1 Introduction to Natural Selection</para></entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00820">7.1</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00820">7.1</para></entry>
      <entry>18.1</entry>
      <entry>7.1.A.1</entry>
      <entry>Section 18.1 Understanding Evolution</entry>
-     <entry morerows="3">
+     <entry valign="top" morerows="3">
       <para id="para-00821">18:1</para>
       <para id="para-00822">18:2</para>
       <para id="para-00823">18:3</para>
@@ -2549,10 +2549,10 @@
      <entry>Section 18.1 Understanding Evolution</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00830">Topic 7.2 Natural Selection</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00830">Topic 7.2 Natural Selection</para></entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00831">7.2</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00831">7.2</para></entry>
      <entry>
       <para id="para-00832">18.1</para>
       <para id="para-00833">19.3</para>
@@ -2562,7 +2562,7 @@
       <para id="para-00834">Section 18.1 Understanding Evolution</para>
       <para id="para-00835">Section 19.3 Adaptive Evolution</para>
      </entry>
-     <entry morerows="3">
+     <entry valign="top" morerows="3">
       <para id="para-00836">18:26</para>
       <para id="para-00837">18:31</para>
       <para id="para-00838">18:58</para>
@@ -2601,7 +2601,7 @@
      <entry>Section 18.1 Understanding Evolution</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-00850">Topic 7.3 Artificial Selection</para>
       <para id="para-00851">Book Content Supports Investigation 1: Artificial Selection in AP® Biology Investigative Labs</para>
      </entry>
@@ -2614,10 +2614,10 @@
      <entry>19:31</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00852">Topic 7.4 Population Genetics</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00852">Topic 7.4 Population Genetics</para></entry>
     </row>
     <row>
-     <entry morerows="8"><para id="para-00853">7.4</para></entry>
+     <entry valign="top" morerows="8"><para id="para-00853">7.4</para></entry>
      <entry>
       <para id="para-00854">18.1</para>
       <para id="para-00855">19.2</para>
@@ -2627,7 +2627,7 @@
       <para id="para-00856">Section 18.1 Understanding Evolution</para>
       <para id="para-00857">Section 19.2 Population Genetics</para>
      </entry>
-     <entry morerows="8">
+     <entry valign="top" morerows="8">
       <para id="para-00858">19:2</para>
       <para id="para-00859">19:9</para>
       <para id="para-00860">19:10</para>
@@ -2700,7 +2700,7 @@
      <entry>Section 19.1 Population Evolution</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-00881">Topic 7.5 Hardy-Weinberg Equilibrium</para>
       <para id="para-00882">
        Book Content Supports Investigation 2: Mathematical Modeling: Hardy-Weinberg in AP® Biology Investigative
@@ -2709,11 +2709,11 @@
      </entry>
     </row>
     <row>
-     <entry morerows="5"><para id="para-00883">7.5</para></entry>
+     <entry valign="top" morerows="5"><para id="para-00883">7.5</para></entry>
      <entry>19.1</entry>
      <entry>7.5.A.1.i</entry>
      <entry>Section 19.1 Population Evolution</entry>
-     <entry morerows="5">
+     <entry valign="top" morerows="5">
       <para id="para-00884">19:3</para>
       <para id="para-00885">19:18</para>
       <para id="para-00886">19:33</para>
@@ -2746,14 +2746,14 @@
      <entry>Section 19.1 Population Evolution</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00888">Topic 7.6 Evidence of Evolution</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00888">Topic 7.6 Evidence of Evolution</para></entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00889">7.6</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00889">7.6</para></entry>
      <entry>18.1</entry>
      <entry>7.6.A.1</entry>
      <entry>Section 18.1 Understanding Evolution</entry>
-     <entry morerows="3">
+     <entry valign="top" morerows="3">
       <para id="para-00890">18:7</para>
       <para id="para-00891">18:8</para>
       <para id="para-00892">18:46</para>
@@ -2779,14 +2779,14 @@
      <entry>Section 18.1 Understanding Evolution</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00897">Topic 7.7 Common Ancestry</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00897">Topic 7.7 Common Ancestry</para></entry>
     </row>
     <row>
-     <entry morerows="2"><para id="para-00898">7.7</para></entry>
+     <entry valign="top" morerows="2"><para id="para-00898">7.7</para></entry>
      <entry>1.2</entry>
      <entry>7.7.A.1.i</entry>
      <entry>Section 1.2 Themes and Concepts of Biology</entry>
-     <entry morerows="2"/>
+     <entry valign="top" morerows="2"/>
     </row>
     <row>
      <entry>
@@ -2805,14 +2805,14 @@
      <entry>Section 15.4 RNA Processing in Eukaryotes</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00903">Topic 7.8 Continuing Evolution</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00903">Topic 7.8 Continuing Evolution</para></entry>
     </row>
     <row>
-     <entry morerows="3"><para id="para-00904">7.8</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00904">7.8</para></entry>
      <entry>22.4</entry>
      <entry>7.8.A.1.i</entry>
      <entry>Section 22.4 Bacterial Diseases in Humans</entry>
-     <entry morerows="3"><para id="para-00905">18:10</para></entry>
+     <entry valign="top" morerows="3"><para id="para-00905">18:10</para></entry>
     </row>
     <row>
      <entry>18.1</entry>
@@ -2830,14 +2830,14 @@
      <entry>Section 22.4 Bacterial Diseases in Humans</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00906">Topic 7.9 Phylogeny</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00906">Topic 7.9 Phylogeny</para></entry>
     </row>
     <row>
      <entry>7.9</entry>
      <entry>20.1</entry>
      <entry>7.9.A.1</entry>
      <entry>Section 20.1 Organizing Life on Earth</entry>
-     <entry morerows="6">
+     <entry valign="top" morerows="6">
       <para id="para-00907">20:7</para>
       <para id="para-00908">20:8</para>
       <para id="para-00909">20:10</para>
@@ -2913,14 +2913,14 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00936">Topic 7.10 Speciation</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00936">Topic 7.10 Speciation</para></entry>
     </row>
     <row>
-     <entry morerows="6"><para id="para-00937">7.10</para></entry>
+     <entry valign="top" morerows="6"><para id="para-00937">7.10</para></entry>
      <entry>18.2</entry>
      <entry>7.10.A.1</entry>
      <entry>Section 18.2 Formation of New Species</entry>
-     <entry morerows="6">
+     <entry valign="top" morerows="6">
       <para id="para-00938">18:5</para>
       <para id="para-00939">18:6</para>
       <para id="para-00940">18:11</para>
@@ -2988,14 +2988,14 @@
      <entry>Section 18.2 Formation of New Species</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00968">Topic 7.11 Variations in Population</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00968">Topic 7.11 Variations in Population</para></entry>
     </row>
     <row>
      <entry>7.11</entry>
      <entry>38.1</entry>
      <entry>7.11.A.1.i</entry>
      <entry>Section 38.1 The Biodiversity Crisis</entry>
-     <entry morerows="2"/>
+     <entry valign="top" morerows="2"/>
     </row>
     <row>
      <entry/>
@@ -3010,14 +3010,14 @@
      <entry>Section 19.1 Population Evolution</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-00969">Topic 7.12 Origins of Life on Earth</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-00969">Topic 7.12 Origins of Life on Earth</para></entry>
     </row>
     <row>
-     <entry morerows="4"><para id="para-00970">7.12</para></entry>
+     <entry valign="top" morerows="4"><para id="para-00970">7.12</para></entry>
      <entry>18.1</entry>
      <entry>7.12.A.1.i</entry>
      <entry>Section 18.1 Understanding Evolution</entry>
-     <entry morerows="4">
+     <entry valign="top" morerows="4">
       <para id="para-00971">15:40</para>
       <para id="para-00972">18:9</para>
       <para id="para-00973">18:74</para>
@@ -3046,13 +3046,13 @@
      <entry>Section 15.4 RNA Processing in Eukaryotes: Evolution Connection</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-00974">Topic 8.1 Response to Environment</para>
       <para id="para-00975">Book Content Supports Investigation 12: Fruit Fly Behavior in AP® Biology Investigative Labs</para>
      </entry>
     </row>
     <row>
-     <entry morerows="5"><para id="para-00976">8.1</para></entry>
+     <entry valign="top" morerows="5"><para id="para-00976">8.1</para></entry>
      <entry>
       <para id="para-00977">23.6</para>
       <para id="para-00978">35.2</para>
@@ -3069,7 +3069,7 @@
        optional out-of-scope reading.)
       </para>
      </entry>
-     <entry morerows="5">
+     <entry valign="top" morerows="5">
       <para id="para-00985">36:41</para>
       <para id="para-00986">36:42</para>
       <para id="para-00987">36:43</para>
@@ -3147,17 +3147,17 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5">
+     <entry namest="col1" nameend="col5" align="center">
       <para id="para-01011">Topic 8.2 Energy Flow Through Ecosystems</para>
       <para id="para-01012">Content Supports Investigation 10: Energy Dynamics in AP® Biology Investigative Labs</para>
      </entry>
     </row>
     <row>
-     <entry morerows="16"><para id="para-01013">8.2</para></entry>
+     <entry valign="top" morerows="16"><para id="para-01013">8.2</para></entry>
      <entry>37.2</entry>
      <entry>8.2.A.1.i</entry>
      <entry>Section 37.2 Energy Flow through Ecosystems</entry>
-     <entry morerows="16">
+     <entry valign="top" morerows="16">
       <para id="para-01014">35:1</para>
       <para id="para-01015">35:2</para>
       <para id="para-01016">35:5</para>
@@ -3324,14 +3324,14 @@
      <entry>Section 37.2 Energy Flow through Ecosystems</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-01089">Topic 8.3 Population Ecology</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-01089">Topic 8.3 Population Ecology</para></entry>
     </row>
     <row>
-     <entry morerows="2"><para id="para-01090">8.3</para></entry>
+     <entry valign="top" morerows="2"><para id="para-01090">8.3</para></entry>
      <entry>36.1</entry>
      <entry>8.3.A.1</entry>
      <entry>Section 36.1 Population Demographics</entry>
-     <entry morerows="2">
+     <entry valign="top" morerows="2">
       <para id="para-01091">35:7</para>
       <para id="para-01092">36:4</para>
       <para id="para-01093">36:5</para>
@@ -3372,10 +3372,10 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-01114">Topic 8.4 Effect of Density on Population</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-01114">Topic 8.4 Effect of Density on Population</para></entry>
     </row>
     <row>
-     <entry morerows="1"><para id="para-01115">8.4</para></entry>
+     <entry valign="top" morerows="1"><para id="para-01115">8.4</para></entry>
      <entry>
       <para id="para-01116">36.3</para>
       <para id="para-01117">36.4</para>
@@ -3387,7 +3387,7 @@
       <para id="para-01120">Section 36.4 Population Dynamics and Regulation</para>
       <para id="para-01121">Section 36.5 Human Population Growth (Supplemental)</para>
      </entry>
-     <entry morerows="1">
+     <entry valign="top" morerows="1">
       <para id="para-01122">36:13</para>
       <para id="para-01123">36:14</para>
       <para id="para-01124">36:15</para>
@@ -3420,14 +3420,14 @@
      </entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-01144">Topic 8.5 Community Ecology</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-01144">Topic 8.5 Community Ecology</para></entry>
     </row>
     <row>
-     <entry morerows="4"><para id="para-01145">8.5</para></entry>
+     <entry valign="top" morerows="4"><para id="para-01145">8.5</para></entry>
      <entry>36.6</entry>
      <entry>8.5.A.1</entry>
      <entry>Section 36.6 Community Ecology</entry>
-     <entry morerows="4">
+     <entry valign="top" morerows="4">
       <para id="para-01146">35:38</para>
       <para id="para-01147">35:39</para>
       <para id="para-01148">35:40</para>
@@ -3462,14 +3462,14 @@
      <entry>Section 36.6 Community Ecology</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-01157">Topic 8.6 Biodiversity</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-01157">Topic 8.6 Biodiversity</para></entry>
     </row>
     <row>
-     <entry morerows="2"><para id="para-01158">8.6</para></entry>
+     <entry valign="top" morerows="2"><para id="para-01158">8.6</para></entry>
      <entry>38.1</entry>
      <entry>8.6.A.1</entry>
      <entry>Section 38.1 The Biodiversity Crisis</entry>
-     <entry morerows="2">
+     <entry valign="top" morerows="2">
       <para id="para-01159">36:30</para>
       <para id="para-01160">36:38</para>
       <para id="para-01161">36:73</para>
@@ -3487,14 +3487,14 @@
      <entry>Section 36.6 Community Ecology</entry>
     </row>
     <row>
-     <entry namest="col1" nameend="col5"><para id="para-01163">Topic 8.7 Disruptions in Ecosystems</para></entry>
+     <entry namest="col1" nameend="col5" align="center"><para id="para-01163">Topic 8.7 Disruptions in Ecosystems</para></entry>
     </row>
     <row>
-     <entry morerows="6"><para id="para-01164">8.7</para></entry>
+     <entry valign="top" morerows="6"><para id="para-01164">8.7</para></entry>
      <entry>18.1</entry>
      <entry>8.7.A.1</entry>
      <entry>Section 18.1 Understanding Evolution</entry>
-     <entry morerows="6">
+     <entry valign="top" morerows="6">
       <para id="para-01165">35:30</para>
       <para id="para-01166">35:31</para>
       <para id="para-01167">35:32</para>
