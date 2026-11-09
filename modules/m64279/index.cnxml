@@ -4,7 +4,7 @@
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:content-id>m64279</md:content-id>
     <md:title>Preface</md:title>
-    <md:abstract />
+    <md:abstract/>
     <md:uuid>1dde1b61-63d4-4d4c-9137-d18fc12b56b3</md:uuid>
   </metadata>
 
@@ -108,361 +108,3448 @@
       <title>About the authors</title>
       <section id="fs-id1169908449353">
         <title>Senior contributing authors</title>
-        <para id="fs-id1169900896707"><emphasis effect="bold">Julianne Zedalis, Bishop’s School, La Jolla, California</emphasis><newline /> Julianne Zedalis has taught AP<sup>®</sup> Biology for over twenty years. She served on the College Board’s committee to rewrite and test the revised AP<sup>®</sup> Curriculum Framework, working with other high school AP<sup>®</sup> teachers and college faculty as well as the National Science Foundation. She was later selected to chair the College Board’s Curriculum Development and Assessment Committee.</para>
-        <para id="fs-id1169903834582"><emphasis effect="bold">Dr. John Eggebrecht, Brooklyn Technical High School (retired), Brooklyn, New York</emphasis><newline /> John Eggebrecht taught AP<sup>®</sup> Physics and Biology courses for over thirty years. He was instrumental in the development and revision of various AP<sup>®</sup> curriculum frameworks over an extended collaboration with the College Board and other educational organizations. Under his guidance, Brooklyn Tech was repeatedly selected by the College Board as an exemplary AP<sup>®</sup> program, and its practices and students outcomes were featured in several publications. In addition to his writing role, John regularly evaluates course materials and programs for alignment and quality. </para>
+        <para id="fs-id1169900896707"><emphasis effect="bold">Julianne Zedalis, Bishop’s School, La Jolla, California</emphasis><newline/> Julianne Zedalis has taught AP<sup>®</sup> Biology for over twenty years. She served on the College Board’s committee to rewrite and test the revised AP<sup>®</sup> Curriculum Framework, working with other high school AP<sup>®</sup> teachers and college faculty as well as the National Science Foundation. She was later selected to chair the College Board’s Curriculum Development and Assessment Committee.</para>
+        <para id="fs-id1169903834582"><emphasis effect="bold">Dr. John Eggebrecht, Brooklyn Technical High School (retired), Brooklyn, New York</emphasis><newline/> John Eggebrecht taught AP<sup>®</sup> Physics and Biology courses for over thirty years. He was instrumental in the development and revision of various AP<sup>®</sup> curriculum frameworks over an extended collaboration with the College Board and other educational organizations. Under his guidance, Brooklyn Tech was repeatedly selected by the College Board as an exemplary AP<sup>®</sup> program, and its practices and students outcomes were featured in several publications. In addition to his writing role, John regularly evaluates course materials and programs for alignment and quality. </para>
       </section>
       <section id="fs-id1169908396994">
         <title>Contributing authors</title>
-        <para id="fs-id1169903805324">Connie Rye, East Mississippi Community College<newline /> Robert Wise, The University of Wisconsin Oshkosh<newline /> Vladimir Jurukovski, Suffolk County Community College<newline /> Jean DeSaix, The University of North Carolina at Chapel Hill<newline /> Jung Choi, Georgia Institute of Technology<newline /> Yael Avissar, Rhode Island College </para>
+        <para id="fs-id1169903805324">Connie Rye, East Mississippi Community College<newline/> Robert Wise, The University of Wisconsin Oshkosh<newline/> Vladimir Jurukovski, Suffolk County Community College<newline/> Jean DeSaix, The University of North Carolina at Chapel Hill<newline/> Jung Choi, Georgia Institute of Technology<newline/> Yael Avissar, Rhode Island College </para>
       </section>
     </section>
     <section id="fs-id1169909702762">
       <title>Curriculum Framework for AP<sup>®</sup> Biology</title>
-      <table id="fs-id1169907365241" summary="The table is titled Big Idea 1: The process of evolution drives the diversity and unity of life. The first column is labeled Topic1.A. Change in the genetic makeup of a population over time is evolution. The second column is labeled Chapter/Key Concepts. The first row reads 1.A.1. Natural selection is a major mechanism of evolution. It contains the chapter/key concepts 5.3, 18.1, 18.2, 19.1, 19.2, 19.3, 21.2, 23.5. The second row reads 1.A.2. Natural selection acts on phenotypic variations in populations. It contains the chapter/key concepts 7.3, 7.6, 18.2, 19.2, 19.3, 36.5. The third row reads 1.A.3. Evolutionary change is also driven by random processes. It contains the chapter/key concepts 19.1, 19.2. The fourth row reads 1.A.4. Biological evolution is supported by scientific evidence from many disciplines, including mathematics. It contains the chapter/key concepts 2.1, 5.2, 8.2, 11.1, 14.1, 17.1, 18.1, 19.3. The next Topicis Topic1.B. Organisms are linked by lines of descent from common ancestry. The first row reads 1.B.1. Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. It contains the chapter/key concepts 3.4, 4.3, 4.6, 8.2, 15.3, 13.2, 14.1, 15.5, 18.1, 20.1, 20.2. The second row reads 1.B.2. Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested. It contains the chapter/key concepts 14.4, 20.1, 20.2, 20.3. The next Topicis Topic1.C. Life continues to evolve within a changing environment. The first row reads 1.C.1. Speciation and extinction have occurred throughout the Earth's history. It contains the chapter/key concepts 14.4, 18.2, 20.1, 38.1. The second row reads 1.C.2. Speciation may occur when two populations become reproductively isolated from each other. It contains the chapter/key concepts 18.2, 19.2, 23.5. The third row reads 1.C.3. Populations of organisms continue to evolve. It contains the chapter/key concepts 7.3, 7.6, 18.1, 18.3, 19.1, 19.2, 20.1, 20.2, 23.5. The next Topicis Topic1.D. The origin of living systems is explained by natural processes. The first row reads 1.D.1. There are several hypotheses about the natural origin of life on Earth, each with supporting scientific evidence. It contains the chapter/key concepts 8.2, 18.1, 20.1, 21.1, 20.3. The second row reads 1.D.2. Scientific evidence from many different disciplines supports models of the origin of life. It contains the chapter/key concepts 8.2, 18.1, 20.2, 28.1." class="unnumbered top-titled">
-        <label />
-        <tgroup cols="2">
-          <colspec colname="col1" />
-          <colspec colname="col2" />
-          <thead>
-            <row>
-              <entry namest="col1" nameend="col2">Big Idea 1: The process of evolution drives the diversity and unity of life.</entry>
-            </row>
-          </thead>
-          <tbody>
-            <row>
-              <entry><emphasis>Topic1.A.</emphasis> Change in the genetic makeup of a population over time is evolution.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>1.A.1.</emphasis> Natural selection is a major mechanism of evolution.</entry>
-              <entry>5.3, 18.1, 18.2, 19.1, 19.2, 19.3, 21.2, 23.5</entry>
-            </row>
-            <row>
-              <entry><emphasis>1.A.2.</emphasis> Natural selection acts on phenotypic variations in populations.</entry>
-              <entry>7.3, 7.6, 18.2, 19.2, 19.3, 36.5</entry>
-            </row>
-            <row>
-              <entry><emphasis>1.A.3.</emphasis> Evolutionary change is also driven by random processes.</entry>
-              <entry>19.1, 19.2</entry>
-            </row>
-            <row>
-              <entry><emphasis>1.A.4.</emphasis> Biological evolution is supported by scientific evidence from many disciplines, including mathematics.</entry>
-              <entry>2.1, 5.2, 8.2, 11.1, 14.1, 17.1 18.1, 19.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic1.B.</emphasis> Organisms are linked by lines of descent from common ancestry.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>1.B.1.</emphasis> Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</entry>
-              <entry>3.4, 4.3, 4.6, 8.2, 15.3, 13.2, 14.1, 15.5, 18.1, 20.1, 20.2</entry>
-            </row>
-            <row>
-              <entry><emphasis>1.B.2.</emphasis> Phylogenetic trees and cladograms are graphical representations (models) of evolutionary history that can be tested.</entry>
-              <entry>14.4, 20.1, 20.2, 20.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic1.C.</emphasis> Life continues to evolve within a changing environment.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>1.C.1.</emphasis> Speciation and extinction have occurred throughout the Earth's history.</entry>
-              <entry>14.4, 18.2, 20.1, 38.1</entry>
-            </row>
-            <row>
-              <entry><emphasis>1.C.2.</emphasis> Speciation may occur when two populations become reproductively isolated from each other.</entry>
-              <entry>18.2, 19.2, 23.5</entry>
-            </row>
-            <row>
-              <entry><emphasis>1.C.3.</emphasis> Populations of organisms continue to evolve.</entry>
-              <entry>7.3, 7.6, 18.1, 18.3, 19.1, 19.2, 20.1, 20.2, 23.5</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic1.D.</emphasis> The origin of living systems is explained by natural processes.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>1.D.1.</emphasis> There are several hypotheses about the natural origin of life on Earth, each with supporting scientific evidence.</entry>
-              <entry>8.2, 18.1, 20.1, 21.1, 20.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>1.D.2.</emphasis> Scientific evidence from many different disciplines supports models of the origin of life.</entry>
-              <entry>8.2, 18.1, 20.2, 28.1</entry>
-            </row>
-          </tbody>
-        </tgroup>
-      </table>
-      <table id="fs-id1169908653972" summary="The table is titled Big Idea 2: Biological systems utilize free energy and molecular building blocks to grow, to reproduce and to maintain dynamic homeostasis. The first column is labeled Topic2.A. Growth, reproduction and maintenance of the organization of living systems require free energy and matter. The second column is labeled Chapter/Key Concepts. The first row reads 2.A.1. All living systems require constant input of free energy. It contains the chapter/key concepts 6.1, 6.2, 6.3, 6.4, 6.7, 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 8.2, 23.1, 23.5, 36.3, 37.2. The second row reads 2.A.2. Organisms capture and store free energy for use in biological processes. It contains the chapter/key concepts 3.2, 4.3, 6.1, 6.4, 6.5, 7.1, 7.2, 7.3, 7.4, 7.4, 7.5, 7.6, 8.1, 8.2, 8.3, 9.2, 22.1, 22.2, 23.1, 23.5, 37.2. The third row reads 2.A.3. Organisms must exchange matter with the environment to grow, reproduce and maintain organization. It contains the chapter/key concepts 2.1, 2.2, 3.3, 4.2, 4.6, 6.1, 6.8, 22.4, 22.5, 23.5, 25.8, 37.3. The next Topicis Topic2.B. Growth, reproduction and dynamic homeostasis require that cells create and maintain internal environments that are different from their external environments. The first row reads 2.B.1. Cell membranes are selectively permeable due to their structure. It contains the chapter/key concepts 3.2, 3.3, 5.1, 5.2, 5.3, 5.4, 8.3. The second row reads 2.B.2. Growth and dynamic homeostasis are maintained by the constant movement of molecules across membranes. It contains the chapter/key concepts 2.3, 3.3, 5.2, 5.3, 5.4. The third row reads 2.B.3. Eukaryotic cells maintain internal membranes that partition the cell into specialized regions. It contains the chapter/key concepts 3.3, 4.2, 4.3, 4.4. The next Topicis Topic2.C. Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis. The first row reads 2.C.1. Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes. It contains the chapter/key concepts 5.2, 5.3, 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 8.2, 10.1, 11.1, 21.1, 23.5, 24.3, 28.3. The second row reads 2.C.2. Organisms respond to changes in their external environments. It contains the chapter/key concepts 2.1, 6.4, 7.5, 7.6, 22.5, 23.5, 26.3, 26.5. The next Topicis Topic2.D. Growth and dynamic homeostasis of a biological system are influenced by changes in the system's environment. The first row reads 2.D.1. All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy. It contains the chapter/key concepts 2.1, 2.2, 7.1, 7.4, 7.5, 7.6, 8.2, 15.2, 15.3, 17.3, 21.1, 22.4, 35.1, 37.1. The second row reads 2.D.2. Homeostatic mechanisms reflect both common ancestry and divergence due to adaptation in different environments. It contains the chapter/key concepts 4.3, 5.2, 6.1, 18.2, 21.1, 25.1, 32.1, 32.3, 34.1. The third row reads 2.D.3. Biological systems are affected by disruptions to their dynamic homeostasis. It contains the chapter/key concepts 3.2, 22.3, 22.5, 23.1, 28.3, 38.2. The fourth row reads 2.D.4. Plants and animals have a variety of chemical defenses against infections that affect dynamic homeostasis. It contains the chapter/key concepts 23.6, 33.1, 33.2. The next Topicis Topic2.E. Many biological processes involved in growth, reproduction and dynamic homeostasis include temporal regulation and coordination. The first row reads 2.E.1. Timing and coordination of specific events are necessary for the normal development of an organism, and these events are regulated by a variety of mechanisms. It contains the chapter/key concepts 10.2, 10.3, 14.3, 23.5, 30.1, 32.3, 34.1, 34.6. The second row reads 2.E.2. Timing and coordination of physiological events are regulated by multiple mechanisms. It contains the chapter/key concepts 6.8, 10.1, 10.2, 15.3, 22.3, 23.2, 24.1, 30.6, 36.1, 36.2, 36.3, 36.4, 36.5, 43.6, 43.7. The third row reads 2.E.3. Timing and coordination of behavior are regulated by various mechanisms and are important in natural selection. It contains the chapter/key concepts 11.1, 21.2, 23.5, 30.6, 35.2, 45.7." class="unnumbered top-titled">
-        <label />
-        <tgroup cols="2">
-          <colspec colname="col1" />
-          <colspec colname="col2" />
-          <thead>
-            <row>
-              <entry namest="col1" nameend="col2"><newline />Big Idea 2: Biological systems utilize free energy and molecular building blocks to grow, to reproduce and to maintain dynamic homeostasis.</entry>
-            </row>
-          </thead>
-          <tbody>
-            <row>
-              <entry><emphasis>Topic2.A.</emphasis> Growth, reproduction and maintenance of the organization of living systems require free energy and matter. </entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>2.A.1.</emphasis> All living systems require constant input of free energy</entry>
-              <entry>6.1, 6.2, 6.3, 6.4, 6.7, 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 8.2, 23.1, 23.5, 36.3, 37.2</entry>
-            </row>
-            <row>
-              <entry><emphasis>2.A.2.</emphasis> Organisms capture and store free energy for use in biological processes.</entry>
-              <entry>3.2, 4.3, 6.1, 6.4, 6.5, 7.1, 7.2, 7.3, 7.4, 7.4, 7.5, 7.6, 8.1, 8.2, 8.3, 9.2, 22.1, 22.2, 23.1, 23.5, 37.2</entry>
-            </row>
-            <row>
-              <entry><emphasis>2.A.3.</emphasis> Organisms must exchange matter with the environment to grow, reproduce and maintain organization. </entry>
-              <entry>2.1, 2.2, 3.3, 4.2, 4.6, 6.1, 6.8, 22.4, 22.5, 23.5, 25.8, 37.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic2.B.</emphasis> Growth, reproduction and dynamic homeostasis require that cells create and maintain internal environments that are different from their external environments. </entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>2.B.1.</emphasis> Cell membranes are selectively permeable due to their structure. </entry>
-              <entry>3.2, 3.3, 5.1, 5.2, 5.3, 5.4, 8.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>2.B.2.</emphasis> Growth and dynamic homeostasis are maintained by the constant movement of molecules across membranes. </entry>
-              <entry>2.3, 3.3, 5.2, 5.3, 5.4</entry>
-            </row>
-            <row>
-              <entry><emphasis>2.B.3.</emphasis> Eukaryotic cells maintain internal membranes that partition the cell into specialized regions.</entry>
-              <entry>3.3, 4.2, 4.3, 4.4</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic2.C.</emphasis> Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>2.C.1.</emphasis> Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes. </entry>
-              <entry>5.2, 5.3, 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 8.2, 10.1, 11.1, 21.1, 23.5, 24.3, 28.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>2.C.2.</emphasis> Organisms respond to changes in their external environments. </entry>
-              <entry>2.1, 6.4, 7.5, 7.6, 22.5, 23.5, 26.3, 26.5</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic2.D.</emphasis> Growth and dynamic homeostasis of a biological system are influenced by changes in the system's environment.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>2.D.1.</emphasis> All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy. </entry>
-              <entry>2.1, 2.2, 7.1, 7.4, 7.5, 7.6, 8.2, 15.2, 15.3, 17.3, 21.1, 22.4, 35.1, 37.1</entry>
-            </row>
-            <row>
-              <entry><emphasis>2.D.2.</emphasis> Homeostatic mechanisms reflect both common ancestry and divergence due to adaptation in different environments. </entry>
-              <entry>4.3, 5.2, 6.1, 18.2, 21.1, 25.1, 32.1, 32.3, 34.1</entry>
-            </row>
-            <row>
-              <entry><emphasis>2.D.3.</emphasis> Biological systems are affected by disruptions to their dynamic homeostasis.</entry>
-              <entry>3.2, 22.3, 22.5, 23.1, 28.3, 38.2</entry>
-            </row>
-            <row>
-              <entry><emphasis>2.D.4.</emphasis> Plants and animals have a variety of chemical defenses against infections that affect dynamic homeostasis. </entry>
-              <entry>23.6, 33.1, 33.2</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic2.E.</emphasis> Many biological processes involved in growth, reproduction and dynamic homeostasis include temporal regulation and coordination.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>2.E.1.</emphasis> Timing and coordination of specific events are necessary for the normal development of an organism, and these events are regulated by a variety of mechanisms. </entry>
-              <entry>10.2, 10.3, 14.3, 23.5, 30.1, 32.3, 34.1, 34.6</entry>
-            </row>
-            <row>
-              <entry><emphasis>2.E.2.</emphasis> Timing and coordination of physiological events are regulated by multiple mechanisms. </entry>
-              <entry>6.8, 10.1, 10.2, 15.3, 22.3, 23.2, 24.1, 30.6, 36.1, 36.2, 36.3, 36.4, 36.5, 43.6, 43.7</entry>
-            </row>
-            <row>
-              <entry><emphasis>2.E.3.</emphasis> Timing and coordination of behavior are regulated by various mechanisms and are important in natural selection. </entry>
-              <entry>11.1, 21.2, 23.5, 30.6, 35.2, 45.7</entry>
-            </row>
-          </tbody>
-        </tgroup>
-      </table>
-      <table id="fs-id1169912028005" summary="The table is titled Big Idea 3: Living systems store, retrieve, transmit and respond to information essential to life processes. The first column is labeled Topic3.A. heritable information provides for continuity of life. The second column is titled Chapter/Key Concepts. The first row reads 3.A.1. DNA, and in some cases RNA, is the primary source of heritable information. It contains the chapter/key concepts 3.5, 10.3, 13.1, 13.2, 14.1, 14.2, 14.3, 14.5, 15.1, 15.2, 15.3, 15.4, 15.5, 16.1, 16.2, 16.3, 17.1, 17.3, 21.1, 21.2, 22.4. The second row reads 3.A.2. In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization. It contains the chapter/key concepts 10.1, 10.2, 10.3, 11.1, 11.2, 13.1. The third row reads 3.A.3. The chromosomal basis of inheritance provides an understanding of the pattern of passage (transmission) of genes from parent to offspring. It contains the chapter/key concepts 11.2, 12.1, 12.2, 13.1, 14.2, 17.1, 17.4. The fourth row reads 3.A.4. The inheritance pattern of many traits cannot be explained by simple Mendelian genetics. It contains the chapter/key concepts 4.3, 12.2, 13.1. The next Topicis Topic3.B. Expression of genetic information involves cellular and molecular mechanisms. The first row reads 3.B.1. Gene regulation results in differential gene expression, leading to cell specialization. It contains the chapter/key concepts 7.3, 7.6, 16.1, 16.2, 16.3, 16.4, 16.5, 17.3. The second row reads 3.B.2. A variety of intercellular and intracellular signal transmissions mediate gene expression. It contains the chapter/key concepts 9.1, 9.2, 9.3, 15.3, 17.1. The next Topicis Topic3.C. The processing of genetic information is imperfect and is a source of genetic variation. The first row reads 3.C.1. Changes in genotype can result in changes in phenotype. It contains the chapter/key concepts 5.3, 11.2, 13.1, 13.2, 14.6, 15.1, 17.1, 18.1, 19.1, 19.3. The second row reads 3.C.2. Biological systems have multiple processes that increase genetic variation. It contains the chapter/key concepts 11.2, 13.1, 14.1, 14.6, 15.2, 17.1, 20.3, 21.2, 22.4. The third row reads 3.C.3. Viral replication results in genetic variation, and viral infection can introduce genetic variation into the hosts. It contains the chapter/key concepts 21.1, 21.2. The next Topicis Topic3.D. Cells communicate by generating, transmitting and receiving chemical signals. The first row reads 3.D.1. Cell communication processes share common features that reflect a shared evolutionary history. It contains the chapter/key concepts 4.6, 9.1, 9.2, 9.3, 9.4, 10.4, 37.2, 37.3. The second row reads 3.D.2. Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling. It contains the chapter/key concepts 9.1, 9.3. The third row reads 3.D.3. Signal transduction pathways link signal reception with cellular response. It contains the chapter/key concepts 9.1, 9.2. The fourth row reads 3.D.4. Changes in signal transduction pathways can alter cellular response. It contains the chapter/key concepts 9.2, 9.3, 9.4. The next Topicis Topic3.E. Transmission of information results in changes within and between biological systems. The first row reads 3.E.1. Individuals can act on information and communicate it to others. It contains the chapter/key concepts 9.2, 9.4, 21.2, 36.1, 36.2, 36.3, 36.4, 36.5. The second row reads 3.E.2. Animals have nervous systems that detect external and internal signals, transmit and integrate information, and produce responses. It contains the chapter/key concepts 6.1, 35.1, 35.2, 35.3, 35.4." class="unnumbered top-titled">
-        <label />
-        <tgroup cols="2">
-          <colspec colname="col1" />
-          <colspec colname="col2" />
-          <thead>
-            <row>
-              <entry namest="col1" nameend="col2"><newline />Big Idea 3: Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
-            </row>
-          </thead>
-          <tbody>
-            <row>
-              <entry><emphasis>Topic3.A.</emphasis> Heritable information provides for continuity of life.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>3.A.1.</emphasis> DNA, and in some cases RNA, is the primary source of heritable information.</entry>
-              <entry>3.5, 10.3, 13.1, 13.2, 14.1, 14.2, 14.3, 14.5, 15.1, 15.2, 15.3, 15.4, 15.5, 16.1, 16.2, 16.3, 17.1, 17.3, 21.1, 21.2, 22.4</entry>
-            </row>
-            <row>
-              <entry><emphasis>3.A.2.</emphasis> In eukaryotes, heritable information is passed to the next generation via processes that include the cell cycle and mitosis or meiosis plus fertilization.</entry>
-              <entry>10.1, 10.2, 10.3, 11.1, 11.2, 13.1</entry>
-            </row>
-            <row>
-              <entry><emphasis>3.A.3.</emphasis> The chromosomal basis of inheritance provides an understanding of the pattern of passage (transmission) of genes from parent to offspring. </entry>
-              <entry>11.2, 12.1, 12.2, 13.1, 14.2, 17.1, 17.4</entry>
-            </row>
-            <row>
-              <entry><emphasis>3.A.4.</emphasis> The inheritance pattern of many traits cannot be explained by simple Mendelian genetics.</entry>
-              <entry>4.3, 12.2, 13.1</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic3.B.</emphasis> Expression of genetic information involves cellular and molecular mechanisms.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>3.B.1.</emphasis> Gene regulation results in differential gene expression, leading to cell specialization.</entry>
-              <entry>7.3, 7.6, 16.1, 16.2, 16.3, 16.4, 16.5, 17.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>3.B.2.</emphasis> A variety of intercellular and intracellular signal transmissions mediate gene expression.</entry>
-              <entry>9.1, 9.2, 9.3, 15.3, 17.1</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic3.C.</emphasis> The processing of genetic information is imperfect and is a source of genetic variation.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>3.C.1.</emphasis> Changes in genotype can result in changes in phenotype. </entry>
-              <entry>5.3, 11.2, 13.1, 13.2, 14.6, 15.1, 17.1, 18.1, 19.1, 19.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>3.C.2.</emphasis> Biological systems have multiple processes that increase genetic variation. </entry>
-              <entry>11.2, 13.1, 14.1, 14.6, 15.2, 17.1, 20.3, 21.2, 22.4</entry>
-            </row>
-            <row>
-              <entry><emphasis>3.C.3.</emphasis> Viral replication results in genetic variation, and viral infection can introduce genetic variation into the hosts.</entry>
-              <entry>21.1, 21.2</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic3.D.</emphasis> Cells communicate by generating, transmitting and receiving chemical signals</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>3.D.1.</emphasis> Cell communication processes share common features that reflect a shared evolutionary history.</entry>
-              <entry>4.6, 9.1, 9.2, 9.3, 9.4, 10.4, 37.2, 37.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>3.D.2.</emphasis> Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling. </entry>
-              <entry>9.1, 9.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>3.D.3.</emphasis> Signal transduction pathways link signal reception with cellular response.</entry>
-              <entry>9.1, 9.2</entry>
-            </row>
-            <row>
-              <entry><emphasis>3.D.4.</emphasis> Changes in signal transduction pathways can alter cellular response.</entry>
-              <entry>9.2, 9.3, 9.4</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic3.E.</emphasis> Transmission of information results in changes within and between biological systems.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>3.E.1.</emphasis> Individuals can act on information and communicate it to others.</entry>
-              <entry>9.2, 9.4, 21.2, 36.1, 36.2, 36.3, 36.4, 36.5</entry>
-            </row>
-            <row>
-              <entry><emphasis>3.E.2.</emphasis> Animals have nervous systems that detect external and internal signals, transmit and integrate information, and produce responses. </entry>
-              <entry>6.1, 35.1, 35.2, 35.3, 35.4</entry>
-            </row>
-          </tbody>
-        </tgroup>
-      </table>
-      <table id="fs-id1169907655736" summary="The table is titled Big Idea 4: Biological systems interact, and these systems and their interactions possess complex properties. The first column is titled Topic4.A Interactions within biological systems lead to complex properties. The second column is titled Chapter/Key Concepts. The first row reads 4.A.1. The subcomponents of biological molecules and their sequence determine the properties of that molecule. It contains the chapter/key concepts 3.1, 3.2, 3.3, 3.4, 3.5, 5.2, 6.2, 14.1, 14.3, 14.4, 17.1. The second row reads 4.A.2. The structure and function of subcellular components, and their interactions, provide essential cellular processes. It contains the chapter/key concepts 3.4, 4.3, 4.4, 4.6, 10.3, 15.3. The third row reads 4.A.3. Interactions between external stimuli and regulated gene expression result in specialization of cells, tissues and organs. It contains the chapter/key concepts 16.1, 22.3, 43.6, 43.7. The fourth row reads 4.A.4. Organisms exhibit complex properties due to interactions between their constituent parts. It contains the chapter/key concepts 15.2, 17.1, 18.1, 22.3, 22.5, 30.5, 33.3, 34.3. The fifth row reads 4.A.5. Communities are composed of populations of organisms that interact in complex ways. It contains the chapter/key concepts 22.5, 23.5, 45.5, 45.6. The sixth row reads 4.A.6. Interactions among living systems and with their environment result in the movement of matter and energy. It contains the chapter/key concepts 3.2, 3.3, 6.2, 6.3, 6.6, 7.5, 7.6, 8.2, 10.3, 18.1, 23.1, 22.4, 45.2, 45.6, 46.2, 47.3. The next Topicis Topic4.B Competition and cooperation are important aspects of biological systems. The first row reads 4.B.1. Interactions between molecules affect their structure and function. It contains the chapter/key concepts 3.5, 5.2, 6.2, 6.5, 8.3. The second row reads 4.B.2. Cooperative interactions within organisms promote efficiency in the use of energy and matter. It contains the chapter/key concepts 4.3, 7.3, 7.6, 45.6. The third row reads 4.B.3. Interactions between and within populations influence patterns of species distribution and abundance. It contains the chapter/key concepts 45.4, 45.6. The fourth row reads 4.B.4. Distribution of local and global ecosystems changes over time. It contains the chapter/key concepts 22.4, 23.1, 46.1, 47.1, 47.3. The next Topicis Topic4.C. Naturally occurring diversity among and between components within biological systems affects interactions with the environment. The first row reads 4.C.1. Variation in molecular units provides cells with a wider range of functions. It contains the chapter/key concepts 3.4, 9.2, 10.3, 13.1, 15.5, 42.2, 49.1. The second row reads 4.C.2. Environmental factors influence the expression of the genotype in an organism. It contains the chapter/key concepts 14.2, 19.3, 22.3, 30.4, 43.1. The third row reads 4.C.3. The level of variation in a population affects population dynamics. It contains the chapter/key concepts 7.5, 7.6, 19.1, 45.6, 47.1. The fourth row reads 4.C.4. The diversity of species within an ecosystem may influence the stability of the ecosystem. It contains the chapter/key concepts 45.6, 46.1." class="unnumbered top-titled">
-        <label />
-        <tgroup cols="2">
-          <colspec colname="col1" />
-          <colspec colname="col2" />
-          <thead>
-            <row>
-              <entry namest="col1" nameend="col2"><newline />Big Idea 4: Biological systems interact, and these systems and their interactions possess complex properties.</entry>
-            </row>
-          </thead>
-          <tbody>
-            <row>
-              <entry><emphasis>Topic4.A</emphasis> Interactions within biological systems lead to complex properties.</entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>4.A.1.</emphasis> The subcomponents of biological molecules and their sequence determine the properties of that molecule.</entry>
-              <entry>3.1, 3.2, 3.3, 3.4, 3.5, 5.2, 6.2, 14.1, 14.3, 14.4, 17.1</entry>
-            </row>
-            <row>
-              <entry><emphasis>4.A.2.</emphasis> The structure and function of subcellular components, and their interactions, provide essential cellular processes.</entry>
-              <entry>3.4, 4.3, 4.4, 4.6, 10.3, 15.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>4.A.3.</emphasis> Interactions between external stimuli and regulated gene expression result in specialization of cells, tissues and organs. </entry>
-              <entry>16.1, 22.3, 43.6, 43.7</entry>
-            </row>
-            <row>
-              <entry><emphasis>4.A.4.</emphasis> Organisms exhibit complex properties due to interactions between their constituent parts.</entry>
-              <entry>15.2, 17.1, 18.1, 22.3, 22.5, 30.5, 33.3, 34.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>4.A.5.</emphasis> Communities are composed of populations of organisms that interact in complex ways.</entry>
-              <entry>22.5, 23.5, 45.5, 45.6</entry>
-            </row>
-            <row>
-              <entry><emphasis>4.A.6.</emphasis> Interactions among living systems and with their environment result in the movement of matter and energy. </entry>
-              <entry>3.2, 3.3, 6.2, 6.3, 6.6, 7.5, 7.6, 8.2, 10.3, 18.1, 23.1, 22.4, 45.2, 45.6, 46.2, 47.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic4.B</emphasis> Competition and cooperation are important aspects of biological systems. </entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>4.B.1.</emphasis> Interactions between molecules affect their structure and function.</entry>
-              <entry>3.5, 5.2, 6.2, 6.5, 8.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>4.B.2.</emphasis> Cooperative interactions within organisms promote efficiency in the use of energy and matter.</entry>
-              <entry>4.3, 7.3, 7.6, 45.6</entry>
-            </row>
-            <row>
-              <entry><emphasis>4.B.3.</emphasis> Interactions between and within populations influence patterns of species distribution and abundance.</entry>
-              <entry>45.4, 45.6</entry>
-            </row>
-            <row>
-              <entry><emphasis>4.B.4.</emphasis> Distribution of local and global ecosystems changes over time.</entry>
-              <entry>22.4, 23.1, 46.1, 47.1, 47.3</entry>
-            </row>
-            <row>
-              <entry><emphasis>Topic4.C.</emphasis> Naturally occurring diversity among and between components within biological systems affects interactions with the environment. </entry>
-              <entry align="center"><emphasis>Chapter/Key Concepts</emphasis></entry>
-            </row>
-            <row>
-              <entry><emphasis>4.C.1.</emphasis> Variation in molecular units provides cells with a wider range of functions. </entry>
-              <entry>3.4, 9.2, 10.3, 13.1, 15.5, 42.2, 49.1</entry>
-            </row>
-            <row>
-              <entry>
-                <emphasis>4.C.2.</emphasis> Environmental factors influence the expression of the genotype in an organism. </entry>
-              <entry>14.2, 19.3, 22.3, 30.4, 43.1</entry>
-            </row>
-            <row>
-              <entry><emphasis>4.C.3.</emphasis> The level of variation in a population affects population dynamics.</entry>
-              <entry>7.5, 7.6, 19.1, 45.6, 47.1</entry>
-            </row>
-            <row>
-              <entry><emphasis>4.C.4.</emphasis> The diversity of species within an ecosystem may influence the stability of the ecosystem.</entry>
-              <entry>45.6, 46.1</entry>
-            </row>
-          </tbody>
-        </tgroup>
-      </table>
+     
+  <table id="table-00001">    <label/>
+    <tgroup cols="5">
+     <colspec colname="col1"/>
+     <colspec colname="col2"/>
+     <colspec colname="col3"/>
+     <colspec colname="col4"/>
+     <colspec colname="col5"/>
+   <thead>
+    <row>
+     <entry>AP® Biology Topic</entry>
+     <entry>
+      <para id="para-00002">Biology</para>
+      <para id="para-00003">For AP</para>
+      <para id="para-00004">Book Section</para>
+     </entry>
+     <entry>
+      <para id="para-00005">AP® Biology</para>
+      <para id="para-00006">Essential Knowledge Statement</para>
+     </entry>
+     <entry>
+      <para id="para-00007">Suggested OpenStax Reading and Related Lab from the AP® Biology Investigative Labs.</para>
+     </entry>
+     <entry>
+      Suggested End of Chapter Questions
+
+       <newline/>
+       Chap:Ques
+
+     </entry>
+    </row>
+   </thead>
+   <tbody>
+    <row>
+     <entry/>
+     <entry>1</entry>
+     <entry/>
+     <entry>Overview for course/science practices</entry>
+     <entry/>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00008">Topic 1.1 Structure of Water and Hydrogen Bonding</para></entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00009">1.1</para></entry>
+     <entry>2.2</entry>
+     <entry>1.1.A.1.i</entry>
+     <entry>
+      <para id="para-00010">Sec 2.1 Atoms, Isotopes, Ions, and Molecules: The Building Blocks</para>
+      <para id="para-00011">Sec 2.2 Water</para>
+     </entry>
+     <entry morerows="3">
+      <para id="para-00012">2:3</para>
+      <para id="para-00013">2:9</para>
+      <para id="para-00014">2:22</para>
+      <para id="para-00015">2:24</para>
+      <para id="para-00016">2:29</para>
+      <para id="para-00017">2:30</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>2.2</entry>
+     <entry>1.1.A.1.ii</entry>
+     <entry>Sec 2.2 Water</entry>
+    </row>
+    <row>
+     <entry>2.2</entry>
+     <entry>1.1.A.1.iii</entry>
+     <entry>Sec. 2.2 Water</entry>
+    </row>
+    <row>
+     <entry>2.2</entry>
+     <entry>1.1.A.2</entry>
+     <entry>Sec 2.2 Water</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00018">Topic 1.2 Elements of Life</para></entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00019">1.2</para></entry>
+     <entry>
+      <para id="para-00020">2.1</para>
+      <para id="para-00021">2.3</para>
+     </entry>
+     <entry/>
+     <entry>
+      <para id="para-00022">Section 2.1: Atoms, Isotopes, Ions, and Molecules: The Building Blocks</para>
+      <para id="para-00023">(Needed chemistry background)</para>
+      <para id="para-00024">Section 2.3: Carbon</para>
+      <para id="para-00025">(Needed chemistry background)</para>
+      <para id="para-00026">Much of the content after “Hydrocarbons” is beyond the scope of the course.</para>
+     </entry>
+     <entry morerows="3">
+      <para id="para-00027">2:26</para>
+      <para id="para-00028">2:31</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00029">3.4</para>
+      <para id="para-00030">22.3</para>
+     </entry>
+     <entry>1.2.A.1.i</entry>
+     <entry>
+      <para id="para-00031">Section 3.4 Proteins</para>
+      <para id="para-00032">Section 22.3 Needs of Prokaryotes</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00033">3.3</para>
+      <para id="para-00034">22.3</para>
+     </entry>
+     <entry>1.2.A.1.ii</entry>
+     <entry>
+      <para id="para-00035">Section 3.3 Lipids</para>
+      <para id="para-00036">Section 22.3 Needs of Prokaryotes</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00037">3.5</para>
+      <para id="para-00038">22.3</para>
+     </entry>
+     <entry>1.2.A.1.iii</entry>
+     <entry>
+      <para id="para-00039">Section 3.5 Nucleic Acids</para>
+      <para id="para-00040">Section 22.3 Needs of Prokaryotes</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00041">Topic 1.3 Introduction to Macromolecules</para></entry>
+    </row>
+    <row>
+     <entry morerows="1"><para id="para-00042">1.3</para></entry>
+     <entry>3.1</entry>
+     <entry>1.3.A.1</entry>
+     <entry>Section 3.1 Synthesis of Biological Macromolecules</entry>
+     <entry morerows="1">
+      <para id="para-00043">3:1</para>
+      <para id="para-00044">3:3</para>
+      <para id="para-00045">3:5</para>
+      <para id="para-00046">3:39</para>
+      <para id="para-00047">3:41</para>
+     </entry>
+    </row>
+    <row>
+     <entry>3.1</entry>
+     <entry>1.3.A.2</entry>
+     <entry>Section 3.1 Synthesis of Biological Macromolecules</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00048">Topic 1.4 Carbohydrates</para></entry>
+    </row>
+    <row>
+     <entry>1.4</entry>
+     <entry>3.2</entry>
+     <entry>1.4.A.1</entry>
+     <entry>Section 3.2 Carbohydrates</entry>
+     <entry>
+      <para id="para-00049">3:6</para>
+      <para id="para-00050">3:8</para>
+      <para id="para-00051">3:9</para>
+      <para id="para-00052">3:43</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00053">Topic 1.5 Lipids</para></entry>
+    </row>
+    <row>
+     <entry morerows="7"><para id="para-00054">1.5</para></entry>
+     <entry>3.3</entry>
+     <entry>1.5.A.1.i</entry>
+     <entry>Section 3.3 Lipids</entry>
+     <entry morerows="7">
+      <para id="para-00055">3:12</para>
+      <para id="para-00056">3:13</para>
+      <para id="para-00057">3:14</para>
+      <para id="para-00058">3:15</para>
+      <para id="para-00059">3:16</para>
+      <para id="para-00060">3:17</para>
+      <para id="para-00061">3:18</para>
+      <para id="para-00062">3:48</para>
+      <para id="para-00063">3:76</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>3.3</entry>
+     <entry>1.5.A.1.ii</entry>
+     <entry>Section 3.3 Lipids</entry>
+    </row>
+    <row>
+     <entry>3.3</entry>
+     <entry>1.5.A.1.iii</entry>
+     <entry>Section 3.3 Lipids</entry>
+    </row>
+    <row>
+     <entry>3.3</entry>
+     <entry>1.5.A.1.iv</entry>
+     <entry>Section 3.3 Lipids</entry>
+    </row>
+    <row>
+     <entry>3.3</entry>
+     <entry>1.5.A.2.i</entry>
+     <entry>Section 3.3 Lipids</entry>
+    </row>
+    <row>
+     <entry>3.3</entry>
+     <entry>1.5.A.2.ii</entry>
+     <entry>Section 3.3 Lipids</entry>
+    </row>
+    <row>
+     <entry>3.3</entry>
+     <entry>1.5.A.2.iii</entry>
+     <entry>Section 3.3 Lipids</entry>
+    </row>
+    <row>
+     <entry>3.3</entry>
+     <entry>1.5.A.2.iv</entry>
+     <entry>Section 3.3 Lipids</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00064">Topic 1.6 Nucleic Acids</para></entry>
+    </row>
+    <row>
+     <entry morerows="5"><para id="para-00065">1.6</para></entry>
+     <entry>
+      <para id="para-00066">3.5</para>
+      <para id="para-00067">14.2</para>
+     </entry>
+     <entry>1.6.A.1</entry>
+     <entry>
+      <para id="para-00068">Section 3.5 Nucleic Acids</para>
+      <para id="para-00069">Section 14.2</para>
+     </entry>
+     <entry morerows="5">
+      <para id="para-00070">3:33</para>
+      <para id="para-00071">3:34</para>
+      <para id="para-00072">3:35</para>
+      <para id="para-00073">3:36</para>
+      <para id="para-00074">3:38</para>
+      <para id="para-00075">3:55</para>
+      <para id="para-00076">3:56</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00077">3.5</para>
+      <para id="para-00078">14.2</para>
+     </entry>
+     <entry>1.6.A.2</entry>
+     <entry>
+      <para id="para-00079">Section 3.5 Nucleic Acids</para>
+      <para id="para-00080">Section 14.2</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00081">3.5</para>
+      <para id="para-00082">14.2</para>
+     </entry>
+     <entry>1.6.A.3</entry>
+     <entry>
+      <para id="para-00083">Section 3.5 Nucleic Acids</para>
+      <para id="para-00084">Section 14.2</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00085">3.5</para>
+      <para id="para-00086">14.2</para>
+     </entry>
+     <entry>1.6.A.4.i</entry>
+     <entry>
+      <para id="para-00087">Section 3.5 Nucleic Acids</para>
+      <para id="para-00088">Section 14.2</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00089">3.5</para>
+      <para id="para-00090">14.2</para>
+     </entry>
+     <entry>1.6.A.4.ii</entry>
+     <entry>
+      <para id="para-00091">Section 3.5 Nucleic Acids</para>
+      <para id="para-00092">Section 14.2 DNA Structure and Function</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00093">3.5</para>
+      <para id="para-00094">14.2</para>
+     </entry>
+     <entry>1.6.A.4.iii</entry>
+     <entry>Section 3.5 Nucleic Acids</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00095">Topic 1.7 Proteins</para></entry>
+    </row>
+    <row>
+     <entry morerows="5"><para id="para-00096">1.7</para></entry>
+     <entry>3.4</entry>
+     <entry>1.7.A.1</entry>
+     <entry>Section 3.4 Proteins</entry>
+     <entry morerows="5">
+      <para id="para-00097">3:26</para>
+      <para id="para-00098">3:27</para>
+      <para id="para-00099">3:28</para>
+      <para id="para-00100">3:29</para>
+      <para id="para-00101">3:30</para>
+      <para id="para-00102">3:51</para>
+      <para id="para-00103">3:52</para>
+      <para id="para-00104">3:68</para>
+      <para id="para-00105">3:70</para>
+     </entry>
+    </row>
+    <row>
+     <entry>3.4</entry>
+     <entry>1.7.A.2</entry>
+     <entry>Section 3.4 Proteins</entry>
+    </row>
+    <row>
+     <entry>3.4</entry>
+     <entry>1.7.A.3</entry>
+     <entry>Section 3.4 Proteins</entry>
+    </row>
+    <row>
+     <entry>3.4</entry>
+     <entry>1.7.A.4</entry>
+     <entry>Section 3.4 Proteins</entry>
+    </row>
+    <row>
+     <entry>3.4</entry>
+     <entry>1.7.A.5</entry>
+     <entry>Section 3.4 Proteins</entry>
+    </row>
+    <row>
+     <entry>3.4</entry>
+     <entry>1.7.A.6</entry>
+     <entry>Section 3.4 Proteins</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00106">Topic 2.1 Cell Structure and Function</para></entry>
+    </row>
+    <row>
+     <entry morerows="11"><para id="para-00107">2.1</para></entry>
+     <entry>4</entry>
+     <entry/>
+     <entry>
+      <para id="para-00108">
+       Sections 4.1 and 4.2 contain introductory material on the cell. Read this at the beginning of Unit 2
+       study.
+      </para>
+     </entry>
+     <entry morerows="11">
+      <para id="para-00109">4:7</para>
+      <para id="para-00110">4:9</para>
+      <para id="para-00111">4:14</para>
+      <para id="para-00112">4:15</para>
+      <para id="para-00113">4:17</para>
+      <para id="para-00114">4:18</para>
+      <para id="para-00115">4:19</para>
+      <para id="para-00116">4:29</para>
+      <para id="para-00117">4:36</para>
+      <para id="para-00118">4:37</para>
+      <para id="para-00119">4:52</para>
+      <para id="para-00120">4:56</para>
+      <para id="para-00121">4:64</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>4.3</entry>
+     <entry>2.1.A.1</entry>
+     <entry>Section 4.3 Eukaryotic Cells</entry>
+    </row>
+    <row>
+     <entry>4.4</entry>
+     <entry>2.1.A.2</entry>
+     <entry>Section 4.3 Eukaryotic Cells</entry>
+    </row>
+    <row>
+     <entry>4.4</entry>
+     <entry>2.1.A.3.i</entry>
+     <entry>Section 4.4 The Endomembrane System and Proteins</entry>
+    </row>
+    <row>
+     <entry>4.4</entry>
+     <entry>2.1.A.3.ii</entry>
+     <entry>Section 4.4 The Endomembrane System and Proteins</entry>
+    </row>
+    <row>
+     <entry>4.4</entry>
+     <entry>2.1.A.4.i</entry>
+     <entry>Section 4.4 The Endomembrane System and Proteins</entry>
+    </row>
+    <row>
+     <entry>4.4</entry>
+     <entry>2.1.A.4.ii</entry>
+     <entry>Section 4.4 The Endomembrane System and Proteins</entry>
+    </row>
+    <row>
+     <entry>4.3</entry>
+     <entry>2.1.A.5</entry>
+     <entry>Section 4.3 Eukaryotic Cells</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00122">4.3</para>
+      <para id="para-00123">4.4</para>
+     </entry>
+     <entry>2.1.A.6</entry>
+     <entry>
+      <para id="para-00124">Section 4.3</para>
+      <para id="para-00125">Section 4.4 The Endomembrane System and Proteins</para>
+     </entry>
+    </row>
+    <row>
+     <entry>4.3</entry>
+     <entry>2.1.A.7.i</entry>
+     <entry>Section 4.3 Eukaryotic Cells</entry>
+    </row>
+    <row>
+     <entry>4.3</entry>
+     <entry>2.1.A.7.ii</entry>
+     <entry>Section 4.3 Eukaryotic Cells</entry>
+    </row>
+    <row>
+     <entry>4.3</entry>
+     <entry>2.1.A.8</entry>
+     <entry>Section 4.3 Eukaryotic Cells</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-00126">Topic 2.2 Cell Size</para>
+      <para id="para-00127">Book Content Supports Investigation 4: Diffusion and Osmosis in AP® Biology Investigative Labs</para>
+     </entry>
+    </row>
+    <row>
+     <entry morerows="5"><para id="para-00128">2.2</para></entry>
+     <entry>4.1</entry>
+     <entry>2.2.A.1</entry>
+     <entry>Section 4.2 Prokaryotic Cells</entry>
+     <entry morerows="5">
+      <para id="para-00129">4:10</para>
+      <para id="para-00130">4:32</para>
+      <para id="para-00131">4:46</para>
+      <para id="para-00132">4:47</para>
+      <para id="para-00133">4:48</para>
+      <para id="para-00134">4:49</para>
+      <para id="para-00135">5:21</para>
+     </entry>
+    </row>
+    <row>
+     <entry>4.1</entry>
+     <entry>2.2.A.2.i</entry>
+     <entry>Section 4.2 Prokaryotic Cells</entry>
+    </row>
+    <row>
+     <entry>4.2</entry>
+     <entry>2.2.A.2.ii</entry>
+     <entry>Section 4.2Prokaryotic Cells</entry>
+    </row>
+    <row>
+     <entry>4.2</entry>
+     <entry>2.2.A.2.iii</entry>
+     <entry>Section 4.2 Prokaryotic Cells</entry>
+    </row>
+    <row>
+     <entry>24.1</entry>
+     <entry>2.2.A.2.iv</entry>
+     <entry>Section 24.1 Animal Form and Function</entry>
+    </row>
+    <row>
+     <entry>24.1</entry>
+     <entry>2.2.A.2.v</entry>
+     <entry>Section 24.1Animal Form and Function</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00136">Topic 2.3 Plasma Membrane</para></entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00137">2.3</para></entry>
+     <entry>5.1</entry>
+     <entry>2.3.A.1</entry>
+     <entry>Section 5.1 Components and Structure</entry>
+     <entry morerows="3">
+      <para id="para-00138">4:51</para>
+      <para id="para-00139">5:1</para>
+      <para id="para-00140">5:3</para>
+      <para id="para-00141">5:4</para>
+      <para id="para-00142">5:5</para>
+      <para id="para-00143">5:18</para>
+      <para id="para-00144">5:20</para>
+      <para id="para-00145">5:39</para>
+     </entry>
+    </row>
+    <row>
+     <entry>5.1</entry>
+     <entry>2.3.A.2.i</entry>
+     <entry>Section 5.1 Components and Structure</entry>
+    </row>
+    <row>
+     <entry>5.1</entry>
+     <entry>2.3.A.2.ii</entry>
+     <entry>Section 5.1 Components and Structure</entry>
+    </row>
+    <row>
+     <entry>5.1</entry>
+     <entry>2.3.B.1</entry>
+     <entry>Section 5.1 Components and Structure</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00146">Topic 2.4 Membrane Permeability</para></entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00147">2.4</para></entry>
+     <entry>5.1</entry>
+     <entry>2.4.A.1</entry>
+     <entry>Section 5.1 Components and Structure</entry>
+     <entry morerows="3">
+      <para id="para-00148">4:31</para>
+      <para id="para-00149">4:33</para>
+      <para id="para-00150">5:2</para>
+     </entry>
+    </row>
+    <row>
+     <entry>5.1</entry>
+     <entry>2.4.A.2</entry>
+     <entry>Section 5.1 Components and Structure</entry>
+    </row>
+    <row>
+     <entry>5.1</entry>
+     <entry>2.4.A.3</entry>
+     <entry>Section 5.1 Components and Structure</entry>
+    </row>
+    <row>
+     <entry>22.1</entry>
+     <entry>2.4.B.1</entry>
+     <entry>Section 22.1 Prokaryotic Diversity</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00151">Topic 2.5 Membrane Transport</para></entry>
+    </row>
+    <row>
+     <entry morerows="4"><para id="para-00152">2.5</para></entry>
+     <entry>
+      <para id="para-00153">5.2</para>
+      <para id="para-00154">30.1</para>
+      <para id="para-00155">30.4</para>
+     </entry>
+     <entry>2.5.A.1</entry>
+     <entry>
+      <para id="para-00156">Section 5.2 Passive Transport</para>
+      <para id="para-00157">Section 30.1 Systems of Gas Exchange</para>
+      <para id="para-00158">Section 30.4 Transport of Gases in Human Bodily Fluids</para>
+     </entry>
+     <entry morerows="4">
+      <para id="para-00159">5:16</para>
+      <para id="para-00160">5:35</para>
+      <para id="para-00161">5:41</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00162">5.2</para>
+      <para id="para-00163">30.1</para>
+      <para id="para-00164">30.4</para>
+     </entry>
+     <entry>2.5.A 2</entry>
+     <entry>
+      <para id="para-00165">Section 5.2 Passive Transport</para>
+      <para id="para-00166">Section 30.1Systems of Gas Exchange</para>
+      <para id="para-00167">Section 30.4 Transport of Gases in Human Bodily Fluids</para>
+     </entry>
+    </row>
+    <row>
+     <entry>5.3</entry>
+     <entry>2.5.A.3</entry>
+     <entry>Section 5.3 Active Transport</entry>
+    </row>
+    <row>
+     <entry>5.4</entry>
+     <entry>2.5.B.1.i</entry>
+     <entry>Section 5.4 Bulk Transport</entry>
+    </row>
+    <row>
+     <entry>5.4</entry>
+     <entry>2.5.B.1.ii</entry>
+     <entry>Section 5.4Bulk Transport</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00168">Topic 2.6 Facilitated Diffusion</para></entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00169">2.6</para></entry>
+     <entry>
+      <para id="para-00170">5.2</para>
+      <para id="para-00171">29.4</para>
+     </entry>
+     <entry>2.6.A.1.i</entry>
+     <entry>
+      <para id="para-00172">Section 5.2 Passive Transport</para>
+      <para id="para-00173">Section 29.4 Excitation-Contraction Coupling</para>
+     </entry>
+     <entry morerows="3">
+      <para id="para-00174">5:7</para>
+      <para id="para-00175">5:9</para>
+      <para id="para-00176">5:10</para>
+      <para id="para-00177">5:11</para>
+      <para id="para-00178">5:14</para>
+      <para id="para-00179">5:28</para>
+      <para id="para-00180">5:30</para>
+      <para id="para-00181">5:32 </para>
+      <para id="para-00182">5:40</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00183">5.2</para>
+      <para id="para-00184">29.4</para>
+     </entry>
+     <entry>2.6.A.1.ii</entry>
+     <entry>
+      <para id="para-00185">Section 5.2 Passive Transport</para>
+      <para id="para-00186">Section 29.4 Excitation-Contraction Coupling</para>
+     </entry>
+    </row>
+    <row>
+     <entry>5.2</entry>
+     <entry>2.6.A.2</entry>
+     <entry>Section 5.2 Passive Transport</entry>
+    </row>
+    <row>
+     <entry>5.2</entry>
+     <entry>2.6.A.3</entry>
+     <entry>Section 5.2 Passive Transport</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-00187">Topic 2.7 Tonicity and Osmoregulation</para>
+      <para id="para-00188">Book Content Supports Investigation 4: Diffusion and Osmosis in AP® Biology Investigative Labs</para>
+     </entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00189">2.7</para></entry>
+     <entry/>
+     <entry/>
+     <entry>Readings for this topic support Lab 4</entry>
+     <entry/>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00190">5.2</para>
+      <para id="para-00191">32.1</para>
+     </entry>
+     <entry>2.7.A.1</entry>
+     <entry>
+      <para id="para-00192">Section 5.2 Passive Transport</para>
+      <para id="para-00193">Section 32.1 Osmoregulation and Osmotic Balance</para>
+     </entry>
+     <entry morerows="2">
+      <para id="para-00194">5:22</para>
+      <para id="para-00195">5:23</para>
+      <para id="para-00196">5:33</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00197">5.2</para>
+      <para id="para-00198">32.1</para>
+     </entry>
+     <entry>2.7.B.1</entry>
+     <entry>
+      <para id="para-00199">Section 5.2 Passive Transport</para>
+      <para id="para-00200">Section 32.1 Osmoregulation and Osmotic Balance</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00201">23.5</para>
+      <para id="para-00202">32.1</para>
+     </entry>
+     <entry>2.7.B.2</entry>
+     <entry>
+      <para id="para-00203">Section 23.5 Transport of Water and Solutes in Plants (Lab 4)</para>
+      <para id="para-00204">Section 32.1 Osmoregulation and Osmotic Balance</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00205">Topic 2.8 Mechanisms of Transport</para></entry>
+    </row>
+    <row>
+     <entry morerows="1"><para id="para-00206">2.8</para></entry>
+     <entry>
+      <para id="para-00207">5.3</para>
+      <para id="para-00208">29.4</para>
+     </entry>
+     <entry>2.8.A.1.i</entry>
+     <entry>
+      <para id="para-00209">Section 5.3 Active Transport</para>
+      <para id="para-00210">Section 29.4 Muscle Contraction and Locomotion (Excitation-Contraction Coupling)</para>
+     </entry>
+     <entry morerows="1">
+      <para id="para-00211">5:24</para>
+      <para id="para-00212">5:34</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00213">5.3</para>
+      <para id="para-00214">6.4</para>
+      <para id="para-00215">29.4</para>
+     </entry>
+     <entry>2.8.A.1.ii</entry>
+     <entry>
+      <para id="para-00216">Section 5.3 Active Transport</para>
+      <para id="para-00217">Section 6.4 ATP: Adenosine Triphosphate</para>
+      <para id="para-00218">Section 29.4 Muscle Contraction and Locomotion (Excitation-Contraction Coupling)</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00219">Topic 2.9 Cell Compartmentalization</para></entry>
+    </row>
+    <row>
+     <entry morerows="1"><para id="para-00220">2.9</para></entry>
+     <entry>
+      <para id="para-00221">4.3</para>
+      <para id="para-00222">4.4</para>
+     </entry>
+     <entry>
+      <para id="para-00223">2.9.A.1</para>
+      
+     </entry>
+     <entry>
+      <para id="para-00224">Section 4.3 Eukaryotic Cells</para>
+      <para id="para-00225">Section 4.4 The Endomembrane System and Proteins</para>
+     </entry>
+     <entry morerows="1"/>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00226">4.3</para>
+      <para id="para-00227">4.4</para>
+     </entry>
+     <entry>2.9.B.1</entry>
+     <entry>
+      <para id="para-00228">Section 4.3 Eukaryotic Cells</para>
+      <para id="para-00229">Section 4.4 The Endomembrane System and Proteins</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00230">Topic 2.10 Origins of Cell Compartmentalizations</para></entry>
+    </row>
+    <row>
+     <entry morerows="2"><para id="para-00231">2.10</para></entry>
+     <entry>
+      <para id="para-00232">4.3 </para>
+      <para id="para-00233">20.3</para>
+     </entry>
+     <entry>
+      <para id="para-00234">2.10.A.1</para>
+      
+     </entry>
+     <entry>
+      <para id="para-00235">Section 4.3 Eukaryotic Cells (Evolution Connection: Endosymbiosis)</para>
+      <para id="para-00236">Section 20.3 Perspectives on the Phylogenetic Tree (Genome Fusion and the Evolution of Eukaryotes)</para>
+     </entry>
+     <entry morerows="2">
+      <para id="para-00237">4:34</para>
+      <para id="para-00238">4:35</para>
+      <para id="para-00239">4:60</para>
+      <para id="para-00240">4:61</para>
+     </entry>
+    </row>
+    <row>
+     <entry>4.2</entry>
+     <entry>2.10.A.2</entry>
+     <entry>Section 4.2 Prokaryotic Cells</entry>
+    </row>
+    <row>
+     <entry>4.4</entry>
+     <entry>2.10.A.3</entry>
+     <entry>Section 4.4 The Endomembrane System and Proteins</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-00241">Topic 3.1 Enzymes</para>
+      <para id="para-00242">Book Content Supports Investigation 13: Enzyme Activity in AP® Biology Investigative Labs</para>
+     </entry>
+    </row>
+    <row>
+     <entry morerows="1"><para id="para-00243">3.1</para></entry>
+     <entry>6.5</entry>
+     <entry>3.1.A.1</entry>
+     <entry>Section 6.5 Enzymes</entry>
+     <entry morerows="1">
+      <para id="para-00244">6:26</para>
+      <para id="para-00245">6:27</para>
+      <para id="para-00246">6:28</para>
+      <para id="para-00247">6:35</para>
+      <para id="para-00248">6:43</para>
+      <para id="para-00249">6:45</para>
+      <para id="para-00250">6:46</para>
+      <para id="para-00251">6:55</para>
+     </entry>
+    </row>
+    <row>
+     <entry>6.5</entry>
+     <entry>3.1.A.2</entry>
+     <entry>Section 6.5 Enzymes</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00252">Topic 3.2 Environmental Impacts on Enzyme Function</para></entry>
+    </row>
+    <row>
+     <entry morerows="5"><para id="para-00253">3.2</para></entry>
+     <entry>6.5</entry>
+     <entry>3.2.A.1.i</entry>
+     <entry>Section 6.5 Enzymes</entry>
+     <entry morerows="5">
+      <para id="para-00254">6:24</para>
+      <para id="para-00255">6:25</para>
+      <para id="para-00256">6:56</para>
+      <para id="para-00257">6:66</para>
+     </entry>
+    </row>
+    <row>
+     <entry>6.5</entry>
+     <entry>
+      <para id="para-00258">
+       3.2.A.1.i
+       <link url="https://www.google.com/url?q=http://3.2.a.1.ii&amp;sa=D&amp;source=editors&amp;ust=1794252158047128&amp;usg=AOvVaw2f1M6oNXNH0dfS9Me0J2GT">
+        i
+      </link>
+      </para>
+     </entry>
+     <entry>Section 6.5 Enzymes</entry>
+    </row>
+    <row>
+     <entry>3.4</entry>
+     <entry>3.2.A.2</entry>
+     <entry>Section 3.4 Proteins</entry>
+    </row>
+    <row>
+     <entry>6.5</entry>
+     <entry>3.2.B.1</entry>
+     <entry>Section 6.5 Enzymes</entry>
+    </row>
+    <row>
+     <entry>6.5</entry>
+     <entry>3.2.B.2</entry>
+     <entry>Section 6.5 Enzymes</entry>
+    </row>
+    <row>
+     <entry>6.5</entry>
+     <entry>3.2.B.3</entry>
+     <entry>Section 6.5 Enzymes</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00259">Topic 3.3 Cellular Energy</para></entry>
+    </row>
+    <row>
+     <entry morerows="5"><para id="para-00260">3.3</para></entry>
+     <entry>
+      <para id="para-00261">6.2</para>
+      <para id="para-00262">6.3</para>
+     </entry>
+     <entry>3.3.A.1</entry>
+     <entry>
+      <para id="para-00263">Section 6.2 Potential, Kinetic, Free, and Activation Energy</para>
+      <para id="para-00264">Section 6.3 The Laws of Thermodynamics</para>
+     </entry>
+     <entry morerows="5">
+      <para id="para-00265">6:6</para>
+      <para id="para-00266">6:8</para>
+      <para id="para-00267">6.22</para>
+      <para id="para-00268">6:23</para>
+      <para id="para-00269">6:37</para>
+      <para id="para-00270">6:40</para>
+      <para id="para-00271">6:42</para>
+      <para id="para-00272">6:48</para>
+      <para id="para-00273">6:53</para>
+      <para id="para-00274">6:59</para>
+      <para id="para-00275">6:61</para>
+      <para id="para-00276">6:63</para>
+      <para id="para-00277">7:45</para>
+      <para id="para-00278">7:46</para>
+      <para id="para-00279">8:35</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00280">6.3</para>
+      <para id="para-00281">6.4</para>
+     </entry>
+     <entry>
+      <para id="para-00282">3.3.A.2.i</para>
+      
+     </entry>
+     <entry>
+      <para id="para-00283">Section 6.3 The Laws of Thermodynamics</para>
+      <para id="para-00284">Section 6.4 ATP: Adenosine Triphosphate</para>
+     </entry>
+    </row>
+    <row>
+     <entry>6.4</entry>
+     <entry>3.3.A.2. ii</entry>
+     <entry>
+      <para id="para-00285">Section 6.4 ATP: Adenosine Triphosphate</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00286">37.2</para>
+      
+     </entry>
+     <entry>
+      <para id="para-00287">3.3.A.2. iii</para>
+      
+     </entry>
+     <entry>Section 37.2 Energy Flow through Ecosystems</entry>
+    </row>
+    <row>
+     <entry>6.5</entry>
+     <entry>3.3.A.3</entry>
+     <entry>Section 6.5 Enzymes</entry>
+    </row>
+    <row>
+     <entry>6.1</entry>
+     <entry>3.3.B.1</entry>
+     <entry>Section 6.1 Energy and Metabolism</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-00288">Topic 3.4 Photosynthesis</para>
+      <para id="para-00289">Book Content Supports Investigation 5: Photosynthesis in AP® Biology Investigative Labs</para>
+     </entry>
+    </row>
+    <row>
+     <entry morerows="13"><para id="para-00290">3.4</para></entry>
+     <entry>8.1</entry>
+     <entry>3.4.A.1.i</entry>
+     <entry>Section 8.1 Overview of Photosynthesis</entry>
+     <entry morerows="13">
+      <para id="para-00291">6:9</para>
+      <para id="para-00292">6:20</para>
+      <para id="para-00293">6:54</para>
+      <para id="para-00294">8:1</para>
+      <para id="para-00295">8:2</para>
+      <para id="para-00296">8:3</para>
+      <para id="para-00297">8:4</para>
+      <para id="para-00298">8:5</para>
+      <para id="para-00299">8:6</para>
+      <para id="para-00300">8:8</para>
+      <para id="para-00301">8:11</para>
+      <para id="para-00302">8:14</para>
+      <para id="para-00303">8:17</para>
+      <para id="para-00304">8:18</para>
+      <para id="para-00305">8:21</para>
+      <para id="para-00306">8:22</para>
+      <para id="para-00307">8:23</para>
+      <para id="para-00308">8:24</para>
+      <para id="para-00309">8:25</para>
+      <para id="para-00310">8:27</para>
+      <para id="para-00311">8:28</para>
+      <para id="para-00312">8:29</para>
+      <para id="para-00313">8:33</para>
+      <para id="para-00314">8:34</para>
+      <para id="para-00315">8:36</para>
+      <para id="para-00316">8:37</para>
+      <para id="para-00317">8:38</para>
+      <para id="para-00318">8:41</para>
+      <para id="para-00319">8:44</para>
+      <para id="para-00320">8:45</para>
+      <para id="para-00321">8:46</para>
+      <para id="para-00322">8:47</para>
+      <para id="para-00323">8:49</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00324">22.1</para>
+      <para id="para-00325">22.2</para>
+     </entry>
+     <entry>3.4.A.1ii</entry>
+     <entry>
+      <para id="para-00326">Section 22.1 Prokaryotic Diversity</para>
+      <para id="para-00327">Section 22.2 Evolution Connection</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00328">22.1</para>
+      <para id="para-00329">22.2</para>
+     </entry>
+     <entry>3.4.A.1iii</entry>
+     <entry>
+      <para id="para-00330">Section 22.1 Prokaryotic Diversity</para>
+      <para id="para-00331">Section 22.2 Evolution Connection</para>
+     </entry>
+    </row>
+    <row>
+     <entry>22.1</entry>
+     <entry>3.4.A.1iv</entry>
+     <entry>Section 22.1 Prokaryotic Diversity</entry>
+    </row>
+    <row>
+     <entry>8.1</entry>
+     <entry>3.4.A.2.i</entry>
+     <entry>Section 8.1 Overview of Photosynthesis</entry>
+    </row>
+    <row>
+     <entry>8.1</entry>
+     <entry>3.4.A.2.ii</entry>
+     <entry>Section 8.1 Overview of Photosynthesis</entry>
+    </row>
+    <row>
+     <entry>8.1</entry>
+     <entry>3.4.A.2.iii</entry>
+     <entry>Section 8.1 Overview of Photosynthesis</entry>
+    </row>
+    <row>
+     <entry>8.1</entry>
+     <entry>3.4.A.3</entry>
+     <entry>Section 8.1 Overview of Photosynthesis</entry>
+    </row>
+    <row>
+     <entry>8.2</entry>
+     <entry>3.4.B.1</entry>
+     <entry>Section 8.2 The Light-Dependent Reaction of Photosynthesis</entry>
+    </row>
+    <row>
+     <entry>8.2</entry>
+     <entry>3.4.B.2</entry>
+     <entry>Section 8.2 The Light-Dependent Reaction of Photosynthesis</entry>
+    </row>
+    <row>
+     <entry>8.2</entry>
+     <entry>3.4.B.3</entry>
+     <entry>Section 8.2 The Light-Dependent Reaction of Photosynthesis</entry>
+    </row>
+    <row>
+     <entry>8.2</entry>
+     <entry>3.4.B.4</entry>
+     <entry>Section 8.2 The Light-Dependent Reaction of Photosynthesis</entry>
+    </row>
+    <row>
+     <entry>8.2</entry>
+     <entry>3.4.B.5</entry>
+     <entry>Section 8.2 The Light-Dependent Reaction of Photosynthesis</entry>
+    </row>
+    <row>
+     <entry>8.3</entry>
+     <entry>3.4.B.6</entry>
+     <entry>Section 8.3 Using Light to Make Organic Molecules</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-00332">Topic 3.5 Cellular Respiration</para>
+      <para id="para-00333">Book Content Supports Investigation 6: Cellular Respiration in AP® Biology Investigative Labs</para>
+     </entry>
+    </row>
+    <row>
+     <entry morerows="11"><para id="para-00334">3.5</para></entry>
+     <entry>
+      <para id="para-00335">7.1</para>
+      <para id="para-00336">7.2</para>
+      <para id="para-00337">7.6</para>
+     </entry>
+     <entry>
+      <para id="para-00338">3.5.A.1</para>
+      
+     </entry>
+     <entry>
+      <para id="para-00339">
+       Chapter 7 supports Topic 3.5. Specific sections are mentioned below for different Essential Knowledge
+       Statements.
+      </para>
+      <para id="para-00340">Section 7.1Energy in Living Systems</para>
+      <para id="para-00341">Section 7.2 Glycolysis</para>
+      <para id="para-00342">Section 7.6 Connections of Carbohydrate, Protein, and Lipid Metabolic Pathways</para>
+     </entry>
+     <entry morerows="11">
+      <para id="para-00343">6:1</para>
+      <para id="para-00344">6:2</para>
+      <para id="para-00345">6:4</para>
+      <para id="para-00346">6:5</para>
+      <para id="para-00347">6:31</para>
+      <para id="para-00348">6:52</para>
+      <para id="para-00349">7:1</para>
+      <para id="para-00350">7:2</para>
+      <para id="para-00351">7:3</para>
+      <para id="para-00352">7:4</para>
+      <para id="para-00353">7:5</para>
+      <para id="para-00354">7:7</para>
+      <para id="para-00355">7:8</para>
+      <para id="para-00356">7:9</para>
+      <para id="para-00357">7:13</para>
+      <para id="para-00358">7:14</para>
+      <para id="para-00359">7:15</para>
+      <para id="para-00360">7:16</para>
+      <para id="para-00361">7:17</para>
+      <para id="para-00362">7:25</para>
+      <para id="para-00363">7:26</para>
+      <para id="para-00364">7:28</para>
+      <para id="para-00365">7:34</para>
+      <para id="para-00366">7:38</para>
+      <para id="para-00367">7:41</para>
+      <para id="para-00368">7:42</para>
+      <para id="para-00369">7:43</para>
+      <para id="para-00370">7:44</para>
+      <para id="para-00371">7:47</para>
+      <para id="para-00372">7:49</para>
+      <para id="para-00373">7:50</para>
+      <para id="para-00374">7:51</para>
+      <para id="para-00375">7:52</para>
+      <para id="para-00376">7:53</para>
+      <para id="para-00377">7:56</para>
+     </entry>
+    </row>
+    <row>
+     <entry>7.1</entry>
+     <entry>3.5.A.2</entry>
+     <entry>Section 7.1 Energy in Living Systems</entry>
+    </row>
+    <row>
+     <entry>7.4</entry>
+     <entry>3.5.A.3. I.</entry>
+     <entry>Section 7.4 Oxidative Phosphorylation</entry>
+    </row>
+    <row>
+     <entry>7.4</entry>
+     <entry>3.5.A.3.ii.</entry>
+     <entry>Section 7.4 Oxidative Phosphorylation</entry>
+    </row>
+    <row>
+     <entry>7.4</entry>
+     <entry>3.5.A.3.iii.</entry>
+     <entry>Section 7.4 Oxidative Phosphorylation</entry>
+    </row>
+    <row>
+     <entry>24.3</entry>
+     <entry>3.5.A.3.iv.</entry>
+     <entry>Section 24.3 Homeostasis</entry>
+    </row>
+    <row>
+     <entry>7.2</entry>
+     <entry>3.5.B.1</entry>
+     <entry>Section 7.2 Glycolysis</entry>
+    </row>
+    <row>
+     <entry>7.3</entry>
+     <entry>3.5.B.2</entry>
+     <entry>Section 7.3 Oxidation of Pyruvate and the Citric Acid Cycle</entry>
+    </row>
+    <row>
+     <entry>7.3</entry>
+     <entry>3.5.B.3</entry>
+     <entry>Section 7.3 Oxidation of Pyruvate and the Citric Acid Cycle</entry>
+    </row>
+    <row>
+     <entry>7.3</entry>
+     <entry>3.5.B.4</entry>
+     <entry>Section 7.3 Oxidation of Pyruvate and the Citric Acid Cycle</entry>
+    </row>
+    <row>
+     <entry>7.4</entry>
+     <entry>3.5.B.5</entry>
+     <entry>Section 7.4 Oxidative Phosphorylation</entry>
+    </row>
+    <row>
+     <entry>7.5</entry>
+     <entry>3.5.B.6</entry>
+     <entry>Section 7.5 Metabolism without Oxygen</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00378">Topic 4.1 Cell Communication</para></entry>
+    </row>
+    <row>
+     <entry morerows="2"><para id="para-00379">4.1</para></entry>
+     <entry>
+      <para id="para-00380">9.1</para>
+      <para id="para-00381">9.4</para>
+      <para id="para-00382">28.1</para>
+     </entry>
+     <entry>4.1.A.1</entry>
+     <entry>
+      <para id="para-00383">Section 9.1 Signaling Molecules and Cellular Receptors</para>
+      <para id="para-00384">Section 9.4 Signaling in Single-Celled Organisms</para>
+      <para id="para-00385">Section 28.1Types of Hormones</para>
+     </entry>
+     <entry morerows="2">
+      <para id="para-00386">9:2</para>
+      <para id="para-00387">9:30</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00388">9.1</para>
+      <para id="para-00389">9.4</para>
+      <para id="para-00390">28.1</para>
+     </entry>
+     <entry>4.1.B.1</entry>
+     <entry>
+      <para id="para-00391">Section 9.1 Signaling Molecules and Cellular Receptors</para>
+      <para id="para-00392">Section 9.4 Signaling in Single-Celled Organisms</para>
+      <para id="para-00393">Section 28.1 Types of Hormones</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00394">9.1</para>
+      <para id="para-00395">28.1</para>
+     </entry>
+     <entry>4.1.B.2</entry>
+     <entry>
+      <para id="para-00396">Section 9.1 Signaling Molecules and Cellular Receptors</para>
+      <para id="para-00397">Section 28.1 Types of Hormones</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00398">Topic 4.2 Introduction to Signal Transduction</para></entry>
+    </row>
+    <row>
+     <entry morerows="8"><para id="para-00399">4.2</para></entry>
+     <entry>9.2</entry>
+     <entry>4.2.A.1</entry>
+     <entry>Section 9.2 Propagation of the Signal</entry>
+     <entry morerows="8">
+      <para id="para-00400">9:1</para>
+      <para id="para-00401">9:3</para>
+      <para id="para-00402">9:4</para>
+      <para id="para-00403">9:9</para>
+      <para id="para-00404">9:10</para>
+      <para id="para-00405">9:21</para>
+      <para id="para-00406">9:22</para>
+      <para id="para-00407">9:23</para>
+      <para id="para-00408">9:40</para>
+      <para id="para-00409">9:43</para>
+      <para id="para-00410">9:45</para>
+      <para id="para-00411">9:46</para>
+     </entry>
+    </row>
+    <row>
+     <entry>9.2</entry>
+     <entry>4.2.A.2</entry>
+     <entry>Section 9.2 Propagation of the Signal</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00412">9.1</para>
+      <para id="para-00413">28.2</para>
+     </entry>
+     <entry>4.2.B.1.i</entry>
+     <entry>
+      <para id="para-00414">Section 9.1 Signaling Molecules and Cellular Receptors</para>
+      <para id="para-00415">Section 28.2 How Hormones Work</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00416">9.1</para>
+      <para id="para-00417">28.2</para>
+     </entry>
+     <entry>4.2.B.1.ii</entry>
+     <entry>
+      <para id="para-00418">Section 9.1 Signaling Molecules and Cellular Receptors</para>
+      <para id="para-00419">Section 28.2 How Hormones Work</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00420">9.3</para>
+      <para id="para-00421">28.2</para>
+     </entry>
+     <entry>4.2.B.1.iii</entry>
+     <entry>
+      <para id="para-00422">Section 9.3 Response to the Signal</para>
+      <para id="para-00423">Section 28.2 How Hormones Work</para>
+     </entry>
+    </row>
+    <row>
+     <entry>9.1</entry>
+     <entry>4.2.B.2.i</entry>
+     <entry>Section 9.1 Signaling Molecules and Cellular Receptors</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00424">9.2</para>
+      <para id="para-00425">28.2</para>
+     </entry>
+     <entry>4.2.B.2.ii</entry>
+     <entry>
+      <para id="para-00426">Section 9.2 Propagation of the Signal</para>
+      <para id="para-00427">Section 28.2 How Hormones Work</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00428">9.1</para>
+      <para id="para-00429">28.2</para>
+     </entry>
+     <entry>4.2.B.2.iii</entry>
+     <entry>
+      <para id="para-00430">Section 9.1 Signaling Molecules and Cellular Receptors</para>
+      <para id="para-00431">Section 28.2 How Hormones Work</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00432">9.1</para>
+      <para id="para-00433">28.2</para>
+     </entry>
+     <entry>4.2.B.2.iv</entry>
+     <entry>
+      <para id="para-00434">Section 9.1 Signaling Molecules and Cellular Receptors</para>
+      <para id="para-00435">Section 28.2 How Hormones Work</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00436">Topic 4.3 Signal Transduction Pathways</para></entry>
+    </row>
+    <row>
+     <entry morerows="2"><para id="para-00437">4.3</para></entry>
+     <entry>9.3</entry>
+     <entry>4.3.A.1</entry>
+     <entry>Section 9.3 Response to the Signal</entry>
+     <entry morerows="2">
+      <para id="para-00438">9:5</para>
+      <para id="para-00439">9:13</para>
+      <para id="para-00440">9:15</para>
+      <para id="para-00441">9:17</para>
+      <para id="para-00442">9:18</para>
+      <para id="para-00443">9:20</para>
+      <para id="para-00444">9:24</para>
+      <para id="para-00445">9:25</para>
+      <para id="para-00446">9:31</para>
+      <para id="para-00447">9:36</para>
+      <para id="para-00448">9:38</para>
+     </entry>
+    </row>
+    <row>
+     <entry>9.3</entry>
+     <entry>4.3.B.1</entry>
+     <entry>Section 9.3 Response to the Signal</entry>
+    </row>
+    <row>
+     <entry>9.3</entry>
+     <entry>4.3.B.2</entry>
+     <entry>Section 9.3 Response to the Signal</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00449">Topic 4.4 Feedback</para></entry>
+    </row>
+    <row>
+     <entry morerows="1"><para id="para-00450">4.4</para></entry>
+     <entry>
+      <para id="para-00451">7.7</para>
+      <para id="para-00452">24.3</para>
+      <para id="para-00453">28.3</para>
+      <para id="para-00454">28.4</para>
+     </entry>
+     <entry>4.4.A.1.i</entry>
+     <entry>
+      <para id="para-00455">Section 7.7 Regulation of Cellular Respiration</para>
+      <para id="para-00456">Section 24.3 Homeostasis</para>
+      <para id="para-00457">Section 28.3 Regulation of Body Processes</para>
+      <para id="para-00458">Section 28.4 Regulation of Hormone Production</para>
+     </entry>
+     <entry morerows="1">
+      <para id="para-00459">9:19</para>
+      <para id="para-00460">10:42</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00461">7.7</para>
+      <para id="para-00462">24.3</para>
+      <para id="para-00463">28.3</para>
+      <para id="para-00464">28.4</para>
+     </entry>
+     <entry>4.4.A.1.ii</entry>
+     <entry>
+      <para id="para-00465">Section 7.7 Regulation of Cellular Respiration</para>
+      <para id="para-00466">Section 24.3 Homeostasis</para>
+      <para id="para-00467">Section 28.3 Regulation of Body Processes</para>
+      <para id="para-00468">Section 28.4 Regulation of Hormone Production</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-00469">Topic 4.5 Cell Cycle</para>
+      <para id="para-00470">
+       Book Content Supports Investigation 7: Cell Division: Mitosis and Meiosis in AP® Biology Investigative
+       Labs
+      </para>
+     </entry>
+    </row>
+    <row>
+     <entry morerows="13">
+      <para id="para-00471">4.5</para>
+      
+     </entry>
+     <entry>10.1</entry>
+     <entry>4.5.B</entry>
+     <entry>
+      <para id="para-00472">
+       Section 4.5 Cytoskeleton (Background on microtubules. This is needed context for mitosis and meiosis.)
+      </para>
+      <para id="para-00473">Section 10.1 Cell Division</para>
+     </entry>
+     <entry morerows="13">
+      <para id="para-00474">10:1</para>
+      <para id="para-00475">10:5</para>
+      <para id="para-00476">10:6</para>
+      <para id="para-00477">10:7</para>
+      <para id="para-00478">10:9</para>
+      <para id="para-00479">10:24</para>
+      <para id="para-00480">10:27</para>
+      <para id="para-00481">10:36</para>
+      <para id="para-00482">10:38</para>
+      <para id="para-00483">10:39</para>
+      <para id="para-00484">10:40</para>
+      <para id="para-00485">10:41</para>
+      <para id="para-00486">10:42</para>
+      <para id="para-00487">10:44</para>
+      <para id="para-00488">10:45</para>
+      <para id="para-00489">10:47</para>
+     </entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.A.1.i</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.A.1.ii</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.A.1.iii</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.A.1.iv</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.A.1.v</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.A.1.vi</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.B.1.i</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.B.1.ii</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.B.1.iii</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.B.1.iv</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.B.1.v</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.B.1.vi</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry>10.2</entry>
+     <entry>4.5.B.1.vii</entry>
+     <entry>Section 10.2 The Cell Cycle</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00490">Topic 4.6 Regulation of Cell Cycle</para></entry>
+    </row>
+    <row>
+     <entry morerows="2"><para id="para-00491">4.6</para></entry>
+     <entry>
+      <para id="para-00492">10.3</para>
+      <para id="para-00493">16.7</para>
+     </entry>
+     <entry>4.6.A.1</entry>
+     <entry>
+      <para id="para-00494">Section 10.3 Control of the Cell Cycle</para>
+      <para id="para-00495">Section 16.7 Cancer and Gene Regulation</para>
+     </entry>
+     <entry morerows="2">
+      <para id="para-00496">9:14</para>
+      <para id="para-00497">10:10</para>
+      <para id="para-00498">10:11</para>
+      <para id="para-00499">10:14</para>
+      <para id="para-00500">10:29</para>
+      <para id="para-00501">10:31</para>
+      <para id="para-00502">10:43</para>
+      <para id="para-00503">10:46</para>
+      <para id="para-00504">16:21</para>
+      
+      
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00505">10.3</para>
+      <para id="para-00506">16.7</para>
+     </entry>
+     <entry>4.6.A.2</entry>
+     <entry>
+      <para id="para-00507">Section 10.3 Control of the Cell Cycle</para>
+      <para id="para-00508">Section 16.7 Cancer and Gene Regulation</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00509">10.3</para>
+      <para id="para-00510">10.4</para>
+      <para id="para-00511">16.7</para>
+     </entry>
+     <entry>4.6.B.1</entry>
+     <entry>
+      <para id="para-00512">Section 10.3 Control of the Cell Cycle</para>
+      <para id="para-00513">Section 10.4 Cancer and the Cell Cycle</para>
+      <para id="para-00514">Section 16.7 Cancer and Gene Regulation</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-00515">Topic 5.1 Meiosis</para>
+      <para id="para-00516">
+       Book Content Supports Investigation 7: Cell Division: Mitosis and Meiosis in AP® Biology Investigative
+       Labs
+      </para>
+     </entry>
+    </row>
+    <row>
+     <entry morerows="9"><para id="para-00517">5.1</para></entry>
+     <entry>11.1</entry>
+     <entry>5.1.A.1</entry>
+     <entry>
+      <para id="para-00518">Section 11.1 The Process of Meiosis (Read Section 4.5 for background on microtubules.)</para>
+     </entry>
+     <entry morerows="9">
+      <para id="para-00519">11:1</para>
+      <para id="para-00520">11.2</para>
+      <para id="para-00521">11:3</para>
+      <para id="para-00522">11:4</para>
+      <para id="para-00523">11:5</para>
+      <para id="para-00524">11:6</para>
+      <para id="para-00525">11:8</para>
+      <para id="para-00526">11:10</para>
+      <para id="para-00527">11:22</para>
+      <para id="para-00528">11:30</para>
+      <para id="para-00529">11:31</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>11.1</entry>
+     <entry>5.1.A.2.i</entry>
+     <entry>Section 11.1 The Process of Meiosis</entry>
+    </row>
+    <row>
+     <entry>11.1</entry>
+     <entry>5.1.A.2.ii</entry>
+     <entry>Section 11.1 The Process of Meiosis</entry>
+    </row>
+    <row>
+     <entry>11.1</entry>
+     <entry>5.1.A.2.iii</entry>
+     <entry>Section 11.1 The Process of Meiosis</entry>
+    </row>
+    <row>
+     <entry>11.1</entry>
+     <entry>5.1.A.2.iv</entry>
+     <entry>Section 11.1 The Process of Meiosis</entry>
+    </row>
+    <row>
+     <entry>11.1</entry>
+     <entry>5.1.A.3.i</entry>
+     <entry>Section 11.1 The Process of Meiosis</entry>
+    </row>
+    <row>
+     <entry>11.1</entry>
+     <entry>5.1.A.3.ii</entry>
+     <entry>Section 11.1 The Process of Meiosis</entry>
+    </row>
+    <row>
+     <entry>11.1</entry>
+     <entry>5.1.A.3.iii</entry>
+     <entry>Section 11.1 The Process of Meiosis</entry>
+    </row>
+    <row>
+     <entry>11.1</entry>
+     <entry>5.1.A.3.iv</entry>
+     <entry>Section 11.1 The Process of Meiosis</entry>
+    </row>
+    <row>
+     <entry>11.1</entry>
+     <entry>5.1.B.1</entry>
+     <entry>Section 11.1 The Process of Meiosis</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00530">Topic 5.2 Meiosis and Genetic Diversity</para></entry>
+    </row>
+    <row>
+     <entry morerows="2"><para id="para-00531">5.2</para></entry>
+     <entry>
+      <para id="para-00532">11.1</para>
+      <para id="para-00533">13.2</para>
+     </entry>
+     <entry>5.2.A.1</entry>
+     <entry>
+      <para id="para-00534">Section 11.1 The Process of Meiosis</para>
+      <para id="para-00535">Section 13.2 Chromosomal Basis of Inherited Disorders</para>
+     </entry>
+     <entry morerows="2">
+      <para id="para-00536">10:37</para>
+      <para id="para-00537">11:11</para>
+      <para id="para-00538">11:15</para>
+      <para id="para-00539">11:16</para>
+      <para id="para-00540">11:17</para>
+      <para id="para-00541">11:18</para>
+      <para id="para-00542">11:20</para>
+      <para id="para-00543">11:25</para>
+      <para id="para-00544">11:26</para>
+      <para id="para-00545">11:32</para>
+      <para id="para-00546">11:33</para>
+      <para id="para-00547">13:19</para>
+      <para id="para-00548">15:53c</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>11.1</entry>
+     <entry>5.2.A.2</entry>
+     <entry>Section 11.1 The Process of Meiosis</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00549">11.1</para>
+      <para id="para-00550">11.2</para>
+     </entry>
+     <entry>5.2.A.3</entry>
+     <entry>
+      <para id="para-00551">Section 11.1 The Process of Meiosis</para>
+      <para id="para-00552">Section 11.2 Sexual Reproduction</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00553">Topic 5.3 Mendelian Genetics</para></entry>
+    </row>
+    <row>
+     <entry morerows="5"><para id="para-00554">5.3</para></entry>
+     <entry>
+      <para id="para-00555">12.1</para>
+      <para id="para-00556">12.3</para>
+     </entry>
+     <entry>5.3.A.1</entry>
+     <entry>
+      <para id="para-00557">Section 12.1 Mendel’s Experiments and the Laws of Probability</para>
+      <para id="para-00558">Section 12.3 Laws of Inheritance</para>
+     </entry>
+     <entry morerows="5">
+      <para id="para-00559">12:3</para>
+      <para id="para-00560">12:4</para>
+      <para id="para-00561">12:5</para>
+      <para id="para-00562">12:6</para>
+      <para id="para-00563">12:7</para>
+      <para id="para-00564">12:8</para>
+      <para id="para-00565">12:9</para>
+      <para id="para-00566">12:11</para>
+      <para id="para-00567">12:12</para>
+      <para id="para-00568">12:14</para>
+      <para id="para-00569">12:15</para>
+      <para id="para-00570">12:16</para>
+      <para id="para-00571">12:18</para>
+      <para id="para-00572">12:20</para>
+      <para id="para-00573">12:21</para>
+      <para id="para-00574">12:22</para>
+      <para id="para-00575">12:23</para>
+      <para id="para-00576">12:26</para>
+      <para id="para-00577">12:28</para>
+      <para id="para-00578">12:29</para>
+      <para id="para-00579">12:31</para>
+      <para id="para-00580">12:32</para>
+      <para id="para-00581">12:35</para>
+      <para id="para-00582">12:36</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00583">12.1</para>
+      <para id="para-00584">12.2</para>
+     </entry>
+     <entry>5.3.A.2.i</entry>
+     <entry>
+      <para id="para-00585">Section 12.1 Mendel’s Experiments and the Laws of Probability</para>
+      <para id="para-00586">Section 12.2 Characteristics and Traits</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00587">12.1</para>
+      <para id="para-00588">12.2</para>
+     </entry>
+     <entry>5.3.A.2.ii</entry>
+     <entry>
+      <para id="para-00589">Section 12.1 Mendel’s Experiments and the Laws of Probability</para>
+      <para id="para-00590">Section 12.2 Characteristics and Traits</para>
+     </entry>
+    </row>
+    <row>
+     <entry>12.2</entry>
+     <entry>5.3.A.2.iii</entry>
+     <entry>Section 12.2 Characteristics and Traits</entry>
+    </row>
+    <row>
+     <entry>12.2</entry>
+     <entry>5.3.A.2.iv</entry>
+     <entry>Section 12.2 Characteristics and Traits</entry>
+    </row>
+    <row>
+     <entry>12.2</entry>
+     <entry>5.3.A.2.v</entry>
+     <entry>Section 12.2 Characteristics and Traits</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00591">Topic 5.4 Non-Mendelian Genetics</para></entry>
+    </row>
+    <row>
+     <entry morerows="7"><para id="para-00592">5.4</para></entry>
+     <entry>
+      <para id="para-00593">13.1</para>
+      <para id="para-00594">17.2</para>
+     </entry>
+     <entry>5.4.A.1.i</entry>
+     <entry>
+      <para id="para-00595">Section 13.1 Chromosomal Theory and Genetic Linkage</para>
+      <para id="para-00596">Section 17.2 Mapping Genomes</para>
+     </entry>
+     <entry morerows="7">
+      <para id="para-00597">12:19</para>
+      <para id="para-00598">12:24</para>
+      <para id="para-00599">12:33</para>
+      <para id="para-00600">12:34</para>
+      <para id="para-00601">12:37</para>
+      <para id="para-00602">12:38</para>
+      <para id="para-00603">12:39</para>
+      <para id="para-00604">12:40</para>
+      <para id="para-00605">12:41</para>
+      <para id="para-00606">12:42</para>
+      <para id="para-00607">13:1</para>
+      <para id="para-00608">13:2</para>
+      <para id="para-00609">13:3</para>
+      <para id="para-00610">13:4</para>
+      <para id="para-00611">13:7</para>
+      <para id="para-00612">13:9</para>
+      <para id="para-00613">13:10</para>
+      <para id="para-00614">13:11</para>
+      <para id="para-00615">13:12</para>
+      <para id="para-00616">13:13</para>
+      <para id="para-00617">13:16</para>
+      <para id="para-00618">13:19</para>
+      <para id="para-00619">13:20</para>
+      <para id="para-00620">13:22</para>
+      <para id="para-00621">14:74</para>
+     </entry>
+    </row>
+    <row>
+     <entry>12.2</entry>
+     <entry>5.4.A.1.ii</entry>
+     <entry>Section 12.2 Characteristics and Traits</entry>
+    </row>
+    <row>
+     <entry>12.2</entry>
+     <entry>5.4.A.1.iii</entry>
+     <entry>Section 12.2 Characteristics and Traits</entry>
+    </row>
+    <row>
+     <entry>12.2</entry>
+     <entry>5.4.A.2</entry>
+     <entry>Section 12.2 Characteristics and Traits</entry>
+    </row>
+    <row>
+     <entry>12.3</entry>
+     <entry>5.4.A.3</entry>
+     <entry>Section 12.3 Laws of Inheritance</entry>
+    </row>
+    <row>
+     <entry>12.3</entry>
+     <entry>5.4.A.4.i</entry>
+     <entry>Section 12.3 Laws of Inheritance</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00622">12.3</para>
+      <para id="para-00623">20.3</para>
+     </entry>
+     <entry>5.4.A.4.ii</entry>
+     <entry>
+      <para id="para-00624">Section 12.3 Laws of Inheritance</para>
+      <para id="para-00625">Section 20.3 Genome Fusion and the Evolution of Eukaryotes</para>
+     </entry>
+    </row>
+    <row>
+     <entry>12.3</entry>
+     <entry>5.4.A.4.iii</entry>
+     <entry>Section 12.3 Laws of Inheritance</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00626">Topic 5.5 Environmental Effects on Phenotype</para></entry>
+    </row>
+    <row>
+     <entry>5.5</entry>
+     <entry>12.1</entry>
+     <entry>5.5.A.1</entry>
+     <entry>Section 12.1 Mendel’s Experiments and the Laws of Probability</entry>
+     <entry>14:64</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00627">Topic 6.1 DNA and RNA Structure</para></entry>
+    </row>
+    <row>
+     <entry morerows="5"><para id="para-00628">6.1</para></entry>
+     <entry>14.2</entry>
+     <entry>6.1.A.1.i</entry>
+     <entry>
+      <para id="para-00629">Section 14.1 Historical Basis of Modern Understanding (Read for Unit 6 introduction and context.)</para>
+      <para id="para-00630">Section 14.2 DNA Structure and Sequencing</para>
+     </entry>
+     <entry morerows="5">
+      <para id="para-00631">14:5</para>
+      <para id="para-00632">14:6</para>
+      <para id="para-00633">14.7</para>
+      <para id="para-00634">14:8</para>
+      <para id="para-00635">14:11</para>
+      <para id="para-00636">14:13</para>
+      <para id="para-00637">14:57</para>
+      <para id="para-00638">14:58</para>
+      <para id="para-00639">14:60</para>
+      <para id="para-00640">14:71</para>
+      <para id="para-00641">15:52</para>
+      
+      
+     </entry>
+    </row>
+    <row>
+     <entry>14.2</entry>
+     <entry>6.1.A.1.ii</entry>
+     <entry>Section 14.2 DNA Structure and Sequencing</entry>
+    </row>
+    <row>
+     <entry>15.2</entry>
+     <entry>6.1.A.2</entry>
+     <entry>Section 15.2 Prokaryotic Transcription</entry>
+    </row>
+    <row>
+     <entry>14.2</entry>
+     <entry>6.1.B.1.i</entry>
+     <entry>Section 14.2 DNA Structure and Sequencing</entry>
+    </row>
+    <row>
+     <entry>14.2</entry>
+     <entry>6.1.B.1.ii</entry>
+     <entry>Section 14.2 DNA Structure and Sequencing</entry>
+    </row>
+    <row>
+     <entry>14.2</entry>
+     <entry>6.1.B.1.iii</entry>
+     <entry>Section 14.2 DNA Structure and Sequencing</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00642">Topic 6.2 DNA Replication</para></entry>
+    </row>
+    <row>
+     <entry morerows="6"><para id="para-00643">6.2</para></entry>
+     <entry>14.4</entry>
+     <entry>6.2.A.1.i</entry>
+     <entry>
+      <para id="para-00644">Section 14.4 DNA Replication in Prokaryotes (Read 14.3 for introduction and context)</para>
+     </entry>
+     <entry morerows="6">
+      <para id="para-00645">14:16</para>
+      <para id="para-00646">14:19</para>
+      <para id="para-00647">14:21</para>
+      <para id="para-00648">14:22</para>
+      <para id="para-00649">14:27</para>
+      <para id="para-00650">14:38</para>
+      <para id="para-00651">14:40</para>
+      <para id="para-00652">14:41</para>
+      <para id="para-00653">14:43</para>
+      <para id="para-00654">14:44</para>
+      <para id="para-00655">14:45</para>
+      <para id="para-00656">14:46</para>
+      <para id="para-00657">14:47</para>
+      <para id="para-00658">14:48</para>
+      <para id="para-00659">14:63</para>
+      <para id="para-00660">14:73</para>
+      <para id="para-00661">15:43</para>
+      <para id="para-00662">15:45</para>
+      <para id="para-00663">15:47</para>
+     </entry>
+    </row>
+    <row>
+     <entry>14.4</entry>
+     <entry>6.2.A.1.ii</entry>
+     <entry>Section 14.4 DNA Replication in Prokaryotes</entry>
+    </row>
+    <row>
+     <entry>14.4</entry>
+     <entry>6.2.A.1.iii</entry>
+     <entry>Section 14.4 DNA Replication in Prokaryotes</entry>
+    </row>
+    <row>
+     <entry>14.4</entry>
+     <entry>6.2.A.1.iv</entry>
+     <entry>Section 14.4 DNA Replication in Prokaryotes</entry>
+    </row>
+    <row>
+     <entry>14.4</entry>
+     <entry>6.2.A.1.v</entry>
+     <entry>Section 14.4 DNA Replication in Prokaryotes</entry>
+    </row>
+    <row>
+     <entry>14.4</entry>
+     <entry>6.2.A.1.vi</entry>
+     <entry>Section 14.4 DNA Replication in Prokaryotes</entry>
+    </row>
+    <row>
+     <entry>14.4</entry>
+     <entry>6.2.A.1.vii</entry>
+     <entry>Section 14.4 DNA Replication in Prokaryotes</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00664">Topic 6.3 Transcription and RNA Processing</para></entry>
+    </row>
+    <row>
+     <entry morerows="7"><para id="para-00665">6.3</para></entry>
+     <entry>15.1</entry>
+     <entry>6.3.A.1.i</entry>
+     <entry>Section 15.1 The Genetic Code</entry>
+     <entry morerows="7">
+      <para id="para-00666">14:62</para>
+      <para id="para-00667">15:1</para>
+      <para id="para-00668">15:3</para>
+      <para id="para-00669">15:4</para>
+      <para id="para-00670">15:5</para>
+      <para id="para-00671">15:6</para>
+      <para id="para-00672">15:9</para>
+      <para id="para-00673">15:11</para>
+      <para id="para-00674">15:15</para>
+      <para id="para-00675">15:16</para>
+      <para id="para-00676">15:18</para>
+      <para id="para-00677">15:20</para>
+      <para id="para-00678">15:25</para>
+      <para id="para-00679">15:34</para>
+      <para id="para-00680">15:48</para>
+      <para id="para-00681">15:54</para>
+      <para id="para-00682">15:55</para>
+      <para id="para-00683">16:13</para>
+      <para id="para-00684">16:42</para>
+      <para id="para-00685">16:51</para>
+      <para id="para-00686">16:52</para>
+     </entry>
+    </row>
+    <row>
+     <entry>15.4</entry>
+     <entry>6.3.A.1.ii</entry>
+     <entry>Section 15.4 RNA Processing in Eukaryotes</entry>
+    </row>
+    <row>
+     <entry>15.4</entry>
+     <entry>6.3.A.1.iii</entry>
+     <entry>Section 15.4 RNA Processing in Eukaryotes</entry>
+    </row>
+    <row>
+     <entry>15.2</entry>
+     <entry>6.3.A.2</entry>
+     <entry>Section 15.2 Prokaryotic Transcription</entry>
+    </row>
+    <row>
+     <entry>15.2</entry>
+     <entry>6.3.A.3</entry>
+     <entry>Section 15.2 Prokaryotic Transcription</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00687">15.3</para>
+      <para id="para-00688">15.4</para>
+      <para id="para-00689">16.5</para>
+     </entry>
+     <entry>6.3.A.4.i</entry>
+     <entry>
+      <para id="para-00690">Section 15.3 Eukaryotic Transcription</para>
+      <para id="para-00691">Section 15.4 RNA Processing in Eukaryotes</para>
+      <para id="para-00692">Section 16.5 Eukaryotic Post-transcriptional Gene Regulation</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00693">15.3</para>
+      <para id="para-00694">15.4</para>
+      <para id="para-00695">16.5</para>
+     </entry>
+     <entry>6.3.A.4.ii</entry>
+     <entry>
+      <para id="para-00696">Section 15.3 Eukaryotic Transcription</para>
+      <para id="para-00697">Section 15.4 RNA Processing in Eukaryotes</para>
+      <para id="para-00698">Section 16.5 Eukaryotic Post-transcriptional Gene Regulation</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00699">15.3</para>
+      <para id="para-00700">15.4</para>
+      <para id="para-00701">16.5</para>
+     </entry>
+     <entry>6.3.A.4.iii</entry>
+     <entry>
+      <para id="para-00702">Section 15.3 Eukaryotic Transcription</para>
+      <para id="para-00703">Section 15.4 RNA Processing in Eukaryotes</para>
+      <para id="para-00704">Section 16.5 Eukaryotic Post-transcriptional Gene Regulation</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00705">Topic 6.4 Translation</para></entry>
+    </row>
+    <row>
+     <entry morerows="10"><para id="para-00706">6.4</para></entry>
+     <entry>15.5</entry>
+     <entry>6.4.A.1</entry>
+     <entry>Section 15.5 Ribosomes and Protein Synthesis</entry>
+     <entry morerows="10">
+      <para id="para-00707">15:21</para>
+      <para id="para-00708">15:22</para>
+      <para id="para-00709">15:23</para>
+      <para id="para-00710">15:27</para>
+      <para id="para-00711">15:30</para>
+      <para id="para-00712">15:37</para>
+      <para id="para-00713">15:41</para>
+      <para id="para-00714">15:42</para>
+      <para id="para-00715">15:46</para>
+      <para id="para-00716">15:50</para>
+      <para id="para-00717">15:51</para>
+      <para id="para-00718">15:56</para>
+      <para id="para-00719">16:16</para>
+      <para id="para-00720">16:48</para>
+      <para id="para-00721">16:49</para>
+     </entry>
+    </row>
+    <row>
+     <entry>15.2</entry>
+     <entry>6.4.A.2</entry>
+     <entry>Section 15.2 Prokaryotic Transcription</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00722">15.1</para>
+      <para id="para-00723">15.5</para>
+     </entry>
+     <entry>6.4.A.3.i</entry>
+     <entry>
+      <para id="para-00724">Section 15.1 The Genetic Code</para>
+      <para id="para-00725">Section 15.5 Ribosomes and Protein Synthesis</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00726">15.1</para>
+      <para id="para-00727">15.5</para>
+     </entry>
+     <entry>6.4.A.3.ii</entry>
+     <entry>
+      <para id="para-00728">Section 15.1 The Genetic Code</para>
+      <para id="para-00729">Section 15.5 Ribosomes and Protein Synthesis</para>
+     </entry>
+    </row>
+    <row>
+     <entry>15.1</entry>
+     <entry>6.4.A.3.iii</entry>
+     <entry>Section 15.1 The Genetic Code</entry>
+    </row>
+    <row>
+     <entry>15.1</entry>
+     <entry>6.4.A.3.iv</entry>
+     <entry>Section 15.1 The Genetic Code</entry>
+    </row>
+    <row>
+     <entry>15.5</entry>
+     <entry>6.4.A.3.v</entry>
+     <entry>Section 15.5 Ribosomes and Protein Synthesis</entry>
+    </row>
+    <row>
+     <entry>15.5</entry>
+     <entry>6.4.A.3.vi</entry>
+     <entry>Section 15.5 Ribosomes and Protein Synthesis</entry>
+    </row>
+    <row>
+     <entry>15.5</entry>
+     <entry>6.4.A.3.vii</entry>
+     <entry>Section 15.5 Ribosomes and Protein Synthesis</entry>
+    </row>
+    <row>
+     <entry>15.5</entry>
+     <entry>6.4.A.3.viii</entry>
+     <entry>Section 15.5 Ribosomes and Protein Synthesis</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00730">21.1</para>
+      <para id="para-00731">21.2</para>
+     </entry>
+     <entry>6.4.A.4</entry>
+     <entry>
+      <para id="para-00732">Section 21.1 Viral Evolution, Morphology, and Classification</para>
+      <para id="para-00733">Section 21.2 Virus Infections and Hosts</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00734">Topic 6.5 Regulation of Gene Expression</para></entry>
+    </row>
+    <row>
+     <entry morerows="5"><para id="para-00735">6.5</para></entry>
+     <entry>16.4</entry>
+     <entry>6.5.A.1</entry>
+     <entry>Section 16.4 Eukaryotic Transcriptional Gene Regulation</entry>
+     <entry morerows="5">
+      <para id="para-00736">16:1</para>
+      <para id="para-00737">16:2</para>
+      <para id="para-00738">16:3</para>
+      <para id="para-00739">16:4</para>
+      <para id="para-00740">16:5</para>
+      <para id="para-00741">16:6</para>
+      <para id="para-00742">16:7</para>
+      <para id="para-00743">16:8</para>
+      <para id="para-00744">16:20</para>
+      <para id="para-00745">16:24</para>
+      <para id="para-00746">16:25</para>
+      <para id="para-00747">16:27</para>
+      <para id="para-00748">16:29</para>
+      <para id="para-00749">16:30</para>
+      <para id="para-00750">16:31</para>
+      <para id="para-00751">16:32</para>
+      <para id="para-00752">16:37</para>
+      <para id="para-00753">16:44</para>
+      <para id="para-00754">16:45</para>
+      <para id="para-00755">16:56</para>
+      <para id="para-00756">16:57</para>
+      <para id="para-00757">16:60</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00758">16.1</para>
+      <para id="para-00759">16.3</para>
+     </entry>
+     <entry>6.5.A.2</entry>
+     <entry>
+      <para id="para-00760">Section 16.1 Regulation of Gene Expression</para>
+      <para id="para-00761">Section 16.3 Eukaryotic Epigenetic Gene Regulation</para>
+     </entry>
+    </row>
+    <row>
+     <entry>16.1</entry>
+     <entry>6.5.A.3.i</entry>
+     <entry>Section 16.1 Regulation of Gene Expression</entry>
+    </row>
+    <row>
+     <entry>16.4</entry>
+     <entry>6.5.A.3.ii</entry>
+     <entry>Section 16.4 Eukaryotic Transcriptional Gene Regulation</entry>
+    </row>
+    <row>
+     <entry>16.1</entry>
+     <entry>6.5.A.3.iii</entry>
+     <entry>Section 16.1 Regulation of Gene Expression</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00762">16.2</para>
+      <para id="para-00763">16.4</para>
+     </entry>
+     <entry>6.5.B.1</entry>
+     <entry>
+      <para id="para-00764">Section 16.2 Prokaryotic Gene Regulation</para>
+      <para id="para-00765">Section 16.4 Eukaryotic Transcriptional Gene Regulation</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00766">Topic 6.6 Gene Expression and Cell Specialization</para></entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00767">6.6</para></entry>
+     <entry>16.4</entry>
+     <entry>6.6.A.1</entry>
+     <entry>Section 16.4 Eukaryotic Transcriptional Gene Regulation</entry>
+     <entry morerows="3">
+      <para id="para-00768">15:12</para>
+      <para id="para-00769">16:9</para>
+      <para id="para-00770">16:11</para>
+      <para id="para-00771">16:26</para>
+      <para id="para-00772">16:34</para>
+      <para id="para-00773">16:36</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00774">16.3</para>
+      <para id="para-00775">16.4</para>
+     </entry>
+     <entry>6.6.A.2</entry>
+     <entry>
+      <para id="para-00776">Section 16.3 Eukaryotic Epigenetic Gene Regulation</para>
+      <para id="para-00777">Section 16.4 Eukaryotic Transcriptional Gene Regulation</para>
+     </entry>
+    </row>
+    <row>
+     <entry>16.1</entry>
+     <entry>6.6.B.1</entry>
+     <entry>Section 16.1 Regulation of Gene Expression</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00778">16.5</para>
+      <para id="para-00779">16.6</para>
+     </entry>
+     <entry>6.6.B.2</entry>
+     <entry>
+      <para id="para-00780">Section16.5 Eukaryotic Post-transciptional Gene Regulation</para>
+      <para id="para-00781">Section 16.6 Eukaryotic Translational and Post-translational Gene Regulation</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00782">Topic 6.7 Mutations</para></entry>
+    </row>
+    <row>
+     <entry morerows="11"><para id="para-00783">6.7</para></entry>
+     <entry>14.6</entry>
+     <entry>6.7.A.1.i</entry>
+     <entry>Section 14.6 DNA Repair</entry>
+     <entry morerows="11">
+      <para id="para-00784">14:2</para>
+      <para id="para-00785">14:29</para>
+      <para id="para-00786">14:30</para>
+      <para id="para-00787">14:31</para>
+      <para id="para-00788">14:32</para>
+      <para id="para-00789">14:50</para>
+      <para id="para-00790">14:51</para>
+      <para id="para-00791">14:52</para>
+      <para id="para-00792">14:53</para>
+      <para id="para-00793">14:67</para>
+      <para id="para-00794">14:69</para>
+      <para id="para-00795">16:39</para>
+      <para id="para-00796">16:54</para>
+      <para id="para-00797">19:1</para>
+      <para id="para-00798">20:46</para>
+      <para id="para-00799">20:47</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>14.6</entry>
+     <entry>6.7.A.1.ii</entry>
+     <entry>Section 14.6 DNA Repair</entry>
+    </row>
+    <row>
+     <entry>14.6</entry>
+     <entry>6.7.A.1.iii</entry>
+     <entry>Section 14.6 DNA Repair</entry>
+    </row>
+    <row>
+     <entry>14.6</entry>
+     <entry>6.7.A.1.iv</entry>
+     <entry>Section 14.6 DNA Repair</entry>
+    </row>
+    <row>
+     <entry>14.6</entry>
+     <entry>6.7.B.1.i</entry>
+     <entry>Section 14.6 DNA Repair</entry>
+    </row>
+    <row>
+     <entry>14.6</entry>
+     <entry>6.7.B.1.ii</entry>
+     <entry>Section 14.6 DNA Repair</entry>
+    </row>
+    <row>
+     <entry>13.2</entry>
+     <entry>6.7.B.2.i</entry>
+     <entry>Section 13.2 Chromosomal Basis of Inherited Disorders</entry>
+    </row>
+    <row>
+     <entry>13.2</entry>
+     <entry>6.7.B.2.ii</entry>
+     <entry>Section 13.2 Chromosomal Basis of Inherited Disorders</entry>
+    </row>
+    <row>
+     <entry>13.2</entry>
+     <entry>6.7.B.2.iii</entry>
+     <entry>Section 13.2 Chromosomal Basis of Inherited Disorders</entry>
+    </row>
+    <row>
+     <entry>20.3</entry>
+     <entry>6.7.C.1.i</entry>
+     <entry>Section 20.3 Perspectives on the Phylogenetic Tree</entry>
+    </row>
+    <row>
+     <entry>20.3</entry>
+     <entry>6.7.C.1.ii</entry>
+     <entry>Section 20.3 Perspectives on the Phylogenetic Tree</entry>
+    </row>
+    <row>
+     <entry>19.1</entry>
+     <entry>6.7.C.1.iii</entry>
+     <entry>Section 20.3 Perspectives on the Phylogenetic Tree</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-00800">Topic 6.8 Biotechnology</para>
+      <para id="para-00801">Book Content Supports the following labs in AP® Biology Investigative Labs</para>
+      <para id="para-00802">•Investigation 3: Comparing DNA Sequences to Understand Evolutionary Relationships with BLAST</para>
+      <para id="para-00803">•Investigation 8: Biotechnology: Bacterial Transformation</para>
+      <para id="para-00804">• Investigation 9: Biotechnology: Restriction Enzyme Analysis of DNA</para>
+     </entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00805">6.8</para></entry>
+     <entry>
+      <para id="para-00806">14.2</para>
+      <para id="para-00807">17.1</para>
+     </entry>
+     <entry>6.8.A.1.i</entry>
+     <entry>
+      <para id="para-00808">Section 14.2 DNA Structure and Sequencing</para>
+      <para id="para-00809">Section 17.1 Biotechnology</para>
+     </entry>
+     <entry morerows="3">
+      <para id="para-00810">14:56</para>
+      <para id="para-00811">14:61</para>
+      <para id="para-00812">17:2</para>
+      <para id="para-00813">17:3</para>
+      <para id="para-00814">17:4</para>
+      <para id="para-00815">17:7</para>
+      <para id="para-00816">17:10</para>
+      <para id="para-00817">17:47</para>
+      <para id="para-00818">20:19</para>
+     </entry>
+    </row>
+    <row>
+     <entry>17.1</entry>
+     <entry>6.8.A.1.ii</entry>
+     <entry>Section 17.1 Biotechnology</entry>
+    </row>
+    <row>
+     <entry>17.1</entry>
+     <entry>6.8.A.1.iii</entry>
+     <entry>Section 17.1 Biotechnology</entry>
+    </row>
+    <row>
+     <entry>14.2</entry>
+     <entry>6.8.A.1.iv</entry>
+     <entry>Section 14.2 DNA Structure and Sequencing</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00819">Topic 7.1 Introduction to Natural Selection</para></entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00820">7.1</para></entry>
+     <entry>18.1</entry>
+     <entry>7.1.A.1</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+     <entry morerows="3">
+      <para id="para-00821">18:1</para>
+      <para id="para-00822">18:2</para>
+      <para id="para-00823">18:3</para>
+      <para id="para-00824">18:4</para>
+      <para id="para-00825">18:25</para>
+      <para id="para-00826">18:42</para>
+      <para id="para-00827">18:57</para>
+      <para id="para-00828">18:65</para>
+      <para id="para-00829">18:67</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry>18.1</entry>
+     <entry>7.1.A.2</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+    </row>
+    <row>
+     <entry>18.1</entry>
+     <entry>7.1.B.1</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+    </row>
+    <row>
+     <entry>18.1</entry>
+     <entry>7.1.B.2</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00830">Topic 7.2 Natural Selection</para></entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00831">7.2</para></entry>
+     <entry>
+      <para id="para-00832">18.1</para>
+      <para id="para-00833">19.3</para>
+     </entry>
+     <entry>7.2.A.1</entry>
+     <entry>
+      <para id="para-00834">Section 18.1 Understanding Evolution</para>
+      <para id="para-00835">Section 19.3 Adaptive Evolution</para>
+     </entry>
+     <entry morerows="3">
+      <para id="para-00836">18:26</para>
+      <para id="para-00837">18:31</para>
+      <para id="para-00838">18:58</para>
+      <para id="para-00839">18:59</para>
+      <para id="para-00840">18:60</para>
+      <para id="para-00841">19:17</para>
+      
+      
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00842">18.1</para>
+      <para id="para-00843">19.3</para>
+     </entry>
+     <entry>7.2.A.2</entry>
+     <entry>
+      <para id="para-00844">Section 18.1 Understanding Evolution</para>
+      <para id="para-00845">Section 19.3 Adaptive Evolution</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00846">18.1</para>
+      <para id="para-00847">19.3</para>
+     </entry>
+     <entry>7.2.A.3</entry>
+     <entry>
+      <para id="para-00848">Section 18.1 Understanding Evolution</para>
+      <para id="para-00849">Section 19.3 Adaptive Evolution</para>
+     </entry>
+    </row>
+    <row>
+     <entry>18.1</entry>
+     <entry>7.2.B.1</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-00850">Topic 7.3 Artificial Selection</para>
+      <para id="para-00851">Book Content Supports Investigation 1: Artificial Selection in AP® Biology Investigative Labs</para>
+     </entry>
+    </row>
+    <row>
+     <entry>7.3</entry>
+     <entry>38.2</entry>
+     <entry>7.3.A.1</entry>
+     <entry>Section 38.2 The Importance of Biodiversity to Human Life</entry>
+     <entry>19:31</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00852">Topic 7.4 Population Genetics</para></entry>
+    </row>
+    <row>
+     <entry morerows="8"><para id="para-00853">7.4</para></entry>
+     <entry>
+      <para id="para-00854">18.1</para>
+      <para id="para-00855">19.2</para>
+     </entry>
+     <entry>7.4.A.1.i</entry>
+     <entry>
+      <para id="para-00856">Section 18.1 Understanding Evolution</para>
+      <para id="para-00857">Section 19.2 Population Genetics</para>
+     </entry>
+     <entry morerows="8">
+      <para id="para-00858">19:2</para>
+      <para id="para-00859">19:9</para>
+      <para id="para-00860">19:10</para>
+      <para id="para-00861">19:11</para>
+      <para id="para-00862">19:19</para>
+      <para id="para-00863">19:21</para>
+      <para id="para-00864">19:24</para>
+      <para id="para-00865">19:26</para>
+      <para id="para-00866">19:29</para>
+      <para id="para-00867">19:30</para>
+      <para id="para-00868">19:39</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00869">919.1</para>
+      <para id="para-00870">19.2</para>
+     </entry>
+     <entry>7.4.A.1.ii</entry>
+     <entry>
+      <para id="para-00871">Section 19.1 Population Evolution</para>
+      <para id="para-00872">Section 19.2 Population Genetics</para>
+     </entry>
+    </row>
+    <row>
+     <entry>19.2</entry>
+     <entry>7.4.A.1.iii</entry>
+     <entry>Section 19.2 Population Genetics</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00873">19.1</para>
+      <para id="para-00874">19.2</para>
+     </entry>
+     <entry>7.4.A.1.iv</entry>
+     <entry>
+      <para id="para-00875">Section 19.1 Population Evolution</para>
+      <para id="para-00876">Section 19.2 Population Genetics</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00877">18.2</para>
+      <para id="para-00878">19.2</para>
+     </entry>
+     <entry>7.4.A.1.v</entry>
+     <entry>
+      <para id="para-00879">Section 18.2 Formation of New Species</para>
+      <para id="para-00880">Section 19.2 Population Genetics</para>
+     </entry>
+    </row>
+    <row>
+     <entry>18.1</entry>
+     <entry>7.4.B.1.i</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+    </row>
+    <row>
+     <entry>19.1</entry>
+     <entry>7.4.B.1.ii</entry>
+     <entry>Section 19.1 Population Evolution</entry>
+    </row>
+    <row>
+     <entry>19.1</entry>
+     <entry>7.4.B.1.iii</entry>
+     <entry>Section 19.1 Population Evolution</entry>
+    </row>
+    <row>
+     <entry>19.1</entry>
+     <entry>7.4.C.1</entry>
+     <entry>Section 19.1 Population Evolution</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-00881">Topic 7.5 Hardy-Weinberg Equilibrium</para>
+      <para id="para-00882">
+       Book Content Supports Investigation 2: Mathematical Modeling: Hardy-Weinberg in AP® Biology Investigative
+       Labs
+      </para>
+     </entry>
+    </row>
+    <row>
+     <entry morerows="5"><para id="para-00883">7.5</para></entry>
+     <entry>19.1</entry>
+     <entry>7.5.A.1.i</entry>
+     <entry>Section 19.1 Population Evolution</entry>
+     <entry morerows="5">
+      <para id="para-00884">19:3</para>
+      <para id="para-00885">19:18</para>
+      <para id="para-00886">19:33</para>
+      <para id="para-00887">19:34</para>
+     </entry>
+    </row>
+    <row>
+     <entry>19.1</entry>
+     <entry>7.5.A.1.ii</entry>
+     <entry>Section 19.1 Population Evolution</entry>
+    </row>
+    <row>
+     <entry>19.1</entry>
+     <entry>7.5.A.1.iii</entry>
+     <entry>Section 19.1 Population Evolution</entry>
+    </row>
+    <row>
+     <entry>19.1</entry>
+     <entry>7.5.A.1.iv</entry>
+     <entry>Section 19.1 Population Evolution</entry>
+    </row>
+    <row>
+     <entry>19.1</entry>
+     <entry>7.5.A.1.v</entry>
+     <entry>Section 19.1 Population Evolution</entry>
+    </row>
+    <row>
+     <entry>19.1</entry>
+     <entry>7.5.A.2</entry>
+     <entry>Section 19.1 Population Evolution</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00888">Topic 7.6 Evidence of Evolution</para></entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00889">7.6</para></entry>
+     <entry>18.1</entry>
+     <entry>7.6.A.1</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+     <entry morerows="3">
+      <para id="para-00890">18:7</para>
+      <para id="para-00891">18:8</para>
+      <para id="para-00892">18:46</para>
+      <para id="para-00893">18:47</para>
+      <para id="para-00894">18:49</para>
+      <para id="para-00895">18:52</para>
+      <para id="para-00896">18:55</para>
+     </entry>
+    </row>
+    <row>
+     <entry>18.1</entry>
+     <entry>7.6.B.1.i</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+    </row>
+    <row>
+     <entry>18.1</entry>
+     <entry>7.6.B.1.ii</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+    </row>
+    <row>
+     <entry>18.1</entry>
+     <entry>7.6.B.2</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00897">Topic 7.7 Common Ancestry</para></entry>
+    </row>
+    <row>
+     <entry morerows="2"><para id="para-00898">7.7</para></entry>
+     <entry>1.2</entry>
+     <entry>7.7.A.1.i</entry>
+     <entry>Section 1.2 Themes and Concepts of Biology</entry>
+     <entry morerows="2"/>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00899">4.3</para>
+      <para id="para-00900">10.1</para>
+     </entry>
+     <entry>7.7.A.1.ii</entry>
+     <entry>
+      <para id="para-00901">Section 4.3 Eukaryotic Cells</para>
+      <para id="para-00902">Section 10.1 Cell Division</para>
+     </entry>
+    </row>
+    <row>
+     <entry>15.4</entry>
+     <entry>7.7.A.1.iii</entry>
+     <entry>Section 15.4 RNA Processing in Eukaryotes</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00903">Topic 7.8 Continuing Evolution</para></entry>
+    </row>
+    <row>
+     <entry morerows="3"><para id="para-00904">7.8</para></entry>
+     <entry>22.4</entry>
+     <entry>7.8.A.1.i</entry>
+     <entry>Section 22.4 Bacterial Diseases in Humans</entry>
+     <entry morerows="3"><para id="para-00905">18:10</para></entry>
+    </row>
+    <row>
+     <entry>18.1</entry>
+     <entry>7.8.A.1.ii</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+    </row>
+    <row>
+     <entry>22.4</entry>
+     <entry>7.8.A.1.iii</entry>
+     <entry>Section 22.4 Bacterial Diseases in Humans</entry>
+    </row>
+    <row>
+     <entry>22.4</entry>
+     <entry>7.8.A.1.iv</entry>
+     <entry>Section 22.4 Bacterial Diseases in Humans</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00906">Topic 7.9 Phylogeny</para></entry>
+    </row>
+    <row>
+     <entry>7.9</entry>
+     <entry>20.1</entry>
+     <entry>7.9.A.1</entry>
+     <entry>Section 20.1 Organizing Life on Earth</entry>
+     <entry morerows="6">
+      <para id="para-00907">20:7</para>
+      <para id="para-00908">20:8</para>
+      <para id="para-00909">20:10</para>
+      <para id="para-00910">20:11</para>
+      <para id="para-00911">20:12</para>
+      <para id="para-00912">20:13</para>
+      <para id="para-00913">20:20</para>
+      <para id="para-00914">20:21</para>
+      <para id="para-00915">20:22</para>
+      <para id="para-00916">20:23</para>
+      <para id="para-00917">20:26</para>
+      <para id="para-00918">20:29</para>
+      <para id="para-00919">20:32</para>
+      <para id="para-00920">20:33</para>
+      <para id="para-00921">20:37</para>
+      <para id="para-00922">20:43</para>
+      <para id="para-00923">20:44</para>
+      
+     </entry>
+    </row>
+    <row>
+     <entry/>
+     <entry>20.1</entry>
+     <entry>7.9.A.2</entry>
+     <entry>Section 20.1 Organizing Life on Earth</entry>
+    </row>
+    <row>
+     <entry/>
+     <entry>20.2</entry>
+     <entry>7.9.A.3.i</entry>
+     <entry>Section 20.1 Determining Evolutionary Relationships</entry>
+    </row>
+    <row>
+     <entry/>
+     <entry>20.2</entry>
+     <entry>7.9.A.3.ii</entry>
+     <entry>Section 20.1 Determining Evolutionary Relationships</entry>
+    </row>
+    <row>
+     <entry/>
+     <entry>
+      <para id="para-00924">20.1</para>
+      <para id="para-00925">31.2</para>
+     </entry>
+     <entry>7.9.B.1</entry>
+     <entry>
+      <para id="para-00926">Section 20.1 Organizing Life on Earth</para>
+      <para id="para-00927">31.2 Evolution Connection</para>
+     </entry>
+    </row>
+    <row>
+     <entry/>
+     <entry>
+      <para id="para-00928">20.1</para>
+      <para id="para-00929">31.2</para>
+     </entry>
+     <entry>7.9.B.2</entry>
+     <entry>
+      <para id="para-00930">Section 20.1 Organizing Life on Earth</para>
+      <para id="para-00931">31.2 Evolution Connection</para>
+     </entry>
+    </row>
+    <row>
+     <entry/>
+     <entry>
+      <para id="para-00932">20.1</para>
+      <para id="para-00933">31.2</para>
+     </entry>
+     <entry>7.9.B.3</entry>
+     <entry>
+      <para id="para-00934">Section 20.1 Organizing Life on Earth</para>
+      <para id="para-00935">31.2 Evolution Connection</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00936">Topic 7.10 Speciation</para></entry>
+    </row>
+    <row>
+     <entry morerows="6"><para id="para-00937">7.10</para></entry>
+     <entry>18.2</entry>
+     <entry>7.10.A.1</entry>
+     <entry>Section 18.2 Formation of New Species</entry>
+     <entry morerows="6">
+      <para id="para-00938">18:5</para>
+      <para id="para-00939">18:6</para>
+      <para id="para-00940">18:11</para>
+      <para id="para-00941">18:12</para>
+      <para id="para-00942">18:13</para>
+      <para id="para-00943">18:14</para>
+      <para id="para-00944">18:15</para>
+      <para id="para-00945">18:16</para>
+      <para id="para-00946">18:17</para>
+      <para id="para-00947">18:19</para>
+      <para id="para-00948">18:20</para>
+      <para id="para-00949">18:23</para>
+      <para id="para-00950">18:24</para>
+      <para id="para-00951">18:27</para>
+      <para id="para-00952">18:35</para>
+      <para id="para-00953">18:36</para>
+      <para id="para-00954">18:37</para>
+      <para id="para-00955">18:38</para>
+      <para id="para-00956">18:63</para>
+      <para id="para-00957">18:68</para>
+      <para id="para-00958">18:69</para>
+      <para id="para-00959">18:70</para>
+     </entry>
+    </row>
+    <row>
+     <entry>18.2</entry>
+     <entry>7.10.A.2</entry>
+     <entry>Section 18.2 Formation of New Species</entry>
+    </row>
+    <row>
+     <entry>18.3</entry>
+     <entry>7.10.B.1</entry>
+     <entry>Section 18.3 Reconnection and Rate of Speciation</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00960">18.1</para>
+      <para id="para-00961">31.1</para>
+     </entry>
+     <entry>7.10.B.2</entry>
+     <entry>
+      <para id="para-00962">Section 18.1 Understanding Evolution</para>
+      <para id="para-00963">Section 31.1 Overview of the Circulatory System</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00964">18.1</para>
+      <para id="para-00965">31.1</para>
+     </entry>
+     <entry>7.10.B.3</entry>
+     <entry>
+      <para id="para-00966">Section 18.1 Understanding Evolution</para>
+      <para id="para-00967">Section 31.1 Overview of the Circulatory System</para>
+     </entry>
+    </row>
+    <row>
+     <entry>18.2</entry>
+     <entry>7.10.C.1</entry>
+     <entry>Section 18.2 Formation of New Species</entry>
+    </row>
+    <row>
+     <entry>18.2</entry>
+     <entry>7.10.C.2</entry>
+     <entry>Section 18.2 Formation of New Species</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00968">Topic 7.11 Variations in Population</para></entry>
+    </row>
+    <row>
+     <entry>7.11</entry>
+     <entry>38.1</entry>
+     <entry>7.11.A.1.i</entry>
+     <entry>Section 38.1 The Biodiversity Crisis</entry>
+     <entry morerows="2"/>
+    </row>
+    <row>
+     <entry/>
+     <entry>38.1</entry>
+     <entry>7.11.A.1.ii</entry>
+     <entry>Section 38.1 The Biodiversity Crisis</entry>
+    </row>
+    <row>
+     <entry/>
+     <entry>19.1</entry>
+     <entry>7.11.A.1.iii</entry>
+     <entry>Section 19.1 Population Evolution</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-00969">Topic 7.12 Origins of Life on Earth</para></entry>
+    </row>
+    <row>
+     <entry morerows="4"><para id="para-00970">7.12</para></entry>
+     <entry>18.1</entry>
+     <entry>7.12.A.1.i</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+     <entry morerows="4">
+      <para id="para-00971">15:40</para>
+      <para id="para-00972">18:9</para>
+      <para id="para-00973">18:74</para>
+      
+      
+     </entry>
+    </row>
+    <row>
+     <entry>22.1</entry>
+     <entry>7.12.A.1.ii</entry>
+     <entry>Section 22.1 Prokaryotic Diversity</entry>
+    </row>
+    <row>
+     <entry>21</entry>
+     <entry>7.12.A.2.i</entry>
+     <entry>Chapter 21 Q 49 SPCQ</entry>
+    </row>
+    <row>
+     <entry>21</entry>
+     <entry>7.12.A.2.ii</entry>
+     <entry>Chapter 21 Q 49 SPCQ</entry>
+    </row>
+    <row>
+     <entry>15.4</entry>
+     <entry>7.12.A.2.iii</entry>
+     <entry>Section 15.4 RNA Processing in Eukaryotes: Evolution Connection</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-00974">Topic 8.1 Response to Environment</para>
+      <para id="para-00975">Book Content Supports Investigation 12: Fruit Fly Behavior in AP® Biology Investigative Labs</para>
+     </entry>
+    </row>
+    <row>
+     <entry morerows="5"><para id="para-00976">8.1</para></entry>
+     <entry>
+      <para id="para-00977">23.6</para>
+      <para id="para-00978">35.2</para>
+      <para id="para-00979">36.6</para>
+      <para id="para-00980">36.7</para>
+     </entry>
+     <entry>8.1.A.1</entry>
+     <entry>
+      <para id="para-00981">Section 23.6 Plant Sensory Systems and Responses</para>
+      <para id="para-00982">Section 35.2 Biogeography</para>
+      <para id="para-00983">Section 36.6 Community Ecology</para>
+      <para id="para-00984">
+       Section 36.7 Behavioral Biology: Proximate and Ultimate Causes of Behavior (Chapter 36.7 from 1601 on is
+       optional out-of-scope reading.)
+      </para>
+     </entry>
+     <entry morerows="5">
+      <para id="para-00985">36:41</para>
+      <para id="para-00986">36:42</para>
+      <para id="para-00987">36:43</para>
+      <para id="para-00988">36:45</para>
+      <para id="para-00989">36:46</para>
+      <para id="para-00990">36:47</para>
+      <para id="para-00991">36:48</para>
+      <para id="para-00992">36:52</para>
+      <para id="para-00993">36:75</para>
+      <para id="para-00994">36:76</para>
+      <para id="para-00995">36:77</para>
+      <para id="para-00996">36:78</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-00997">23.6</para>
+      <para id="para-00998">36.7</para>
+     </entry>
+     <entry>8.1.A.2</entry>
+     <entry>
+      <para id="para-00999">Section 23.6 Plant Sensory Systems and Responses</para>
+      <para id="para-01000">
+       Section 36.7 Behavioral Biology: Proximate and Ultimate Causes of Behavior (Chapter 36.7 from 1601 on is
+       optional out-of-scope reading.)
+      </para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-01001">23.6</para>
+      <para id="para-01002">36.7</para>
+     </entry>
+     <entry>8.1.B.1.i</entry>
+     <entry>
+      <para id="para-01003">Section 23.6 Plant Sensory Systems and Responses</para>
+      <para id="para-01004">
+       Section 36.7 Behavioral Biology: Proximate and Ultimate Causes of Behavior (Chapter 36.7 from 1601 on is
+       optional out-of-scope reading.)
+      </para>
+     </entry>
+    </row>
+    <row>
+     <entry>36.7</entry>
+     <entry>8.1.B.1.ii</entry>
+     <entry>
+      <para id="para-01005">
+       Section 36.7 Behavioral Biology: Proximate and Ultimate Causes of Behavior (Chapter 36.7 from 1601 on is
+       optional out-of-scope reading.)
+      </para>
+     </entry>
+    </row>
+    <row>
+     <entry>36.7</entry>
+     <entry>8.1.B.2.i</entry>
+     <entry>
+      <para id="para-01006">
+       Section 36.7 Behavioral Biology: Proximate and Ultimate Causes of Behavior (Chapter 36.7 from 1601 on is
+       optional out-of-scope reading.)
+      </para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-01007">35.2</para>
+      <para id="para-01008">36.7</para>
+     </entry>
+     <entry>8.1.B.2.ii</entry>
+     <entry>
+      <para id="para-01009">Section 35.2 Biogeography</para>
+      <para id="para-01010">
+       Section 36.7 Behavioral Biology: Proximate and Ultimate Causes of Behavior (Chapter 36.7 from 1601 on is
+       optional out-of-scope reading.)
+      </para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5">
+      <para id="para-01011">Topic 8.2 Energy Flow Through Ecosystems</para>
+      <para id="para-01012">Content Supports Investigation 10: Energy Dynamics in AP® Biology Investigative Labs</para>
+     </entry>
+    </row>
+    <row>
+     <entry morerows="16"><para id="para-01013">8.2</para></entry>
+     <entry>37.2</entry>
+     <entry>8.2.A.1.i</entry>
+     <entry>Section 37.2 Energy Flow through Ecosystems</entry>
+     <entry morerows="16">
+      <para id="para-01014">35:1</para>
+      <para id="para-01015">35:2</para>
+      <para id="para-01016">35:5</para>
+      <para id="para-01017">35:6</para>
+      <para id="para-01018">35:8</para>
+      <para id="para-01019">35:10</para>
+      <para id="para-01020">35:11</para>
+      <para id="para-01021">35:14</para>
+      <para id="para-01022">35:17</para>
+      <para id="para-01023">35:18</para>
+      <para id="para-01024">35:44</para>
+      <para id="para-01025">35:45</para>
+      <para id="para-01026">35:50</para>
+      <para id="para-01027">35:51</para>
+      <para id="para-01028">35:61</para>
+      <para id="para-01029">35:62</para>
+      <para id="para-01030">35:63</para>
+      <para id="para-01031">35:64</para>
+      <para id="para-01032">35:66</para>
+      <para id="para-01033">36:1</para>
+      <para id="para-01034">36:86</para>
+      <para id="para-01035">36:88</para>
+      <para id="para-01036">36:89</para>
+      <para id="para-01037">37:7</para>
+      <para id="para-01038">37:8</para>
+      <para id="para-01039">37:9</para>
+      <para id="para-01040">37.10</para>
+      <para id="para-01041">37:11</para>
+      <para id="para-01042">37:12</para>
+      <para id="para-01043">37:13</para>
+      <para id="para-01044">37:14</para>
+      <para id="para-01045">37:15</para>
+      <para id="para-01046">37:16</para>
+      <para id="para-01047">37:17</para>
+      <para id="para-01048">37:18</para>
+      <para id="para-01049">37:21</para>
+      <para id="para-01050">37:22</para>
+      <para id="para-01051">37:26</para>
+      <para id="para-01052">37:28</para>
+      <para id="para-01053">37:29</para>
+      <para id="para-01054">37:30</para>
+      <para id="para-01055">37:31</para>
+      <para id="para-01056">37:32</para>
+      <para id="para-01057">37:33</para>
+      <para id="para-01058">37:34</para>
+      <para id="para-01059">37:35</para>
+      <para id="para-01060">37:36</para>
+      <para id="para-01061">37:38</para>
+      <para id="para-01062">37:39</para>
+      <para id="para-01063">37:40</para>
+      <para id="para-01064">37:41</para>
+      <para id="para-01065">37:42</para>
+      <para id="para-01066">37:43</para>
+      <para id="para-01067">37:44</para>
+      <para id="para-01068">37:45</para>
+      <para id="para-01069">37:47</para>
+      <para id="para-01070">37:50</para>
+     </entry>
+    </row>
+    <row>
+     <entry>37.2</entry>
+     <entry>8.2.A.1.ii</entry>
+     <entry>Section 37.2 Energy Flow through Ecosystems</entry>
+    </row>
+    <row>
+     <entry>37.2</entry>
+     <entry>8.2.A.1.iii</entry>
+     <entry>Section 37.2 Energy Flow through Ecosystems</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-01071">11.2</para>
+      <para id="para-01072">36.2</para>
+     </entry>
+     <entry>8.2.A.2</entry>
+     <entry>
+      <para id="para-01073">Section 11.2 Sexual Reproduction</para>
+      <para id="para-01074">Section 36.2 Life Histories and Natural Selection</para>
+     </entry>
+    </row>
+    <row>
+     <entry>35.1</entry>
+     <entry>8.2.B.1</entry>
+     <entry>Section 35.1 The Scope of Ecology (Levels of Ecological Study)</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-01075">37.1</para>
+      <para id="para-01076">37.2</para>
+     </entry>
+     <entry>8.2.B.2</entry>
+     <entry>
+      <para id="para-01077">Section 37.1 Ecology for Ecosystems</para>
+      <para id="para-01078">Section 37.2 Energy Flow through Ecosystems</para>
+     </entry>
+    </row>
+    <row>
+     <entry>37.3</entry>
+     <entry>8.2.B.3</entry>
+     <entry>Section 37.3 Biogeochemical Cycles</entry>
+    </row>
+    <row>
+     <entry>37.3</entry>
+     <entry>8.2.B.4</entry>
+     <entry>Section 37.3 Biogeochemical Cycles</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-01079">22.3</para>
+      <para id="para-01080">37.3</para>
+     </entry>
+     <entry>8.2.B.5</entry>
+     <entry>
+      <para id="para-01081">Section 22.3 Role of Prokaryotes in the Ecosystem</para>
+      <para id="para-01082">Section 37.3 Biogeochemical Cycles</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-01083">22.3</para>
+      <para id="para-01084">22.5</para>
+      <para id="para-01085">37.3</para>
+     </entry>
+     <entry>8.2.B.6</entry>
+     <entry>
+      <para id="para-01086">Section 22.3 Role of Prokaryotes in the Ecosystem</para>
+      <para id="para-01087">Section 22.5 Cooperation between Bacteria and Eukaryotes: Nitrogen Fixation</para>
+      <para id="para-01088">Section 37.3 Biogeochemical Cycles</para>
+     </entry>
+    </row>
+    <row>
+     <entry>37.3</entry>
+     <entry>8.2.B.7</entry>
+     <entry>Section 37.3 Biogeochemical Cycles</entry>
+    </row>
+    <row>
+     <entry>37.1</entry>
+     <entry>8.2.C.1</entry>
+     <entry>Section 37.1 Ecology for Ecosystems</entry>
+    </row>
+    <row>
+     <entry>37.1</entry>
+     <entry>8.2.C.2.i</entry>
+     <entry>Section 37.1 Ecology for Ecosystems</entry>
+    </row>
+    <row>
+     <entry>37.1</entry>
+     <entry>8.2.C.2.ii</entry>
+     <entry>Section 37.1 Ecology for Ecosystems</entry>
+    </row>
+    <row>
+     <entry>37.2</entry>
+     <entry>8.2.D.1.i</entry>
+     <entry>Section 37.2 Energy Flow through Ecosystems</entry>
+    </row>
+    <row>
+     <entry>37.2</entry>
+     <entry>8.2.D.1.ii</entry>
+     <entry>Section 37.2 Energy Flow through Ecosystems</entry>
+    </row>
+    <row>
+     <entry>37.2</entry>
+     <entry>8.2.D.2</entry>
+     <entry>Section 37.2 Energy Flow through Ecosystems</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-01089">Topic 8.3 Population Ecology</para></entry>
+    </row>
+    <row>
+     <entry morerows="2"><para id="para-01090">8.3</para></entry>
+     <entry>36.1</entry>
+     <entry>8.3.A.1</entry>
+     <entry>Section 36.1 Population Demographics</entry>
+     <entry morerows="2">
+      <para id="para-01091">35:7</para>
+      <para id="para-01092">36:4</para>
+      <para id="para-01093">36:5</para>
+      <para id="para-01094">36:8</para>
+      <para id="para-01095">36:9</para>
+      <para id="para-01096">36:10</para>
+      <para id="para-01097">36:11</para>
+      <para id="para-01098">36:53</para>
+      <para id="para-01099">36:55</para>
+      <para id="para-01100">36:56</para>
+      <para id="para-01101">36:81</para>
+      <para id="para-01102">36:82</para>
+      <para id="para-01103">36:90</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-01104">36.3</para>
+      <para id="para-01105">36.4</para>
+     </entry>
+     <entry>8.3.A.2.i</entry>
+     <entry>
+      <para id="para-01106">Section 36.3 Environmental Limits to Population Growth</para>
+      <para id="para-01107">Section 36.4 Population Dynamics and Regulation</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-01108">36.3</para>
+      <para id="para-01109">36.4</para>
+      <para id="para-01110">36.5</para>
+     </entry>
+     <entry>8.3.A.2.ii</entry>
+     <entry>
+      <para id="para-01111">Section 36.3 Environmental Limits to Population Growth</para>
+      <para id="para-01112">Section 36.4 Population Dynamics and Regulation</para>
+      <para id="para-01113">Section 36.5 (Supplemental)</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-01114">Topic 8.4 Effect of Density on Population</para></entry>
+    </row>
+    <row>
+     <entry morerows="1"><para id="para-01115">8.4</para></entry>
+     <entry>
+      <para id="para-01116">36.3</para>
+      <para id="para-01117">36.4</para>
+      <para id="para-01118">35.5</para>
+     </entry>
+     <entry>8.4.A.1</entry>
+     <entry>
+      <para id="para-01119">Section 36.3 Environmental Limits to Population Growth</para>
+      <para id="para-01120">Section 36.4 Population Dynamics and Regulation</para>
+      <para id="para-01121">Section 36.5 Human Population Growth (Supplemental)</para>
+     </entry>
+     <entry morerows="1">
+      <para id="para-01122">36:13</para>
+      <para id="para-01123">36:14</para>
+      <para id="para-01124">36:15</para>
+      <para id="para-01125">36:16</para>
+      <para id="para-01126">36:17</para>
+      <para id="para-01127">36:18</para>
+      <para id="para-01128">36:19</para>
+      <para id="para-01129">36:20</para>
+      <para id="para-01130">36:21</para>
+      <para id="para-01131">36:22</para>
+      <para id="para-01132">36:23</para>
+      <para id="para-01133">36:24</para>
+      <para id="para-01134">36:58</para>
+      <para id="para-01135">36:59</para>
+      <para id="para-01136">36:60</para>
+      <para id="para-01137">36:61</para>
+      <para id="para-01138">36:62</para>
+      <para id="para-01139">36:63</para>
+     </entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-01140">36.3</para>
+      <para id="para-01141">36.4</para>
+     </entry>
+     <entry>8.4.A.2</entry>
+     <entry>
+      <para id="para-01142">Section 36.3 Environmental Limits to Population Growth</para>
+      <para id="para-01143">Section 36.4 Population Dynamics and Regulation</para>
+     </entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-01144">Topic 8.5 Community Ecology</para></entry>
+    </row>
+    <row>
+     <entry morerows="4"><para id="para-01145">8.5</para></entry>
+     <entry>36.6</entry>
+     <entry>8.5.A.1</entry>
+     <entry>Section 36.6 Community Ecology</entry>
+     <entry morerows="4">
+      <para id="para-01146">35:38</para>
+      <para id="para-01147">35:39</para>
+      <para id="para-01148">35:40</para>
+      <para id="para-01149">35:41</para>
+      <para id="para-01150">35:58</para>
+      <para id="para-01151">35:59</para>
+      <para id="para-01152">35:60</para>
+      <para id="para-01153">35:31</para>
+      <para id="para-01154">35:32</para>
+      <para id="para-01155">35:33</para>
+      <para id="para-01156">36:72</para>
+     </entry>
+    </row>
+    <row>
+     <entry>36.6</entry>
+     <entry>8.5.B.1</entry>
+     <entry>Section 36.6 Community Ecology</entry>
+    </row>
+    <row>
+     <entry>36.6</entry>
+     <entry>8.5.B.2</entry>
+     <entry>Section 36.6 Community Ecology</entry>
+    </row>
+    <row>
+     <entry>36.6</entry>
+     <entry>8.5.B.3</entry>
+     <entry>Section 36.6 Community Ecology</entry>
+    </row>
+    <row>
+     <entry>36.6</entry>
+     <entry>8.5.B.4</entry>
+     <entry>Section 36.6 Community Ecology</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-01157">Topic 8.6 Biodiversity</para></entry>
+    </row>
+    <row>
+     <entry morerows="2"><para id="para-01158">8.6</para></entry>
+     <entry>38.1</entry>
+     <entry>8.6.A.1</entry>
+     <entry>Section 38.1 The Biodiversity Crisis</entry>
+     <entry morerows="2">
+      <para id="para-01159">36:30</para>
+      <para id="para-01160">36:38</para>
+      <para id="para-01161">36:73</para>
+      <para id="para-01162">37:2</para>
+     </entry>
+    </row>
+    <row>
+     <entry>36.6</entry>
+     <entry>8.6.A.2</entry>
+     <entry>Section 36.6 Community Ecology</entry>
+    </row>
+    <row>
+     <entry>36.6</entry>
+     <entry>8.6.B.1</entry>
+     <entry>Section 36.6 Community Ecology</entry>
+    </row>
+    <row>
+     <entry namest="col1" nameend="col5"><para id="para-01163">Topic 8.7 Disruptions in Ecosystems</para></entry>
+    </row>
+    <row>
+     <entry morerows="6"><para id="para-01164">8.7</para></entry>
+     <entry>18.1</entry>
+     <entry>8.7.A.1</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+     <entry morerows="6">
+      <para id="para-01165">35:30</para>
+      <para id="para-01166">35:31</para>
+      <para id="para-01167">35:32</para>
+      <para id="para-01168">35:34</para>
+      <para id="para-01169">35:35</para>
+      <para id="para-01170">35:36</para>
+      <para id="para-01171">35:52</para>
+      <para id="para-01172">35:53</para>
+      <para id="para-01173">35:55</para>
+      <para id="para-01174">35:67</para>
+      <para id="para-01175">35:68</para>
+      <para id="para-01176">37:19</para>
+      <para id="para-01177">37:20</para>
+      <para id="para-01178">37:49</para>
+     </entry>
+    </row>
+    <row>
+     <entry>31.2</entry>
+     <entry>8.7.A.2</entry>
+     <entry>Section 31.2 Components of the Blood</entry>
+    </row>
+    <row>
+     <entry>18.1</entry>
+     <entry>8.7.A.3</entry>
+     <entry>Section 18.1 Understanding Evolution</entry>
+    </row>
+    <row>
+     <entry>36.6</entry>
+     <entry>8.7.B.1</entry>
+     <entry>Section 36.6 Community Ecology</entry>
+    </row>
+    <row>
+     <entry>37.2</entry>
+     <entry>8.7.C.1.i</entry>
+     <entry>Section 37.2 Energy Flow through Ecosystems</entry>
+    </row>
+    <row>
+     <entry>37.3</entry>
+     <entry>8.7.C.1.ii</entry>
+     <entry>Section 37.3 Biogeochemical Cycles</entry>
+    </row>
+    <row>
+     <entry>
+      <para id="para-01179">35.1</para>
+      <para id="para-01180">35.5</para>
+     </entry>
+     <entry>8.7.D.1</entry>
+     <entry>
+      <para id="para-01181">Section 35.1 The Scope of Ecology</para>
+      <para id="para-01182">Section 35.5 Climate and the Effect of Global Climate Change</para>
+     </entry>
+    </row>
+   </tbody>
+  </tgroup>
+  </table>
     </section>
   </content>
 </document>
