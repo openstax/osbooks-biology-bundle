@@ -119,7 +119,7 @@
     <section id="fs-id1169909702762">
       <title>Curriculum Framework for AP<sup>®</sup> Biology</title>
      
-  <table id="table-00001">    <label/>
+  <table id="table-00001" class="unnumbered">    <label/>
     <tgroup cols="5">
      <colspec colname="col1"/>
      <colspec colname="col2"/>
@@ -143,10 +143,8 @@
      </entry>
      <entry>
       Suggested End of Chapter Questions
-
        <newline/>
        Chap:Ques
-
      </entry>
     </row>
    </thead>
