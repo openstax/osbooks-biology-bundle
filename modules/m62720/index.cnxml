@@ -303,7 +303,7 @@ Carbon is normally present in the atmosphere in the form of gaseous compounds li
     <m:mtext>HCO</m:mtext>
    </m:mrow>
    <m:mrow>
-
+<m:mn>3</m:mn>
  </m:mrow>
   </m:msub>
      <m:mo>−</m:mo>
@@ -317,7 +317,7 @@ Carbon is normally present in the atmosphere in the form of gaseous compounds li
    <m:mo>+</m:mo>
   </m:msup>
   <m:mtext> </m:mtext>
-<m:mrow><m:mo stretchy="false">—</m:mo></m:mrow>
+<m:mrow><m:mo stretchy="false">→</m:mo></m:mrow>
 <m:msub>
    <m:mrow>
     <m:mtext> H</m:mtext>
@@ -340,7 +340,7 @@ Carbon is normally present in the atmosphere in the form of gaseous compounds li
    </m:mrow>
    <m:mrow>
 
-
+<m:mn>3</m:mn>
  </m:mrow>
   </m:msub>
      <m:mo>−</m:mo>
@@ -354,7 +354,7 @@ Carbon is normally present in the atmosphere in the form of gaseous compounds li
    <m:mo>+</m:mo>
   </m:msup>
   <m:mtext> </m:mtext>
-<m:mrow><m:mo stretchy="false">—</m:mo></m:mrow>
+<m:mrow><m:mo stretchy="false">↔</m:mo></m:mrow>
 <m:msub>
    <m:mrow>
     <m:mtext> H</m:mtext>
