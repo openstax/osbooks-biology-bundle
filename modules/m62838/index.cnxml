@@ -17,38 +17,66 @@
 </list>
 </section>
 <section id="fs-id1167066871009" class="ap-connection">
-<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167063537753">During transcription, the enzyme RNA polymerase moves along the DNA template, reading nucleotides in a 3′ to 5′ direction, with U pairing with A and C with G, and assembling the mRNA transcript in a 5′ to 3′ direction. In prokaryotes, mRNA synthesis is initiated at a promoter sequence on the DNA template. Transcription continues until RNA polymerase reaches a stop or terminator sequence at the end of the gene. Termination frees the mRNA and often occurs by the formation of an mRNA hairpin.</para><para id="fs-id1167067175246" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167067027214" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 6.5 The student can evaluate alternative scientific explanations. Third left cell reads: Learning Objective. Third right cell reads: 3.1 The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information." class="unnumbered column-header ost-reading-discard"><label/>
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167063537753">During transcription, the enzyme RNA polymerase moves along the DNA template, reading nucleotides in a 3′ to 5′ direction, with U pairing with A and C with G, and assembling the mRNA transcript in a 5′ to 3′ direction. In prokaryotes, mRNA synthesis is initiated at a promoter sequence on the DNA template. Transcription continues until RNA polymerase reaches a stop or terminator sequence at the end of the gene. Termination frees the mRNA and often occurs by the formation of an mRNA hairpin.</para><para id="fs-id1167067175246" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 6.1, 6.3, and 6.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+<table id="fs-id1167067027214" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 6.5 The student can evaluate alternative scientific explanations. Third left cell reads: Learning Objective. Third right cell reads: 3.1 The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.1 DNA and RNA Structure</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.1.A Describe the structures involved in passing hereditary information from one generation to the next.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.1.A.2 Prokaryotes and Eukaryotes can contain plasmids, which are extra-chromosomal circular molecules of DNA.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.C Concept Explanation- Explain biological concepts and processes in applied contexts.</entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1</emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.5</emphasis></span>
-<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch15-s02-aplo-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
-<span class="ost-standards-description">The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>6.3 Transcription and RNA Processing</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.3.A Describe the mechanism by which genetic information flows from DNA to RNA to protein.</entry>
 </row>
-</tbody>
-
-
-</tgroup>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.3.A.2 RNA polymerases use a single template strand of DNA to direct the inclusion of bases in the newly formed RNA molecule. This process is known as transcription.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.3.A.3 The enzyme RNA polymerase synthesizes mRNA molecules in the 5’ to 3’ direction by reading the template DNA strand in the 3’ to 5’ direction.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.B Visual Representations- Explain relationships between characteristics of biological models in both theoretical and applied contexts.</entry>
+</row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>6.4 Translation</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.4. Explain how the phenotype of an organism is determined by its genotype.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.4.A.2 In prokaryotic organisms, translation of the mRNA molecule occurs while it is being transcribed.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.D Visual Representations- Represent relationships within biological models, including mathematical models, diagrams, flowcharts, and systems.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
+</row>
+</tbody></tgroup>
 </table></section>
 
 
@@ -73,19 +101,19 @@
 <para id="fs-id1167066968378">Sigma binding consensus sequence/TATA box<newline/>Shine Dalgarno sequence (binding to ribosome)<newline/>ATG (start codon for protein transcription)<newline/>STOP codon (polypeptide termination)<newline/>Terminator region</para>
 <para id="fs-id1167066877311">Students have difficulty visualizing polycistronic messages. Explain that as long as there are stop codons in the message, the polypeptides will be released and ribosomes reattached at the following Shine-Dalgarno sequence. If one were to write out the structure of a polycistronic mRNA, it would be Shine-Dalgarno-AUG-------STOP---Shine-DalgarnoAUG-------STOP---Shine-DalgarnoAUG---STOP.</para></note>
 </note>
-<para id="fs-id1166847905861">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.23][APLO 3.28][APLO 4.8][APLO 4.24]</para><para id="fs-id1468209">The prokaryotes, which include bacteria and archaea, are mostly single-celled organisms that, by definition, lack membrane-bound nuclei and other organelles. A bacterial chromosome is a covalently
+<para id="fs-id1166847905861">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
+<para id="fs-id1468209">The prokaryotes, which include bacteria and archaea, are mostly single-celled organisms that, by definition, lack membrane-bound nuclei and other organelles. A bacterial chromosome is a covalently
 closed circle that, unlike eukaryotic chromosomes, is not organized around histone proteins. The central region of the cell in which prokaryotic DNA resides is called the nucleoid. In addition, prokaryotes often have abundant <term id="term-00001">plasmids</term>, which are shorter circular DNA molecules that may only contain one or a few genes. Plasmids can be transferred independently of the bacterial chromosome during cell division and often carry traits such as antibiotic resistance.</para><para id="fs-id671101">Transcription in prokaryotes (and in eukaryotes) requires the DNA double helix to partially unwind in the region of mRNA synthesis. The region of unwinding is called a <term id="term-00002">transcription bubble.</term> Transcription always proceeds from the same DNA strand for each gene, which is called the <term id="term-00003">template strand</term>. The mRNA product is complementary to the template strand and is almost identical to the other DNA strand, called the <term id="term-00004">nontemplate strand</term>. The only difference is that in mRNA, all of the T nucleotides are replaced with U nucleotides. In an RNA double helix, A can bind U via two hydrogen bonds, just as in A–T pairing in a DNA double helix.</para>
 <para id="fs-id1520179">The nucleotide pair in the DNA double helix that corresponds to the site from which the first 5' mRNA nucleotide is transcribed is called the +1 site, or the <term id="term-00005">initiation site</term>. Nucleotides preceding the initiation site are given negative numbers and are designated <term id="term-00006">upstream</term>. Conversely, nucleotides following the initiation site are denoted with “+” numbering and are called <term id="term-00007">downstream</term> nucleotides.</para>
-<section id="fs-id2899946" class="ost-tag-lo-apbio-ch15-s02-lo01 ost-tag-lo-apbio-ch15-s02-aplo-3-1 ost-get-exercise">
+<section id="fs-id2899946" class="ost-tag-lo-apbio-ch15-s02-lo01 ost-tag-lo-apbio-ch15-s02-aplo-3-1">
 <title>Initiation of Transcription in Prokaryotes</title>
 <para id="fs-id2321141">Prokaryotes do not have membrane-enclosed nuclei. Therefore, the processes of transcription, translation, and mRNA degradation can all occur simultaneously. The intracellular level of a bacterial protein can quickly be amplified by multiple transcription and translation events occurring concurrently on the same DNA template. Prokaryotic transcription often covers more than one gene and produces polycistronic mRNAs that specify more than one protein.</para>
 <para id="fs-id2117424">Our discussion here will exemplify transcription by describing this process in <emphasis effect="italics">Escherichia coli</emphasis>, a well-studied bacterial species. Although some differences exist between transcription in <emphasis effect="italics">E. coli</emphasis> and transcription in archaea, an understanding of <emphasis effect="italics">E. coli </emphasis>transcription can be applied to virtually all bacterial species.</para>
-<section id="fs-id2016560" class="ost-tag-lo-apbio-ch15-s02-lo01 ost-tag-lo-apbio-ch15-s02-aplo-3-1 ost-get-exercise">
+<section id="fs-id2016560" class="ost-tag-lo-apbio-ch15-s02-lo01 ost-tag-lo-apbio-ch15-s02-aplo-3-1">
 <title>Prokaryotic RNA Polymerase</title>
 <para id="fs-id1694517">Prokaryotes use the same RNA polymerase to transcribe all of their genes. In <emphasis effect="italics">E. coli</emphasis>, the polymerase is composed of five polypeptide subunits, two of which are identical. Four of these subunits, denoted <emphasis effect="italics">α</emphasis>, <emphasis effect="italics">α</emphasis>, <emphasis effect="italics">β</emphasis>, and <emphasis effect="italics">β</emphasis>' comprise the polymerase <term id="term-00008">core enzyme</term>. These subunits assemble every time a gene is transcribed, and they disassemble once transcription is complete. Each subunit has a unique role; the two <emphasis effect="italics">α</emphasis>-subunits are necessary to assemble the polymerase on the DNA; the <emphasis effect="italics">β</emphasis>-subunit binds to the ribonucleoside triphosphate that will become part of the nascent “recently born” mRNA molecule; and the <emphasis effect="italics">β</emphasis>' binds the DNA template strand. The fifth subunit, <emphasis effect="italics">σ</emphasis>, is involved only in transcription initiation. It confers transcriptional specificity such that the polymerase begins to synthesize mRNA from an appropriate initiation site. Without <emphasis effect="italics">σ</emphasis>, the core enzyme would transcribe from random sites and would produce mRNA molecules that specified protein gibberish. The polymerase comprised of all five subunits is called the <term id="term-00009">holoenzyme</term>.</para>
 </section>
-<section id="fs-id653506" class="ost-tag-lo-apbio-ch15-s02-lo01 ost-tag-lo-apbio-ch15-s02-aplo-3-1 ost-get-exercise">
+<section id="fs-id653506" class="ost-tag-lo-apbio-ch15-s02-lo01 ost-tag-lo-apbio-ch15-s02-aplo-3-1">
 <title>Prokaryotic Promoters</title>
 <para id="fs-id1236812">A <term id="term-00010">promoter</term> is a DNA sequence onto which the transcription machinery binds and initiates transcription. In most cases, promoters exist upstream of the genes they regulate. The specific sequence of a promoter is very important because it determines whether the corresponding gene is transcribed all the time, some of the time, or infrequently. Although promoters vary among prokaryotic genomes, a few elements are conserved. At the -10 and -35 regions upstream of the initiation site, there are two promoter <term id="term-00011">consensus</term> sequences, or regions that are similar across all promoters and across various bacterial species (<link target-id="fig-ch15_02_01"/>). The -10 consensus sequence, called the -10 region, is TATAAT. The -35 sequence, TTGACA, is recognized and bound by <emphasis effect="italics">σ</emphasis>. Once this interaction is made, the subunits of the core enzyme bind to the site. The A–T-rich -10 region facilitates unwinding of the DNA template, and several phosphodiester bonds are made. The transcription initiation phase ends with the production of abortive transcripts, which are polymers of approximately 10 nucleotides that are made and released.</para><figure id="fig-ch15_02_01"><media id="fs-id1482493" alt="Illustration shows the σ subunit of RNA polymerase bound to two consensus sequences that are 10 and 35 bases upstream of the transcription start site. RNA polymerase is bound to σ.">
 <image mime-type="image/jpg" src="../../media/Figure_15_02_01-50f7.jpg" width="350"/>
@@ -105,7 +133,7 @@ closed circle that, unlike eukaryotic chromosomes, is not organized around histo
 </note></section>
 </section>
 
-<section id="fs-id1298841" class="ost-tag-lo-apbio-ch15-s02-lo02 ost-tag-lo-apbio-ch15-s02-aplo-3-1 ost-get-exercise">
+<section id="fs-id1298841" class="ost-tag-lo-apbio-ch15-s02-lo02 ost-tag-lo-apbio-ch15-s02-aplo-3-1">
 <title>Elongation and Termination in Prokaryotes</title>
 <para id="fs-id3319239">The transcription elongation phase begins with the release of the <emphasis effect="italics">σ</emphasis> subunit from the polymerase. The dissociation of <emphasis effect="italics">σ</emphasis> allows the core enzyme to proceed along the DNA template, synthesizing mRNA in the 5' to 3' direction at a rate of approximately 40 nucleotides per second. As elongation proceeds, the DNA is continuously unwound ahead of the core enzyme and rewound behind it (<link target-id="fig-ch15_02_02"/>). The base pairing between DNA and RNA is not stable enough to maintain the stability of the mRNA synthesis components. Instead, the RNA polymerase acts as a stable linker between the DNA template and the nascent RNA strands to ensure that elongation is not interrupted prematurely.</para>
 <figure id="fig-ch15_02_02" class="ost-tag-lo-apbio-ch15-s02-lo02 ost-tag-lo-apbio-ch15-s02-aplo-3-1"><media id="fs-id3014452" alt="Illustration shows RNA synthesis by RNA polymerase. The RNA strand is synthesized in the 5' to 3' direction.">
@@ -113,7 +141,7 @@ closed circle that, unlike eukaryotic chromosomes, is not organized around histo
 </media>
 <caption>During elongation, the prokaryotic RNA polymerase tracks along the DNA template, synthesizes mRNA in the 5' to 3' direction, and unwinds and rewinds the DNA as it is read.</caption></figure></section>
 
-<section id="fs-id1318146" class="ost-tag-lo-apbio-ch15-s02-lo02 ost-tag-lo-apbio-ch15-s02-aplo-3-1 ost-get-exercise">
+<section id="fs-id1318146" class="ost-tag-lo-apbio-ch15-s02-lo02 ost-tag-lo-apbio-ch15-s02-aplo-3-1">
 <title>Prokaryotic Termination Signals</title>
 <para id="fs-id1403735">Once a gene is transcribed, the prokaryotic polymerase needs to be instructed to dissociate from the DNA template and liberate the newly made mRNA. Depending on the gene being transcribed, there are two kinds of termination signals. One is protein-based and the other is RNA-based. <term id="term-00012">Rho-dependent termination</term> is controlled by the rho  (ρ) protein, which tracks along behind the polymerase on the growing mRNA chain. Near the end of the gene, the polymerase encounters a run of G nucleotides on the DNA template and it stalls. As a result, the rho protein collides with the polymerase. The interaction with rho releases the mRNA from the transcription bubble.</para>
 <para id="fs-id2629848"><term id="term-00013">Rho-independent termination</term> is controlled by specific sequences in the DNA template strand. As the polymerase nears the end of the gene being transcribed, it encounters a region rich in C–G nucleotides. The mRNA folds back on itself, and the complementary C–G nucleotides bind together. The result is a stable <term id="term-00014">hairpin</term> that causes the polymerase to stall as soon as it begins to transcribe a region rich in A–T nucleotides. The complementary U–A region of the mRNA transcript forms only a weak interaction with the template DNA. This, coupled with the stalled polymerase, induces enough instability for the core enzyme to break away and liberate the new mRNA transcript.</para>
@@ -122,7 +150,7 @@ closed circle that, unlike eukaryotic chromosomes, is not organized around histo
 <image mime-type="image/jpg" src="../../media/Figure_15_02_03-c021.jpg" width="350"/>
 </media>
 <caption>Multiple polymerases can transcribe a single bacterial gene while numerous ribosomes concurrently translate the mRNA transcripts into polypeptides. In this way, a specific protein can rapidly reach a high concentration in the bacterial cell.</caption></figure>
-<note id="fs-id2626015" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch15-s02-lo02 ost-tag-lo-apbio-ch15-s02-aplo-3-1 ost-get-exercise"><label>Link to Learning</label>
+<note id="fs-id2626015" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch15-s02-lo02 ost-tag-lo-apbio-ch15-s02-aplo-3-1"><label>Link to Learning</label>
 <para id="fs-id2701078">Watch this <link window="new" url="https://openstax.org/l/transcription2">Virtual Cell video</link> to see the process of prokaryotic transcription.</para>
 <exercise id="fs-id1167066820719" class="os-exercise unnumbered"><label/>
 <problem id="fs-id1167063853410">

@@ -21,60 +21,40 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167062461308">Viruses differ from other organisms in their method of replication. Viruses replicate within a living host cell, producing changes in the cell that often result in the death of the infected cell. Thus, viruses are considered intracellular parasites. Viral replication involves several steps: attachment, penetration, replication, assembly, and release. Viruses are host-specific because they only can attach to and infect cells of certain organisms. Cells that a virus may use to replicate are called <emphasis>permissive</emphasis>. The virus attacks the host cell by first attaching to a specific receptor site on the membrane of the host cell. Next, the viral nucleic acid, either DNA or RNA, enters the host cell, either naked, leaving the protein capsid behind, or with the capsid. If the capsid enters the cell, an additional uncoating step is needed. Viral nucleic acid then becomes available for replication and transcription. The last stage of viral replication is the release of the new virions produced by the host that are able to infect other cells. Depending on the type of virus, the replication cycle facilitates the transfer of genetic information through the <emphasis>lytic</emphasis> and <emphasis>lysogenic</emphasis> cycles.</para>
 <para id="fs-id1167062571502" class="ost-reading-discard"><emphasis>Bacteriophages</emphasis>, such as T4 are viruses that infect bacterial cells, can enter both the lytic and lysogenic cycles. Animal viruses cause a variety of infections, for example, hepatitis C, herpes, HPV, colds, and flu. Occasionally, viruses can “hide” and remain latent (dormant) in cells such as nerve or liver cells for months, or even years; for example, the varicella-zoster virus that causes chickenpox in children can reactivate in adults to cause the painful condition known as “shingles.” Oncogenic viruses in animals can cause cancer by interfering with the regulation of the host cell cycle. Plant viruses can cause considerable economic damage caused by poor crop quality and quantity globally.</para>
-<para id="fs-id1167064707512" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167064707512" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 6.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.
+</para>
 <table id="fs-id1167066140845" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.C.3 Viral replication results in genetic variation, and viral infection can introduce genetic variation into the hosts. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads 3.29 the student is able to construct an explanation of how viruses introduce genetic variation in host organisms." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.C</emphasis></entry>
-<entry class="ost-standards-description">The processing of genetic information is imperfect and is a source of genetic variation.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-c-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.C.3 </emphasis></span>
-<span class="ost-standards-description">Viral replication results in genetic variation, and viral infection can introduce genetic variation into the hosts.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-29">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.29 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct an explanation of how viruses introduce genetic variation in host organisms.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.4 Translation</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.4 A Explain how the phenotype of an organisms is determined by its genotype. </entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.4.A.4 Genetic information in retroviruses is a special case and has an alternative flow of information: from RNA to DNA, made possible by reverse transcriptase, an enzyme that copies the viral RNA genome into DNA. This DNA integrates into the host genome and is transcribed and translated for the assembly of new viral progeny.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.D Visual Representations- Represent relationships within biological models, including mathematical models, diagrams, flowcharts, and systems.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-c-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.C.3 </emphasis></span>
-<span class="ost-standards-description">Viral replication results in genetic variation, and viral infection can introduce genetic variation into the hosts.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-30">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.30 </emphasis></span>
-<span class="ost-standards-description">The student is able to use representations and appropriate models to describe how viral replication introduces genetic variation in the viral population.</span>
-</entry>
-</row>
 </tbody>
 
 
 </tgroup>
-</table><para id="fs-id1166849564470">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.1][APLO 3.27][APLO 3.29][APLO 1.3][APLO 2.38][APLO 3.40][APLO 3.30]</para></section>
-<section id="fs-idm73024256" class="ost-tag-lo-apbio-ch21-s02-lo01 ost-tag-lo-apbio-ch21-s02-aplo-3-29 ost-get-exercise">
+</table><para id="fs-id1166849564470">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
+<section id="fs-idm73024256" class="ost-tag-lo-apbio-ch21-s02-lo01 ost-tag-lo-apbio-ch21-s02-aplo-3-29">
 <title>Steps of Virus Infections</title>
 <para id="fs-idm96953392">A virus must use cell processes to replicate. The viral replication cycle can produce dramatic biochemical and structural changes in the host cell, which may cause cell damage. These changes, called <emphasis>cytopathic</emphasis> (causing cell damage) effects, can change cell functions or even destroy the cell. Some infected cells, such as those infected by the common cold virus known as rhinovirus, die through <emphasis>lysis</emphasis> (bursting) or apoptosis (programmed cell death), releasing all progeny virions at once. The symptoms of viral diseases result from the immune response to the virus, which attempts to control and eliminate the virus from the body, and from cell damage caused by the virus. Many animal viruses leave the infected cells of the immune system by a process known as <emphasis>budding</emphasis>, where virions leave the cell individually. During the budding process, the cell does not undergo lysis and is not immediately killed. However, the damage to the cells that the virus infects may make it impossible for the cells to function normally, even though the cells remain alive for a period of time. Most productive viral infections follow similar steps in the virus replication cycle: attachment, penetration, uncoating, replication, assembly, and release (<link target-id="fig-ch21_02_01"/>).</para>
 <section id="fs-idm14940416" class="ost-tag-lo-apbio-ch21-s02-lo01 ost-tag-lo-apbio-ch21-s02-aplo-3-29">
@@ -135,9 +115,9 @@
 <title>Different Hosts and Their Viruses</title>
 <para id="fs-idm73955568">As you’ve learned, viruses are often very specific as to which hosts and which cells within the host they will infect. This feature of a virus makes it specific to one or a few species of life on Earth. On the other hand, so many different types of viruses exist on Earth that nearly every living organism has its own set of viruses that tries to infect its cells. Even the smallest and simplest of cells, prokaryotic bacteria, may be attacked by specific types of viruses.</para>
 </section>
-<section id="fs-idm50042624" class="ost-tag-lo-apbio-ch21-s02-lo02 ost-tag-lo-apbio-ch21-s02-aplo-3-29 ost-get-exercise">
+<section id="fs-idm50042624" class="ost-tag-lo-apbio-ch21-s02-lo02 ost-tag-lo-apbio-ch21-s02-aplo-3-29">
 <title>Bacteriophages</title>
-<figure id="fig-ch21_02_02" class="ost-tag-lo-apbio-ch21-s02-lo01"><media id="fs-idm45937760" alt="The micrograph shows hexagonal bacteriophage capsids attached to a host bacterial cell by slender stalks.">
+<figure id="fig-ch21_02_02"><media id="fs-idm45937760" alt="The micrograph shows hexagonal bacteriophage capsids attached to a host bacterial cell by slender stalks.">
 <image mime-type="image/jpg" src="../../media/Figure_21_02_02-545c.jpg" width="255"/>
 </media>
 <caption>This transmission electron micrograph shows bacteriophages attached to a bacterial cell. (credit: modification of work by Dr. Graham Beards; scale-bar data from Matt Russell)</caption></figure>
@@ -165,7 +145,7 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-idm50081312" class="ost-tag-lo-apbio-ch21-s02-lo03 ost-tag-lo-apbio-ch21-s02-aplo-3-29 ost-get-exercise">
+<section id="fs-idm50081312" class="ost-tag-lo-apbio-ch21-s02-lo03 ost-tag-lo-apbio-ch21-s02-aplo-3-29">
 <title>Animal Viruses</title>
 <para id="fs-idm53290352">Animal viruses, unlike the viruses of plants and bacteria, do not have to penetrate a cell wall to gain access to the host cell. Non-enveloped or “naked” animal viruses may enter cells in two different ways. As a protein in the viral capsid binds to its receptor on the host cell, the virus may be taken inside the cell via a vesicle during the normal cell process of receptor-mediated endocytosis. An alternative method of cell penetration used by non-enveloped viruses is for capsid proteins to undergo shape changes after binding to the receptor, creating channels in the host cell membrane. The viral genome is then “injected” into the host cell through these channels in a manner analogous to that used by many bacteriophages. Enveloped viruses also have two ways of entering cells after binding to their receptors: receptor-mediated endocytosis, or <emphasis>fusion</emphasis>. Many enveloped viruses enter the cell by receptor-mediated endocytosis in a fashion similar to some non-enveloped viruses. On the other hand, fusion only occurs with enveloped virions. These viruses, which include HIV among others, use special fusion proteins in their envelopes to cause the envelope to fuse with the plasma membrane of the cell, thus releasing the genome and capsid of the virus into the cell cytoplasm. </para>
 <para id="fs-idp63812432">After making their proteins and copying their genomes, animal viruses complete the assembly of new virions and exit the cell Enveloped animal viruses may bud from the cell membrane as they assemble themselves, taking a piece of the cell’s plasma membrane in the process. On the other hand, non-enveloped viral progeny, such as rhinoviruses, accumulate in infected cells until there is a signal for lysis or apoptosis, and all virions are released together.  </para>
@@ -192,7 +172,7 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-idm240712000" class="ost-tag-lo-apbio-ch21-s02-lo03 ost-tag-lo-apbio-ch21-s02-aplo-3-29 ost-get-exercise">
+<section id="fs-idm240712000" class="ost-tag-lo-apbio-ch21-s02-lo03 ost-tag-lo-apbio-ch21-s02-aplo-3-29">
 <title>Plant Viruses</title>
 <para id="fs-idm167641680">Plant viruses, like other viruses, contain a core of either DNA or RNA. You have already learned about one of these, the tobacco mosaic virus. As plant cells have a cell wall to protect their cells, these viruses do not use receptor-mediated endocytosis to enter host cells as is seen with animal viruses. For many plant viruses to be transferred from plant to plant, damage to some of the plants’ cells must occur to allow the virus to enter a new host. This damage is often caused by weather, insects, animals, fire, or human activities like farming or landscaping. Additionally, plant offspring may inherit viral diseases from parent plants. Plant viruses can be transmitted by a variety of vectors, through contact with an infected plant’s sap, by living organisms such as insects and nematodes, and through pollen. When plants viruses are transferred between different plants, this is known as <emphasis>horizontal transmission</emphasis>, and when they are inherited from a parent, this is called <emphasis>vertical transmission</emphasis>.</para><para id="fs-idm37078704">Symptoms of viral diseases vary according to the virus and its host (<link target-id="tab-ch21_02_01"/>). One common symptom is <emphasis>hyperplasia</emphasis>, the abnormal proliferation of cells that causes the appearance of plant tumors known as <emphasis>galls</emphasis>. Other viruses induce <emphasis>hypoplasia</emphasis>, or decreased cell growth, in the leaves of plants, causing thin, yellow areas to appear. Still other viruses affect the plant by directly killing plant cells, a process known as <emphasis>cell necrosis</emphasis>. Other symptoms of plant viruses include malformed leaves, black streaks on the stems of the plants, altered growth of stems, leaves, or fruits, and ring spots, which are circular or linear areas of discoloration found in a leaf.</para>
 <table id="tab-ch21_02_01" summary="This table lists common symptoms of viral plant diseases and describes how it visually appears." class="top-titled">

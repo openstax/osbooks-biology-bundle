@@ -20,47 +20,8 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167064620178">The information in this section about lung volumes and capacities is outside the scope for AP<sup>®</sup>. However, the content about the movement of gases across the membranes of alveoli is an important application of the principles of diffusion that we explored in the chapter on passive transport. In addition, gas exchange provides the oxygen needed for aerobic cellular respiration and for the removal of carbon dioxide produced as a metabolic waste product.</para>
 <para id="fs-id1167064915092" class="ost-reading-discard">Gas movement into or out of the lungs is dependent on the pressure of the gas. Because the air we breathe is a mixture of several gases, including N, O<sub>2</sub> and CO<sub>2</sub>, the amount of each gas is measured by its partial pressure. As you remember from our earlier exploration of diffusion, molecules move from an area of higher concentration to lower concentration, or, in the case of gases, from higher partial pressure (measured in mm Hg) to lower partial pressure. In other words, O<sub>2</sub> and CO<sub>2</sub> move with their concentration gradients. Because both gases are small, nonpolar molecules, they freely travel across the phospholipid bilayer of the plasma cell membrane.</para>
-<para id="fs-id1167064537943" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
-<table id="fs-id1167065926305" summary="Table with two columns and five rows. First left cell reads: Essential Knowledge. First right cell reads: 2.B.2 Growth and dynamic homeostasis are maintained by the constant movement of molecules across membranes. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Science Practice. Third right cell reads: 1.1 The student can create representations and models of natural or man-made phenomena and systems in the domain. Fourth left cell reads: Science Practice. Fourth right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Fifth left cell reads: Learning Objective. Fifth right cell reads: 2.12 The student is able to use representations and models to analyze situations or solve problems qualitatively and quantitatively to investigate whether dynamic homeostasis is maintained by the movement of molecules across membranes." class="unnumbered column-header ost-reading-discard"><label/>
-<tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
-<tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.B</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and dynamic homeostasis require that cell create and maintain internal environments that are different form their external environment.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.B.2 </emphasis></span>
-<span class="ost-standards-description">Growth and dynamic homeostasis are maintained by the constant movement of molecules across membranes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch30-s02-aplo-2-12 ">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.12 </emphasis></span>
-<span class="ost-standards-description">The student is able to use representations and models to analyze situations or solve problems qualitatively and quantitatively to investigate whether dynamic homeostasis is maintained by the movement of molecules across membranes.</span>
-</entry>
-</row>
-</tbody>
-
-</tgroup>
-</table></section>
+<para id="fs-id1167064537943" class="ost-reading-discard">The information presented and examples highlighted in this section support topics outlined in Unit 2 of the AP<sup>®</sup> Biology Course and Exam Description.</para>
+</section>
 <para id="fs-idm66863584">The structure of the lung maximizes its surface area to increase gas diffusion. Because of the enormous number of alveoli (approximately 300 million in each human lung), the surface area of the lung is very large (75 m<sup>2</sup>). Having such a large surface area increases the amount of gas that can diffuse into and out of the lungs.</para>
 <section id="fs-idp52774976">
 <title>Basic Principles of Gas Exchange</title>
@@ -68,7 +29,7 @@
 <para id="fs-idp83033872"> <emphasis>Partial pressure</emphasis> is a measure of the concentration of the individual components in a mixture of gases. The total pressure exerted by the mixture is the sum of the partial pressures of the components in the mixture. The rate of diffusion of a gas is proportional to its partial pressure within the total gas mixture. This concept is discussed further in detail below.</para>
 </section>
 <section id="fs-idp15660768"><title>Lung Volumes and Capacities</title><para id="fs-idm79231488">Different animals have different lung capacities based on their activities. Cheetahs have evolved a much higher lung capacity than humans; it helps provide oxygen to all the muscles in the body and allows them to run very fast. Elephants also have a high lung capacity. In this case, it is not because they run fast but because they have a large body and must be able to take up oxygen in accordance with their body size.</para>
-<para id="fs-idm139039136">Human lung size is determined by genetics, sex, and height. At maximal capacity, the average adult male's lungs can hold almost six liters of air, but lungs do not usually operate at maximal capacity. Air in the lungs is measured in terms of <emphasis>lung volumes</emphasis> and <emphasis>lung capacities</emphasis> (<link target-id="fig-ch39_02_01"/> and <link target-id="tab-ch39_02_01"/>). Volume measures the amount of air for one function (such as inhalation or exhalation). Capacity is any two or more volumes (for example, how much can be inhaled from the end of a maximal exhalation).</para><figure id="fig-ch39_02_01" class="ost-tag-lo-apbio-ch30-s02-lo01"><media id="fs-idp114938608" alt="The chart shows the exchange of air during inhalation and exhalation, which resembles a wave pattern. During normal breathing, only about eight percent of air in the lungs is exchanged, and the amount of air in the lungs is one-half the total lung capacity. When a person breathes in deeply, total lung capacity is attained. The amount of air taken in is called the inspiratory capacity. Forceful exhalation results in expulsion of the expiratory reserve volume. A residual volume of air of about eight percent is left in the lungs. The vital capacity is the difference between the total lung capacity and the residual volume. The inspiratory reserve volume is the difference between the total lung capacity and the amount of air in the lungs after taking a normal breath. The functional residual capacity is the amount of air in the lungs after normal exhalation.">
+<para id="fs-idm139039136">Human lung size is determined by genetics, sex, and height. At maximal capacity, the average adult male's lungs can hold almost six liters of air, but lungs do not usually operate at maximal capacity. Air in the lungs is measured in terms of <emphasis>lung volumes</emphasis> and <emphasis>lung capacities</emphasis> (<link target-id="fig-ch39_02_01"/> and <link target-id="tab-ch39_02_01"/>). Volume measures the amount of air for one function (such as inhalation or exhalation). Capacity is any two or more volumes (for example, how much can be inhaled from the end of a maximal exhalation).</para><figure id="fig-ch39_02_01"><media id="fs-idp114938608" alt="The chart shows the exchange of air during inhalation and exhalation, which resembles a wave pattern. During normal breathing, only about eight percent of air in the lungs is exchanged, and the amount of air in the lungs is one-half the total lung capacity. When a person breathes in deeply, total lung capacity is attained. The amount of air taken in is called the inspiratory capacity. Forceful exhalation results in expulsion of the expiratory reserve volume. A residual volume of air of about eight percent is left in the lungs. The vital capacity is the difference between the total lung capacity and the residual volume. The inspiratory reserve volume is the difference between the total lung capacity and the amount of air in the lungs after taking a normal breath. The functional residual capacity is the amount of air in the lungs after normal exhalation.">
 <image mime-type="image/jpg" src="../../media/Figure_39_02_01.jpg" width="550"/>
 </media>
 <caption>Human lung volumes and capacities are shown. The total lung capacity of the adult male is six liters. Tidal volume is the volume of air inhaled in a single, normal breath. Inspiratory capacity is the amount of air taken in during a deep breath, and residual volume is the amount of air left in the lungs after forceful respiration.</caption></figure>

@@ -20,58 +20,43 @@
 <section id="fs-id1167067014101" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167067043098">Cancer is a disease of altered gene expression that can occur at every level of control, including at the levels of DNA methylation, histone acetylation, and activation of transcription factors. By understanding how each stage of gene regulation works in normal cells, we can understand what goes wrong in diseased states. For example, changes in the activity of the tumor suppressor gene <emphasis effect="italics">p53</emphasis> can result in cancer. Phosphorylation and other protein modifications have also been implicated in cancer.</para>
-<para id="fs-id1167067199953" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The learning objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
+<para id="fs-id1167067199953" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 4.6 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167067311250" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.B.2 A variety of intercellular and intracellular signal transmissions mediate gene expression. Second left cell reads: Science Practice. Second right cell reads: 6.2 The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 3.22 The student is able to explain how signal pathways mediate gene expression, including how this process can affect protein production." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.B</emphasis></entry>
-<entry class="ost-standards-description">Expression of genetic information involves cellular and molecular mechanisms.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.B.2 </emphasis></span>
-<span class="ost-standards-description">A variety of intercellular and intracellular signal transmissions mediate gene expression.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch16-s07-aplo-3-22">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.22 </emphasis></span>
-<span class="ost-standards-description">The student is able to explain how signal pathways mediate gene expression, including how this process can affect protein production.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>4.6 Regulation of Cell Cycle</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.6.A Describe the role of checkpoints in regulating the cell cycle.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.B.2 </emphasis></span>
-<span class="ost-standards-description">A variety of intercellular and intracellular signal transmissions mediate gene expression.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch16-s07-aplo-3-23">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.23 </emphasis></span>
-<span class="ost-standards-description">The student can use representations to describe mechanisms of the regulation of gene expression.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.6.A.1 A number of internal controls or checkpoints regulate progression through the cell cycle.</entry>
 </row>
-</tbody>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.6.A.2 Interactions between cyclins and cyclin-dependent kinases control the cell cycle.<newline/>
 
-
-
-</tgroup>
+Exclusion statement- Knowledge of specific cyclin-CdK pairs or growth factors is beyond the scope of the AP<sup>®</sup> Exam.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.6.B Describe the effects of disruptions to the cell cycle on the cell or organism.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.6.B.1 Disruptions to the cell cycle may result in cancer or apoptosis (programmed cell death).</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
+</row>
+</tbody></tgroup>
 </table></section>
 <note id="fs-id1167067132315" class="os-teacher">
 <label>Teacher Support</label>
@@ -90,11 +75,11 @@
 
 <para id="fs-id2905050">Cancer is not a single disease but includes many different diseases.  In cancer cells, mutations modify cell-cycle control and cells don’t stop growing as they normally would. Mutations can also alter the growth rate or the progression of the cell through the cell cycle. One example of a gene modification that alters the growth rate is increased phosphorylation of cyclin B, a protein that controls the progression of a cell through the cell cycle and serves as a cell-cycle checkpoint protein.</para>
 <para id="fs-id2337886">For cells to move through each phase of the cell cycle, the cell must pass through checkpoints. This ensures that the cell has properly completed the step and has not encountered any mutation that will alter its function. Many proteins, including cyclin B, control these checkpoints. The phosphorylation of cyclin B, a post-translational event, alters its function. As a result, cells can progress through the cell cycle unimpeded, even if mutations exist in the cell and its growth should be terminated. This post-translational change of cyclin B prevents it from controlling the cell cycle and contributes to the development of cancer.</para>
-<section id="fs-id1775261" class="ost-tag-lo-apbio-ch16-s07-lo01 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23 ost-get-exercise">
+<section id="fs-id1775261" class="ost-tag-lo-apbio-ch16-s07-lo01 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23">
 <title>Cancer: Disease of Altered Gene Expression</title>
 <para id="fs-id1772073">Cancer can be described as a disease of altered gene expression. There are many proteins that are turned on or off (gene activation or gene silencing) that dramatically alter the overall activity of the cell. A gene that is not normally expressed in that cell can be switched on and expressed at high levels. This can be the result of gene mutation or changes in gene regulation (epigenetic, transcription, post-transcription, translation, or post-translation).</para>
 <para id="fs-id1568624">Changes in epigenetic regulation, transcription, RNA stability, protein translation, and post-translational control can be detected in cancer. While these changes don’t occur simultaneously in one cancer, changes at each of these levels can be detected when observing cancer at different sites in different individuals. Therefore, changes in <term id="term-00001">histone acetylation</term> (epigenetic modification that leads to gene expression), activation of transcription factors by phosphorylation, increased RNA stability, increased translational control, and protein modification can all be detected at some point in various cancer cells. Scientists are working to understand the common changes that give rise to certain types of cancer or how a modification might be exploited to destroy a tumor cell.</para>
-<section id="fs-id1787656" class="ost-get-exercise">
+<section id="fs-id1787656" class="">
 <title>Tumor Suppressor Genes, Oncogenes, and Cancer</title>
 <para id="fs-id1524784">In normal cells, some genes function to prevent excess, inappropriate cell growth. These are tumor suppressor genes, which are active in normal cells to prevent uncontrolled cell growth. There are many tumor suppressor genes in cells. The most studied tumor suppressor gene is p53, which is mutated in over 50 percent of all cancer types.  The p53 protein itself functions as a transcription factor. It can bind to sites in the promoters of genes to initiate transcription. Therefore, the mutation of p53 in cancer will dramatically alter the transcriptional activity of its target genes.</para>
 <note id="fs-id1687530" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch16-s07-lo01 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23"><label>Link to Learning</label>
@@ -109,25 +94,25 @@
 </note><para id="fs-id1461234">Proto-oncogenes are positive cell-cycle regulators. When mutated, proto-oncogenes can become oncogenes and cause cancer. Overexpression of the oncogene can lead to uncontrolled cell growth. This is because oncogenes can alter transcriptional activity, stability, or protein translation of another gene that directly or indirectly controls cell growth. An example of an oncogene involved in cancer is a protein called myc. <term id="term-00002">Myc</term> is a transcription factor that is aberrantly activated in Burkett’s Lymphoma, a cancer of the lymph system. Overexpression of myc transforms normal B cells into cancerous cells that continue to grow uncontrollably. High B-cell numbers can result in tumors that can interfere with normal bodily function. Patients with Burkett’s lymphoma can develop tumors on their jaw or in their mouth that interfere with the ability to eat.</para>
 </section>
 </section>
-<section id="fs-id2570388" class="ost-tag-lo-apbio-ch16-s07-lo02 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23 ost-get-exercise">
+<section id="fs-id2570388" class="ost-tag-lo-apbio-ch16-s07-lo02 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23">
 <title>Cancer and Epigenetic Alterations</title>
 <para id="fs-id1675964">Silencing genes through epigenetic mechanisms is also very common in cancer cells. There are characteristic modifications to histone proteins and DNA that are associated with silenced genes. In cancer cells, the DNA in the promoter region of silenced genes is methylated on cytosine DNA residues in CpG islands. Histone proteins that surround that region lack the acetylation modification that is present when the genes are expressed in normal cells. This combination of DNA methylation and histone deacetylation (epigenetic modifications that lead to gene silencing) is commonly found in cancer. When these modifications occur, the gene present in that chromosomal region is silenced. Increasingly, scientists understand how epigenetic changes are altered in cancer. Because these changes are temporary and can be reversed—for example, by preventing the action of the histone deacetylase protein that removes acetyl groups, or by DNA methyl transferase enzymes that add methyl groups to cytosines in DNA—it is possible to design new drugs and new therapies to take advantage of the reversible nature of these processes. Indeed, many researchers are testing how a silenced gene can be switched back on in a cancer cell to help re-establish normal growth patterns.</para>
 <para id="fs-id1958502">Genes involved in the development of many other illnesses, ranging from allergies to inflammation to autism, are thought to be regulated by epigenetic mechanisms. As our knowledge of how genes are controlled deepens, new ways to treat diseases like cancer will emerge.</para>
 </section>
-<section id="fs-id1977751" class="ost-tag-lo-apbio-ch16-s07-lo02 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23 ost-get-exercise">
+<section id="fs-id1977751" class="ost-tag-lo-apbio-ch16-s07-lo02 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23">
 <title>Cancer and Transcriptional Control</title>
 <para id="fs-id2688570">Alterations in cells that give rise to cancer can affect the transcriptional control of gene expression. Mutations that activate transcription factors, such as increased phosphorylation, can increase the binding of a transcription factor to its binding site in a promoter. This could lead to increased transcriptional activation of that gene that results in modified cell growth. Alternatively, a mutation in the DNA of a promoter or enhancer region can increase the binding ability of a transcription factor. This could also lead to the increased transcription and aberrant gene expression that is seen in cancer cells.</para>
 <para id="fs-id2971281">Researchers have been investigating how to control the transcriptional activation of gene expression in cancer. Identifying how a transcription factor binds, or a pathway that activates where a gene can be turned off, has led to new drugs and new ways to treat cancer. In breast cancer, for example, many proteins are overexpressed. This can lead to increased phosphorylation of key transcription factors that increase transcription. One such example is the overexpression of the epidermal growth factor receptor (EGFR) in a subset of breast cancers. The EGFR pathway activates many protein kinases that, in turn, activate many transcription factors that control genes involved in cell growth. New drugs that prevent the activation of EGFR have been developed and are used to treat these cancers.</para>
 </section>
-<section id="fs-id2749879" class="ost-tag-lo-apbio-ch16-s07-lo02 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23 ost-get-exercise">
+<section id="fs-id2749879" class="ost-tag-lo-apbio-ch16-s07-lo02 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23">
 <title>Cancer and Post-transcriptional Control</title>
 <para id="fs-id2595766">Changes in the post-transcriptional control of a gene can also result in cancer. Recently, several groups of researchers have shown that specific cancers have altered expression of miRNAs. Because miRNAs bind to the 3' UTR of RNA molecules to degrade them, overexpression of these miRNAs could be detrimental to normal cellular activity. Too many miRNAs could dramatically decrease the RNA population leading to a decrease in protein expression. Several studies have demonstrated a change in the miRNA population in specific cancer types. It appears that the subset of miRNAs expressed in breast cancer cells is quite different from the subset expressed in lung cancer cells or even from normal breast cells. This suggests that alterations in miRNA activity can contribute to the growth of breast cancer cells. These types of studies also suggest that if some miRNAs are specifically expressed only in cancer cells, they could be potential drug targets. It would, therefore, be conceivable that new drugs that turn off miRNA expression in cancer could be an effective method to treat cancer.</para>
 </section>
-<section id="fs-id1988417" class="ost-tag-lo-apbio-ch16-s07-lo02 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23 ost-get-exercise">
+<section id="fs-id1988417" class="ost-tag-lo-apbio-ch16-s07-lo02 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23">
 <title>Cancer and Translational/Post-translational Control</title>
 <para id="fs-id1953887">There are many examples of how translational or post-translational modifications of proteins arise in cancer. Modifications are found in cancer cells from the increased translation of a protein to changes in protein phosphorylation to alternative splice variants of a protein. An example of how the expression of an alternative form of a protein can have dramatically different outcomes is seen in colon cancer cells. The c-Flip protein, a protein involved in mediating the cell death pathway, comes in two forms: long (c-FLIPL) and short (c-FLIPS). Both forms appear to be involved in initiating controlled cell death mechanisms in normal cells. However, in colon cancer cells, expression of the long form results in increased cell growth instead of cell death. Clearly, the expression of the wrong protein dramatically alters cell function and contributes to the development of cancer.</para>
 </section>
-<section id="fs-idp254559760" class="ost-tag-lo-apbio-ch16-s07-lo02 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23 ost-get-exercise">
+<section id="fs-idp254559760" class="ost-tag-lo-apbio-ch16-s07-lo02 ost-tag-lo-apbio-ch16-s07-aplo-3-22 ost-tag-lo-apbio-ch16-s07-aplo-3-23">
 <title>New Drugs to Combat Cancer: Targeted Therapies</title>
 <para id="fs-id1812931">Scientists are using what is known about the regulation of gene expression in disease states, including cancer, to develop new ways to treat and prevent disease development. Many scientists are designing drugs on the basis of the gene expression patterns within individual tumors. This idea, that therapy and medicines can be tailored to an individual, has given rise to the field of personalized medicine. With an increased understanding of gene regulation and gene function, medicines can be designed to specifically target diseased cells without harming healthy cells. Some new medicines, called targeted therapies, have exploited the overexpression of a specific protein or the mutation of a gene to develop a new medication to treat disease. One such example is the use of anti-EGF receptor medications to treat the subset of breast cancer tumors that have very high levels of the EGF protein. Undoubtedly, more targeted therapies will be developed as scientists learn more about how gene expression changes can cause cancer.</para>
     <note id="fs-id2681687" class="career"><title>Clinical Trial Coordinator</title>

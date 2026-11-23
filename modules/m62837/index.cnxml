@@ -19,65 +19,55 @@
 <section id="fs-id1167063757919" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167067176090">Since the rediscovery of Mendel’s work in the 1900s, scientists have learned much about how the genetic blueprints stored in DNA are capable of replication, expression, and mutation. Just as the 26 letters of the English alphabet can be arranged into what seems to be a limitless number of words, with new ones added to the dictionary every year, the four nucleotides of DNA—A, T, C, and G—can generate sequences of DNA called genes that specify tens of thousands of polymers of amino acids. In turn, these sequences can be transcribed into mRNA and translated into proteins which orchestrate nearly every function of the cell. The genetic code refers to the DNA alphabet (A, T, C, G), the RNA alphabet (A, U, C, G), and the polypeptide alphabet (20 amino acids). But how do genes located on a chromosome ultimately produce a polypeptide that can result in a physical phenotype such as hair or eye color—or a disease like cystic fibrosis or hemophilia?</para><para id="fs-id1167066971938">The Central Dogma describes the normal flow of genetic information from DNA to mRNA to protein: DNA in genes specify sequences of mRNA which, in turn, specify amino acid sequences in proteins. The process requires two steps, transcription and translation. During transcription, genes are used to make messenger RNA (mRNA). In turn, the mRNA is used to direct the synthesis of proteins during the process of translation. Translation also requires two other types of RNA: transfer RNA (tRNA) and ribosomal RNA (rRNA). The genetic code is a triplet code, with each RNA codon consisting of three consecutive nucleotides that specify one amino acid or the release of the newly formed polypeptide chain; for example, the mRNA codon CAU specifies the amino acid histidine. The code is degenerate; that is, some amino acids are specified by more than one codon, like synonyms you study in your English class (different word, same meaning). For example, CCU, CCC, CCA, and CCG are all codons for proline. It is important to remember the same genetic code is universal to almost all organisms on Earth. Small variations in codon assignment exist in mitochondria and some microorganisms.</para>
 <para id="fs-id1167063514661">Deviations from the simple scheme of the central dogma are discovered as researchers explore gene expression with new technology. For example the human immunodeficiency virus (HIV) is a retrovirus which stores its genetic information in single stranded RNA molecules. Upon infection of a host cell, RNA is used as a template by the virally encoded enzyme, reverse transcriptase, to synthesize DNA. The viral DNA is later transcribed into mRNA and translated into proteins. Some RNA viruses such as the influenza virus never go through a DNA step. The RNA genome is replicated by an RNA dependent RNA polymerase which is virally encoded.</para>
-<para id="fs-id1167067050004" class="ost-reading-discard">The content presented in this section supports the Learning Objectives outlined in Big Idea 1 and Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives merge Essential Knowledge content with one or more of the seven Science Practices. These Learning Objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> Exam questions.</para><table id="fs-id1167067174346" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Science Practice. Third right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Fourth left cell reads: Learning Objective. Fourth right cell reads: 1.15 The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167067050004" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 6.3 and 6.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+
+<table id="fs-id1167067174346" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Science Practice. Third right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Fourth left cell reads: Learning Objective. Fourth right cell reads: 1.15 The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
-<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>6.3 Transcription and RNA Processing</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.3.A Describe the mechanisms by which genetic information flows from DNA to RNA to protein.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.3.A.1 The sequence of the RNA bases, together with the structure of the RNA molecule, determines RNA function.<newline/>
+i. Messenger RNA (mRNA) molecules carry information from DNA in the nucleus to the ribosome in the cytoplasm.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.B Visual Representations-Explain relationships between characteristics of biological models in both theoretical and applied contexts.</entry>
+</row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>6.4 Translation</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.4.A Explain how the phenotype of an organism is determined by its genotype.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.4.A.3 Translation involves many sequential steps, including initiation, elongation, and termination. The salient features of translation include:<newline/>
+i. Translation is initiated when the rRNA in the ribosome interacts with the mRNA at the start codon (AUG, coding for the amino acid methionine).<newline/>
+ii. The sequence of nucleotides on the mRNA is read in triplets called codons.<newline/>
+iii. Each codon encodes a specific amino acid, which can be deduced by using a genetic code chart. Many amino acids are encoded by more than one codon.<newline/>
+iv. Nearly all living organisms use the same genetic code, which is evidence for the common ancestry of all living organisms.<newline/>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1</emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2</emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry>
-</row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch15-s01-aplo-1-15">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.15</emphasis></span>
-<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
-</row>
+Exclusion statement- The details and names of the enzymes and factors involved in each of these steps are beyond the scope of the AP<sup>®</sup> Exam.<newline/>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1</emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.5</emphasis></span>
-<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch15-s01-aplo-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
-<span class="ost-standards-description">The student is able to construct scientific explanations that use the structure and functions of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information.</span>
-</entry>
+Exclusion statement- Memorization of the genetic code, with the exception of the start codon AUG, is beyond the scope of the AP<sup>®</sup> Exam.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.D Visual Representations- Represent relationships within biological models, including mathematical models, diagrams, flowcharts, and systems.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
 </row>
 </tbody>
 
@@ -112,9 +102,8 @@
 <para id="fs-id1167067033897">Give students examples of codons and ask them to find the matching amino acid. Bring to their attention that typographical errors are a great source of mutations. They should proofread their sequences carefully.</para>
 </note>
 </note>
-<para id="fs-id1166851007220">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.4][APLO 3.25]</para><para id="fs-id2750556">The cellular process of transcription generates messenger RNA (mRNA), a mobile molecular copy of one or more genes with an alphabet of A, C, G, and uracil (U). Translation of the mRNA template converts nucleotide-based genetic information into a protein product. Protein sequences consist of 20 commonly occurring amino acids; therefore, it can be said that the protein alphabet consists of 20 letters (<link target-id="fig-ch15_01_01"/>). Each amino acid is defined by a three-nucleotide sequence called the triplet codon. Different amino acids have different chemistries (such as acidic versus basic, or polar and nonpolar) and different structural constraints. Variation in amino acid sequence gives rise to enormous variation in protein structure and function.</para>
-
+<para id="fs-id1166851007220">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam. 
+</para>
 <figure id="fig-ch15_01_01" class="ost-tag-lo-apbio-ch15-s01-lo01 ost-tag-lo-apbio-ch15-s01-aplo-3-1"><media id="fs-id1695436" alt="Structures of the twenty amino acids are given. Six amino acids; glycine, alanine, valine, leucine, methionine, and isoleucine; have R groups that are non-polar and aliphatic, meaning they do not have a ring. Six amino acids; serine, threonine, cysteine, proline, asparagine, and glutamate; have R groups that are polar but uncharged. Three amino acids; lysine, arginine, and histidine; have R groups that are positively charged. Two amino acids, glutamate and aspartate, have R groups that are negatively charged. Three amino acids; phenylalanine, tyrosine, and tryptophan; have nonpolar and aromatic (meaning they have a ring) R groups.">
 <image mime-type="image/jpg" src="../../media/Figure_03_04_02-aa00.jpg" width="500"/>
 </media>
@@ -127,13 +116,13 @@
    <m:mo>+</m:mo>
   </m:msubsup>
  </m:mrow>
-</m:math>), a carboxyl group (COO<sup>-</sup>), and a side chain (blue). The side chain may be nonpolar, polar, or charged, as well as large or small. It is the variety of amino acid side chains that gives rise to the incredible variation of protein structure and function.</caption></figure><section id="fs-id2013510" class="ost-tag-lo-apbio-ch15-s01-lo01 ost-tag-lo-apbio-ch15-s01-aplo-3-1 ost-get-exercise">
+</m:math>), a carboxyl group (COO<sup>-</sup>), and a side chain (blue). The side chain may be nonpolar, polar, or charged, as well as large or small. It is the variety of amino acid side chains that gives rise to the incredible variation of protein structure and function.</caption></figure><section id="fs-id2013510" class="ost-tag-lo-apbio-ch15-s01-lo01 ost-tag-lo-apbio-ch15-s01-aplo-3-1">
 <title>The Central Dogma: DNA Encodes RNA; RNA Encodes Protein</title>
 <para id="fs-id2155314">The flow of genetic information in cells from DNA to mRNA to protein is described by the <term id="term-00001">Central Dogma</term> (<link target-id="fig-ch15_01_02"/>), which states that genes specify the sequence of mRNAs, which in turn specify the sequence of proteins. The decoding of one molecule to another is performed by specific proteins and RNAs. Because the information stored in DNA is so central to cellular function, it makes intuitive sense that the cell would make mRNA copies of this information for protein synthesis, while keeping the DNA itself intact and protected. The copying of DNA to RNA is relatively straightforward, with one nucleotide being added to the mRNA strand for every nucleotide read in the DNA strand. The translation to protein is a bit more complex because three mRNA nucleotides correspond to one amino acid in the polypeptide sequence. However, the translation to protein is still systematic and <term id="term-00002">colinear</term>, such that nucleotides 1 to 3 correspond to amino acid 1, nucleotides 4 to 6 correspond to amino acid 2, and so on.</para>
 <figure id="fig-ch15_01_02" class="ost-tag-lo-apbio-ch15-s01-lo01 ost-tag-lo-apbio-ch15-s01-aplo-3-1"><media id="fs-id2681268" alt="To make a protein, genetic information encoded by the DNA must be transcribed onto an mRNA molecule. The RNA is then processed by splicing to remove exons and by the addition of a 5' cap and a poly-A tail. A ribosome then reads the sequence on the mRNA, and uses this information to string amino acids into a protein.">
 <image mime-type="image/jpg" src="../../media/Figure_15_02_02-abdd.jpg" width="280"/>
 </media>
-<caption>Instructions on DNA are transcribed onto messenger RNA. Ribosomes are able to read the genetic information inscribed on a strand of messenger RNA and use this information to string amino acids together into a protein.</caption></figure><section id="fs-id2000981" class="ost-tag-lo-apbio-ch15-s01-lo02 ost-tag-lo-apbio-ch15-s01-aplo-1-15 ost-get-exercise">
+<caption>Instructions on DNA are transcribed onto messenger RNA. Ribosomes are able to read the genetic information inscribed on a strand of messenger RNA and use this information to string amino acids together into a protein.</caption></figure><section id="fs-id2000981" class="ost-tag-lo-apbio-ch15-s01-lo02 ost-tag-lo-apbio-ch15-s01-aplo-1-15">
 <title>The Genetic Code Is Degenerate and Universal</title>
 <para id="fs-id1290387">Given the different numbers of “letters” in the mRNA and protein “alphabets,” scientists theorized that combinations of nucleotides corresponded to single amino acids. Nucleotide doublets would not be sufficient to specify every amino acid because there are only 16 possible two-nucleotide combinations (4<sup>2</sup>). In contrast, there are 64 possible nucleotide triplets (4<sup>3</sup>), which is far more than the number of amino acids. Scientists theorized that amino acids were encoded by nucleotide triplets and that the genetic code was <term id="term-00003">degenerate</term>. In other words, a given amino acid could be encoded by more than one nucleotide triplet. This was later confirmed experimentally; Francis Crick and Sydney Brenner used the chemical mutagen proflavin to insert one, two, or three nucleotides into the gene of a virus. When one or two nucleotides were inserted, protein synthesis was completely abolished. When three nucleotides were inserted, the protein was synthesized and functional. This demonstrated that three nucleotides specify each amino acid. These nucleotide triplets are called <term id="term-00004">codons</term>. The insertion of one or two nucleotides completely changed the triplet <term id="term-00005">reading frame</term>, thereby altering the message for every subsequent amino acid (<link target-id="fig-ch15_01_05"/>). Though insertion of three nucleotides caused an extra amino acid to be inserted during translation, the integrity of the rest of the protein was maintained.</para>
 <figure id="fig-ch15_01_05" class="ost-tag-lo-apbio-ch15-s01-lo02 ost-tag-lo-apbio-ch15-s01-aplo-3-1"><media id="fs-id2339630" alt="Illustration shows a frameshift mutation in which the reading frame is altered by the deletion of two amino acids.">

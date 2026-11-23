@@ -19,110 +19,129 @@
 </section>
 
 <section id="fs-id1167067150391" class="ap-connection"><title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167063774922">Eukaryotic cells possess many features that prokaryotic cells lack, including a nucleus with a double membrane that encloses DNA. In addition, eukaryotic cells tend to be larger and have a variety of membrane-bound organelles that perform specific, compartmentalized functions. Evidence supports the hypothesis that eukaryotic cells likely evolved from prokaryotic ancestors; for example, mitochondria and chloroplasts feature characteristics of independently-living prokaryotes. Eukaryotic cells come in all shapes, sizes, and types (e.g. animal cells, plant cells, and different types of cells in the body). (Hint: This a rare instance where you should create a list of organelles and their respective functions because later you will focus on how various organelles work together, similar to how your body’s organs work together to keep you healthy.) Like prokaryotes, all eukaryotic cells have a plasma membrane, cytoplasm, ribosomes, and DNA. Many organelles are bound by membranes composed of phospholipid bilayers embedded with proteins to compartmentalize functions such as the storage of hydrolytic enzymes and the synthesis of proteins. The nucleus houses DNA, and the nucleolus within the nucleus is the site of ribosome assembly. Functional ribosomes are found either free in the cytoplasm or attached to the rough endoplasmic reticulum where they perform protein synthesis. The Golgi apparatus receives, modifies, and packages small molecules like lipids and proteins for distribution. Mitochondria and chloroplasts participate in free energy capture and transfer through the processes of cellular respiration and photosynthesis, respectively. Peroxisomes oxidize fatty acids and amino acids, and they are equipped to break down hydrogen peroxide formed from these reactions without letting it into the cytoplasm where it can cause damage. Vesicles and vacuoles store substances, and in plant cells, the central vacuole stores pigments, salts, minerals, nutrients, proteins, and degradation enzymes and helps maintain rigidity. In contrast, animal cells have centrosomes and lysosomes but lack cell walls.</para>
-<para id="fs-id1167066845496" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 1, Big Idea 2, and Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167067114797" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 7.2 The student can connect concepts in and across domains to generalize or extrapolate in and/or across enduring understandings Third left cell reads: Learning Objective. Third right cell reads: 1.15 The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life and how these shared, conserved core processes and features support the concept of common ancestry for all organisms." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167066845496" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 2.1, 2.9, 2.10, and 7.7 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para><table id="fs-id1167067114797" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 7.2 The student can connect concepts in and across domains to generalize or extrapolate in and/or across enduring understandings Third left cell reads: Learning Objective. Third right cell reads: 1.15 The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life and how these shared, conserved core processes and features support the concept of common ancestry for all organisms." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
 <row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>4. Systems Interactions: Biological systems interact, and these systems and their interactions exhibit complex properties.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
-<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>2.1 Cell Structure and Function</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis>
 </entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1</emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2</emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domains to generalize or extrapolate in and/or across enduring understandings</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch04-s03-aplo-1-15">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>1.15</emphasis></span>
-<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
-</entry>
+<entry>2.1.A Explain how the structure and function of subcellular components and organelles contribute to the function of cells.</entry>
 </row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry>2.1.A.1 Ribosomes are comprised of ribosomal RNA (rRNA) and protein. These non-membrane subcellular structures are found in cells in all forms of life and reflect common ancestry in all known life. Ribosomes synthesize proteins according to messenger RNA (mRNA) sequences.
+</entry></row>
+
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry>2.1.A.5 Mitochondria have a double membrane that provides compartments for different metabolic reactions involved in aerobic cellular respiration. The outer membrane is smooth, while the inner membrane is highly convoluted, forming folds that enable ATP to be synthesized more efficiently.</entry></row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry>2.1.A.6 Lysosomes are membrane-enclosed sacs that contain hydrolytic enzymes that digest material. Lysosomes also play a role in programmed cell death (apoptosis).</entry>
+</row>
+
+<row><entry namest="col1"><emphasis>Essential Knowledge</emphasis>
+</entry><entry>2.1.A.7 Vacuoles are membrane-bound sacs that play many different roles.<newline/>
+i. In plant cells, a specialized large vacuole maintains turgor pressure through nutrient and water storage.<newline/>
+ii. In animal cells, vacuoles are smaller in size, are more plentiful than in plant cells, and store cellular materials.</entry></row>
+<row><entry namest="col1"><emphasis>Essential Knowledge</emphasis>
+</entry><entry>2.1.A.8 Chloroplasts are specialized organelles that are found in plants and photosynthetic algae. Chloroplasts contain a double membrane and serves as the location for photosynthesis.</entry></row>
+
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.A Concept Explanation-Describe biological concepts and processes.
+</entry></row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.A Argumentation-Make a scientific claim.</entry></row>
+
 
 <row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce and to maintain dynamic homeostasis.</entry>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.B</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and dynamic homeostasis require that cells create and maintain internal environments that are different from their external environments.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>2.9 Cell Compartmentalization</entry></row>
+<row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis>
 </entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.B.3</emphasis></span>
-<span class="ost-standards-description">Eukaryotic cells maintain internal membranes that partition the cell into specialized regions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch04-s03-aplo-2-13">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>2.13</emphasis></span>
-<span class="ost-standards-description">The student is able to explain how internal membranes and organelles contribute to cell functions.</span>
-</entry>
+<entry>2.9.A Describe the membrane-bound structures of the eukaryotic cell.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
 </entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.B.3</emphasis></span>
-<span class="ost-standards-description">Eukaryotic cells maintain internal membranes that partition the cell into specialized regions.</span>
+<entry>2.9.A.1 Membranes and membrane-bound organelles in eukaryotic cells compartmentalize intracellular metabolic processes and specific enzymatic reactions.
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4</emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch04-s03-aplo-2-14">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>2.9.B Explain how internal membranes and membrane-bound organelles contribute to compartmentalization of eukaryotic cell function.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
 </entry>
-<entry><span class="ost-standards-name"><emphasis>2.14</emphasis></span>
-<span class="ost-standards-description">The student is able to use representations and models to describe differences in prokaryotic and eukaryotic cells.</span>
+<entry>2.9.B.1 Internal membranes facilitate cellular processes by minimizing competing interactions and by increasing the surface area where reactions can occur.
+</entry></row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Argumentation- Predict the causes or effects of a change in, or disruption to, one or more components in a biological system.
 </entry>
 </row>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>2.10 Origins of Cell Compartmentalization</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry>2.10.A Describe similarities and/or differences in compartmentalization between prokaryotic and eukaryotic cells.
+</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry>2.10.A.1 Membrane-bound organelles such as mitochondria and chloroplasts evolved from once free-living prokaryotic cells via endosymbiosis.</entry></row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry>2.10.A.3 Eukaryotic cells maintain internal membranes that partition the cell into specialized regions.</entry></row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.B Augmentation-Support a claim with evidence from biological principles, concepts, processes, and data.
+</entry></row>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.7 Common Ancestry</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis>
+</entry>
+<entry>7.7.A Describe structural and functional evidence on cellular and molecular levels that provide evidence for the common ancestry of all eukaryotes.
+</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
+</entry>
+<entry>7.7.A.1 Structural and functional evidence indicates common ancestry of all eukaryotes. This evidence includes:
+ii. Linear chromosomes</entry></row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry></row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.2</emphasis></span>
-<span class="ost-standards-description">The structure and function of subcellular components, and their interactions, provide essential cellular processes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2</emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch04-s03-aplo-4-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>4.5</emphasis></span>
-<span class="ost-standards-description">The student is able to construct explanations based on scientific evidence as to how interactions of subcellular structures provide essential functions.</span>
-</entry>
-</row>
 </tbody>
-
-
-
 </tgroup>
 </table></section><note id="fs-id1167066766636" class="os-teacher">
 <label>Teacher Support</label>
@@ -133,8 +152,7 @@
 <para id="fs-id1167066880418">Emphasize that the diagrams in the textbook represent generalizations. Cells vary enormously in shapes and functions. Some internal structures may be predominant according to the type of cell. For instance, liver cells that detoxify chemicals and synthesize lipids have an extensive smooth endoplasmic reticulum.</para>
 </note>
 </note>
-<para id="fs-id1166847367867">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 1.15] [APLO 2.5][APLO 2.25][APLO 1.16]</para><para id="fs-id1617342">Have you ever heard the phrase “form follows function?” It’s a philosophy practiced in many industries. In architecture, this means that buildings should be constructed to support the activities that will be carried out inside them. For example, a skyscraper should be built with several elevator banks; a hospital should be built so that its emergency room is easily accessible.</para>
+<para id="fs-id1166847367867">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
 <para id="fs-id1969914">Our natural world also utilizes the principle of form following function, especially in cell biology, and this will become clear as we explore eukaryotic cells (<link target-id="fig-ch04-03-01"/>). Unlike prokaryotic cells, <term id="term-00001">eukaryotic cells</term>  have: 1) a membrane-bound nucleus; 2) numerous membrane-bound <term id="term-00002">organelles</term> such as the endoplasmic reticulum, Golgi apparatus, chloroplasts, mitochondria, and others; and 3) several, rod-shaped chromosomes. Because a eukaryotic cell’s nucleus is surrounded by a membrane, it is often said to have a “true nucleus.” The word “organelle” means “little organ,” and, as already mentioned, organelles have specialized cellular functions, just as the organs of your body have specialized functions.</para><para id="fs-id1442604">At this point, it should be clear to you that eukaryotic cells have a more complex structure than prokaryotic cells. Organelles allow different functions to be compartmentalized in different areas of the cell. Before turning to organelles, let’s first examine two important components of the cell: the plasma membrane and the cytoplasm.</para>
 <note id="fs-id1465526" class="visual-connection ost-assessed-feature"><label>Visual Connections</label>
 <para id="fs-id1340019">
@@ -159,7 +177,7 @@
 
 
 
-</note><section id="fs-id1245539" class="ost-tag-lo-apbio-ch04-s03-lo01 ost-tag-lo-apbio-ch04-s03-aplo-1-15 ost-get-exercise">
+</note><section id="fs-id1245539" class="ost-tag-lo-apbio-ch04-s03-lo01 ost-tag-lo-apbio-ch04-s03-aplo-1-15">
 <title>The Plasma Membrane</title>
 <para id="fs-id1919880">Like prokaryotes, eukaryotic cells have a <term id="term-00003">plasma membrane</term> (<link target-id="fig-ch04-03-02"/>), a phospholipid bilayer with embedded proteins that separates the internal contents of the cell from its surrounding environment. A phospholipid is a lipid molecule with two fatty acid chains and a phosphate-containing group. The plasma membrane controls the passage of organic molecules, ions, water, and oxygen into and out of the cell. Wastes (such as carbon dioxide and ammonia) also leave the cell by passing through the plasma membrane.</para>
 <figure id="fig-ch04-03-02" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-1-15"><media id="fs-id1521602" alt="The plasma membrane is composed of a phospholipid bilayer. In the bilayer, the two long hydrophobic tails of phospholipids face toward the center, and the hydrophilic head group faces the exterior. Integral membrane proteins and protein channels span the entire bilayer. Protein channels have a pore in the middle. Peripheral membrane proteins sit on the surface of the phospholipids, and are associated with the phospholipid head groups. On the exterior side of the membrane, carbohydrates are attached to certain proteins and lipids. Filaments of the cytoskeleton line the interior of the membrane.">
@@ -172,29 +190,29 @@
 <image mime-type="image/jpg" src="../../media/Figure_04_03_03a.jpg"/>
 </media>
 <caption>Microvilli, shown here as they appear on cells lining the small intestine, increase the surface area available for absorption. These microvilli are only found on the area of the plasma membrane that faces the cavity from which substances will be absorbed. (credit "micrograph": modification of work by Louisa Howard)</caption></figure></section>
-<section id="fs-id1649808" class="ost-tag-lo-apbio-ch04-s03-lo01 ost-tag-lo-apbio-ch04-s03-aplo-1-15 ost-get-exercise">
+<section id="fs-id1649808" class="ost-tag-lo-apbio-ch04-s03-lo01 ost-tag-lo-apbio-ch04-s03-aplo-1-15">
 <title>The Cytoplasm</title>
 <para id="fs-id1232052">The <term id="term-00004">cytoplasm</term> is the entire region of a cell between the plasma membrane and the nuclear envelope (a structure to be discussed shortly). It is made up of organelles suspended in the gel-like <term id="term-00005">cytosol</term>, the cytoskeleton, and various chemicals (<link target-id="fig-ch04-03-01"/>). Even though the cytoplasm consists of 70 to 80 percent water, it has a semi-solid consistency, which comes from the proteins within it. However, proteins are not the only organic molecules found in the cytoplasm. Glucose and other simple sugars, polysaccharides, amino acids, nucleic acids, fatty acids, and derivatives of glycerol are found there, too. Ions of sodium, potassium, calcium, and many other elements are also dissolved in the cytoplasm. Many metabolic reactions, including protein synthesis, take place in the cytoplasm.</para></section>
-<section id="fs-id1679856" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-4-5 ost-get-exercise">
+<section id="fs-id1679856" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-4-5">
 <title>The Nucleus</title>
 <para id="fs-id1782954">Typically, the nucleus is the most prominent organelle in a cell (<link target-id="fig-ch04-03-01"/>). The <term id="term-00006">nucleus</term> (plural = nuclei) houses the cell’s DNA and directs the synthesis of ribosomes and proteins. Let’s look at it in more detail (<link target-id="fig-ch04-03-04"/>).</para><figure id="fig-ch04-03-04" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-2-13"><media id="fs-id2036674" alt="The nucleus is surrounded by diffuse structures called the endoplasmic reticulum. These are littered with round structures throughout. The outer covering of the nucleus is the nuclear envelope, which has nuclear pores. The nucleus is filled with nucleoplasm, in which is embedded the dark, circular nucleolus and spaghetti-like strands of chromatin.">
 <image mime-type="image/jpg" src="../../media/Figure_04_03_04.jpg" width="350"/>
 </media>
 
-<caption>The nucleus stores chromatin (DNA plus proteins) in a gel-like substance called the nucleoplasm. The nucleolus is a condensed region of chromatin where ribosome synthesis occurs. The boundary of the nucleus is called the nuclear envelope. It consists of two phospholipid bilayers: an outer membrane and an inner membrane. The nuclear membrane is continuous with the endoplasmic reticulum. Nuclear pores allow substances to enter and exit the nucleus.</caption></figure><section id="fs-id1726147" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-2-13 ost-get-exercise">
+<caption>The nucleus stores chromatin (DNA plus proteins) in a gel-like substance called the nucleoplasm. The nucleolus is a condensed region of chromatin where ribosome synthesis occurs. The boundary of the nucleus is called the nuclear envelope. It consists of two phospholipid bilayers: an outer membrane and an inner membrane. The nuclear membrane is continuous with the endoplasmic reticulum. Nuclear pores allow substances to enter and exit the nucleus.</caption></figure><section id="fs-id1726147" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-2-13">
     <title>The Nuclear Envelope</title>
     <para id="fs-id1251050">The <term id="term-00007">nuclear envelope</term> is a double-membrane structure that constitutes the outermost portion of the nucleus (<link target-id="fig-ch04-03-04"/>). Both the inner and outer membranes of the nuclear envelope are phospholipid bilayers.</para><para id="fs-id1411405">The nuclear envelope is punctuated with pores that control the passage of ions, molecules, and RNA between the nucleoplasm and cytoplasm. The <term id="term-00008">nucleoplasm</term> is the semi-solid fluid inside the nucleus, where we find the chromatin and the nucleolus.</para>
 </section>
-<section id="fs-id1690023" class="ost-get-exercise"><title>Chromatin and Chromosomes</title><para id="fs-id2076291">To understand chromatin, it is helpful to first consider chromosomes. <term id="term-00009">Chromosomes</term> are structures within the nucleus that are made up of DNA, the hereditary material. You may remember that in prokaryotes, DNA is organized into a single circular chromosome. In eukaryotes, chromosomes are linear structures. Every eukaryotic species has a specific number of chromosomes in the nucleus of each cell. For example, in humans, the chromosome number is 46, while in fruit flies, it is eight.
+<section id="fs-id1690023" class=""><title>Chromatin and Chromosomes</title><para id="fs-id2076291">To understand chromatin, it is helpful to first consider chromosomes. <term id="term-00009">Chromosomes</term> are structures within the nucleus that are made up of DNA, the hereditary material. You may remember that in prokaryotes, DNA is organized into a single circular chromosome. In eukaryotes, chromosomes are linear structures. Every eukaryotic species has a specific number of chromosomes in the nucleus of each cell. For example, in humans, the chromosome number is 46, while in fruit flies, it is eight.
 Chromosomes are only visible and distinguishable from one another when the cell is getting ready to divide. When the cell is in the growth and maintenance phases of its life cycle, proteins are attached to chromosomes, and they resemble an unwound, jumbled bunch of threads. These unwound protein-chromosome complexes are called <term id="term-00010">chromatin</term> (<link target-id="fig-ch04-03-05"/>); chromatin describes the material that makes up the chromosomes both when condensed and decondensed.</para><figure id="fig-ch04-03-05" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-4-5"><media id="fig-ch04-03-05a" alt="Part a: In this illustration, DNA tightly coiled into two thick cylinders is shown in the upper right. A close-up shows how the DNA is coiled around proteins called histones. Part b: This image shows paired chromosomes.">
         <image mime-type="image/jpg" src="../../media/Figure_04_03_05.jpg" width="430"/>
     </media>
-<caption>(a) This image shows various levels of the organization of chromatin (DNA and protein). (b) This image shows paired chromosomes. (credit b: modification of work by NIH; scale-bar data from Matt Russell)</caption></figure></section><section id="fs-id1743373" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-4-5 ost-get-exercise">
+<caption>(a) This image shows various levels of the organization of chromatin (DNA and protein). (b) This image shows paired chromosomes. (credit b: modification of work by NIH; scale-bar data from Matt Russell)</caption></figure></section><section id="fs-id1743373" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-4-5">
         <title>The Nucleolus</title>
         <para id="fs-id1758285">We already know that the nucleus directs the synthesis of ribosomes, but how does it do this? Some chromosomes have sections of DNA that encode ribosomal RNA. A darkly staining area within the nucleus called the <term id="term-00011">nucleolus</term> (plural = nucleoli) aggregates the ribosomal RNA with associated proteins to assemble the ribosomal subunits that are then transported out through the pores in the nuclear envelope to the cytoplasm.</para>
     </section>
 </section>
-<section id="fs-id1651961" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-4-5 ost-get-exercise">
+<section id="fs-id1651961" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-4-5">
 <title>Ribosomes</title>
 <para id="fs-id1462998"><term id="term-00012">Ribosomes</term> are the cellular structures responsible for protein synthesis. When viewed through an electron microscope, ribosomes appear either as clusters (polyribosomes) or single, tiny dots that float freely in the cytoplasm. They may be attached to the cytoplasmic side of the plasma membrane or the cytoplasmic side of the endoplasmic reticulum and the outer membrane of the nuclear envelope (<link target-id="fig-ch04-03-01"/>).
 Electron microscopy has shown us that ribosomes, which are large complexes of protein and RNA, consist of two subunits, aptly called large and small (<link target-id="fig-ch04-03-06"/>). Ribosomes receive their “orders” for protein synthesis from the nucleus where the DNA is transcribed into messenger RNA (mRNA). The mRNA travels to the ribosomes, which translate the code provided by the sequence of the nitrogenous bases in the mRNA into a specific order of amino acids in a protein. Amino acids are the building blocks of proteins.</para><figure id="fig-ch04-03-06" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-1-15"><media id="fs-id1994591" alt="The ribosome consists of a small subunit and a large subunit, which is about three times as big as the small one. The large subunit sits on top of the small one. A chain of mRNA threads between the large and small subunits. A protein chain extends from the top of the large subunit.">
@@ -202,7 +220,7 @@ Electron microscopy has shown us that ribosomes, which are large complexes of pr
 </media>
 
 <caption>Ribosomes are made up of a large subunit (top) and a small subunit (bottom). During protein synthesis, ribosomes assemble amino acids into proteins.</caption></figure><para id="fs-id1967230">Because protein synthesis is an essential function of all cells (including enzymes, hormones, antibodies, pigments, structural components, and surface receptors), ribosomes are found in practically every cell. Ribosomes are particularly abundant in cells that synthesize large amounts of protein. For example, the pancreas is responsible for creating several digestive enzymes and the cells that produce these enzymes contain many ribosomes. Thus, we see another example of form following function.</para></section>
-<section id="fs-id1811942" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-2-13 ost-get-exercise">
+<section id="fs-id1811942" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-2-13">
 <title>Mitochondria</title>
 <para id="fs-id878129"><term id="term-00013">Mitochondria</term> (singular = mitochondrion) are often called the “powerhouses” or “energy factories” of both plant and animal cells because they are responsible for making adenosine triphosphate (ATP), the cell’s main energy-carrying molecule. ATP represents the short-term stored energy of the cell. Cellular respiration is the process of making ATP using the chemical energy found in glucose and other nutrients. In mitochondria, this process uses oxygen and produces carbon dioxide as a waste product. In fact, the carbon dioxide that you exhale with every breath comes from the cellular reactions that produce carbon dioxide as a byproduct.</para><para id="fs-id1792037">In keeping with our theme of form following function, it is important to point out that muscle cells have a very high concentration of mitochondria that produce ATP. Your muscle cells need a lot of energy to keep your body moving. When your cells don’t get enough oxygen, they do not make a lot of ATP. Instead, the small amount of ATP they make in the absence of oxygen is accompanied by the production of lactic acid.</para>
 <para id="fs-id1797274">Mitochondria are oval-shaped, double membrane organelles (<link target-id="fig-ch04-03-07"/>) that have their own ribosomes and DNA. Each membrane is a phospholipid bilayer embedded with proteins. The inner layer has folds called cristae. The area surrounded by the folds is called the mitochondrial matrix. The cristae and the matrix have different roles in cellular respiration.</para><figure id="fig-ch04-03-07" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-2-13"><media id="fs-id1684944" alt="This transmission electron micrograph of a mitochondrion shows an oval outer membrane and an inner membrane with many folds called cristae. Inside the inner membrane is a space called the mitochondrial matrix.">
@@ -210,17 +228,17 @@ Electron microscopy has shown us that ribosomes, which are large complexes of pr
 </media>
 
 <caption>This electron micrograph shows a mitochondrion as viewed with a transmission electron microscope. This organelle has an outer membrane and an inner membrane. The inner membrane contains folds, called cristae, which increase its surface area. The space between the two membranes is called the intermembrane space, and the space inside the inner membrane is called the mitochondrial matrix. ATP synthesis takes place on the inner membrane. (credit: modification of work by Matthew Britton; scale-bar data from Matt Russell)</caption></figure></section>
-<section id="fs-id1667870" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-2-13 ost-get-exercise">
+<section id="fs-id1667870" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-2-13">
 <title>Peroxisomes</title>
 <para id="fs-id1775312"><term id="term-00014">Peroxisomes</term> are small, round organelles enclosed by single membranes. They carry out oxidation reactions that break down fatty acids and amino acids. They also detoxify many poisons that may enter the body. (Many of these oxidation reactions release hydrogen peroxide, H<sub>2</sub>O<sub>2</sub>, which would be damaging to cells; however, when these reactions are confined to peroxisomes, enzymes safely break down the H<sub>2</sub>O<sub>2</sub> into oxygen and water.) Glyoxysomes, which are specialized peroxisomes in plants, are responsible for converting stored fats into sugars.</para>
 </section>
-<section id="fs-id878328" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-2-13 ost-get-exercise">
+<section id="fs-id878328" class="ost-tag-lo-apbio-ch04-s03-lo03 ost-tag-lo-apbio-ch04-s03-aplo-2-13">
 <title>Vesicles and Vacuoles</title>
 <para id="fs-id1161247"><term id="term-00015">Vesicles</term> and <term id="term-00016">vacuoles</term> are membrane-bound sacs that function in storage and transport. Other than the fact that vacuoles are somewhat larger than vesicles, there is a very subtle distinction between them: The membranes of vesicles can fuse with either the plasma membrane or other membrane systems within the cell. Additionally, some agents such as enzymes within plant vacuoles break down macromolecules. The membrane of a vacuole does not fuse with the membranes of other cellular components.</para>
 </section>
-<section id="fs-id1930326" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13 ost-get-exercise">
+<section id="fs-id1930326" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13">
 <title>Animal Cells versus Plant Cells</title>
-<para id="fs-id1677210">At this point, you know that each eukaryotic cell has a plasma membrane, cytoplasm, a nucleus, ribosomes, mitochondria, peroxisomes, and in some, vacuoles, but there are some striking differences between animal and plant cells. While both animal and plant cells have microtubule organizing centers (MTOCs), animal cells also have centrioles associated with the MTOC: a complex called the centrosome. Animal cells each have a centrosome and lysosomes, whereas most plant cells do not. Plant cells have a cell wall, chloroplasts and other specialized plastids, and a large central vacuole, whereas animal cells do not.</para><section id="fs-id1823291" class="ost-get-exercise">
+<para id="fs-id1677210">At this point, you know that each eukaryotic cell has a plasma membrane, cytoplasm, a nucleus, ribosomes, mitochondria, peroxisomes, and in some, vacuoles, but there are some striking differences between animal and plant cells. While both animal and plant cells have microtubule organizing centers (MTOCs), animal cells also have centrioles associated with the MTOC: a complex called the centrosome. Animal cells each have a centrosome and lysosomes, whereas most plant cells do not. Plant cells have a cell wall, chloroplasts and other specialized plastids, and a large central vacuole, whereas animal cells do not.</para><section id="fs-id1823291" class="">
 <title>The Centrosome</title>
 <para id="fs-id1686529">The <term id="term-00017">centrosome</term> is a microtubule-organizing center found near the nuclei of animal cells. It contains a pair of centrioles, two structures that lie perpendicular to each other (<link target-id="fig-ch04-03-08"/>). Each centriole is a cylinder of nine triplets of microtubules.</para><figure id="fig-ch04-03-08" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13"><media id="fs-id1954542" alt="Each centriole resembles a piece of rigatoni pasta in appearance. They are oriented one on top of the other, but are perpendicular to each other. They are cylindrical but their walls are made up of triplets of smaller microtubules.">
     <image mime-type="image/jpg" src="../../media/Figure_04_03_08.jpg" width="350"/>
@@ -228,10 +246,10 @@ Electron microscopy has shown us that ribosomes, which are large complexes of pr
 
     <caption>The centrosome consists of two centrioles that lie at right angles to each other. Each centriole is a cylinder made up of nine triplets of microtubules. Nontubulin proteins (indicated by the green lines) hold the microtubule triplets together.</caption></figure><para id="fs-id1388036">The centrosome (the organelle where all microtubules originate) replicates itself before a cell divides, and the centrioles appear to have some role in pulling the duplicated chromosomes to opposite ends of the dividing cell. However, the exact function of the centrioles in cell division isn’t clear, because cells that have had the centrosome removed can still divide, and plant cells, which lack centrosomes, are capable of cell division.</para>
 </section>
-<section id="fs-id1722635" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13 ost-get-exercise">
+<section id="fs-id1722635" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13">
 <title>Lysosomes</title>
 <para id="fs-id1689141">Animal cells have another set of organelles not found in most plant cells: lysosomes. The <term id="term-00018">lysosomes</term> are the cell’s “garbage disposal.” In plant cells, the digestive processes take place in vacuoles. Enzymes within the lysosomes aid the breakdown of proteins, polysaccharides, lipids, nucleic acids, and even worn-out organelles. These enzymes are active at a much lower pH than that of the cytoplasm. Therefore, the pH within lysosomes is more acidic than the pH of the cytoplasm. Many reactions that take place in the cytoplasm could not occur at a low pH, so again, the advantage of compartmentalizing the eukaryotic cell into organelles is apparent.</para></section>
-<section id="fs-id1721911" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13 ost-get-exercise">
+<section id="fs-id1721911" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13">
 <title>The Cell Wall</title>
 <para id="fs-id1734921">If you examine  <link target-id="fig-ch04-03-01"/><emphasis effect="bold">b</emphasis>, the diagram of a plant cell, you will see a structure external to the plasma membrane called the cell wall. The <term id="term-00019">cell wall</term> is a rigid covering that protects the cell, provides structural support, and gives shape to the cell. Fungal and protistan cells also have cell walls.
     While the chief component of prokaryotic cell walls is peptidoglycan, the major organic molecule in the plant cell wall is cellulose (<link target-id="fig-ch04-03-09"/>), a polysaccharide made up of glucose units. Have you ever noticed that when you bite into a raw vegetable, like celery, it crunches? That’s because you are tearing the rigid cell walls of the celery cells with your teeth.</para><figure id="fig-ch04-03-09" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13"><media id="fs-id2096808" alt="This illustration shows five glucose subunits that are attached together. Dashed lines at each end indicate that many more subunits make up an entire cellulose fiber. Each glucose subunit is a closed ring composed of carbon, hydrogen, and oxygen atoms.">
@@ -239,7 +257,7 @@ Electron microscopy has shown us that ribosomes, which are large complexes of pr
     </media>
 
         <caption>Cellulose is a long chain of β-glucose molecules connected by a 1-4 linkage. The dashed lines at each end of the figure indicate a series of many more glucose units. The size of the page makes it impossible to portray an entire cellulose molecule.</caption></figure></section>
-<section id="fs-id1721347" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13 ost-get-exercise">
+<section id="fs-id1721347" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13">
 <title>Chloroplasts</title>
 <para id="fs-id1746196">Like the mitochondria, chloroplasts have their own DNA and ribosomes, but chloroplasts have an entirely different function. <term id="term-00020">Chloroplasts</term> are plant cell organelles that carry out photosynthesis. Photosynthesis is the series of reactions that use carbon dioxide, water, and light energy to make glucose and oxygen. This is a major difference between plants and animals; plants (autotrophs) are able to make their own food, like sugars used in cellular respiration to provide ATP energy generated in the plant mitochondria. Animals (heterotrophs) must ingest their food.</para><para id="fs-id1994402">Like mitochondria, chloroplasts have outer and inner membranes, but within the space enclosed by a chloroplast’s inner membrane is a set of interconnected and stacked fluid-filled membrane sacs called thylakoids (<link target-id="fig-ch04-03-10"/>). Each stack of thylakoids is called a granum (plural = grana). The fluid enclosed by the inner membrane that surrounds the grana is called the stroma.</para><figure id="fig-ch04-03-10" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13"><media id="fs-id1956150" alt="This illustration shows a chloroplast, which has an outer membrane and an inner membrane. The space between the outer and inner membranes is called the intermembrane space. Inside the inner membrane are flat, pancake-like structures called thylakoids. The thylakoids form stacks called grana. The liquid inside the inner membrane is called the stroma, and the space inside the thylakoids is called the thylakoid space.">
     <image mime-type="image/jpg" src="../../media/Figure_04_03_10-4ec9.jpg" width="350"/>
@@ -258,7 +276,7 @@ Electron microscopy has shown us that ribosomes, which are large complexes of pr
 </exercise>
 </note></section>
 
-<section id="fs-id1968242" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13 ost-get-exercise">
+<section id="fs-id1968242" class="ost-tag-lo-apbio-ch04-s03-lo02 ost-tag-lo-apbio-ch04-s03-aplo-2-13">
 <title>The Central Vacuole</title>
 <para id="fs-id1293830">Previously, we mentioned vacuoles as essential components of plant cells. If you look at  <link target-id="fig-ch04-03-01"/><emphasis effect="bold">b</emphasis>, you will see that plant cells each have a large central vacuole that occupies most of the cell's volume. The <term id="term-00022">central vacuole</term> plays a key role in regulating the cell’s concentration of water in changing environmental conditions. Have you ever noticed that if you forget to water a plant for a few days, it wilts? That’s because as the water concentration in the soil becomes lower than the water concentration in the plant, water moves out of the central vacuoles and cytoplasm. As the central vacuole shrinks, it leaves the cell wall unsupported. This loss of support to the cell walls of plant cells results in the wilted appearance of the plant.</para><para id="fs-id1614743">The central vacuole also supports the expansion of the cell. When the central vacuole holds more water, the cell gets larger without having to invest a lot of energy in synthesizing new cytoplasm.</para>
 </section>

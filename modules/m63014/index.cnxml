@@ -25,88 +25,88 @@
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
 <row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.C</emphasis></entry>
-<entry class="ost-standards-description">Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c"><entry><emphasis>Topic2.C</emphasis></entry>
+<entry>Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis.</entry></row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
 </entry>
-<entry><span class="ost-standards-name">
+<entry><span>
 <emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
+<span>Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry><span><emphasis>7.2 </emphasis></span>
+<span>The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch34-s04-aplo-2-16">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.16 </emphasis></span>
-<span class="ost-standards-description">The student is able to connect how organisms use negative feedback to maintain their internal environments.</span>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry><span><emphasis>2.16 </emphasis></span>
+<span>The student is able to connect how organisms use negative feedback to maintain their internal environments.</span>
 </entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
 </entry>
-<entry><span class="ost-standards-name">
+<entry><span>
 <emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
+<span>Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry><span><emphasis>5.3 </emphasis></span>
+<span>The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch34-s04-aplo-2-17">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.17 </emphasis></span>
-<span class="ost-standards-description">The student is able to evaluate data that show the effect(s) of changes in concentration of key molecules on negative feedback mechanisms.</span>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry><span><emphasis>2.17 </emphasis></span>
+<span>The student is able to evaluate data that show the effect(s) of changes in concentration of key molecules on negative feedback mechanisms.</span>
 </entry>
 </row>
 <row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.D</emphasis></entry>
-<entry class="ost-standards-description">Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Living systems store, retrieve, transmit and respond to information essential to life processes.</entry></row>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry><emphasis>Topic3.D</emphasis></entry>
+<entry>Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
 </entry>
-<entry><span class="ost-standards-name">
+<entry><span>
 <emphasis>3.D.2 </emphasis></span>
-<span class="ost-standards-description">Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling.</span>
+<span>Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry><span><emphasis>6.2 </emphasis></span>
+<span>The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch34-s04-aplo-3-34">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.34 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct explanations of cell communication through cell-to-cell direct contact or through chemical signaling.</span>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry><span><emphasis>3.34 </emphasis></span>
+<span>The student is able to construct explanations of cell communication through cell-to-cell direct contact or through chemical signaling.</span>
 </entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis>
 </entry>
-<entry><span class="ost-standards-name">
+<entry><span>
 <emphasis>3.D.2 </emphasis></span>
-<span class="ost-standards-description">Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling.</span>
+<span>Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry><span><emphasis>1.1 </emphasis></span>
+<span>The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch34-s04-aplo-3-35">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.35 </emphasis></span>
-<span class="ost-standards-description">The student is able to create representation(s) that depict how cell-to-cell communication occurs by direct contact or from a distance through chemical signaling.</span>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry><span><emphasis>3.35 </emphasis></span>
+<span>The student is able to create representation(s) that depict how cell-to-cell communication occurs by direct contact or from a distance through chemical signaling.</span>
 </entry>
 </row>
 </tbody>
@@ -116,7 +116,7 @@
 
 </tgroup>
 </table></section>
-<section id="fs-idp121831536" class="ost-tag-lo-apbio-ch34-s04-lo01 ost-tag-lo-apbio-ch34-s04-aplo-2-31 ost-tag-lo-apbio-ch34-s04-aplo-2-32 ost-get-exercise">
+<section id="fs-idp121831536" class="ost-tag-lo-apbio-ch34-s04-lo01 ost-tag-lo-apbio-ch34-s04-aplo-2-31 ost-tag-lo-apbio-ch34-s04-aplo-2-32">
 <title>Male Hormones</title>
 <para id="fs-idp77886272">At the onset of puberty, the hypothalamus causes the release of <emphasis>follicle stimulating hormone (FSH)</emphasis> and <emphasis>luteinizing hormone (LH)</emphasis> into the male system for the first time. FSH enters the testes and stimulates the <emphasis>Sertoli cells</emphasis> to begin facilitating spermatogenesis using negative feedback, as illustrated in <link target-id="fig-ch43_04_01"/>. LH also enters the testes and stimulates the <emphasis>interstitial cells of Leydig</emphasis> to make and release testosterone into the testes and the blood.</para>
 <para id="fs-idm108547280"><emphasis>Testosterone</emphasis>, the hormone responsible for the secondary sexual characteristics that develop in the male during adolescence, stimulates spermatogenesis. These secondary sex characteristics include a deepening of the voice, the growth of facial, axillary, and pubic hair, and the beginnings of the sex drive.</para>
@@ -125,7 +125,7 @@
 </media>
 <caption>Hormones control sperm production in a negative feedback system.</caption></figure><para id="fs-idm49834240">A negative feedback system occurs in the male with rising levels of testosterone acting on the hypothalamus and anterior pituitary to inhibit the release of <emphasis>gonadotropin-releasing hormone (GnRH)</emphasis> , FSH, and LH. The Sertoli cells produce the hormone <emphasis>inhibin</emphasis>, which is released into the blood when the sperm count is too high. This inhibits the release of GnRH and FSH, which will cause spermatogenesis to slow down. If the sperm count reaches 20 million/ml, the Sertoli cells cease the release of inhibin, and the sperm count increases.</para>
 </section>
-<section id="fs-idm47116928" class="ost-tag-lo-apbio-ch34-s04-lo01 ost-tag-lo-apbio-ch34-s04-aplo-2-31 ost-tag-lo-apbio-ch34-s04-aplo-2-32 ost-get-exercise">
+<section id="fs-idm47116928" class="ost-tag-lo-apbio-ch34-s04-lo01 ost-tag-lo-apbio-ch34-s04-aplo-2-31 ost-tag-lo-apbio-ch34-s04-aplo-2-32">
 <title>Female Hormones</title>
 <para id="fs-idp93525568">The control of reproduction in females is more complex. As with the male, the anterior pituitary hormones cause the release of the hormones FSH and LH. In addition, estrogens and progesterone are released from the developing follicles. <emphasis>Estradiol</emphasis> is the reproductive hormone in females that assists in endometrial regrowth, ovulation, and calcium absorption; it is also responsible for the secondary sexual characteristics of females. These include breast development, flaring of the hips, and a shorter period necessary for bone maturation. <emphasis>Progesterone</emphasis> assists in endometrial re-growth and inhibition of FSH and LH release.</para>
 <para id="fs-idm47697408">In females, FSH stimulates development of egg cells, called ova, which develop in structures called follicles. Follicle cells produce the hormone inhibin, which inhibits FSH production. LH also plays a role in the development of ova, induction of ovulation, and stimulation of estradiol, the most potent and prevalent form of <term id="term-00001">estrogen</term>, and progesterone production by the ovaries. Estradiol and progesterone are steroid hormones that prepare the body for pregnancy. Estradiol produces secondary sex characteristics in females, while both estradiol and progesterone regulate the menstrual cycle.</para>
@@ -155,7 +155,7 @@
 </exercise>
 <!--<para><link target-id="fig-ch43_04_02"/>C</para>-->
 </note><para id="fs-idp22451904">Just prior to the middle of the cycle (approximately day 14), the high level of estrogen causes FSH and especially LH to rise rapidly, then fall. The spike in LH causes <emphasis>ovulation</emphasis>: the most mature follicle, like that shown in <link target-id="fig-ch43_04_03"/>, ruptures and releases its egg. The follicles that did not rupture degenerate and their eggs are lost. The level of estrogen decreases when the extra follicles degenerate.</para>
-<figure id="fig-ch43_04_03" class="ost-tag-lo-apbio-ch34-s04-lo01"><media id="fs-idm11084592" alt="Micrograph shows a spherical egg growing on the surface of a tissue.">
+<figure id="fig-ch43_04_03"><media id="fs-idm11084592" alt="Micrograph shows a spherical egg growing on the surface of a tissue.">
 <image mime-type="image/jpg" src="../../media/Figure_43_04_03.jpg" width="235"/>
 </media>
 <caption>This mature egg follicle may rupture and release an egg. (credit: scale-bar data from Matt Russell)</caption></figure><para id="fs-idm95096192">Following ovulation, the ovarian cycle enters its luteal phase, illustrated in <link target-id="CNX_AP_Bio_43_04_02"/> and the menstrual cycle enters its secretory phase, both of which run from about day 15 to 28. The luteal and secretory phases refer to changes in the ruptured follicle. The cells in the follicle undergo physical changes and produce a structure called a corpus luteum. The corpus luteum produces estrogen and progesterone. The progesterone facilitates the regrowth of the uterine lining and inhibits the release of further FSH and LH. The uterus is being prepared to accept a fertilized egg, should it occur during this cycle. The inhibition of FSH and LH prevents any further eggs and follicles from developing, while the progesterone is elevated. The level of estrogen produced by the corpus luteum increases to a steady level for the next few days.</para>

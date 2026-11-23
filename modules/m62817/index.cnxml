@@ -21,141 +21,81 @@
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167064904456">The characteristics that Mendel evaluated in his pea plants were each expressed as one of two versions, or traits (e.g., green peas versus yellow peas). As we will explore in more detail in later chapters, the physical expression of characteristics is accomplished through the expression of genes (sequences of DNA), carried on chromosomes. The genetic makeup of peas consists of two similar, or homologous (remember this term from Chapter 11), copies of each chromosome, one from each parent. Through meiosis, diploid organisms utilize meiosis to produce haploid (1<emphasis effect="italics">n</emphasis>) gametes that participate in fertilization. For cases in which a single gene controls a single characteristic, such as pea color, a diploid organism has genetic copies that may or may not encode the same version of the characteristic. These gene variations (e.g., green peas versus yellow peas) are called alleles.</para>
 <para id="fs-id1167065759213">Different alleles for a given gene in a diploid organism interact to express physical characteristics such as pea color in plants or hairline appearance in humans. The observable traits of an organism are referred to as its phenotype. The organism’s underlying genetic makeup, i.e., the combination of alleles, is called its genotype. When diploid organisms carry the same alleles for a given trait, they are said to be homozygous for the genotype; when they carry different alleles, they are said to be heterozygous. For a gene whose expression is Mendelian (Section 12.1), homozygous dominant and heterozygous organisms will look identical; that is, they will have different genotypes but the same phenotype. The traits of the recessive allele will only be observed in homozygous recessive individuals.</para><para id="fs-id1167065844090">However, alleles do not always behave in dominant and recessive patterns. In other words, there are exceptions to Mendel’s model of inheritance. For example, incomplete dominance describes situation in which the heterozygote exhibits a phenotype that is intermediate between the homozygous phenotypes (e.g., a pink-flowered offspring is produced from a cross between a red-flowered parent and a white-flowered parent). Codominance describes the simultaneous expression of both of the alleles in the heterozygote (e.g., human blood types). It is also common for more than two alleles of a gene to exist in a population (e.g., variations in sizes of pumpkins). In humans, as in many animals and some plants, females have two X chromosomes, and males have one X chromosome and one Y chromosome. Genes on the X chromosome are X-linked, and males inherit and express only one allele for the gene (e.g., hemophilia, color-blindness). Some alleles can also be lethal, so their phenotype will never be observed.</para>
 <para id="fs-id1167065937438">Many human genetic disorders, including albinism, cystic fibrosis, and Huntington’s disease can be explained on the basis of simple Mendelian inheritance patterns created by pedigree analysis. (In later Chapters we will learn how DNA analysis can be used to diagnose genetic disorders). Punnett squares are useful tools that apply the rules of probability and meiosis to predict the possible outcomes of genetic crosses. Test crosses are done to determine whether or not an individual is homozygous or heterozygous by crossing the individual with a homozygous recessive.</para>
-<para id="fs-id1167066033269" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The learning objectives (LO) listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices (SP).</para><table id="fs-id1167066058270" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.3 The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring. Second left cell reads: Science Practice. Second right cell reads: 1.1 The student can create representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Science Practice. Third right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Fourth left cell reads: Learning Objective. Fourth right cell reads: 3.12 The student is able to construct a representation (e.g., Punnett square) that connects the process of meiosis to the passage of traits from parent to offspring." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167066033269" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 5.3 and 5.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+<table id="fs-id1167066058270" summary="Table with two columns and four rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.3 The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring. Second left cell reads: Science Practice. Second right cell reads: 1.1 The student can create representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Science Practice. Third right cell reads: 7.2 The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas. Fourth left cell reads: Learning Objective. Fourth right cell reads: 3.12 The student is able to construct a representation (e.g., Punnett square) that connects the process of meiosis to the passage of traits from parent to offspring." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.3</emphasis></span>
-<span class="ost-standards-description">The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1</emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2</emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-s02-aplo-3-12">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.12</emphasis></span>
-<span class="ost-standards-description">The student is able to construct a representation (e.g., Punnett square) that connects the process of meiosis to the passage of traits from parent to offspring.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.3</emphasis></span>
-<span class="ost-standards-description">The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-s02-aplo-3-13">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.13</emphasis></span>
-<span class="ost-standards-description">The student is able to pose questions about ethical, social or medical issues surrounding human genetic disorders.</span>
-</entry>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>5.3 Mendelian Genetics</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.3.A Explain the inheritance of genes and traits as described by Mendel’s laws.</entry>
 </row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.3.A.2 In most cases, fertilization involves the fusion of two haploid gametes, restoring the diploid number of chromosomes and increasing genetic variation in populations by creating new combinations of alleles in the zygote.<newline/>
+i. Rules of probability can be applied to analyze the passing of single-gene traits from parent to offspring.<newline/>
+ii. Monohybrid, dihybrid, and test crosses can be used to determine whether alleles are dominant or recessive.<newline/>
+iii. An organism’s genotype is the set of alleles inherited for one or more genes by an individual organism. An organism’s genotype can be homozygous or heterozygous for each gene.<newline/>
+iv. An organism’s phenotype is the observable expression of the inherited traits.<newline/>
+v. Patterns of inheritance (autosomal, genetically linked, sex-linked) and whether an allele is dominant or recessive can often be predicted from data, including pedigrees. Punnett squares can be used to predict the genotypes and phenotypes of parents and offspring.<newline/>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.3</emphasis></span>
-<span class="ost-standards-description">The chromosomal basis of inheritance proposed by Mendel provides an understanding of the pattern of passage of genes from parent to offspring.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.2</emphasis></span>
-<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-s02-aplo-3-14">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.14</emphasis></span>
-<span class="ost-standards-description">The student is able to apply mathematical routines to determine Mendelian patterns of inheritance provided by data sets.</span>
-</entry>
+<emphasis>Relevant Equations</emphasis><newline/>
+
+Laws of Probability:<newline/>
+If A and B are mutually exclusive, then: P(A or B) = P(A) + P(B)<newline/>
+If A and B are independent, then: P(A and B)= P(A) x P(B)</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.4</emphasis></span>
-<span class="ost-standards-description">The inheritance patterns of many traits cannot be explained by simple Mendelian genetics.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.5</emphasis></span>
-<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-s02-aplo-3-15">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.15</emphasis></span>
-<span class="ost-standards-description">The student is able to explain deviations from Mendel’s model of the inheritance of traits.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.C Statistical Tests and Data Analysis- Perform chi-square hypothesis testing.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.4</emphasis></span>
-<span class="ost-standards-description">The inheritance patterns of many traits cannot be explained by simple Mendelian genetics.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.3</emphasis></span>
-<span class="ost-standards-description">The student can articulate the reasons that scientific explanations and theories are refined or replaced.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-s02-aplo-3-16">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.16 </emphasis></span>
-<span class="ost-standards-description">The student is able to explain how the inheritance pattern of many traits cannot be accounted for by Mendelian genetics.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.4</emphasis></span>
-<span class="ost-standards-description">The inheritance patterns of many traits cannot be explained by simple Mendelian genetics.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.2</emphasis></span>
-<span class="ost-standards-description">The student can describe representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch12-s02-aplo-3-17">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.17 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe representations of an appropriate example of inheritance patterns that cannot be explained by Mendel’s model of the inheritance of traits.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-</tbody>
-
-
-
-
-
-
-</tgroup>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>5.4 Non-Mendelian Genetics</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.4 A Explain deviations from Mendel’s model of the inheritance of traits.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.4.A.1 Patterns of inheritance of many traits do not follow the ratios predicted by Mendel’s laws and can be identified by quantitative analysis, when the observed phenotypic ratios statistically differ from the predicted ratios.<newline/>
+ii. Codominance occurs when the phenotype from both alleles is expressed such that the heterozygote would have a different phenotype than either homozygote.<newline/>
+iii. Incomplete dominance occurs when neither allele of a gene can mask the other, so the phenotype of the heterozygote is a blended version of the dominant and recessive phenotypes.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.4.A.2 Some traits, known as sex-linked traits (X- or Y-linked), are determined by genes on sex chromosomes. The pattern of inheritance of sex-linked traits can often be predicted from data, including pedigrees, indicating the genotypes and phenotypes of both parents and offspring.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.A Statistical Tests and Data Analysis- Perform mathematical calculations, including:<newline/>
+i. mathematical equations in the curriculum<newline/>
+ii. means<newline/>
+iii. rates<newline/>
+iv. ratios <newline/>
+v. percentages and percent changes</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.C Statistical Tests and Data Analysis- Perform chi-square hypothesis testing</entry>
+</row>
+</tbody></tgroup>
 </table></section>
 
 <note id="fs-id1167066037508" class="os-teacher">
@@ -169,15 +109,14 @@
 </note>
 </note>
 
-<para id="fs-id1166850064945">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.12][APLO 3.14][APLO 3.16][APLO 3.11][APLO 3.13][APLO 3.17]</para><para id="fs-id2315387">The seven characteristics that Mendel evaluated in his pea plants were each expressed as one of two versions, or traits. The physical expression of characteristics is accomplished through the expression of genes carried on chromosomes. The genetic makeup of peas consists of two similar or homologous copies of each chromosome, one from each parent. Each pair of homologous chromosomes has the same linear order of genes. In other words, peas are diploid organisms in that they have two copies of each chromosome. The same is true for many other plants and for virtually all animals. Diploid organisms utilize meiosis to produce haploid gametes, which contain one copy of each homologous chromosome that unite at fertilization to create a diploid zygote.</para>
+<para id="fs-id1166850064945">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
 <para id="fs-id1386877">For cases in which a single gene controls a single characteristic, a diploid organism has two genetic copies that may or may not encode the same version of that characteristic. Gene variants that arise by mutation and exist at the same relative locations on homologous chromosomes are called <term id="term-00001">alleles</term>. Mendel examined the inheritance of genes with just two allele forms, but it is common to encounter more than two alleles for any given gene in a natural population.</para>
 
-<section id="fs-id2075303" class="ost-tag-lo-apbio-ch12-s02-lo01 ost-tag-lo-apbio-ch12-s02-aplo-3-12 ost-get-exercise">
+<section id="fs-id2075303" class="ost-tag-lo-apbio-ch12-s02-lo01 ost-tag-lo-apbio-ch12-s02-aplo-3-12">
 <title>Phenotypes and Genotypes</title>
 <para id="fs-id1983358">Two alleles for a given gene in a diploid organism are expressed and interact to produce physical characteristics. The observable traits expressed by an organism are referred to as its <term id="term-00002">phenotype</term>. An organism’s underlying genetic makeup, consisting of both physically visible and non-expressed alleles, is called its <term id="term-00003">genotype</term>. Mendel’s hybridization experiments demonstrate the difference between phenotype and genotype. When true-breeding plants in which one parent had yellow pods and one had green pods were cross-fertilized, all of the F<sub>1</sub> hybrid offspring had yellow pods. That is, the hybrid offspring were phenotypically identical to the true-breeding parent with yellow pods. However, we know that the allele donated by the parent with green pods was not simply lost because it reappeared in some of the F<sub>2</sub> offspring. Therefore, the F<sub>1</sub> plants must have been genotypically different from the parent with yellow pods.</para>
 <para id="fs-id2121321">The P<sub>1</sub> plants that Mendel used in his experiments were each homozygous for the trait he was studying. Diploid organisms that are <term id="term-00004">homozygous</term> at a given gene, or locus, have two identical alleles for that gene on their homologous chromosomes. Mendel’s parental pea plants always bred true because both of the gametes produced carried the same trait. When P<sub>1</sub> plants with contrasting traits were cross-fertilized, all of the offspring were <term id="term-00005">heterozygous</term> for the contrasting trait, meaning that their genotype reflected that they had different alleles for the gene being examined.</para>
-<section id="fs-id846600" class="ost-tag-lo-apbio-ch12-s02-lo01 ost-tag-lo-apbio-ch12-s02-aplo-3-12 ost-get-exercise">
+<section id="fs-id846600" class="ost-tag-lo-apbio-ch12-s02-lo01 ost-tag-lo-apbio-ch12-s02-aplo-3-12">
 <title>Dominant and Recessive Alleles</title>
 <para id="fs-id1432196">Our discussion of homozygous and heterozygous organisms brings us to why the F<sub>1</sub> heterozygous offspring were identical to one of the parents, rather than expressing both alleles. In all seven pea-plant characteristics, one of the two contrasting alleles was dominant, and the other was recessive. Mendel called the dominant allele the expressed unit factor; the recessive allele was referred to as the latent unit factor. We now know that these so-called unit factors are actually genes on homologous chromosome pairs. For a gene that is expressed in a dominant and recessive pattern, homozygous dominant and heterozygous organisms will look identical (that is, they will have different genotypes but the same phenotype). The recessive allele will only be observed in homozygous recessive individuals (<link target-id="tab-ch12-02-01"/>).</para>
 <table id="tab-ch12-02-01" summary="" class="ost-tag-lo-apbio-ch12-s02-lo01 ost-tag-lo-apbio-ch12-s02-aplo-3-13 top-titled"><tgroup cols="1">
@@ -212,7 +151,7 @@
 <caption>This is a table of human inheritance traits and categorizes dominate versus recessive patterns.</caption></table><para id="fs-id2891392">Several conventions exist for referring to genes and alleles. For the purposes of this chapter, we will abbreviate genes using the first letter of the gene’s corresponding dominant trait. For example, violet is the dominant trait for a pea plant’s flower color, so the flower-color gene would be abbreviated as <emphasis effect="italics">V</emphasis> (note that it is customary to italicize gene designations). Furthermore, we will use uppercase and lowercase letters to represent dominant and recessive alleles, respectively. Therefore, we would refer to the genotype of a homozygous dominant pea plant with violet flowers as <emphasis effect="italics">VV</emphasis>, a homozygous recessive pea plant with white flowers as <emphasis effect="italics">vv</emphasis>, and a heterozygous pea plant with violet flowers as <emphasis effect="italics">Vv</emphasis>.</para>
 </section>
 </section>
-<section id="fs-id1804658" class="ost-tag-lo-apbio-ch12-s02-lo02 ost-tag-lo-apbio-ch12-s02-aplo-3-14 ost-get-exercise">
+<section id="fs-id1804658" class="ost-tag-lo-apbio-ch12-s02-lo02 ost-tag-lo-apbio-ch12-s02-aplo-3-14">
 <title>The Punnett Square Approach for a Monohybrid Cross</title>
 <para id="fs-id2491691">When fertilization occurs between two true-breeding parents that differ in only one characteristic, the process is called a <term id="term-00006">monohybrid</term> cross, and the resulting offspring are monohybrids. Mendel performed seven monohybrid crosses involving contrasting traits for each characteristic. On the basis of his results in F<sub>1</sub> and F<sub>2</sub> generations, Mendel postulated that each parent in the monohybrid cross contributed one of two paired unit factors to each offspring, and every possible combination of unit factors was equally likely.</para>
 <para id="fs-id1552731">To demonstrate a monohybrid cross, consider the case of true-breeding pea plants with yellow versus green pea seeds. The dominant seed color is yellow; therefore, the parental genotypes were <emphasis effect="italics">YY</emphasis> for the plants with yellow seeds and <emphasis effect="italics">yy</emphasis> for the plants with green seeds, respectively. A <term id="term-00007">Punnett square</term>, devised by the British geneticist Reginald Punnett, can be drawn that applies the rules of probability to predict the possible outcomes of a genetic cross or mating and their expected frequencies. To prepare a Punnett square, all possible combinations of the parental alleles are listed along the top (for one parent) and side (for the other parent) of a grid, representing their meiotic segregation into haploid gametes. Then the combinations of egg and sperm are made in the boxes in the table to show which alleles are combining. Each box then represents the diploid genotype of a zygote, or fertilized egg, that could result from this mating. Because each possibility is equally likely, genotypic ratios can be determined from a Punnett square. If the pattern of inheritance (dominant or recessive) is known, the phenotypic ratios can be inferred as well. For a monohybrid cross of two true-breeding parents, each parent contributes one type of allele. In this case, only one genotype is possible. All offspring are <emphasis effect="italics">Yy</emphasis> and have yellow seeds (<link target-id="fig-ch12_02_01"/>).</para>
@@ -222,7 +161,7 @@
 </media>
 <caption>In the P generation, pea plants that are true-breeding for the dominant yellow phenotype are crossed with plants with the recessive green phenotype. This cross produces F<sub>1</sub> heterozygotes with a yellow phenotype. Punnett square analysis can be used to predict the genotypes of the F<sub>2</sub> generation.</caption></figure><para id="fs-id1780695">A self-cross of one of the <emphasis effect="italics">Yy</emphasis> heterozygous offspring can be represented in a 2 × 2 Punnett square because each parent can donate one of two different alleles. Therefore, the offspring can potentially have one of four allele combinations: <emphasis effect="italics">YY</emphasis>, <emphasis effect="italics">Yy</emphasis>, <emphasis effect="italics">yY</emphasis>, or <emphasis effect="italics">yy</emphasis> (<link target-id="fig-ch12_02_01"/>). Notice that there are two ways to obtain the <emphasis effect="italics">Yy</emphasis> genotype: a <emphasis effect="italics">Y</emphasis> from the egg and a <emphasis effect="italics">y</emphasis> from the sperm, or a <emphasis effect="italics">y</emphasis> from the egg and a <emphasis effect="italics">Y</emphasis> from the sperm. Both of these possibilities must be counted. Recall that Mendel’s pea-plant characteristics behaved in the same way in reciprocal crosses. Therefore, the two possible heterozygous combinations produce offspring that are genotypically and phenotypically identical despite their dominant and recessive alleles deriving from different parents. They are grouped together. Because fertilization is a random event, we expect each combination to be equally likely and for the offspring to exhibit a ratio of <emphasis effect="italics">YY</emphasis>:<emphasis effect="italics">Yy</emphasis>:<emphasis effect="italics">yy</emphasis> genotypes of 1:2:1 (<link target-id="fig-ch12_02_01"/>). Furthermore, because the <emphasis effect="italics">YY</emphasis> and <emphasis effect="italics">Yy</emphasis> offspring have yellow seeds and are phenotypically identical, applying the sum rule of probability, we expect the offspring to exhibit a phenotypic ratio of 3 yellow:1 green. Indeed, working with large sample sizes, Mendel observed approximately this ratio in every F<sub>2</sub> generation resulting from crosses for individual traits.</para>
 <para id="fs-id1883145">Mendel validated these results by performing an F<sub>3</sub> cross in which he self-crossed the dominant- and recessive-expressing F<sub>2</sub> plants. When he self-crossed the plants expressing green seeds, all of the offspring had green seeds, confirming that all green seeds had homozygous genotypes of <emphasis effect="italics">yy</emphasis>. When he self-crossed the F<sub>2</sub> plants expressing yellow seeds, he found that one-third of the plants bred true, and two-thirds of the plants segregated at a 3:1 ratio of yellow:green seeds. In this case, the true-breeding plants had homozygous (<emphasis effect="italics">YY</emphasis>) genotypes, whereas the segregating plants corresponded to the heterozygous (<emphasis effect="italics">Yy</emphasis>) genotype. When these plants self-fertilized, the outcome was just like the F<sub>1</sub> self-fertilizing cross.</para>
-<section id="fs-id1837292" class="ost-tag-lo-apbio-ch12-s02-lo02 ost-tag-lo-apbio-ch12-s02-aplo-3-14 ost-get-exercise">
+<section id="fs-id1837292" class="ost-tag-lo-apbio-ch12-s02-lo02 ost-tag-lo-apbio-ch12-s02-aplo-3-14">
 <title>The Test Cross Distinguishes the Dominant Phenotype</title>
 <para id="fs-id1404094">Beyond predicting the offspring of a cross between known homozygous or heterozygous parents, Mendel also developed a way to determine whether an organism that expressed a dominant trait was a heterozygote or a homozygote. Called the <term id="term-00008">test cross</term>, this technique is still used by plant and animal breeders. In a test cross, the dominant-expressing organism is crossed with an organism that is homozygous recessive for the same characteristic. If the dominant-expressing organism is a homozygote, then all F<sub>1</sub> offspring will be heterozygotes expressing the dominant trait (<link target-id="fig-ch12_02_02"/>). Alternatively, if the dominant expressing organism is a heterozygote, the F<sub>1</sub> offspring will exhibit a 1:1 ratio of heterozygotes and recessive homozygotes (<link target-id="fig-ch12_02_02"/>). The test cross further validates Mendel’s postulate that pairs of unit factors segregate equally.</para>
 <note id="fs-id2138122" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch12-s02-lo02 ost-tag-lo-apbio-ch12-s02-aplo-3-14"><label>Visual Connection</label>
@@ -263,10 +202,10 @@
 
 
 
-<section id="fs-id1986393" class="ost-get-exercise">
+<section id="fs-id1986393" class="">
 <title>Alternatives to Dominance and Recessiveness</title>
 <para id="fs-id2951937">Mendel’s experiments with pea plants suggested that: (1) two “units” or alleles exist for every gene; (2) alleles maintain their integrity in each generation (no blending); and (3) in the presence of the dominant allele, the recessive allele is hidden and makes no contribution to the phenotype. Therefore, recessive alleles can be “carried” and not expressed by individuals. Such heterozygous individuals are sometimes referred to as “carriers.” Further genetic studies in other plants and animals have shown that much more complexity exists, but that the fundamental principles of Mendelian genetics still hold true. In the sections to follow, we consider some of the extensions of Mendelism. If Mendel had chosen an experimental system that exhibited these genetic complexities, it’s possible that he would not have understood what his results meant.</para>
-<section id="fs-id1693887" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-15 ost-get-exercise">
+<section id="fs-id1693887" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-15">
 <title>Incomplete Dominance</title>
 <para id="fs-id1871522">Mendel’s results, that traits are inherited as dominant and recessive pairs, contradicted the view at that time that offspring exhibited a blend of their parents’ traits. However, the heterozygote phenotype occasionally does appear to be intermediate between the two parents. For example, in the snapdragon, <emphasis effect="italics">Antirrhinum majus</emphasis> (<link target-id="fig-ch12_02_04"/>), a cross between a homozygous parent with white flowers (<emphasis effect="italics">C<sup>W</sup>C<sup>W</sup></emphasis>) and a homozygous parent with red flowers (<emphasis effect="italics">C<sup>R</sup>C<sup>R</sup></emphasis>) will produce offspring with pink flowers (<emphasis effect="italics">C<sup>R</sup>C<sup>W</sup></emphasis>). (Note that different genotypic abbreviations are used for Mendelian extensions to distinguish these patterns from simple dominance and recessiveness.) This pattern of inheritance is described as <term id="term-00010">incomplete dominance</term>, denoting the expression of two contrasting alleles such that the individual displays an intermediate phenotype. This is a form of gene interaction where neither allele is completely dominant over the other. However, the results of a heterozygote self-cross can still be predicted, just as with Mendelian dominant and recessive crosses. In this case, the genotypic ratio would be 1 <emphasis effect="italics">C<sup>R</sup>C<sup>R</sup></emphasis>:2 <emphasis effect="italics">C<sup>R</sup>C<sup>W</sup></emphasis>:1 <emphasis effect="italics">C<sup>W</sup>C<sup>W</sup></emphasis>, and the phenotypic ratio would be 1:2:1 for red:pink:white.</para>
 <figure id="fig-ch12_02_04" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-15"><media id="fs-id1798638" alt="Photo is of a snapdragon with a pink flower.">
@@ -274,11 +213,11 @@
 </media>
 <caption>These pink flowers of a heterozygote snapdragon result from incomplete dominance. (credit: “storebukkebruse”/Flickr)</caption></figure></section>
 
-<section id="fs-id2026469" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-15 ost-get-exercise">
+<section id="fs-id2026469" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-15">
 <title>Codominance</title>
 <para id="fs-id1684660">A variation on incomplete dominance is <term id="term-00011">codominance</term>, in which both alleles for the same characteristic are simultaneously expressed in the heterozygote. An example of codominance is the MN blood groups of humans. The M and N alleles are expressed in the form of an M or N antigen present on the surface of red blood cells. Homozygotes (<emphasis effect="italics">L<sup>M</sup>L<sup>M</sup></emphasis> and <emphasis effect="italics">L<sup>N</sup>L<sup>N</sup></emphasis>) express either the M or the N allele, and heterozygotes (<emphasis effect="italics">L<sup>M</sup>L<sup>N</sup></emphasis>) express both alleles equally. In a self-cross between heterozygotes expressing a codominant trait, the three possible offspring genotypes are phenotypically distinct. However, the 1:2:1 genotypic ratio characteristic of a Mendelian monohybrid cross still applies.</para>
 </section>
-<section id="fs-id1809128" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-15 ost-get-exercise">
+<section id="fs-id1809128" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-15">
 <title>Multiple Alleles</title>
 <para id="fs-id1708092">Mendel implied that only two alleles, one dominant and one recessive, could exist for a given gene. We now know that this is an oversimplification. Although individual humans (and all diploid organisms) can only have two alleles for a given gene, multiple alleles may exist at the population level such that many combinations of two alleles are observed. Note that when many alleles exist for the same gene, the convention is to denote the most common phenotype or genotype among wild animals as the <term id="term-00012">wild type</term> (often abbreviated “+”); this is considered the standard or norm. All other phenotypes or genotypes are considered <term id="term-00013">variants</term> of this standard, meaning that they deviate from the wild type. The variant may be recessive or dominant to the wild-type allele.</para>
 <para id="fs-id1788534">An example of multiple alleles is coat color in rabbits (<link target-id="fig-ch12_02_05"/>). Here, four alleles exist for the <emphasis effect="italics">c</emphasis> gene. The wild-type version, <emphasis effect="italics">C<sup>+</sup>C<sup>+</sup></emphasis>, is expressed as brown fur. The chinchilla phenotype, <emphasis effect="italics">c<sup>ch</sup>c<sup>ch</sup></emphasis>, is expressed as black-tipped white fur. The Himalayan phenotype, <emphasis effect="italics">c<sup>h</sup>c<sup>h</sup></emphasis>, has black fur on the extremities and white fur elsewhere. Finally, the albino, or “colorless” phenotype, <emphasis effect="italics">cc</emphasis>, is expressed as white fur. In cases of multiple alleles, dominance hierarchies can exist. In this case, the wild-type allele is dominant over all the others, chinchilla is incompletely dominant over Himalayan and albino, and Himalayan is dominant over albino. This hierarchy, or allelic series, was revealed by observing the phenotypes of each possible heterozygote offspring.</para>
@@ -308,7 +247,7 @@
 
 
 
-<section id="fs-id2571565" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-16 ost-get-exercise"><title>X-Linked Traits</title><para id="fs-id2626283">In humans, as well as in many other animals and some plants, the sex of the individual is determined by sex chromosomes. The sex chromosomes are one pair of non-homologous chromosomes. Until now, we have only considered inheritance patterns among non-sex chromosomes, or <term id="term-00014">autosomes</term>. In addition to 22 homologous pairs of autosomes, human females have a homologous pair of X chromosomes, whereas human males have an XY chromosome pair. Although the Y chromosome contains a small region of similarity to the X chromosome so that they can pair during meiosis, the Y chromosome is much shorter and contains many fewer genes. When a gene being examined is present on the X chromosome, but not on the Y chromosome, it is said to be <term id="term-00015">X-linked</term>.</para>
+<section id="fs-id2571565" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-16"><title>X-Linked Traits</title><para id="fs-id2626283">In humans, as well as in many other animals and some plants, the sex of the individual is determined by sex chromosomes. The sex chromosomes are one pair of non-homologous chromosomes. Until now, we have only considered inheritance patterns among non-sex chromosomes, or <term id="term-00014">autosomes</term>. In addition to 22 homologous pairs of autosomes, human females have a homologous pair of X chromosomes, whereas human males have an XY chromosome pair. Although the Y chromosome contains a small region of similarity to the X chromosome so that they can pair during meiosis, the Y chromosome is much shorter and contains many fewer genes. When a gene being examined is present on the X chromosome, but not on the Y chromosome, it is said to be <term id="term-00015">X-linked</term>.</para>
 <para id="fs-id1837277">Eye color in <emphasis effect="italics">Drosophila</emphasis> was one of the first X-linked traits to be identified. Thomas Hunt Morgan mapped this trait to the X chromosome in 1910. Like humans, <emphasis effect="italics">Drosophila</emphasis> males have an XY chromosome pair, and females are XX. In flies, the wild-type eye color is red (X<sup><emphasis effect="italics">W</emphasis></sup>) and it is dominant to white eye color (X<sup><emphasis effect="italics">w</emphasis></sup>) (<link target-id="fig-ch12_02_09"/>). Because of the location of the eye-color gene, reciprocal crosses do not produce the same offspring ratios. Males are said to be <term id="term-00016">hemizygous</term>, because they have only one allele for any X-linked characteristic. Hemizygosity makes the descriptions of dominance and recessiveness irrelevant for XY males. <emphasis effect="italics">Drosophila</emphasis> males lack a second allele copy on the Y chromosome; that is, their genotype can only be X<sup><emphasis effect="italics">W</emphasis></sup>Y or X<sup><emphasis effect="italics">w</emphasis></sup>Y. In contrast, females have two allele copies of this gene and can be X<sup><emphasis effect="italics">W</emphasis></sup>X<sup><emphasis effect="italics">W</emphasis></sup>, X<sup><emphasis effect="italics">W</emphasis></sup>X<sup><emphasis effect="italics">w</emphasis></sup>, or X<sup><emphasis effect="italics">w</emphasis></sup>X<sup><emphasis effect="italics">w</emphasis></sup>.</para>
 <figure id="fig-ch12_02_09" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-16"><media id="fs-id2164078" alt="Photo shows six fruit flies, each with a different eye color.">
 <image mime-type="image/jpg" src="../../media/Figure_12_02_08.jpg" width="220"/>
@@ -332,7 +271,7 @@
 </note>
 
 
-<para id="fs-id1281610">Discoveries in fruit fly genetics can be applied to human genetics.  When a female parent is homozygous for a recessive X-linked trait, she will pass the trait on to 100 percent of her offspring. Her male offspring are, therefore, destined to express the trait, as they will inherit their father's Y chromosome. In humans, the alleles for certain conditions (some forms of color blindness, hemophilia, and muscular dystrophy) are X-linked. Females who are heterozygous for these diseases are said to be carriers and may not exhibit any phenotypic effects. These females will pass the disease to half of their sons and will pass carrier status to half of their daughters; therefore, recessive X-linked traits appear more frequently in males than females.</para><para id="fs-id1967538">In some groups of organisms with sex chromosomes, the sex with the non-homologous sex chromosomes is the female rather than the male. This is the case for all birds. In this case, sex-linked traits will be more likely to appear in the female, in which they are hemizygous.</para></section><section id="fs-id1405440" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-16 ost-get-exercise">
+<para id="fs-id1281610">Discoveries in fruit fly genetics can be applied to human genetics.  When a female parent is homozygous for a recessive X-linked trait, she will pass the trait on to 100 percent of her offspring. Her male offspring are, therefore, destined to express the trait, as they will inherit their father's Y chromosome. In humans, the alleles for certain conditions (some forms of color blindness, hemophilia, and muscular dystrophy) are X-linked. Females who are heterozygous for these diseases are said to be carriers and may not exhibit any phenotypic effects. These females will pass the disease to half of their sons and will pass carrier status to half of their daughters; therefore, recessive X-linked traits appear more frequently in males than females.</para><para id="fs-id1967538">In some groups of organisms with sex chromosomes, the sex with the non-homologous sex chromosomes is the female rather than the male. This is the case for all birds. In this case, sex-linked traits will be more likely to appear in the female, in which they are hemizygous.</para></section><section id="fs-id1405440" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-16">
 <title>Human Sex-linked Disorders</title>
 <para id="fs-id1805225">Sex-linkage studies in Morgan’s laboratory provided the fundamentals for understanding X-linked recessive disorders in humans, which include red-green color blindness, and Types A and B hemophilia. Because human males need to inherit only one recessive mutant X allele to be affected, X-linked disorders are disproportionately observed in males. Females must inherit recessive X-linked alleles from both of their parents in order to express the trait. When they inherit one recessive X-linked mutant allele and one dominant X-linked wild-type allele, they are carriers of the trait and are typically unaffected. Carrier females can manifest mild forms of the trait due to the inactivation of the dominant allele located on one of the X chromosomes. However, female carriers can contribute the trait to their sons, resulting in the son exhibiting the trait, or they can contribute the recessive allele to their daughters, resulting in the daughters being carriers of the trait (<link target-id="fig-ch12_02_11"/>). Although some Y-linked recessive disorders exist, typically they are associated with infertility in males and are therefore not transmitted to subsequent generations.</para>
 <figure id="fig-ch12_02_11" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-13"><media id="fs-id1420107" alt="A diagram shows an unaffected father with a dominant allele and an unaffected carrier mother with an x-linked recessive allele. Four figures of offspring are shown representing the various resulting genetic combinations: unaffected son, unaffected daughter, affected son, and unaffected carrier daughter.">
@@ -356,7 +295,7 @@
 
 
 
-<section id="fs-id1808965" class="ost-get-exercise"><title>Lethality</title><para id="fs-id1446426">A large proportion of genes in an individual’s genome are essential for survival. Occasionally, a nonfunctional allele for an essential gene can arise by mutation and be transmitted in a population as long as individuals with this allele also have a wild-type, functional copy. The wild-type allele functions at a capacity sufficient to sustain life and is therefore considered to be dominant over the nonfunctional allele. However, consider two heterozygous parents that have a genotype of wild-type/nonfunctional mutant for a hypothetical essential gene. In one quarter of their offspring, we would expect to observe individuals that are homozygous recessive for the nonfunctional allele. Because the gene is essential, these individuals might fail to develop past fertilization, die <emphasis effect="italics">in utero</emphasis>, or die later in life, depending on what life stage requires this gene. An inheritance pattern in which an allele is only lethal in the homozygous form and in which the heterozygote may be normal or have some altered non-lethal phenotype is referred to as <term id="term-00017">recessive lethal</term>.</para><para id="fs-id1381737">For crosses between heterozygous individuals with a recessive lethal allele that causes death before birth when homozygous, only wild-type homozygotes and heterozygotes would be observed. The genotypic ratio would therefore be 2:1. In other instances, the recessive lethal allele might also exhibit a dominant (but not lethal) phenotype in the heterozygote. For instance, the recessive lethal <emphasis effect="italics">Curly</emphasis> allele in <emphasis effect="italics">Drosophila</emphasis> affects wing shape in the heterozygote form but is lethal in the homozygote.</para><para id="fs-id1442169">A single copy of the wild-type allele is not always sufficient for normal functioning or even survival. The <term id="term-00018">dominant lethal</term> inheritance pattern is one in which an allele is lethal both in the homozygote and the heterozygote; this allele can only be transmitted if the lethality phenotype occurs after reproductive age. Individuals with mutations that result in dominant lethal alleles fail to survive even in the heterozygote form. Dominant lethal alleles are very rare because, as you might expect, the allele only lasts one generation and is not transmitted. However, just as the recessive lethal allele might not immediately manifest the phenotype of death, dominant lethal alleles also might not be expressed until adulthood. Once the individual reaches reproductive age, the allele may be unknowingly passed on, resulting in a delayed death in both generations. An example of this in humans is Huntington’s disease, in which the nervous system gradually wastes away (<link target-id="fig-ch12_02_12"/>). People who are heterozygous for the dominant Huntington allele (<emphasis effect="italics">Hh</emphasis>) will inevitably develop the fatal disease. However, the onset of Huntington’s disease may not occur until age 40, at which point the afflicted persons may have already passed the allele to 50 percent of their offspring.</para>
+<section id="fs-id1808965" class=""><title>Lethality</title><para id="fs-id1446426">A large proportion of genes in an individual’s genome are essential for survival. Occasionally, a nonfunctional allele for an essential gene can arise by mutation and be transmitted in a population as long as individuals with this allele also have a wild-type, functional copy. The wild-type allele functions at a capacity sufficient to sustain life and is therefore considered to be dominant over the nonfunctional allele. However, consider two heterozygous parents that have a genotype of wild-type/nonfunctional mutant for a hypothetical essential gene. In one quarter of their offspring, we would expect to observe individuals that are homozygous recessive for the nonfunctional allele. Because the gene is essential, these individuals might fail to develop past fertilization, die <emphasis effect="italics">in utero</emphasis>, or die later in life, depending on what life stage requires this gene. An inheritance pattern in which an allele is only lethal in the homozygous form and in which the heterozygote may be normal or have some altered non-lethal phenotype is referred to as <term id="term-00017">recessive lethal</term>.</para><para id="fs-id1381737">For crosses between heterozygous individuals with a recessive lethal allele that causes death before birth when homozygous, only wild-type homozygotes and heterozygotes would be observed. The genotypic ratio would therefore be 2:1. In other instances, the recessive lethal allele might also exhibit a dominant (but not lethal) phenotype in the heterozygote. For instance, the recessive lethal <emphasis effect="italics">Curly</emphasis> allele in <emphasis effect="italics">Drosophila</emphasis> affects wing shape in the heterozygote form but is lethal in the homozygote.</para><para id="fs-id1442169">A single copy of the wild-type allele is not always sufficient for normal functioning or even survival. The <term id="term-00018">dominant lethal</term> inheritance pattern is one in which an allele is lethal both in the homozygote and the heterozygote; this allele can only be transmitted if the lethality phenotype occurs after reproductive age. Individuals with mutations that result in dominant lethal alleles fail to survive even in the heterozygote form. Dominant lethal alleles are very rare because, as you might expect, the allele only lasts one generation and is not transmitted. However, just as the recessive lethal allele might not immediately manifest the phenotype of death, dominant lethal alleles also might not be expressed until adulthood. Once the individual reaches reproductive age, the allele may be unknowingly passed on, resulting in a delayed death in both generations. An example of this in humans is Huntington’s disease, in which the nervous system gradually wastes away (<link target-id="fig-ch12_02_12"/>). People who are heterozygous for the dominant Huntington allele (<emphasis effect="italics">Hh</emphasis>) will inevitably develop the fatal disease. However, the onset of Huntington’s disease may not occur until age 40, at which point the afflicted persons may have already passed the allele to 50 percent of their offspring.</para>
 <figure id="fig-ch12_02_12" class="ost-tag-lo-apbio-ch12-s02-lo03 ost-tag-lo-apbio-ch12-s02-aplo-3-15"><media id="fs-id1094060" alt="Micrograph shows a neuron with nuclear inclusions characteristic of Huntington’s disease.">
 <image mime-type="image/jpg" src="../../media/Figure_12_02_10.jpg" width="280"/>
 </media>

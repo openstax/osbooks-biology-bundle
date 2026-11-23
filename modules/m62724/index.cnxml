@@ -22,59 +22,41 @@
 <section id="fs-id1167062355516" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167062368613">Living organisms need food to survive as it contains critical nutrients in the form of biological macromolecules. These large molecules are composed mainly of six elementssulfur, phosphorus, oxygen, nitrogen, carbon, and hydrogen (SPONCH)in different quantities and arrangements. Complex polymers are built from combinations of smaller monomers by dehydration synthesis, a chemical reaction in which a molecule of water is removed between two linking monomers. (Think of a train: each boxcar, including the caboose, represents a monomer, and the entire train is a polymer.) During digestion, polymers can be broken down by hydrolysis, or the addition of water. Both dehydration and hydrolysis reactions in cells are catalyzed by specific enzymes. Dehydration reactions typically require an investment of energy for new bond formation, whereas hydrolysis reactions typically release energy that can be used to power cellular processes. The four categories of macromolecules are carbohydrates, lipids, proteins, and nucleic acids.  Evidence supports scientists claim that the organic precursors of these biological molecules were present on primitive Earth.</para>
-<para id="fs-id1167066105108" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts and Learning Objectives outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A learning objective merges required content with one or more of the seven Science Practices.</para>
+<para id="fs-id1167066105108" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 1.3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes a suggested skill from the Science Practices through which the topic may be taught.</para>
 
 <table id="fs-id1167062340092" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.D.1 There are several hypotheses about the natural origin of life on Earth, each with supporting scientific evidence. Second left cell reads: Science Practice. Second right cell reads: 1.2 The student can describe representations and models of natural or man-made phenomena and systems in the domain. Third left cell reads: Learning Objective. Third right cell reads: 1.27 The student is able to describe a scientific hypothesis about the origin of life on Earth." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
 <row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>4. Systems Interactions: Biological systems interact, and these systems and their interactions exhibit complex properties.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.D</emphasis></entry>
-<entry class="ost-standards-description">The origin of living systems is explained by natural processes.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-d-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.D.1</emphasis></span>
-<span class="ost-standards-description">There are several hypotheses about the natural origin of life on Earth, each with supporting scientific evidence.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.2</emphasis></span>
-<span class="ost-standards-description">The student can make
-claims and predictions about natural phenomena based on
-scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s01-aplo-1-27">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.27</emphasis></span>
-<span class="ost-standards-description">The student is able to describe a scientific hypothesis about the origin of life on Earth.</span>
+<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-d"><entry><emphasis>Topic</emphasis></entry>
+<entry>1.3 Introduction to Macromolecules</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry><span>1.3.A Describe the chemical reactions that build and break biological macromolecules.</span>
 </entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-d-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis></entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.D.1</emphasis></span>
-<span class="ost-standards-description">There are several hypotheses about the natural origin of life on Earth, each with supporting scientific evidence.</span>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry><span>1.3.A.1 Hydrolysis is a chemical reaction involving the cleaving of covalent bonds. This type of reaction breaks down molecules into smaller molecules. When water is added to the bond between monomers in a polymer, the bond is broken. The hydrogen ion from a water molecule is added to one monomer and the hydroxyl group of the water molecule is added to the other monomer, completing the reaction.</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.3</emphasis></span>
-<span class="ost-standards-description">The student can evaluate scientific questions.</span>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>1.3.A.2 Dehydration synthesis occurs when two smaller molecules are joined together through covalent bonding. A hydrogen ion is removed from one monomer and a hydroxyl group is removed from the other. This causes the loss of the equivalent of a water molecule from the reactants and the connection of the two remaining monomers. The connection of many monomers is known as polymerization.</entry></row>
+
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry><span>2.A Visual Representations- Describe characteristics of visual representations of biological concepts and processes.
+</span>
 </entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch03-s01-aplo-1-28">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.28</emphasis></span>
-<span class="ost-standards-description">The student is able to evaluate scientific questions based on hypotheses about the origin of life on Earth.</span>
-</entry>
-</row>
 </tbody>
 
 
 </tgroup>
-</table></section>
+</table><para id="para-00001">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
 
 <note id="fs-id1167065846545" class="os-teacher">
 <label>Teacher Support</label>
@@ -82,12 +64,12 @@ scientific theories and models.</span>
 </note>
 
 
-<section id="fs-id1266915" class="ost-get-exercise">
+<section id="fs-id1266915" class="">
 <title>Dehydration Synthesis</title>
 <para id="fs-id1724224">As you’ve learned, <term id="term-00001">biological macromolecules</term> are large molecules, necessary for life, that are built from smaller organic molecules. There are four major classes of biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids); each is an important cell component and performs a wide array of functions. Combined, these molecules make up the majority of a cell’s dry mass (recall that water makes up the majority of its complete mass). Biological macromolecules are organic, meaning they contain carbon and are bound to hydrogen, and may contain oxygen, nitrogen, and additional minor elements.</para>
 
 <para id="fs-id1384510">Most macromolecules are made from single subunits, or building blocks, called <term id="term-00002">monomers</term>. The monomers combine with each other using covalent bonds to form larger molecules known as <term id="term-00003">polymers</term>. In doing so, monomers release water molecules as byproducts. This type of reaction is known as <term id="term-00004">dehydration synthesis</term>, which means “to put together while losing water.”</para>
-<figure id="fs-id1167065892188" class="ost-tag-lo-apbio-ch03-s01-lo01">
+<figure id="fs-id1167065892188">
 <media id="fs-id1477384" alt="Shown is the reaction of two glucose monomers to form maltose. When maltose is formed, a water molecule is released. The components of the linkage are upper case O upper case H from one glucose molecule combining with one upper case H from the second glucose molecule.">
 <image mime-type="image/jpg" src="../../media/Figure_03_01_01.jpg" width="600"/>
 </media>
@@ -103,9 +85,9 @@ scientific theories and models.</span>
 
 <para id="fs-id1730720">In a dehydration synthesis reaction (<link target-id="fs-id1167065892188"/>), the hydrogen of one monomer combines with the hydroxyl group of another monomer, releasing a molecule of water. At the same time, the monomers share electrons and form covalent bonds. As additional monomers join, this chain of repeating monomers forms a polymer. Different types of monomers can combine in many configurations, giving rise to a diverse group of macromolecules. Even one kind of monomer can combine in a variety of ways to form several different polymers: for example, glucose monomers are the constituents of starch, glycogen, and cellulose.</para></section>
 
-<section id="fs-id1167062408774" class="ost-tag-lo-apbio-ch03-s01-lo02 ost-get-exercise">
+<section id="fs-id1167062408774">
 <title>Hydrolysis</title>
-<para id="fs-id1431430">Polymers are broken down into monomers in a process known as hydrolysis, which means “to split with water.” Hydrolysis is a reaction in which a water molecule is used during the breakdown of another compound (<link target-id="fs-id1167066086144"/>). During these reactions, the polymer is broken into two components: one part gains a hydrogen atom (H+) and the other gains a hydroxyl molecule (OH–) from a split water molecule.</para><figure id="fs-id1167066086144" class="ost-tag-lo-apbio-ch03-s01-lo02"><media id="fs-id1405882" alt="Shown is the breakdown of maltose to form two glucose monomers. Water is a reactant. The water molecule, upper case H subscript 2 baseline upper case O, breaks apart, with upper O upper H obtained by one of the glucose molecules, and upper H obtained by the second glucose molecule.">
+<para id="fs-id1431430">Polymers are broken down into monomers in a process known as hydrolysis, which means “to split with water.” Hydrolysis is a reaction in which a water molecule is used during the breakdown of another compound (<link target-id="fs-id1167066086144"/>). During these reactions, the polymer is broken into two components: one part gains a hydrogen atom (H+) and the other gains a hydroxyl molecule (OH–) from a split water molecule.</para><figure id="fs-id1167066086144"><media id="fs-id1405882" alt="Shown is the breakdown of maltose to form two glucose monomers. Water is a reactant. The water molecule, upper case H subscript 2 baseline upper case O, breaks apart, with upper O upper H obtained by one of the glucose molecules, and upper H obtained by the second glucose molecule.">
 <image mime-type="image/jpg" src="../../media/Figure_03_01_02.jpg" width="600"/>
 </media>
 <caption>In the hydrolysis reaction shown here, the disaccharide maltose is broken down to form two glucose monomers with the addition of a water molecule. Note that this reaction is the reverse of the synthesis reaction shown in <link target-id="fs-id1167065892188"/>.</caption></figure><para id="fs-id2016502">Dehydration and <term id="term-00005">hydrolysis reactions</term> are catalyzed, or “sped up,” by specific enzymes; dehydration reactions involve the formation of new bonds, requiring energy, while hydrolysis reactions break bonds and release energy. These reactions are similar for most macromolecules, but each monomer and polymer reaction is specific for its class. For example, in our bodies, food is hydrolyzed, or broken down, into smaller molecules by catalytic enzymes in the digestive system. This allows for easy absorption of nutrients by cells in the intestine. Each macromolecule is broken down by a specific enzyme. For instance, carbohydrates are broken down by amylase, sucrase, lactase, or maltase. Proteins are broken down by the enzymes pepsin and peptidase, and by hydrochloric acid. Lipids are broken down by lipases. Breakdown of these macromolecules provides energy for cellular activities.</para>

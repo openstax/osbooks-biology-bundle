@@ -21,42 +21,51 @@
 <section id="fs-id1167066984083" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167063707400">One reason that eukaryotic gene expression is more complex than prokaryotic gene expression is because the processes of transcription and translation are physically separated within the eukaryotic cell. Eukaryotic cells also package their genomes in a more sophisticated way compared with prokaryotic cells. Consequently, eukaryotic cells can regulate gene expression at multiple levels, beginning with control of access to DNA. Because genomic DNA is folded around histone proteins to create nucleosome complexes, nucleosomes physically regulate the access of proteins, such as transcription factors and enzymes, to the underlying DNA. Methylation of DNA and histones causes nucleosomes to pack tightly together, preventing transcription factors from binding to the DNA. Methylated nucleosomes contain DNA that is not expressed. On the other hand, histone acetylation results in loose packing of nucleosomes, allowing transcription factors to bind to DNA. Acetylated nucleosomes contain DNA that may be expressed.</para>
-<para id="fs-id1167063558201" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para>
+<para id="fs-id1167063558201" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 6.5 and 6.6 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167066836966" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.B.1 Gene regulation results in differential gene expression, leading to cell specialization. Second left cell reads: Science Practice. Second right cell reads: 7.1 The student can connect phenomena and models across spatial and temporal scales. Third left cell reads: Learning Objective. Third right cell reads: 3.19 The student is able to describe the connection between the regulation of gene expression and observed differences between individuals in a population." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.5 Regulation of Gene Expression</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.5.A Describe the types of interactions that regulate gene expression.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.5.A.2 Epigenetic changes can affect gene expression through reversible modification of DNA or histones.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.A Make a scientific claim.</entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.B</emphasis></entry>
-<entry class="ost-standards-description">Expression of genetic information involves cellular and molecular mechanisms.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.B.1 </emphasis></span>
-<span class="ost-standards-description">Gene regulation results in differential gene expression, leading to cell specialization.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
-<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch16-s03-aplo-3-19">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.19 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe the connection between the regulation of gene expression and observed differences between individuals in a population</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.6 Gene Expression and Cell Specialization</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.6.A Explain how the binding of transcription factors to promoter regions affects gene expression and the phenotype of the organism.</entry>
 </row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.6.A.2 Negative regulatory molecules inhibit gene expression by binding to DNA and blocking transcription.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.B Argumentation- Support a claim with evidence from biological principles, concepts, processes, and data.</entry>
+</row>
+
+
 </tbody>
 
 </tgroup>
 </table></section>
 
-<section id="fs-id1896201" class="ost-tag-lo-apbio-ch16-s03-lo01 ost-tag-lo-apbio-ch16-s03-aplo-3-19 ost-tag-lo-apbio-ch16-s03-aplo-3-21 ost-get-exercise">
+<section id="fs-id1896201" class="ost-tag-lo-apbio-ch16-s03-lo01 ost-tag-lo-apbio-ch16-s03-aplo-3-19 ost-tag-lo-apbio-ch16-s03-aplo-3-21">
 <title>Epigenetic Control: Regulating Access to Genes within the Chromosome</title>
 <para id="fs-id1167063541061">As stated earlier, one reason why eukaryotic gene expression is more complex than prokaryotic gene expression is because the processes of transcription and translation are physically separated. Unlike prokaryotic cells, eukaryotic cells can regulate gene expression at many different levels. Eukaryotic gene expression begins with control of access to the DNA. This form of regulation, called epigenetic regulation, occurs even before transcription is initiated.</para>
 <note id="fs-id1167067176310" class="os-teacher">

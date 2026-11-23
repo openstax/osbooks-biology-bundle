@@ -21,78 +21,35 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167065843975">Much of the information in this chapter is not in scope for AP<sup>®</sup>. However, the chapter is filled with examples that are applicable to concepts we have previously explored. The circulatory system links to all other organ systems. For example, nutrients pass from the digestive system into the blood, and the excretory system rids the blood of wastes. In addition, because heart disease is a leading cause of death in humans, the information is relevant.</para>
 <para id="fs-id1167065038091" class="ost-reading-discard">Circulatory systems in animals show a distinct pattern of evolution—from none in sponges and jellyfish to open circulatory systems characteristic of insects to closed circulatory systems with hearts, valves, and vessels in vertebrates. Circulatory systems provide body cells with oxygen and nutrients, remove wastes, transports hormones, protect against invaders, and aids in temperature regulation. Although some animals such as the sponge have had no adaptive need to develop a complex circulatory system (they exchange nutrients and wastes directly with the environment), as demands for oxygen increased with terrestrial living, natural selection favored a closed circulatory system in which blood is transported in vessels. To increase efficiency, within closed systems the heart evolved from two chambers in fish (one atrium and one ventricle) to the four-chambered heart (two atria and two ventricles) seen in crocodiles, birds, and mammals.</para>
-<para id="fs-id1167065802976" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 1 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167065802976" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 7.10  of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167066055385" summary="Table with two columns and four rows. First left cell reads: Essential Knowledge. First right cell reads: 1.A.1 An adaptation, such as the number of heart chambers, is a genetic variation that is favored by natural selection and provides an advantage to an organism in a particular environment. Second left cell reads: Science Practice. Second right cell reads: 2.2 The student can apply mathematical routines to quantities that describe natural phenomena. Third left cell reads: Science Practice. Third right cell reads: 5.3 The student can evaluate the evidence provided by data sets in relation to a particular scientific question. Fourth left cell reads: Learning Objective. Fourth right cell reads: 1.2 The student is able to evaluate evidence provided by data to qualitatively and quantitatively investigate the role of natural selection in evolution." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.A</emphasis></entry>
-<entry class="ost-standards-description">Change in the genetic makeup of a population over time is evolution.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.A.1 </emphasis></span>
-<span class="ost-standards-description">An adaptation, such as the number of heart chambers, is a genetic variation that is favored by natural selection and provides an advantage to an organism in a particular environment.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
-<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-5-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.3 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate the evidence provided by data sets in relation to a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch31-s01-aplo-1-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.2 </emphasis></span>
-<span class="ost-standards-description">The student is able to evaluate evidence provided by data to qualitatively and quantitatively investigate the role of natural selection in evolution.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
-<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.2 </emphasis></span>
-<span class="ost-standards-description">Phylogenetic trees and cladogram can represent traits, such as the number of heart chambers in animals, which are derived or lost due to evolution.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch31-s01-aplo-1-17">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.17 </emphasis></span>
-<span class="ost-standards-description">The student is able to pose scientific questions about a group of organisms whose relatedness is described by a phylogenetic tree or cladogram in order to (1) identify shared characteristics, (2) make inferences about the evolutionary history of the group, and (3) identify character data that could extend or improve the phylogenetic tree.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.10 Speciation</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.10.B Describe the rate of evolution and speciation under different ecological conditions.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.2 </emphasis></span>
-<span class="ost-standards-description">Phylogenetic trees and cladogram can represent traits, such as the number of heart chambers in animals, which are derived or lost due to evolution.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch31-s01-aplo-1-19">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.19 </emphasis></span>
-<span class="ost-standards-description">The student is able to create a phylogenetic tree or simple cladogram that correctly represents evolutionary history and speciation from a provided data set.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.10.B.2 Divergent evolution occurs when adaptation to new habitats results in phenotypic diversification. Speciation rates can be especially rapid during times of adaptive radiation as new habitats become available.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.10.B.3 Convergent evolution occurs when similar selective pressures result in similar phenotypic adaptations in different populations or species.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.B Visual Representations- Explain relationships between characteristics of biological models in both theoretical and applied contexts.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
 </row>
 
 </tbody>
@@ -111,11 +68,11 @@
 <section id="fs-idm20076272">
 <title>Circulatory System Variation in Animals</title>
 <para id="fs-idm263068672">The circulatory system varies from simple systems in invertebrates to more complex systems in vertebrates. The simplest animals, such as the sponges (Porifera) and rotifers (Rotifera), do not need a circulatory system because diffusion allows adequate exchange of water, nutrients, and waste, as well as dissolved gases, as shown in <link target-id="fig-ch40_01_02"/><emphasis effect="bold">a</emphasis>. Organisms that are more complex but still only have two layers of cells in their body plan, such as jellies (Cnidaria) and comb jellies (Ctenophora) also use diffusion through their epidermis and internally through the gastrovascular compartment. Both their internal and external tissues are bathed in an aqueous environment and exchange fluids by diffusion on both sides, as illustrated in <link target-id="fig-ch40_01_02"/><emphasis effect="bold">b</emphasis>. Exchange of fluids is assisted by the pulsing of the jellyfish body.</para>
-<figure id="fig-ch40_01_02" class="ost-tag-lo-apbio-ch31-s01-lo03"><media id="fs-idm102176384" alt="Shown are the cross sections of a sponge and a jellyfish. The sponge is concave up, so it has a vase like appearance with a large space in the between. It is made up of multiple sections, each separated with a small opening between the environment and cavity. The jellyfish is concave down, with an upside bowl appearance. It has multiple layers, with a cavity formed by what looks like the union of a small bowl and a large bowl with an opening into its cavity.">
+<figure id="fig-ch40_01_02"><media id="fs-idm102176384" alt="Shown are the cross sections of a sponge and a jellyfish. The sponge is concave up, so it has a vase like appearance with a large space in the between. It is made up of multiple sections, each separated with a small opening between the environment and cavity. The jellyfish is concave down, with an upside bowl appearance. It has multiple layers, with a cavity formed by what looks like the union of a small bowl and a large bowl with an opening into its cavity.">
 <image mime-type="image/jpg" src="../../media/CNX_AP_Bio_40_01_02ab.jpg" width="575"/>
 </media>
 <caption>Simple animals consisting of a single cell layer such as the (a) sponge or only a few cell layers such as the (b) jellyfish do not have a circulatory system. Instead, gases, nutrients, and wastes are exchanged by diffusion.</caption></figure><para id="fs-idm251840080">For more complex organisms, diffusion is not efficient for cycling gases, nutrients, and waste effectively through the body; therefore, more complex circulatory systems evolved. Most arthropods and many mollusks have open circulatory systems. In an open system, an elongated beating heart pushes the hemolymph through the body and muscle contractions help to move fluids. The larger more complex crustaceans, including lobsters, have developed arterial-like vessels to push blood through their bodies, and the most active mollusks, such as squids, have evolved a closed circulatory system and are able to move rapidly to catch prey. Closed circulatory systems are a characteristic of vertebrates; however, there are significant differences in the structure of the heart and the circulation of blood between the different vertebrate groups due to adaptation during evolution and associated differences in anatomy. <link target-id="fig-ch40_01_03"/> illustrates the basic circulatory systems of some vertebrates: fish, amphibians, reptiles, and mammals.</para>
-<figure id="fig-ch40_01_03" class="ost-tag-lo-apbio-ch31-s01-lo03"><media id="fs-idp57191520" alt="Illustration A shows the circulatory system of fish, which have a two-chambered heart with one atrium and one ventricle. Blood in systemic circulation flows from the body into the atrium, then into the ventricle. Blood exiting the heart enters gill circulation, where gases are exchanged by gill capillaries. From the gills blood re-enters systemic circulation, where gases in the body are exchanged by body capillaries. Illustration B shows the circulatory system of amphibians, which have a three-chambered heart with two atriums and one ventricle. Blood in systemic circulation enters the heart, flows into the right atrium, then into the ventricle. Blood leaving the ventricle enters pulmonary and skin circulation. Capillaries in the lung and skin exchange gases, oxygenating the blood. From the lungs and skin blood re-enters the heart through the left atrium. Blood flows into the ventricle, where it mixes with blood from systemic circulation. Blood leaves the ventricle and enters systemic circulation. Illustration C shows the circulatory system of reptiles, which have a three-chambered heart. While the right and left atrium are completely separated, there is only a partial septum separating the ventricles, and thus there is some mixing of blood between these chambers. Blood from systemic circulation enters the right atrium, then flows from the right ventricle and enters pulmonary circulation, where blood is oxygenated in the lungs. From the lungs blood travels back into the heart through the left atrium. Because the left and right atrium are not separated, some mixing of oxygenated and deoxygenated blood occurs. Blood is pumped into the left ventricle, then into the body. Illustration D shows the circulatory system of mammals, which have a four-chambered heart. Circulation is similar to that of reptiles, but the four chambers are completely separate from one another, which improves efficiency.">
+<figure id="fig-ch40_01_03"><media id="fs-idp57191520" alt="Illustration A shows the circulatory system of fish, which have a two-chambered heart with one atrium and one ventricle. Blood in systemic circulation flows from the body into the atrium, then into the ventricle. Blood exiting the heart enters gill circulation, where gases are exchanged by gill capillaries. From the gills blood re-enters systemic circulation, where gases in the body are exchanged by body capillaries. Illustration B shows the circulatory system of amphibians, which have a three-chambered heart with two atriums and one ventricle. Blood in systemic circulation enters the heart, flows into the right atrium, then into the ventricle. Blood leaving the ventricle enters pulmonary and skin circulation. Capillaries in the lung and skin exchange gases, oxygenating the blood. From the lungs and skin blood re-enters the heart through the left atrium. Blood flows into the ventricle, where it mixes with blood from systemic circulation. Blood leaves the ventricle and enters systemic circulation. Illustration C shows the circulatory system of reptiles, which have a three-chambered heart. While the right and left atrium are completely separated, there is only a partial septum separating the ventricles, and thus there is some mixing of blood between these chambers. Blood from systemic circulation enters the right atrium, then flows from the right ventricle and enters pulmonary circulation, where blood is oxygenated in the lungs. From the lungs blood travels back into the heart through the left atrium. Because the left and right atrium are not separated, some mixing of oxygenated and deoxygenated blood occurs. Blood is pumped into the left ventricle, then into the body. Illustration D shows the circulatory system of mammals, which have a four-chambered heart. Circulation is similar to that of reptiles, but the four chambers are completely separate from one another, which improves efficiency.">
 <image mime-type="image/jpg" src="../../media/Figure_40_01_03abcd.jpg" width="575"/>
 </media>
 <caption>(a) Fish have the simplest circulatory systems of the vertebrates: blood flows unidirectionally from the two-chambered heart through the gills and then the rest of the body. (b) Amphibians have two circulatory routes: one for oxygenation of the blood through the lungs and skin, and the other to take oxygen to the rest of the body. The blood is pumped from a three-chambered heart with two atria and a single ventricle. (c) Reptiles also have two circulatory routes; however, blood is only oxygenated through the lungs. The heart is three chambered, but the ventricles are partially separated so some mixing of oxygenated and deoxygenated blood occurs except in crocodilians and birds. (d) Mammals and birds have the most efficient heart with four chambers that completely separate the oxygenated and deoxygenated blood; it pumps only oxygenated blood through the body and deoxygenated blood to the lungs.</caption></figure><para id="fs-idm138346464">As illustrated in <link target-id="fig-ch40_01_03"/><emphasis effect="bold">a</emphasis> Fish have a single circuit for blood flow and a two-chambered heart that has only a single atrium and a single ventricle. The atrium collects blood that has returned from the body and the ventricle pumps the blood to the gills where gas exchange occurs and the blood is re-oxygenated; this is called <emphasis>gill circulation</emphasis>. The blood then continues through the rest of the body before arriving back at the atrium; this is called <emphasis>systemic circulation</emphasis>. This unidirectional flow of blood produces a gradient of oxygenated to deoxygenated blood around the fish’s systemic circuit. The result is a limit in the amount of oxygen that can reach some of the organs and tissues of the body, reducing the overall metabolic capacity of fish.</para><para id="fs-idm16534736">In amphibians, reptiles, birds, and mammals, blood flow is directed in two circuits: one through the lungs and back to the heart, which is called <emphasis>pulmonary circulation</emphasis>, and the other throughout the rest of the body and its organs including the brain (systemic circulation). In amphibians, gas exchange also occurs through the skin during pulmonary circulation and is referred to as <emphasis>pulmocutaneous circulation</emphasis>.</para>

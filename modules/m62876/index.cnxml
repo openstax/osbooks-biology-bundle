@@ -21,78 +21,84 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167064634893">Newer technologies have uncovered surprising discoveries with unexpected relationships among organisms, such as the fact that humans seems to be more closely related to fungi than fungi are to plants. (Think about that the next time you see a mushroom). As the information about DNA sequences grows, scientists will become closer to mapping a more accurate evolutionary history of all life on Earth.</para>
 <para id="fs-id1167065938955" class="ost-reading-discard">What makes phylogeny difficult, especially among prokaryotes, is the transfer of genes horizontally (<emphasis>horizontal gene transfer</emphasis>, or <emphasis>HGT</emphasis>) between unrelated species. Like mutations, HGT introduces genetic variation into the bacterial population. This passing of genes between species adds a layer of complexity to understanding relatedness.</para>
-<para id="fs-id1167065983134" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167065983134" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 2.10, 5.4 and 6.7 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167065946743" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 1.B.1 Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today. Second left cell reads: Science Practice. Second right cell reads: 3.1 The student can pose scientific questions. Third left cell reads: Learning Objective. Third right cell reads: 1.14 The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insight into the history of life on Earth." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1">
-<entry class="ost-standards-name"><emphasis>Big Idea 1</emphasis></entry>
-<entry class="ost-standards-description">The process of evolution drives the diversity and unity of life.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>1. Evolution: The process of evolution drives the diversity and unity of life.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 1.B</emphasis></entry>
-<entry class="ost-standards-description">Organisms are linked by lines of descent from common ancestry.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student can pose scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s03-aplo-1-14">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.14 </emphasis></span>
-<span class="ost-standards-description">The student is able to pose scientific questions that correctly identify essential properties of shared, core life processes that provide insight into the history of life on Earth.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>2.10 Origins of Cell Compartmentalization</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>2.10.A Describe similarities and/or differences in compartmentalization between prokaryotic and eukaryotic cells.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>2.10.A.1 Membrane-bound organelles such as mitochondria and chloroplast evolved from once free-living prokaryotic cells via endosymbiosis.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.B Argumentation- Support a claim with evidence from biological principles, concepts, processes, and data.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-1-b-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>1.B.1 </emphasis></span>
-<span class="ost-standards-description">Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s03-aplo-1-15">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.15 </emphasis></span>
-<span class="ost-standards-description">The student is able to describe specific examples of conserved core biological processes and features shared by all domains or within one domain of life, and how these shared, conserved core processes and features support the concept of common ancestry for all organisms.</span>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>5.4 Non-Mendelian Genetics</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>5.4.A Explain deviations from Mendel’s model of the inheritance of traits.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>5.4.A.4 Some traits result from non-nuclear inheritance.
+ii. In animals, mitochondria are usually transmitted by the egg and not by sperm; thus, traits determined by the mitochondrial DNA are typically maternally inherited.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry></entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.A Statistical Tests and Data Analysis- Perform mathematical calculations, including:<newline/>
+i. mathematical equations in the curriculum<newline/>
+ii. means<newline/>
+iii. rates<newline/>
+iv. ratios <newline/>
+v. percentages and percent changes</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.C Statistical Tests and Data Analysis- Perform chi-square hypothesis testing
 </entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.C</emphasis></entry>
-<entry class="ost-standards-description">The processing of genetic information is imperfect and is a source of genetic variation.</entry></row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.7 Mutations</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.7.C Explain how alterations in DNA sequences contribute to variation that can be subject to natural selection.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.7.C.1 Changes in genotype may affect phenotypes that are subject to natural selection. Genetic changes that enhance survival and reproduction can be selected for by environmental conditions.<newline/>
+i. The horizontal acquisition of genetic information in prokaryotes via transformation (uptake of DNA), transduction (viral transmission of genetic information), conjugation (cell-to-cell transfer of DNA), and transposition (movement of DNA segments within and between DNA molecules) increase genetic variation.<newline/>
+ii. Related viruses can recombine genetic information if they infect the same host cell.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.C Visual Representations- Explain how biological models relate to larger principles, concepts, processes, systems, or theories.</entry>
+</row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.C.2 </emphasis></span>
-<span class="ost-standards-description">Biological systems have multiple processes that increase genetic variation.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch20-s03-aplo-3-27">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.27 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct an explanation of processes that increase variation within a population.</span>
-</entry>
-</row>
+
 </tbody>
 </tgroup>
 </table></section>
@@ -108,7 +114,7 @@
 <para id="fs-idm98480400">Classical thinking about prokaryotic evolution, included in the classic tree model, is that species evolve clonally. That is, they produce offspring themselves with only random mutations causing the descent into the variety of modern-day and extinct species known to science. This view is somewhat complicated in eukaryotes that reproduce sexually, but the laws of Mendelian genetics explain the variation in offspring, again, to be a result of a mutation within the species. The concept of genes being transferred between unrelated species was not considered as a possibility until relatively recently. Horizontal gene transfer (HGT), also known as lateral gene transfer, is the transfer of genes between unrelated species. HGT has been shown to be an ever-present phenomenon, with many evolutionists postulating a major role for this process in evolution, thus complicating the simple tree model. Genes have been shown to be passed between species which are only distantly related using standard phylogeny, thus adding a layer of complexity to the understanding of phylogenetic relationships.</para>
 <para id="fs-idp7507536">The various ways that HGT occurs in prokaryotes is important to understanding phylogenies. Although at present HGT is not viewed as important to eukaryotic evolution, HGT does occur in this domain as well. Finally, as an example of the ultimate gene transfer, theories of genome fusion between symbiotic or endosymbiotic organisms have been proposed to explain an event of great importance—the evolution of the first eukaryotic cell, without which humans could not have come into existence.</para>
 </section>
-<section id="fs-idp115591616" class="ost-tag-lo-apbio-ch20-s03-lo01 ost-tag-lo-apbio-ch20-s03-aplo-1-14 ost-tag-lo-apbio-ch20-s03-aplo-1-15 ost-get-exercise">
+<section id="fs-idp115591616" class="ost-tag-lo-apbio-ch20-s03-lo01 ost-tag-lo-apbio-ch20-s03-aplo-1-14 ost-tag-lo-apbio-ch20-s03-aplo-1-15">
 <title>Horizontal Gene Transfer</title>
 <para id="fs-idp25026896">Horizontal gene transfer (HGT) is the introduction of genetic material from one species to another species by mechanisms other than the vertical transmission from parent(s) to offspring. These transfers allow even distantly related species to share genes, influencing their phenotypes. It is thought that HGT is more prevalent in prokaryotes, but that only about 2% of the prokaryotic genome may be transferred by this process. Some researchers believe such estimates are premature:  the actual importance of HGT to evolutionary processes must be viewed as a work in progress. As the phenomenon is investigated more thoroughly, it may be revealed to be more common. Many scientists believe that HGT and mutation appear to be (especially in prokaryotes) a significant source of genetic variation, which is the raw material for the process of natural selection. These transfers may occur between any two species that share an intimate relationship (<link target-id="tab-ch20-03-01"/>).</para>
 <table id="tab-ch20-03-01" summary="This figure shows an extended table that summarizes the mechanisms of prokaryotic and eukaryotic HGT. The table lists the type of mechanism, the mode of transmission, and gives an example." class="top-titled">
@@ -195,7 +201,7 @@
 <title>HGT in Eukaryotes</title>
 <para id="fs-idp17402144">Although it is easy to see how prokaryotes exchange genetic material by HGT, it was initially thought that this process was absent in eukaryotes. After all, prokaryotes are but single cells exposed directly to their environment, whereas the sex cells of multicellular organisms are usually sequestered in protected parts of the body. It follows from this idea that the gene transfers between multicellular eukaryotes should be more difficult. Indeed, it is thought that this process is rarer in eukaryotes and has a much smaller evolutionary impact than in prokaryotes. In spite of this fact, HGT between distantly related organisms has been demonstrated in several eukaryotic species, and it is possible that more examples will be discovered in the future.</para>
 <para id="fs-idm39146080">In plants, gene transfer has been observed in species that cannot cross-pollinate by normal means. Transposons or “jumping genes” have been shown to transfer between rice and millet plant species. Furthermore, fungal species feeding on yew trees, from which the anti-cancer drug paclitaxel is derived from the bark, have acquired the ability to make paclitaxel themselves, a clear example of gene transfer.</para>
-<para id="fs-idm107918560">In animals, a particularly interesting example of HGT occurs within the aphid species (<link target-id="fig-ch20_03_02"/>). Aphids are insects that vary in color based on carotenoid content. Carotenoids are pigments made by a variety of plants, fungi, and microbes, and they serve a variety of functions in animals, who obtain these chemicals from their food. Humans require carotenoids to synthesize vitamin A, and we obtain them by eating orange fruits and vegetables: carrots, apricots, mangoes, and sweet potatoes. On the other hand, aphids have acquired the ability to make the carotenoids on their own. According to DNA analysis, this ability is due to the transfer of fungal genes into the insect by HGT, presumably as the insect consumed fungi for food. A carotenoid enzyme called a desaturase is responsible for the red coloration seen in certain aphids, and it has been further shown that when this gene is mutated and the enzyme looses activity, the aphids revert back to their more common green color (<link target-id="fig-ch20_03_02"/>).</para><figure id="fig-ch20_03_02" class="ost-tag-lo-apbio-ch20-s03-lo01"><media id="fs-idm14790256" alt="Photo a shows small, oval-shaped red aphids crawling on a leaf. Photo b shows green aphids.">
+<para id="fs-idm107918560">In animals, a particularly interesting example of HGT occurs within the aphid species (<link target-id="fig-ch20_03_02"/>). Aphids are insects that vary in color based on carotenoid content. Carotenoids are pigments made by a variety of plants, fungi, and microbes, and they serve a variety of functions in animals, who obtain these chemicals from their food. Humans require carotenoids to synthesize vitamin A, and we obtain them by eating orange fruits and vegetables: carrots, apricots, mangoes, and sweet potatoes. On the other hand, aphids have acquired the ability to make the carotenoids on their own. According to DNA analysis, this ability is due to the transfer of fungal genes into the insect by HGT, presumably as the insect consumed fungi for food. A carotenoid enzyme called a desaturase is responsible for the red coloration seen in certain aphids, and it has been further shown that when this gene is mutated and the enzyme looses activity, the aphids revert back to their more common green color (<link target-id="fig-ch20_03_02"/>).</para><figure id="fig-ch20_03_02"><media id="fs-idm14790256" alt="Photo a shows small, oval-shaped red aphids crawling on a leaf. Photo b shows green aphids.">
 <image mime-type="image/jpg" src="../../media/Figure_20_03_02-c262.jpg" width="450"/>
 </media>
 <caption>(a) Red aphids get their color from red carotenoid pigment. Genes necessary to make this pigment are present in certain fungi, and scientists speculate that aphids acquired these genes through HGT after consuming fungi for food. If genes for making carotenoids are inactivated by mutation, the aphids revert back to (b) their green color. Red coloration makes the aphids a lot more conspicuous to predators, but evidence suggests that red aphids are more resistant to insecticides than green ones. Thus, red aphids may be more fit to survive in some environments than green ones. (credit a: modification of work by Benny Mazur; credit b: modification of work by Mick Talbot)</caption></figure></section>
@@ -216,34 +222,34 @@
 </problem>
 </exercise>
 </note>
-<section id="fs-idp766224" class="ost-tag-lo-apbio-ch20-s03-aplo-1-14 ost-tag-lo-apbio-ch20-s03-aplo-1-15 ost-tag-lo-apbio-ch20-s03-aplo-3-27 ost-get-exercise">
+<section id="fs-idp766224" class="ost-tag-lo-apbio-ch20-s03-aplo-1-14 ost-tag-lo-apbio-ch20-s03-aplo-1-15 ost-tag-lo-apbio-ch20-s03-aplo-3-27">
 <title>Genome Fusion and the Evolution of Eukaryotes</title>
 <para id="fs-idp89332464">Scientists believe the ultimate in HGT occurs through <emphasis>genome fusion</emphasis> between different species of prokaryotes when two symbiotic organisms become endosymbiotic. This occurs when one species is taken inside the cytoplasm of another species, which ultimately results in a genome consisting of genes from both the endosymbiont and the host. This mechanism is an aspect of the Endosymbiont Theory, which is accepted by a majority of biologists as the mechanism whereby eukaryotic cells obtained their mitochondria and chloroplasts. However, the role of endosymbiosis in the development of the nucleus is more controversial. Nuclear and mitochondrial DNA are thought to be of different (separate) evolutionary origin, with the mitochondrial DNA being derived from the circular genomes of bacteria that were engulfed by ancient prokaryotic cells. Mitochondrial DNA can be regarded as the smallest chromosome. Interestingly enough, mitochondrial DNA is inherited only from the mother. The mitochondrial DNA degrades in sperm when the sperm degrades in the fertilized egg or in other instances when the mitochondria located in the flagellum of the sperm fails to enter the egg.</para>
 <para id="fs-idp53484800">Within the past decade, the process of genome fusion by endosymbiosis has been proposed by James Lake of the UCLA/NASA Astrobiology Institute to be responsible for the evolution of the first eukaryotic cells (<link target-id="fig-ch20_03_03"/><emphasis effect="bold">a</emphasis>). Using DNA analysis and a new mathematical algorithm called conditioned reconstruction (CR), his laboratory proposed that eukaryotic cells developed from an endosymbiotic gene fusion between two species, one an Archaea and the other a Bacteria. As mentioned, some eukaryotic genes resemble those of Archaea, whereas others resemble those from Bacteria. An endosymbiotic fusion event, such as Lake has proposed, would clearly explain this observation. On the other hand, this work is new and the CR algorithm is relatively unsubstantiated, which causes many scientists to resist this hypothesis.</para>
-<para id="fs-idp3404944">More recent work by Lake (<link target-id="fig-ch20_03_03"/><emphasis effect="bold">b</emphasis>) proposes that gram-negative bacteria, which are unique within their domain in that they contain two lipid bilayer membranes, indeed resulted from an endosymbiotic fusion of archaeal and bacterial species. The double membrane would be a direct result of the endosymbiosis, with the endosymbiont picking up the second membrane from the host as it was internalized. This mechanism has also been used to explain the double membranes found in mitochondria and chloroplasts. Some are skeptical of Lake’s work, and the biological science community still debates his ideas. In addition to Lake’s hypothesis, there are several other competing theories as to the origin of eukaryotes. How did the eukaryotic nucleus evolve? One theory is that the prokaryotic cells produced an additional membrane that surrounded the bacterial chromosome. Some bacteria have the DNA enclosed by two membranes; however, there is no evidence of a nucleolus or nuclear pores. Other proteobacteria also have membrane-bound chromosomes. If the eukaryotic nucleus evolved this way, we would expect one of the two types of prokaryotes to be more closely related to eukaryotes.</para><figure id="fig-ch20_03_03" class="ost-tag-lo-apbio-ch20-s03-lo02"><media id="fs-idp26957504" alt="Part A shows a eukaryotic cell. The illustration indicates that, within the nucleus, operational genes were inherited from an ancestral Eubacteria, and informational genes were inherited from an ancestral Archaebacteria. Part B indicates that the outer membrane of Gram-negative bacteria is derived from Archaea, and the inner membrane is derived from Gram-positive bacteria.">
+<para id="fs-idp3404944">More recent work by Lake (<link target-id="fig-ch20_03_03"/><emphasis effect="bold">b</emphasis>) proposes that gram-negative bacteria, which are unique within their domain in that they contain two lipid bilayer membranes, indeed resulted from an endosymbiotic fusion of archaeal and bacterial species. The double membrane would be a direct result of the endosymbiosis, with the endosymbiont picking up the second membrane from the host as it was internalized. This mechanism has also been used to explain the double membranes found in mitochondria and chloroplasts. Some are skeptical of Lake’s work, and the biological science community still debates his ideas. In addition to Lake’s hypothesis, there are several other competing theories as to the origin of eukaryotes. How did the eukaryotic nucleus evolve? One theory is that the prokaryotic cells produced an additional membrane that surrounded the bacterial chromosome. Some bacteria have the DNA enclosed by two membranes; however, there is no evidence of a nucleolus or nuclear pores. Other proteobacteria also have membrane-bound chromosomes. If the eukaryotic nucleus evolved this way, we would expect one of the two types of prokaryotes to be more closely related to eukaryotes.</para><figure id="fig-ch20_03_03"><media id="fs-idp26957504" alt="Part A shows a eukaryotic cell. The illustration indicates that, within the nucleus, operational genes were inherited from an ancestral Eubacteria, and informational genes were inherited from an ancestral Archaebacteria. Part B indicates that the outer membrane of Gram-negative bacteria is derived from Archaea, and the inner membrane is derived from Gram-positive bacteria.">
 <image mime-type="image/jpg" src="../../media/Figure_20_03_03-c1e5.jpg" width="320"/>
 </media>
 
 <caption>The theory that mitochondria and chloroplasts are endosymbiotic in origin is now widely accepted. More controversial is the proposal that (a) the eukaryotic nucleus resulted from fusing archaeal and bacterial genomes with their operational genes (whose products are involved in biochemical pathways) and informational genes (whose products are involved in transcription and translation), and that (b) Gramnegative bacteria, which have two membranes, resulted from fusing Archaea and Gram-positive bacteria, each of which has a single membrane.</caption></figure><para id="fs-idm3600320">The <emphasis>nucleus-first</emphasis> hypothesis proposes that the nucleus evolved in prokaryotes first (<link target-id="fig-ch20_03_04"/><emphasis effect="bold">a</emphasis>), followed by a later fusion of the new eukaryote with bacteria that became mitochondria. The <emphasis>mitochondria-first</emphasis> hypothesis proposes that mitochondria were first established in a prokaryotic host (<link target-id="fig-ch20_03_04"/><emphasis effect="bold">b</emphasis>), which subsequently acquired a nucleus, by fusion or other mechanisms, to become the first eukaryotic cell. Most interestingly, the <emphasis>eukaryote-first</emphasis> hypothesis proposes that prokaryotes actually evolved from eukaryotes by losing genes and complexity (<link target-id="fig-ch20_03_04"/><emphasis effect="bold">c</emphasis>). All of these hypotheses are testable. Only time and more experimentation will determine which hypothesis is best supported by data.</para>
-<figure id="fig-ch20_03_04" class="ost-tag-lo-apbio-ch20-s03-lo02">
+<figure id="fig-ch20_03_04">
 <media id="fs-idp90022272" alt="Part A shows the nucleus-first hypothesis. According to this hypothesis, a primary endosymbiotic event resulted in an ancestral eukaryotic cell acquiring a nucleus, and a secondary endosymbiotic event resulted in the acquisition of a mitochondrion. Part B shows the mitochondrion-first hypothesis. According to this hypothesis, the mitochondrion was acquired before the nucleus, but both were acquired by endosymbiosis. Part C shows the eukaryote-first hypothesis. According to this hypothesis, prokaryotes evolved from eukaryotic cells that lost their nuclei and organelles.">
 <image mime-type="image/jpg" src="../../media/Figure_20_03_04.jpg" width="400"/>
 </media>
 <caption>Three alternate hypotheses of eukaryotic and prokaryotic evolution are (a) the nucleus-first hypothesis, (b) the mitochondrion-first hypothesis, and (c) the eukaryote-first hypothesis.</caption>
 </figure>
 </section>
-<section id="fs-idm112750352" class="ost-tag-lo-apbio-ch20-s03-lo03 ost-tag-lo-apbio-ch20-s03-aplo-1-14 ost-tag-lo-apbio-ch20-s03-aplo-1-15 ost-get-exercise">
+<section id="fs-idm112750352" class="ost-tag-lo-apbio-ch20-s03-lo03 ost-tag-lo-apbio-ch20-s03-aplo-1-14 ost-tag-lo-apbio-ch20-s03-aplo-1-15">
 <title>Web and Network Models</title>
 <para id="fs-idm98464208">The recognition of the importance of HGT, especially in the evolution of prokaryotes, has caused some to propose abandoning the classic “tree of life” model. In 1999, W. Ford Doolittle proposed a phylogenetic model that resembles a web or a network more than a tree. The hypothesis is that eukaryotes evolved not from a single prokaryotic ancestor, but from a pool of many species that were sharing genes by HGT mechanisms. As shown in <link target-id="fig-ch20_03_05"/><emphasis effect="bold">a</emphasis>, some individual prokaryotes were responsible for transferring the bacteria that caused mitochondrial development to the new eukaryotes, whereas other species transferred the bacteria that gave rise to chloroplasts. This model is often called the “<emphasis>web of life</emphasis>.” In an effort to save the tree analogy, some have proposed using the <emphasis effect="italics">Ficus</emphasis> tree (<link target-id="fig-ch20_03_05"/><emphasis effect="bold">b</emphasis>) with its multiple trunks as a phylogenetic to represent a diminished evolutionary role for HGT.</para>
-<figure id="fig-ch20_03_05" class="ost-tag-lo-apbio-ch20-s03-lo03"><media id="fs-idp28268800" alt="Illustration A shows the web of life. The base of this web is an ancestral community of primitive cells. This pool of ancestral cells gave rise to the three domains of life, shown as bacteria, archaea, and eukarya. However, because of gene transfer and endosymbiosis events, connections occur between the branches at various points. Thus, eukaryotic chloroplasts and mitochondria originated in bacterial lineages, and archaea and bacteria have exchanged genes. The overall shape of the web has the ancestral community of primitive cells forming a horizontal base like the ground, multiple trunks extending up from it with some cross connections, continuing with tree-like branches reaching upward.  Some of the branches also have horizontal cross connections between them, such as those for introducing chloroplasts and mitochondria into Eukarya. Part B is a photo of a multi-trunked Ficus tree.">
+<figure id="fig-ch20_03_05"><media id="fs-idp28268800" alt="Illustration A shows the web of life. The base of this web is an ancestral community of primitive cells. This pool of ancestral cells gave rise to the three domains of life, shown as bacteria, archaea, and eukarya. However, because of gene transfer and endosymbiosis events, connections occur between the branches at various points. Thus, eukaryotic chloroplasts and mitochondria originated in bacterial lineages, and archaea and bacteria have exchanged genes. The overall shape of the web has the ancestral community of primitive cells forming a horizontal base like the ground, multiple trunks extending up from it with some cross connections, continuing with tree-like branches reaching upward.  Some of the branches also have horizontal cross connections between them, such as those for introducing chloroplasts and mitochondria into Eukarya. Part B is a photo of a multi-trunked Ficus tree.">
 <image mime-type="image/jpg" src="../../media/Figure_20_03_05-e904.jpg" width="500"/>
 </media>
 
 <caption>In the (a) phylogenetic model proposed by W. Ford Doolittle, the “tree of life” arose from a community of ancestral cells, has multiple trunks, and has connections between branches where horizontal gene transfer has occurred. Visually, this concept is better represented by (b) the multi-trunked <emphasis effect="bold">Ficus</emphasis> than by the single trunk of the oak similar to the tree drawn by Darwin <link target-id="fig-ch20_03_01"/>. (credit b: modification of work by "psyberartist"/Flickr)</caption></figure></section>
-<section id="fs-idm111127392" class="ost-tag-lo-apbio-ch20-s03-lo03 ost-tag-lo-apbio-ch20-s03-aplo-1-14 ost-tag-lo-apbio-ch20-s03-aplo-1-15 ost-get-exercise">
+<section id="fs-idm111127392" class="ost-tag-lo-apbio-ch20-s03-lo03 ost-tag-lo-apbio-ch20-s03-aplo-1-14 ost-tag-lo-apbio-ch20-s03-aplo-1-15">
 <title>Ring of Life Models</title>
 <para id="fs-idm57170032">Others have proposed abandoning any tree-like model of phylogeny in favor of a ring structure, the so-called “<emphasis>ring of life</emphasis>” (<link target-id="fig-ch20_03_06"/>); a phylogenetic model where all three domains of life evolved from a pool of primitive prokaryotes. Lake, again using the conditioned reconstruction algorithm, proposes a ring-like model in which species of all three domains—Archaea, Bacteria, and Eukarya—evolved from a single pool of gene-swapping prokaryotes. His laboratory proposes that this structure is the best fit for data from extensive DNA analyses performed in his laboratory, and that the ring model is the only one that adequately takes HGT and genomic fusion into account. However, other phylogeneticists remain highly skeptical of this model.</para>
-<figure id="fig-ch20_03_06" class="ost-tag-lo-apbio-ch20-s03-lo03">
+<figure id="fig-ch20_03_06">
 <media id="fs-idm85890208" alt="Illustration shows a ring with the words “pool of primitive prokaryotes” in the middle. Three arrows point outward from the ring, pointing at the three domains, Bacteria, Archaea, and Eukarya, indicating that all three domains arose from a common pool of prokaryotes.">
 <image mime-type="image/jpg" src="../../media/Figure_20_03_06-4cf4.jpg" width="350"/>
 </media>

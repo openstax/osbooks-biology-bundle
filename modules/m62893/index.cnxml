@@ -28,78 +28,34 @@ For the purpose of AP<sup>®</sup>, you do not have to memorize the various grou
 <item>When reviewing prokaryotic reproduction, take time to connect new information to students’ previous knowledge. For example, remind students of the importance of genetic diversity as discussed in chapters on evolutionary theory. Emphasize that although new mutations are a major source of variation (as they learned in previous chapters), additional diversity arises in prokaryotic populations from genetic recombination. Stress that while eukaryotes carry out the sexual processes of meiosis and fertilization that combine DNA from two individuals, prokaryotes uses other processes (transformation, transduction, and conjugation) to bring together DNA from different individuals. You may wish to ask students to consider the advantages of several modes of genetic recombination for a population.</item>
 </list>
 </note></note>
-<para id="fs-id1167065772882" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 and Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167065772882" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 3.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167062343721" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 2.B.3 Archaea and Bacteria generally lack internal membranes and organelles. Second left cell reads: Science Practice. Second right cell reads: 1.4 The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively. Third left cell reads: Learning Objective. Third right cell reads: 2.14 The student is able to use representations and models to describe differences in prokaryotic and eukaryotic cells." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-b"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.B</emphasis></entry>
-<entry class="ost-standards-description">Growth, reproduction and dynamic homeostasis require that cell create and maintain internal environments that are different form their external environment.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-b-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.B.3 </emphasis></span>
-<span class="ost-standards-description">Archaea and Bacteria generally lack internal membranes and organelles.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-14">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.14 </emphasis></span>
-<span class="ost-standards-description">The student is able to use representations and models to describe differences in prokaryotic and eukaryotic cells.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>3.4 Photosynthesis</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>3.4.A Describe the photosynthetic processes and structural features of the chloroplast that allow organisms to capture and store energy.
+<newline/>
+Exclusion Statement- Memorization of the steps in the Calvin cycle, the structure of the molecules, and the names of the enzymes involved, with the exception of ATP synthase, is beyond the scope of the AP<sup>®</sup> Exam.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>3.4.A.1 Photosynthesis is the series of reactions that use carbon dioxide (CO<sub>2</sub>), water (H<sub>2</sub>O), and light energy to make carbohydrates and oxygen (O<sub>2</sub>).<newline/>
+ii. Photosynthesis first evolved in prokaryotic organisms.<newline/>
+iii. Scientific evidence supports the claim that prokaryotic (cyanobacterial) photosynthesis was responsible for the production of an oxygenated atmosphere.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.C</emphasis></entry>
-<entry class="ost-standards-description">The processing of genetic information is imperfect and is a source of genetic variation.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-c-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.C.2 </emphasis></span>
-<span class="ost-standards-description">Prokaryotes contain circular chromosomes and plasmid DNA.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-27">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.27 </emphasis></span>
-<span class="ost-standards-description">The student is able to compare and contrast processes by which genetic variation is produced and maintained in organisms from multiple domains.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.B Argumentation- Support a claim with evidence from biological principles, concepts, processes, and data.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-c-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.C.2 </emphasis></span>
-<span class="ost-standards-description">Prokaryotes contain circular chromosomes and plasmid DNA.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-28">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.28 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct an explanation of the multiple processes that increase variation within a population.</span>
-</entry>
-</row>
+
 </tbody>
 
 
@@ -107,17 +63,16 @@ For the purpose of AP<sup>®</sup>, you do not have to memorize the various grou
 
 
 </tgroup>
-</table><para id="fs-id1166849445729">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.5][APLO 2.13][APLO 2.14][APLO 4.9]</para></section>
+</table><para id="fs-id1166849445729">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
 <para id="fs-idm85226496">There are many differences between prokaryotic and eukaryotic cells. However, all cells have four common structures: the plasma membrane, which functions as a barrier for the cell and separates the cell from its environment; the cytoplasm, a jelly-like substance inside the cell; nucleic acids, the genetic material of the cell; and ribosomes, where protein synthesis takes place. Prokaryotes come in various shapes, but many fall into three categories: cocci (spherical), bacilli (rod-shaped), and spirilli (spiral-shaped) (<link target-id="fig-ch22_02_01"/>).</para>
-<figure id="fig-ch22_02_01" class="ost-tag-lo-apbio-ch22-s02-lo01">
+<figure id="fig-ch22_02_01">
 <media id="fs-idm76716288" alt="Part a: The micrograph shows ball-shaped cocci about 0.9 microns long. Part b: The micrograph shows hotdog-shaped bacilli about 2 microns long. Part c: The micrograph shows corkscrew-shaped spirilli that are quite long and 2 microns in diameter.">
 <image mime-type="image/jpg" src="../../media/Figure_B22_02_01abc.jpg" width="550"/>
 </media>
 <caption>Prokaryotes fall into three basic categories based on their shape, visualized here using scanning electron microscopy: (a) cocci, or spherical (a pair is shown); (b) bacilli, or rod-shaped; and (c) spirilli, or spiral-shaped. (credit a: modification of work by Janice Haney Carr, Dr. Richard Facklam, CDC; credit c: modification of work by Dr. David Cox; scale-bar data from Matt Russell)</caption>
 </figure>
 
-<section id="fs-idm38782768" class="ost-tag-lo-apbio-ch22-s02-lo01 ost-tag-lo-apbio-ch22-s02-lo02 ost-tag-lo-apbio-ch22-s02-aplo-2-14 ost-get-exercise">
+<section id="fs-idm38782768" class="ost-tag-lo-apbio-ch22-s02-lo01 ost-tag-lo-apbio-ch22-s02-lo02 ost-tag-lo-apbio-ch22-s02-aplo-2-14">
 <title>The Prokaryotic Cell</title>
 <para id="fs-idm124895072">Recall that prokaryotes (<link target-id="fig-ch22_02_02"/>) are unicellular organisms that lack organelles or other internal membrane-bound structures. Therefore, they do not have a nucleus but instead generally have a single chromosome—a piece of circular, double-stranded DNA located in an area of the cell called the nucleoid. Most prokaryotes have a cell wall outside the plasma membrane.</para>
 <figure id="fig-ch22_02_02" class="ost-tag-lo-apbio-ch22-s02-lo01 ost-tag-lo-apbio-ch22-s02-aplo-2-14">
@@ -155,7 +110,7 @@ For the purpose of AP<sup>®</sup>, you do not have to memorize the various grou
 <section id="fs-idm139848016" class="ost-tag-lo-apbio-ch22-s02-lo01 ost-tag-lo-apbio-ch22-s02-lo02 ost-tag-lo-apbio-ch22-s02-aplo-2-14">
 <title>The Plasma Membrane</title>
 <para id="fs-idm15011632">The plasma membrane is a thin lipid bilayer (6 to 8 nanometers) that completely surrounds the cell and separates the inside from the outside. Its selectively permeable nature keeps ions, proteins, and other molecules within the cell and prevents them from diffusing into the extracellular environment, while other molecules may move through the membrane. Recall that the general structure of a cell membrane is a phospholipid bilayer composed of two layers of lipid molecules. In archaeal cell membranes, isoprene (phytanyl) chains linked to glycerol replace the fatty acids linked to glycerol in bacterial membranes. Some archaeal membranes are lipid monolayers instead of bilayers (<link target-id="fig-ch22_02_06"/>).</para>
-<figure id="fig-ch22_02_07" class="ost-tag-lo-apbio-ch22-s02-lo02">
+<figure id="fig-ch22_02_07">
 <media id="fs-idm82614224" alt="This illustration compares phospholipids from Bacteria and Eukarya to those from Archaea. In Bacteria and Eukarya, fatty acids are attached to glycerol by an ester linkage, while in Archaea, isoprene chains are linked to glycerol by an ether linkage. In the ester linkage, the first carbon in the fatty acid chain has an oxygen double-bonded to it, whereas in the ether linkage, it does not. In Archaea, the isoprene chains have methyl groups branching off from them, whereas such branches are absent in Bacteria and Eukarya.  Both types of phospholipids result in similar lipid bilayers.">
 <image mime-type="image/jpg" src="../../media/Figure_22_02_07f.jpg" width="320"/>
 </media>
@@ -234,7 +189,7 @@ For the purpose of AP<sup>®</sup>, you do not have to memorize the various grou
 </table>
 </section>
 </section>
-<section id="fs-idm82895440" class="ost-tag-lo-apbio-ch22-s02-lo01 ost-tag-lo-apbio-ch22-s02-aplo-3-27 ost-tag-lo-apbio-ch22-s02-aplo-3-28 ost-get-exercise">
+<section id="fs-idm82895440" class="ost-tag-lo-apbio-ch22-s02-lo01 ost-tag-lo-apbio-ch22-s02-aplo-3-27 ost-tag-lo-apbio-ch22-s02-aplo-3-28">
 <title>Reproduction</title>
 <para id="fs-idp45274352">Reproduction in prokaryotes is asexual and usually takes place by binary fission. Recall that the DNA of a prokaryote exists as a single, circular chromosome. Prokaryotes do not undergo mitosis. Rather the chromosome is replicated and the two resulting copies separate from one another, due to the growth of the cell. The prokaryote, now enlarged, is pinched inward at its equator and the two resulting cells, which are clones, separate. Binary fission does not provide an opportunity for genetic recombination or genetic diversity, but prokaryotes can share genes by three other mechanisms.</para>
 <para id="fs-idm89113728">In <emphasis>transformation</emphasis>, the prokaryote takes in DNA found in its environment that is shed by other prokaryotes. If a nonpathogenic bacterium takes up DNA for a toxin gene from a pathogen and incorporates the new DNA into its own chromosome, it too may become pathogenic. In <emphasis>transduction</emphasis>, bacteriophages, the viruses that infect bacteria, sometimes also move short pieces of chromosomal DNA from one bacterium to another. Transduction results in a recombinant organism. Archaea are not affected by bacteriophages but instead have their own viruses that translocate genetic material from one individual to another. In <emphasis>conjugation</emphasis>, DNA is transferred from one prokaryote to another by means of a pilus, which brings the organisms into contact with one another. The DNA transferred can be in the form of a plasmid or as a hybrid, containing both plasmid and chromosomal DNA. These three processes of DNA exchange are shown in <link target-id="fig-ch22_02_09"/>.</para><para id="fs-idm125417776">Reproduction can be very rapid: a few minutes for some species. This short generation time coupled with mechanisms of genetic recombination and high rates of mutation result in the rapid evolution of prokaryotes, allowing them to respond to environmental changes (such as the introduction of an antibiotic) very quickly.</para>
