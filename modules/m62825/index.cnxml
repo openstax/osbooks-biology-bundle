@@ -20,85 +20,100 @@
 </section>
 
 <section id="fs-id1167064900626" class="ap-connection">
-<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066030573">The currently accepted model of the structure of DNA was proposed in 1953 by Watson and Crick, who made their model after seeing a photograph of DNA that Franklin had taken using X-ray crystallography. The photo showed the molecule’s double-helix shape and dimensions. The two strands that make up the double helix are complementary and anti-parallel in nature. That is, one strand runs in the 5' to 3' direction, whereas the complementary strand runs in the 3' to 5' direction. (The significance of directionality will be important when we explore how DNA copies itself.) DNA is a polymer of nucleotides that consists of deoxyribose sugar, a phosphate group, and one of four nitrogenous bases—A, T, C, and G—with a purine always pairing with a pyrimidine (as Chargaff found). The genetic “language” of DNA is found in sequences of the nucleotides. During cell division each daughter cell receives a copy of DNA in a process called replication. In the years since the discovery of the structure of DNA, many technologies, including DNA sequencing, have been developed that enable us to better understand DNA and its role in our genomes.</para><para id="fs-id1167065968305" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A Learning Objective merges required content with one or more of the seven science practices.</para>
+<title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066030573">The currently accepted model of the structure of DNA was proposed in 1953 by Watson and Crick, who made their model after seeing a photograph of DNA that Franklin had taken using X-ray crystallography. The photo showed the molecule’s double-helix shape and dimensions. The two strands that make up the double helix are complementary and anti-parallel in nature. That is, one strand runs in the 5' to 3' direction, whereas the complementary strand runs in the 3' to 5' direction. (The significance of directionality will be important when we explore how DNA copies itself.) DNA is a polymer of nucleotides that consists of deoxyribose sugar, a phosphate group, and one of four nitrogenous bases—A, T, C, and G—with a purine always pairing with a pyrimidine (as Chargaff found). The genetic “language” of DNA is found in sequences of the nucleotides. During cell division each daughter cell receives a copy of DNA in a process called replication. In the years since the discovery of the structure of DNA, many technologies, including DNA sequencing, have been developed that enable us to better understand DNA and its role in our genomes.</para>
+
+<para id="fs-id1167065968305" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 1.6, 6.1, and 6.8 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 
 <table id="fs-id1167064894823" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 6.5 The student can evaluate alternative scientific explanations. Third left cell reads: Learning Objective. Third right cell reads: 3.1 The student is able to construct scientific explanations that use the structures and mechanisms of DNA to support the claim that DNA is the primary source of heritable information." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1 </emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.5 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s02-aplo-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct scientific explanations that use the structures and mechanisms of DNA to support the claim that DNA is the primary source of heritable information.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>1.6 Nucleic Acids</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>1.6.A Describe the structure and function of DNA and RNA.</entry>
 </row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>3.A.1 </emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-4-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.1 </emphasis></span>
-<span class="ost-standards-description">The student can justify the selection of the kind of data needed to answer a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s02-aplo-3-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.2 </emphasis></span>
-<span class="ost-standards-description">The student is able to justify the selection of data from historical investigations that support the claim that DNA is the source of heritable information.</span>
-</entry>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>1.6.A.1 In nucleic acids (DNA and RNA), biological information is encoded in sequences of nucleotide monomers. Each nucleotide has the following structural components: a five-carbon sugar (deoxyribose or ribose), a phosphate, and a nitrogenous base (adenine, thymine, guanine, cytosine, or uracil).</entry>
 </row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>1.6.A.2 Nucleic acids have a linear sequence of nucleotides that have ends, defined by the 3’ (three prime) hydroxyl and the 5’ (five prime) phosphates of the sugar in the nucleotide. During nucleic acid synthesis, nucleotides are added to the 3’ end of the growing strand, resulting in the formation of covalent bonds between nucleotides.<newline/>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name"><emphasis>3.A.1 </emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s02-aplo-3-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.5 </emphasis></span>
-<span class="ost-standards-description">The student can justify the claim that humans can manipulate heritable information by identifying <emphasis effect="italics">at least two </emphasis>commonly used technologies.</span>
-</entry>
+Exclusion Statement- The molecular structure of specific nucleotides is beyond the scope of the AP<sup>®</sup> Exam.</entry>
 </row>
-</tbody>
-
-
-
-</tgroup>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>1.6.A.3 DNA is structured as an antiparallel double helix, with two strands of nucleotides running in opposite 5’ to 3’ orientation. In DNA, adenine nucleotides pair with thymine nucleotides via hydrogen bonds (A-T), and cytosine nucleotides pair with guanine nucleotides via hydrogen bonds (C-G). In RNA, adenine pairs with uracil (A-U).</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>1.6.A.4 Structural differences between DNA and RNA include:<newline/>
+i. DNA contains the sugar deoxyribose, and RNA contains the sugar ribose.<newline/>
+ii. DNA contains the nitrogenous base thymine, and RNA contains the nitrogenous base uracil.<newline/>
+Iii. DNA is typically double stranded, while RNA is typically single stranded.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.A Visual Representations- Describe characteristics of visual representations of biological concepts and processes.</entry>
+</row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>6.1 DNA and RNA Structure</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.1.A Describe the structures involved in passing hereditary information from one generation to the next.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.1.A.1 Genetic information is stored in and passed to subsequent generations through DNA molecules and, in some cases, RNA molecules.<newline/>
+i. Prokaryotic organisms typically have circular chromosomes.<newline/>
+ii. Eukaryotic organisms typically have multiple linear chromosomes that are comprised of DNA. These chromosomes are condensed using histones and associated proteins.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.1.B Describe the characteristics of DNA that allow it to be used as hereditary material. </entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.1.B.1 Nucleic acids exhibit nucleotide base pairing that is conserved through evolution.<newline/>
+i. Purines (guanine and adenine) have a double ring structure.<newline/>
+ii.  Pyrimidines (cytosine, thymine , and uracil) have a single ring structure.<newline/>
+iii. Purines pair with pyrimidines: adenine and thymine (or uracil in RNA) and guanine with cytosine.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.C Concept Explanation- Explain biological concepts and processes in applied contexts.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.8 Biotechnology</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.8.A Explain the use of genetic engineering techniques in analyzing or manipulating DNA.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.8.A.1 Genetic engineering techniques can be used to analyze and manipulate DNA and RNA<newline/>
+i. Gel electrophoresis is a process that separates DNA fragments by size and charge.<newline/>
+iv. DNA sequencing technology determines the order of nucleotides in a DNA molecule. Typically, these techniques result in a DNA fingerprint that allows for the comparison of DNA sequences from various samples.<newline/>
+Exclusion Statement- Knowledge of the details of each of these genetic engineering techniques is beyond the scope of the AP<sup>®</sup> Exam.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.D Argumentation- Explain the relationship between experimental results and larger biological concepts, processes, or theories.</entry>
+</row>
+</tbody></tgroup>
 </table></section>
 
 <note id="fs-id1167065807632" class="os-teacher">
 <label>Teacher Support</label>
 <para id="fs-id1167062361896">Franklin’s X-ray diffraction pictures helped lead to the discovery of the structure of DNA, but Watson and Crick did not mention Franklin in their seminal 1953 paper, which can be found <link window="new" url="https://openstax.org/l/32watcrickpaper">here</link>. This paper includes annotations that help place the work in historical context. Students might be interested to learn how Watson and Crick discovered the structure of DNA. Details can be found at this PBS <link window="new" url="https://openstax.org/l/32pbswatcrick">website</link>. If possible, find a copy of the announcement of the discovery as it appeared in The <emphasis effect="italics">New York Times</emphasis>. The wording is interesting and the significance of the discovery is understated.</para>
 </note>
-<para id="fs-id1166849067491">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.3][APLO 3.5][APLO 3.13]</para><para id="fs-id2164409">The building blocks of DNA are nucleotides. The important components of the nucleotide are a nitrogenous base, deoxyribose (5-carbon sugar), and a phosphate group (<link target-id="fig-ch14_02_01"/>). The nucleotide is named depending on the nitrogenous base. The nitrogenous base can be a purine such as adenine (A) and guanine (G), or a pyrimidine such as cytosine (C) and thymine (T).</para>
+<para id="fs-id1166849067491">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para>
 <figure id="fig-ch14_02_01" class="ost-tag-lo-apbio-ch14-s02-lo01 ost-tag-lo-apbio-ch14-s02-aplo-3-1 ost-tag-lo-apbio-ch14-s02-aplo-4-1"><media id="fs-id1760452" alt="llustration depicts the structure of a nucleoside, which is made up of a pentose with a nitrogenous base attached at the 1 prime position. There are two kinds of nitrogenous bases: pyrimidines, which have one six-membered ring, and purines, which have a six-membered ring fused to a five-membered ring. Cytosine, thymine, and uracil are pyrimidines, and adenine and guanine are purines. A nucleoside with one phosphate attached at the 5 prime position is called a nucleoside monophosphate. A nucleoside with two or three phosphates attached is called a nucleoside diphosphate or nucleoside triphosphate, respectively.">
 <image mime-type="image/jpg" src="../../media/Figure_14_02_01.jpg" width="500"/>
 </media>
@@ -134,7 +149,7 @@
 <note id="eip-id1167063528698"><title>Possible answer:</title> Watson and Crick’s model built on Franklin’s findings that DNA has the structure of a double helix. The finding that DNA can pass information on to the next generation by Hershey and Chase was further evidenced by Watson and Crick’s model, which showed that DNA could encode information using the sequence of its four nucleotides.</note>
 <para id="fs-id1167064996526">The Think About It question is an application of Learning Objective 3.5 and Science Practice 6.4 because students are researching the methods by which humans can manipulate heritable information and describing how those methods were based on the scientific theories and models of Watson and Crick.</para>
 <note id="eip-id1167067079018"><title>Possible answer:</title> PCR allows us to make many copies of DNA for research or other applications. PCR involves separating out the two strands of DNA and adding nucleotides to the specific regions one wishes to amplify. Attaching nucleotide primers allows one to create many copies of only the desired sequences of the DNA. The ability to separate DNA and amplify select regions depends on the knowledge of nucleotide bonding within the DNA molecule described in the Watson and Crick model.</note>
-</note><section id="fs-id1671532" class="ost-get-exercise ost-tag-lo-apbio-ch14-s02-lo02 ost-tag-lo-apbio-ch14-s02-aplo-3-5"><title>DNA Sequencing Techniques</title><para id="fs-id2060998">Until the 1990s, the sequencing of DNA (reading the sequence of DNA) was a relatively expensive and long process. Using radiolabeled nucleotides also compounded the problem through safety concerns. With currently available technology and automated machines, the process is cheap, safer, and can be completed in a matter of hours. Fred Sanger developed the sequencing method used for the human genome sequencing project, which is widely used today (<link target-id="fig-ch14_02_04"/>).</para>
+</note><section id="fs-id1671532" class=" ost-tag-lo-apbio-ch14-s02-lo02 ost-tag-lo-apbio-ch14-s02-aplo-3-5"><title>DNA Sequencing Techniques</title><para id="fs-id2060998">Until the 1990s, the sequencing of DNA (reading the sequence of DNA) was a relatively expensive and long process. Using radiolabeled nucleotides also compounded the problem through safety concerns. With currently available technology and automated machines, the process is cheap, safer, and can be completed in a matter of hours. Fred Sanger developed the sequencing method used for the human genome sequencing project, which is widely used today (<link target-id="fig-ch14_02_04"/>).</para>
 <note id="fs-id2117592" class="interactive ost-assessed-feature ost-tag-lo-apbio-ch14-s02-lo02 ost-tag-lo-apbio-ch14-s02-aplo-3-5"><label>Link to Learning</label>
 <para id="fs-id2897121">Visit <link window="new" url="https://openstax.org/l/DNA_sequencing">this site</link> to watch a video explaining the DNA sequence reading technique that resulted from Sanger’s work.</para>
 <exercise id="fs-id1167066137848" class="os-exercise unnumbered">
@@ -194,7 +209,7 @@
 </problem>
 </exercise>
 
-</note><section id="fs-id3294130" class="ost-get-exercise ost-tag-lo-apbio-ch14-s02-lo03"><title>DNA Packaging in Cells</title><para id="fs-id2215894">When comparing prokaryotic cells to eukaryotic cells, prokaryotes are much simpler than eukaryotes in many of their features (<link target-id="fig-ch14_02_06"/>). Most prokaryotes contain a single, circular chromosome that is found in an area of the cytoplasm called the nucleoid.</para>
+</note><section id="fs-id3294130" class=" ost-tag-lo-apbio-ch14-s02-lo03"><title>DNA Packaging in Cells</title><para id="fs-id2215894">When comparing prokaryotic cells to eukaryotic cells, prokaryotes are much simpler than eukaryotes in many of their features (<link target-id="fig-ch14_02_06"/>). Most prokaryotes contain a single, circular chromosome that is found in an area of the cytoplasm called the nucleoid.</para>
 <note id="fs-id1973249" class="visual-connection ost-assessed-feature ost-tag-lo-apbio-ch14-s02-lo03"><label>Visual Connections</label>
 <para id="fs-id2589720"><figure id="fig-ch14_02_06"><media id="fs-id1970814" alt="Illustration shows a eukaryotic cell, which has a membrane-bound nucleus containing chromatin and a nucleolus, and a prokaryotic cell, which has DNA contained in an area of the cytoplasm called the nucleoid. The prokaryotic cell is much smaller than the eukaryotic cell.">
 <image mime-type="image/png" src="../../media/Figure_14_02_06_new.jpg" width="450"/>
@@ -212,7 +227,7 @@
 </note><para id="fs-id2962722">The size of the genome in one of the most well-studied prokaryotes, <emphasis effect="italics">E.coli,</emphasis> is 4.6 million base pairs (approximately 1.1 mm, if cut and stretched out). So how does this fit inside a small bacterial cell? The DNA is twisted by what is known as supercoiling. Supercoiling means that DNA is either under-wound (less than one turn of the helix per 10 base pairs) or over-wound (more than 1 turn per 10 base pairs) from its normal relaxed state. Some proteins are known to be involved in the supercoiling; other proteins and enzymes such as DNA gyrase help in maintaining the supercoiled structure.</para>
 <para id="fs-id2235232">Eukaryotes, whose chromosomes each consist of a linear DNA molecule, employ a different type of packing strategy to fit their DNA inside the nucleus (<link target-id="fig-ch14_02_07"/>). At the most basic level, DNA is wrapped around proteins known as histones to form structures called nucleosomes. The histones are evolutionarily conserved proteins that are rich in basic amino acids and form an octamer. The DNA (which is negatively charged because of the phosphate groups) is wrapped tightly around the histone core. This nucleosome is linked to the next one with the help of a linker DNA. This is also known as the “beads on a string” structure. This is further compacted into a 30 nm fiber, which is the diameter of the structure. At the metaphase stage, the chromosomes are at their most compact, are approximately 700 nm in width, and are found in association with scaffold proteins.</para>
 <para id="fs-id2685429">In interphase, eukaryotic chromosomes have two distinct regions that can be distinguished by staining. The tightly packaged region is known as heterochromatin, and the less dense region is known as euchromatin. Heterochromatin usually contains genes that are not expressed, and is found in the regions of the centromere and telomeres. The euchromatin usually contains genes that are transcribed, with DNA packaged around nucleosomes but not further compacted.</para>
-<figure id="fig-ch14_02_07" class="ost-tag-lo-apbio-ch14-s02-lo03"><media id="fs-id1987230" alt="Illustration shows the levels of organization of eukaryotic chromosomes, starting with the DNA double helix, which wraps around histone proteins. The entire DNA molecule wraps around many clusters of histone proteins, forming a structure that looks like beads on a string. The chromatin is further condensed by wrapping around a protein core. The result is a compact chromosome, shown in duplicated form.">
+<figure id="fig-ch14_02_07"><media id="fs-id1987230" alt="Illustration shows the levels of organization of eukaryotic chromosomes, starting with the DNA double helix, which wraps around histone proteins. The entire DNA molecule wraps around many clusters of histone proteins, forming a structure that looks like beads on a string. The chromatin is further condensed by wrapping around a protein core. The result is a compact chromosome, shown in duplicated form.">
 <image mime-type="image/jpg" src="../../media/Figure_14_02_07-de13.jpg" width="275"/>
 </media>
 <caption>These figures illustrate the compaction of the eukaryotic chromosome.</caption></figure></section>

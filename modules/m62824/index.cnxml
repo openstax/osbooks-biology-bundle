@@ -20,89 +20,38 @@
 <section id="fs-id1167067200937" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167066803741">Today the three letters “DNA” have become synonymous with crime solving, paternity testing, human identification, and genetic testing. All of these procedures are possible because of the discovery, in the middle of the twentieth century, that DNA is the genetic material. The results of several classic experiments set the stage for an explosion of our knowledge about DNA and how it stores and transmits genetic information. DNA was first isolated from white blood cells by Miescher in the 1860s.  Over fifty years later, Griffith’s work transforming strains of the bacterium <emphasis effect="italics">Streptococcus pneumoniae</emphasis> provided the first clue that DNA and not protein (as others argued) is the universal molecule of heredity. Griffith’s conclusions were later supported by Avery, MacLeod, and McCarty.</para>
 <para id="fs-id1167063563219">Subsequent experiments by Hershey and Chase using the bacteriophage T2 proved decisively that DNA is the genetic material. Shortly thereafter, Chargaff determined the ratios of adenine, thymine, cytosine, and guanine in DNA, suggesting paired relationships (A = T and C = G). He also found that the percentages of A, T, C, and G are different for different species. All of these historically important experiments shaped our current understanding of DNA.</para>
-<para id="fs-id1167066832902" class="ost-reading-discard">The content presented in this section supports the learning objectives outlined in Big Ideas 3 and 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> learning objectives merge essential knowledge content with one or more of the seven science practices. These objectives provide a transparent foundation for the AP<sup>®</sup> Biology course, along with inquiry-based laboratory experiences, instructional activities, and AP<sup>®</sup> exam questions.</para>
+<para id="fs-id1167066832902" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 6.1 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 
 <table id="fs-id1167061253518" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 6.5 The student can evaluate alternative scientific explanations. Third left cell reads: Learning Objective. Third right cell reads: 3.1 The student is able to construct scientific explanations that use the structures and mechanisms of DNA to support the claim that DNA is the primary source of heritable information." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
+</row>
+<row ><entry><emphasis>Topic</emphasis></entry>
+<entry>6.1 DNA and RNA Structure</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.1.A Describe the structures involved in passing hereditary information from one generation to the next.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.1.B Describe the characteristics of DNA that allow it to be used as hereditary material.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>1.C Concept Explanation- Explain biological concepts and processes in applied contexts.</entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1 </emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.5 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s01-aplo-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct scientific explanations that use the structures and mechanisms of DNA to support the claim that DNA is the primary source of heritable information.</span>
-</entry>
-</row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1 </emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-4-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.1 </emphasis></span>
-<span class="ost-standards-description">The student can justify the selection of the kind of data needed to answer a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s01-aplo-3-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.2 </emphasis></span>
-<span class="ost-standards-description">The student is able to justify the selection of data from historical investigations that support the claim that DNA is the source of heritable information.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
-
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.1 </emphasis></span>
-<span class="ost-standards-description">The subcomponents of biological molecules and their sequence determine the properties of that molecule.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-7-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.1 </emphasis></span>
-<span class="ost-standards-description">The student can connect phenomena and models across spatial and temporal scales.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch14-s01-aplo-4-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.1 </emphasis></span>
-<span class="ost-standards-description">The student is able to explain the connection between the sequence and the subcomponents of a biological polymer and its properties.</span>
-</entry>
-</row>
 </tbody>
 
 
 
 
 </tgroup>
-</table><para id="fs-id1166851229765">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.2][APLO 3.28][APLO 1.11][APLO 1.16][APLO 3.1][APLO 4.1]</para></section>
+</table><para id="fs-id1166851229765">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
 
 <note id="fs-id1167067040474" class="os-teacher">
 <label>Teacher Support</label>
@@ -131,10 +80,11 @@
 </exercise>
 </note>
 <para id="fs-id1430986">A half century later, British bacteriologist Frederick Griffith was perhaps the first person to show that hereditary information could be transferred from one cell to another “horizontally,” rather than by descent. In 1928, he reported the first demonstration of bacterial <term id="term-00001">transformation</term>, a process in which external DNA is taken up by a cell, thereby changing morphology and physiology. He was working with <emphasis effect="italics">Streptococcus pneumoniae,</emphasis> the bacterium that causes pneumonia. Griffith worked with two strains, rough (R) and smooth (S). The R strain is non-pathogenic (does not cause disease) and is called rough because its outer surface is a cell wall and lacks a capsule; as a result, the cell surface appears uneven under the microscope. The S strain is pathogenic (disease-causing) and has a capsule outside its cell wall. As a result, it has a smooth appearance under the microscope. Griffith injected the live R strain into mice and they survived. In another experiment, when he injected mice with the heat-killed S strain, they also survived. In a third set of experiments, a mixture of live R strain and heat-killed S strain were injected into mice, and—to his surprise—the mice died. Upon isolating the live bacteria from the dead mouse, only the S strain of bacteria was recovered. When this isolated S strain was injected into fresh mice, the mice died. Griffith concluded that something had passed from the heat-killed S strain into the live R strain and transformed it into the pathogenic S strain, and he called this the transforming principle (<link target-id="fig-ch14_01_02"/>). These experiments are now famously known as Griffith's transformation experiments.</para>
-<figure id="fig-ch14_01_02" class="ost-tag-lo-apbio-ch14-s01-lo01 ost-tag-lo-apbio-ch14-s01-aplo-3-1 ost-tag-lo-apbio-ch14-s01-aplo-3-2"><media id="fs-id1631652" alt="On the left is a photo of a live mouse, representing a mouse injected with heat-killed, virulent S strain. On the right is a photo of a dead mouse, representing a mouse injected with heat-killed, virulent S strain and live, non-virulent R strain.">
-    <image mime-type="image/jpg" src="../../media/Figure_14_01_02-8075.jpg" width="525"/>
+<figure id="fig-ch14_01_02"><media id="fs-id1631652" alt="Four scenarios in an experiment are shown.  In the first, living S cells are injected, and the mouse dies. In the second, living R cells are injected, and the mouse is healthy. In the third, heat-killed S cells are injected, and the mouse is healthy. In the fourth, mixture of heat-killed S cells and Living R cells are injected, and the mouse dies and living S cells are recovered.">
+    <image mime-type="image/jpg" src="../../media/Figure_14_01_02-46c8.jpg"/>
 </media>
-<caption>Two strains of <emphasis effect="italics">S. pneumoniae</emphasis> were used in Griffith’s transformation experiments. The R strain is non-pathogenic. The S strain is pathogenic and causes death. When Griffith injected a mouse with the heat-killed S strain and a live R strain, the mouse died. The S strain was recovered from the dead mouse. Thus, Griffith concluded that something had passed from the heat-killed S strain to the R strain, transforming the R strain into S strain in the process. (credit "living mouse": modification of work by NIH; credit "dead mouse": modification of work by Sarah Marriage)</caption></figure><para id="fs-id2890946">Scientists Oswald Avery, Colin MacLeod, and Maclyn McCarty (1944) were interested in exploring this transforming principle further. They isolated the S strain from the dead mice and isolated the proteins and nucleic acids, namely RNA and DNA, as these were possible candidates for the molecule of heredity. They conducted a systematic elimination study. They used enzymes that specifically degraded each component and then used each mixture separately to transform the R strain. They found that when DNA was degraded, the resulting mixture was no longer able to transform the bacteria, whereas all of the other combinations were able to transform the bacteria. This led them to conclude that DNA was the transforming principle.</para>
+<caption>Two strains of <emphasis effect="italics">S. pneumoniae</emphasis> were used in Griffith’s transformation experiments. The R strain is non-pathogenic, whereas the S strain is pathogenic and causes death. When Griffith injected a mouse with the heat-killed S strain and a live R strain, the mouse died. The S strain was recovered from the dead mouse. Griffith concluded that something had passed from the heat-killed S strain to the R strain, transforming the R strain into the S strain in the process. Credit: Rao, A., Ryan, K. and Tag, A. Department of Biology, Texas A&amp;M University.</caption></figure>
+<para id="fs-id2890946">Scientists Oswald Avery, Colin MacLeod, and Maclyn McCarty (1944) were interested in exploring this transforming principle further. They isolated the S strain from the dead mice and isolated the proteins and nucleic acids, namely RNA and DNA, as these were possible candidates for the molecule of heredity. They conducted a systematic elimination study. They used enzymes that specifically degraded each component and then used each mixture separately to transform the R strain. They found that when DNA was degraded, the resulting mixture was no longer able to transform the bacteria, whereas all of the other combinations were able to transform the bacteria. This led them to conclude that DNA was the transforming principle.</para>
 
 <note id="fs-id1772414" class="career ost-feature ost-tag-lo-apbio-ch14-s01-aplo-3-1"><title>Forensic Scientists and DNA Analysis</title>
 
@@ -164,7 +114,7 @@
 <label>Teacher Support</label>
 <para id="fs-id1167063425369">The activity is an application of Learning Objective 4.1 and Science Practice 7.1 because students are examining the spatial relationships among the components of a DNA strand and explaining the connections between the sequence and subcomponents of the nucleotides.</para>
 
-<para id="fs-id1167065812368">An expanded lab investigation for DNA, involving restriction enzyme analysis, is available from the College Board's® <emphasis effect="italics">AP Biology Investigative Labs: An Inquiry-Based Approach</emphasis> in <link window="new" url="https://openstax.org/l/32BioLab9">Investigation 9</link>.</para>
+<para id="fs-id1167065812368">An expanded lab investigation for DNA, involving restriction enzyme analysis, is available from the College Board's<sup>®</sup> <emphasis effect="italics">AP Biology Investigative Labs: An Inquiry-Based Approach</emphasis> in <link window="new" url="https://openstax.org/l/32BioLab9">Investigation 9</link>.</para>
 
 <para id="fs-id1167066859686">1) Group size is dependent on the availability of molecular model kits. Please note that extra carbon and hydrogen bonds are likely needed for students to make all 4 nucleotides. Groups could also be assigned to make one of the two pairs of nucleotides, after which the groups can combine the molecules into DNA in step 3. Jmol is available for download <link window="new" url="https://openstax.org/l/32Jmol">here</link>.</para>
 <para id="fs-id1167066972337">2) Note: some molecular model kits have special bonds to use for hydrogen bonds. If these bonds are not used, the students may not be able to connect the nucleotides together. Sample answer: One notable difference is that thymine and adenine bond with two hydrogen bonds while cytosine and guanine bond using three hydrogen bonds.</para>

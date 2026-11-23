@@ -23,96 +23,32 @@
 <para id="fs-id1167067070043">The majority of information in this section is illustrative for AP<sup>®</sup>. You do not need to memorize a list of hormones and their effects on different body processes. However, if provided with a diagram showing the activity of a specific hormone, you should be able to interpret the diagram. This section specifically describes how different hormones affect the excretory system, the reproductive system, metabolism, blood calcium concentrations, growth, and the stress response. Disorders such as diabetes can arise from both the underproduction and overproduction of hormones. It is helpful to take a look at a couple of these examples of hormone activity.</para>
 <para id="fs-id1167063518505" class="ost-reading-discard">Blood glucose (sugar) levels vary widely over the course of a day as periods of food consumption alternate with periods of fasting. Insulin and glucagon are two primary hormones responsible for maintaining the homeostasis of blood glucose levels. When the blood glucose level is high, beta cells of the pancreas secrete insulin, enhancing the rate of glucose uptake from the blood and utilization by target cells, such as the use of glucose for ATP production. When the blood glucose level is low, alpha cells of the pancreas secrete glucagon, stimulating the breakdown of glycogen to glucose.</para>
 <para id="fs-id1167061209226" class="ost-reading-discard">A second example is hormonal regulation of the male and female reproductive systems (see the Animal Reproduction and Development chapter). Regulation requires the action of several hormones produced by the pituitary gland, the adrenal cortex, and the gonads. During puberty in both males and females, the hypothalamus produces gonadotropins hormone (GnRH), which stimulates the production and release of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) from the anterior pituitary gland. These hormones regulate the testes in males and ovaries in females. In males, FSH stimulates the maturation of sperm cells; LH stimulates the production of the sex hormones or androgens such as testosterone. (Anabolic steroids, a form of testosterone, have been associated with performance boosting in professional athletes.) In females, FSH stimulates the development of egg cells (ova); LH also plays a role in the development of ova, induction of ovulation, and stimulation of estradiol, the most potent and prevalent form of <term id="term-00001">estrogen</term>, and progesterone production by the ovaries. Estradiol and progesterone are steroid hormones that regulate the menstrual cycle, among other functions. (Birth control pills designed to prevent ovulation contain fluctuating levels of these hormones.)</para>
-<para id="fs-id1167067166007" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167067166007" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 4.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167067044606" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.D.2 Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling. Second left cell reads: Science Practice. Second right cell reads: 6.2: The student can construct explanations of phenomena based on evidence produced through scientific practices. Third left cell reads: Learning Objective. Third right cell reads: 3.34 The student is able to construct explanations of cell communication through cell-to-cell direct contact or through chemical signaling." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry></row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.D</emphasis></entry>
-<entry class="ost-standards-description">Cells communicate by generating, transmitting and receiving chemical signals.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-d-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.D.2 </emphasis></span>
-<span class="ost-standards-description">Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-34">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.34 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct explanations of cell communication through cell-to-cell direct contact or through chemical signaling.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>2. Energetics: Biological systems use energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>4.4 Feedback</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>4.4.A Explain how positive and negative feedback helps maintain homeostasis</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>4.4.A.1 Organisms use feedback mechanisms to maintain their internal environments in response to internal and external changes.<newline/>
+i. Negative feedback mechanisms maintain homeostasis by reducing the initial stimulus to regulate physiological processes. If a system is perturbed or disrupted, negative feedback mechanisms return the system back to its target setpoint. These processes operate at the molecular, cellular, and organismal levels.<newline/>
+ii. Positive feedback mechanisms amplify responses and processes in biological organisms. The variable initiating the response is moved further away from the initial set point. Amplification occurs when the stimulus is further intensified, which, in turn, initiates an additional response that produces system change.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-d-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.D.2 </emphasis></span>
-<span class="ost-standards-description">Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.2 </emphasis></span>
-<span class="ost-standards-description">The student can construct explanations of phenomena based on evidence produced through scientific practices.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-39">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.39 </emphasis></span>
-<span class="ost-standards-description">The student is able to explain how certain drugs affect signal reception and, consequently, signal transduction pathways.</span>
-</entry>
-</row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-d-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.D.2 </emphasis></span>
-<span class="ost-standards-description">Cells communicate with each other through direct contact with other cells or from a distance via chemical signaling.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.1 </emphasis></span>
-<span class="ost-standards-description">The student can create representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-35">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.35 </emphasis></span>
-<span class="ost-standards-description">The student is able to create representations that depict how cell-to-cell communication occurs by direct contact or from a distance through chemical signaling.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-c"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.C</emphasis></entry>
-<entry class="ost-standards-description">Organisms use feedback mechanisms to regulate growth and reproduction, and to maintain dynamic homeostasis.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-c-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.C.1 </emphasis></span>
-<span class="ost-standards-description">Organisms use feedback mechanisms to maintain their internal environments and respond to external environmental changes.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.1 </emphasis></span>
-<span class="ost-standards-description">The student can justify claims with evidence.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-2-20">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.20 </emphasis></span>
-<span class="ost-standards-description">The student is able to justify that positive feedback mechanisms amplify responses in organisms.</span>
-</entry>
-</row>
 </tbody>
 
 
@@ -122,7 +58,7 @@
 </tgroup>
 </table></section>
 <para id="fs-idp7973504">Hormones have a wide range of effects and modulate many different body processes. The key regulatory processes that will be examined here are those affecting the excretory system, the reproductive system, metabolism, blood calcium concentrations, growth, and the stress response.</para>
-<section id="fs-idm267904" class="ost-tag-lo-apbio-ch28-s03-lo01 ost-tag-lo-apbio-ch28-s03-lo04 ost-tag-lo-apbio-ch28-s03-aplo-3-34 ost-get-exercise">
+<section id="fs-idm267904" class="ost-tag-lo-apbio-ch28-s03-lo01 ost-tag-lo-apbio-ch28-s03-lo04 ost-tag-lo-apbio-ch28-s03-aplo-3-34">
 <title>Hormonal Regulation of the Excretory System</title>
 <para id="fs-idp238720">Maintaining a proper water balance in the body is important to avoid dehydration or over-hydration (hyponatremia). The water concentration of the body is monitored by <emphasis>osmoreceptors</emphasis> in the hypothalamus, which detect the concentration of electrolytes in the extracellular fluid. The concentration of electrolytes in the blood rises when there is water loss caused by excessive perspiration, inadequate water intake, or low blood volume due to blood loss. An increase in blood electrolyte levels results in a neuronal signal being sent from the osmoreceptors in hypothalamic nuclei. The pituitary gland has two components: anterior and posterior. The anterior pituitary is composed of glandular cells that secrete protein hormones. The posterior pituitary is an extension of the hypothalamus. It is composed largely of neurons that are continuous with the hypothalamus.</para>
 <para id="fs-idm523184">The hypothalamus produces a polypeptide hormone known as <emphasis>antidiuretic hormone (ADH)</emphasis>, which is transported to and released from the posterior pituitary gland. The principal action of ADH is to regulate the amount of water excreted by the kidneys. As ADH (which is also known as vasopressin) causes direct water reabsorption from the kidney tubules, salts and wastes are concentrated in what will eventually be excreted as urine. The hypothalamus controls the mechanisms of ADH secretion, either by regulating blood volume or the concentration of water in the blood. Dehydration or physiological stress can cause an increase of osmolarity above 300 mOsm/L, which in turn, raises ADH secretion and water will be retained, causing an increase in blood pressure. ADH travels in the bloodstream to the kidneys. Once at the kidneys, ADH changes the kidneys to become more permeable to water by stimulating the temporary insertion of water channels, aquaporins, into the kidney tubules. Water moves out of the kidney tubules through the aquaporins, reducing urine volume. The water is reabsorbed into the capillaries, lowering blood osmolarity back toward normal. As blood osmolarity decreases, a negative feedback mechanism reduces osmoreceptor activity in the hypothalamus, and ADH secretion is reduced. ADH release can be reduced by certain substances, including alcohol, which can cause increased urine production and dehydration.</para><para id="fs-idp89776">Chronic underproduction of ADH or a mutation in the ADH receptor results in <emphasis>diabetes insipidus</emphasis>. If the posterior pituitary does not release enough ADH, water cannot be retained by the kidneys and is lost as urine. This causes increased thirst, but water taken in is lost again and must be continually consumed. If the condition is not severe, dehydration may not occur, but severe cases can lead to electrolyte imbalances due to dehydration.</para>
@@ -133,10 +69,10 @@
 </media>
 
 <caption>ADH and aldosterone increase blood pressure and volume. Angiotensin II stimulates release of these hormones. Angiotensin II, in turn, is formed when renin cleaves angiotensinogen. (credit: modification of work by Mikael Häggström)</caption></figure></section>
-<section id="fs-idp7887184" class="ost-tag-lo-apbio-ch28-s03-lo02 ost-get-exercise">
+<section id="fs-idp7887184">
 <title>Hormonal Regulation of the Reproductive System</title>
 <para id="fs-idp7918288">Regulation of the reproductive system is a process that requires the action of hormones from the pituitary gland, the adrenal cortex, and the gonads. During puberty in both males and females, the hypothalamus produces gonadotropin-releasing hormone (GnRH), which stimulates the production and release of <emphasis>follicle-stimulating hormone (FSH)</emphasis> and luteinizing hormone (LH) from the anterior pituitary gland. These hormones regulate the gonads (testes in males and ovaries in females) and therefore are called <emphasis>gonadotropins</emphasis>. In both males and females, FSH stimulates gamete production and LH stimulates production of hormones by the gonads. An increase in gonad hormone levels inhibits GnRH production through a negative feedback loop.</para>
-<section id="fs-idp2188496" class="ost-tag-lo-apbio-ch28-s03-lo02">
+<section id="fs-idp2188496">
 <title>Regulation of the Male Reproductive System</title><para id="fs-idm239920">In males, FSH stimulates the maturation of sperm cells. FSH production is inhibited by the hormone inhibin, which is released by the testes. LH stimulates production of the sex hormones (<emphasis>androgens</emphasis>) by the interstitial cells of the testes and therefore is also called interstitial cell-stimulating hormone.</para>
 <para id="fs-idp9184176">The most widely known androgen in males is testosterone. Testosterone promotes the production of sperm and masculine characteristics. The adrenal cortex also produces small amounts of testosterone precursor, although the role of this additional hormone production is not fully understood.</para>
 <note id="fs-idp8140816" class="everyday ost-tag-lo-apbio-ch28-s03-lo02 ost-tag-lo-apbio-ch28-s03-aplo-3-39 ost-assessed-feature"><title>The Dangers of Synthetic Hormones</title>
@@ -155,13 +91,13 @@
 <section id="fs-idp393904" class="ost-tag-lo-apbio-ch28-s03-lo02 ost-tag-lo-apbio-ch28-s03-aplo-2-20">
 <title>Regulation of the Female Reproductive System</title>
 <para id="fs-idm212464">In females, FSH stimulates development of egg cells, called ova, which develop in structures called follicles. Follicle cells produce the hormone inhibin, which inhibits FSH production. LH also plays a role in the development of ova, induction of ovulation, and stimulation of estradiol and progesterone production by the ovaries, as illustrated in <link target-id="fig-ch37_03_03"/>. Estradiol and progesterone are steroid hormones that prepare the body for pregnancy. Estradiol produces secondary sex characteristics in females, while both estradiol and progesterone regulate the menstrual cycle.</para>
-<figure id="fig-ch37_03_03" class="ost-tag-lo-apbio-ch28-s03-lo02"><media id="fs-idm255216" alt="The hypothalamus secretes GnRH, which stimulates secretion of FSH and LH from the pituitary. The hypothalamus and pituitary are both found in the brain. FSH and LH stimulate follicle growth in the ovaries, and a surge in LH triggers ovulation. The two ovaries, which are located on either side of the uterus, secrete estradiol, progesterone, and inhibin. Estrodiol and progesterone regulate female sex characteristics and the menstrual cycle. Inhibin inhibits FSH production by the pituitary in a negative feedback loop.">
+<figure id="fig-ch37_03_03"><media id="fs-idm255216" alt="The hypothalamus secretes GnRH, which stimulates secretion of FSH and LH from the pituitary. The hypothalamus and pituitary are both found in the brain. FSH and LH stimulate follicle growth in the ovaries, and a surge in LH triggers ovulation. The two ovaries, which are located on either side of the uterus, secrete estradiol, progesterone, and inhibin. Estrodiol and progesterone regulate female sex characteristics and the menstrual cycle. Inhibin inhibits FSH production by the pituitary in a negative feedback loop.">
 <image mime-type="image/png" src="../../media/Figure_37_03_03.png"/>
 </media>
 <caption>Hormonal regulation of the female reproductive system involves hormones from the hypothalamus, pituitary, and ovaries.</caption></figure><para id="fs-idm518464">In addition to producing FSH and LH, the anterior portion of the pituitary gland also produces the hormone <emphasis>prolactin (PRL)</emphasis> in females. Prolactin stimulates the production of milk by the mammary glands following childbirth. Prolactin levels are regulated by the hypothalamic hormones <emphasis>prolactin-releasing hormone (PRH)</emphasis> and <emphasis>prolactin-inhibiting hormone (PIH)</emphasis>, which is now known to be dopamine. PRH stimulates the release of prolactin and PIH inhibits it.</para><para id="fs-idp9403456">The posterior pituitary releases the hormone <emphasis>oxytocin</emphasis>, which stimulates uterine contractions during childbirth. The uterine smooth muscles are not very sensitive to oxytocin until late in pregnancy when the number of oxytocin receptors in the uterus peaks. Stretching of tissues in the uterus and cervix stimulates oxytocin release during childbirth. Contractions increase in intensity as blood levels of oxytocin rise via a positive feedback mechanism until the birth is complete. Oxytocin also stimulates the contraction of myoepithelial cells around the milk-producing mammary glands. As these cells contract, milk is forced from the secretory alveoli into milk ducts and is ejected from the breasts in milk ejection (“let-down”) reflex. Oxytocin release is stimulated by the suckling of an infant, which triggers the synthesis of oxytocin in the hypothalamus and its release into circulation at the posterior pituitary.</para>
 </section>
 </section>
-<section id="fs-idp9289088" class="ost-tag-lo-apbio-ch28-s03-lo03 ost-tag-lo-apbio-ch28-s03-aplo-3-34 ost-get-exercise">
+<section id="fs-idp9289088" class="ost-tag-lo-apbio-ch28-s03-lo03 ost-tag-lo-apbio-ch28-s03-aplo-3-34">
 <title>Hormonal Regulation of Metabolism</title>
 <para id="fs-idp7985232">Blood glucose levels vary widely over the course of a day as periods of food consumption alternate with periods of fasting. Insulin and glucagon are the two hormones primarily responsible for maintaining homeostasis of blood glucose levels. Additional regulation is mediated by the thyroid hormones.</para>
 <section id="fs-idp9101264" class="ost-tag-lo-apbio-ch28-s03-lo01 ost-tag-lo-apbio-ch28-s03-lo04">
@@ -210,25 +146,25 @@
 <para id="fs-idp372656">Disorders can arise from both the underproduction and overproduction of thyroid hormones. <emphasis>Hypothyroidism</emphasis>, underproduction of the thyroid hormones, can cause a low metabolic rate leading to weight gain, sensitivity to cold, and reduced mental activity, among other symptoms. In children, hypothyroidism can cause cretinism, which can lead to mental retardation and growth defects. <emphasis>Hyperthyroidism</emphasis>, the overproduction of thyroid hormones, can lead to an increased metabolic rate and its effects: weight loss, excess heat production, sweating, and an increased heart rate. Graves’ disease is one example of a hyperthyroid condition.</para>
 </section>
 </section>
-<section id="fs-idp10919600" class="ost-tag-lo-apbio-ch28-s03-lo03 ost-tag-lo-apbio-ch28-s03-lo04 ost-tag-lo-apbio-ch28-s03-aplo-3-34 ost-get-exercise">
+<section id="fs-idp10919600" class="ost-tag-lo-apbio-ch28-s03-lo03 ost-tag-lo-apbio-ch28-s03-lo04 ost-tag-lo-apbio-ch28-s03-aplo-3-34">
 <title>Hormonal Control of Blood Calcium Levels</title>
 <para id="fs-idp11956336">Regulation of blood calcium concentrations is important for generation of muscle contractions and nerve impulses, which are electrically stimulated. If calcium levels get too high, membrane permeability to sodium decreases and membranes become less responsive. If calcium levels get too low, membrane permeability to sodium increases and convulsions or muscle spasms can result.</para>
 <para id="fs-idm421872">Blood calcium levels are regulated by <emphasis>parathyroid hormone (PTH)</emphasis>, which is produced by the parathyroid glands, as illustrated in <link target-id="fig-ch37_03_06"/>. PTH is released in response to low blood Ca<sup>2+</sup> levels. PTH increases Ca<sup>2+ </sup>levels by targeting the skeleton, the kidneys, and the intestine. In the skeleton, PTH stimulates osteoclasts, which causes bone to be reabsorbed, releasing Ca<sup>2+ </sup>from bone into the blood. PTH also inhibits osteoblasts, reducing Ca<sup>2+ </sup>deposition in bone. In the intestines, PTH increases dietary Ca<sup>2+</sup> absorption, and in the kidneys, PTH stimulates reabsorption of the CA<sup>2+</sup>. While PTH acts directly on the kidneys to increase Ca<sup>2+</sup> reabsorption, its effects on the intestine are indirect. PTH triggers the formation of calcitriol, an active form of vitamin D, which acts on the intestines to increase absorption of dietary calcium. PTH release is inhibited by rising blood calcium levels.</para>
-<figure id="fig-ch37_03_06" class="ost-tag-lo-apbio-ch28-s03-lo03"><media id="fs-idp1823984" alt="The parathyroid glands, which are located in the neck, release parathyroid hormone, or PTH. PTH causes the release of calcium from bone and triggers the reabsorption of calcium from the urine in the kidneys. PTH also triggers the formation of calcitriol from vitamin D. Calcitriol causes the intestines to absorb more calcium. The result is increased calcium in the blood.">
+<figure id="fig-ch37_03_06"><media id="fs-idp1823984" alt="The parathyroid glands, which are located in the neck, release parathyroid hormone, or PTH. PTH causes the release of calcium from bone and triggers the reabsorption of calcium from the urine in the kidneys. PTH also triggers the formation of calcitriol from vitamin D. Calcitriol causes the intestines to absorb more calcium. The result is increased calcium in the blood.">
 <image mime-type="image/png" src="../../media/Figure_37_03_06.png" width="280"/>
 </media>
 <caption>Parathyroid hormone (PTH) is released in response to low blood calcium levels. It increases blood calcium levels by targeting the skeleton, the kidneys, and the intestine. (credit: modification of work by Mikael Häggström)</caption></figure><para id="fs-idp322912">Hyperparathyroidism results from an overproduction of parathyroid hormone. This results in excessive calcium being removed from bones and introduced into blood circulation, producing structural weakness of the bones, which can lead to deformation and fractures, plus nervous system impairment due to high blood calcium levels. Hypoparathyroidism, the underproduction of PTH, results in extremely low levels of blood calcium, which causes impaired muscle function and may result in tetany (severe sustained muscle contraction).</para>
 <para id="fs-idp9414992">The hormone <emphasis>calcitonin</emphasis>, which is produced by the parafollicular or C cells of the thyroid, has the opposite effect on blood calcium levels as does PTH. Calcitonin decreases blood calcium levels by inhibiting osteoclasts, stimulating osteoblasts, and stimulating calcium excretion by the kidneys. This results in calcium being added to the bones to promote structural integrity. Calcitonin is most important in children (when it stimulates bone growth), during pregnancy (when it reduces maternal bone loss), and during prolonged starvation (because it reduces bone mass loss). In healthy nonpregnant, unstarved adults, the role of calcitonin is unclear.</para>
 </section>
-<section id="fs-idp2322176" class="ost-tag-lo-apbio-ch28-s03-lo03 ost-tag-lo-apbio-ch28-s03-aplo-3-34 ost-get-exercise">
+<section id="fs-idp2322176" class="ost-tag-lo-apbio-ch28-s03-lo03 ost-tag-lo-apbio-ch28-s03-aplo-3-34">
 <title>Hormonal Regulation of Growth</title>
 <para id="fs-idp7977264">Hormonal regulation is required for the growth and replication of most cells in the body. <emphasis>Growth hormone (GH)</emphasis>, produced by the anterior portion of the pituitary gland, accelerates the rate of protein synthesis, particularly in skeletal muscle and bones. Growth hormone has direct and indirect mechanisms of action. The first direct action of GH is stimulation of triglyceride breakdown (lipolysis) and release into the blood by adipocytes. This results in a switch by most tissues from utilizing glucose as an energy source to utilizing fatty acids. This process is called a <emphasis>glucose-sparing effect</emphasis>. In another direct mechanism, GH stimulates glycogen breakdown in the liver; the glycogen is then released into the blood as glucose. Blood glucose levels increase as most tissues are utilizing fatty acids instead of glucose for their energy needs. The GH mediated increase in blood glucose levels is called a <emphasis>diabetogenic effect</emphasis> because it is similar to the high blood glucose levels seen in diabetes mellitus.</para><para id="fs-idp2520848">The indirect mechanism of GH action is mediated by <emphasis>insulin-like growth factors (IGFs)</emphasis> or somatomedins, which are a family of growth-promoting proteins produced by the liver, which stimulates tissue growth. IGFs stimulate the uptake of amino acids from the blood, allowing the formation of new proteins, particularly in skeletal muscle cells, cartilage cells, and other target cells, as shown in <link target-id="fig-ch37_03_07"/>. This is especially important after a meal, when glucose and amino acid concentration levels are high in the blood. GH levels are regulated by two hormones produced by the hypothalamus. GH release is stimulated by <emphasis>growth hormone-releasing hormone (GHRH)</emphasis> and is inhibited by <emphasis>growth hormone-inhibiting hormone (GHIH)</emphasis>, also called somatostatin.</para>
-<figure id="fig-ch37_03_07" class="ost-tag-lo-apbio-ch28-s03-lo03"><media id="fs-idp7851984" alt="Growth hormone, or G H, is released from the pituitary gland and stimulates bone and muscle growth. It also stimulates fat breakdown by adipocytes and glycogen breakdown by the liver. The liver releases insulin-like growth factors, or I G Fs, which cause target cells to take up amino acids, promoting protein synthesis. G H releasing hormone stimulates the release of G H, and G H inhibiting hormone inhibits the release of G H.">
+<figure id="fig-ch37_03_07"><media id="fs-idp7851984" alt="Growth hormone, or G H, is released from the pituitary gland and stimulates bone and muscle growth. It also stimulates fat breakdown by adipocytes and glycogen breakdown by the liver. The liver releases insulin-like growth factors, or I G Fs, which cause target cells to take up amino acids, promoting protein synthesis. G H releasing hormone stimulates the release of G H, and G H inhibiting hormone inhibits the release of G H.">
 <image mime-type="image/png" src="../../media/Figure_37_03_07.png" width="280"/>
 </media>
 <caption>Growth hormone directly accelerates the rate of protein synthesis in skeletal muscle and bones. Insulin-like growth factor 1 (IGF-1) is activated by growth hormone and also allows formation of new proteins in muscle cells and bone. (credit: modification of work by Mikael Häggström)</caption></figure><para id="fs-idp9397696">A balanced production of growth hormone is critical for proper development. Underproduction of GH in adults does not appear to cause any abnormalities, but in children it can result in <emphasis>pituitary dwarfism</emphasis>, resulting in abnormally short stature with normal body proportions. The height of such individuals is most frequently less than 4 feet (122 cm) in height. Oversecretion of growth hormone can lead to <emphasis>gigantism</emphasis> in children, causing excessive growth. In some documented cases, individuals can reach heights of over eight feet. In adults, excessive GH can lead to <emphasis>acromegaly</emphasis>, a condition in which there is enlargement of bones in the face, hands, and feet that are still capable of growth.</para>
 </section>
-<section id="fs-idp9110304" class="ost-tag-lo-apbio-ch28-s03-lo03 ost-get-exercise">
+<section id="fs-idp9110304">
 <title>Hormonal Regulation of Stress</title>
 <para id="fs-idp9110944">When a threat or danger is perceived, the body responds by releasing hormones that will ready it for the “fight-or-flight” response. The effects of this response are familiar to anyone who has been in a stressful situation: increased heart rate, dry mouth, and hair standing up.</para>
 <note id="fs-idp7893328" class="evolution ost-tag-lo-apbio-ch28-s03-lo03 ost-assessed-feature"><title>Fight-or-Flight Response</title>
@@ -258,7 +194,7 @@
 </problem>
 </exercise>
 </note></section>
-<section id="fs-idp7868032" class="ost-tag-lo-apbio-ch28-s03-lo03">
+<section id="fs-idp7868032">
 <title>Long-term Stress Response</title>
 <para id="fs-idp7868720">Long-term stress response differs from short-term stress response. The body cannot sustain the bursts of energy mediated by epinephrine and norepinephrine for long times. Instead, other hormones come into play. In a long-term stress response, the hypothalamus triggers the release of ACTH from the anterior pituitary gland. The adrenal cortex is stimulated by ACTH to release steroid hormones called <emphasis>corticosteroids</emphasis>. Corticosteroids turn on transcription of certain genes in the nuclei of target cells. They change enzyme concentrations in the cytoplasm and affect cellular metabolism. There are two main corticosteroids: glucocorticoids such as <emphasis>cortisol</emphasis>, and mineralocorticoids such as aldosterone. These hormones target the breakdown of fat into fatty acids in the adipose tissue. The fatty acids are released into the bloodstream for other tissues to use for ATP production. The <emphasis>glucocorticoids</emphasis> primarily affect glucose metabolism by stimulating glucose synthesis. Glucocorticoids also have anti-inflammatory properties through inhibition of the immune system. For example, cortisone is used as an anti-inflammatory medication; however, it cannot be used long term as it increases susceptibility to disease due to its immune-suppressing effects.</para>
 <para id="fs-idp7866256">Mineralocorticoids function to regulate ion and water balance of the body. The hormone aldosterone stimulates the reabsorption of water and sodium ions in the kidney, which results in increased blood pressure and volume.</para>

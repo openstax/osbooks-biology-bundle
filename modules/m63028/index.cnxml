@@ -21,174 +21,41 @@
 <section id="fs-id1167063593821" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167063892277">By using mathematics, ecologists can study how interactions among living organisms and with their environment affect the distribution, abundance, density, and life strategies of species. A population consists of individuals of the same species living within a specific area. Populations fluctuate based on both biotic and abiotic factors. When studying a population, characteristics of that population are quantified and their change is monitored. This statistical study of these changes, <emphasis>demography</emphasis>, investigates how populations respond to these fluctuations. A shift in populations can affect community structure and the ecosystem as a whole.</para>
-<para id="fs-id1167063504532" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 2 and Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167063504532" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 8.3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167063459321" summary="Column 1 Row 1: Essential Knowledge Column 2 Row 1: 2.D.1 All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy. Column 1 Row 2: Science Practice Column 2 Row 2: 6.4 The student can make claims and predictions about natural phenomena based on scientific theories and models. Column 1 Row 3: Learning Objective Column 2 Row 3: 2.3 The student is able to predict how changes in free energy availability affect organisms, populations, and ecosystems." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2">
-<entry class="ost-standards-name"><emphasis>Big Idea 2</emphasis></entry>
-<entry class="ost-standards-description">Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.</entry></row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-2-d"><entry class="ost-standards-name"><emphasis>Enduring Understanding 2.D</emphasis></entry>
-<entry class="ost-standards-description">Growth and dynamic homeostasis of a biological system are influenced by changes in the system’s environment.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.D.1 </emphasis></span>
-<span class="ost-standards-description">All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-2-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.3 </emphasis></span>
-<span class="ost-standards-description">The student is able to predict how changes in free energy availability affect organisms, populations, and ecosystems.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>8.3 Population Ecology</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>8.3.A Describe factors that influence growth dynamics of populations.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.3.A.1 Populations comprise individual organisms of the same species that interact with one another and with the environment in complex ways.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>4.A Representing and Describing Data- Construct a graph to represent the data, including: x-y graphs (bar, histogram, line, log scale, dual y), scatter plot, box and whisker plot, and pie chart. The graph should include the following components:<newline/>
+i. Type of graph appropriate for the data<newline/>
+ii. Axis labeling, including appropriate units and legend<newline/>
+iii. Scaling<newline/>
+iv. Accurately plotted data (including error bars when appropriate)<newline/>
+v. trend line (when appropriate)</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.D.1 </emphasis></span>
-<span class="ost-standards-description">All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-3">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.3 </emphasis></span>
-<span class="ost-standards-description">The student can refine representations and models of natural or man-made phenomena and systems in the domain.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-3-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.2 </emphasis></span>
-<span class="ost-standards-description">The student can refine scientific questions.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-2-22">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.22 </emphasis></span>
-<span class="ost-standards-description">The student is able to refine scientific models and questions about the effect of complex biotic and abiotic interactions on all biological systems, from cells and organisms to populations, communities and ecosystems.</span>
-</entry>
-</row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.D.1 </emphasis></span>
-<span class="ost-standards-description">All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-4-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
-<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-7-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>7.2 </emphasis></span>
-<span class="ost-standards-description">The student can connect concepts in and across domain(s) to generalize or extrapolate in and/or across enduring understandings and/or big ideas.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-2-23">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.23 </emphasis></span>
-<span class="ost-standards-description">The student is able to design a plan for collecting data to show that all biological systems, including populations, are affected by complex biotic and abiotic interactions.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-2-d-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>2.D.1 </emphasis></span>
-<span class="ost-standards-description">All biological systems from cells and organisms to populations, communities and ecosystems are affected by complex biotic and abiotic interactions involving exchange of matter and free energy.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-5-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>5.1 </emphasis></span>
-<span class="ost-standards-description">The student can analyze data to identify patterns or relationships.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-2-24">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.24 </emphasis></span>
-<span class="ost-standards-description">The student is able to analyze data to identify possible patterns and relationships between a biotic or abiotic factors and a biological system, including populations.</span>
-</entry>
-</row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry></row>
-
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.5 </emphasis></span>
-<span class="ost-standards-description">Communities are composed of populations of organisms that interact in complex ways.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-1-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>1.4 </emphasis></span>
-<span class="ost-standards-description">The student can use representations and models to analyze situations or solve problems qualitatively and quantitatively.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-4-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.2 </emphasis></span>
-<span class="ost-standards-description">The student can design a plan for collecting data to answer a particular scientific question.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-4-11">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.11 </emphasis></span>
-<span class="ost-standards-description">The student is able to justify the selection of the kind of data needed to answer scientific questions about the interaction of populations within communities.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.5 </emphasis></span>
-<span class="ost-standards-description">Communities are composed of populations of organisms that interact in complex ways.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-2-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
-<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-4-12">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.12 </emphasis></span>
-<span class="ost-standards-description">The student is able to apply mathematical routines to quantities that describe communities composed of populations of organisms that interact in complex ways.</span>
-</entry>
-</row>
-
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-4-a-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.5 </emphasis></span>
-<span class="ost-standards-description">Communities are composed of populations of organisms that interact in complex ways.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s01-aplo-4-13">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.13 </emphasis></span>
-<span class="ost-standards-description">The student is able to predict the effects of a change in the community’s populations on the community.</span>
-</entry>
-</row>
 </tbody>
 </tgroup>
 </table>
 </section>
   <para id="para-00001">The study of the relationships among living organisms and their environment, <term id="term-00001">ecology</term>, considers organisms at the individual, population, community, ecosystem, and biosphere levels.</para>
-<para id="fs-idm17263648">Populations are dynamic entities. A population consists of all of the individuals of a particular species that occur in a particular area and have the potential to interact with one another. Populations fluctuate based on a number of factors: seasonal and yearly changes in the environment, natural disasters such as forest fires and volcanic eruptions, and competition for resources between and within species. The statistical study of population dynamics, demography, uses a series of mathematical tools to investigate how populations respond to changes in their biotic and abiotic environments. Many of these tools were originally designed to study human populations. For example, <emphasis>life tables</emphasis>, which detail the life expectancy of individuals within a population, were initially developed by life insurance companies to set insurance rates. In fact, while the term “demographics” is commonly used when discussing humans, all living populations can be studied using this approach.</para><section id="fs-idp198531136" class="ost-tag-lo-apbio-ch36-s01-lo01 ost-get-exercise">
+<para id="fs-idm17263648">Populations are dynamic entities. A population consists of all of the individuals of a particular species that occur in a particular area and have the potential to interact with one another. Populations fluctuate based on a number of factors: seasonal and yearly changes in the environment, natural disasters such as forest fires and volcanic eruptions, and competition for resources between and within species. The statistical study of population dynamics, demography, uses a series of mathematical tools to investigate how populations respond to changes in their biotic and abiotic environments. Many of these tools were originally designed to study human populations. For example, <emphasis>life tables</emphasis>, which detail the life expectancy of individuals within a population, were initially developed by life insurance companies to set insurance rates. In fact, while the term “demographics” is commonly used when discussing humans, all living populations can be studied using this approach.</para><section id="fs-idp198531136">
 <title>Population Size and Density</title>
 <para id="fs-idp53097968">The study of any population usually begins by determining how many individuals of a particular species exist, and how closely associated they are with each other. Within a particular habitat, a population can be characterized by its <emphasis>population size (<emphasis effect="italics">N</emphasis>)</emphasis>, the total number of individuals, and its <emphasis>population density</emphasis>, the number of individuals within a specific area or volume. Population size and density are the two main characteristics used to describe and understand populations. For example, populations with more individuals may be more stable than smaller populations based on their genetic variability, and thus their potential to adapt to the environment. Alternatively, a member of a population with low population density (more spread out in the habitat), might have more difficulty finding a mate to reproduce compared to a population of higher density. As is shown in <link target-id="fig-ch45_01_01"/>, smaller organisms tend to be more densely distributed than larger organisms.</para>
 <note id="fs-idp168625840" class="visual-connection ost-assessed-feature"><label>Visual Connection</label>
@@ -245,7 +112,7 @@
 <para id="fs-idp50673072">There are some limitations to the mark and recapture method. Some animals from the first catch may learn to avoid capture in the second round, thus inflating population estimates. Alternatively, animals may preferentially be retrapped (especially if a food reward is offered), resulting in an underestimate of population size. Also, some species may be harmed by the marking technique, reducing their survival. A variety of other techniques have been developed, including the electronic tracking of animals tagged with radio transmitters and the use of data from commercial fishing and trapping operations to estimate the size and health of populations and communities.</para>
 </section>
 </section>
-<section id="fs-idp220428160" class="ost-tag-lo-apbio-ch36-s01-lo02 ost-tag-lo-apbio-ch36-s01-aplo-2-22 ost-get-exercise">
+<section id="fs-idp220428160" class="ost-tag-lo-apbio-ch36-s01-lo02 ost-tag-lo-apbio-ch36-s01-aplo-2-22">
 <title>Species Distribution</title>
 <para id="fs-idm4757008">In addition to measuring simple density, further information about a population can be obtained by looking at the distribution of the individuals. <emphasis>Species dispersion patterns</emphasis> (or distribution patterns) show the spatial relationship between members of a population within a habitat at a particular point in time. In other words, they show whether members of the species live close together or far apart, and what patterns are evident when they are spaced apart.</para>
 <para id="fs-idp91292448">Individuals in a population can be more or less equally spaced apart, dispersed randomly with no predictable pattern, or clustered in groups. These are known as uniform, random, and clumped dispersion patterns, respectively (<link target-id="fig-ch45_01_04"/>). Uniform dispersion is observed in plants that secrete substances inhibiting the growth of nearby individuals (such as the release of toxic chemicals by the sage plant <emphasis effect="italics">Salvia leucophylla, </emphasis>a phenomenon called allelopathy) and in animals like the penguin that maintain a defined territory. An example of random dispersion occurs with dandelion and other plants that have wind-dispersed seeds that germinate wherever they happen to fall in a favorable environment. A clumped dispersion may be seen in plants that drop their seeds straight to the ground, such as oak trees, or animals that live in groups (schools of fish or herds of elephants). Clumped dispersions may also be a function of habitat heterogeneity. Thus, the dispersion of the individuals within a population provides more information about how they interact with each other than does a simple density measurement. Just as lower density species might have more difficulty finding a mate, solitary species with a random distribution might have a similar difficulty when compared to social species clumped together in groups.</para>
@@ -257,7 +124,7 @@
 <title>Demography</title>
 <para id="fs-idp119485552">While population size and density describe a population at one particular point in time, scientists must use demography to study the dynamics of a population. Demography is the statistical study of population changes over time: birth rates, death rates, and life expectancies. Each of these measures, especially birth rates, may be affected by the population characteristics described above. For example, a large population size results in a higher birth rate because more potentially reproductive individuals are present. In contrast, a large population size can also result in a higher death rate because of competition, disease, and the accumulation of waste. Similarly, a higher population density or a clumped dispersion pattern results in more potential reproductive encounters between individuals, which can increase birth rate. Lastly, a female-biased sex ratio (the ratio of males to females) or age structure (the proportion of population members at specific age ranges) composed of many individuals of reproductive age can increase birth rates.</para>
 <para id="fs-idp37440880">In addition, the demographic characteristics of a population can influence how the population grows or declines over time. If birth and death rates are equal, the population remains stable. However, the population size will increase if birth rates exceed death rates; the population will decrease if birth rates are less than death rates. Life expectancy is another important factor; the length of time individuals remain in the population impacts local resources, reproduction, and the overall health of the population. These demographic characteristics are often displayed in the form of a life table.</para>
-<section id="fs-idp110703760" class="ost-tag-lo-apbio-ch36-s01-lo03"><title>Life Tables</title><para id="fs-idp226912464">Life tables provide important information about the life history of an organism. Life tables divide the population into age groups and often sexes, and show how long a member of that group is likely to live. They are modeled after actuarial tables used by the insurance industry for estimating human life expectancy. Life tables may include the probability of individuals dying before their next birthday (i.e., their <emphasis>mortality rate</emphasis>), the percentage of surviving individuals dying at a particular age interval, and their life expectancy at each interval. An example of a life table is shown in <link target-id="tab-ch45_01_01"/> from a study of Dall mountain sheep, a species native to northwestern North America. Notice that the population is divided into age intervals (column A). The mortality rate (per 1000), shown in column D, is based on the number of individuals dying during the age interval (column B) divided by the number of individuals surviving at the beginning of the interval (Column C), multiplied by 1000.</para>
+<section id="fs-idp110703760"><title>Life Tables</title><para id="fs-idp226912464">Life tables provide important information about the life history of an organism. Life tables divide the population into age groups and often sexes, and show how long a member of that group is likely to live. They are modeled after actuarial tables used by the insurance industry for estimating human life expectancy. Life tables may include the probability of individuals dying before their next birthday (i.e., their <emphasis>mortality rate</emphasis>), the percentage of surviving individuals dying at a particular age interval, and their life expectancy at each interval. An example of a life table is shown in <link target-id="tab-ch45_01_01"/> from a study of Dall mountain sheep, a species native to northwestern North America. Notice that the population is divided into age intervals (column A). The mortality rate (per 1000), shown in column D, is based on the number of individuals dying during the age interval (column B) divided by the number of individuals surviving at the beginning of the interval (Column C), multiplied by 1000.</para>
 <equation id="eip-659" class="ost-tag-lo-apbio-ch36-s01-aplo-4-12"><m:math display="block">
  <m:mrow>
   <m:mtext>mortality rate = </m:mtext><m:mfrac>
@@ -411,10 +278,10 @@
             </tbody>
 
 </tgroup><caption>This life table of <emphasis effect="italics">Ovis dalli</emphasis> shows the number of deaths, number of survivors, mortality rate, and life expectancy at each age interval for the Dall mountain sheep.</caption>
-</table></section><section id="fs-idp59499808" class="ost-tag-lo-apbio-ch36-s01-lo04">
+</table></section><section id="fs-idp59499808">
 <title>Survivorship Curves</title>
 <para id="fs-idm33092432">Another tool used by population ecologists is a <emphasis>survivorship curve</emphasis>, which is a graph of the number of individuals surviving at each age interval plotted versus time (usually with data compiled from a life table). These curves allow us to compare the life histories of different populations (<link target-id="fig-ch45_01_05"/>). Humans and most primates exhibit a Type I survivorship curve because a high percentage of offspring survive their early and middle years—death occurs predominantly in older individuals. These types of species usually have small numbers of offspring at one time, and they give a high amount of parental care to them to ensure their survival. Birds are an example of an intermediate or Type II survivorship curve because birds die more or less equally at each age interval. These organisms also may have relatively few offspring and provide significant parental care. Trees, marine invertebrates, and most fishes exhibit a Type III survivorship curve because very few of these organisms survive their younger years; however, those that make it to an old age are more likely to survive for a relatively long period of time. Organisms in this category usually have a very large number of offspring, but once they are born, little parental care is provided. Thus these offspring are “on their own” and vulnerable to predation, but their sheer numbers assure the survival of enough individuals to perpetuate the species.</para>
-<figure id="fig-ch45_01_05" class="ost-tag-lo-apbio-ch36-s01-lo04"><media id="fs-idp204919408" alt="Graph plots the log of number of individuals surviving versus time. Three curves are shown, representing Type I, Type II, and Type III survivorship patterns. Birds exhibit a Type II survivorship curve, which decreases linearly with time. Humans show a Type I survivorship curve, which starts with a gentle slope that becomes increasingly steep with time. Trees show a Type III survivorship pattern, which starts with a steep slope that becomes less steep with time.">
+<figure id="fig-ch45_01_05"><media id="fs-idp204919408" alt="Graph plots the log of number of individuals surviving versus time. Three curves are shown, representing Type I, Type II, and Type III survivorship patterns. Birds exhibit a Type II survivorship curve, which decreases linearly with time. Humans show a Type I survivorship curve, which starts with a gentle slope that becomes increasingly steep with time. Trees show a Type III survivorship pattern, which starts with a steep slope that becomes less steep with time.">
         <image mime-type="image/jpg" src="../../media/Figure_45_01_05.jpg" width="280"/>
     </media>
 <caption>Survivorship curves show the distribution of individuals in a population according to age. Humans and most mammals have a Type I survivorship curve because death primarily occurs in the older years. Birds have a Type II survivorship curve, as death at any age is equally probable. Trees have a Type III survivorship curve because very few survive the younger years, but after a certain age, individuals are much more likely to survive.</caption></figure></section>

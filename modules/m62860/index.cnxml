@@ -32,7 +32,7 @@
 </note>
 
 <para id="fs-id2781391">The introduction of DNA sequencing and whole genome sequencing projects, particularly the Human Genome project, has expanded the applicability of DNA sequence information. Genomics is now being used in a wide variety of fields, such as metagenomics, pharmacogenomics, and mitochondrial genomics. The most commonly known application of genomics is to understand and find cures for diseases.</para>
-<section id="fs-id1907999" class="ost-tag-lo-apbio-ch17-s04-lo02 ost-tag-lo-apbio-ch17-s04-aplo-3-5 ost-get-exercise">
+<section id="fs-id1907999" class="ost-tag-lo-apbio-ch17-s04-lo02 ost-tag-lo-apbio-ch17-s04-aplo-3-5">
 <title>Predicting Disease Risk at the Individual Level</title>
 <para id="fs-id2025320">Predicting the risk of disease involves screening currently healthy individuals by genome analysis at the individual level. Intervention with lifestyle changes and drugs can be recommended before disease onset. However, this approach is most applicable when the problem resides within a single gene defect. Such defects only account for approximately 5 percent of diseases in developed countries. Most of the common diseases, such as heart disease, are multi-factored or <term id="term-00001">polygenic</term>, which is a phenotypic characteristic that involves two or more genes, and also involve environmental factors such as diet. In April 2010, scientists at Stanford University published the genome analysis of a healthy individual (Stephen Quake, a scientist at Stanford University, who had his genome sequenced); the analysis predicted his propensity to acquire various diseases. A risk assessment was performed to analyze Quake’s percentage of risk for 55 different medical conditions. A rare genetic mutation was found, which showed him to be at risk for sudden heart attack. He was also predicted to have a 23 percent risk of developing prostate cancer and a 1.4 percent risk of developing Alzheimer’s. The scientists used databases and several publications to analyze the genomic data. Even though genomic sequencing is becoming more affordable and analytical tools are becoming more reliable, ethical issues surrounding genomic analysis at a population level remain to be addressed.</para>
 <note id="fs-id2763612" class="visual-connection ost-assessed-feature"><label>Visual Connections</label>
@@ -51,12 +51,12 @@
 
 </note></section>
 
-<section id="fs-id1405801" class="ost-get-exercise">
+<section id="fs-id1405801" class="">
 <title>Pharmacogenomics and Toxicogenomics</title>
 <para id="fs-id2120976"><term id="term-00002">Pharmacogenomics</term>, also called toxicogenomics, involves evaluating the effectiveness and safety of drugs on the basis of information from an individual's genomic sequence. Genomic responses to drugs can be studied using experimental animals (such as laboratory rats or mice) or live cells in the laboratory before embarking on studies with humans. Studying changes in gene expression could provide information about the transcription profile in the presence of the drug, which can be used as an early indicator of the potential for toxic effects. For example, genes involved in cellular growth and controlled cell death, when disturbed, could lead to the growth of cancerous cells. Genome-wide studies can also help to find new genes involved in drug toxicity. Personal genome sequence information can be used to prescribe medications that will be most effective and least toxic on the basis of the individual patient’s genotype. The gene signatures may not be completely accurate, but can be tested further before pathologic symptoms arise.</para>
 </section>
 
-<section id="fs-id1444945" class="ost-get-exercise">
+<section id="fs-id1444945" class="">
 <title>Microbial Genomics: Metagenomics</title>
 <para id="fs-id2590614">Traditionally, microbiology has been taught with the view that microorganisms are best studied under <term id="term-00003">pure culture</term> conditions, which involves isolating a single type of cell and culturing it in the laboratory. Because microorganisms can go through several generations in a matter of hours, their gene expression profiles adapt to the new laboratory environment very quickly. In addition, the vast majority of bacterial species resist being cultured in isolation. Most microorganisms do not live as isolated entities, but in microbial communities known as biofilms. For all of these reasons, pure culture is not always the best way to study microorganisms. <term id="term-00004">Metagenomics</term> is the study of the collective genomes of multiple species that grow and interact in an environmental niche. Metagenomics can be used to identify new species more rapidly and to analyze the effect of pollutants on the environment (<link target-id="fig-ch17_04_02"/>).</para>
 <figure id="fig-ch17_04_02" class="ost-tag-lo-apbio-ch17-s04-lo01 ost-tag-lo-apbio-ch17-s04-aplo-3-24"><media id="fs-id1797882" alt="In metagenomics, all of the genomic DNA from a particular environment is cut into fragments and ligated into a cloning vector. The fragments, which may be from several different species, are sequenced. Regions of overlap indicate that two fragments came from the same species. Thus, the genome of each species present can be determined.">
@@ -64,18 +64,18 @@
 </media>
 <caption>Metagenomics involves isolating DNA from multiple species within an environmental niche.</caption></figure></section>
 
-<section id="fs-id2321828" class="ost-get-exercise">
+<section id="fs-id2321828" class="">
 <title>Microbial Genomics: Creation of New Biofuels</title>
 <para id="fs-id1560401">Knowledge of the genomics of microorganisms is being used to find better ways to harness biofuels from algae and cyanobacteria. The primary sources of fuel today are coal, oil, wood, and other plant products, such as ethanol. Although plants are renewable resources, there is still a need to find more alternative renewable sources of energy to meet our population’s energy demands. The microbial world is one of the largest resources for genes that encode new enzymes and produce new organic compounds, and it remains largely untapped. Microorganisms are used to create products, such as enzymes that are used in research, antibiotics, and other anti-microbial mechanisms. Microbial genomics is helping to develop diagnostic tools, improved vaccines, new disease treatments, and advanced environmental cleanup techniques.</para>
 </section>
 
-<section id="fs-id2170202" class="ost-get-exercise">
+<section id="fs-id2170202" class="">
 <title>Mitochondrial Genomics</title>
 <para id="fs-id2003238">Mitochondria are intracellular organelles that contain their own DNA. Mitochondrial DNA mutates at a rapid rate and is often used to study evolutionary relationships. Another feature that makes studying the mitochondrial genome interesting is that the mitochondrial DNA in most multicellular organisms is passed on from the mother during the process of fertilization. For this reason, mitochondrial genomics is often used to trace genealogy.</para>
 <para id="fs-id2100648">Information and clues obtained from DNA samples found at crime scenes have been used as evidence in court cases, and genetic markers have been used in forensic analysis. Genomic analysis has also become useful in this field. In 2001, the first use of genomics in forensics was published. It was a collaborative attempt between academic research institutions and the FBI to solve the mysterious cases of anthrax communicated via the US Postal Service. Using microbial genomics, researchers determined that a specific strain of anthrax was used in all the mailings.</para>
 </section>
 
-<section id="fs-id3015134" class="ost-get-exercise">
+<section id="fs-id3015134" class="">
 <title>Genomics in Agriculture</title>
 <para id="fs-id2074568">Genomics can reduce the trials and failures involved in scientific research to a certain extent, which could improve the quality and quantity of crop yields in agriculture. Linking traits to genes or gene signatures helps to improve crop breeding to generate hybrids with the most desirable qualities. Scientists use genomic data to identify desirable traits, and then transfer those traits to a different organism. Scientists are discovering how genomics can improve the quality and quantity of agricultural production. For example, scientists could use desirable traits to create a useful product or enhance an existing product, such as making a drought-sensitive crop more tolerant of the dry season.</para>
 </section>

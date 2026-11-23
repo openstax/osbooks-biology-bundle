@@ -18,34 +18,33 @@
 </section>
 <section id="fs-id1167065733280" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title><para id="fs-id1167065787672">As expected, transcription in eukaryotes is more complex than transcription in prokaryotes. First, transcription in eukaryotes involves one of three types of RNA polymerase, depending on the gene being transcribed. Second, the initiation of transcription involves the binding of several transcription factors to complex promoters which are usually located upstream of the gene being copied. Transcription factors can either activate or inhibit gene expression. Termination of transcription involves the RNA polymerases.</para>
-<para id="fs-id1167064996728" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.</para><table id="fs-id1167066098830" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 6.5 The student can evaluate alternative scientific explanations. Third left cell reads: Learning Objective. Third right cell reads: 3.1 The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information." class="unnumbered column-header ost-reading-discard"><label/>
+<para id="fs-id1167064996728" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topic 6.3 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
+<table id="fs-id1167066098830" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 6.5 The student can evaluate alternative scientific explanations. Third left cell reads: Learning Objective. Third right cell reads: 3.1 The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.3 Transcription and RNA Processing</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.3.A Describe the mechanism by which genetic information flows from DNA to RNA to protein.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.3.A.4 In eukaryotic cells the mRNA transcript undergoes a series of enzyme-mediated modifications.<newline/>
+i. The addition of a poly-A tail makes mRNA more stable.<newline/>
+ii. The addition of a GTP cap helps with ribosomal recognition.<newline/>
+iii. The excision of introns, along with the splicing and retention of exons, generates different versions of the resulting mature mRNA molecules. This process is known as alternative splicing.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.B Visual Representations- Explain relationships between characteristics of biological models in both theoretical and applied contexts.</entry>
 </row>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1</emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.5</emphasis></span>
-<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch15-s03-aplo-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1</emphasis></span>
-<span class="ost-standards-description">The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information.</span>
-</entry>
-</row>
+
 </tbody>
 
 </tgroup>
@@ -60,14 +59,13 @@
 <label>Background Information</label>
 <para id="fs-id1167065881743">Ribosome assembly takes place in the nucleolus which means that the ribosomal proteins are synthesized in the cytoplasm and re-enter the nucleus.</para>
 </note></note>
-<para id="fs-id1166851378226">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 3.3][APLO 3.22][APLO 2.36][APLO 1.14][APLO 2.22][APLO 4.5]</para><para id="fs-id2026267">Prokaryotes and eukaryotes perform fundamentally the same process of transcription, with a few key differences. The most important difference between prokaryotes and eukaryotes is the latter’s membrane-bound nucleus and organelles. With the genes bound in a nucleus, the eukaryotic cell must be able to transport its mRNA to the cytoplasm and must protect its mRNA from degrading before it is translated. Eukaryotes also employ three different polymerases that each transcribe a different subset of genes. Eukaryotic mRNAs are usually monogenic, meaning that they specify a single protein.</para>
-
-<section id="fs-id1760576" class="ost-tag-lo-apbio-ch15-s03-lo01 ost-tag-lo-apbio-ch15-s03-aplo-3-1 ost-get-exercise">
+<para id="fs-id1166851378226">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam. 
+</para>
+<section id="fs-id1760576" class="ost-tag-lo-apbio-ch15-s03-lo01 ost-tag-lo-apbio-ch15-s03-aplo-3-1">
 <title>Initiation of Transcription in Eukaryotes</title>
 <para id="fs-id2862612">Unlike the prokaryotic polymerase that can bind to a DNA template on its own, eukaryotes require several other proteins, called transcription factors, to first bind to the promoter region and then help recruit the appropriate polymerase.</para>
 
-<section id="fs-id3688592" class="ost-tag-lo-apbio-ch15-s03-lo01 ost-tag-lo-apbio-ch15-s03-aplo-3-1 ost-get-exercise">
+<section id="fs-id3688592" class="ost-tag-lo-apbio-ch15-s03-lo01 ost-tag-lo-apbio-ch15-s03-aplo-3-1">
 <title>The Three Eukaryotic RNA Polymerases</title>
 <para id="fs-id3043156">The features of eukaryotic mRNA synthesis are markedly more complex those of prokaryotes. Instead of a single polymerase comprising five subunits, the eukaryotes have three polymerases that are each made up of 10 subunits or more. Each eukaryotic polymerase also requires a distinct set of transcription factors to bring it to the DNA template.</para>
 <para id="fs-id2074568">RNA polymerase I is located in the nucleolus, a specialized nuclear substructure in which ribosomal RNA (rRNA) is transcribed, processed, and assembled into ribosomes (<link target-id="tab-ch15_03_01"/>). The rRNA molecules are considered structural RNAs because they have a cellular role but are not translated into protein. The rRNAs are components of the ribosome and are essential to the process of translation. RNA polymerase I synthesizes all of the rRNAs except for the 5S rRNA molecule. The “S” designation applies to “Svedberg” units, a nonadditive value that characterizes the speed at which a particle sediments during centrifugation.</para>
@@ -114,7 +112,7 @@
 <para id="fs-id2583722">A scientist characterizing a new gene can determine which polymerase transcribes it by testing whether the gene is expressed in the presence of a particular mushroom poison, α-amanitin (<link target-id="tab-ch15_03_01"/>). Interestingly, α-amanitin produced by <emphasis effect="italics">Amanita phalloides</emphasis>, the Death Cap mushroom, affects the three polymerases very differently. RNA polymerase I is completely insensitive to α-amanitin, meaning that the polymerase can transcribe DNA in vitro in the presence of this poison. In contrast, RNA polymerase II is extremely sensitive to α-amanitin, and RNA polymerase III is moderately sensitive. Knowing the transcribing polymerase can clue a researcher into the general function of the gene being studied. Because RNA polymerase II transcribes the vast majority of genes, we will focus on this polymerase in our subsequent discussions about eukaryotic transcription factors and promoters.</para>
 </section>
 
-<section id="fs-id1951192" class="ost-tag-lo-apbio-ch15-s03-lo01 ost-tag-lo-apbio-ch15-s03-aplo-3-1 ost-get-exercise">
+<section id="fs-id1951192" class="ost-tag-lo-apbio-ch15-s03-lo01 ost-tag-lo-apbio-ch15-s03-aplo-3-1">
 <title>Structure of an RNA Polymerase II Promoter</title>
 <para id="fs-id2196807">Eukaryotic promoters are much larger and more complex than prokaryotic promoters, but both have a TATA box. For example, in the mouse thymidine kinase gene, the TATA box is located at approximately -30 relative to the initiation (+1) site (<link target-id="fig-ch15_03_01"/>). For this gene, the exact TATA box sequence is TATAAAA, as read in the 5' to 3' direction on the nontemplate strand. This sequence is not identical to the <emphasis effect="italics">E. coli</emphasis> TATA box, but it conserves the A–T rich element. The thermostability of A–T bonds is low and this helps the DNA template to locally unwind in preparation for transcription.</para>
 <figure id="fig-ch15_03_01" class="ost-tag-lo-apbio-ch15-s03-lo01 ost-tag-lo-apbio-ch15-s03-aplo-3-1"><media id="fs-id2574107" alt="Illustration shows a series of transcription factors binding to the promoter, which is upstream of the gene. After all of the transcription factors are bound, RNA polymerase binds as well.">
@@ -137,7 +135,7 @@
 </exercise>
 </note><para id="fs-id1807694">The mouse genome includes one gene and two pseudogenes for cytoplasmic thymidine kinase. Pseudogenes are genes that have lost their protein-coding ability or are no longer expressed by the cell. These pseudogenes are copied from mRNA and incorporated into the chromosome. For example, the mouse thymidine kinase promoter also has a conserved <term id="term-00003">CAAT box</term> (GGCCAATCT) at approximately -80. This sequence is essential and is involved in binding transcription factors. Further upstream of the TATA box, eukaryotic promoters may also contain one or more <term id="term-00004">GC-rich boxes</term> (GGCG) or <term id="term-00005">octamer boxes</term> (ATTTGCAT). These elements bind cellular factors that increase the efficiency of transcription initiation and are often identified in more “active” genes that are constantly being expressed by the cell.</para>
 </section>
-<section id="fs-id1894765" class="ost-tag-lo-apbio-ch15-s03-lo01 ost-tag-lo-apbio-ch15-s03-aplo-3-1 ost-get-exercise">
+<section id="fs-id1894765" class="ost-tag-lo-apbio-ch15-s03-lo01 ost-tag-lo-apbio-ch15-s03-aplo-3-1">
 <title>Transcription Factors for RNA Polymerase II</title>
 <para id="fs-id1977416">The complexity of eukaryotic transcription does not end with the polymerases and promoters. An army of basal transcription factors, enhancers, and silencers also help to regulate the frequency with which pre-mRNA is synthesized from a gene. Enhancers and silencers affect the efficiency of transcription but are not necessary for transcription to proceed. Basal transcription factors are crucial in the formation of a <term id="term-00006">preinitiation complex</term> on the DNA template that subsequently recruits RNA polymerase II for transcription initiation.</para>
 <para id="fs-id2334805">The names of the basal transcription factors begin with “TFII” (this is the transcription factor for RNA polymerase II) and are specified with the letters A–J. The transcription factors systematically fall into place on the DNA template, with each one further stabilizing the preinitiation complex and contributing to the recruitment of RNA polymerase II.</para>
@@ -172,13 +170,13 @@
 
 </note></section>
 
-<section id="fs-id1836540" class="ost-tag-lo-apbio-ch15-s03-lo02 ost-tag-lo-apbio-ch15-s03-aplo-3-1 ost-get-exercise">
+<section id="fs-id1836540" class="ost-tag-lo-apbio-ch15-s03-lo02 ost-tag-lo-apbio-ch15-s03-aplo-3-1">
 <title>Promoter Structures for RNA Polymerases I and III</title>
 <para id="fs-id2279649">In eukaryotes, the conserved promoter elements differ for genes transcribed by RNA polymerases I, II, and III. RNA polymerase I transcribes genes that have two GC-rich promoter sequences in the -45 to +20 region. These sequences alone are sufficient for transcription initiation to occur, but promoters with additional sequences in the region from -180 to -105 upstream of the initiation site will further enhance initiation. Genes that are transcribed by RNA polymerase III have upstream promoters or promoters that occur within the genes themselves.</para>
 </section>
 </section>
 
-<section id="fs-id2896654" class="ost-tag-lo-apbio-ch15-s03-lo01 ost-tag-lo-apbio-ch15-s03-aplo-3-1 ost-get-exercise">
+<section id="fs-id2896654" class="ost-tag-lo-apbio-ch15-s03-lo01 ost-tag-lo-apbio-ch15-s03-aplo-3-1">
 <title>Eukaryotic Elongation and Termination</title>
 <para id="fs-id1613052">Following the formation of the preinitiation complex, the polymerase is released from the other transcription factors, and elongation is allowed to proceed as it does in prokaryotes with the polymerase synthesizing pre-mRNA in the 5' to 3' direction. As discussed previously, RNA polymerase II transcribes the major share of eukaryotic genes, so this section will focus on how this polymerase accomplishes elongation and termination.</para>
 <para id="fs-id3053365">Although the enzymatic process of elongation is essentially the same in eukaryotes and prokaryotes, the DNA template is more complex. When eukaryotic cells are not dividing, their genes exist as a diffuse mass of DNA and proteins called chromatin. The DNA is tightly packaged around charged histone proteins at repeated intervals. These DNA–histone complexes, collectively called nucleosomes, are regularly spaced and include 146 nucleotides of DNA wound around eight histones like thread around a spool.</para>

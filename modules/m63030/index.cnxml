@@ -19,61 +19,102 @@
 <section id="fs-id1167065743239" class="ap-connection">
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167064824824">Population ecologists use mathematical methods to model population dynamics. These models can be used to describe changes occurring in a population and to better predict future changes. Applying mathematics to these models (and being able to manipulate the equations) is in scope for AP<sup>®</sup>. (Remember that for the AP<sup>®</sup> Exam you will have access to a formula sheet with these equations.)</para>
-<para id="fs-id1167066098768" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 4 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167066098768" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 8.3 and 8.4 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.</para>
 <table id="fs-id1167062399433" summary="Column 1 Row 1: Essential Knowledge Column 2 Row 1: 4.A.5 Communities are composed of populations of organisms that interact in complex ways. Column 1 Row 2: Science Practice Column 2 Row 2: 2.2 The student can apply mathematical routines to quantities that describe natural phenomena. Column 1 Row 3: Learning Objective Column 2 Row 3: 4.12 The student is able to apply mathematical routines to quantities that describe communities composed of populations of organisms that interact in complex ways." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4">
-<entry class="ost-standards-name"><emphasis>Big Idea 4</emphasis></entry>
-<entry class="ost-standards-description">Biological systems interact, and these systems and their interactions possess complex properties.</entry></row>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>8.3 Population Ecology</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>8.3.A Descibe factors that influence growth dynamics of populations.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.3.A.2 Many adaptations in organisms are related to obtaining and using energy and matter in a particular environment.<newline/>
 
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 4.A</emphasis></entry>
-<entry class="ost-standards-description">Interactions within biological systems lead to complex properties.</entry></row>
+i. Population growth dynamics depend on birth rate, death rate, and population size.<newline/>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.5 </emphasis></span>
-<span class="ost-standards-description">Communities are composed of populations of organisms that interact in complex ways.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-2-2">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>2.2 </emphasis></span>
-<span class="ost-standards-description">The student can apply mathematical routines to quantities that describe natural phenomena.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s03-aplo-4-12">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.12 </emphasis></span>
-<span class="ost-standards-description">The student is able to apply mathematical routines to quantities that describe communities composed of populations of organisms that interact in complex ways.</span>
-</entry>
+<emphasis>Relevant Equation</emphasis><newline/>
+Population Growth-<newline/>
+
+Where<newline/>
+dT = change in time<newline/>
+B = birth rate<newline/>
+D = death rate<newline/>
+N = population size<newline/>
+dN = change in population size<newline/>
+
+ii. Reproduction without constraints results in the exponential growth of a population.<newline/>
+
+<emphasis>Relevant Equation</emphasis><newline/>
+Exponential Growth-<newline/>
+= r<sub>max</sub>N<newline/>
+Where<newline/>
+dt = change in time<newline/>
+N = population size<newline/>
+dN = change in population size<newline/>
+r<sub>max</sub> = maximum per capita growth rate of population</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>4.A Representing and Describing Data- Construct a graph to represent the data, including: x-y graphs (bar, histogram, line, log scale, dual y), scatter plot, box and whisker plot, and pie chart. The graph should include the following components:<newline/>
+i. Type of graph appropriate for the data<newline/>
+ii. Axis labeling, including appropriate units and legend<newline/>
+iii. Scaling<newline/>
+iv. Accurately plotted data (including error bars when appropriate)<newline/>
+v. trend line (when appropriate)</entry>
 </row>
 
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-4-a-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>4.A.5 </emphasis></span>
-<span class="ost-standards-description">Communities are composed of populations of organisms that interact in complex ways.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-std-apbio-sciprac-6-4">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.4 </emphasis></span>
-<span class="ost-standards-description">The student can make claims and predictions about natural phenomena based on scientific theories and models.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-ch36-s03-aplo-4-13">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>4.13 </emphasis></span>
-<span class="ost-standards-description">The student is able to predict the effects of a change in the community’s populations on the community.</span>
-</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>4. Systems Interactions: Biological systems interact, and these systems and their interactions exhibit complex properties.</entry>
 </row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>8.4 Effect of Density on Populations</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>8.4.A Explain how the density of a population affects and is determined by resource availability in the environment.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.4.A.1 Carrying capacity is the sustainable abundance of a species that can be supported by the ecosystem’s total available resources.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>8.4 A.2 As limits to growth attributable to density-dependent and density-independent factors are imposed, a logistic model typically ensues.<newline/>
+<emphasis>Relevant Equation</emphasis><newline/>
+Logistic Growth-<newline/>
+= r<sub>max</sub>N <newline/>
+Where<newline/>
+dT = change in time<newline/>
+N = population size<newline/>
+dN = change in population size<newline/>
+r<sub>max</sub> = maximum per capita growth rate of population<newline/>
+K = carrying capacity</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>5.A Statistical Tests and Data Analysis- Perform mathematical calculations, including:<newline/>
+i. mathematical equations in the curriculum<newline/>
+ii. means<newline/>
+iii. rates<newline/>
+iv. ratios <newline/>
+v. percentages and percent changes</entry>
+</row>
+
+
 </tbody>
 
 
 </tgroup>
 </table></section>
 <para id="fs-idm126310480">Although life histories describe the way many characteristics of a population (such as their age structure) change over time in a general way, population ecologists make use of a variety of methods to model population dynamics mathematically. These more precise models can then be used to accurately describe changes occurring in a population and better predict future changes. Certain models that have been accepted for decades are now being modified or even abandoned due to their lack of predictive ability, and scholars strive to create effective new models.</para>
-<section id="fs-idm165508688" class="ost-tag-lo-apbio-ch36-s03-lo01 ost-tag-lo-apbio-ch36-s03-lo02 ost-get-exercise">
+<section id="fs-idm165508688" class="ost-tag-lo-apbio-ch36-s03-lo01 ost-tag-lo-apbio-ch36-s03-lo02">
 <title>Exponential Growth</title>
 <para id="fs-idm142026480">Charles Darwin, in his theory of natural selection, was greatly influenced by the English clergyman Thomas Malthus. Malthus published a book in 1798 stating that populations with unlimited natural resources grow very rapidly, which represents an <term id="term-00001">exponential growth</term>, and then population growth decreases as resources become depleted, indicating a logistic growth.</para><para id="fs-idm256913536">The best example of exponential growth is seen in bacteria. Bacteria are prokaryotes that reproduce by prokaryotic fission. This division takes about an hour for many bacterial species. If 1000 bacteria are placed in a large flask with an unlimited supply of nutrients (so the nutrients will not become depleted), after an hour, there is one round of division and each organism divides, resulting in 2000 organisms—an increase of 1000. In another hour, each of the 2000 organisms will double, producing 4000, an increase of 2000 organisms. After the third hour, there should be 8000 bacteria in the flask, an increase of 4000 organisms. The important concept of exponential growth is that the <emphasis>population growth rate</emphasis>—the number of organisms added in each reproductive generation—is accelerating; that is, it is increasing at a greater and greater rate. After 1 day and 24 of these cycles, the population would have increased from 1000 to more than 16 billion. When the population size, <emphasis effect="italics">N</emphasis>, is plotted over time, a <emphasis>J-shaped growth curve</emphasis> is produced (<link target-id="fig-ch45_03_01"/>).</para><para id="fs-idm137193024">The bacteria example is not representative of the real world where resources are limited. Furthermore, some bacteria will die during the experiment and thus not reproduce, lowering the growth rate. Therefore, when calculating the growth rate of a population, the <emphasis>death rate (<emphasis effect="italics">D</emphasis>)</emphasis> (number organisms that die during a particular time interval) is subtracted from the <emphasis>birth rate (<emphasis effect="italics">B</emphasis>)</emphasis> (number organisms that are born during that interval). This is shown in the following formula:</para>
 <equation id="eip-596" class="ost-tag-lo-apbio-ch36-s03-aplo-4-12"><m:math display="block">
@@ -137,7 +178,7 @@
             <image mime-type="image/jpg" src="../../media/Figure_45_03_01.jpg" width="480"/>
         </media>
     <caption>When resources are unlimited, populations exhibit exponential growth, resulting in a J-shaped curve. When resources are limited, populations exhibit logistic growth. In logistic growth, population expansion decreases as resources become scarce, and it levels off when the carrying capacity of the environment is reached, resulting in an S-shaped curve.</caption></figure></section>
-<section id="fs-idm166886608" class="ost-tag-lo-apbio-ch36-s03-lo01 ost-get-exercise">
+<section id="fs-idm166886608">
 <title>Logistic Growth</title>
 <para id="fs-idm178752016">Exponential growth is possible only when infinite natural resources are available; this is not the case in the real world. Charles Darwin recognized this fact in his description of the “struggle for existence,” which states that individuals will compete (with members of their own or other species) for limited resources. The successful ones will survive to pass on their own characteristics and traits (which we know now are transferred by genes) to the next generation at a greater rate (natural selection). To model the reality of limited resources, population ecologists developed the <emphasis>logistic growth</emphasis> model.</para>
 <section id="fs-idm262936464">
@@ -187,7 +228,7 @@
 <para id="fs-idm37604320">The logistic model assumes that every individual within a population will have equal access to resources and, thus, an equal chance for survival. For plants, the amount of water, sunlight, nutrients, and the space to grow are the important resources, whereas in animals, important resources include food, water, shelter, nesting space, and mates.</para>
 <para id="fs-idm178436096">In the real world, phenotypic variation among individuals within a population means that some individuals will be better adapted to their environment than others. The resulting competition between population members of the same species for resources is termed <emphasis effect="bold"><emphasis>intraspecific competition</emphasis> </emphasis>(intra- = “within”; -specific = “species”). Intraspecific competition for resources may not affect populations that are well below their carrying capacity—resources are plentiful and all individuals can obtain what they need. However, as population size increases, this competition intensifies. In addition, the accumulation of waste products can reduce an environment’s carrying capacity.</para>
 </section>
-<section id="fs-idm69230000" class="ost-tag-lo-apbio-ch36-s03-lo02">
+<section id="fs-idm69230000">
 <title>Examples of Logistic Growth</title>
 <para id="fs-idm32635216">Yeast, a microscopic fungus used to make bread, exhibits the classical S-shaped curve when grown in a test tube (<link target-id="fig-ch45_03_02"/><emphasis effect="bold">a</emphasis>). Its growth levels off as the population depletes the nutrients that are necessary for its growth. In the real world, however, there are variations to this idealized curve. Examples in wild populations include sheep and harbor seals (<link target-id="fig-ch45_03_02"/><emphasis effect="bold">b</emphasis>). In both examples, the population size exceeds the carrying capacity for short periods of time and then falls below the carrying capacity afterwards. This fluctuation in population size continues to occur as the population oscillates around its carrying capacity. Still, even with this oscillation, the logistic model is confirmed.</para>
 <note id="fs-id1167065803000" class="ap-science-practices ost-reading-discard">

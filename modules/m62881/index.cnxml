@@ -22,53 +22,74 @@
 <title>Connection for AP<sup>®</sup> Courses</title>
 <para id="fs-id1167065957116">The first organisms that originated about 3.5 billion years ago were prokaryotes that possessed the structures and metabolic processes associated with cells (refer to the Cell Structure chapter). As discussed in the chapter on cell structure, prokaryotic cells are much smaller than eukaryotic cells and inhabit just about every square inch of our planet, from the most inhospitable environments to the surface of the skin. Viruses are much smaller than prokaryotes and much simpler in structure. They must reproduce inside a host cell. Their origin is still a mystery to us, but we do know that they can make us very sick.</para>
 <para id="fs-id1167062469082" class="ost-reading-discard">Viruses have a basic structure: a DNA or RNA core surrounded by an outer capsid of proteins. Some viruses have an outer phospholipid envelope. As we will explore in more detail, many viruses use some sort of glycoprotein to attach to their host cells. Viruses infect all known cell types and use the host cell’s replication proteins and metabolic machinery to replicate. Classification of viruses is challenging, but one method categorizes them based on how they produce their mRNA. Retroviruses (also called RNA viruses) use the enzyme reverse transcriptase to transcribe DNA from RNA. (In the Genes and Proteins chapter we learned that the usual flow of genetic information is from DNA to RNA to protein.) Common viruses include bacteriophage T4, adenovirus, and HIV retrovirus.</para>
-<para id="fs-id1167066143310" class="ost-reading-discard">Information presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP<sup>®</sup> Biology Curriculum Framework. The AP<sup>®</sup> Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> exam questions. A learning objective merges required content with one or more of the seven science practices.</para>
+<para id="fs-id1167066143310" class="ost-reading-discard">The information presented and examples highlighted in this section support concepts and Learning Objectives outlined in Topics 6.4 and 7.12 of the AP<sup>®</sup> Biology Curriculum Framework. The Learning Objectives and Essential Knowledge Statements listed in the Curriculum Framework<sup>®</sup> provide a transparent foundation for the AP<sup>®</sup> Biology course, an inquiry-based laboratory experience, instructional activities, and AP<sup>®</sup> Exam questions. Each topic includes one or more suggested Science Practices.
+</para>
 <table id="fs-id1167064908636" summary="Table with two columns and three rows. Top left cell reads: Essential Knowledge. Top right cell reads: 3.A.1 DNA, and in some cases RNA, is the primary source of heritable information. Second left cell reads: Science Practice. Second right cell reads: 6.5 The student can evaluate alternative scientific explanations. Third left cell reads: Learning Objective. Third right cell reads: 3.1 The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information." class="unnumbered column-header ost-reading-discard"><label/>
 <tgroup cols="2"><colspec colname="col1" colnum="1" colwidth="72pt"/>
 <tbody>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3">
-<entry class="ost-standards-name"><emphasis>Big Idea 3</emphasis></entry>
-<entry class="ost-standards-description">Living systems store, retrieve, transmit and respond to information essential to life processes.</entry>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>3. Information Storage and Transmission: Living systems store, retrieve, transmit, and respond to information essential to life processes.</entry>
 </row>
-<row class="ost-reading-discard ost-standards-def ost-standards-apbio ost-tag-std-apbio-3-a"><entry class="ost-standards-name"><emphasis>Enduring Understanding 3.A</emphasis></entry>
-<entry class="ost-standards-description">Heritable information provides for continuity of life.</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-3-a-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Essential Knowledge</emphasis>
-</entry>
-<entry><span class="ost-standards-name">
-<emphasis>3.A.1 </emphasis></span>
-<span class="ost-standards-description">DNA, and in some cases RNA, is the primary source of heritable information.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-sciprac-6-5">
-<entry namest="col1" class="ost-standards-name"><emphasis>Science Practice</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>6.5 </emphasis></span>
-<span class="ost-standards-description">The student can evaluate alternative scientific explanations.</span>
-</entry></row>
-<row class="ost-standards-def ost-standards-apbio ost-tag-lo-apbio-lo-3-1">
-<entry namest="col1" class="ost-standards-name"><emphasis>Learning Objective</emphasis></entry>
-<entry><span class="ost-standards-name"><emphasis>3.1 </emphasis></span>
-<span class="ost-standards-description">The student is able to construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information.</span>
-</entry>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>6.4 Translation</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>6.4 A Explain how the phenotype of an organisms is determined by its genotype. </entry>
 </row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>6.4.A.4 Genetic information in retroviruses is a special case and has an alternative flow of information: from RNA to DNA, made possible by reverse transcriptase, an enzyme that copies the viral RNA genome into DNA. This DNA integrates into the host genome and is transcribed and translated for the assembly of new viral progeny.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>2.D Visual Representations- Represent relationships within biological models, including mathematical models, diagrams, flowcharts, and systems.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>6.E Predict the causes of a change in, or disruption to, one or more components in a biological system.</entry>
+</row>
+<row>
+<entry><emphasis>Big Idea</emphasis></entry>
+<entry>4. Systems Interactions: Biological systems interact, and these systems and their interactions exhibit complex properties.</entry>
+</row>
+<row><entry><emphasis>Topic</emphasis></entry>
+<entry>7.12 Origins of Life on Earth</entry></row>
+<row>
+<entry namest="col1"><emphasis>Learning Objective</emphasis></entry>
+<entry>7.12.A Describe the scientific evidence that supports models of the origin of life on Earth.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Essential Knowledge</emphasis></entry>
+<entry>7.12.A.2 The RNA world hypothesis proposes that RNA could have been the earliest genetic material. There are three assumptions:<newline/>
+i. At some point in time, genetic continuity was assured by the replication of RNA.<newline/>
+ii. Base-pairing is necessary for replication<newline/>
+iii. Genetically encoded proteins were not involved as catalysts.</entry>
+</row>
+<row>
+<entry namest="col1"><emphasis>Science Practice</emphasis></entry>
+<entry>3.B Questions and Methods- State the null hypothesis or predict the results of an experiment.</entry>
+</row>
+
+
 </tbody>
 
 </tgroup>
-</table><para id="fs-id1166847288904">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:<newline/>
-[APLO 2.20][APLO 3.3][APLO 3.29][APLO 3.30][APLO 2.22][APLO 2.26][APLO 1.31][APLO 1.27][APLO 1.30]</para></section>
-<section id="fs-idp48216752" class="ost-tag-lo-apbio-ch21-s01-lo01 ost-get-exercise">
+</table><para id="fs-id1166847288904">The Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP<sup>®</sup> exam.</para></section>
+<section id="fs-idp48216752">
 <title>Discovery and Detection</title>
 <para id="fs-idp53608960">Viruses were first discovered after the development of a porcelain filter, called the Chamberland-Pasteur filter, which could remove all bacteria visible in the microscope from any liquid sample. In 1886, Adolph Meyer demonstrated that a disease of tobacco plants, tobacco mosaic disease, could be transferred from a diseased plant to a healthy one via liquid plant extracts. In 1892, Dmitri Ivanowski showed that this disease could be transmitted in this way even after the Chamberland-Pasteur filter had removed all viable bacteria from the extract. Still, it was many years before it was proven that these “filterable” infectious agents were not simply very small bacteria but were a new type of very small, disease-causing particle.</para>
-<para id="fs-idp52409104"><emphasis>Virions</emphasis>, single virus particles, are very small, about 20–250 nanometers in diameter. These individual virus particles are the infectious form of a virus outside the host cell. Unlike bacteria (which are about 100-times larger), we cannot see viruses with a light microscope, with the exception of some large virions of the poxvirus family. It was not until the development of the electron microscope in the late 1930s that scientists got their first good view of the structure of the tobacco mosaic virus (TMV) (<link target-id="fig-ch21_00_01" document="m62877"/>) and other viruses (<link target-id="fig-ch21_01_01ab" document="m62881"/>). The surface structure of virions can be observed by both scanning and transmission electron microscopy, whereas the internal structures of the virus can only be observed in images from a transmission electron microscope. The use of these technologies has allowed for the discovery of many viruses of all types of living organisms. They were initially grouped by shared morphology. Later, groups of viruses were classified by the type of nucleic acid they contained, DNA or RNA, and whether their nucleic acid was single- or double-stranded. More recently, molecular analysis of viral replicative cycles has further refined their classification.</para><figure id="fig-ch21_01_01ab" class="ost-tag-lo-apbio-ch21-s01-lo01"><media id="fs-idp72036784" alt="Micrograph a shows a virus with a hexagonal head that stands on thin, bent legs. The virus sits on the surface of a cell that is so large that only a small fraction of its surface is visible. Micrograph b shows small bacterial cells that are about the size of the organelles in the adjacent colon cells.">
+<para id="fs-idp52409104"><emphasis>Virions</emphasis>, single virus particles, are very small, about 20–250 nanometers in diameter. These individual virus particles are the infectious form of a virus outside the host cell. Unlike bacteria (which are about 100-times larger), we cannot see viruses with a light microscope, with the exception of some large virions of the poxvirus family. It was not until the development of the electron microscope in the late 1930s that scientists got their first good view of the structure of the tobacco mosaic virus (TMV) (<link target-id="fig-ch21_00_01" document="m62877"/>) and other viruses (<link target-id="fig-ch21_01_01ab" document="m62881"/>). The surface structure of virions can be observed by both scanning and transmission electron microscopy, whereas the internal structures of the virus can only be observed in images from a transmission electron microscope. The use of these technologies has allowed for the discovery of many viruses of all types of living organisms. They were initially grouped by shared morphology. Later, groups of viruses were classified by the type of nucleic acid they contained, DNA or RNA, and whether their nucleic acid was single- or double-stranded. More recently, molecular analysis of viral replicative cycles has further refined their classification.</para><figure id="fig-ch21_01_01ab"><media id="fs-idp72036784" alt="Micrograph a shows a virus with a hexagonal head that stands on thin, bent legs. The virus sits on the surface of a cell that is so large that only a small fraction of its surface is visible. Micrograph b shows small bacterial cells that are about the size of the organelles in the adjacent colon cells.">
 <image mime-type="image/jpg" src="../../media/Figure_21_01_01ab.jpg" width="550"/>
 </media>
 <caption>In these transmission electron micrographs, (a) a virus is dwarfed by the bacterial cell it infects, while (b) these <emphasis effect="italics">E. coli</emphasis> cells are dwarfed by cultured colon cells. (credit a: modification of work by U.S. Dept. of Energy, Office of Science, LBL, PBD; credit b: modification of work by J.P. Nataro and S. Sears, unpub. data, CDC; scale-bar data from Matt Russell)</caption></figure></section>
-<section id="fs-idp171269312" class="ost-tag-lo-apbio-ch21-s01-lo02 ost-tag-lo-apbio-ch21-s01-aplo-3-1 ost-get-exercise">
+<section id="fs-idp171269312" class="ost-tag-lo-apbio-ch21-s01-lo02 ost-tag-lo-apbio-ch21-s01-aplo-3-1">
 <title>Evolution of Viruses</title>
 <para id="fs-idp238382672">Although biologists have accumulated a significant amount of knowledge about how present-day viruses evolve, much less is known about how viruses originated in the first place. When exploring the evolutionary history of most organisms, scientists can look at fossil records and similar historic evidence. However, viruses do not fossilize, so researchers must conjecture by investigating how today’s viruses evolve and by using biochemical and genetic information to create speculative virus histories.</para>
 <para id="fs-idp158973648">While most findings agree that viruses don’t have a single common ancestor, scholars have yet to find a single hypothesis about virus origins that is fully accepted in the field. One such hypothesis, called devolution or the regressive hypothesis, proposes to explain the origin of viruses by suggesting that viruses evolved from free-living cells. However, many components of how this process might have occurred are a mystery. A second hypothesis (called escapist or the progressive hypothesis) accounts for viruses having either an RNA or a DNA genome and suggests that viruses originated from RNA and DNA molecules that escaped from a host cell. A third hypothesis posits a system of self-replication similar to that of other self-replicating molecules, likely evolving alongside the cells they rely on as hosts; studies of some plant pathogens support this hypothesis.</para>
 <para id="fs-idp299530592">As technology advances, scientists may develop and refine further hypotheses to explain the origin of viruses. The emerging field called virus molecular systematics attempts to do just that through comparisons of sequenced genetic material. These researchers hope to one day better understand the origin of viruses, a discovery that could lead to advances in the treatments for the ailments they produce.</para>
 </section>
-<section id="fs-idm9724192" class="ost-tag-lo-apbio-ch21-s01-lo03 ost-tag-lo-apbio-ch21-s01-aplo-3-1 ost-get-exercise">
+<section id="fs-idm9724192" class="ost-tag-lo-apbio-ch21-s01-lo03 ost-tag-lo-apbio-ch21-s01-aplo-3-1">
 <title>Viral Morphology</title>
 <para id="fs-idp194585840">Viruses are acellular, meaning they are biological entities that do not have a cellular structure. They therefore lack most of the components of cells, such as organelles, ribosomes, and the plasma membrane. A virion consists of a nucleic acid core, an outer protein coating or <emphasis>capsid</emphasis>, and sometimes an outer <emphasis>envelope</emphasis> made of protein and phospholipid membranes derived from the host cell. Viruses may also contain additional proteins, such as enzymes. The most obvious difference between members of viral families is their morphology, which is quite diverse. An interesting feature of viral complexity is that the complexity of the host does not correlate with the complexity of the virion. Some of the most complex virion structures are observed in bacteriophages, viruses that infect the simplest living organisms, bacteria.</para>
 <section id="fs-idp1736400" class="ost-tag-lo-apbio-ch21-s01-lo03 ost-tag-lo-apbio-ch21-s01-aplo-3-1">
@@ -111,7 +132,7 @@
 <para id="fs-idp163656544">RNA viruses contain only RNA as their genetic material. To replicate their genomes in the host cell, the RNA viruses encode enzymes that can replicate RNA into DNA, which cannot be done by the host cell. These RNA polymerase enzymes are more likely to make copying errors than DNA polymerases, and therefore often make mistakes during transcription. For this reason, mutations in RNA viruses occur more frequently than in DNA viruses. This causes them to change and adapt more rapidly to their host. Human diseases caused by RNA viruses include hepatitis C, measles, and rabies.</para>
 </section>
 </section>
-<section id="fs-idp55019536" class="ost-tag-lo-apbio-ch21-s01-lo04 ost-tag-lo-apbio-ch21-s01-aplo-3-1 ost-get-exercise">
+<section id="fs-idp55019536" class="ost-tag-lo-apbio-ch21-s01-lo04 ost-tag-lo-apbio-ch21-s01-aplo-3-1">
 <title>Virus Classification</title>
 <para id="fs-idp177454736">To understand the features shared among different groups of viruses, a classification scheme is necessary. As most viruses are not thought to have evolved from a common ancestor, however, the methods that scientists use to classify living things are not very useful. Biologists have used several classification systems in the past, based on the morphology and genetics of the different viruses. However, these earlier classification methods grouped viruses differently, based on which features of the virus they were using to classify them. The most commonly used classification method today is called the Baltimore classification scheme and is based on how messenger RNA (mRNA) is generated in each particular type of virus.</para>
 <section id="fs-idp106838944" class="ost-tag-lo-apbio-ch21-s01-lo04 ost-tag-lo-apbio-ch21-s01-aplo-3-1">
@@ -219,7 +240,7 @@
         </tbody>
 
 </tgroup>
-</table><figure id="fig-ch21_01_06" class="ost-tag-lo-apbio-ch21-s01-lo04"><media id="fs-idm42890784" alt="Micrograph a shows icosahedral polioviruses arranged in a grid; micrograph b shows two Epstein-Barr viruses with icosahedral capsids encased in an oval membrane; micrograph c shows a mumps virus capsid encased in an irregular membrane; micrograph d shows rectangular tobacco mosaic virus capsids; and micrograph e shows a spherical herpesvirus envelope studded with glycoproteins.">
+</table><figure id="fig-ch21_01_06"><media id="fs-idm42890784" alt="Micrograph a shows icosahedral polioviruses arranged in a grid; micrograph b shows two Epstein-Barr viruses with icosahedral capsids encased in an oval membrane; micrograph c shows a mumps virus capsid encased in an irregular membrane; micrograph d shows rectangular tobacco mosaic virus capsids; and micrograph e shows a spherical herpesvirus envelope studded with glycoproteins.">
 <image mime-type="image/jpg" src="../../media/Figure_21_01_06abcde.jpg" width="525"/>
 </media>
 <caption>Transmission electron micrographs of various viruses show their structures. The capsid of the (a) polio virus is naked icosahedral; (b) the Epstein-Barr virus capsid is enveloped icosahedral; (c) the mumps virus capsid is an enveloped helix; (d) the tobacco mosaic virus capsid is naked helical; and (e) the herpesvirus capsid is complex. (credit a: modification of work by Dr. Fred Murphy, Sylvia Whitfield; credit b: modification of work by Liza Gross; credit c: modification of work by Dr. F. A. Murphy, CDC; credit d: modification of work by USDA ARS; credit e: modification of work by Linda Stannard, Department of Medical Microbiology, University of Cape Town, South Africa, NASA; scale-bar data from Matt Russell)</caption></figure></section>
