@@ -44,7 +44,7 @@
 <emphasis>Relevant Equations</emphasis><newline/>
 Volume of a Sphere: <m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac><m:mi>π</m:mi><m:msup><m:mi>r</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math><newline/>
 Volume of a Cube: <m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:msup><m:mi>s</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:math><newline/>
-Volume of Rectangular Solid: <m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>l</m:mi><m:mi>w</m:mi>h<m:mi></m:mi></m:mrow></m:math><newline/>
+Volume of Rectangular Solid: <m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>l</m:mi><m:mi>w</m:mi><m:mi>h</m:mi></m:mrow></m:math><newline/>
 Volume of a Cylinder: <m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>π</m:mi><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mi>h</m:mi></m:mrow></m:math><newline/>
 Surface Area of a Cube: <m:math><m:mrow><m:mi>S</m:mi><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>6</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math><newline/>
 Surface Area of a Rectangular Solid: <m:math><m:mrow><m:mi>S</m:mi><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mi>l</m:mi><m:mi>h</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>l</m:mi><m:mi>w</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>w</m:mi><m:mi>h</m:mi></m:mrow></m:math> <newline/>
